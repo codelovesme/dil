@@ -5,10 +5,14 @@
 # Öz Türkçe filtresi üç hedefte de geçerlidir: alıntılar hiçbir zaman seçilmez.
 #
 #   agirlik   : basamak -> (ortalama büyüklük basamağı) x (dil sayısı ^ alfa)
+#                          alfa = 1 ise her dil sadece kendi basamağıyla tartılır;
+#                          ağacın şekli ağırlığı etkilemez
 #               soy     -> her ayrılıkta dallar eşit; nüfus hiç sayılmaz
 #               nufus   -> doğrudan konuşur sayısı
-#               (Bir dilin içinde ağızlar her hedefte (ağız sayısı ^ alfa) ile,
-#                soy hedefinde eşit tartılır.)
+#   agiz_alfa : bir dilin içinde ağızlar (ağız sayısı ^ agiz_alfa) ile tartılır
+#               (soy hedefinde ağızlar da eşit tartılır)
+#   yazi_dili_payi : bir dilin içinde yazı dilinin payı (ör. 0.5); ağızlar
+#               kalanı paylaşır. Boşsa yazı dili ağızlardan biri gibi sayılır.
 #   seffaf    : agac.yaml'daki şeffaf düğümleri (Ortak Türkçe) atla mı?
 #   olcu      : anlasilirlik -> biçim ne kadar tanıdık; yayilim -> kök ne kadar yaşıyor
 #   beta      : eskiliğin etkisi
@@ -27,7 +31,9 @@
   soru: Bütün Türk kavimleri birbirini anlasın.
   asil: true
   agirlik: basamak
-  alfa: 0.5
+  alfa: 1.0
+  agiz_alfa: 0.5
+  yazi_dili_payi: 0.5
   seffaf: true
   olcu: anlasilirlik
   beta: 0.2
@@ -51,7 +57,8 @@
   ad: En çok kişinin anladığı
   soru: En fazla insan anlasın.
   agirlik: nufus
-  alfa: 0.5
+  agiz_alfa: 0.5
+  yazi_dili_payi: 0.5
   seffaf: true
   olcu: anlasilirlik
   beta: 0.2

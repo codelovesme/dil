@@ -197,6 +197,8 @@ class Hedef:
         if self.agirlik not in AGIRLIK_TURLERI:
             sys.exit(f"hedefler.yaml: '{self.kod}' için bilinmeyen ağırlık türü '{self.agirlik}'")
         self.alfa = float(veri.get("alfa", 0.5))
+        self.agiz_alfa = float(veri.get("agiz_alfa", 0.5))
+        self.yazi_dili_payi: float | None = veri.get("yazi_dili_payi")  # None: ağızlardan biri gibi
         self.seffaf = bool(veri.get("seffaf", False))
         self.olcu: str = veri.get("olcu", "anlasilirlik")
         self.beta = float(veri.get("beta", 0.2))
@@ -218,16 +220,29 @@ def cocuk_agirligi(c: Dugum, h: Hedef) -> float:
     if h.agirlik == "soy":
         return c.carpan
     if c.dil_ici:  # ağızlar
-        return (c.yaprak_sayisi ** h.alfa) * c.carpan
+        return (c.yaprak_sayisi ** h.agiz_alfa) * c.carpan
     if h.agirlik == "nufus":
         return float(c.konusur_toplam) * c.carpan
     return (c.basamak_toplam / c.dil_sayisi) * (c.dil_sayisi ** h.alfa) * c.carpan
 
 
+def cocuk_agirliklari(dugum: Dugum, h: Hedef) -> list[tuple[Dugum, float]]:
+    """Çocuklar ve (normalleştirilmemiş) ağırlıkları.
+
+    Hedefin `yazi_dili_payi` varsa, bir dilin yazı dili o payı, ağızları toplamda
+    kalanını alır."""
+    cocuklar = [(c, cocuk_agirligi(c, h)) for c in dugum.tartim_cocuklari(h.seffaf)]
+    if h.yazi_dili_payi is not None and dugum.dil_mi and len(cocuklar) > 1:
+        agizlar = sum(w for c, w in cocuklar if not c.yazi_dili)
+        oran = h.yazi_dili_payi / (1 - h.yazi_dili_payi)
+        cocuklar = [(c, agizlar * oran if c.yazi_dili else w) for c, w in cocuklar]
+    return cocuklar
+
+
 def paylar(dugum: Dugum, h: Hedef) -> list[tuple[Dugum, float]]:
-    cocuklar = dugum.tartim_cocuklari(h.seffaf)
-    toplam = sum(cocuk_agirligi(c, h) for c in cocuklar)
-    return [(c, cocuk_agirligi(c, h) / toplam) for c in cocuklar]
+    cocuklar = cocuk_agirliklari(dugum, h)
+    toplam = sum(w for _, w in cocuklar)
+    return [(c, w / toplam) for c, w in cocuklar]
 
 
 def yaprak_agirliklari(dugum: Dugum, h: Hedef) -> dict[str, float]:
@@ -245,11 +260,10 @@ def ortalama(dugum: Dugum, deger, h: Hedef) -> float | None:
     if dugum.yaprak_mi:
         return deger(dugum.kod)
     pay = payda = 0.0
-    for c in dugum.tartim_cocuklari(h.seffaf):
+    for c, w in cocuk_agirliklari(dugum, h):
         s = ortalama(c, deger, h)
         if s is None:
             continue
-        w = cocuk_agirligi(c, h)
         pay += w * s
         payda += w
     return pay / payda if payda else None
@@ -643,7 +657,8 @@ def agirlik_raporu(agac: Dugum, h: Hedef, agizlar: bool, md: bool):
             f"en ağır dil: {en_agir.ad} %{100 * dil_agirlik[en_agir.kod]:.1f}   "
             f"en hafif dil: {en_hafif.ad} %{100 * dil_agirlik[en_hafif.kod]:.2f}   "
             f"(her dil eşit olsaydı: %{100 / len(diller):.1f})")
-    kural = {"basamak": f"(ortalama basamak) × (dil sayısı ^ {h.alfa})",
+    kural = {"basamak": ("basamak (her dil kendi basamağıyla)" if h.alfa == 1
+                         else f"(ortalama basamak) × (dil sayısı ^ {h.alfa})"),
              "soy": "her ayrılıkta dallar eşit",
              "nufus": "doğrudan konuşur sayısı"}[h.agirlik]
 

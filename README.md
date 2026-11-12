@@ -7,7 +7,7 @@ Aynı veriden üç hedefe cevap aranır:
 
 | Hedef | Soru | Ağırlık |
 |---|---|---|
-| **1. Ortak dil** (asıl ürün) | Bütün Türk kavimleri birbirini anlasın | Ağaç + büyüklük basamağı |
+| **1. Ortak dil** (asıl ürün) | Bütün Türk kavimleri birbirini anlasın | Her dil kendi büyüklük basamağıyla |
 | **2. Ana Türkçe tahmini** | Türkçenin en eski hâli neydi? | Soy: her ayrılıkta dallar eşit |
 | **3. En çok kişinin anladığı** | En fazla insan anlasın | Konuşur sayısı |
 

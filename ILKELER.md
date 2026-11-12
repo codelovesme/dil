@@ -14,7 +14,7 @@ dosyasındadır.
 |---|---|---|---|
 | **Soru** | Bütün Türk kavimleri birbirini anlasın | Türkçenin en eski hâli neydi? | En fazla insan anlasın |
 | **Ne sayılır** | Kavim / topluluk | Soy hattı (dal) | Kişi |
-| **Ağırlık** | Ağaç + büyüklük basamağı; altı kol yan yana | Her ayrılıkta dallar eşit (Oğur %50, Ortak Türkçe %50); nüfus sayılmaz | Doğrudan konuşur sayısı |
+| **Ağırlık** | Her dil kendi büyüklük basamağıyla (kavimler eşit, kalabalık ezemez) | Her ayrılıkta dallar eşit (Oğur %50, Ortak Türkçe %50); nüfus sayılmaz | Doğrudan konuşur sayısı |
 | **Ölçü** | Anlaşılırlık | Yayılım (kök hangi soy hatlarında yaşıyor) | Anlaşılırlık |
 | **Eskilik** | Küçük bonus (β = 0.2) | Ana ölçü kadar önemli (β = 1.0), Ana Türkçe tanıklığı dahil | Küçük bonus (β = 0.2) |
 | **Biçim** | En anlaşılır yaşayan biçim | Dalın en eski tanığının biçimi; yaşamasa da olur | En anlaşılır yaşayan biçim |
@@ -76,8 +76,11 @@ Türkiye Türkçesi
 ```
 
 Ağızları olan her dile otomatik olarak bir **"Yazı dili"** ağzı eklenir. Dilin
-kendi kodu (`tur`, `kaz`…) bu yazı dilini gösterir; o da ağızlardan biri gibi
-tartılır.
+kendi kodu (`tur`, `kaz`…) bu yazı dilini gösterir. Hedef 1 ve 3'te yazı dili
+dilin içinde **%50** pay alır, ağızlar kalan %50'yi paylaşır; çünkü anlaşılırlık
+açısından yazı dili o dili konuşan herkesin ortak paydasıdır. Hedef 2'de yazı
+dili ağızlardan biri gibi sayılır, çünkü eski biçimleri çoğu zaman ağızlar
+korur.
 
 ### Ağacı kurma kuralları
 
@@ -111,14 +114,16 @@ diyor, Rumeli ağızları ne diyor? Ağızlar birleşir ve Türkiye Türkçesind
 olması gerektiğine karar verilir. Diller birleşir ve Batı Oğuz için karar
 verilir. Bu böyle devam ederek en tepeye, ortak dile ulaşılır.
 
-**Her birleşimde** çocuklar şu oranda tartılır:
+**Her birleşimde** çocuklar şu oranda tartılır (Hedef 1):
 
 | Nerede? | Çocuğun ağırlığı |
 |---|---|
-| Dil düzeyinde ve **üstünde** (diller, dallar, kollar) | (dillerinin **ortalama basamağı**) × (dil sayısı) ^ α |
-| Bir dilin **içinde** (ağızlar, ağız grupları) | (ağız sayısı) ^ α |
+| Dil düzeyinde ve **üstünde** (diller, dallar, kollar) | altındaki dillerin **basamaklarının toplamı** |
+| Bir dilin **içinde** | yazı dili %50; ağızlar kalan %50'yi (ağız sayısı)^0.5 oranında paylaşır |
 
-α = 0.5. Tek bir dil için bu formül kısaca *basamağı* demektir.
+Yani Hedef 1'de her dil, ağaçta nerede durursa dursun, **sadece kendi
+basamağıyla** tartılır. Ağaç, kararların hangi sırayla birleştirildiğini
+belirler, ama bir dilin ağırlığını değiştirmez.
 
 ### Büyüklük basamağı: kişi sayısı sayılır ama ezemez
 
@@ -150,9 +155,19 @@ puan alır:
   için verdiği ~460 bin, Türkiye'deki Yörükleri de sayar. Biz onları Türkiye
   Türkçesinin ağzı olarak tuttuğumuz için burada sadece Balkan toplulukları
   ve Surguçlar (~11 bin) sayılır.
-- **Dil sayısı dal ağırlığını şişirmez.** Bir dalın ağırlığı, dillerinin
-  *ortalama* basamağı ile dil sayısının *kökünün* çarpımıdır. α = 1 olsaydı
-  çok dilli kollar kazanırdı, α = 0 olsaydı tek dilli Oğur ve Halaç kolları 17 dilli Kıpçak koluyla neredeyse eşit sayılırdı.
+- **Ağaçtaki yer ağırlığı değiştirmez.** Eskiden bir dalın ağırlığı
+  (ortalama basamak) × (dil sayısı)^0.5 idi. Bu durumda seyrek bir daldaki dil,
+  kalabalık bir daldakinden ağır çıkıyordu: 120 kişilik İli Türkçesi %2.0,
+  400 bin kişilik Kırım Tatarcası %1.4 alıyordu. Ayrıca ağırlıklar, tartışmalı
+  sınıflandırma kararlarına bağlı kalıyordu. Şimdi (α = 1) Türkiye Türkçesi,
+  Kazakça ve Özbekçe eşittir (üçü de basamak 8, %3.9); Kırım Tatarcası İli
+  Türkçesinin iki katıdır. Ağacın yapısı yalnızca Hedef 2'de, soyun önemli
+  olduğu yerde belirleyicidir.
+- **Küçük diller şişmez.** Basamak 2 alan en küçük altı dilin toplamı %6'dır,
+  yani bir buçuk büyük dil kadar. Bunun bedeli, kolların kavim sayısına göre
+  ağırlık almasıdır (14 kavimli Kıpçak kolu %37, 3 kavimli Karluk kolu %9). Bu,
+  "herkes anlasın" hedefine uygundur: daha çok kavim anlıyorsa daha çok
+  ağırlık.
 - **Tesadüfi eşitlik olmaz.** Basamak olmadan bütün diller 1 birim
   sayılıyordu. O zaman ağırlığı sadece ağacın şekli belirliyordu ve simetrik
   bir dalda (ör. 3 grup × 3 dilden oluşan Oğuz kolu) Türkiye Türkçesi
@@ -161,9 +176,9 @@ puan alır:
 ### Ağızlar ağırlığı değiştirmez
 
 **Bir dilin kaç ağzının yazıldığı, o dilin ve kolunun ağırlığını
-değiştirmez.** Türkiye Türkçesinin 13 ağızlı olması ile Kırımçakçanın ağızsız
-olması, ikisinin kendi dalları içindeki paylarını etkilemez. Ağızlar sadece
-kendi dillerinin içinde neyin seçileceğini belirler.
+değiştirmez.** Türkiye Türkçesinin 12 ağızlı olması ile Kırımçakçanın ağızsız
+olması, ikisinin ağırlıklarını etkilemez. Ağızlar sadece kendi dillerinin
+içinde neyin seçileceğini belirler.
 
 Bütün ağırlıklar [`AGIRLIKLAR.md`](AGIRLIKLAR.md) dosyasındadır. Ağaç
 değişince yeniden üretilir:
@@ -182,23 +197,19 @@ farklı tartar:
 
 | Kol | 1. Ortak dil | 2. Ana Türkçe | 3. En çok kişi |
 |---|---|---|---|
-| Oğur (Çuvaşça) | %8.1 | %50 | %0.4 |
-| Halaç | %6.8 | %10 | %0.02 |
-| Oğuz | %26.1 | %10 | %62.3 |
-| Kıpçak | %27.4 | %10 | %13.2 |
-| Karluk | %14.8 | %10 | %23.7 |
-| Sibirya | %16.8 | %10 | %0.4 |
+| Oğur (Çuvaşça) | %2.9 | %50 | %0.4 |
+| Halaç | %2.4 | %10 | %0.02 |
+| Oğuz | %28.0 | %10 | %62.3 |
+| Kıpçak | %36.7 | %10 | %13.1 |
+| Karluk | %9.2 | %10 | %23.7 |
+| Sibirya | %20.8 | %10 | %0.4 |
 
 Tam tablolar [`AGIRLIKLAR.md`](AGIRLIKLAR.md) dosyasındadır.
 
-**Hedef 1'de altı kol yan yana tartılır.** Ortak Türkçe düğümü şeffaftır
-(`seffaf: true`): soy bilgisi olarak ağaçta durur, ama Hedef 1 ve 3'te ağırlık
-hesabında atlanır. Böylece Çuvaşça, anlaşılması gereken bir topluluk olarak
-sıradan bir dil gibi tartılır: yaklaşık 740 bin konuşur, basamak 6.
-
-Oğur ve Halaç kolları tek dille temsil edildikleri için tek tek dillerden yine de
-ağırdır. Bu bilinçli bir tercihtir: kol bir kavimler grubudur ve tek dille
-temsil edilmesi sesini kısmak için bir sebep değildir.
+**Hedef 1'de her dil kendi basamağıyla tartılır.** Çuvaşça, anlaşılması
+gereken bir topluluk olarak sıradan bir dildir: yaklaşık 740 bin konuşur,
+basamak 6, ağırlık %2.9. Ortak Türkçe düğümü şeffaftır (`seffaf: true`): soy
+bilgisi olarak ağaçta durur, Hedef 1 ve 3'te ağırlık hesabında atlanır.
 
 **Hedef 2'de ağaç olduğu gibi tartılır.** Burada soru topluluk değil soydur.
 Türk dillerinin ilk ayrılığı Oğur ile Ortak Türkçe arasında olduğu için Çuvaşça
@@ -405,7 +416,9 @@ dosyasında tutulur. Komut satırından seçili hedef için değiştirilebilir
 | Parametre | 1. Ortak dil | 2. Ana Türkçe | 3. En çok kişi | Anlamı |
 |---|---|---|---|---|
 | ağırlık | basamak | soy | nüfus | Dillerin ve dalların nasıl tartıldığı (§3) |
-| α (`--alfa`) | 0.5 | — | 0.5 (ağızlar) | Dil/ağız sayısının ağırlığa etkisi |
+| α (`--alfa`) | 1.0 | — | — | Dil sayısının dal ağırlığına etkisi (1: her dil kendi basamağıyla) |
+| ağız α | 0.5 | — | 0.5 | Ağız sayısının dil içindeki ağırlığa etkisi |
+| yazı dili payı | %50 | ağız gibi | %50 | Yazı dilinin dil içindeki payı |
 | β (`--beta`) | 0.2 | 1.0 | 0.2 | Eskiliğin etkisi |
 | taban (`--taban`) | 0.5 | — | 0.5 | Aynı kökten ama sesleri farklı bir biçimin temel tanıdıklığı |
 | eşik (`--esik`) | 0.5 | — | 0.5 | Bu yayılımın altındaki kökler "canlandırma" sayılır |
