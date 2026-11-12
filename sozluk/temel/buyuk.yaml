@@ -3,7 +3,7 @@ ingilizce: big
 dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
 kokler:
   - kok: uluğ
-    eski_turkce: uluğ
+    tarihi: { otk: uluğ }
     koken: türkçe
     kaynak: Orhon yazıtları; DLT
     bicimler:
@@ -21,7 +21,7 @@ kokler:
       kjh: uluğ
       alt: ulu
   - kok: bedük
-    eski_turkce: bedük
+    tarihi: { otk: bedük }
     koken: türkçe
     kaynak: Eski Uygurca; DLT
     bicimler:

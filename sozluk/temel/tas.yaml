@@ -3,7 +3,7 @@ ingilizce: stone
 dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
 kokler:
   - kok: taş
-    eski_turkce: taş
+    tarihi: { otk: taş }
     koken: türkçe
     kaynak: Orhon yazıtları; DLT; Clauson 1972
     not: Çuvaşça çul, Oğur kolundaki ş > l denkliğiyle aynı kökten.

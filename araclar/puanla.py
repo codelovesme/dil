@@ -11,13 +11,14 @@ Kullanım:
 Yöntem ILKELER.md'de anlatılıyor. Kısaca:
   * Her düğümün çocukları arasındaki ağırlık  (yaprak_sayısı ** alfa).
     alfa=0 -> her dal eşit, alfa=1 -> her dil eşit.
-  * Bir kökün bir düğümdeki yayılımı = çocuklarının yayılımının ağırlıklı
-    ortalaması (verisi olmayan çocuklar hesaba katılmaz).
-  * Puan = yayılım + beta * (Eski Türkçede tanıklanmış mı).
+  * Yayılım: kökün yaşayan dillerdeki ağırlıklı ortalaması (verisi olmayan
+    diller hesaba katılmaz).
+  * Eskilik: kökü kaydeden tarihî tanıkların ağırlıklı oranı (tarihi.yaml).
+  * Puan = yayılım + beta * eskilik.
   * Sadece kökeni "türkçe" olan kökler seçilebilir.
-  * Kökten yapraklara doğru her düğüm kendi en iyi kökünü seçer; ama bir üst
-    düğümün seçimi, en iyi seçenekten en fazla `delta` geride ise korunur
-    (süreklilik payı).
+  * Kökten yapraklara doğru her düğüm kendi en iyi kökünü seçer; ama üst
+    düğümün seçimi en iyi seçenekten en fazla `delta` geride ise korunur.
+  * En tepedeki biçim: en eski tanığın biçimine en yakın YAŞAYAN biçim.
 """
 
 from __future__ import annotations
@@ -34,6 +35,7 @@ except ImportError:  # pragma: no cover
 
 KOK_DIZIN = Path(__file__).resolve().parent.parent
 AGAC_DOSYASI = KOK_DIZIN / "agac.yaml"
+TARIHI_DOSYASI = KOK_DIZIN / "tarihi.yaml"
 SOZLUK_DIZIN = KOK_DIZIN / "sozluk"
 
 VARSAYILAN_ALFA = 0.5
@@ -67,6 +69,12 @@ class Dugum:
         for c in self.alt:
             yield from c.tum_dugumler()
 
+    def ustler(self):
+        d = self.ust
+        while d is not None:
+            yield d
+            d = d.ust
+
 
 def agac_yukle() -> Dugum:
     with open(AGAC_DOSYASI, encoding="utf-8") as f:
@@ -95,23 +103,53 @@ def yaprak_agirliklari(dugum: Dugum, alfa: float) -> dict[str, float]:
     return sonuc
 
 
+# ------------------------------------------------------- tarihî tanıklar
+
+class Tanik:
+    def __init__(self, veri: dict, dal: Dugum):
+        self.ad: str = veri["ad"]
+        self.kod: str = veri["kod"]
+        self.dal = dal
+        self.agirlik = float(veri.get("agirlik", 1.0))
+        self.sira = int(veri.get("sira", 99))
+
+    def ilgili(self, dugum: Dugum) -> bool:
+        """Bu tanık, `dugum`de verilen kararda sayılır mı?"""
+        return (self.dal is dugum
+                or self.dal in dugum.ustler()      # tanık daha geniş bir dala ait
+                or dugum in self.dal.ustler())     # tanık bir alt dala ait
+
+
+def taniklari_yukle(agac: Dugum) -> list[Tanik]:
+    dugumler = {d.kod: d for d in agac.tum_dugumler()}
+    with open(TARIHI_DOSYASI, encoding="utf-8") as f:
+        veri = yaml.safe_load(f) or []
+    taniklar = []
+    for t in veri:
+        if t["dal"] not in dugumler:
+            sys.exit(f"tarihi.yaml: '{t['kod']}' için bilinmeyen dal '{t['dal']}'")
+        taniklar.append(Tanik(t, dugumler[t["dal"]]))
+    return sorted(taniklar, key=lambda t: t.sira)
+
+
 # --------------------------------------------------------------- sözlük
+
+def _bicim_oku(deger) -> tuple[str, float]:
+    if isinstance(deger, dict):
+        return str(deger["bicim"]), float(deger.get("tercih", 1.0))
+    return str(deger), 1.0
+
 
 class Kok:
     """Bir kavramın aday kökü (etimonu)."""
 
     def __init__(self, veri: dict):
         self.kimlik: str = str(veri["kok"])
-        self.eski_turkce: str | None = veri.get("eski_turkce") or None
         self.koken: str = str(veri.get("koken", "belirsiz"))
         self.kaynak: str = str(veri.get("kaynak", ""))
         self.not_: str = str(veri.get("not", ""))
-        self.bicimler: dict[str, tuple[str, float]] = {}
-        for dil, deger in (veri.get("bicimler") or {}).items():
-            if isinstance(deger, dict):
-                self.bicimler[dil] = (str(deger["bicim"]), float(deger.get("tercih", 1.0)))
-            else:
-                self.bicimler[dil] = (str(deger), 1.0)
+        self.bicimler = {d: _bicim_oku(v) for d, v in (veri.get("bicimler") or {}).items()}
+        self.tarihi = {d: _bicim_oku(v)[0] for d, v in (veri.get("tarihi") or {}).items()}
 
     @property
     def secilebilir(self) -> bool:
@@ -125,15 +163,18 @@ class Kavram:
         self.ingilizce: str = veri.get("ingilizce", "")
         self.dogrulandi: bool = bool(veri.get("dogrulandi", False))
         self.kokler = [Kok(k) for k in veri.get("kokler", [])]
+        # Bu kavram için araştırılmış diller: bir kökte biçimi olanlar + `yok` listesi
         self.bilinen_diller: set[str] = set(veri.get("yok") or [])
+        self.bilinen_taniklar: set[str] = set(veri.get("tarihi_yok") or [])
         for k in self.kokler:
             self.bilinen_diller |= set(k.bicimler)
+            self.bilinen_taniklar |= set(k.tarihi)
 
     def kok(self, kimlik: str) -> Kok:
         return next(k for k in self.kokler if k.kimlik == kimlik)
 
 
-def kavramlari_yukle(secilenler: list[str], agac: Dugum) -> list[Kavram]:
+def kavramlari_yukle(secilenler: list[str], agac: Dugum, taniklar: list[Tanik]) -> list[Kavram]:
     dosyalar = sorted(SOZLUK_DIZIN.rglob("*.yaml"))
     if secilenler:
         dosyalar = [d for d in dosyalar if d.stem in secilenler]
@@ -141,13 +182,15 @@ def kavramlari_yukle(secilenler: list[str], agac: Dugum) -> list[Kavram]:
         if bulunamayan:
             sys.exit(f"Bulunamayan kavram dosyaları: {sorted(bulunamayan)}")
     gecerli_diller = {y.kod for y in agac.yapraklar()}
+    gecerli_taniklar = {t.kod for t in taniklar}
     kavramlar = []
     for d in dosyalar:
         with open(d, encoding="utf-8") as f:
             kv = Kavram(d, yaml.safe_load(f))
-        bilinmeyen = kv.bilinen_diller - gecerli_diller
-        if bilinmeyen:
+        if bilinmeyen := kv.bilinen_diller - gecerli_diller:
             sys.exit(f"{d.name}: agac.yaml'da olmayan dil kodları: {sorted(bilinmeyen)}")
+        if bilinmeyen := kv.bilinen_taniklar - gecerli_taniklar:
+            sys.exit(f"{d.name}: tarihi.yaml'da olmayan tanık kodları: {sorted(bilinmeyen)}")
         kavramlar.append(kv)
     return kavramlar
 
@@ -171,42 +214,80 @@ def yayilim(dugum: Dugum, kok: Kok, kavram: Kavram, alfa: float) -> float | None
     return pay / payda if payda else None
 
 
+def eskilik(dugum: Dugum, kok: Kok, kavram: Kavram, taniklar: list[Tanik]) -> float:
+    """Kökü kaydeden ilgili tarihî tanıkların ağırlıklı oranı (0..1)."""
+    pay = payda = 0.0
+    for t in taniklar:
+        if t.kod in kavram.bilinen_taniklar and t.ilgili(dugum):
+            payda += t.agirlik
+            if t.kod in kok.tarihi:
+                pay += t.agirlik
+    return pay / payda if payda else 0.0
+
+
 def kapsama(dugum: Dugum, kavram: Kavram, alfa: float) -> float:
     """Düğümün ağırlığının ne kadarı için veri var (0..1)."""
     w = yaprak_agirliklari(dugum, alfa)
     return sum(v for k, v in w.items() if k in kavram.bilinen_diller)
 
 
-def puan(dugum, kok, kavram, alfa, beta) -> float | None:
-    y = yayilim(dugum, kok, kavram, alfa)
-    if y is None:
-        return None
-    return y + (beta if kok.eski_turkce else 0.0)
-
-
-def baskin_bicim(dugum: Dugum, kok: Kok, alfa: float, delta: float,
-                 ust_bicim: str | None) -> str | None:
-    """Kökün düğüm altındaki dillerde ağırlıkça en yaygın biçimi.
-
-    Üst düğümün biçimi, en yaygın biçimden en fazla `delta` geride ise korunur
-    (biçimde de süreklilik payı) — böylece dallar ses farkları yüzünden
-    gereksiz yere parçalanmaz.
-    """
+def bicim_destegi(dugum: Dugum, kok: Kok, alfa: float) -> dict[str, float]:
+    """Düğüm altındaki her biçimin (toplamı 1 olan) ağırlıklı desteği."""
     sayac: dict[str, float] = defaultdict(float)
     for dil, w in yaprak_agirliklari(dugum, alfa).items():
         if dil in kok.bicimler:
             bicim, tercih = kok.bicimler[dil]
             sayac[bicim] += w * tercih
-    if not sayac:
-        return None
     toplam = sum(sayac.values())
-    en_iyi, en_iyi_pay = max(sayac.items(), key=lambda kv: (kv[1], kv[0]))
-    if ust_bicim in sayac and (en_iyi_pay - sayac[ust_bicim]) / toplam < delta:
+    return {b: v / toplam for b, v in sayac.items()} if toplam else {}
+
+
+def baskin_bicim(dugum, kok, alfa, delta, ust_bicim) -> str | None:
+    """En yaygın biçim; üst düğümün biçimi `delta`'dan az gerideyse o korunur."""
+    destek = bicim_destegi(dugum, kok, alfa)
+    if not destek:
+        return None
+    en_iyi = max(destek, key=lambda b: (destek[b], b))
+    if ust_bicim in destek and destek[en_iyi] - destek[ust_bicim] < delta:
         return ust_bicim
     return en_iyi
 
 
+def mesafe(a: str, b: str) -> int:
+    """Levenshtein mesafesi."""
+    onceki = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        simdiki = [i]
+        for j, cb in enumerate(b, 1):
+            simdiki.append(min(onceki[j] + 1, simdiki[j - 1] + 1, onceki[j - 1] + (ca != cb)))
+        onceki = simdiki
+    return onceki[-1]
+
+
+def en_eski_bicim(kok: Kok, taniklar: list[Tanik]) -> str | None:
+    for t in taniklar:  # sıraya göre
+        if t.kod in kok.tarihi:
+            return kok.tarihi[t.kod]
+    return None
+
+
+def tepe_bicimi(dugum, kok, alfa, taniklar) -> str:
+    """En eski tanığın biçimine en yakın yaşayan biçim (eşitlikte en yaygını)."""
+    destek = bicim_destegi(dugum, kok, alfa)
+    eski = en_eski_bicim(kok, taniklar)
+    if not destek:
+        return eski or kok.kimlik
+    if eski is None:
+        return max(destek, key=lambda b: (destek[b], b))
+    return min(destek, key=lambda b: (mesafe(b, eski), -destek[b], b))
+
+
 # -------------------------------------------------------------- seçim
+
+class Ayar:
+    def __init__(self, alfa, beta, delta, taniklar):
+        self.alfa, self.beta, self.delta, self.taniklar = alfa, beta, delta, taniklar
+
 
 class Secim:
     def __init__(self, dugum, kok, bicim, puanlar, miras, gunluk=None):
@@ -219,17 +300,21 @@ class Secim:
         self.alt: list[Secim] = []
 
 
-def sec(dugum: Dugum, kavram: Kavram, alfa, beta, delta, ust: Secim | None = None) -> Secim:
+def puan(dugum, kok, kavram, a: Ayar) -> float | None:
+    y = yayilim(dugum, kok, kavram, a.alfa)
+    if y is None:
+        return None
+    return y + a.beta * eskilik(dugum, kok, kavram, a.taniklar)
+
+
+def sec(dugum: Dugum, kavram: Kavram, a: Ayar, ust: Secim | None = None) -> Secim:
     puanlar: dict[str, float] = {}
     for k in kavram.kokler:
-        if not k.secilebilir:
-            continue
-        y = yayilim(dugum, k, kavram, alfa)
-        if y:  # None ya da 0 değil
-            puanlar[k.kimlik] = y + (beta if k.eski_turkce else 0.0)
+        if k.secilebilir and yayilim(dugum, k, kavram, a.alfa):  # None ya da 0 değil
+            puanlar[k.kimlik] = puan(dugum, k, kavram, a)
 
     gunluk = None
-    if dugum.yaprak_mi and dugum.kod in kavram.bilinen_diller:
+    if dugum.yaprak_mi:
         adaylar = [(k.bicimler[dugum.kod][1], k.bicimler[dugum.kod][0])
                    for k in kavram.kokler if dugum.kod in k.bicimler]
         gunluk = max(adaylar)[1] if adaylar else None
@@ -241,18 +326,19 @@ def sec(dugum: Dugum, kavram: Kavram, alfa, beta, delta, ust: Secim | None = Non
     else:
         en_iyi = max(puanlar, key=lambda k: (puanlar[k], k))
         if ust is not None and ust.kok.kimlik in puanlar:
-            if puanlar[en_iyi] - puanlar[ust.kok.kimlik] < delta:
+            if puanlar[en_iyi] - puanlar[ust.kok.kimlik] < a.delta:
                 en_iyi = ust.kok.kimlik
         kok = kavram.kok(en_iyi)
-        if ust is None:  # en tepe: Eski Türkçe biçim
-            bicim = kok.eski_turkce or kok.kimlik
+        if ust is None:
+            bicim = tepe_bicimi(dugum, kok, a.alfa, a.taniklar)
         elif dugum.yaprak_mi:
             bicim = kok.bicimler[dugum.kod][0]
         else:
-            bicim = baskin_bicim(dugum, kok, alfa, delta, ust.bicim) or ust.bicim
+            ust_bicim = ust.bicim if ust.kok is kok else None
+            bicim = baskin_bicim(dugum, kok, a.alfa, a.delta, ust_bicim) or ust.bicim
         s = Secim(dugum, kok, bicim, puanlar, miras=False, gunluk=gunluk)
 
-    s.alt = [sec(c, kavram, alfa, beta, delta, s) for c in dugum.alt]
+    s.alt = [sec(c, kavram, a, s) for c in dugum.alt]
     return s
 
 
@@ -261,8 +347,7 @@ def sec(dugum: Dugum, kavram: Kavram, alfa, beta, delta, ust: Secim | None = Non
 def yazdir(s: Secim, derinlik: int, seviye: int = 0, ust: Secim | None = None):
     if derinlik >= 0 and seviye > derinlik:
         return
-    girinti = "  " * seviye
-    etiket = f"{girinti}{s.dugum.ad}"
+    etiket = "  " * seviye + s.dugum.ad
     satir = f"{etiket:<42} {s.bicim:<14}"
     notlar = []
     if ust is not None and s.kok is not ust.kok:
@@ -273,25 +358,29 @@ def yazdir(s: Secim, derinlik: int, seviye: int = 0, ust: Secim | None = None):
         notlar.append(f"günlük: {s.gunluk}")
     if notlar:
         satir += "  ← " + "; ".join(notlar)
-    print(satir)
+    print(satir.rstrip())
     for c in s.alt:
         yazdir(c, derinlik, seviye + 1, s)
 
 
-def kavram_raporu(kv: Kavram, agac: Dugum, alfa, beta, delta, derinlik):
+def kavram_raporu(kv: Kavram, agac: Dugum, a: Ayar, derinlik: int):
     durum = "doğrulandı" if kv.dogrulandi else "DOĞRULANMADI"
     print("=" * 78)
-    print(f"{kv.ad}  ({kv.ingilizce})  [{durum}]  kapsama: %{100 * kapsama(agac, kv, alfa):.0f}")
+    print(f"{kv.ad}  ({kv.ingilizce})  [{durum}]  "
+          f"yaşayan dil kapsaması: %{100 * kapsama(agac, kv, a.alfa):.0f}  "
+          f"tarihî tanık: {len(kv.bilinen_taniklar)}/{len(a.taniklar)}")
     print("-" * 78)
     print("Adaylar (en tepede):")
-    for k in sorted(kv.kokler, key=lambda k: -(puan(agac, k, kv, alfa, beta) or 0)):
-        y = yayilim(agac, k, kv, alfa) or 0.0
-        p = puan(agac, k, kv, alfa, beta) or 0.0
-        eski = f"ET: {k.eski_turkce}" if k.eski_turkce else "ET: —"
+    for k in sorted(kv.kokler, key=lambda k: -(puan(agac, k, kv, a) or 0)):
+        y = yayilim(agac, k, kv, a.alfa) or 0.0
+        e = eskilik(agac, k, kv, a.taniklar)
+        p = puan(agac, k, kv, a) or 0.0
+        tarihi = ", ".join(f"{t}: {b}" for t, b in k.tarihi.items()) or "—"
         uygun = "" if k.secilebilir else f"  (seçilemez: köken={k.koken})"
-        print(f"  {k.kimlik:<10} yayılım {y:5.2f}  puan {p:5.2f}  {eski}{uygun}")
+        print(f"  {k.kimlik:<10} yayılım {y:4.2f}  eskilik {e:4.2f}  puan {p:4.2f}  "
+              f"[{tarihi}]{uygun}")
     print()
-    yazdir(sec(agac, kv, alfa, beta, delta), derinlik)
+    yazdir(sec(agac, kv, a), derinlik)
     print()
 
 
@@ -320,14 +409,16 @@ def main():
     ap.add_argument("--delta", type=float, default=VARSAYILAN_DELTA)
     ap.add_argument("--derinlik", type=int, default=-1, help="gösterilecek en derin seviye (-1: tümü)")
     ap.add_argument("--agirliklar", action="store_true", help="dil ağırlıklarını göster ve çık")
-    a = ap.parse_args()
+    args = ap.parse_args()
 
     agac = agac_yukle()
-    if a.agirliklar:
-        agirlik_raporu(agac, a.alfa)
+    if args.agirliklar:
+        agirlik_raporu(agac, args.alfa)
         return
-    for kv in kavramlari_yukle(a.kavramlar, agac):
-        kavram_raporu(kv, agac, a.alfa, a.beta, a.delta, a.derinlik)
+    taniklar = taniklari_yukle(agac)
+    ayar = Ayar(args.alfa, args.beta, args.delta, taniklar)
+    for kv in kavramlari_yukle(args.kavramlar, agac, taniklar):
+        kavram_raporu(kv, agac, ayar, args.derinlik)
 
 
 if __name__ == "__main__":

@@ -3,7 +3,7 @@ ingilizce: mountain
 dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
 kokler:
   - kok: tağ
-    eski_turkce: tağ
+    tarihi: { otk: tağ }
     koken: türkçe
     kaynak: Orhon yazıtları; DLT; Clauson 1972
     bicimler:
@@ -26,7 +26,7 @@ kokler:
       kjh: tağ
       alt: tuu
   - kok: kaya
-    eski_turkce: kaya
+    tarihi: { otk: kaya }
     koken: türkçe
     kaynak: DLT
     not: Eski Türkçede ve çoğu dilde "kaya" anlamında; "dağ" anlamında Sahacada.

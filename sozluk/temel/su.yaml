@@ -3,7 +3,7 @@ ingilizce: water
 dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
 kokler:
   - kok: sub
-    eski_turkce: sub
+    tarihi: { otk: sub }
     koken: türkçe
     kaynak: Orhon yazıtları; DLT; Clauson 1972
     bicimler:

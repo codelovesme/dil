@@ -66,6 +66,38 @@ python3 araclar/puanla.py --agirliklar
 Gerekirse bir düğüme `agirlik_carpani` verilerek elle düzeltme yapılabilir, ama
 bu istisna olmalı ve gerekçesi yazılmalıdır.
 
+### Çuvaşçanın %14.8'i neden düzeltilmiyor?
+
+Çuvaşça tek başına bir dil gibi görünür, ama aslında Ortak Türkçeden önce
+ayrılmış bütün bir ana kolun (Oğur) tek yaşayan temsilcisidir. Ağırlığı bu yüzden
+yüksek. Bu bilinçli bir karardır:
+
+- **Tek başına kazanamaz.** Ortak Türkçe %85 ağırlığa sahip. Çuvaşça ancak öteki
+  diller iki kök arasında neredeyse eşit bölündüğünde sonucu belirler.
+- **Bu, istediğimiz şeydir.** Hem Çuvaşçada hem Ortak Türkçede bulunan bir kök,
+  büyük olasılıkla Ana Türkçeye kadar uzanır. Başa baş durumda eskiden yana karar
+  vermek, eskilik ilkesinin ta kendisidir.
+
+## 3a. Tarihî tanıklar
+
+Yaşayan diller bir kelimenin **bugünkü** yayılımını ölçer. Tarihî diller ise
+**eskiliğini** ölçer. Bunlar [`tarihi.yaml`](tarihi.yaml) dosyasında tutulur ve
+her biri ağaçtaki bir dala bağlıdır:
+
+| Tanık | Dal | Ağırlık |
+|---|---|---|
+| Eski Türkçe (Göktürk, Uygur), 7.–11. yy | Ortak Türkçe | 3 |
+| Karahanlıca (DLT, Kutadgu Bilig), 11.–12. yy | Ortak Türkçe | 2 |
+| Volga Bulgarcası, 10.–14. yy | Oğur | 1 |
+| Kuman-Kıpçakça, 13.–15. yy | Kıpçak | 1 |
+| Eski Anadolu Türkçesi, 13.–15. yy | Oğuz | 1 |
+| Harezm Türkçesi ve Çağatayca, 14.–19. yy | Karluk | 1 |
+
+Tarihî diller yaşayan dillerin ağırlığını **değiştirmez**. Bir düğümde karar
+verilirken o düğümün kendi tanıkları ile üst ve alt düğümlerinin tanıkları
+sayılır. Örneğin Oğuz kolunda Eski Türkçe, Karahanlıca ve Eski Anadolu Türkçesi
+sayılır, ama Kuman-Kıpçakça sayılmaz.
+
 ## 4. Kök ve biçim
 
 Her kavram için birden çok **aday kök** (etimon) olabilir. Örneğin "büyük" için:
@@ -77,7 +109,7 @@ Her kök kaydında şunlar bulunur:
 | Alan | Açıklama |
 |---|---|
 | `kok` | Kökün kimliği |
-| `eski_turkce` | Eski Türkçedeki biçimi (Orhon, Uygur, DLT). Tanıklanmamışsa boş |
+| `tarihi` | Tarihî tanık kodu → biçim (ör. `{ otk: tağ, xqa: tağ, qwm: taw }`) |
 | `koken` | `türkçe`, `alıntı:<dil>` veya `belirsiz` |
 | `kaynak` | Dayanak |
 | `bicimler` | Dil kodu → biçim. Eş anlamlılar için `tercih` (aşağıya bakın) |
@@ -95,8 +127,11 @@ Her kök kaydında şunlar bulunur:
 Bir kökün bir düğümdeki **yayılımı**, çocuklarının yayılımlarının ağırlıklı
 ortalamasıdır. Bir yaprakta (dilde) yayılım o dildeki `tercih` değeridir.
 
+Bir kökün bir düğümdeki **eskiliği**, o düğümde sayılan tarihî tanıklardan
+kökü kaydedenlerin ağırlıklı oranıdır (0–1).
+
 ```
-puan = yayılım + β · (Eski Türkçede tanıklanmış mı ? 1 : 0)        β = 0.2
+puan = yayılım + β · eskilik        β = 0.2
 ```
 
 - **Eleme:** Sadece `koken: türkçe` olan kökler seçilebilir. `belirsiz` olanlar
@@ -104,11 +139,17 @@ puan = yayılım + β · (Eski Türkçede tanıklanmış mı ? 1 : 0)        β 
 - **Eksik veri ≠ yok:** Bir dil için hiç veri girilmemişse o dil hesaba
   katılmaz (ortalamadan çıkar). Veri girilmiş ama o kök kullanılmıyorsa 0 sayılır.
   Her raporda verinin ağacın yüzde kaçını kapsadığı (`kapsama`) gösterilir.
+  Bir dil araştırılmış ama kavram için hiçbir aday kökü kullanmıyorsa kavram
+  dosyasındaki `yok` listesine yazılır. Tarihî tanıklar için de aynısı geçerli:
+  araştırılmış ama kelime bulunamamışsa `tarihi_yok` listesine yazılır.
 
 ## 6. Seçim: ağaç boyunca yukarıdan aşağıya
 
 1. **En tepe (Türk dilleri):** En yüksek puanlı Türkçe kök seçilir. Biçimi,
-   **Eski Türkçe biçimdir**.
+   **en eski tanığın biçimine en yakın yaşayan biçimdir**. Bugün kimsenin
+   konuşmadığı bir biçim seçilmez: Eski Türkçe *sub* için *su*, *tağ* için
+   *tağ* (Uygurca ve Hakasçada yaşıyor) seçilir. Yakınlık harf mesafesiyle
+   ölçülür, eşitlikte daha yaygın biçim kazanır.
 2. **Her dal:** Kendi alt ağacına göre en iyi kökü yeniden hesaplar.
    - Üst dalın kökü, en iyi seçenekten **δ'dan az geride** ise korunur
      (**süreklilik payı**, δ = 0.15). Böylece dil gereksiz yere parçalanmaz,
@@ -149,5 +190,5 @@ kaynaklar:
 | Parametre | Varsayılan | Anlamı |
 |---|---|---|
 | α (`--alfa`) | 0.5 | Dil sayısının dal ağırlığına etkisi |
-| β (`--beta`) | 0.2 | Eski Türkçe tanıklık bonusu |
+| β (`--beta`) | 0.2 | Eskilik (tarihî tanıklık) bonusu |
 | δ (`--delta`) | 0.15 | Süreklilik payı (kök ve biçim) |

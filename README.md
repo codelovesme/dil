@@ -6,7 +6,7 @@ Türkçe** kelimelere dayanan ortak bir dil oluşturma çalışması.
 - Kelimeler nüfusa göre değil, **Türk dilleri ağacındaki yayılımlarına** göre
   seçilir. Hiçbir topluluk, kalabalığıyla veya içindeki dil sayısıyla diğerlerini
   ezemez.
-- En tepede tek bir ortak kelime (Eski Türkçe biçimiyle) seçilir. Ağaç dallandıkça
+- En tepede tek bir ortak kelime seçilir: Eski Türkçe biçime en yakın yaşayan biçim. Ağaç dallandıkça
   her dal, gerekirse kendi eş anlamlısını ve kendi ses biçimini alır. En altta her
   dilin günlük kullandığı biçim de not edilir.
 
@@ -16,10 +16,15 @@ Ayrıntılar: **[ILKELER.md](ILKELER.md)**
 
 ```
 ILKELER.md          kriterler ve kurallar
-agac.yaml           Türk dilleri ağacı (34 dil)
+agac.yaml           Türk dilleri ağacı (34 yaşayan dil)
+tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
 sozluk/temel/       temel söz varlığı: her kavram için bir dosya
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
+.claude/skills/kelime-arastir/   bir kelimeyi araştırma yöntemi ve şablon
 ```
+
+Yeni kelime eklemek için Claude'a "*göz kelimesini araştır*" demek yeterli.
+Araştırma `kelime-arastir` yöntemine göre yapılır.
 
 ## Kullanım
 
