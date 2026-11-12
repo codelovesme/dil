@@ -45,7 +45,7 @@ sozluk/kok/         tanıklı sözlük: her kök için tanıklar (.yaml) ve okun
 sozluk/SOZLUK.md    sözlük dizini ve kapsam tablosu (üretilir)
 araclar/sozluk.py   sözlük: doğrulama, kapsam, sayfa üretimi
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
-uygulama/PLAN.md    ayrı çalışan Euglena uygulamaları (web, api, worker) olarak açma planı
+uygulama/PLAN.md    bitig.codeloves.me: sitenin planı (uygulamalar my-euglena-apps altında)
 .claude/skills/kelime-arastir/   bir kelimeyi araştırma yöntemi ve şablon
 ```
 

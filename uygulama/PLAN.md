@@ -1,259 +1,159 @@
-# Uygulama planı: dil, ayrı çalışan Euglena uygulamaları olarak
+# Uygulama planı: bitig.codeloves.me
 
-Bu belge projeyi (ortak Türk dili, dört hedef, kaynak sözlüğü, tanıklı sözlük) bir
-**Linux servisi** olarak açmanın planıdır. Henüz kod yok; aşamalar en altta.
+Projeyi (ortak Türk dili, dört hedef, kaynak sözlüğü, tanıklı sözlük) herkese açık
+bir web sitesi olarak yayınlama planı. Henüz kod yok; aşamalar en altta.
 
-## 1. Amaç
+## 1. Kararlar (2026-11-12)
 
-- Bugün proje bir git deposu: YAML veriler ve Python araçları. Okumak için dosya
-  açmak, hesap için komut çalıştırmak gerekiyor.
-- Hedef: tarayıcıdan gezilen, aranan ve düzenlenen bir **uygulama**:
-  - kavramlar ve dört hedefin sonucu,
-  - kök sayfaları (zaman çizelgesi, diller, ileride harita),
-  - kaynak sözlüğü, soy ağacı ve örgü,
-  - kapsam panosu,
-  - arka planda çalışan işler: kaynak denetimi, PDF indirme ve OCR, yeniden puanlama.
-- **Euglena uygulamaları** olarak yazılır (`manifest.json` + `src/*.gene.code`),
-  `my-euglena-apps`'teki api/web/worker kalıbıyla.
-- Ama **Euglena host'unda tutulmaz**. Her servis kendi kapısını açar: `membrane`
-  değil `net_server`. Kendi makinesinde ya da konteynerinde ayrı çalışan bir
-  uygulamalar bütünüdür (`euglena init --service` kalıbı; bugünkü örneği
-  `todo-worker`).
+| Konu | Karar |
+|---|---|
+| Erişim | **Herkese açık, giriş yok.** Site yalnız okur; düzenleme yok |
+| Veri | Bu depo (`dil`, yeni adıyla `bitig`) hem kaynak veriyi hem **üretilmiş çıktıları** tutar. Sözlük sayfaları depoda Markdown olarak üretilir; site bunları gösterir |
+| Uygulamalar | `my-euglena-apps` altında: `bitig-web`, `bitig-api`, `bitig-worker` |
+| Çalışma biçimi | Euglena **host'unda tutulmaz**; her servis kendi `net_server`'ıyla ayrı çalışır |
+| Dağıtım | Mevcut docker compose'a (`external-services`) servis girdileri olarak |
+| MongoDB | Mevcut Mongo, aynı kimlik bilgileri (`MONGO_URI`) |
+| Blob | Azurite (`external-services`, port 10010); ileride Azure Blob tek satır değişikliği |
+| Alan adı | `bitig.codeloves.me` |
 
-## 2. Bileşenler
+## 2. Akış
 
 ```
-               tarayıcı
-                  │  https://dil.<alan>/
-           ┌──────▼──────┐
-           │  kapı (Caddy)│  web/ dosyalarını sunar, /api/<servis> → servis
-           └──┬───────┬──┘
-     /api/dil │       │ /api/is
-     ┌────────▼──┐ ┌──▼─────────┐
-     │  dil-api  │ │ dil-worker │  zamanlayıcı + iş kuyruğu
-     │ net_server│ │ net_server │  process → python3 araclar/*.py, tesseract
-     └──┬─────┬──┘ └──┬──────┬──┘
-        │     │       │      │
-   ┌────▼─┐ ┌─▼───────▼─┐  ┌─▼─────────────┐
-   │MongoDB│ │ Blob depo │  │ dil deposu     │
-   │  dil  │ │ (Azurite/ │  │ (git checkout: │
-   └───────┘ │  Azure)   │  │ YAML + Python) │
-             └───────────┘  └───────────────┘
+ bitig deposu (GitHub)                         my-euglena-apps
+ ─────────────────────                         ───────────────
+ YAML veri ──python3 araclar/yayinla.py──▶ cikti/ (Markdown + site.json)
+                                                 │ git (commit edilir)
+                                                 ▼
+                                  bitig-worker  ── 5 dk'da bir git fetch
+                                     │  yeni commit varsa:
+                                     │  cikti/'yı okur → Mongo (sayfalar, arama)
+                                     │                 → Azurite (commit'e göre anlık görüntü)
+                                     ▼
+                                  bitig-api  ── sayfa, gezinti, arama (salt okunur)
+                                     ▲
+ tarayıcı ── bitig.codeloves.me ── kapı ── bitig-web (wasm: Markdown → sayfa)
 ```
+
+- **Hesap ve üretim depoda kalır.**
+  - Python araçları (puanla, sozluk, kaynaklar) Markdown'ı ve `site.json`'ı
+    üretir ve bunlar commit edilir.
+  - Servislerde Python yoktur; worker yalnız dosya okur.
+  - Depoda görülen ile sitede görülen hep aynıdır.
+- **Yayın commit'e bağlıdır.**
+  - Worker yeni bir commit'in bütün çıktısını Mongo'ya yazar, sonra tek bir
+    işaretçiyi (`yayin.commit`) çevirir.
+  - Okuyucu hiçbir zaman yarım yayın görmez.
+  - Eski commit'lerin anlık görüntüleri Azurite'te kalır.
+
+## 3. Depoda (bitig) yapılacaklar: çıktılar
+
+`python3 araclar/yayinla.py` tek komutla bütün çıktıyı üretir:
+
+| Çıktı | Bugün | Yapılacak |
+|---|---|---|
+| `sozluk/kok/<kök>.md` | var (`sozluk.py --yaz`) | — |
+| `sozluk/SOZLUK.md` | var | — |
+| `sozluk/temel/<kavram>.md` | **yok** | Kavram sayfası: dört hedefin seçimi, adaylar ve ölçüleri, alttan yukarı ağaç, dil tablosu |
+| `KARSILASTIRMA.md`, `AGIRLIKLAR.md`, `kaynaklar/KAYNAKLAR.md` | var | — |
+| `cikti/site.json` | **yok** | Gezinti, sayfa listesi (yol, başlık, tür, güncelleme), arama dizini (kavram, kök, biçimler, diller, kaynaklar), commit bilgisi |
+
+Ayrıca bir denetim eklenir: `yayinla.py --denetle`, çıktılar eskiyse hata verir.
+İleride bir GitHub Actions adımı da aynısını yapabilir. Böylece veri değişip
+sayfası yenilenmeyen commit kalmaz.
+
+Markdown sayfaları sitenin içeriğidir. Sayfalar arası bağlantılar göreli
+yazılır (`../temel/ben.md`); site bunları kendi yollarına çevirir.
+
+## 4. Uygulamalar (my-euglena-apps)
 
 | Uygulama | Tür | Organeller | Görevi |
 |---|---|---|---|
-| **dil-web** | `runtime: web` (wasm) | `dom`, `net_client` (api, is), `storage`, `router`, `timer`, `json`, `strings`, `arrays`; genler `palette`, `outbox` | Bütün ekranlar. Tek wasm modülü (`cart-web` kalıbı) |
-| **dil-api** | native, kendi portunda | `net_server`, `mongodb`, `azure_blob`, `jwt`, `json`, `strings`, `arrays`, `math`, `time`, `env`, `console` | Okuma ve düzenleme. Mongo'daki hazır sonuçları sunar, düzenlemeleri kaydeder, işleri kuyruğa yazar |
-| **dil-worker** | native, kendi portunda | `net_server`, `timer`, `mongodb`, `azure_blob`, `process`, `fs`, `git`, `http_client`, `json`, `strings`, `arrays`, `env`, `console` | İçe aktarma, puanlama, sözlük sayfaları, kaynak denetimi, PDF indirme, OCR, dışa aktarma |
-| **kapı** | Caddy (ya da nginx) | — | Tek origin: `web/` + `/api/dil` → dil-api, `/api/is` → dil-worker |
-| **MongoDB** | `external-services`'teki mevcut Mongo ya da compose'daki | — | `dil` veritabanı |
-| **Blob depo** | Azurite (yerel), sonra Azure Blob | — | PDF'ler, OCR metinleri, üretilen sayfalar, dışa aktarımlar |
+| **bitig-worker** | native, ayrı | `net_server` (sağlık), `timer`, `git`, `fs`, `mongodb`, `azure_blob`, `json`, `strings`, `arrays`, `env`, `console` | Depoyu çeker, `cikti/site.json` ve Markdown'ları Mongo'ya ve Azurite'e yazar, yayını çevirir |
+| **bitig-api** | native, ayrı | `net_server`, `mongodb`, `json`, `strings`, `arrays`, `env`, `console` | `Gezinti`, `Sayfa { yol }`, `Ara { sorgu }`, `Ozet`, `Saglik`, `WhatCanIDo` |
+| **bitig-web** | `runtime: web` (wasm) | `dom`, `net_client` (api), `router`, `storage`, `timer`, `json`, `strings`, `arrays`; genler `palette` | Markdown'ı sayfaya çevirir; yan gezinti, arama, kök sayfasında zaman çizelgesi düzeni, açık/koyu tema |
 
-Host'ta tutulmadığı için şunlar bizim işimiz olur:
+Kimlik yok: `jwt` ve `auth` kaydı gerekmez. API yalnız okuma parçacıkları
+sunar; yazan tek şey worker'dır ve o da yalnız Mongo'ya yazar.
 
-- kapı (Caddy),
-- servislerin kendi `console` günlükleri,
-- kendi süreç yönetimi (systemd ya da docker).
+**Markdown işleme:**
+- `docs-api`/`docs-web` bunu eski biçimde (`server.so`/`sap`) yapıyordu.
+- Yazıma geçmeden önce güncel Code sürümünde bir `markdown` modülü olup
+  olmadığına `organelle-web` kataloğundan bakılır.
+  - Varsa worker, Markdown'ı yayın sırasında bir kez sayfa yapısına
+    çevirip Mongo'ya yazar.
+  - Yoksa bitig-web'de küçük bir gen yazılır: başlıklar, tablolar,
+    bağlantılar, listeler ve vurgu yeterlidir.
 
-Manifestte `"hosted": "membrane"` stand-in'i tanımlarsak, ileride istenirse aynı
-yapı host'a da alınabilir. Kapı organelin arkasında kalır; genler değişmez.
+## 5. Veri (MongoDB, veritabanı `bitig`)
 
-## 3. Hesaplama motoru: Python kalır, worker onu çağırır
-
-Puanlama (`puanla.py`, ~900 satır) ve sözlük (`sozluk.py`) Python'da ve sık
-değişiyor. Bunları baştan Code diline taşımak işin en riskli kısmı olur. Bu yüzden:
-
-- **Aşama 1-3:** Worker, `process` organeliyle depo kopyasındaki Python
-  araçlarını çalıştırır ve **JSON** çıktısını Mongo'ya yazar. Araçlara `--json`
-  çıktısı eklenir. Yeni bir hesap yazılmaz; aynı kod hem komut satırında hem
-  serviste çalışır.
-- **Aşama 5 (isteğe bağlı):** Kurallar oturunca puanlama Code'a taşınır
-  (`dil-motor` geni). O zamana kadar Python çıktısı Code çıktısının sınavı
-  (fixture) olur.
-
-API hesap yapmaz; worker'ın yazdığı hazır sonucu sunar. Bu yüzden hızlıdır ve
-Python'un yavaşlığı kullanıcıya yansımaz.
-
-## 4. Verinin asıl kaynağı: git mi, Mongo mu?
-
-| | A: git asıl, Mongo okuma modeli (önerilen başlangıç) | B: Mongo asıl, git dışa aktarım |
-|---|---|---|
-| Düzenleme | Depoda (ben ya da sen), worker içe aktarır | Arayüzden; worker YAML'a döker ve commit eder |
-| Geçmiş | git | Mongo'da sürümler + git yedeği (`backuper` kalıbı) |
-| Risk | Arayüz yalnız okur | İki yönlü uyuşmazlık |
-
-Önerim aşamalı:
-
-- **Aşama 1-2:** A. Uygulama okur; veri bugünkü gibi depoda değişir.
-- **Aşama 4:** Arayüzden düzenleme açılır. Bir düzenleme önce Mongo'daki
-  `oneriler` koleksiyonuna düşer. Onaylanınca worker YAML'ı günceller,
-  doğrulama araçlarını (`sozluk.py --denetle`, `kaynaklar.py`) çalıştırır,
-  geçerse commit eder ve yeniden içe aktarır. Böylece git asıl kalır ve her
-  değişiklik aynı denetimlerden geçer.
-
-## 5. Veri modeli (MongoDB, veritabanı `dil`)
-
-| Koleksiyon | Kaynak | İçerik |
-|---|---|---|
-| `diller` | `agac.yaml` | Düğümler: kod, ad, üst, tür (kol/dal/dil/ağız), konuşur, not |
-| `baglar` | `ag.yaml` | Örgü: anlaşılırlık, ikinci dil, temas |
-| `tanik_turleri` | `tarihi.yaml` | Tarihî tanık kodları, dönem, ağırlık |
-| `hedefler` | `hedefler.yaml` | Dört hedefin ayarları ve sözlük durakları |
-| `kaynaklar` | `kaynaklar/kaynaklar.yaml` | 168 kaynak, doğrulama ve yüzyıl alanlarıyla |
-| `kavramlar` | `sozluk/temel/*.yaml` | Kavram, aday kökler, günlük biçimler |
-| `kokler` | `sozluk/kok/*.yaml` | Sözlük maddesi ve bütün tanıklar |
-| `sonuclar` | `puanla.py --json` | Kavram × hedef: seçim, alttan yukarı ağaç, adayların ölçüleri |
-| `kapsam` | `sozluk.py --json` | Kök başına seviye, eksik duraklar ve diller |
-| `isler` | worker | İş kuyruğu: tür, durum, girdi, çıktı, günlük, zaman |
-| `dosyalar` | worker | Blob kayıtları: kaynak kimliği, adres, sha256, boyut, OCR durumu |
-| `oneriler` | api (Aşama 4) | Arayüzden gelen düzenleme önerileri ve onay durumu |
-| `ice_aktarimlar` | worker | Hangi git commit'inin içe aktarıldığı |
-
-İçe aktarma tamdır ve tek bir işlemde yapılır: bir commit'in bütün verisi ya
-yazılır ya hiç yazılmaz. `ice_aktarimlar` son geçerli commit'i tutar.
-
-## 6. Blob depo
-
-| Konteyner | İçerik |
+| Koleksiyon | İçerik |
 |---|---|
-| `kaynak-dosyalari` | İndirilen PDF ve DJVU dosyaları (altaica.ru vb.), sha256 adıyla |
-| `ocr` | Sayfa sayfa OCR metinleri (tesseract tur/rus/eng) |
-| `sayfalar` | Üretilen Markdown/HTML sözlük sayfaları, dışa aktarımlar |
+| `yayinlar` | Her içe aktarılan commit: sha, tarih, sayfa sayısı, durum |
+| `yayin` | Tek belge: şu an sunulan commit |
+| `sayfalar` | `{ commit, yol, baslik, tur, md, (yapı), guncelleme }` |
+| `arama` | `{ commit, terim, tur, yol, ozet }`: kavramlar, kökler, biçimler, diller, kaynaklar |
+| `gezinti` | `{ commit, agac }` |
 
-Bir PDF bir kez indirilir; aynı dosya için yeniden indirme olmaz. Telif durumu
-belirsiz kopyalar **yalnız iç kullanım** içindir: arayüz bunları herkese
-sunmaz, yalnız künye ve özgün adresi gösterir.
+Eski commit'lerin belgeleri son N yayından sonra silinir; anlık görüntüleri
+Azurite'te kalır.
 
-## 7. API (dil-api)
+**Azurite** konteyneri `bitig`: `<commit>/cikti/site.json` ve
+`<commit>/<yol>.md`. Bu bir yedektir; Mongo bozulursa yayın oradan yeniden
+kurulur.
 
-Euglena kalıbı: `POST /api/dil` ile `{"_class": "...", …}` parçacıkları.
+## 6. Dağıtım
 
-| Parçacık | Ne döner |
-|---|---|
-| `Ozet` | Sayılar: kavram, kök, tanık, kaynak; son içe aktarma |
-| `Kavramlar { filtre }` / `Kavram { ad }` | Liste; tek kavram: dört hedefin seçimi, adaylar, alttan yukarı ağaç |
-| `Kokler { filtre }` / `Kok { kok }` | Liste; tek madde: tanıklar (yüzyıla göre), kapsam, kaynakça |
-| `Ara { sorgu }` | Kavram, kök, biçim ve kaynaklarda arama |
-| `Kaynaklar { ihtiyac, dil }` / `Kaynak { kimlik }` | `kaynaklar.py --ara` karşılığı |
-| `Agac` / `Ag` / `Agirliklar { hedef }` | Soy ağacı, örgü ve ağırlık tabloları |
-| `Karsilastir` | KARSILASTIRMA.md karşılığı |
-| `Kapsam` | SOZLUK.md karşılığı |
-| `Oner { tur, veri }` | (Aşama 4, oturum gerekir) düzenleme önerisi |
-| `Isler` / `Is { id }` | İşlerin durumu (okuma) |
-| `WhatCanIDo` | Mike'ın sorabilmesi için yetenek listesi (`abilities` geni) |
+- **İmajlar:**
+  - Her native servis için `euglena build --release`; `init --service`
+    Dockerfile'ı (debian:trixie-slim, root olmayan kullanıcı, tek ikili).
+  - bitig-web için `web/` klasörü (wasm + `host.mjs` + `index.html`).
+- **Mevcut compose'a girdiler:** `bitig-api`, `bitig-worker`, `bitig-kapi`.
+  - Mongo ve Azurite ile aynı ağda.
+  - Mevcut `MONGO_URI` kullanılır; Azurite bağlantı dizesi compose ağındaki
+    adla verilir.
+- **Kapı (`bitig-kapi`, Caddy):**
+  - `web/` klasörünü sunar ve `/api/bitig` isteklerini bitig-api'ye iletir.
+  - Tek origin olduğu için tarayıcı tarafında `BITIG_API_URL=/api/bitig`
+    kullanılır.
+- **Yayın:** Cloudflare tüneli → `bitig.codeloves.me` → `bitig-kapi`. Bu,
+  `apps.codeloves.me`'nin host kuralından ayrıdır.
+- **Worker'ın depo kopyası:** bir volume'da tutulur. Depo herkese açıksa
+  kimlik gerekmez; özel kalacaksa salt okuma bir deploy anahtarı gerekir.
 
-## 8. Worker (dil-worker)
-
-| İş | Tetik | Ne yapar |
-|---|---|---|
-| `IceAktar` | git'te yeni commit (5 dakikada bir `git fetch`) ya da elle | YAML → Mongo; ardından `Puanla` ve `SozlukYaz` |
-| `Puanla` | `IceAktar` sonrası | `puanla.py --json` (bütün hedefler) → `sonuclar` |
-| `SozlukYaz` | `IceAktar` sonrası | `sozluk.py --json` ve `--denetle` → `kapsam`; sayfalar → blob |
-| `KaynakDenetle` | haftalık | Her kaynağın adresini dener, `dogrulama` sonucunu `kaynaklar`'a yazar (bugünkü elle yaptığımız denetim) |
-| `Indir { kaynak, url }` | elle | PDF'i indirir → blob, sha256 → `dosyalar` |
-| `Ocr { dosya, sayfalar, dil }` | `Indir` sonrası ya da elle | `pdftoppm` + `tesseract` → `ocr` konteyneri |
-| `DisaAktar` (Aşama 4) | öneri onaylanınca | Mongo → YAML, denetim, commit, push |
-
-İşler `isler` koleksiyonunda kuyruklanır. Worker kendi `timer`'ıyla sırayla alır,
-aynı anda tek ağır iş çalıştırır, her adımın günlüğünü işe yazar.
-`POST /api/is` ile `Baslat { tur, girdi }` ve `Durum` kabul eder (yönetici).
-
-## 9. Arayüz (dil-web)
-
-1. **Ana sayfa:** arama kutusu, özet sayılar, son eklenen kelimeler, çalışma
-   sırası (`SIRA.md`).
-2. **Kavram:** dört hedefin seçimi yan yana; adaylar ve üç ölçü; alttan yukarı
-   ağaç (ağız → dil → dal → kol → tepe); dil tablosu (alıntılar işaretli);
-   canlandırma uyarıları.
-3. **Kök (sözlük maddesi):** zaman çizelgesi (yüzyıl ekseni), yabancı kayıtlar 🌍,
-   yaşayan diller ve ağızlar, kapsam rozeti (Seviye 0-3), kaynakça. İleride
-   yüzyıl kaydırıcılı harita (Glottolog koordinatları).
-4. **Diller:** soy ağacı ve örgü görselleştirmesi, ağırlık tabloları.
-5. **Kaynaklar:** ihtiyaca ve dile göre süzülebilen kaynak sözlüğü, doğrulama durumu.
-6. **Karşılaştırma** ve **Kapsam panosu.**
-7. **Yönetim** (oturumla): işler, öneriler ve onay, indirilen dosyalar.
-
-## 10. Kimlik
-
-Okuma herkese açıktır. Yazma (öneri, onay, iş başlatma) oturum ister. İki yol:
-
-- **(a) Mevcut `auth`'u kullanmak (önerilen).** `dil-api` ve `dil-worker`,
-  `JWT_PUBLIC_KEY` ile `auth`'un jetonunu doğrular, imzalayamaz. Ayrı çalışsa
-  da kimlik tek kalır. `auth`'ta bir uygulama kaydı ve kurallar yazılır
-  (`permissions_dil`).
-- **(b) Kendi basit yönetici anahtarı.** `.env`'de bir yönetici jetonu.
-
-## 11. Yapılandırma (`.env.example`)
+`.env.example` (her servisin yanında):
 
 ```
-MONGO_URI=mongodb://localhost:27017      DIL_DB_NAME=dil
-AZURE_BLOB_CONNECTION_STRING=…            (yerelde Azurite)
-DIL_API_HOST=127.0.0.1   DIL_API_PORT=8960
-DIL_WORKER_HOST=127.0.0.1 DIL_WORKER_PORT=8961
-DIL_REPO_DIR=/srv/dil/repo                (worker'ın git kopyası)
-DIL_REPO_REMOTE=https://github.com/codelovesme/dil   DIL_REPO_BRANCH=main
-JWT_PUBLIC_KEY=…                          (auth'un açık anahtarı)
-DIL_API_URL=/api/dil   DIL_WORKER_URL=/api/is   (dil-web, tek origin)
+MONGO_URI=mongodb://…            # mevcut
+BITIG_DB_NAME=bitig
+AZURE_BLOB_CONNECTION_STRING=…   # Azurite
+BITIG_BLOB_CONTAINER=bitig
+BITIG_REPO_URL=https://github.com/codelovesme/bitig
+BITIG_REPO_BRANCH=main
+BITIG_REPO_DIR=/data/bitig
+BITIG_API_HOST=0.0.0.0  BITIG_API_PORT=8960
+BITIG_WORKER_HOST=0.0.0.0 BITIG_WORKER_PORT=8961
+BITIG_API_URL=/api/bitig         # bitig-web
 ```
 
-Portlar mevcut düzenle çakışmaz: host 8899, web kabuğu 8923, todo 8892/8893,
-Mongo 27017, LocalAI 8080.
+## 7. Aşamalar
 
-## 12. Dağıtım
+| Aşama | Nerede | Teslim | Bitti sayılması için |
+|---|---|---|---|
+| **0. Çıktılar** | bitig | `araclar/yayinla.py`, kavram Markdown sayfaları, `cikti/site.json`, `--denetle` | Tek komut bütün çıktıyı üretiyor; denetim eski çıktıyı yakalıyor |
+| **1. Worker + API** | my-euglena-apps | bitig-worker (git → Mongo + Azurite, yayın işaretçisi), bitig-api (okuma parçacıkları), fixture'lar | `curl -d '{"_class":"Sayfa","yol":"sozluk/kok/ben"}'` sayfayı döndürüyor |
+| **2. Web** | my-euglena-apps | bitig-web: gezinti, sayfa, arama, kök zaman çizelgesi, tema | Gerçek tarayıcıda "ben" kök sayfası ve "ben" kavram sayfası |
+| **3. Yayın** | external-services + tünel | Dockerfile'lar, compose girdileri, Caddy, Cloudflare tüneli | `https://bitig.codeloves.me` açık; yeni bir commit 5 dakika içinde sitede |
+| **4. Sonra** | ikisi | Yüzyıl kaydırıcılı harita, kapsam panosu grafikleri, kaynak denetim raporu | — |
 
-- **Derleme:** `euglena build --release`. Native servisler tek ikili dosya olur
-  ve modüller içine bağlanır. Web için `euglena build --target wasm -o web/dil-web.wasm`.
-- **İki seçenek:**
-  - **systemd** (bugünkü `euglena-host` gibi): `dil-api`, `dil-worker`,
-    `dil-kapi` kullanıcı birimleri.
-  - **docker compose:** `init --service`'in Dockerfile'ı
-    (debian:trixie-slim, root olmayan kullanıcı). Worker imajına
-    `python3-yaml`, `poppler-utils`, `tesseract-ocr(-tur,-rus)` ve `git` eklenir.
-    Compose'da Mongo, Azurite, Caddy ve üç servis yer alır.
-- **Yayın:** Cloudflare tüneli → kapı. Bu, `apps.codeloves.me`'deki tek nginx
-  kuralından bağımsızdır; ayrı bir alt alan adı olur, ör. `dil.codeloves.me`.
+## 8. Açık noktalar
 
-## 13. Depo yerleşimi
-
-```
-dil/
-  uygulama/
-    PLAN.md            bu belge
-    dil-api/           manifest.json, src/*.gene.code, tests/, .env.example, Dockerfile
-    dil-worker/        manifest.json, src/*.gene.code, tests/, .env.example, Dockerfile
-    dil-web/           manifest.json, src/*.gene.code, web/, tests/
-    kapi/Caddyfile
-    compose.yaml
-    systemd/*.service
-  araclar/             Python motoru (+ --json çıktıları)
-```
-
-Uygulamalar verinin yanında, `dil` deposunda durur, çünkü worker aynı depoyu
-çalıştırır. `my-euglena-apps`'in kurallarına (AGENTS.md) uyulur, ama oraya
-taşınmaz.
-
-## 14. Aşamalar
-
-| Aşama | Teslim | Bitti sayılması için |
-|---|---|---|
-| **0. Hazırlık** | Python araçlarına `--json` (puanla: kavram × hedef × ağaç; sozluk: madde + kapsam; kaynaklar: liste). İçe aktarma şeması (`uygulama/sema.md`) | JSON çıktıları test edilmiş, şema yazılmış |
-| **1. Okuma çekirdeği** | dil-worker `IceAktar` + `Puanla` + `SozlukYaz`; dil-api okuma parçacıkları; Mongo; fixture'lar | `curl` ile `Kavram {ad:"ben"}` dört hedefi döndürüyor |
-| **2. Arayüz** | dil-web: ana sayfa, kavram, kök, kaynaklar, arama; kapı; yerelde compose | Tarayıcıda "ben" sayfası, zaman çizelgesiyle |
-| **3. İşler ve dosyalar** | `KaynakDenetle`, `Indir`, `Ocr`; blob; yönetim ekranı (okuma) | Bir altaica PDF'i indirilip OCR'lanıyor, metni aranabiliyor |
-| **4. Düzenleme** | Kimlik (auth jetonu), `oneriler`, onay, `DisaAktar` (YAML + denetim + commit) | Arayüzden eklenen bir tanık denetimlerden geçip commit oluyor |
-| **5. Yayın ve olgunlaşma** | systemd/compose ile sunucuya kurulum, Cloudflare tüneli, yedek (`backuper`'a `dil` veritabanı), isteğe bağlı: puanlamanın Code'a taşınması, harita | `dil.<alan>` açık, gece yedeği alınıyor |
-
-## 15. Riskler ve açık sorular
-
-- **Code/Euglena araç zinciri bu bulut ortamında yok.** Yazmak burada
-  yapılabilir, ama derleme ve test için `cdlvsm install code euglena` gerekir
-  (GitHub sürüm dosyaları). Ağ izni gerekebilir; olmazsa derleme senin
-  makinende yapılır.
-- **`process` ile Python çağırmak** worker imajına Python koyar. Kabul edilebilir;
-  Aşama 5'te kaldırılabilir.
-- **Telif durumu belirsiz PDF'ler** yalnız iç kullanım içindir; herkese açık
-  sunulmaz.
-- **Karar bekleyenler:** kimlik yolu (a/b), dağıtım (systemd ya da compose),
-  alan adı, Mongo (mevcut `external-services` mi, ayrı mı), Azure Blob mu yoksa
-  şimdilik Azurite mi.
+- **Depo adı.** `dil` → `bitig`. GitHub'da sahibinin yapması gerekir
+  (Settings → Rename). Eski adres yönlendirmeye devam eder. Ardından
+  belgelerdeki adlar güncellenir.
+- **Depo görünürlüğü.** Herkese açıksa worker kimliksiz çeker; özelse deploy
+  anahtarı gerekir.
+- **Telif.** Altaica'dan okunan PDF'ler sitede sunulmaz; site yalnız künye ve
+  özgün adresi gösterir. Depoya PDF konmaz.
+- **Araç zinciri.** Code ve Euglena bu bulut ortamında kurulu değil. Uygulamalar
+  my-euglena-apps'in AGENTS.md'sindeki gibi senin makinende derlenir; ya da
+  ortama sürüm dosyalarına erişim eklenir.
