@@ -465,7 +465,7 @@ def agirlik_raporu(agac: Dugum, alfa: float, agizlar: bool, md: bool):
     dil_agirlik = {d.kod: sum(w[k] for k in d.yaprak_kodlari) for d in diller}
     en_agir = max(diller, key=lambda d: dil_agirlik[d.kod])
     en_hafif = min(diller, key=lambda d: dil_agirlik[d.kod])
-    agiz_sayisi = sum(d.yaprak_sayisi for d in diller if d.alt)
+    agiz_sayisi = sum(1 for d in agac.tum_dugumler() if d.dil_ici and d.yaprak_mi and not d.yazi_dili)
     ozet = (f"Dil sayısı: {len(diller)}   ağız sayısı: {agiz_sayisi}   "
             f"en ağır dil: {en_agir.ad} %{100 * dil_agirlik[en_agir.kod]:.1f}   "
             f"en hafif dil: {en_hafif.ad} %{100 * dil_agirlik[en_hafif.kod]:.1f}   "

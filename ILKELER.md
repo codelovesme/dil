@@ -20,17 +20,18 @@ bir Türk dili oluşturmak. Bunu yaparken:
 ## 2. Türk dilleri ağacı
 
 Yaşayan bütün Türk dilleri ve bilinen ağızları [`agac.yaml`](agac.yaml)
-dosyasında bir **ağaç** olarak tutulur (40 dil, 108 ağız):
+dosyasında bir **ağaç** olarak tutulur (40 dil, 89 ağız):
 
 ```
 Türk dilleri
 ├── Oğur kolu ............ Çuvaşça
 └── Ortak Türkçe
     ├── Halaç kolu ....... Halaçça
-    ├── Oğuz kolu ........ Batı Oğuz, Doğu Oğuz, Salarca
-    ├── Kıpçak kolu ...... Kıpçak-Bulgar, Kıpçak-Oğuz, Kıpçak-Nogay, Kırgızca
-    ├── Karluk kolu ...... Özbekçe, Uygurca, İli Türkçesi
-    └── Sibirya kolu ..... Kuzey Sibirya, Güney Sibirya (Sayan, Yenisey, Altay)
+    ├── Oğuz kolu ........ Batı Oğuz (Türkiye-Balkan), Azerbaycan grubu, Doğu Oğuz
+    ├── Kıpçak kolu ...... Kıpçak-Bulgar, Kıpçak-Oğuz (Kırım, Kafkas),
+    │                      Kıpçak-Nogay, Kırgız-Kıpçak
+    ├── Karluk kolu ...... Özbekçe, Doğu Karluk (Uygurca, İli Türkçesi)
+    └── Sibirya kolu ..... Kuzey Sibirya, Güney Sibirya (Sayan, Yenisey-Altay)
 ```
 
 Diller **birleştirilmez**. Türkçenin ne kadar çeşitlendiği görülsün diye her
@@ -42,16 +43,39 @@ Türkiye Türkçesi
 ├── Yazı dili                       (otomatik eklenir, kodu: tur)
 ├── Anadolu ağızları
 │   ├── Batı grubu ...... Ege, Teke-Akdeniz, Orta Anadolu, Batı Karadeniz
-│   ├── Doğu grubu ...... Erzurum-Kars, Güneydoğu Anadolu
+│   ├── Doğu grubu ...... Erzurum-Kars, Güneydoğu Anadolu, Ahıska
 │   └── Kuzeydoğu grubu . Doğu Karadeniz
 ├── Rumeli ağızları ..... Doğu Rumeli, Batı Rumeli
-└── Kıbrıs ağzı
+├── Kıbrıs ağzı
+└── Suriye Türkmen ağızları
 ```
 
 Ağızları olan her dile otomatik olarak bir **"Yazı dili"** ağzı eklenir. Dilin
 kendi kodu (`tur`, `kaz`…) bu yazı dilini gösterir; o da ağızlardan biri gibi
-tartılır. Sınıflandırmanın tartışmalı olduğu yerler dosyada `not` ile
-işaretlidir.
+tartılır.
+
+### Ağacı kurma kuralları
+
+Ağacın şekli ağırlıkları belirlediği için ağaç şu kurallarla kurulur:
+
+1. **Diller birleştirilmez.** Her topluluğun dili ayrı bir yapraktır.
+2. **Ağız eklemek serbesttir.** Ağırlıkları değiştirmez (§3).
+3. **Dil eklemek ağırlıkları değiştirir.** Bu yüzden yeni bir dilin gerekçesi
+   `not` alanına yazılır.
+4. **Birbirine çok yakın diller ortak bir alt grupta toplanır.** Örneğin Kırım
+   Tatarcası, Karayca, Kırımçakça ve Urumca "Kırım grubu"nda; Tofaca, Duhaca ve
+   Soyotça "Tayga Sayan"da toplanır. Böylece payı aralarında paylaşırlar ve
+   sayıca çoğalmaları dalı şişirmez.
+5. **Tek dilli alt dal açılmaz.** Kardeşleri arasında tek başına duran bir dil,
+   gruplanmış dillerden daha fazla pay alır. Örneğin eskiden Salarca Türkiye
+   Türkçesinin iki katı ağırlıktaydı. Bunun istisnası, gerçekten ayrı bir soy
+   hattını temsil edenlerdir: Çuvaşça, Halaçça, Özbekçe, Tuvaca, Sarı Uygurca.
+6. **Sınıflandırmada görüş ayrılığı olan yerler `not` ile belirtilir.** Bu
+   durumda seçim, anlaşılırlık amacına uygun olandan yana yapılır. Örneğin
+   Güney Altayca, Kırgızcaya yakınlığı nedeniyle Kırgız-Kıpçak grubuna
+   alınmıştır.
+7. **Kapsam dışı kalanlar:** Aynu dili (dilbilgisi Türkçe, söz varlığı büyük
+   ölçüde Farsça) ve dilini kaybetmiş topluluklar (ör. Litvanya Tatarları).
 
 ## 3. Ağırlıklar
 

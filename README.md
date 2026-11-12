@@ -20,7 +20,7 @@ Ayrıntılar: **[ILKELER.md](ILKELER.md)**
 
 ```
 ILKELER.md          kriterler ve kurallar
-agac.yaml           Türk dilleri ağacı (40 dil, 108 ağız)
+agac.yaml           Türk dilleri ağacı (40 dil, 89 ağız)
 AGIRLIKLAR.md       her dilin ve ağzın ağırlığı (üretilir)
 tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
 sozluk/SIRA.md      kelimelerin çalışma sırası (sıklığa göre)
