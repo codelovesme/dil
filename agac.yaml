@@ -4,22 +4,18 @@
 #   ad, kod     : ad ve benzersiz kod. Dil kodları ISO 639-3 (yoksa kısa bir ad),
 #                 ağız kodları "<dil>-<ağız>" biçimindedir.
 #   tip         : kol  -> ana kol (anlaşılırlık raporunda ayrı gösterilir)
-#   seffaf      : true -> sadece soy bilgisi; ağırlık hesabında atlanır, çocukları
-#                 bir üstteki düğümde doğrudan kardeş sayılır
 #                 dil  -> altında ağızları olan bir dil
 #                 (Altında ağız olmayan yapraklar da dildir; dilin altındaki
 #                  her şey ağızdır.)
 #   not         : sınıflandırması tartışmalı yerler
-#   konusur     : (sadece diller) yaklaşık anadili konuşur sayısı. Ağırlığa doğrudan
-#                 değil, BÜYÜKLÜK BASAMAĞI olarak girer: her 10 kat = +1 puan (2..8).
+#   konusur     : (sadece diller) yaklaşık anadili konuşur sayısı (Hedef 1 ve 3)
 #   konusur_not : sayı belirsizse açıklama
 #   agirlik_carpani : istisnai elle düzeltme (gerekçesi yazılmalı)
 #
-# Ağırlıklar ELLE verilmez, araclar/puanla.py ağacın şeklinden hesaplar
-# (ILKELER.md §3):
-#   * Dil düzeyinin üstünde: (dillerin ortalama basamağı) x (dil sayısı ^ alfa).
-#     Bir dilin kaç ağzı yazıldığı, o dilin ve kolunun ağırlığını DEĞİŞTİRMEZ.
-#   * Bir dilin içinde ağızlar kendi aralarında aynı yöntemle tartılır.
+# Bu dosya SOY AĞACIDIR: dillerin nereden geldiğini gösterir ve Hedef 2'nin
+# (kök yaşı) temelidir. Diller arasındaki öteki bağlar (anlaşılırlık, temas)
+# ag.yaml'dadır. Hedef 1 ve 3 dilleri o bağlarla ve konuşur sayılarıyla tartar;
+# orada ağacın şekli ağırlığı etkilemez (ILKELER.md §3).
 #   * Ağızları olan her dile otomatik olarak bir "Yazı dili" ağzı eklenir; dilin
 #     kendi kodu (ör. tur) o yazı dilini gösterir.
 
@@ -42,11 +38,10 @@ alt:
 
   - ad: Ortak Türkçe
     kod: ortak
-    seffaf: true
     not: >-
-      Soy bilgisi olarak tutulur; ağırlık hesabında şeffaftır. Altı kol (Oğur, Halaç,
-      Oğuz, Kıpçak, Karluk, Sibirya) en tepede yan yana tartılır. Oğur ile Ortak
-      Türkçe ayrılığının değeri eskilik olarak sayılır (tarihi.yaml, Ana Türkçe tanıklığı).
+      Türk dillerinin ilk ayrılığı Oğur ile Ortak Türkçe arasındadır. Bu yapı
+      Hedef 2'de (kök yaşı) belirleyicidir; Hedef 1 ve 3 dilleri örgüyle
+      (ag.yaml) ve konuşur sayılarıyla tartar.
     alt:
       # ========================================================== HALAÇ
       - ad: Halaç kolu

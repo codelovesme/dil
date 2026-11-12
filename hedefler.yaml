@@ -1,68 +1,59 @@
 # Hedefler
 # ------------------------------------------------------------------
-# Aynı veri (agac.yaml, tarihi.yaml, sozluk/) üç farklı soruya cevap verir.
-# Her hedefin kendi ağırlığı, ölçüsü ve biçim kuralı vardır (ILKELER.md §1).
-# Öz Türkçe filtresi üç hedefte de geçerlidir: alıntılar hiçbir zaman seçilmez.
+# Aynı veri (agac.yaml, ag.yaml, tarihi.yaml, sozluk/) üç farklı soruya cevap
+# verir. Her hedefin kendi ölçüsü vardır (ILKELER.md §1). Öz Türkçe filtresi üç
+# hedefte de geçerlidir: alıntılar hiçbir zaman seçilmez.
 #
-#   agirlik   : basamak -> (ortalama büyüklük basamağı) x (dil sayısı ^ alfa)
-#                          alfa = 1 ise her dil sadece kendi basamağıyla tartılır;
-#                          ağacın şekli ağırlığı etkilemez
-#               soy     -> her ayrılıkta dallar eşit; nüfus hiç sayılmaz
-#               nufus   -> doğrudan konuşur sayısı
+#   yontem    : kopru -> Hedef 1. Her dil N / √(çevre) ile tartılır (örgü + karekök)
+#               yas   -> Hedef 2. Kökün yaşı: soy ağacının hangi düğümüne kadar gidiyor
+#               kisi  -> Hedef 3. Her dil konuşur sayısıyla tartılır
+#   cevre_esik: (kopru) anlaşılırlığı bunun altındaki komşular dilin çevresine
+#               katılmaz; üstündekiler (s - eşik) / (1 - eşik) oranında katılır
+#   ikinci_dil: (kisi) ag.yaml'daki anlaşılırlık bağlarıyla ikinci dil yoluyla anlama
+#   beta      : eskiliğin etkisi (kopru, kisi)
+#   taban     : aynı kökten ama sesleri farklı bir biçimin temel tanıdıklığı
 #   agiz_alfa : bir dilin içinde ağızlar (ağız sayısı ^ agiz_alfa) ile tartılır
-#               (soy hedefinde ağızlar da eşit tartılır)
-#   yazi_dili_payi : bir dilin içinde yazı dilinin payı (ör. 0.5); ağızlar
-#               kalanı paylaşır. Boşsa yazı dili ağızlardan biri gibi sayılır.
-#   seffaf    : agac.yaml'daki şeffaf düğümleri (Ortak Türkçe) atla mı?
-#   olcu      : anlasilirlik -> biçim ne kadar tanıdık; yayilim -> kök ne kadar yaşıyor
-#   beta      : eskiliğin etkisi
-#   turetilmis_taniklar : Ana Türkçe tanıklığı gibi türetilmiş tanıklar sayılsın mı?
+#   yazi_dili_payi : bir dilin içinde yazı dilinin payı; ağızlar kalanı paylaşır.
+#               Boşsa yazı dili ağızlardan biri gibi sayılır.
+#   buyuk_topluluk : (kopru) bu sayıdan çok konuşuru olan diller "büyük topluluk"
+#   taban_esik, taban_cezasi : (kopru) büyük topluluklardan biri seçilen biçimi
+#               taban_esik'ten az anlıyorsa, o toplulukların ağırlık payı kadar
+#               taban_cezasi ile çarpılarak puandan düşülür (kimse geride kalmasın)
+#   esik      : yayılımı bunun altındaki kökler "canlandırma" sayılır
 #   bicim     : anlasilir -> en anlaşılır YAŞAYAN biçim
-#               eski      -> o dalın en eski tanığının biçimi (yaşamasa da olur)
-#   esik      : yayılımı bunun altındaki kökler "canlandırma" sayılır (boş: uyarı yok)
-#   tanik_kapsami : ilgili -> bir dalda karar verilirken kendi, üst ve alt dallarının
-#                            tanıkları sayılır (eski kelimeye genel eğilim)
-#                   alt    -> sadece kendi ve alt dallarının tanıkları sayılır
-#                            ("Kıpçakçanın en eski hâli"ni Kıpçak kanıtı belirler;
-#                             Ana Türkçe tanıklığı yalnızca en tepede sayılır)
+#               eski      -> dalın en eski tanığının biçimi (yaşamasa da olur)
 
 - kod: ortak
   ad: Ortak dil
-  soru: Bütün Türk kavimleri birbirini anlasın.
+  soru: Bütün Türk toplulukları birbirini anlasın; köprü dil.
   asil: true
-  agirlik: basamak
-  alfa: 1.0
-  agiz_alfa: 0.5
-  yazi_dili_payi: 0.5
-  seffaf: true
-  olcu: anlasilirlik
+  yontem: kopru
+  cevre_esik: 0.5
   beta: 0.2
   taban: 0.5
-  turetilmis_taniklar: false
-  bicim: anlasilir
+  agiz_alfa: 0.5
+  yazi_dili_payi: 0.5
+  buyuk_topluluk: 1_000_000
+  taban_esik: 0.5
+  taban_cezasi: 0.5
   esik: 0.5
+  bicim: anlasilir
 
 - kod: ana
   ad: Ana Türkçe tahmini
   soru: Türkçenin en eski hâli neydi?
-  agirlik: soy
-  seffaf: false
-  olcu: yayilim
-  beta: 1.0
-  turetilmis_taniklar: true
-  tanik_kapsami: alt
+  yontem: yas
+  agiz_alfa: 0.0
   bicim: eski
 
 - kod: nufus
   ad: En çok kişinin anladığı
   soru: En fazla insan anlasın.
-  agirlik: nufus
-  agiz_alfa: 0.5
-  yazi_dili_payi: 0.5
-  seffaf: true
-  olcu: anlasilirlik
+  yontem: kisi
+  ikinci_dil: true
   beta: 0.2
   taban: 0.5
-  turetilmis_taniklar: false
-  bicim: anlasilir
+  agiz_alfa: 0.5
+  yazi_dili_payi: 0.5
   esik: 0.5
+  bicim: anlasilir

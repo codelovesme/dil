@@ -43,6 +43,11 @@ Kurallar:
 
 - **Uydurma.** Emin olmadığın bir dili boş bırak. Boş bırakılan dil "veri yok"
   sayılır ve hesaptan çıkar. Yanlış veri ise sonucu bozar.
+- Bir biçim **başka bir Türk dilinden ödünçse** (ör. Çuvaşçaya Tatarcadan
+  geçmiş), biçimi `{ bicim: ..., odunc: tat }` olarak yaz. Bu, Hedef 2'de (kök
+  yaşı) sahte kanıtı önler. Özellikle **Çuvaşça** biçimlerine dikkat et: miras
+  kelime Oğur ses kurallarını taşır (Ortak Türkçe *z* → *r*, *ş* → *l*).
+  Mirası kesinse `miras: true` yaz.
 - Bir dilin o kavram için kullandığı kelime **alıntıysa**, o kelimeyi de ayrı bir
   kök olarak `koken: alıntı:<dil>` ile gir. Bu, "günlük kullanım" bilgisidir ve
   seçilmez.
@@ -80,8 +85,9 @@ Hata veriyorsa düzelt (genellikle yanlış dil kodu).
 2. **Tablo:** dil → biçim (alıntılar işaretli).
 3. **Belirsizlikler:** boş bırakılan diller, şüpheli biçimler, tartışmalı kök
    bağlantıları.
-4. **Üç hedef:** ortak dil, Ana Türkçe tahmini ve en çok kişinin anladığı
-   biçim (`--karsilastir`). Ayrışıyorsa nedenini bir cümleyle açıkla.
+4. **Üç hedef:** her adayın üç ölçüsü (köprü puanı ve en az anlayan büyük
+   topluluk, kök yaşı, anlayan kişi sayısı) ve her hedefin seçimi. Ayrışıyorsa
+   nedenini bir cümleyle açıkla. "Ödünç olabilir" uyarıları varsa belirt.
 5. **Karar gerektirenler:** kullanıcıya sorulacak en fazla 2–3 nokta.
 
 ## 6. Kaydet

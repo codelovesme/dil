@@ -3,28 +3,27 @@
 Bütün Türk kavimlerinin birbirini anlamasını kolaylaştıracak, **öz ve eski
 Türkçe** kelimelere dayanan ortak bir dil oluşturma çalışması.
 
-Aynı veriden üç hedefe cevap aranır:
+Aynı veriden üç soruya cevap aranır; her birinin kendi ölçüsü vardır:
 
-| Hedef | Soru | Ağırlık |
+| Hedef | Soru | Ölçü |
 |---|---|---|
-| **1. Ortak dil** (asıl ürün) | Bütün Türk kavimleri birbirini anlasın | Her dil kendi büyüklük basamağıyla |
-| **2. Ana Türkçe tahmini** | Türkçenin en eski hâli neydi? | Soy: her ayrılıkta dallar eşit |
-| **3. En çok kişinin anladığı** | En fazla insan anlasın | Konuşur sayısı |
+| **1. Ortak dil** (asıl ürün) | Bütün Türk toplulukları birbirini anlasın: köprü dil | Toplulukların anlaşılırlığı (örgü + karekök kuralı), kimse geride kalmasın |
+| **2. Ana Türkçe tahmini** | Türkçenin en eski hâli neydi? | Kök yaşı: kök soy ağacının hangi düğümüne kadar gidiyor |
+| **3. En çok kişinin anladığı** | En fazla insan anlasın | Anlayan kişi sayısı (ikinci dil dahil) |
 
-Üç hedefin aynı kökü seçtiği kelimeler sağlamdır; ayrıştıkları kelimeler
-tartışmaya açılır: **[KARSILASTIRMA.md](KARSILASTIRMA.md)**.
+Her kelimenin her adayı için üç ölçü yan yana gösterilir. Üç hedefin aynı kökü
+seçtiği kelimeler sağlamdır; ayrıştıkları kelimeler tartışmaya açılır:
+**[KARSILASTIRMA.md](KARSILASTIRMA.md)**.
 
-- Kelimeler **Türk dilleri ağacı** üzerinde seçilir. Asıl hedefte kişi sayısı
-  sadece büyüklük basamağı olarak sayılır (her 10 kat = +1 puan). Böylece
-  hiçbir topluluk, kalabalığıyla ya da içindeki dil veya ağız sayısıyla
-  diğerlerini ezemez.
-- Hesap **alttan yukarı** yapılır. Ağızlar birleşip dili, diller dalı, dallar
-  kolu, kollar ortak dili oluşturur. Her birleşim "burada ne olmalı?" sorusuna
+- Diller iki yapıda tutulur: **soy ağacı** (hangi dil hangisinden geliyor) ve
+  **örgü** (diller arasındaki ağırlıklı anlaşılırlık, ikinci dil ve temas
+  bağları). Bir dil soyca tek bir dalın altındadır, ama örgüde birçok dile
+  bağlanabilir.
+- Hesap **alttan yukarı** gösterilir. Ağızlar birleşip dili, diller dalı, dallar
+  kolu, kollar en tepeyi oluşturur. Her birleşim "burada ne olmalı?" sorusuna
   kendi cevabını verir. Örneğin Oğuz kolunda *dağ*, Kıpçak kolunda *taw*, en
   tepede *tağ* çıkar.
-- Ölçüler: **anlaşılırlık** (biçim ne kadar tanıdık), **eskilik** (tarihî
-  metinlerde var mı), **yayılım** (kök ne kadar yaşıyor). Alıntılar üç hedefte
-  de hiçbir koşulda seçilmez.
+- Alıntılar üç hedefte de hiçbir koşulda seçilmez.
 
 Ayrıntılar: **[ILKELER.md](ILKELER.md)**
 
@@ -33,7 +32,8 @@ Ayrıntılar: **[ILKELER.md](ILKELER.md)**
 ```
 ILKELER.md          kriterler ve kurallar
 hedefler.yaml       üç hedefin ağırlık, ölçü ve biçim ayarları
-agac.yaml           Türk dilleri ağacı (40 dil, 89 ağız, konuşur sayıları)
+agac.yaml           soy ağacı: 40 dil, 89 ağız, konuşur sayıları
+ag.yaml             örgü: anlaşılırlık, ikinci dil ve temas bağları (tahmini)
 tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
 AGIRLIKLAR.md       üç hedefin ağırlık tabloları (üretilir)
 KARSILASTIRMA.md    her kavram için üç hedefin seçimi (üretilir)
@@ -59,7 +59,7 @@ python3 araclar/puanla.py --karsilastir       # üç hedef yan yana
 python3 araclar/puanla.py --agirliklar --hedef nufus   # bir hedefin ağırlıkları
 
 # üretilen dosyaları yenile
-python3 araclar/puanla.py --agirliklar --agizlar --md > AGIRLIKLAR.md
+python3 araclar/puanla.py --agirliklar --md > AGIRLIKLAR.md
 python3 araclar/puanla.py --karsilastir --md > KARSILASTIRMA.md
 ```
 
