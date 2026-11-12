@@ -15,8 +15,10 @@ Veri: agac.yaml (soy ağacı, diller, ağızlar, konuşur sayıları), ag.yaml (
 anlaşılırlık ve temas bağları), tarihi.yaml (tarihî tanıklar), hedefler.yaml,
 sozluk/ (kavramlar). Yöntem ILKELER.md'de. Üç ölçü:
 
-  * Hedef 1 — köprü puanı: her dil  N / √(çevre)  ile tartılır (örgü + karekök
-    kuralı); çevre, dilin kendisi ve onu büyük ölçüde anlayan komşularıdır. Seçilen biçimin ortalama anlaşılırlığı,
+  * Hedef 1 — yaygınlık puanı: kelimeyi ne kadar çok FARKLI grup kullanıyor? Gruplar
+    etiketle değil örgüdeki benzerlikle belirlenir: her dil
+    kendine özgülük × basamak / 8 ile tartılır. Birbirinin aynısı diller bir
+    grubun payını paylaşır, ayrışmış bir dil kendi başına bir gruptur. Seçilen biçimin ortalama anlaşılırlığı,
     büyük topluluklardan biri geride kalırsa ceza ile azaltılır.
   * Hedef 2 — kök yaşı: kök soy ağacının hangi düğümüne kadar geri gidiyor?
     Bir düğümün en az iki kolunda (ya da bir kolunda ve o düğümün tarihî
@@ -241,18 +243,21 @@ class Hedef:
         if self.yontem == "kisi":
             return N
         if self.yontem == "kopru":
-            return {L: n / math.sqrt(self.cevre(L, N)) for L, n in N.items()}
+            b = {d.kod: float(d.basamak) for d in agac.diller}
+            return {L: self.ozgunluk(L, b) * b[L] / EN_COK_BASAMAK for L in N}
         return {L: 1.0 for L in N}  # yas: ağırlık kullanılmaz
 
-    def cevre_payi(self, s: float) -> float:
-        """Anlaşılırlığı s olan bir komşu çevreye ne kadar katılır? Eşiğin altı hiç,
-        üstü orantılı: (s - eşik) / (1 - eşik). Yarı yarıya anlaşmak aynı çevrede
-        olmak demek değildir."""
+    def benzerlik_payi(self, s: float) -> float:
+        """Anlaşılırlığı s olan bir komşu "aynı grup" sayılmaya ne kadar yakın?
+        Eşiğin altı hiç, üstü orantılı: (s - eşik) / (1 - eşik). Yarı yarıya
+        anlaşmak aynı grupta olmak demek değildir."""
         return max(0.0, (s - self.cevre_esik) / (1 - self.cevre_esik))
 
-    def cevre(self, L: str, N: dict[str, float]) -> float:
-        """Dilin anlaşılırlık çevresi: kendisi + onu zaten büyük ölçüde anlayan komşular."""
-        return N[L] + sum(self.cevre_payi(s) * N[j] for j, s in self.ag.komsular(L))
+    def ozgunluk(self, L: str, b: dict[str, float]) -> float:
+        """Kendine özgülük (0..1): dil, kendine çok benzeyen dillerle grubunu ne kadar
+        paylaşıyor? Benzeri yoksa 1. Birbirinin aynısı k dil, payı k'ya böler; böylece
+        bir dili ayrı dil ya da ağız saymak ağırlığı şişirmez."""
+        return b[L] / (b[L] + sum(self.benzerlik_payi(s) * b[j] for j, s in self.ag.komsular(L)))
 
 
 def hedefleri_yukle(taniklar, agac, ag) -> dict[str, Hedef]:
@@ -733,7 +738,7 @@ def kavram_raporu(kv, agac, hedefler, h, derinlik, agizlar):
     print("-" * 88)
 
     print("Adaylar ve üç ölçü (en tepede):")
-    print(f"  {'kök':<9} {'1. köprü puanı':<30} {'2. kök yaşı':<26} 3. anlayan kişi")
+    print(f"  {'kök':<9} {'1. yaygınlık puanı':<30} {'2. kök yaşı':<26} 3. anlayan kişi")
     for k, o in aday_olculeri(kv, agac, hedefler):
         if o is None:
             print(f"  {k.kimlik:<9} (seçilemez: köken={k.koken})")
@@ -798,20 +803,21 @@ def agirlik_raporu(agac: Dugum, h: Hedef, md: bool):
     toplam_w = sum(h.agirlik.values())
     N = {L.kod: float(L.konusur) for L in agac.diller}
     kollar = [d for d in agac.tum_dugumler() if d.tip == "kol"]
-    kural = (f"dil ağırlığı = N / √(çevre); çevre = N + Σ pay(anlaşılırlık) × N_komşu, "
-             f"pay = (s − {h.cevre_esik}) / (1 − {h.cevre_esik})  (örgü + karekök)"
+    kural = ("dil ağırlığı = kendine özgülük × basamak / 8; kendine özgülük = b / (b + Σ pay(s) × b_komşu), "
+             f"pay(s) = (s − {h.cevre_esik}) / (1 − {h.cevre_esik})"
              if h.yontem == "kopru" else "dil ağırlığı = konuşur sayısı")
+    b = {L.kod: float(L.basamak) for L in agac.diller}
     if md:
         print(f"## {h.ad}\n\n*{h.soru}* {kural}.\n")
         print("| Kol | Ağırlık |\n|---|---:|")
         for k in kollar:
             print(f"| {k.ad} | %{100 * sum(h.agirlik[L.kod] for L in k.diller) / toplam_w:.1f} |")
         print()
-        cevre_baslik = " Anlaşılırlık çevresi |" if h.yontem == "kopru" else ""
+        cevre_baslik = " Basamak | Kendine özgülük |" if h.yontem == "kopru" else ""
         print(f"| Dil | Kol | Konuşur |{cevre_baslik} Ağırlık |")
-        print("|---|---|---:|" + ("---:|" if h.yontem == "kopru" else "") + "---:|")
+        print("|---|---|---:|" + ("---:|---:|" if h.yontem == "kopru" else "") + "---:|")
         for L in sorted(agac.diller, key=lambda L: -h.agirlik[L.kod]):
-            cevre = f" {h.cevre(L.kod, N) / 1e6:.2f} milyon |" if h.yontem == "kopru" else ""
+            cevre = f" {L.basamak} | {h.ozgunluk(L.kod, b):.2f} |" if h.yontem == "kopru" else ""
             print(f"| {L.ad} | {L.kol.ad if L.kol else ''} | {L.konusur:,} |".replace(",", ".")
                   + cevre + f" %{100 * h.agirlik[L.kod] / toplam_w:.2f} |")
         print()
@@ -821,7 +827,7 @@ def agirlik_raporu(agac: Dugum, h: Hedef, md: bool):
         print(f"  {k.ad:<16} %{100 * sum(h.agirlik[L.kod] for L in k.diller) / toplam_w:5.1f}")
     print()
     for L in sorted(agac.diller, key=lambda L: -h.agirlik[L.kod]):
-        cevre = f"  çevre {h.cevre(L.kod, N) / 1e6:7.2f} M" if h.yontem == "kopru" else ""
+        cevre = f"  b{L.basamak}  özgülük {h.ozgunluk(L.kod, b):.2f}" if h.yontem == "kopru" else ""
         print(f"  {L.ad:<30} {L.konusur:>12,}{cevre}   %{100 * h.agirlik[L.kod] / toplam_w:5.2f}")
 
 

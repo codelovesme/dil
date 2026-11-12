@@ -7,7 +7,7 @@ Aynı veriden üç soruya cevap aranır; her birinin kendi ölçüsü vardır:
 
 | Hedef | Soru | Ölçü |
 |---|---|---|
-| **1. Ortak dil** (asıl ürün) | Bütün Türk toplulukları birbirini anlasın: köprü dil | Toplulukların anlaşılırlığı (örgü + karekök kuralı), kimse geride kalmasın |
+| **1. Ortak dil** (asıl ürün) | Ortak kelime: ne kadar çok farklı grup kullanıyor? | Yaygınlık; gruplar etiketle değil örgüdeki benzerlikle belirlenir |
 | **2. Ana Türkçe tahmini** | Türkçenin en eski hâli neydi? | Kök yaşı: kök soy ağacının hangi düğümüne kadar gidiyor |
 | **3. En çok kişinin anladığı** | En fazla insan anlasın | Anlayan kişi sayısı (ikinci dil dahil) |
 

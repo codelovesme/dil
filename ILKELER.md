@@ -11,9 +11,9 @@ Türk topluluklarını öz Türkçe kelimelerle birbirine bağlamak. Aynı verid
 
 | | 1. Ortak dil **(asıl ürün)** | 2. Ana Türkçe tahmini | 3. En çok kişinin anladığı |
 |---|---|---|---|
-| **Soru** | Bütün Türk toplulukları birbirini anlasın: bir köprü dil | Türkçenin en eski hâli neydi? | En fazla insan anlasın |
-| **Ölçü** | Köprü puanı: toplulukların anlaşılırlığı, kimse geride kalmasın | Kök yaşı: kök soy ağacının hangi düğümüne kadar gidiyor | Anlayan kişi sayısı |
-| **Kullandığı yapı** | Örgü (`ag.yaml`) + konuşur sayıları | Soy ağacı (`agac.yaml`) + tarihî tanıklar | Konuşur sayıları + ikinci dil bağları |
+| **Soru** | Ortak kelime: ne kadar çok farklı grup kullanıyorsa o kadar iyi | Türkçenin en eski hâli neydi? | En fazla insan anlasın |
+| **Ölçü** | Yaygınlık: kaç farklı grup kullanıyor (gruplar örgüdeki benzerlikle belirlenir), kimse geride kalmasın | Kök yaşı: kök soy ağacının hangi düğümüne kadar gidiyor | Anlayan kişi sayısı |
+| **Kullandığı yapı** | Örgü (`ag.yaml`) + basamak | Soy ağacı (`agac.yaml`) + tarihî tanıklar | Konuşur sayıları + ikinci dil bağları |
 | **Biçim** | Köprü biçim: en anlaşılır yaşayan biçim | Dalın en eski tanığının biçimi | En anlaşılır yaşayan biçim |
 | **Ürün** | Önerilen ortak dil | Ana Türkçe sözlüğü | Pratik karşılaştırma |
 
@@ -115,7 +115,7 @@ Surguçlar (~11 bin) sayılır.
 
 | Bağ | Ne ölçer | Yön | Kullanıldığı yer |
 |---|---|---|---|
-| **Anlaşılırlık** | A dilini konuşan, B dilini öğrenmeden ne kadar anlar (dilbilimsel yakınlık) | Her iki yön ayrı yazılabilir | Hedef 1, 3 |
+| **Anlaşılırlık** | A dilini konuşan, B dilini öğrenmeden ne kadar anlar (dilbilimsel yakınlık) | Her iki yön ayrı yazılabilir | Hedef 1 (gruplar), Hedef 3 |
 | **İkinci dil** | A konuşurları B'yi okul, medya ya da iki dillilik yoluyla ne kadar bilir | Dinleyen → konuşan | Sadece Hedef 3 |
 | **Temas** | B dili A dilinden ne yoğunlukta kelime almış | Veren → alan | Hedef 2 (ödünç ayıklama) |
 
@@ -129,71 +129,103 @@ kendi dilinde nasıl duyulduğuyla ilgilendiği için ikinci dil bilgisini sayma
 tahminlerle karşılaştırılacak. Böylece proje ilerledikçe örgü kendi kendini
 düzeltir.
 
-## 3. Hedef 1: Ortak dil (köprü dil)
+## 3. Hedef 1: Ortak dil
 
-Türkiyeli, Kazak, Özbek, Tatar ya da Saha bu dili en az çabayla anlayabilmeli,
-kolayca öğrenebilmeli ve hiçbir topluluk onu "başkasının dili" olarak
-görmemeli.
+Hedef 1'in sorusu **ortak kelimedir**: bir kelimeyi ne kadar çok **farklı grup**
+kullanıyorsa o kadar iyidir. Nüfusun önceliği Hedef 3'ün, eskilik Hedef 2'nin
+işidir; Hedef 1 yaygınlığa bakar.
 
-### Ağırlık: örgü + karekök kuralı
+### Gruplar etiketle değil, benzerlikle belirlenir
 
-Kazakça ile Kırgızca, Özbekçe ile Uygurca, Türkiye Türkçesi ile Azerbaycan
-Türkçesi zaten birbirini büyük ölçüde anlar. Köprü kurulması gereken yer bu
-"anlaşılırlık çevrelerinin" **arasıdır**. Bu, iki katmanlı bir yapıdır: kişiler
-çevrelerini, çevreler ortak dili belirler. Böyle bir yapıda her kişinin sesinin
-eşit etkili olması için bilinen kural, her çevrenin oyunun nüfusunun
-**karekökü** ile orantılı olmasıdır (Penrose kuralı). Örgüyle yazıldığında her
-dilin ağırlığı:
+"Kim dil, kim lehçe, kim hangi kolda" diye sorulmaz. Yalnızca "bu dil öteki
+dillere ne kadar benziyor?" diye sorulur. Cevap örgüdedir (`ag.yaml`):
+
+- **Birbirine çok benzeyen diller tek bir grup sayılır** ve grubun payını
+  aralarında paylaşır.
+- **Ayrışmış bir dil kendi başına tam bir grup sayılır.**
+- **Arada kalanlar**, ne kadar farklıysa o kadar fazladan ağırlık getirir.
+
+Her dilin ağırlığı:
 
 ```
-ağırlık(L) = N_L / √(çevre_L)
+ağırlık(L) = kendine özgülük(L) × basamak(L) / 8
 
-çevre_L = N_L + Σ  pay(s(L, j)) × N_j        pay(s) = max(0, (s − 0.5) / 0.5)
-              j
+kendine özgülük(L) = b_L / (b_L + Σ  pay(s(L, j)) × b_j)       pay(s) = max(0, (s − 0.5) / 0.5)
+                                  j
 ```
 
-- `N`: konuşur sayısı, `s(L, j)`: L konuşurunun j dilini anlama düzeyi.
-- **Eşik:** Yarı yarıya anlaşmak aynı çevrede olmak demek değildir. 0.5 ve
-  altındaki anlaşılırlık çevreye katılmaz; üstü orantılı katılır.
-- Bağlar "çevre içinde 1, dışında 0" olsaydı bu formül, dilleri kesin bölgelere
-  ayırıp bölge nüfusunun karekökünü almakla tıpatıp aynı sonucu verirdi. Örgü,
-  hiçbir dili bir bölgeye zorla sokmadan aynı hesabı yapar.
+- `b`: **basamak**. Konuşur sayısı her 10 kat arttığında +1 puan (2–8):
 
-Sonuçta kollar şu ağırlıkları alır (tam tablo: [`AGIRLIKLAR.md`](AGIRLIKLAR.md)):
+  | Konuşur sayısı | Basamak | Örnek |
+  |---|---|---|
+  | 10 milyon ve üstü | 8 | Türkiye Türkçesi, Azerbaycan Türkçesi, Özbekçe, Kazakça, Uygurca |
+  | 1 – 10 milyon | 7 | Türkmence, Tatarca, Başkurtça, Kırgızca, Irak Türkmencesi |
+  | 100 bin – 1 milyon | 6 | Çuvaşça, Gagavuzca, Kaşkayca, Kırım Tatarcası, Sahaca, Tuvaca |
+  | 10 – 100 bin | 5 | Halaçça, Salarca, Nogayca, Hakasça, Güney Altayca, Balkan Gagavuz Türkçesi |
+  | 1 – 10 bin | 4 | Sarı Uygurca, Şorca, Kuzey Altayca |
+  | 100 – 1 000 | 3 | Urumca, İli Türkçesi, Dolganca, Duhaca |
+  | 100'den az | 2 | Karayca, Kırımçakça, Tofaca, Soyotça, Çulımca, Fuyu Kırgızcası |
+
+  Basamak nüfusu neredeyse siler (80 milyon ile 150 bin: 8'e 6), ama 40
+  kişilik bir topluluğun koca bir millet kadar sayılmasını önler.
+- `s(L, j)`: L konuşurunun j dilini anlama düzeyi (örgüden).
+- **Kendine özgülük:** Benzeri olmayan bir dil 1 alır (Çuvaşça, Halaçça,
+  Salarca). Birbirinin aynısı k dil, payı k'ya böler. Yarı yarıya anlaşmak aynı
+  grupta olmak demek değildir: 0.5 ve altındaki benzerlik sayılmaz.
+
+### Tanım tartışmaları ağırlığı etkilemez
+
+- Kırımçakça ayrı bir dil sayılırsa Kırım Tatarcası ile toplamı %3.04,
+  Kırım Tatarcasının ağzı sayılırsa %2.99'dur. Çok benzedikleri için ayrı
+  sayılmaları hiçbir şeyi şişirmez.
+- Gagavuzca ayrı dil sayılırsa Türkiye Türkçesiyle toplamı %5.1, ağız
+  sayılırsa %3.5'tir. Gagavuzca gerçekten biraz farklı olduğu için ne kadar
+  farklıysa o kadar ek ses getirir. Büyük bir dilin gölgesinde kaybolmaz.
+
+Benzerlikler ileride kendi kelime verimizden hesaplandığında elle verilmiş
+hiçbir karar kalmayacaktır.
+
+### Sonuç
 
 | Kol | Hedef 1 | Hedef 3 (karşılaştırma için) |
 |---|---|---|
-| Oğuz | %46.7 | %62.3 |
-| Kıpçak | %24.5 | %13.1 |
-| Karluk | %21.3 | %23.7 |
-| Sibirya | %4.5 | %0.4 |
-| Oğur | %2.5 | %0.4 |
-| Halaç | %0.6 | %0.02 |
+| Kıpçak | %31.7 | %13.1 |
+| Oğuz | %27.0 | %62.3 |
+| Sibirya | %23.4 | %0.4 |
+| Karluk | %8.1 | %23.7 |
+| Oğur | %5.3 | %0.4 |
+| Halaç | %4.4 | %0.02 |
 
-Karekök iki uç arasında doğal bir orta yoldur:
+Tam tablo: [`AGIRLIKLAR.md`](AGIRLIKLAR.md).
 
-- **Nüfusa göre** tartılsaydı Batı Oğuz tek başına çoğunluğu alırdı ve ortak dil
-  fiilen Türkiye Türkçesi olurdu.
-- **Topluluklar eşit** tartılsaydı 42 bin kişilik Halaçlar 80 milyonluk
-  Türkiye Türkçesiyle aynı oyu alırdı. Bu dili gerçekte kullanacak insanlar
-  açısından bu adil değildir.
+Bu yöntem çok yakın akrabası olan dillere doğal olarak daha küçük bir pay verir.
+Türkiye Türkçesi (%2.9), Türkmenceden (%4.6) düşüktür. Bunun sebebi Türkiye
+Türkçesinin önemsiz sayılması değildir: Türkiye, Azerbaycan, Gagavuz ve Kerkük
+Türkçeleri büyük ölçüde tek bir grup oluşturur. "Kaç farklı grup kullanıyor"
+sorusunun mantığı budur. Kalabalığın etkisi Hedef 3'te ayrıca ölçülür.
 
-Ölmekte olan küçük diller (Tofaca, Soyotça, Fuyu Kırgızcası…) bu hedefte
-neredeyse hiç ağırlık almaz, çünkü bu dilin kullanıcıları onlar olmayacak. Bu
-dillerin değeri Hedef 2'de, Ana Türkçenin tanıkları olarak korunur.
+#### Neden örgü + karekök kuralı değil?
+
+Daha önce her dili `N / √(çevre)` ile, yani nüfusa dayalı bir karekök kuralıyla
+tartmıştık. Bu kural, bir çevrenin tek bir blok gibi oy verdiğini varsayar.
+Oysa her topluluğun kendi dili ve kendi kelimeleri vardır. Bu varsayım saçma
+sonuçlar doğurdu: bir dil büyük bir dile benzediği için ağırlık kaybediyordu.
+150 bin kişilik Gagavuzca %0.06, 40 bin kişilik Hakasça %0.57 alıyordu. Ders:
+benzerlik, grubun **paylaşılmasını** belirlemeli; büyük bir komşunun nüfusu
+küçük bir dili ezmemeli.
 
 ### Kimse geride kalmamalı (taban şartı)
 
 Ağırlıklı ortalama tek başına yetmez: ortalama yüksekken bir topluluk hiç
-anlamıyor olabilir. Bu yüzden **büyük topluluklar** (1 milyondan çok konuşuru
-olan diller) ayrıca denetlenir. Seçilen biçimi %50'den az anlayan büyük
+anlamıyor olabilir. Bu yüzden **100 binden çok konuşuru olan topluluklar**
+ayrıca denetlenir. Seçilen biçimi %50'den az anlayan büyük
 toplulukların ağırlık payı, 0.5 ile çarpılarak puandan düşülür. Raporda her
 büyük topluluğun anlaşılırlığı gösterilir.
 
 Çuvaş, Saha ve Halaç toplulukları ses yapısı bakımından o kadar ayrışmıştır ki
 hemen her kelimede en alt sırada kalırlar. Bunlara veto hakkı verilirse hiçbir
-kelime seçilemez. Bu yüzden taban şartı büyük topluluklara uygulanır; küçük
-toplulukların anlaşılırlığı ağaç çıktısında görünür.
+kelime seçilemez. Bu yüzden taban şartı bir veto değil, bir cezadır: geride
+kalan toplulukların ağırlık payı kadar puan düşer.
 
 ### Köprü biçim
 
@@ -361,9 +393,9 @@ kullandığı biçim ayrıca not edilir.
 Raporda her aday için üç ölçü yan yana gösterilir:
 
 ```
-kök    1. köprü puanı                 2. kök yaşı           3. anlayan kişi
-uluğ   0.10 'uluğ' en düşük: Türkiye   Ortak Türkçe (5 hat)  ~87 milyon (%45)
-bedük  0.31 'büyük' en düşük: Türkmen  Ana Türkçe (2 hat)    ~117 milyon (%60)
+kök    1. yaygınlık puanı                 2. kök yaşı           3. anlayan kişi
+uluğ   0.34 'uluğ' en düşük: Çuvaşça   Ortak Türkçe (5 hat)  ~87 milyon (%45)
+bedük  0.07 'büyük' en düşük: Türkmen   Ana Türkçe (2 hat)    ~117 milyon (%60)
 ```
 
 ## 9. Ses kuralları (ertelendi)
@@ -416,8 +448,8 @@ dosyasında tutulur. Komut satırından seçili hedef için değiştirilebilir
 | Parametre | 1. Ortak dil | 2. Ana Türkçe | 3. En çok kişi | Anlamı |
 |---|---|---|---|---|
 | yöntem | köprü | yaş | kişi | Ölçünün türü |
-| çevre eşiği | 0.5 | — | — | Bu anlaşılırlığın altındaki komşular çevreye katılmaz |
-| büyük topluluk | 1 milyon | — | — | Taban şartının uygulandığı diller |
+| benzerlik eşiği | 0.5 | — | — | Bu anlaşılırlığın altındaki komşular "aynı grup" sayılmaz |
+| taban şartı | 100 bin üstü | — | — | Taban şartının uygulandığı diller |
 | taban eşiği / cezası | 0.5 / 0.5 | — | — | Kimse geride kalmasın |
 | ikinci dil | — | — | evet | İkinci dil yoluyla anlama sayılsın mı |
 | β (`--beta`) | 0.2 | — | 0.2 | Eskiliğin etkisi |

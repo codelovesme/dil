@@ -4,59 +4,59 @@
 
 ## Ortak dil
 
-*Bütün Türk toplulukları birbirini anlasın; köprü dil.* dil ağırlığı = N / √(çevre); çevre = N + Σ pay(anlaşılırlık) × N_komşu, pay = (s − 0.5) / (1 − 0.5)  (örgü + karekök).
+*Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi.* dil ağırlığı = kendine özgülük × basamak / 8; kendine özgülük = b / (b + Σ pay(s) × b_komşu), pay(s) = (s − 0.5) / (1 − 0.5).
 
 | Kol | Ağırlık |
 |---|---:|
-| Oğur kolu | %2.5 |
-| Halaç kolu | %0.6 |
-| Oğuz kolu | %46.7 |
-| Kıpçak kolu | %24.5 |
-| Karluk kolu | %21.3 |
-| Sibirya kolu | %4.5 |
+| Oğur kolu | %5.3 |
+| Halaç kolu | %4.4 |
+| Oğuz kolu | %27.0 |
+| Kıpçak kolu | %31.7 |
+| Karluk kolu | %8.1 |
+| Sibirya kolu | %23.4 |
 
-| Dil | Kol | Konuşur | Anlaşılırlık çevresi | Ağırlık |
-|---|---|---:|---:|---:|
-| Türkiye Türkçesi | Oğuz kolu | 80.000.000 | 87.08 milyon | %24.79 |
-| Özbekçe | Karluk kolu | 35.000.000 | 41.60 milyon | %15.69 |
-| Azerbaycan Türkçesi | Oğuz kolu | 30.000.000 | 56.01 milyon | %11.59 |
-| Kazakça | Kıpçak kolu | 13.000.000 | 16.56 milyon | %9.24 |
-| Türkmence | Oğuz kolu | 7.000.000 | 7.28 milyon | %7.50 |
-| Uygurca | Karluk kolu | 11.000.000 | 32.00 milyon | %5.62 |
-| Tatarca | Kıpçak kolu | 4.300.000 | 5.18 milyon | %5.46 |
-| Kırgızca | Kıpçak kolu | 5.000.000 | 13.10 milyon | %3.99 |
-| Çuvaşça | Oğur kolu | 740.000 | 0.74 milyon | %2.49 |
-| Sahaca (Yakutça) | Sibirya kolu | 450.000 | 0.45 milyon | %1.94 |
-| Başkurtça | Kıpçak kolu | 1.200.000 | 4.21 milyon | %1.69 |
-| Kumukça | Kıpçak kolu | 450.000 | 0.61 milyon | %1.67 |
-| Tuvaca | Sibirya kolu | 280.000 | 0.28 milyon | %1.53 |
-| Karaçay-Malkarca | Kıpçak kolu | 300.000 | 0.50 milyon | %1.23 |
-| Salarca | Oğuz kolu | 70.000 | 0.07 milyon | %0.76 |
-| Irak Türkmencesi (Kerkük) | Oğuz kolu | 2.000.000 | 68.00 milyon | %0.70 |
-| Horasan Türkçesi | Oğuz kolu | 700.000 | 9.50 milyon | %0.66 |
-| Halaçça | Halaç kolu | 42.000 | 0.04 milyon | %0.59 |
-| Kaşkayca | Oğuz kolu | 950.000 | 21.95 milyon | %0.59 |
-| Hakasça | Sibirya kolu | 40.000 | 0.04 milyon | %0.57 |
-| Karakalpakça | Kıpçak kolu | 600.000 | 13.06 milyon | %0.48 |
-| Kırım Tatarcası | Kıpçak kolu | 400.000 | 8.42 milyon | %0.40 |
-| Sarı Uygurca | Sibirya kolu | 4.600 | 0.00 milyon | %0.20 |
-| Sibirya Tatarcası | Kıpçak kolu | 100.000 | 4.42 milyon | %0.14 |
-| Kuzey Altayca | Sibirya kolu | 3.000 | 0.00 milyon | %0.13 |
-| Güney Altayca | Kıpçak kolu | 55.000 | 2.05 milyon | %0.11 |
-| Şorca | Sibirya kolu | 3.000 | 0.01 milyon | %0.08 |
-| Nogayca | Kıpçak kolu | 90.000 | 11.93 milyon | %0.08 |
-| Gagavuzca | Oğuz kolu | 150.000 | 48.16 milyon | %0.06 |
-| Çulımca | Sibirya kolu | 40 | 0.00 milyon | %0.00 |
-| Balkan Gagavuz Türkçesi | Oğuz kolu | 11.000 | 56.12 milyon | %0.00 |
-| Dolganca | Sibirya kolu | 800 | 0.36 milyon | %0.00 |
-| Duhaca (Tsaatan) | Sibirya kolu | 500 | 0.17 milyon | %0.00 |
-| Urumca | Kıpçak kolu | 200 | 0.28 milyon | %0.00 |
-| Karayca | Kıpçak kolu | 80 | 0.16 milyon | %0.00 |
-| Soyotça | Sibirya kolu | 37 | 0.11 milyon | %0.00 |
-| Tofaca | Sibirya kolu | 40 | 0.14 milyon | %0.00 |
-| Fuyu Kırgızcası | Sibirya kolu | 10 | 0.02 milyon | %0.00 |
-| Kırımçakça | Kıpçak kolu | 20 | 0.36 milyon | %0.00 |
-| İli Türkçesi | Karluk kolu | 120 | 33.30 milyon | %0.00 |
+| Dil | Kol | Konuşur | Basamak | Kendine özgülük | Ağırlık |
+|---|---|---:|---:|---:|---:|
+| Çuvaşça | Oğur kolu | 740.000 | 6 | 1.00 | %5.33 |
+| Türkmence | Oğuz kolu | 7.000.000 | 7 | 0.74 | %4.63 |
+| Halaçça | Halaç kolu | 42.000 | 5 | 1.00 | %4.44 |
+| Salarca | Oğuz kolu | 70.000 | 5 | 1.00 | %4.44 |
+| Özbekçe | Karluk kolu | 35.000.000 | 8 | 0.54 | %3.81 |
+| Sahaca (Yakutça) | Sibirya kolu | 450.000 | 6 | 0.71 | %3.80 |
+| Uygurca | Karluk kolu | 11.000.000 | 8 | 0.53 | %3.74 |
+| Başkurtça | Kıpçak kolu | 1.200.000 | 7 | 0.59 | %3.65 |
+| Sarı Uygurca | Sibirya kolu | 4.600 | 4 | 1.00 | %3.55 |
+| Karaçay-Malkarca | Kıpçak kolu | 300.000 | 6 | 0.64 | %3.40 |
+| Hakasça | Sibirya kolu | 40.000 | 5 | 0.76 | %3.36 |
+| Tuvaca | Sibirya kolu | 280.000 | 6 | 0.62 | %3.33 |
+| Horasan Türkçesi | Oğuz kolu | 700.000 | 6 | 0.58 | %3.07 |
+| Kumukça | Kıpçak kolu | 450.000 | 6 | 0.58 | %3.07 |
+| Sibirya Tatarcası | Kıpçak kolu | 100.000 | 6 | 0.58 | %3.07 |
+| Tatarca | Kıpçak kolu | 4.300.000 | 7 | 0.49 | %3.04 |
+| Türkiye Türkçesi | Oğuz kolu | 80.000.000 | 8 | 0.41 | %2.90 |
+| Güney Altayca | Kıpçak kolu | 55.000 | 5 | 0.64 | %2.84 |
+| Azerbaycan Türkçesi | Oğuz kolu | 30.000.000 | 8 | 0.40 | %2.84 |
+| Kaşkayca | Oğuz kolu | 950.000 | 6 | 0.52 | %2.75 |
+| Irak Türkmencesi (Kerkük) | Oğuz kolu | 2.000.000 | 7 | 0.42 | %2.62 |
+| Kazakça | Kıpçak kolu | 13.000.000 | 8 | 0.37 | %2.62 |
+| Kırım Tatarcası | Kıpçak kolu | 400.000 | 6 | 0.48 | %2.56 |
+| Kırgızca | Kıpçak kolu | 5.000.000 | 7 | 0.38 | %2.39 |
+| Kuzey Altayca | Sibirya kolu | 3.000 | 4 | 0.67 | %2.37 |
+| Gagavuzca | Oğuz kolu | 150.000 | 6 | 0.42 | %2.23 |
+| Şorca | Sibirya kolu | 3.000 | 4 | 0.61 | %2.15 |
+| Karakalpakça | Kıpçak kolu | 600.000 | 6 | 0.32 | %1.71 |
+| Balkan Gagavuz Türkçesi | Oğuz kolu | 11.000 | 5 | 0.34 | %1.50 |
+| Çulımca | Sibirya kolu | 40 | 2 | 0.71 | %1.27 |
+| Urumca | Kıpçak kolu | 200 | 3 | 0.42 | %1.11 |
+| Dolganca | Sibirya kolu | 800 | 3 | 0.38 | %1.02 |
+| Nogayca | Kıpçak kolu | 90.000 | 5 | 0.22 | %0.99 |
+| Fuyu Kırgızcası | Sibirya kolu | 10 | 2 | 0.50 | %0.89 |
+| Duhaca (Tsaatan) | Sibirya kolu | 500 | 3 | 0.31 | %0.83 |
+| Karayca | Kıpçak kolu | 80 | 2 | 0.45 | %0.81 |
+| İli Türkçesi | Karluk kolu | 120 | 3 | 0.20 | %0.53 |
+| Kırımçakça | Kıpçak kolu | 20 | 2 | 0.27 | %0.48 |
+| Soyotça | Sibirya kolu | 37 | 2 | 0.25 | %0.45 |
+| Tofaca | Sibirya kolu | 40 | 2 | 0.23 | %0.40 |
 
 ## Ana Türkçe tahmini
 
