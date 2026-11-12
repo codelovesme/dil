@@ -31,8 +31,8 @@ alt:
     alt:
       - ad: Çuvaşça
         kod: chv
-        konusur: 700_000
-        konusur_not: "Etnik nüfus ~1 milyon; konuşur sayısı düşüyor."
+        konusur: 740_000
+        konusur_not: "2021 sayımı ~740 bin (2010'da ~1 milyondu, hızla düşüyor). Kaynak: Wikipedia, Moscow Times."
         tip: dil
         alt:
           - { ad: Viryal (Yukarı) ağzı, kod: chv-viryal }
@@ -97,8 +97,8 @@ alt:
                   - { ad: Güney ağzı (Vulkaneşti), kod: gag-guney }
               - ad: Balkan Gagavuz Türkçesi
                 kod: bgx
-                konusur: 5_000
-                konusur_not: "Çok belirsiz; topluluklar küçük ve dağınık, güvenilir sayım yok."
+                konusur: 11_000
+                konusur_not: "Sadece Balkan toplulukları (~4 bin K. Makedonya) ve Surguçlar (~7 bin, Edirne). Ethnologue'un ~460 bini Türkiye'deki Yörükleri de sayar; onlar burada Türkiye Türkçesinin Teke-Akdeniz ağzındadır."
                 not: Bulgaristan, Kuzey Makedonya ve Yunanistan'daki Gacal, Surguç vb. topluluklar.
           - ad: Azerbaycan grubu
             kod: oguz-azerbaycan
@@ -124,8 +124,8 @@ alt:
                   - { ad: Karapapak (Terekeme) ağzı, kod: aze-karapapak, not: "Doğu Anadolu ve Gürcistan." }
               - ad: Irak Türkmencesi (Kerkük)
                 kod: kerkuk
-                konusur: 1_000_000
-                konusur_not: "Tahminler 600 bin ile 3 milyon arasında değişiyor."
+                konusur: 2_000_000
+                konusur_not: "Etnik nüfus tahminleri 0.5–5 milyon; Ethnologue/Joshua Project dil için ~2.8 milyon, Irak Planlama Bakanlığı (2013) ~3 milyon etnik. Tahminlerin çoğu 1–10 milyon aralığında."
                 not: Azerbaycan Türkçesi ile Türkiye Türkçesi arasında; ayrı ISO kodu yok.
               - { ad: Kaşkayca, kod: qxq, konusur: 950_000 }
           - ad: Doğu Oğuz
@@ -143,7 +143,7 @@ alt:
                   - { ad: Salır ağzı, kod: tuk-salir }
                   - { ad: Sarık ağzı, kod: tuk-sarik }
                   - { ad: Çovdur ağzı, kod: tuk-covdur }
-              - { ad: Horasan Türkçesi, kod: kmz, konusur: 800_000, konusur_not: "Tahminler 400 bin ile 1 milyon arasında değişiyor." }
+              - { ad: Horasan Türkçesi, kod: kmz, konusur: 700_000, konusur_not: "Tahminler 400 bin – 960 bin (Doerfer-Hesche 1993: 960 bin; Wikipedia 2015-19: 400-900 bin)." }
               - ad: Salarca
                 kod: slr
                 konusur: 70_000
@@ -247,8 +247,8 @@ alt:
                   - { ad: "Astrahan ağzı (Karagaş, Yurt Tatarları)", kod: nog-astrahan }
               - ad: Sibirya Tatarcası
                 kod: sty
-                konusur: 50_000
-                konusur_not: "Etnik nüfus ~200 bin; dili konuşanlar daha az."
+                konusur: 100_000
+                konusur_not: "Yaklaşık 100 bin (Omniglot, Verbix; sayım değil). Sayımda 'Sibirya Tatarı' diyenler ~7-10 bin, çoğu kendini 'Tatar' yazıyor. Sınırda: 100 binin altına düşerse basamak 5 olur."
                 tip: dil
                 alt:
                   - { ad: Tobol-İrtiş ağzı, kod: sty-tobol }
@@ -299,7 +299,7 @@ alt:
                   - { ad: "Merkez ağızları (Kaşgar, Turfan, İli)", kod: uig-merkez }
                   - { ad: Hoten ağzı, kod: uig-hoten }
                   - { ad: Lopnur ağzı, kod: uig-lopnur }
-              - { ad: İli Türkçesi, kod: ili, konusur: 500, konusur_not: "Çok belirsiz; Çin ve Kazakistan'da küçük topluluklar.", not: "Kazakistan ve Çin'de İli vadisi; Uygurca ve Özbekçeye yakın." }
+              - { ad: İli Türkçesi, kod: ili, konusur: 120, konusur_not: "Çin'de ~100-120 (1980'ler), Kazakistan'da çok az; diğer veritabanları 240-300. Ciddi tehlikede.", not: "Kazakistan ve Çin'de İli vadisi; Uygurca ve Özbekçeye yakın." }
 
       # ========================================================== SİBİRYA
       - ad: Sibirya kolu
@@ -344,7 +344,7 @@ alt:
                     alt:
                       - { ad: Tofaca, kod: kim, konusur: 40 }
                       - { ad: Duhaca (Tsaatan), kod: duha, konusur: 500, not: "Moğolistan; Tofacaya yakın, ayrı ISO kodu yok." }
-                      - { ad: Soyotça, kod: soyot, konusur: 50, konusur_not: "Dil yeniden canlandırılıyor; akıcı konuşur çok az.", not: "Buryatya; yeniden canlandırılıyor." }
+                      - { ad: Soyotça, kod: soyot, konusur: 37, konusur_not: "2021 sayımı: 4.368 Soyot'tan 37'si anadili Soyotça dedi; akıcı konuşur neredeyse yok. Okullarda yeniden canlandırılıyor.", not: "Buryatya; yeniden canlandırılıyor." }
                   - { ad: Sarı Uygurca, kod: ybe, konusur: 4_600, not: "Çin (Gansu); Eski Uygurcanın torunu; sınıflandırması tartışmalı." }
               - ad: Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay)
                 kod: yenisey

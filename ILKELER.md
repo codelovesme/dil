@@ -109,18 +109,23 @@ puan alır:
 | 10 milyon ve üstü | 8 | Türkiye Türkçesi, Azerbaycan Türkçesi, Özbekçe, Kazakça, Uygurca |
 | 1 – 10 milyon | 7 | Türkmence, Tatarca, Başkurtça, Kırgızca, Irak Türkmencesi |
 | 100 bin – 1 milyon | 6 | Çuvaşça, Gagavuzca, Kaşkayca, Kırım Tatarcası, Sahaca, Tuvaca |
-| 10 – 100 bin | 5 | Halaçça, Salarca, Nogayca, Hakasça, Güney Altayca |
-| 1 – 10 bin | 4 | Balkan Gagavuz Türkçesi, Sarı Uygurca, Şorca, Kuzey Altayca |
+| 10 – 100 bin | 5 | Halaçça, Salarca, Nogayca, Hakasça, Güney Altayca, Balkan Gagavuz Türkçesi |
+| 1 – 10 bin | 4 | Sarı Uygurca, Şorca, Kuzey Altayca |
 | 100 – 1 000 | 3 | Urumca, İli Türkçesi, Dolganca, Duhaca |
 | 100'den az | 2 | Karayca, Kırımçakça, Tofaca, Soyotça, Çulımca, Fuyu Kırgızcası |
 
-- **Kalabalık ezemez.** 80 milyonluk Türkiye Türkçesi ile 5 bin kişilik Balkan
-  Gagavuz Türkçesi arasında 16.000 kat kişi farkı vardır, ağırlık farkı ise
-  sadece 2 kattır.
+- **Kalabalık ezemez.** 80 milyonluk Türkiye Türkçesi (basamak 8) ile 3 bin
+  kişilik Şorca (basamak 4) arasında 27.000 kat kişi farkı vardır, basamak
+  farkı ise sadece 2 kattır.
 - **Hata payına dayanıklıdır.** Konuşur sayıları yaklaşıktır ve
   [`agac.yaml`](agac.yaml) dosyasında `konusur` alanında tutulur. Belirsiz
-  olanlara `konusur_not` yazılır. Bir tahmin 2 kat yanlış olsa bile basamak
-  çoğu zaman değişmez.
+  olanlara `konusur_not` yazılır (tahmin aralığı, kaynak, tanım farkı). Bir
+  tahmin 2 kat yanlış olsa bile basamak çoğu zaman değişmez.
+- **Aynı insanlar iki kez sayılmaz.** Bir kaynağın sayısı başka bir dilin
+  ağzını da kapsıyorsa düşülür. Örneğin Ethnologue'un Balkan Gagavuz Türkçesi
+  için verdiği ~460 bin, Türkiye'deki Yörükleri de sayar. Biz onları Türkiye
+  Türkçesinin ağzı olarak tuttuğumuz için burada sadece Balkan toplulukları
+  ve Surguçlar (~11 bin) sayılır.
 - **Dil sayısı dal ağırlığını şişirmez.** Bir dalın ağırlığı, dillerinin
   *ortalama* basamağı ile dil sayısının *kökünün* çarpımıdır. α = 1 olsaydı
   çok dilli kollar kazanırdı, α = 0 olsaydı tek dilli Oğur kolu %50 alırdı.
