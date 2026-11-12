@@ -261,8 +261,11 @@ class Hedef:
 
 
 def hedefleri_yukle(taniklar, agac, ag) -> dict[str, Hedef]:
+    """Seçim yapan hedefler. `derleme` yöntemli hedef (sözlük) kelime seçmez; onu
+    araclar/sozluk.py işler."""
     with open(HEDEF_DOSYASI, encoding="utf-8") as f:
-        return {h.kod: h for h in (Hedef(v, taniklar, agac, ag) for v in yaml.safe_load(f))}
+        return {h.kod: h for h in (Hedef(v, taniklar, agac, ag) for v in yaml.safe_load(f)
+                                   if v["yontem"] != "derleme")}
 
 
 # ========================================================= ses yakınlığı
@@ -356,7 +359,8 @@ class Kavram:
 
 
 def kavramlari_yukle(secilenler: list[str], agac: Dugum, taniklar: list[Tanik]) -> list[Kavram]:
-    dosyalar = sorted(SOZLUK_DIZIN.rglob("*.yaml"))
+    # sozluk/kok/ kök (sözlük maddesi) dosyalarıdır, kavram değil (araclar/sozluk.py)
+    dosyalar = sorted(d for d in SOZLUK_DIZIN.rglob("*.yaml") if d.parent.name != "kok")
     if secilenler:
         dosyalar = [d for d in dosyalar if d.stem in secilenler]
         if bulunamayan := set(secilenler) - {d.stem for d in dosyalar}:

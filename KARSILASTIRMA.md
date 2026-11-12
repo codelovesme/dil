@@ -8,7 +8,7 @@ Toplam 7 kavram, 1 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
-| ben | men *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
+| ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | o | ol *(ol)* | ol *(ol)* | o *(ol)* | UYUŞUYOR |

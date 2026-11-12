@@ -1,6 +1,6 @@
 ---
 name: kelime-arastir
-description: Ortak Türk dili için bir kavramı/kelimeyi bütün Türk dillerinde araştırır, sozluk/ altına kavram dosyasını yazar, puanlar ve sonucu raporlar. Kullanıcı "X'i araştır", "X kelimesine bak", "X ekle" dediğinde kullan.
+description: Ortak Türk dili için bir kavramı/kelimeyi bütün Türk dillerinde araştırır, kökün tanıklı sözlük maddesini (sozluk/kok/) ve kavram dosyasını yazar, puanlar ve sonucu raporlar. Kullanıcı "X'i araştır", "X kelimesine bak", "X ekle" dediğinde kullan.
 ---
 
 # Kelime araştırma yöntemi
@@ -99,10 +99,32 @@ Kurallar:
 - Kaynakları kök düzeyinde `kaynak` alanına yaz. Tek bir biçim için özel bir
   kaynak varsa `{ bicim: ..., kaynak: ... }` biçiminde yaz.
 
-## 3. Dosyayı yaz
+## 3. Dosyaları yaz
 
-Şablon: [`sablon.yaml`](sablon.yaml). `dogrulandi: false` olarak bırak.
-`true` yapmak kullanıcının ya da onun gösterdiği bir kaynağın kararıdır.
+Her kelimede **iki dosya** yazılır (ILKELER.md §14):
+
+1. **Sözlük maddesi (önce):** her Türkçe kök için `sozluk/kok/<kök>.yaml`.
+   Şablon: [`kok-sablon.yaml`](kok-sablon.yaml). Topladığın her biçimi bir
+   **tanık** olarak yaz: dil/ağız/boy, yer, yüzyıl, biçim, özgün yazı, anlam,
+   metin, kaynak ve atıf, kaydeden. Kurallar:
+   - Kaynağı olmayan biçime `kaynak: bilgi` yaz; uydurma.
+   - Tarihî tanıklarda **metin** (kelimenin geçtiği eser) ile **kaynak** (bizim
+     okuduğumuz yer) ayrıdır. Clauson bir maddede bütün tarihî duraklarını verir;
+     her durağı ayrı tanık yap.
+   - Anlam kayıyorsa tanığın `anlam` alanına yaz.
+   - Bir dilde kök yoksa ve yerine alıntı kullanılıyorsa `yok` alanına "yerine X
+     (dil)" diye yaz.
+   - Hedef **Seviye 2**: bütün yaşayan diller + tarihî duraklar
+     (`hedefler.yaml` → `sozluk`). Önemli kelimelerde Seviye 3 (yabancı kayıtlar).
+2. **Kavram dosyası (sonra):** şablon [`sablon.yaml`](sablon.yaml). `bicimler` ve
+   `tarihi` alanları maddedeki tanıkların özetidir: her dilin günlük biçimi ve her
+   tarihî tanığın biçimi. `dogrulandi: false` olarak bırak; `true` yapmak
+   kullanıcının ya da onun gösterdiği bir kaynağın kararıdır.
+
+```bash
+python3 araclar/sozluk.py <kök>        # kapsam: seviye, eksik duraklar, eksik diller
+python3 araclar/sozluk.py --denetle    # madde ile kavram dosyası uyumlu mu?
+```
 
 ## 4. Puanla ve kontrol et
 
@@ -120,14 +142,17 @@ Hata veriyorsa düzelt (genellikle yanlış dil kodu).
 2. **Tablo:** dil → biçim (alıntılar işaretli).
 3. **Belirsizlikler:** boş bırakılan diller, şüpheli biçimler, tartışmalı kök
    bağlantıları.
-4. **Üç hedef:** her adayın üç ölçüsü (köprü puanı ve en az anlayan büyük
+4. **Sözlük (Hedef 4):** kapsam satırı (seviye, eksik duraklar, kaynaksız
+   tanıklar), en eski tanık ve ilginç anlam ya da ses gelişmeleri.
+5. **Üç hedef:** her adayın üç ölçüsü (köprü puanı ve en az anlayan büyük
    topluluk, kök yaşı, anlayan kişi sayısı) ve her hedefin seçimi. Ayrışıyorsa
    nedenini bir cümleyle açıkla. "Ödünç olabilir" uyarıları varsa belirt.
-5. **Karar gerektirenler:** kullanıcıya sorulacak en fazla 2–3 nokta.
+6. **Karar gerektirenler:** kullanıcıya sorulacak en fazla 2–3 nokta.
 
 ## 6. Kaydet
 
 `KARSILASTIRMA.md` dosyasını yenile
-(`python3 araclar/puanla.py --karsilastir --md > KARSILASTIRMA.md`).
+(`python3 araclar/puanla.py --karsilastir --md > KARSILASTIRMA.md`) ve sözlük
+sayfalarını üret (`python3 araclar/sozluk.py --yaz`).
 Kullanıcının çalışma branch'ine commit et ve push et. Commit mesajı:
 `sozluk: <kavram> eklendi` (güncellemede `güncellendi`).

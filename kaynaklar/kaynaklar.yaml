@@ -21,12 +21,17 @@
 #   durum        : denendi (bu ortamdan açıldı) | arandi (arama sonucunda görüldü, açılmadı) |
 #                  basili (çevrim içi değil)
 #   dogrulama    : son denetimin tarihi ve sonucu (HTTP kodu, çalışan erişim yolu, sorunlar)
+#   yuzyil       : kaynağın kaydettiği dil durumunun yüzyılı ("11" ya da "13-15"). Sözlük
+#                  tanıklarında (sozluk/kok/) tanığın yüzyılı yazılmamışsa buradan alınır.
 #   not          : ek bilgi, sınırlar
 #
 # Bu ortamın ağ izni olan adresler (environment: dil). Listede olmayan bir adrese
 # erişmek için ortam ayarlarına eklenmesi gerekir. Not: github.com HTML sayfaları bu
 # oturumun GitHub kapsamı yüzünden 403 verir; depo dosyaları raw.githubusercontent.com
 # üzerinden okunur.
+# archive.org: kayıt sayfaları ve metadata açılır, ama dosya indirme dnXXXX.archive.org
+# veri sunucularına yönlendiği için bu ortamda engellidir; aynı eser altaica.ru'da varsa
+# oradan indirilir. Taranmış PDF'ler için ortamda tesseract (tur, rus) kurulabilir.
 
 izinli_hostlar:
   - en.wiktionary.org
@@ -645,6 +650,7 @@ kaynaklar:
     dogrulama: >-
       2026-11-12: Atalay archive.org kaydı; altaica'daki dizin, tıpkıbasım, İngilizce,
       Rusça, Kazakça ve Türkçe dizin PDF'leri açıldı (HTTP 200/206).
+    yuzyil: 11
 
   - kimlik: boeschoten
     ad: Boeschoten — A Dictionary of Early Middle Turkic (Brill 2022)
@@ -677,6 +683,7 @@ kaynaklar:
     dogrulama: >-
       2026-11-12: Kuun 1880 baskısı archive.org'da açıldı (HTTP 200). Halle adresi bu
       ortamda izinli değil.
+    yuzyil: 14
 
   - kimlik: akvius-cagatayca
     ad: Akvius — çevrim içi Çağatayca sözlük
@@ -1409,6 +1416,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı açıldı (HTTP 200).
+    yuzyil: 14
 
   - kimlik: turkbv
     ad: ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)
@@ -1911,6 +1919,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı; altaica.ru PDF'i; Poppe PDF'i açıldı (HTTP 200/206).
+    yuzyil: 13
 
   - kimlik: ibn-muhenna
     ad: İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)
@@ -1933,6 +1942,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru PDF'i; archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 13-14
 
   - kimlik: kitab-idrak
     ad: >-
@@ -1954,6 +1964,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 14
 
   - kimlik: tuhfe-zekiyye
     ad: >-
@@ -1973,6 +1984,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 14
 
   - kimlik: bulgat-durre
     ad: >-
@@ -1995,6 +2007,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru'daki iki PDF; archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 14-15
 
   - kimlik: toparli-kipcak
     ad: Toparlı, Vural, Karaatlı — Kıpçak Türkçesi Sözlüğü (TDK 2007)
@@ -2016,6 +2029,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+    yuzyil: 13-15
     not: >-
       Basılı TDK yayını; altaica kopyasının telif durumu belirsiz, atıfta TDK baskısını
       gösterin.
@@ -2039,6 +2053,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru DJVU'su açıldı (HTTP 200/206).
+    yuzyil: 14
 
   - kimlik: mukaddimet-edeb
     ad: >-
@@ -2062,6 +2077,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: Poppe PDF'i; McGill elyazması kaydı açıldı (HTTP 200/206).
+    yuzyil: 12-14
 
   - kimlik: rasulid-hexaglot
     ad: >-
@@ -2084,6 +2100,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+    yuzyil: 14
 
   - kimlik: abuska
     ad: Abuşka — Çağatayca-Osmanlıca sözlük (16. yy; Vámbéry 1862, Atalay 1970)
@@ -2104,6 +2121,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru PDF'i; archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 16
 
   - kimlik: bedayi-lugat
     ad: >-
@@ -2124,6 +2142,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+    yuzyil: 16
 
   - kimlik: senglah
     ad: Mirza Mehdi Han — Senglâh (1759-60; Clauson 1960 tıpkıbasım)
@@ -2139,6 +2158,7 @@ kaynaklar:
     bicim: basili
     guven: yuksek
     durum: basili
+    yuzyil: 18
 
   - kimlik: cagatay-batili-sozlukler
     ad: >-
@@ -2163,6 +2183,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: üç archive.org kaydı; altaica kopyaları açıldı (HTTP 200/206).
+    yuzyil: 19
     not: >-
       19. yy yayınları; okunuşlar zaman zaman Osmanlıcaya göre düzeltilmiş, dikkatli
       kullanın.
@@ -2200,6 +2221,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+    yuzyil: 13-15
 
   # ================================================== YABANCI KAYITLAR 2 — Çince, Tibetçe, Hotanca, Soğdca, Toharca ve İran dilleri
 
@@ -2230,6 +2252,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: dört altaica PDF'i açıldı (HTTP 200/206).
+    yuzyil: 6-8
     not: >-
       Çince transkripsiyonun yorumu tartışmalıdır; tek başına kök kanıtı sayılmaz, yazıt
       biçimiyle birlikte kullanın.
@@ -2257,6 +2280,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: üç altaica PDF'i açıldı (HTTP 200/206).
+    yuzyil: 15-16
 
   - kimlik: bes-dilli-ayna
     ad: Wuti Qingwen Jian — Beş Dilli Ayna (18. yy; Mançu-Tibet-Moğol-Çağatay-Çince)
@@ -2304,6 +2328,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: dört altaica PDF'i açıldı (HTTP 200/206).
+    yuzyil: 10
 
   - kimlik: yabanci-yazili-eski-turkce
     ad: Brahmi, Tibet, Soğd ve Phags-pa harfli Eski Türkçe
@@ -2634,6 +2659,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: 1. ve 4. cilt PDF'leri; archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 19
     not: >-
       Kiril harfli çeviriyazı Radloff'un kendi sistemiyle; ä, ï, ö, ü ayrımları dikkatle
       okunmalı.
@@ -2656,6 +2682,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: 1. cilt PDF'i açıldı (HTTP 200/206).
+    yuzyil: 19
 
   - kimlik: vambery-1878
     ad: Vámbéry — Etymologisches Wörterbuch der turko-tatarischen Sprachen (1878)
@@ -2672,6 +2699,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 19
     not: Etimolojilerinin çoğu eskimiştir; yalnız biçim tanığı olarak kullanın.
 
   - kimlik: pallas-1787
@@ -2694,6 +2722,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı; altaica PDF'i açıldı (HTTP 200/206).
+    yuzyil: 18
 
   - kimlik: klaproth
     ad: Klaproth — Asia Polyglotta (1823) ve Uygur dili ve yazısı üzerine (1812/1820)
@@ -2715,6 +2744,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: üç archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 19
 
   - kimlik: strahlenberg-witsen
     ad: >-
@@ -2737,6 +2767,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: Strahlenberg archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 17-18
     not: >-
       Witsen archive.org'da bulunamadı; yazım Almanca ve Felemenkçe kulağına göre.
 
@@ -2760,6 +2791,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: Castrén archive.org kaydı; Böhtlingk PDF'leri açıldı (HTTP 200/206).
+    yuzyil: 19
 
   - kimlik: meninski-transkripsiyon
     ad: Meninski 1680 ve Latin harfli Osmanlıca (Megiser 1612, Molino 1641)
@@ -2782,6 +2814,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 17
 
   - kimlik: osmanlica-batili-sozlukler
     ad: >-
@@ -2803,6 +2836,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: üç archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 19
 
   - kimlik: komsu-dillerde-turkce
     ad: Komşu dillerdeki Türkçe ödünçler (Miklosich 1884, Şipova 1976, Škaljić 1966)
@@ -2944,6 +2978,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+    yuzyil: 13-14
 
   - kimlik: turfan-ilk-yayinlar
     ad: >-
@@ -3005,6 +3040,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-12: iki altaica PDF'i açıldı (HTTP 200/206).
+    yuzyil: 16-17
 
   - kimlik: karayca-eski-kayitlar
     ad: Karayca eski kayıtlar (Kowalski 1929 Trakay metinleri; KRPS 1974)
@@ -3045,6 +3081,7 @@ kaynaklar:
     durum: arandi
     dogrulama: >-
       2026-11-12: aramada görüldü; sunucular bu ortamda izinli değil.
+    yuzyil: 18-20
 
   - kimlik: arapca-farsca-sozlukler
     ad: Arapça ve Farsça kaynak sözlükler (Lane, Steingass) — ödünç sınaması

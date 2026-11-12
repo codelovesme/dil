@@ -3,13 +3,14 @@
 Bütün Türk kavimlerinin birbirini anlamasını kolaylaştıracak, **öz ve eski
 Türkçe** kelimelere dayanan ortak bir dil oluşturma çalışması.
 
-Aynı veriden üç soruya cevap aranır; her birinin kendi ölçüsü vardır:
+Aynı veriden dört soruya cevap aranır; her birinin kendi ölçüsü vardır. İlk üçü kelime seçer, dördüncüsü kökün bütün tanıklarını belgeler:
 
 | Hedef | Soru | Ölçü |
 |---|---|---|
 | **1. Ortak dil** (asıl ürün) | Ortak kelime: ne kadar çok farklı grup kullanıyor? | Yaygınlık; gruplar etiketle değil örgüdeki benzerlikle belirlenir |
 | **2. Ana Türkçe tahmini** | Türkçenin en eski hâli neydi? | Kök yaşı: kök soy ağacının hangi düğümüne kadar gidiyor |
 | **3. En çok kişinin anladığı** | En fazla insan anlasın | Anlayan kişi sayısı (ikinci dil dahil) |
+| **4. Tanıklı sözlük** | Her kök nerede, ne zaman, nasıl, hangi anlamda kullanılmış? | Kapsam: diller, ağızlar, tarihî duraklar, kaynaklar |
 
 Her kelimenin her adayı için üç ölçü yan yana gösterilir. Üç hedefin aynı kökü
 seçtiği kelimeler sağlamdır; ayrıştıkları kelimeler tartışmaya açılır:
@@ -31,7 +32,7 @@ Ayrıntılar: **[ILKELER.md](ILKELER.md)**
 
 ```
 ILKELER.md          kriterler ve kurallar
-hedefler.yaml       üç hedefin ağırlık, ölçü ve biçim ayarları
+hedefler.yaml       dört hedefin ayarları (sözlüğün tarihî durakları dahil)
 agac.yaml           soy ağacı: 40 dil, 89 ağız, konuşur sayıları
 ag.yaml             örgü: anlaşılırlık, ikinci dil ve temas bağları (tahmini)
 tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
@@ -39,7 +40,10 @@ AGIRLIKLAR.md       üç hedefin ağırlık tabloları (üretilir)
 KARSILASTIRMA.md    her kavram için üç hedefin seçimi (üretilir)
 kaynaklar/          kaynak sözlüğü: ~170 kaynak, ihtiyaca ve dile göre (KAYNAKLAR.md)
 sozluk/SIRA.md      kelimelerin çalışma sırası (sıklığa göre)
-sozluk/temel/       temel söz varlığı: her kavram için bir dosya
+sozluk/temel/       temel söz varlığı: her kavram için bir dosya (seçim)
+sozluk/kok/         tanıklı sözlük: her kök için tanıklar (.yaml) ve okunur sayfa (.md)
+sozluk/SOZLUK.md    sözlük dizini ve kapsam tablosu (üretilir)
+araclar/sozluk.py   sözlük: doğrulama, kapsam, sayfa üretimi
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
 .claude/skills/kelime-arastir/   bir kelimeyi araştırma yöntemi ve şablon
 ```
@@ -58,6 +62,11 @@ python3 araclar/puanla.py su --agizlar        # ağızlar dahil
 python3 araclar/puanla.py buyuk --hedef ana   # başka hedef: ortak | ana | nufus
 python3 araclar/puanla.py --karsilastir       # üç hedef yan yana
 python3 araclar/puanla.py --agirliklar --hedef nufus   # bir hedefin ağırlıkları
+
+python3 araclar/sozluk.py                     # sözlük: bütün köklerin kapsamı
+python3 araclar/sozluk.py ben                 # tek kök: eksik duraklar ve diller
+python3 araclar/sozluk.py --denetle           # kök dosyaları ile kavram dosyaları uyumlu mu
+python3 araclar/sozluk.py --yaz               # sozluk/kok/*.md ve sozluk/SOZLUK.md üret
 
 # üretilen dosyaları yenile
 python3 araclar/puanla.py --agirliklar --md > AGIRLIKLAR.md

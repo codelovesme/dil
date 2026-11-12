@@ -9,6 +9,11 @@ Türk topluluklarını öz Türkçe kelimelerle birbirine bağlamak. Aynı verid
 **üç ayrı soruya** cevap aranır. Bunlar farklı sorulardır ve her biri kendi
 ölçüsünü ister. Ayarlar [`hedefler.yaml`](hedefler.yaml) dosyasındadır.
 
+Bunlara bir **dördüncü hedef** eşlik eder: **tanıklı sözlük** (§14). İlk üç hedef
+bir kelime *seçer*; sözlük hiçbir şey seçmez, her kökün bütün hayatını *belgeler*:
+hangi dilde, ağızda ve boyda, nerede, kaçıncı yüzyılda, hangi biçim ve anlamla
+kullanılmış, kim kaydetmiş. Üç hedefin dayandığı kanıt budur; ölçüsü kapsamdır.
+
 | | 1. Ortak dil **(asıl ürün)** | 2. Ana Türkçe tahmini | 3. En çok kişinin anladığı |
 |---|---|---|---|
 | **Soru** | Ortak kelime: ne kadar çok farklı grup kullanıyorsa o kadar iyi | Türkçenin en eski hâli neydi? | En fazla insan anlasın |
@@ -38,7 +43,8 @@ Diller arasındaki ilişkiler iki ayrı yapıda tutulur:
 | [`agac.yaml`](agac.yaml) | **Soy ağacı:** hangi dil hangisinden geliyor; diller, ağızlar, konuşur sayıları | Hedef 2'nin temeli; raporlarda alttan yukarı gösterim |
 | [`ag.yaml`](ag.yaml) | **Örgü:** diller arasındaki ağırlıklı bağlar (anlaşılırlık, ikinci dil, temas) | Hedef 1, 3 ve Hedef 2'deki ödünç ayıklama |
 | [`tarihi.yaml`](tarihi.yaml) | Tarihî tanıklar (Eski Türkçe, Karahanlıca…) | Eskilik, Hedef 2 |
-| `sozluk/` | Kavramlar: her kökün dillerdeki biçimleri | Hepsi |
+| `sozluk/temel/…` | Kavramlar: her kavramın aday kökleri ve dillerdeki günlük biçimleri | Hedef 1-3 |
+| `sozluk/kok/` | Sözlük maddeleri: her kökün bütün tanıkları (yer, yüzyıl, biçim, anlam, kaynak) | Hedef 4; Hedef 1-3'ün kanıtı |
 
 Ağaç ile örgünün ayrılmasının sebebi şudur: diller hem bir soydan gelir hem de
 komşularıyla etkileşir. Örneğin Güney Altayca hem Kırgızcaya hem Tuvacaya
@@ -464,3 +470,70 @@ dosyasında tutulur. Komut satırından seçili hedef için değiştirilebilir
 | ağız α | 0.5 | 0 (eşit) | 0.5 | Ağız sayısının dil içindeki ağırlığa etkisi |
 | yazı dili payı | %50 | ağız gibi | %50 | Yazı dilinin dil içindeki payı |
 | eşik (`--esik`) | 0.5 | — | 0.5 | Bu yayılımın altındaki kökler "canlandırma" sayılır |
+
+## 14. Hedef 4: Tanıklı sözlük
+
+Her **kök** için bir sözlük maddesi tutulur: `sozluk/kok/<kök>.yaml`. Madde
+kavrama değil köke bağlıdır, çünkü anlam kökün peşinden gider. Bir kök dillerde
+farklı anlamlara kayabilir ve birden çok kavrama hizmet edebilir. Kavram dosyası
+"bu kavram için hangi kökler var, hangisini seçiyoruz?" sorusunu cevaplar. Madde
+ise "bu kök nerede, ne zaman, nasıl yaşadı?" sorusunu.
+
+### Tanık
+
+Maddenin çekirdeği tanık listesidir. Her tanık tek bir kayıttır:
+
+| Alan | Açıklama |
+|---|---|
+| `dil` | Dil ya da ağız kodu (`agac.yaml`), tarihî tanık kodu (`tarihi.yaml`) ya da dal kodu (`oguz`, `kipcak`: kaynak yalnızca "Oğuzlar", "Kıpçaklar" diyorsa) |
+| `boy` | Kaynağın adlandırdığı boy ya da ağız (ör. Kâşgarlı'nın "Suvar"ı, Memlük kaynaklarının "Türkmen"i) |
+| `yer` | Yer: Orhon, Kâşgar, Memlük Mısır'ı, Lviv, Erzurum… |
+| `yuzyil` | Yüzyıl ya da aralık (`8`, `9-14`). Yazılmazsa kaynağın `yuzyil` alanından alınır; yaşayan dillerde varsayılan günümüzdür |
+| `bicim` | Çalışma yazımıyla biçim (§11) |
+| `yazi` | Özgün yazı: 𐰋𐰤, مَنْ, мин… |
+| `anlam` | Bu tanıktaki anlam (kökün temel anlamından farklıysa mutlaka) |
+| `metin` | Kelimenin geçtiği özgün metin (Kül Tigin, DLT, Codex Cumanicus…) |
+| `kaynak`, `atif` | Bizim okuduğumuz kaynak (kaynak sözlüğü kimliği) ve madde/sayfa. Metin ile kaynak farklı olabilir: Codex Cumanicus'taki biçimi Grønbech'ten okuruz |
+| `kaydeden`, `yabanci` | Kaydı tutan kişi ya da topluluk. Türk olmayan bir gözlemci ya da Türkçe olmayan bir dilde yazılmış sözlükse `yabanci: true` |
+
+Kurallar:
+
+- **Kaynaksız tanık yoktur.** Kaynakla doğrulanmamış, genel bilgiye dayanan
+  biçim `kaynak: bilgi` diye yazılır ve raporda işaretlenir. Bunlar ilk fırsatta
+  bir kaynakla değiştirilir.
+- **Tarihî duraklar yalnızca kaynaklı tanıkla dolar.** Yaşayan bir dilin biçimi
+  konuşurlarca denetlenebilir; yüzyıllar önceki bir biçim ancak kaynakla.
+- **Özgün yazı ile çeviriyazı ayrı tutulur.** Yorum `not`'a yazılır, `bicim`'e
+  değil.
+- **Alıntılar da kaydedilir, ama seçilmez.** Bir dilde kök kaybolmuş ve yerine
+  başka bir kelime geçmişse maddenin `yok` alanına "yerine X (Farsça)" diye
+  yazılır. Bu, canlandırmada neyin öğretilmesi gerektiğini gösterir.
+- Araştırılıp bulunamayan diller `yok`'a, tarihî duraklar `tarihi_yok`'a yazılır.
+  Hiç bakılmamış olanlar yazılmaz; kapsamda eksik görünür.
+
+### Kapsam (Hedef 4'ün ölçüsü)
+
+Sözlük kelime seçmez; ölçüsü maddenin ne kadar eksiksiz olduğudur:
+
+| Seviye | Şart |
+|---|---|
+| **1** | Bütün yaşayan diller: her dilde en az bir güncel tanık ya da `yok` kaydı. Ağız kapsamı ayrıca ölçülür |
+| **2** | + zorunlu tarihî duraklar: Eski Türkçe, Karahanlıca, Harezm-Altın Orda, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| **3** | + en az bir yabancı kayıt (Çin yıllığı, Hotanca liste, Codex Cumanicus, Memlük sözlükçüleri, Avrupalı derlemeciler…) |
+
+Duraklar ve eşikler [`hedefler.yaml`](hedefler.yaml)'da. Her kelimede hedef
+Seviye 2'dir; önemli kelimelerde Seviye 3.
+
+Raporda ayrıca tanık sayısı, kaynaklı tanık oranı, bağımsız kaynak sayısı ve en
+eski tanığın yüzyılı gösterilir. Dizin: [`sozluk/SOZLUK.md`](sozluk/SOZLUK.md).
+
+### Öteki hedeflerle bağ
+
+- Kavram dosyasındaki `bicimler` ve `tarihi` alanları maddenin tanıklarının
+  özetidir. `python3 araclar/sozluk.py --denetle` ikisini karşılaştırır.
+  Uyuşmazlık varsa önce tanığa bakılır.
+- Hedef 2 için maddenin en eski tanığı, kökün ağaçtaki yaşına ek bir kanıttır.
+- "Öz Türkçe" ilkesi için tanıklar ödünç sınamasına yardım eder. Örneğin bir
+  kelime ilk kez Moğol döneminde ve yalnız Moğolca temaslı dillerde görünüyorsa
+  şüphelidir.
+

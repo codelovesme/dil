@@ -14,7 +14,7 @@ kokler:
     not: >-
       Wiktionary'de olmayan diller (Kerkük, Horasan, Sibirya Tatarcası, Urumca,
       Balkan Gagavuz, Türkiye ağızları) genel Türkoloji bilgisine dayanır, ayrıca
-      doğrulanmalıdır. Sarı Uygurca, İli Türkçesi, Çulımca, Fuyu Kırgızcası,
+      doğrulanmalıdır. Sarı Uygurca, İli Türkçesi, Fuyu Kırgızcası,
       Duhaca, Soyotça bilinçli olarak boş bırakıldı.
     tarihi:
       otk: bän            # Orhon yazıtları 𐰋𐰤; Eski Uygurca män
@@ -64,7 +64,7 @@ kokler:
       alt: men
       # --- Karluk
       uzb: men
-      uig: men                           # مەن
+      uig: män                           # مەن (ە = ä; Uygur Latin yazısında men)
       # --- Sibirya
       sah: min
       dlg: min
@@ -72,4 +72,5 @@ kokler:
       kim: men
       kjh: min
       cjs: men
+      clw: män                           # Lemskaya 2024; değişkenler man, men, meen
       atv: men                           # мен; ayrıca бин

@@ -823,6 +823,7 @@ Ana Türkçe yeniden kuruluşları ve her maddenin altında torun dillerdeki bi�
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Makaleler ve bibliyografya
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** düşük · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Not:** Etimolojilerinin çoğu eskimiştir; yalnız biçim tanığı olarak kullanın.
 - **Kimlik:** `vambery-1878`
 
@@ -1042,6 +1043,7 @@ Asya dillerinin kelime listeleri: Çuvaşça, Sahaca, Tofaca (Karagas), Hakas a�
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ağız verisi
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: üç archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `klaproth`
 
 <a id="pallas-1787"></a>
@@ -1057,6 +1059,7 @@ II. Katerina'nın emriyle 200'ü aşkın dilde 285 kavramlık karşılaştırmal
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ağız verisi, Sıklık listeleri ve kavram listeleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı; altaica PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 18. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `pallas-1787`
 
 <a id="strahlenberg-witsen"></a>
@@ -1072,6 +1075,7 @@ Poltava'da esir düşen İsveçli subay Strahlenberg'in 'Tabula polyglotta'sı v
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ağız verisi
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: Strahlenberg archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 17-18. yy (sözlük tanıklarında varsayılan)
 - **Not:** Witsen archive.org'da bulunamadı; yazım Almanca ve Felemenkçe kulağına göre.
 - **Kimlik:** `strahlenberg-witsen`
 
@@ -1168,6 +1172,7 @@ https://altaica.ru/LIBRARY/runic/Zaj%C4%85czkowski_Vocabulaire%20Arabe-Kiptchak,
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru'daki iki PDF; archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 14-15. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `bulgat-durre`
 
 <a id="castren-bohtlingk"></a>
@@ -1183,6 +1188,7 @@ Finli Castrén'in Koybal (Hakas ağzı) ve Karagas (Tofaca) sözlükçesi; Böht
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ağız verisi, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: Castrén archive.org kaydı; Böhtlingk PDF'leri açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `castren-bohtlingk`
 
 <a id="codex-cumanicus"></a>
@@ -1198,6 +1204,7 @@ Kuman-Kıpçakça tanığı. Halle baskısı (kamu malı, PDF); Kuun 1880 baskı
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (opendata.uni-halle.de)
 - **Doğrulama:** 2026-11-12: Kuun 1880 baskısı archive.org'da açıldı (HTTP 200). Halle adresi bu ortamda izinli değil.
+- **Tanıkların yüzyılı:** 14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `codex-cumanicus`
 
 <a id="kitab-idrak"></a>
@@ -1213,6 +1220,7 @@ Kahire'de Arapça yazılmış Kıpçakça sözlük ve dilbilgisi; yer yer Türkm
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Dilbilgisi (Aşama 3)
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `kitab-idrak`
 
 <a id="erdal-volga-bulgar"></a>
@@ -1243,6 +1251,7 @@ https://altaica.ru/LIBRARY/runic/%D0%93%D0%B0%D1%80%D0%BA%D0%B0%D0%B2%D0%B5%D1%8
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: iki altaica PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 16-17. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `ermeni-kipcak`
 
 <a id="gaochang-yiyu"></a>
@@ -1259,6 +1268,7 @@ Ming sarayının çevirmen bürosunun Uygurca-Çince kelime listesi (Hua-yi yiyu
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: üç altaica PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 15-16. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `gaochang-yiyu`
 
 <a id="gronbech-kuman"></a>
@@ -1274,6 +1284,7 @@ Codex Cumanicus'taki bütün Kumanca kelimelerin alfabetik sözlüğü (Grønbec
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Yaşayan dillerde biçim toplama
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200).
+- **Tanıkların yüzyılı:** 14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `gronbech-kuman`
 
 <a id="gottingen-altuygur"></a>
@@ -1319,6 +1330,7 @@ Büyük Eski Uygurca sözlük projesi (Wilkens, Ünal vd.). Bağlantı projenin 
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: dört altaica PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 10. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `hotanca-turkce`
 
 <a id="houtsma-leiden"></a>
@@ -1334,6 +1346,7 @@ Memlük Mısır'ında 1245'te yazılmış Arapça açıklamalı Türkçe sözlü
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ödünç ve miras ayrımı (özellikle Çuvaşça)
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı; altaica.ru PDF'i; Poppe PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 13. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `houtsma-leiden`
 
 <a id="kohd-eski-uygurca"></a>
@@ -1379,6 +1392,7 @@ Trakay ağzı metinleri ve Karayca-Lehçe sözlükçe; Karayca-Rusça-Lehçe sö
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ağız verisi
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: Atalay archive.org kaydı; altaica'daki dizin, tıpkıbasım, İngilizce, Rusça, Kazakça ve Türkçe dizin PDF'leri açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 11. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `dlt`
 
 <a id="meninski-transkripsiyon"></a>
@@ -1394,6 +1408,7 @@ Meninski'nin Thesaurus'u 17. yy Osmanlıcasını Latin harfiyle ve okunuşuyla v
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 17. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `meninski-transkripsiyon`
 
 <a id="senglah"></a>
@@ -1408,6 +1423,7 @@ Farsça yazılmış en büyük Çağatayca sözlük; Clauson EDPT'de sık kullan
 - **Diller:** Harezm Türkçesi ve Çağatayca
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
+- **Tanıkların yüzyılı:** 18. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `senglah`
 
 <a id="mogolistan-yazitlari"></a>
@@ -1456,6 +1472,7 @@ Altın Orda edebî dili (Kutb'un Hüsrev ü Şirin'i) üzerine kurulu; maddelerd
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** djvu · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru DJVU'su açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `najip-xiv`
 
 <a id="pelliot-marco-polo"></a>
@@ -1487,6 +1504,7 @@ https://altaica.ru/LIBRARY/runic/Golden%20%28ed.%29_The%20King%27s%20Dictionary.
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ödünç ve miras ayrımı (özellikle Çuvaşça)
 - **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `rasulid-hexaglot`
 
 <a id="toparli-kipcak"></a>
@@ -1503,6 +1521,7 @@ Memlük Kıpçakçası kaynaklarının (İdrâk, Tuhfe, Bulgat, Kavânîn, Houts
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 13-15. yy (sözlük tanıklarında varsayılan)
 - **Not:** Basılı TDK yayını; altaica kopyasının telif durumu belirsiz, atıfta TDK baskısını gösterin.
 - **Kimlik:** `toparli-kipcak`
 
@@ -1535,6 +1554,7 @@ Nevayi'nin eserleri için Farsça açıklamalı Çağatayca sözlük.
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 16. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `bedayi-lugat`
 
 <a id="wilkens-eski-uygurca"></a>
@@ -1580,6 +1600,7 @@ Arapça sözlüğün sonraki elyazmalarına Harezm Türkçesi, Çağatayca ve Mo
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ödünç ve miras ayrımı (özellikle Çuvaşça)
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: Poppe PDF'i; McGill elyazması kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 12-14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `mukaddimet-edeb`
 
 <a id="tuhfe-zekiyye"></a>
@@ -1596,6 +1617,7 @@ Memlük Kıpçakçasının Arapça açıklamalı sözlüğü ve dilbilgisi.
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `tuhfe-zekiyye`
 
 <a id="cin-transkripsiyonlari"></a>
@@ -1612,6 +1634,7 @@ https://altaica.ru/LIBRARY/runic/Kasai_Die%20altt%C3%BCrkischen%20W%C3%B6rter%20
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ana Türkçe kuruluşu ve etimoloji, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: dört altaica PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 6-8. yy (sözlük tanıklarında varsayılan)
 - **Not:** Çince transkripsiyonun yorumu tartışmalıdır; tek başına kök kanıtı sayılmaz, yazıt biçimiyle birlikte kullanın.
 - **Kimlik:** `cin-transkripsiyonlari`
 
@@ -1629,6 +1652,7 @@ https://altaica.ru/LIBRARY/runic/Battal_%C4%B0bn%C3%BC-M%C3%BChenn%C3%A2%20L%C3%
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ağız verisi
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru PDF'i; archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 13-14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `ibn-muhenna`
 
 <a id="dts"></a>
@@ -1660,6 +1684,7 @@ Ali Şir Nevayi'nin dilini Osmanlı okuruna açıklayan sözlük.
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru PDF'i; archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 16. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `abuska`
 
 <a id="akvius-cagatayca"></a>
@@ -1704,6 +1729,7 @@ Pavet de Courteille'in Fransızca Dictionnaire turk-oriental'i, Vámbéry'nin Č
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: üç archive.org kaydı; altaica kopyaları açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Not:** 19. yy yayınları; okunuşlar zaman zaman Osmanlıcaya göre düzeltilmiş, dikkatli kullanın.
 - **Kimlik:** `cagatay-batili-sozlukler`
 
@@ -1721,6 +1747,7 @@ Eski Anadolu Türkçesi (Eski Oğuzca) metinlerinden derlenmiş sözlük.
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: altaica.ru PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 13-15. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `bahsayis`
 
 <a id="cagatay-izahli"></a>
@@ -1751,6 +1778,7 @@ Doğu Türkistan'da hazırlanmış, Uygurca açıklamalı Çağatayca sözlük.
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ses denklikleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (iris.unive.it)
 - **Doğrulama:** 2026-11-12: aramada görüldü; sunucular bu ortamda izinli değil.
+- **Tanıkların yüzyılı:** 18-20. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `karamanlica`
 
 <a id="tibet-kaynaklari"></a>
@@ -1812,6 +1840,7 @@ Azerbaycanca açıklamalı runik yazıtlar sözlüğü ve Uygurca 'Qedimki Uyghu
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 13-14. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `suryani-yazitlar`
 
 ### Dil sözlükleri
@@ -1829,6 +1858,7 @@ Her kelimenin Türkçe, Arapça ya da Farsça olduğunu işaretleyen büyük sö
 - **İşe yaradığı yer:** Ödünç ve miras ayrımı (özellikle Çuvaşça), Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: üç archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `osmanlica-batili-sozlukler`
 
 <a id="arapca-farsca-sozlukler"></a>
@@ -1993,6 +2023,7 @@ Kazakçanın en büyük açıklamalı sözlüğü (A. Baytursınulı Dilbilim En
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ağız verisi, Tarihî tanık biçimleri, Toplu, makinece okunabilir veri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: 1. ve 4. cilt PDF'leri; archive.org kaydı açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Not:** Kiril harfli çeviriyazı Radloff'un kendi sistemiyle; ä, ï, ö, ü ayrımları dikkatle okunmalı.
 - **Kimlik:** `radloff`
 
@@ -2113,6 +2144,7 @@ Rusça açıklamalı, Arap harfli madde başlarıyla Osmanlıca, Azerbaycanca, T
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: 1. cilt PDF'i açıldı (HTTP 200/206).
+- **Tanıkların yüzyılı:** 19. yy (sözlük tanıklarında varsayılan)
 - **Kimlik:** `budagov`
 
 <a id="dogu-yugur-sozluk"></a>
