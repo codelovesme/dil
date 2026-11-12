@@ -602,9 +602,16 @@ def _gunluk(dugum: Dugum, kv: Kavram) -> str | None:
     return max(adaylar)[1] if adaylar else None
 
 
-def _yaygin_bicim(dugum: Dugum, kok: Kok) -> str:
+def _yaygin_bicim(dugum: Dugum, kok: Kok, eski: str | None = None) -> str:
+    """En çok dilde görülen biçim; eşitlikte en eski tanık biçimine en yakın olan,
+    o da eşitse daha çok kişinin kullandığı."""
     sayac = Counter(kok.bicimler[k].bicim for k in dugum.yaprak_kodlari if k in kok.bicimler)
-    return max(sayac, key=lambda f: (sayac[f], f))
+    kisi: Counter = Counter()
+    for L in dugum.diller:
+        for k in L.yaprak_kodlari:
+            if k in kok.bicimler:
+                kisi[kok.bicimler[k].bicim] += L.konusur
+    return max(sayac, key=lambda f: (sayac[f], round(benzerlik(f, eski), 6) if eski else 0.0, kisi[f], f))
 
 
 def kopru_puani(dugum, kok, bicim, kv, h) -> float:
@@ -652,7 +659,8 @@ def sec(dugum: Dugum, kv: Kavram, h: Hedef, ust: Secim | None = None) -> Secim:
         elif dugum.yaprak_mi:
             bicim = kok.bicimler[dugum.kod].bicim
         elif h.bicim == "eski" or en_iyi not in bicim_puanlari:
-            bicim = _yaygin_bicim(dugum, kok)
+            eski = en_eski_bicim(dugum, kok, h)
+            bicim = _yaygin_bicim(dugum, kok, eski[0] if eski else None)
         else:
             eski = en_eski_bicim(dugum, kok, h)
             bp = {f: v + (h.beta * benzerlik(f, eski[0]) if eski else 0.0)

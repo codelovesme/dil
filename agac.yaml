@@ -55,80 +55,86 @@ alt:
         kod: oguz
         tip: kol
         alt:
-          - ad: Batı Oğuz (Türkiye-Balkan)
+          - ad: Batı Oğuz
             kod: oguz-bati
             alt:
-              - ad: Türkiye Türkçesi
-                kod: tur
-                konusur: 80_000_000
-                tip: dil
+              - ad: Türkiye-Balkan grubu
+                kod: oguz-turkiye
                 alt:
-                  - ad: Anadolu ağızları
-                    kod: tur-anadolu
+                  - ad: Türkiye Türkçesi
+                    kod: tur
+                    konusur: 80_000_000
+                    tip: dil
                     alt:
-                      - ad: Batı grubu
-                        kod: tur-bati
+                      - ad: Anadolu ağızları
+                        kod: tur-anadolu
                         alt:
-                          - { ad: Ege ağzı, kod: tur-ege }
-                          - { ad: Teke-Akdeniz ağzı, kod: tur-teke }
-                          - { ad: Orta Anadolu ağzı, kod: tur-orta }
-                          - { ad: Batı Karadeniz ağzı (Kastamonu-Sinop), kod: tur-bkaradeniz }
-                      - ad: Doğu grubu
-                        kod: tur-dogu
+                          - ad: Batı grubu
+                            kod: tur-bati
+                            alt:
+                              - { ad: Ege ağzı, kod: tur-ege }
+                              - { ad: Teke-Akdeniz ağzı, kod: tur-teke }
+                              - { ad: Orta Anadolu ağzı, kod: tur-orta }
+                              - { ad: Batı Karadeniz ağzı (Kastamonu-Sinop), kod: tur-bkaradeniz }
+                          - ad: Doğu grubu
+                            kod: tur-dogu
+                            alt:
+                              - { ad: Erzurum-Kars ağzı, kod: tur-erzurum }
+                              - { ad: Güneydoğu Anadolu ağzı, kod: tur-guneydogu }
+                              - { ad: Ahıska ağzı, kod: tur-ahiska, not: "Ahıska Türklerinin ağzı (Gürcistan kökenli; bugün Kazakistan, Azerbaycan, Türkiye, ABD); Erzurum-Kars ağzına yakın." }
+                          - ad: Kuzeydoğu grubu
+                            kod: tur-kuzeydogu
+                            alt:
+                              - { ad: Doğu Karadeniz ağzı (Trabzon-Rize), kod: tur-dkaradeniz }
+                      - ad: Rumeli ağızları
+                        kod: tur-rumeli
                         alt:
-                          - { ad: Erzurum-Kars ağzı, kod: tur-erzurum }
-                          - { ad: Güneydoğu Anadolu ağzı, kod: tur-guneydogu }
-                          - { ad: Ahıska ağzı, kod: tur-ahiska, not: "Ahıska Türklerinin ağzı (Gürcistan kökenli; bugün Kazakistan, Azerbaycan, Türkiye, ABD); Erzurum-Kars ağzına yakın." }
-                      - ad: Kuzeydoğu grubu
-                        kod: tur-kuzeydogu
-                        alt:
-                          - { ad: Doğu Karadeniz ağzı (Trabzon-Rize), kod: tur-dkaradeniz }
-                  - ad: Rumeli ağızları
-                    kod: tur-rumeli
+                          - { ad: "Doğu Rumeli ağzı (Bulgaristan, Batı Trakya)", kod: tur-drumeli }
+                          - { ad: "Batı Rumeli ağzı (Makedonya, Kosova)", kod: tur-brumeli }
+                      - { ad: Kıbrıs ağzı, kod: tur-kibris }
+                      - { ad: Suriye Türkmen ağızları, kod: tur-suriye }
+                  - ad: Gagavuzca
+                    kod: gag
+                    konusur: 150_000
+                    tip: dil
                     alt:
-                      - { ad: "Doğu Rumeli ağzı (Bulgaristan, Batı Trakya)", kod: tur-drumeli }
-                      - { ad: "Batı Rumeli ağzı (Makedonya, Kosova)", kod: tur-brumeli }
-                  - { ad: Kıbrıs ağzı, kod: tur-kibris }
-                  - { ad: Suriye Türkmen ağızları, kod: tur-suriye }
-              - ad: Gagavuzca
-                kod: gag
-                konusur: 150_000
-                tip: dil
+                      - { ad: Merkez ağzı (Komrat), kod: gag-merkez }
+                      - { ad: Güney ağzı (Vulkaneşti), kod: gag-guney }
+                  - ad: Balkan Gagavuz Türkçesi
+                    kod: bgx
+                    konusur: 11_000
+                    konusur_not: "Sadece Balkan toplulukları (~4 bin K. Makedonya) ve Surguçlar (~7 bin, Edirne). Ethnologue'un ~460 bini Türkiye'deki Yörükleri de sayar; onlar burada Türkiye Türkçesinin Teke-Akdeniz ağzındadır."
+                    not: Bulgaristan, Kuzey Makedonya ve Yunanistan'daki Gacal, Surguç vb. topluluklar.
+              - ad: Azerbaycan grubu
+                kod: oguz-azerbaycan
                 alt:
-                  - { ad: Merkez ağzı (Komrat), kod: gag-merkez }
-                  - { ad: Güney ağzı (Vulkaneşti), kod: gag-guney }
-              - ad: Balkan Gagavuz Türkçesi
-                kod: bgx
-                konusur: 11_000
-                konusur_not: "Sadece Balkan toplulukları (~4 bin K. Makedonya) ve Surguçlar (~7 bin, Edirne). Ethnologue'un ~460 bini Türkiye'deki Yörükleri de sayar; onlar burada Türkiye Türkçesinin Teke-Akdeniz ağzındadır."
-                not: Bulgaristan, Kuzey Makedonya ve Yunanistan'daki Gacal, Surguç vb. topluluklar.
-          - ad: Azerbaycan grubu
-            kod: oguz-azerbaycan
-            not: Azerbaycan Türkçesi ve İran-Irak'taki yakın diller. Bazı sınıflandırmalarda Türkiye Türkçesiyle birlikte Batı Oğuz'da sayılır.
+                  - ad: Azerbaycan Türkçesi
+                    kod: aze
+                    konusur: 30_000_000
+                    tip: dil
+                    alt:
+                      - ad: Kuzey Azerbaycan ağızları
+                        kod: aze-kuzey-az
+                        alt:
+                          - { ad: "Doğu grubu (Bakü, Şamahı, Kuba)", kod: aze-dogu }
+                          - { ad: "Batı grubu (Gence, Kazah, Karabağ)", kod: aze-bati }
+                          - { ad: "Kuzey grubu (Şeki, Zakatala)", kod: aze-kuzey }
+                          - { ad: "Güney grubu (Nahçıvan, Ordubad, Lenkeran)", kod: aze-guney }
+                      - ad: Güney Azerbaycan ağızları (İran)
+                        kod: aze-iran-grup
+                        alt:
+                          - { ad: Tebriz ağzı, kod: aze-iran }
+                          - { ad: Afşar ağızları, kod: aze-afsar }
+                      - { ad: Karapapak (Terekeme) ağzı, kod: aze-karapapak, not: "Doğu Anadolu ve Gürcistan." }
+                  - ad: Irak Türkmencesi (Kerkük)
+                    kod: kerkuk
+                    konusur: 2_000_000
+                    konusur_not: "Etnik nüfus tahminleri 0.5–5 milyon; Ethnologue/Joshua Project dil için ~2.8 milyon, Irak Planlama Bakanlığı (2013) ~3 milyon etnik. Tahminlerin çoğu 1–10 milyon aralığında."
+                    not: Azerbaycan Türkçesi ile Türkiye Türkçesi arasında; ayrı ISO kodu yok.
+          - ad: Güney Oğuz (İran)
+            kod: oguz-guney
+            not: Johanson'un Güney Oğuz grubu (Kaşkayca, Afşar, Sonkor, Aynallu). Afşar ağızları şimdilik Azerbaycan Türkçesinin altında.
             alt:
-              - ad: Azerbaycan Türkçesi
-                kod: aze
-                konusur: 30_000_000
-                tip: dil
-                alt:
-                  - ad: Kuzey Azerbaycan ağızları
-                    kod: aze-kuzey-az
-                    alt:
-                      - { ad: "Doğu grubu (Bakü, Şamahı, Kuba)", kod: aze-dogu }
-                      - { ad: "Batı grubu (Gence, Kazah, Karabağ)", kod: aze-bati }
-                      - { ad: "Kuzey grubu (Şeki, Zakatala)", kod: aze-kuzey }
-                      - { ad: "Güney grubu (Nahçıvan, Ordubad, Lenkeran)", kod: aze-guney }
-                  - ad: Güney Azerbaycan ağızları (İran)
-                    kod: aze-iran-grup
-                    alt:
-                      - { ad: Tebriz ağzı, kod: aze-iran }
-                      - { ad: Afşar ağızları, kod: aze-afsar }
-                  - { ad: Karapapak (Terekeme) ağzı, kod: aze-karapapak, not: "Doğu Anadolu ve Gürcistan." }
-              - ad: Irak Türkmencesi (Kerkük)
-                kod: kerkuk
-                konusur: 2_000_000
-                konusur_not: "Etnik nüfus tahminleri 0.5–5 milyon; Ethnologue/Joshua Project dil için ~2.8 milyon, Irak Planlama Bakanlığı (2013) ~3 milyon etnik. Tahminlerin çoğu 1–10 milyon aralığında."
-                not: Azerbaycan Türkçesi ile Türkiye Türkçesi arasında; ayrı ISO kodu yok.
               - { ad: Kaşkayca, kod: qxq, konusur: 950_000 }
           - ad: Doğu Oğuz
             kod: oguz-dogu
@@ -146,10 +152,11 @@ alt:
                   - { ad: Sarık ağzı, kod: tuk-sarik }
                   - { ad: Çovdur ağzı, kod: tuk-covdur }
               - { ad: Horasan Türkçesi, kod: kmz, konusur: 700_000, konusur_not: "Tahminler 400 bin – 960 bin (Doerfer-Hesche 1993: 960 bin; Wikipedia 2015-19: 400-900 bin)." }
-              - ad: Salarca
-                kod: slr
-                konusur: 70_000
-                not: Oğuzların Salur boyundan gelir; Karluk/Çağatay etkisi güçlü.
+          - ad: Salarca
+            kod: slr
+            konusur: 70_000
+            not: Oğuz kolunun bağımsız bir dalı (çoğu Türkolog). Oğuzların Salur boyundan gelir; Karluk, Çağatay ve Kıpçak etkisi güçlü. Johanson'un Uygurcayla gruplaması azınlık görüşüdür.
+
 
       # ========================================================== KIPÇAK
       - ad: Kıpçak kolu
@@ -252,6 +259,7 @@ alt:
                 konusur: 100_000
                 konusur_not: "Yaklaşık 100 bin (Omniglot, Verbix; sayım değil). Sayımda 'Sibirya Tatarı' diyenler ~7-10 bin, çoğu kendini 'Tatar' yazıyor. Sınırda: 100 binin altına düşerse basamak 5 olur."
                 tip: dil
+                not: "Kıpçak kolunda olduğu kesin, alt grubu tartışmalı: Kıpçak-Nogay (Wikipedia), Tatarcanın doğu lehçesi (Glottolog); Baraba ve Tom ağızları Kırgız-Kıpçak'a yakın. Erdal: Kıpçak ile Sibirya dilleri arasında bir köprü."
                 alt:
                   - { ad: Tobol-İrtiş ağzı, kod: sty-tobol }
                   - { ad: Baraba ağzı, kod: sty-baraba }
@@ -270,7 +278,7 @@ alt:
                 kod: alt
                 konusur: 55_000
                 tip: dil
-                not: Geleneksel Türkolojide Sibirya kolunda sayılır; söz varlığı ve ses yapısıyla Kırgızcaya çok yakındır.
+                not: Glottolog ve Johanson'a göre Kıpçak (Kırgız-Kıpçak); bazı eski sınıflandırmalar Sibirya kolunda sayar.
                 alt:
                   - { ad: Altay-kiji ağzı, kod: alt-kiji }
                   - { ad: Telengit ağzı, kod: alt-telengit }
@@ -323,6 +331,7 @@ alt:
           - ad: Güney Sibirya
             kod: sibirya-guney
             alt:
+              - { ad: Sarı Uygurca, kod: ybe, konusur: 4_600, not: "Çin (Gansu); Eski Uygurcanın arkaizmlerini korur. Birçok Sibirya diliyle ortak özellikleri var ama hiçbirine özellikle yakın değil; bu yüzden Güney Sibirya içinde bağımsız bir hat." }
               - ad: Sayan
                 kod: sayan
                 alt:
@@ -347,7 +356,6 @@ alt:
                       - { ad: Tofaca, kod: kim, konusur: 40 }
                       - { ad: Duhaca (Tsaatan), kod: duha, konusur: 500, not: "Moğolistan; Tofacaya yakın, ayrı ISO kodu yok." }
                       - { ad: Soyotça, kod: soyot, konusur: 37, konusur_not: "2021 sayımı: 4.368 Soyot'tan 37'si anadili Soyotça dedi; akıcı konuşur neredeyse yok. Okullarda yeniden canlandırılıyor.", not: "Buryatya; yeniden canlandırılıyor." }
-                  - { ad: Sarı Uygurca, kod: ybe, konusur: 4_600, not: "Çin (Gansu); Eski Uygurcanın torunu; sınıflandırması tartışmalı." }
               - ad: Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay)
                 kod: yenisey
                 not: Kuzey Altayca, Güney Altaycadan çok Şorca ve Çulımcaya yakındır.

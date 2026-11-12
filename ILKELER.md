@@ -54,11 +54,12 @@ Türk dilleri
 ├── Oğur kolu ............ Çuvaşça
 └── Ortak Türkçe
     ├── Halaç kolu ....... Halaçça
-    ├── Oğuz kolu ........ Batı Oğuz (Türkiye-Balkan), Azerbaycan grubu, Doğu Oğuz
+    ├── Oğuz kolu ........ Batı Oğuz (Türkiye-Balkan, Azerbaycan), Güney Oğuz (İran),
+    │                      Doğu Oğuz, Salarca
     ├── Kıpçak kolu ...... Kıpçak-Bulgar, Kıpçak-Oğuz (Kırım, Kafkas),
     │                      Kıpçak-Nogay, Kırgız-Kıpçak
     ├── Karluk kolu ...... Özbekçe, Doğu Karluk (Uygurca, İli Türkçesi)
-    └── Sibirya kolu ..... Kuzey Sibirya, Güney Sibirya (Sayan, Yenisey-Altay)
+    └── Sibirya kolu ..... Kuzey Sibirya, Güney Sibirya (Sarı Uygurca, Sayan, Yenisey-Altay)
 ```
 
 Diller **birleştirilmez**. Türkçenin ne kadar çeşitlendiği görülsün diye her
