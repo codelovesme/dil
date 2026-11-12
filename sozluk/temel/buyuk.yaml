@@ -1,0 +1,52 @@
+kavram: büyük
+ingilizce: big
+dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+kokler:
+  - kok: uluğ
+    eski_turkce: uluğ
+    koken: türkçe
+    kaynak: Orhon yazıtları; DLT
+    bicimler:
+      tuk: uly
+      tat: { bicim: olı, tercih: 0.5 }
+      bak: { bicim: olo, tercih: 0.5 }
+      kum: ullu
+      krc: ullu
+      nog: ullı
+      kir: { bicim: uluu, tercih: 0.5 }
+      uzb: { bicim: uluğ, tercih: 0.5 }
+      uig: { bicim: uluğ, tercih: 0.25 }
+      sah: ulaxan
+      tyv: uluğ
+      kjh: uluğ
+      alt: ulu
+  - kok: bedük
+    eski_turkce: bedük
+    koken: türkçe
+    kaynak: Eski Uygurca; DLT
+    bicimler:
+      chv: pısăk
+      tur: büyük
+      gag: büük
+      aze: böyük
+      crh: büyük
+  - kok: ülken
+    koken: belirsiz
+    not: uluğ ile bağlantısı araştırılmalı.
+    bicimler:
+      kaz: ülken
+      kaa: ülken
+  - kok: çoñ
+    koken: belirsiz
+    bicimler:
+      kir: çoñ
+      uig: çoñ
+  - kok: zur
+    koken: belirsiz
+    bicimler:
+      tat: zur
+      bak: zur
+  - kok: katta
+    koken: belirsiz
+    bicimler:
+      uzb: katta

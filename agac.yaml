@@ -1,0 +1,108 @@
+# Türk dilleri ağacı
+# ------------------------------------------------------------------
+# Her düğüm: ad, kod. İç düğümlerin `alt` listesi vardır, yapraklar dildir.
+# Yaprak kodları ISO 639-3 kodlarıdır.
+# `not` alanı sınıflandırması tartışmalı olan yerleri belirtir.
+#
+# Ağırlıklar bu dosyada ELLE verilmez; araclar/puanla.py ağacın şeklinden
+# hesaplar (bkz. ILKELER.md §3). İstisnai durumlarda bir düğüme
+# `agirlik_carpani: 1.5` gibi bir çarpan eklenebilir.
+
+ad: Türk dilleri
+kod: turk
+alt:
+  - ad: Oğur kolu
+    kod: ogur
+    alt:
+      - { ad: Çuvaşça, kod: chv }
+
+  - ad: Ortak Türkçe
+    kod: ortak
+    alt:
+      - ad: Halaç kolu
+        kod: halac
+        alt:
+          - { ad: Halaçça, kod: klj }
+
+      - ad: Oğuz kolu
+        kod: oguz
+        alt:
+          - ad: Batı Oğuz
+            kod: oguz-bati
+            alt:
+              - { ad: Türkiye Türkçesi, kod: tur }
+              - { ad: Gagavuzca, kod: gag }
+              - { ad: Azerbaycan Türkçesi, kod: aze }
+              - { ad: Kaşkayca, kod: qxq }
+          - ad: Doğu Oğuz
+            kod: oguz-dogu
+            alt:
+              - { ad: Türkmence, kod: tuk }
+              - { ad: Horasan Türkçesi, kod: kmz }
+          - ad: Salarca
+            kod: slr
+            not: Oğuz kökenli, Karluk/Çağatay etkisi güçlü.
+
+      - ad: Kıpçak kolu
+        kod: kipcak
+        alt:
+          - ad: Kıpçak-Bulgar (Ural)
+            kod: kipcak-bulgar
+            alt:
+              - { ad: Tatarca, kod: tat }
+              - { ad: Başkurtça, kod: bak }
+          - ad: Kıpçak-Oğuz (Karadeniz-Kafkas)
+            kod: kipcak-oguz
+            alt:
+              - { ad: Kırım Tatarcası, kod: crh }
+              - { ad: Kumukça, kod: kum }
+              - { ad: Karaçay-Malkarca, kod: krc }
+              - { ad: Karayca, kod: kdr }
+              - { ad: Kırımçakça, kod: jct }
+          - ad: Kıpçak-Nogay (Aral-Hazar)
+            kod: kipcak-nogay
+            alt:
+              - { ad: Kazakça, kod: kaz }
+              - { ad: Karakalpakça, kod: kaa }
+              - { ad: Nogayca, kod: nog }
+              - { ad: Sibirya Tatarcası, kod: sty }
+          - ad: Kırgızca
+            kod: kir
+            not: Bazı sınıflandırmalarda Güney Altayca ile "Kırgız-Kıpçak" grubunda.
+
+      - ad: Karluk kolu
+        kod: karluk
+        alt:
+          - { ad: Özbekçe, kod: uzb }
+          - { ad: Uygurca, kod: uig }
+          - { ad: İli Türkçesi, kod: ili }
+
+      - ad: Sibirya kolu
+        kod: sibirya
+        alt:
+          - ad: Kuzey Sibirya
+            kod: sibirya-kuzey
+            alt:
+              - { ad: Sahaca (Yakutça), kod: sah }
+              - { ad: Dolganca, kod: dlg }
+          - ad: Güney Sibirya
+            kod: sibirya-guney
+            alt:
+              - ad: Sayan
+                kod: sayan
+                alt:
+                  - { ad: Tuvaca, kod: tyv }
+                  - { ad: Tofaca, kod: kim }
+                  - { ad: Sarı Uygurca, kod: ybe }
+              - ad: Yenisey (Hakas grubu)
+                kod: yenisey
+                alt:
+                  - { ad: Hakasça, kod: kjh }
+                  - { ad: Şorca, kod: cjs }
+                  - { ad: Çulımca, kod: clw }
+              - ad: Altay
+                kod: altay
+                not: Güney Altayca bazı sınıflandırmalarda Kıpçak koluna yakın sayılır.
+                alt:
+                  - { ad: Güney Altayca, kod: alt }
+                  - { ad: Kuzey Altayca, kod: atv }

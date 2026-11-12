@@ -1,0 +1,30 @@
+kavram: taş
+ingilizce: stone
+dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+kokler:
+  - kok: taş
+    eski_turkce: taş
+    koken: türkçe
+    kaynak: Orhon yazıtları; DLT; Clauson 1972
+    not: Çuvaşça çul, Oğur kolundaki ş > l denkliğiyle aynı kökten.
+    bicimler:
+      chv: çul
+      tur: taş
+      gag: taş
+      aze: daş
+      tuk: daş
+      tat: taş
+      bak: taş
+      crh: taş
+      kum: taş
+      krc: taş
+      kaz: tas
+      kaa: tas
+      nog: tas
+      kir: taş
+      uzb: toş
+      uig: taş
+      sah: taas
+      tyv: daş
+      kjh: tas
+      alt: taş
