@@ -128,7 +128,7 @@ puan alır:
   ve Surguçlar (~11 bin) sayılır.
 - **Dil sayısı dal ağırlığını şişirmez.** Bir dalın ağırlığı, dillerinin
   *ortalama* basamağı ile dil sayısının *kökünün* çarpımıdır. α = 1 olsaydı
-  çok dilli kollar kazanırdı, α = 0 olsaydı tek dilli Oğur kolu %50 alırdı.
+  çok dilli kollar kazanırdı, α = 0 olsaydı tek dilli Oğur ve Halaç kolları 17 dilli Kıpçak koluyla neredeyse eşit sayılırdı.
 - **Tesadüfi eşitlik olmaz.** Basamak olmadan bütün diller 1 birim
   sayılıyordu. O zaman ağırlığı sadece ağacın şekli belirliyordu ve simetrik
   bir dalda (ör. 3 grup × 3 dilden oluşan Oğuz kolu) Türkiye Türkçesi
@@ -151,13 +151,28 @@ python3 araclar/puanla.py --agirliklar --agizlar --md > AGIRLIKLAR.md
 Gerekirse bir düğüme `agirlik_carpani` verilerek elle düzeltme yapılabilir, ama
 bu istisna olmalı ve gerekçesi yazılmalıdır.
 
-### Çuvaşçanın %15.8'i neden düzeltilmiyor?
+### Altı kol yan yana: Çuvaşçanın iki rolü ayrılır
 
-Çuvaşça, Ortak Türkçeden önce ayrılmış bütün bir ana kolun (Oğur) tek yaşayan
-temsilcisidir. Ağırlığı bu yüzden yüksektir. Ama tek başına kazanamaz, çünkü
-Ortak Türkçenin ağırlığı %84'tür. Sonucu ancak öteki diller iki kelime arasında
-neredeyse eşit bölündüğünde belirler. O durumda da eskiden yana karar verdirir,
-bu da eskilik ilkesinin ta kendisidir.
+Çuvaşçanın iki ayrı rolü vardır ve bunlar ayrı ölçülür:
+
+1. **Anlaşılması gereken bir topluluk olarak** Çuvaşça sıradan bir dildir:
+   yaklaşık 740 bin konuşuru vardır ve basamağı 6'dır. Bu rol **ağırlıkla**
+   ölçülür.
+2. **Eskilik tanığı olarak** çok değerlidir: Ortak Türkçeden en erken ayrılan
+   kolun (Oğur) tek yaşayan temsilcisidir. Bu rol **eskilikle** ölçülür
+   (§4, Ana Türkçe tanıklığı).
+
+Eskiden en tepede sadece iki çocuk vardı, Oğur ve Ortak Türkçe. Bu yüzden
+eskilik değeri topluluk ağırlığına dönüşüyor ve Çuvaşça %15.8 alıyordu, yani
+Türkiye Türkçesinin 5 katı ve bütün Karluk kolundan fazla. Şimdi
+**Ortak Türkçe düğümü şeffaftır** (`seffaf: true`): soy bilgisi olarak ağaçta
+durur, ama ağırlık hesabında atlanır. Böylece altı kol (Oğur, Halaç, Oğuz,
+Kıpçak, Karluk, Sibirya) en tepede yan yana tartılır.
+
+Sonuç: Oğur %8.1, Halaç %6.8, Oğuz %26.1, Kıpçak %27.4, Karluk %14.8,
+Sibirya %16.8. Oğur ve Halaç kolları tek dille temsil edildikleri için hâlâ
+tek tek dillerden ağırdır. Bu bilinçli bir tercihtir: kol bir kavimler
+grubudur ve tek dille temsil edilmesi sesini kısmak için bir sebep değildir.
 
 ## 4. Tarihî tanıklar
 
@@ -167,6 +182,7 @@ her biri ağaçtaki bir dala bağlıdır:
 
 | Tanık | Dal | Ağırlık |
 |---|---|---|
+| **Ana Türkçe tanıklığı** (türetilmiş, aşağıya bakın) | Türk dilleri | 2 |
 | Eski Türkçe (Göktürk, Uygur), 7.–11. yy | Ortak Türkçe | 3 |
 | Karahanlıca (DLT, Kutadgu Bilig), 11.–12. yy | Ortak Türkçe | 2 |
 | Volga Bulgarcası, 10.–14. yy | Oğur | 1 |
@@ -178,6 +194,20 @@ Tarihî diller yaşayan dillerin ağırlığını **değiştirmez**. Bir düğü
 verilirken o düğümün kendi tanıkları ile üst ve alt düğümlerinin tanıkları
 sayılır. Örneğin Oğuz kolunda Eski Türkçe, Karahanlıca ve Eski Anadolu Türkçesi
 sayılır, ama Kuman-Kıpçakça sayılmaz.
+
+### Ana Türkçe tanıklığı
+
+Türk dillerinin ilk ayrılığı Oğur ile Ortak Türkçe arasındadır. Bir kök **iki
+tarafta da** bulunuyorsa, ayrılıktan önce de vardı, yani Ana Türkçeye kadar
+uzanır. Bu tanık bir metin değildir; kendiliğinden hesaplanır:
+
+- Kök Oğur kolunda (Çuvaşçada ya da Volga Bulgarcasında) **ve** Ortak Türkçede
+  (yaşayan bir dilde ya da tarihî bir tanıkta) varsa tanıklanmış sayılır.
+- İki taraftan birinde hiç veri yoksa hesaba katılmaz.
+- Bütün düğümlerde sayılır, çünkü Ana Türkçe kökeni her düzeyde değerlidir.
+
+Örneğin "büyük" için *bedük* kökü Çuvaşçada *pısăk* olarak yaşadığı için bu
+tanıklığı alır; *uluğ* almaz.
 
 ## 5. Kök ve biçim
 

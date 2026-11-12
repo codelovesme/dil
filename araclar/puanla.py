@@ -46,7 +46,7 @@ VARSAYILAN = dict(alfa=0.5, beta=0.2, taban=0.5, esik=0.5)
 
 # ================================================================== ağaç
 
-DUGUM_ALANLARI = {"ad", "kod", "tip", "not", "alt", "agirlik_carpani", "konusur", "konusur_not"}
+DUGUM_ALANLARI = {"ad", "kod", "tip", "not", "alt", "agirlik_carpani", "konusur", "konusur_not", "seffaf"}
 EN_AZ_BASAMAK, EN_COK_BASAMAK = 2, 8
 
 class Dugum:
@@ -60,6 +60,7 @@ class Dugum:
         self.tip: str = veri.get("tip", "")
         self.not_: str = veri.get("not", "")
         self.carpan: float = float(veri.get("agirlik_carpani", 1.0))
+        self.seffaf: bool = bool(veri.get("seffaf", False))  # sadece soy bilgisi; tartımda atlanır
         self.ust = ust
         self.dil_ici = dil_ici          # bir dilin altında (ağız) mı?
         self.yazi_dili = yazi_dili      # otomatik eklenen "Yazı dili" yaprağı mı?
@@ -83,6 +84,14 @@ class Dugum:
     @property
     def yaprak_mi(self) -> bool:
         return not self.alt
+
+    @property
+    def tartim_cocuklari(self) -> list["Dugum"]:
+        """Tartımda kardeş sayılan çocuklar: şeffaf bir çocuğun yerine onun çocukları geçer."""
+        sonuc = []
+        for c in self.alt:
+            sonuc.extend(c.tartim_cocuklari if c.seffaf else [c])
+        return sonuc
 
     def tum_dugumler(self):
         yield self
@@ -128,8 +137,9 @@ def cocuk_agirligi(c: Dugum, alfa: float) -> float:
 
 def paylar(dugum: Dugum, alfa: float) -> list[tuple[Dugum, float]]:
     """Çocukların düğüm içindeki payları (toplamı 1)."""
-    toplam = sum(cocuk_agirligi(c, alfa) for c in dugum.alt)
-    return [(c, cocuk_agirligi(c, alfa) / toplam) for c in dugum.alt]
+    cocuklar = dugum.tartim_cocuklari
+    toplam = sum(cocuk_agirligi(c, alfa) for c in cocuklar)
+    return [(c, cocuk_agirligi(c, alfa) / toplam) for c in cocuklar]
 
 
 def yaprak_agirliklari(dugum: Dugum, alfa: float) -> dict[str, float]:
@@ -147,7 +157,7 @@ def ortalama(dugum: Dugum, deger, alfa: float) -> float | None:
     if dugum.yaprak_mi:
         return deger(dugum.kod)
     pay = payda = 0.0
-    for c in dugum.alt:
+    for c in dugum.tartim_cocuklari:
         s = ortalama(c, deger, alfa)
         if s is None:
             continue
@@ -166,10 +176,28 @@ class Tanik:
         self.dal = dal
         self.agirlik = float(veri.get("agirlik", 1.0))
         self.sira = int(veri.get("sira", 99))
+        self.kosullar: list[Dugum] = []  # türetilmiş tanık: kök bu düğümlerin HEPSİNDE varsa
+
+    @property
+    def turetilmis(self) -> bool:
+        return bool(self.kosullar)
 
     def ilgili(self, dugum: Dugum) -> bool:
         """Bu tanık, `dugum`de verilen kararda sayılır mı?"""
         return self.dal is dugum or self.dal in dugum.ustler() or dugum in self.dal.ustler()
+
+    def durum(self, kok: "Kok", kv: "Kavram", taniklar: list["Tanik"]) -> tuple[bool, bool]:
+        """(bu kavram için bilgi var mı, kök tanıklanıyor mu)"""
+        if not self.turetilmis:
+            return self.kod in kv.bilinen_taniklar, self.kod in kok.tarihi
+        bilinen = var = True
+        for d in self.kosullar:
+            altlar = [t for t in taniklar if not t.turetilmis and (t.dal is d or d in t.dal.ustler())]
+            d_bilinen = bool(d.yaprak_kodlari & kv.bilinen_diller) or any(t.kod in kv.bilinen_taniklar for t in altlar)
+            d_var = bool(d.yaprak_kodlari & set(kok.bicimler)) or any(t.kod in kok.tarihi for t in altlar)
+            bilinen &= d_bilinen
+            var &= d_var
+        return bilinen, var and bilinen
 
 
 def taniklari_yukle(agac: Dugum) -> list[Tanik]:
@@ -180,7 +208,12 @@ def taniklari_yukle(agac: Dugum) -> list[Tanik]:
     for t in veri:
         if t["dal"] not in dugumler:
             sys.exit(f"tarihi.yaml: '{t['kod']}' için bilinmeyen dal '{t['dal']}'")
-        taniklar.append(Tanik(t, dugumler[t["dal"]]))
+        tanik = Tanik(t, dugumler[t["dal"]])
+        for k in t.get("kosullar") or []:
+            if k not in dugumler:
+                sys.exit(f"tarihi.yaml: '{t['kod']}' koşulunda bilinmeyen düğüm '{k}'")
+            tanik.kosullar.append(dugumler[k])
+        taniklar.append(tanik)
     return sorted(taniklar, key=lambda t: t.sira)
 
 
@@ -274,7 +307,7 @@ def kavramlari_yukle(secilenler: list[str], agac: Dugum, taniklar: list[Tanik]) 
         dosyalar = [d for d in dosyalar if d.stem in secilenler]
         if bulunamayan := set(secilenler) - {d.stem for d in dosyalar}:
             sys.exit(f"Bulunamayan kavram dosyaları: {sorted(bulunamayan)}")
-    gecerli_taniklar = {t.kod for t in taniklar}
+    gecerli_taniklar = {t.kod for t in taniklar if not t.turetilmis}
     kavramlar = []
     for d in dosyalar:
         with open(d, encoding="utf-8") as f:
@@ -323,9 +356,12 @@ def anlasilirlik(dugum, kok: Kok, bicim: str, kv: Kavram, a: Ayar) -> float | No
 def eskilik(dugum, kok: Kok, kv: Kavram, a: Ayar) -> float:
     pay = payda = 0.0
     for t in a.taniklar:
-        if t.kod in kv.bilinen_taniklar and t.ilgili(dugum):
+        if not t.ilgili(dugum):
+            continue
+        bilinen, var = t.durum(kok, kv, a.taniklar)
+        if bilinen:
             payda += t.agirlik
-            pay += t.agirlik if t.kod in kok.tarihi else 0.0
+            pay += t.agirlik if var else 0.0
     return pay / payda if payda else 0.0
 
 
@@ -427,7 +463,7 @@ def kavram_raporu(kv: Kavram, agac: Dugum, a: Ayar, derinlik: int, agizlar: bool
     durum = "doğrulandı" if kv.dogrulandi else "DOĞRULANMADI"
     print("=" * 80)
     print(f"{kv.ad}  ({kv.ingilizce})  [{durum}]   veri kapsaması: %{100 * kapsama(agac, kv, a):.0f}"
-          f"   tarihî tanık: {len(kv.bilinen_taniklar)}/{len(a.taniklar)}")
+          f"   tarihî tanık: {len(kv.bilinen_taniklar)}/{sum(1 for t in a.taniklar if not t.turetilmis)}")
     print("-" * 80)
     secim = sec(agac, kv, a)
 
@@ -442,6 +478,9 @@ def kavram_raporu(kv: Kavram, agac: Dugum, a: Ayar, derinlik: int, agizlar: bool
         else:
             anl, p = 0.0, "     —"
         tarihi = ", ".join(f"{t}: {b}" for t, b in k.tarihi.items()) or "—"
+        for t in a.taniklar:
+            if t.turetilmis and t.durum(k, kv, a.taniklar)[1]:
+                tarihi += f"  [{t.ad.split(' (')[0]} ✓]"
         uygun = "" if k.secilebilir else f"  (seçilemez: köken={k.koken})"
         print(f"  {k.kimlik:<10} {y:7.2f} {anl:9.2f} {e:7.2f} {p}   {tarihi}{uygun}")
 
@@ -472,15 +511,18 @@ def agirlik_raporu(agac: Dugum, alfa: float, agizlar: bool, md: bool):
 
     satirlar = []  # (seviye, ad, üst içindeki pay, genel pay, dil sayısı, ağız sayısı)
 
-    def gez(d: Dugum, seviye: int, ic_pay: float, genel: float):
+    def genel_pay(d: Dugum) -> float:
+        return sum(w[k] for k in d.yaprak_kodlari)
+
+    def gez(d: Dugum, seviye: int, ic_pay: float):
         if not _gorunur(d, agizlar):
             return
         agiz = d.yaprak_sayisi if (d.dil_mi and d.alt) else 0
-        satirlar.append((seviye, d, ic_pay, genel, agiz))
-        for c, pay in (paylar(d, alfa) if d.alt else []):
-            gez(c, seviye + 1, pay, genel * pay)
+        satirlar.append((seviye, d, ic_pay, genel_pay(d), agiz))
+        for c in d.alt:
+            gez(c, seviye + 1, genel_pay(c) / genel_pay(d))
 
-    gez(agac, 0, 1.0, 1.0)
+    gez(agac, 0, 1.0)
     diller = [d for d in agac.tum_dugumler() if d.dil_mi]
     dil_agirlik = {d.kod: sum(w[k] for k in d.yaprak_kodlari) for d in diller}
     en_agir = max(diller, key=lambda d: dil_agirlik[d.kod])

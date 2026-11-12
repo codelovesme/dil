@@ -4,6 +4,8 @@
 #   ad, kod     : ad ve benzersiz kod. Dil kodları ISO 639-3 (yoksa kısa bir ad),
 #                 ağız kodları "<dil>-<ağız>" biçimindedir.
 #   tip         : kol  -> ana kol (anlaşılırlık raporunda ayrı gösterilir)
+#   seffaf      : true -> sadece soy bilgisi; ağırlık hesabında atlanır, çocukları
+#                 bir üstteki düğümde doğrudan kardeş sayılır
 #                 dil  -> altında ağızları olan bir dil
 #                 (Altında ağız olmayan yapraklar da dildir; dilin altındaki
 #                  her şey ağızdır.)
@@ -40,6 +42,11 @@ alt:
 
   - ad: Ortak Türkçe
     kod: ortak
+    seffaf: true
+    not: >-
+      Soy bilgisi olarak tutulur; ağırlık hesabında şeffaftır. Altı kol (Oğur, Halaç,
+      Oğuz, Kıpçak, Karluk, Sibirya) en tepede yan yana tartılır. Oğur ile Ortak
+      Türkçe ayrılığının değeri eskilik olarak sayılır (tarihi.yaml, Ana Türkçe tanıklığı).
     alt:
       # ========================================================== HALAÇ
       - ad: Halaç kolu

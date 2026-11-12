@@ -10,6 +10,20 @@
 #   agirlik  : eskilik puanına katkısı. Daha eski ve daha geniş tanık = daha ağır.
 #   sira     : kronolojik sıra. En eski tanığın biçimi, en tepedeki biçimin
 #              seçiminde ölçü olarak kullanılır.
+#   kosullar : (sadece türetilmiş tanıklar) kök bu düğümlerin HEPSİNDE bulunuyorsa
+#              (yaşayan bir dilde ya da o dala bağlı tarihî bir tanıkta) tanıklanmış
+#              sayılır. Kavram dosyalarına yazılmaz, kendiliğinden hesaplanır.
+
+- ad: Ana Türkçe tanıklığı (Oğur + Ortak Türkçe)
+  kod: ana
+  dal: turk
+  kosullar: [ogur, ortak]
+  agirlik: 2
+  sira: 0
+  not: >-
+    Gerçek bir metin değil. Türk dillerinin ilk ayrılığı Oğur ile Ortak Türkçe
+    arasındadır; bir kök iki tarafta da varsa Ana Türkçeye kadar uzanır.
+    Çuvaşçanın asıl katkısı budur: topluluk ağırlığı yerine eskilik olarak sayılır.
 
 - ad: Eski Türkçe (Göktürk ve Uygur metinleri)
   kod: otk
