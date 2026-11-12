@@ -8,12 +8,15 @@
 #                 (Altında ağız olmayan yapraklar da dildir; dilin altındaki
 #                  her şey ağızdır.)
 #   not         : sınıflandırması tartışmalı yerler
+#   konusur     : (sadece diller) yaklaşık anadili konuşur sayısı. Ağırlığa doğrudan
+#                 değil, BÜYÜKLÜK BASAMAĞI olarak girer: her 10 kat = +1 puan (2..8).
+#   konusur_not : sayı belirsizse açıklama
 #   agirlik_carpani : istisnai elle düzeltme (gerekçesi yazılmalı)
 #
 # Ağırlıklar ELLE verilmez, araclar/puanla.py ağacın şeklinden hesaplar
 # (ILKELER.md §3):
-#   * Dil düzeyinin üstünde DİL sayısı sayılır: bir dilin kaç ağzı yazıldığı,
-#     o dilin ve kolunun ağırlığını DEĞİŞTİRMEZ.
+#   * Dil düzeyinin üstünde: (dillerin ortalama basamağı) x (dil sayısı ^ alfa).
+#     Bir dilin kaç ağzı yazıldığı, o dilin ve kolunun ağırlığını DEĞİŞTİRMEZ.
 #   * Bir dilin içinde ağızlar kendi aralarında aynı yöntemle tartılır.
 #   * Ağızları olan her dile otomatik olarak bir "Yazı dili" ağzı eklenir; dilin
 #     kendi kodu (ör. tur) o yazı dilini gösterir.
@@ -28,6 +31,8 @@ alt:
     alt:
       - ad: Çuvaşça
         kod: chv
+        konusur: 700_000
+        konusur_not: "Etnik nüfus ~1 milyon; konuşur sayısı düşüyor."
         tip: dil
         alt:
           - { ad: Viryal (Yukarı) ağzı, kod: chv-viryal }
@@ -41,7 +46,7 @@ alt:
         kod: halac
         tip: kol
         alt:
-          - { ad: Halaçça, kod: klj }
+          - { ad: Halaçça, kod: klj, konusur: 42_000 }
 
       # ========================================================== OĞUZ
       - ad: Oğuz kolu
@@ -53,6 +58,7 @@ alt:
             alt:
               - ad: Türkiye Türkçesi
                 kod: tur
+                konusur: 80_000_000
                 tip: dil
                 alt:
                   - ad: Anadolu ağızları
@@ -84,12 +90,15 @@ alt:
                   - { ad: Suriye Türkmen ağızları, kod: tur-suriye }
               - ad: Gagavuzca
                 kod: gag
+                konusur: 150_000
                 tip: dil
                 alt:
                   - { ad: Merkez ağzı (Komrat), kod: gag-merkez }
                   - { ad: Güney ağzı (Vulkaneşti), kod: gag-guney }
               - ad: Balkan Gagavuz Türkçesi
                 kod: bgx
+                konusur: 5_000
+                konusur_not: "Çok belirsiz; topluluklar küçük ve dağınık, güvenilir sayım yok."
                 not: Bulgaristan, Kuzey Makedonya ve Yunanistan'daki Gacal, Surguç vb. topluluklar.
           - ad: Azerbaycan grubu
             kod: oguz-azerbaycan
@@ -97,6 +106,7 @@ alt:
             alt:
               - ad: Azerbaycan Türkçesi
                 kod: aze
+                konusur: 30_000_000
                 tip: dil
                 alt:
                   - ad: Kuzey Azerbaycan ağızları
@@ -114,13 +124,16 @@ alt:
                   - { ad: Karapapak (Terekeme) ağzı, kod: aze-karapapak, not: "Doğu Anadolu ve Gürcistan." }
               - ad: Irak Türkmencesi (Kerkük)
                 kod: kerkuk
+                konusur: 1_000_000
+                konusur_not: "Tahminler 600 bin ile 3 milyon arasında değişiyor."
                 not: Azerbaycan Türkçesi ile Türkiye Türkçesi arasında; ayrı ISO kodu yok.
-              - { ad: Kaşkayca, kod: qxq }
+              - { ad: Kaşkayca, kod: qxq, konusur: 950_000 }
           - ad: Doğu Oğuz
             kod: oguz-dogu
             alt:
               - ad: Türkmence
                 kod: tuk
+                konusur: 7_000_000
                 tip: dil
                 alt:
                   - { ad: Teke ağzı, kod: tuk-teke }
@@ -130,9 +143,10 @@ alt:
                   - { ad: Salır ağzı, kod: tuk-salir }
                   - { ad: Sarık ağzı, kod: tuk-sarik }
                   - { ad: Çovdur ağzı, kod: tuk-covdur }
-              - { ad: Horasan Türkçesi, kod: kmz }
+              - { ad: Horasan Türkçesi, kod: kmz, konusur: 800_000, konusur_not: "Tahminler 400 bin ile 1 milyon arasında değişiyor." }
               - ad: Salarca
                 kod: slr
+                konusur: 70_000
                 not: Oğuzların Salur boyundan gelir; Karluk/Çağatay etkisi güçlü.
 
       # ========================================================== KIPÇAK
@@ -145,12 +159,14 @@ alt:
             alt:
               - ad: Tatarca
                 kod: tat
+                konusur: 4_300_000
                 tip: dil
                 alt:
                   - { ad: Orta (Kazan) ağzı, kod: tat-kazan }
                   - { ad: Batı (Mişer) ağzı, kod: tat-miser }
               - ad: Başkurtça
                 kod: bak
+                konusur: 1_200_000
                 tip: dil
                 alt:
                   - { ad: Güney ağzı, kod: bak-guney }
@@ -164,6 +180,7 @@ alt:
                 alt:
                   - ad: Kırım Tatarcası
                     kod: crh
+                    konusur: 400_000
                     tip: dil
                     not: Ağızları farklı kollara uzanır; Güney (Yalıboyu) ağzı Oğuz, Bozkır ağzı Kıpçak-Nogay özellikleri taşır.
                     alt:
@@ -172,20 +189,23 @@ alt:
                       - { ad: Güney (Yalıboyu) ağzı, kod: crh-yaliboyu }
                   - ad: Karayca
                     kod: kdr
+                    konusur: 80
                     tip: dil
                     alt:
                       - { ad: Trakay (Litvanya) ağzı, kod: kdr-trakay }
                       - { ad: Galiç (Ukrayna) ağzı, kod: kdr-galic }
                       - { ad: Kırım ağzı, kod: kdr-kirim }
-                  - { ad: Kırımçakça, kod: jct }
+                  - { ad: Kırımçakça, kod: jct, konusur: 20 }
                   - ad: Urumca
                     kod: uum
+                    konusur: 200
                     not: Ukrayna'daki (Azak kıyısı) Rum Ortodoks Türklerin dili; Kırım Tatarcasına yakın.
               - ad: Kafkas grubu
                 kod: kafkas
                 alt:
                   - ad: Kumukça
                     kod: kum
+                    konusur: 450_000
                     tip: dil
                     alt:
                       - { ad: Hasavyurt ağzı, kod: kum-hasavyurt }
@@ -193,6 +213,7 @@ alt:
                       - { ad: Kaytak ağzı, kod: kum-kaytak }
                   - ad: Karaçay-Malkarca
                     kod: krc
+                    konusur: 300_000
                     tip: dil
                     alt:
                       - { ad: Karaçay-Baksan-Çegem ağzı, kod: krc-karacay }
@@ -202,6 +223,7 @@ alt:
             alt:
               - ad: Kazakça
                 kod: kaz
+                konusur: 13_000_000
                 tip: dil
                 alt:
                   - { ad: Kuzeydoğu ağzı, kod: kaz-kuzeydogu }
@@ -209,12 +231,14 @@ alt:
                   - { ad: Batı ağzı, kod: kaz-bati }
               - ad: Karakalpakça
                 kod: kaa
+                konusur: 600_000
                 tip: dil
                 alt:
                   - { ad: Kuzeydoğu ağzı, kod: kaa-kuzeydogu }
                   - { ad: Güneybatı ağzı, kod: kaa-guneybati }
               - ad: Nogayca
                 kod: nog
+                konusur: 90_000
                 tip: dil
                 alt:
                   - { ad: Kara Nogay ağzı, kod: nog-kara }
@@ -223,6 +247,8 @@ alt:
                   - { ad: "Astrahan ağzı (Karagaş, Yurt Tatarları)", kod: nog-astrahan }
               - ad: Sibirya Tatarcası
                 kod: sty
+                konusur: 50_000
+                konusur_not: "Etnik nüfus ~200 bin; dili konuşanlar daha az."
                 tip: dil
                 alt:
                   - { ad: Tobol-İrtiş ağzı, kod: sty-tobol }
@@ -233,12 +259,14 @@ alt:
             alt:
               - ad: Kırgızca
                 kod: kir
+                konusur: 5_000_000
                 tip: dil
                 alt:
                   - { ad: Kuzey ağzı, kod: kir-kuzey }
                   - { ad: Güney ağzı, kod: kir-guney }
               - ad: Güney Altayca
                 kod: alt
+                konusur: 55_000
                 tip: dil
                 not: Geleneksel Türkolojide Sibirya kolunda sayılır; söz varlığı ve ses yapısıyla Kırgızcaya çok yakındır.
                 alt:
@@ -253,6 +281,7 @@ alt:
         alt:
           - ad: Özbekçe
             kod: uzb
+            konusur: 35_000_000
             tip: dil
             not: Özbekçenin Kıpçak ve Oğuz ağızları soy bakımından o kollara yakındır; topluluk olarak Özbekçe altında tutuldu.
             alt:
@@ -264,12 +293,13 @@ alt:
             alt:
               - ad: Uygurca
                 kod: uig
+                konusur: 11_000_000
                 tip: dil
                 alt:
                   - { ad: "Merkez ağızları (Kaşgar, Turfan, İli)", kod: uig-merkez }
                   - { ad: Hoten ağzı, kod: uig-hoten }
                   - { ad: Lopnur ağzı, kod: uig-lopnur }
-              - { ad: İli Türkçesi, kod: ili, not: "Kazakistan ve Çin'de İli vadisi; Uygurca ve Özbekçeye yakın." }
+              - { ad: İli Türkçesi, kod: ili, konusur: 500, konusur_not: "Çok belirsiz; Çin ve Kazakistan'da küçük topluluklar.", not: "Kazakistan ve Çin'de İli vadisi; Uygurca ve Özbekçeye yakın." }
 
       # ========================================================== SİBİRYA
       - ad: Sibirya kolu
@@ -281,12 +311,13 @@ alt:
             alt:
               - ad: Sahaca (Yakutça)
                 kod: sah
+                konusur: 450_000
                 tip: dil
                 alt:
                   - { ad: Merkez ağzı, kod: sah-merkez }
                   - { ad: Vilüy ağzı, kod: sah-viluy }
                   - { ad: Kuzeybatı ağzı, kod: sah-kuzeybati }
-              - { ad: Dolganca, kod: dlg }
+              - { ad: Dolganca, kod: dlg, konusur: 800 }
           - ad: Güney Sibirya
             kod: sibirya-guney
             alt:
@@ -298,6 +329,7 @@ alt:
                     alt:
                       - ad: Tuvaca
                         kod: tyv
+                        konusur: 280_000
                         tip: dil
                         alt:
                           - { ad: Merkez ağzı, kod: tyv-merkez }
@@ -310,16 +342,17 @@ alt:
                     kod: sayan-tayga
                     not: Ren geyiği yetiştiren orman toplulukları; Tuvacanın Toju ağzı da bu tipe yakındır.
                     alt:
-                      - { ad: Tofaca, kod: kim }
-                      - { ad: Duhaca (Tsaatan), kod: duha, not: "Moğolistan; Tofacaya yakın, ayrı ISO kodu yok." }
-                      - { ad: Soyotça, kod: soyot, not: "Buryatya; yeniden canlandırılıyor." }
-                  - { ad: Sarı Uygurca, kod: ybe, not: "Çin (Gansu); Eski Uygurcanın torunu; sınıflandırması tartışmalı." }
+                      - { ad: Tofaca, kod: kim, konusur: 40 }
+                      - { ad: Duhaca (Tsaatan), kod: duha, konusur: 500, not: "Moğolistan; Tofacaya yakın, ayrı ISO kodu yok." }
+                      - { ad: Soyotça, kod: soyot, konusur: 50, konusur_not: "Dil yeniden canlandırılıyor; akıcı konuşur çok az.", not: "Buryatya; yeniden canlandırılıyor." }
+                  - { ad: Sarı Uygurca, kod: ybe, konusur: 4_600, not: "Çin (Gansu); Eski Uygurcanın torunu; sınıflandırması tartışmalı." }
               - ad: Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay)
                 kod: yenisey
                 not: Kuzey Altayca, Güney Altaycadan çok Şorca ve Çulımcaya yakındır.
                 alt:
                   - ad: Hakasça
                     kod: kjh
+                    konusur: 40_000
                     tip: dil
                     alt:
                       - { ad: Kaça ağzı, kod: kjh-kaca }
@@ -328,19 +361,22 @@ alt:
                       - { ad: Koybal ağzı, kod: kjh-koybal }
                   - ad: Şorca
                     kod: cjs
+                    konusur: 3_000
                     tip: dil
                     alt:
                       - { ad: Mras ağzı, kod: cjs-mras }
                       - { ad: Kondoma ağzı, kod: cjs-kondoma }
                   - ad: Çulımca
                     kod: clw
+                    konusur: 40
                     tip: dil
                     alt:
                       - { ad: Orta Çulım ağzı, kod: clw-orta }
                       - { ad: Aşağı Çulım ağzı, kod: clw-asagi }
-                  - { ad: Fuyu Kırgızcası, kod: fuyu, not: "Çin (Heilongjiang); Hakasçaya yakın." }
+                  - { ad: Fuyu Kırgızcası, kod: fuyu, konusur: 10, not: "Çin (Heilongjiang); Hakasçaya yakın." }
                   - ad: Kuzey Altayca
                     kod: atv
+                    konusur: 3_000
                     tip: dil
                     not: Tuba, Kumandı ve Çalkan toplulukları; bazı kaynaklarda ayrı diller sayılır.
                     alt:

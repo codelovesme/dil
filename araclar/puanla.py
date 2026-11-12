@@ -46,7 +46,8 @@ VARSAYILAN = dict(alfa=0.5, beta=0.2, taban=0.5, esik=0.5)
 
 # ================================================================== ağaç
 
-DUGUM_ALANLARI = {"ad", "kod", "tip", "not", "alt", "agirlik_carpani"}
+DUGUM_ALANLARI = {"ad", "kod", "tip", "not", "alt", "agirlik_carpani", "konusur", "konusur_not"}
+EN_AZ_BASAMAK, EN_COK_BASAMAK = 2, 8
 
 class Dugum:
     def __init__(self, veri: dict, ust: "Dugum | None" = None, dil_ici: bool = False,
@@ -69,17 +70,19 @@ class Dugum:
             self.alt.insert(0, Dugum({"ad": "Yazı dili", "kod": self.kod}, self, True, True))
         self.yaprak_sayisi = 1 if not self.alt else sum(c.yaprak_sayisi for c in self.alt)
         self.dil_sayisi = 1 if self.dil_mi else sum(c.dil_sayisi for c in self.alt)
+        if self.dil_mi and not yazi_dili:
+            if "konusur" not in veri:
+                sys.exit(f"agac.yaml: '{self.ad}' dilinin `konusur` (konuşur sayısı) alanı eksik")
+            self.konusur = int(veri["konusur"])
+            self.basamak = basamak(self.konusur)
+        self.basamak_toplam = (self.basamak if self.dil_mi and not yazi_dili
+                               else sum(c.basamak_toplam for c in self.alt if not c.dil_ici))
         self.yaprak_kodlari = ({self.kod} if not self.alt
                                else set().union(*(c.yaprak_kodlari for c in self.alt)))
 
     @property
     def yaprak_mi(self) -> bool:
         return not self.alt
-
-    @property
-    def sayim(self) -> int:
-        """Kardeşleri arasında tartılırken kullanılan sayı."""
-        return self.yaprak_sayisi if self.dil_ici else self.dil_sayisi
 
     def tum_dugumler(self):
         yield self
@@ -102,8 +105,25 @@ def agac_yukle() -> Dugum:
     return kok
 
 
+def basamak(konusur: int) -> int:
+    """Büyüklük basamağı: konuşur sayısı her 10 kat arttığında +1 (2..8).
+
+    100'den az: 2 · 100-1000: 3 · 1-10 bin: 4 · 10-100 bin: 5 · 100 bin-1 milyon: 6
+    1-10 milyon: 7 · 10 milyon ve üstü: 8
+    """
+    b = len(str(max(int(konusur), 1)))  # basamak sayısı = floor(log10) + 1
+    return max(EN_AZ_BASAMAK, min(EN_COK_BASAMAK, b))
+
+
 def cocuk_agirligi(c: Dugum, alfa: float) -> float:
-    return (c.sayim ** alfa) * c.carpan
+    """Bir çocuğun kardeşleri arasındaki (normalleştirilmemiş) ağırlığı.
+
+    Bir dilin içinde (ağızlar):   (ağız sayısı) ^ alfa
+    Dil düzeyinde ve üstünde:     (ortalama basamak) x (dil sayısı) ^ alfa
+    """
+    if c.dil_ici:
+        return (c.yaprak_sayisi ** alfa) * c.carpan
+    return (c.basamak_toplam / c.dil_sayisi) * (c.dil_sayisi ** alfa) * c.carpan
 
 
 def paylar(dugum: Dugum, alfa: float) -> list[tuple[Dugum, float]]:
@@ -478,19 +498,25 @@ def agirlik_raporu(agac: Dugum, alfa: float, agizlar: bool, md: bool):
         print(f"α = {alfa}. {ozet}\n")
         print("- **Üst içinde:** düğümün, bir üstündeki birleşimde aldığı pay.")
         print("- **Genel:** düğümün en tepedeki karara toplam etkisi.\n")
-        print("| Düğüm | Üst içinde | Genel |")
-        print("|---|---:|---:|")
+        print("- **Basamak:** dilin büyüklük basamağı (konuşur sayısının 10'luk basamağı, 2–8).\n")
+        print("| Düğüm | Konuşur (yaklaşık) | Basamak | Üst içinde | Genel |")
+        print("|---|---:|---:|---:|---:|")
         for seviye, d, ic, genel, agiz in satirlar:
             ad = d.ad if not (d.tip in ("kol",) or seviye <= 1) else f"**{d.ad}**"
             if d.dil_mi:
                 ad = f"{d.ad} *({agiz} ağız)*" if agiz else d.ad
             girinti = "&nbsp;&nbsp;&nbsp;&nbsp;" * seviye
-            print(f"| {girinti}{ad} | %{100 * ic:.1f} | %{100 * genel:.2f} |")
+            dil = d.dil_mi and not d.yazi_dili
+            konusur = f"{d.konusur:,}".replace(",", ".") if dil else ""
+            bas = str(d.basamak) if dil else ""
+            print(f"| {girinti}{ad} | {konusur} | {bas} | %{100 * ic:.1f} | %{100 * genel:.2f} |")
         return
 
     print(f"Ağırlıklar (alfa = {alfa})      üst içinde    genel\n")
     for seviye, d, ic, genel, agiz in satirlar:
         etiket = "  " * seviye + d.ad + (f" ({agiz} ağız)" if agiz and not agizlar else "")
+        if d.dil_mi and not d.yazi_dili:
+            etiket += f" [b{d.basamak}]"
         print(f"{etiket:<58} %{100 * ic:5.1f}   %{100 * genel:5.2f}")
     print(f"\n{ozet}")
 

@@ -15,7 +15,8 @@ bir Türk dili oluşturmak. Bunu yaparken:
 - **Eskilik** önceliklidir: tarihî metinlerde tanıklanmış kelimeler ve biçimler
   öne çıkar.
 - **Kavimler arası denge** gözetilir: bir topluluk ne nüfusuyla ne de içinde
-  çok sayıda dil ya da ağız barındırmasıyla diğerlerini ezebilir.
+  çok sayıda dil ya da ağız barındırmasıyla diğerlerini ezebilir. Kişi sayısı
+  sayılır, ama sadece büyüklük basamağı olarak (§3).
 
 ## 2. Türk dilleri ağacı
 
@@ -61,7 +62,7 @@ Ağacın şekli ağırlıkları belirlediği için ağaç şu kurallarla kurulur
 1. **Diller birleştirilmez.** Her topluluğun dili ayrı bir yapraktır.
 2. **Ağız eklemek serbesttir.** Ağırlıkları değiştirmez (§3).
 3. **Dil eklemek ağırlıkları değiştirir.** Bu yüzden yeni bir dilin gerekçesi
-   `not` alanına yazılır.
+   `not` alanına, yaklaşık konuşur sayısı da `konusur` alanına yazılır.
 4. **Birbirine çok yakın diller ortak bir alt grupta toplanır.** Örneğin Kırım
    Tatarcası, Karayca, Kırımçakça ve Urumca "Kırım grubu"nda; Tofaca, Duhaca ve
    Soyotça "Tayga Sayan"da toplanır. Böylece payı aralarında paylaşırlar ve
@@ -88,26 +89,52 @@ verilir. Bu böyle devam ederek en tepeye, ortak dile ulaşılır.
 
 **Her birleşimde** çocuklar şu oranda tartılır:
 
-```
-çocuğun payı  ∝  (çocuğun sayımı) ^ α          α = 0.5
-```
-
-| Nerede? | Sayım |
+| Nerede? | Çocuğun ağırlığı |
 |---|---|
-| Dil düzeyinin **üstünde** (diller, dallar, kollar) | Altındaki **dil** sayısı |
-| Bir dilin **içinde** (ağızlar, ağız grupları) | Altındaki **ağız** sayısı |
+| Dil düzeyinde ve **üstünde** (diller, dallar, kollar) | (dillerinin **ortalama basamağı**) × (dil sayısı) ^ α |
+| Bir dilin **içinde** (ağızlar, ağız grupları) | (ağız sayısı) ^ α |
 
-Bu ayrım önemlidir: **Bir dilin kaç ağzının yazıldığı, o dilin ve kolunun
-ağırlığını değiştirmez.** Türkiye Türkçesinin 11 ağızlı olması ile Kırımçakçanın
-ağızsız olması, ikisinin Batı Oğuz ve Kıpçak-Oğuz içindeki paylarını
-etkilemez. Ağızlar sadece kendi dillerinin içinde neyin seçileceğini belirler.
+α = 0.5. Tek bir dil için bu formül kısaca *basamağı* demektir.
 
-### Ne nüfus ne dil sayısı
+### Büyüklük basamağı: kişi sayısı sayılır ama ezemez
 
-- **Nüfus hiç kullanılmaz.** 80 milyonluk bir dil, 5 bin kişilik bir dili ezemez.
-- **Dil sayısı doğrudan kullanılmaz.** α = 1 olsaydı 16 dilli Kıpçak kolu tek
-  başına kazanırdı. α = 0 olsaydı tek dilli Oğur kolu %50 alırdı. α = 0.5 ile
-  büyük kol biraz daha ağırdır, ama dil sayısıyla doğru orantılı değildir.
+Temel kriterimiz şudur: *bir kelimenin kaç kavim/ülke tarafından kullanıldığı,
+kaç kişi tarafından kullanıldığından daha önemlidir.* Kişi sayısı daha az
+önemlidir, ama yok sayılmaz. Bu yüzden her dilin konuşur sayısı doğrudan değil,
+**basamak** olarak hesaba girer. Konuşur sayısı her 10 kat arttığında dil 1
+puan alır:
+
+| Konuşur sayısı | Basamak | Örnek |
+|---|---|---|
+| 10 milyon ve üstü | 8 | Türkiye Türkçesi, Azerbaycan Türkçesi, Özbekçe, Kazakça, Uygurca |
+| 1 – 10 milyon | 7 | Türkmence, Tatarca, Başkurtça, Kırgızca, Irak Türkmencesi |
+| 100 bin – 1 milyon | 6 | Çuvaşça, Gagavuzca, Kaşkayca, Kırım Tatarcası, Sahaca, Tuvaca |
+| 10 – 100 bin | 5 | Halaçça, Salarca, Nogayca, Hakasça, Güney Altayca |
+| 1 – 10 bin | 4 | Balkan Gagavuz Türkçesi, Sarı Uygurca, Şorca, Kuzey Altayca |
+| 100 – 1 000 | 3 | Urumca, İli Türkçesi, Dolganca, Duhaca |
+| 100'den az | 2 | Karayca, Kırımçakça, Tofaca, Soyotça, Çulımca, Fuyu Kırgızcası |
+
+- **Kalabalık ezemez.** 80 milyonluk Türkiye Türkçesi ile 5 bin kişilik Balkan
+  Gagavuz Türkçesi arasında 16.000 kat kişi farkı vardır, ağırlık farkı ise
+  sadece 2 kattır.
+- **Hata payına dayanıklıdır.** Konuşur sayıları yaklaşıktır ve
+  [`agac.yaml`](agac.yaml) dosyasında `konusur` alanında tutulur. Belirsiz
+  olanlara `konusur_not` yazılır. Bir tahmin 2 kat yanlış olsa bile basamak
+  çoğu zaman değişmez.
+- **Dil sayısı dal ağırlığını şişirmez.** Bir dalın ağırlığı, dillerinin
+  *ortalama* basamağı ile dil sayısının *kökünün* çarpımıdır. α = 1 olsaydı
+  çok dilli kollar kazanırdı, α = 0 olsaydı tek dilli Oğur kolu %50 alırdı.
+- **Tesadüfi eşitlik olmaz.** Basamak olmadan bütün diller 1 birim
+  sayılıyordu. O zaman ağırlığı sadece ağacın şekli belirliyordu ve simetrik
+  bir dalda (ör. 3 grup × 3 dilden oluşan Oğuz kolu) Türkiye Türkçesi
+  Kaşkaycayla eşit çıkıyordu.
+
+### Ağızlar ağırlığı değiştirmez
+
+**Bir dilin kaç ağzının yazıldığı, o dilin ve kolunun ağırlığını
+değiştirmez.** Türkiye Türkçesinin 13 ağızlı olması ile Kırımçakçanın ağızsız
+olması, ikisinin kendi dalları içindeki paylarını etkilemez. Ağızlar sadece
+kendi dillerinin içinde neyin seçileceğini belirler.
 
 Bütün ağırlıklar [`AGIRLIKLAR.md`](AGIRLIKLAR.md) dosyasındadır. Ağaç
 değişince yeniden üretilir:
@@ -119,11 +146,11 @@ python3 araclar/puanla.py --agirliklar --agizlar --md > AGIRLIKLAR.md
 Gerekirse bir düğüme `agirlik_carpani` verilerek elle düzeltme yapılabilir, ama
 bu istisna olmalı ve gerekçesi yazılmalıdır.
 
-### Çuvaşçanın %13.8'i neden düzeltilmiyor?
+### Çuvaşçanın %15.8'i neden düzeltilmiyor?
 
 Çuvaşça, Ortak Türkçeden önce ayrılmış bütün bir ana kolun (Oğur) tek yaşayan
 temsilcisidir. Ağırlığı bu yüzden yüksektir. Ama tek başına kazanamaz, çünkü
-Ortak Türkçenin ağırlığı %86'dır. Sonucu ancak öteki diller iki kelime arasında
+Ortak Türkçenin ağırlığı %84'tür. Sonucu ancak öteki diller iki kelime arasında
 neredeyse eşit bölündüğünde belirler. O durumda da eskiden yana karar verdirir,
 bu da eskilik ilkesinin ta kendisidir.
 

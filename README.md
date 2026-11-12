@@ -3,7 +3,8 @@
 Bütün Türk kavimlerinin birbirini anlamasını kolaylaştıracak, **öz ve eski
 Türkçe** kelimelere dayanan ortak bir dil oluşturma çalışması.
 
-- Kelimeler nüfusa göre değil, **Türk dilleri ağacı** üzerinde seçilir. Hiçbir
+- Kelimeler **Türk dilleri ağacı** üzerinde seçilir. Kişi sayısı sadece
+  büyüklük basamağı olarak sayılır (her 10 kat = +1 puan). Böylece hiçbir
   topluluk, kalabalığıyla ya da içindeki dil veya ağız sayısıyla diğerlerini
   ezemez.
 - Hesap **alttan yukarı** yapılır. Ağızlar birleşip dili, diller dalı, dallar
