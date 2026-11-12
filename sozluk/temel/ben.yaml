@@ -1,0 +1,76 @@
+kavram: ben
+ingilizce: I
+anlam: Birinci tekil şahıs zamiri; konuşan kişinin kendisi.
+dogrulandi: false
+kokler:
+  - kok: ben
+    koken: türkçe
+    ana_turkce: "*bẹ (*ben)"
+    kaynak: >-
+      Wiktionary, Reconstruction:Proto-Turkic/be (Clauson 1972 s. 346; DLT s. 31, 339;
+      Róna-Tas 1999). Ortak Türkçe *ben, eğik durum gövdesi *bẹn- üzerinden geriye
+      oluşum. Başta b- ~ m- değişimi Türk dillerinde düzenlidir (genizsil ünsüzden
+      önce b- > m-).
+    not: >-
+      Wiktionary'de olmayan diller (Kerkük, Horasan, Sibirya Tatarcası, Urumca,
+      Balkan Gagavuz, Türkiye ağızları) genel Türkoloji bilgisine dayanır, ayrıca
+      doğrulanmalıdır. Sarı Uygurca, İli Türkçesi, Fuyu Kırgızcası,
+      Duhaca, Soyotça bilinçli olarak boş bırakıldı.
+    tarihi:
+      otk: bän            # Orhon yazıtları 𐰋𐰤; Eski Uygurca män
+      xqa: män            # DLT: Türk boylarında män, Oğuzlarda bän
+      eski-anadolu: bän
+      qwm: män
+      chg: män
+    bicimler:
+      # --- Oğur
+      chv: { bicim: epĕ, miras: true }      # эпӗ; b- düşmesi Oğur ses gelişmesi
+      # --- Halaç
+      klj: { bicim: män, miras: true }   # temel zamir; Azerbaycan Türkçesinden ödünç değil
+      # --- Oğuz
+      tur: ben
+      tur-ege: ben
+      tur-teke: ben
+      tur-orta: ben
+      tur-bkaradeniz: ben
+      tur-dkaradeniz: ben
+      tur-erzurum: men                   # Doğu Anadolu ağızlarında men
+      tur-ahiska: men
+      tur-drumeli: ben
+      tur-brumeli: ben
+      tur-kibris: ben
+      gag: bän
+      bgx: ben
+      aze: män                           # mən
+      kerkuk: men
+      qxq: män
+      tuk: men
+      kmz: men
+      slr: men
+      # --- Kıpçak
+      tat: min                           # мин
+      bak: min                           # мин
+      sty: min
+      crh: men
+      kum: men
+      krc: men
+      kdr: men                           # мэн
+      jct: men
+      uum: men
+      kaz: men
+      kaa: men
+      nog: men
+      kir: men
+      alt: men
+      # --- Karluk
+      uzb: men
+      uig: män                           # مەن (ە = ä; Uygur Latin yazısında men)
+      # --- Sibirya
+      sah: min
+      dlg: min
+      tyv: men
+      kim: men
+      kjh: min
+      cjs: men
+      clw: män                           # Lemskaya 2024; değişkenler man, men, meen
+      atv: men                           # мен; ayrıca бин

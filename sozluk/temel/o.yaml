@@ -1,0 +1,67 @@
+kavram: o
+ingilizce: he / she / it
+anlam: >-
+  Üçüncü tekil şahıs zamiri (kişi zamiri). Türk dillerinin çoğunda aynı kelime
+  "o (şu, uzaktaki)" işaret zamiri olarak da kullanılır; bu kayıt kişi zamiri içindir.
+dogrulandi: false
+kokler:
+  - kok: ol
+    koken: türkçe
+    ana_turkce: "*ol (eğik gövde *an-)"
+    kaynak: >-
+      Wiktionary, Reconstruction:Proto-Turkic/ol (Clauson s. 123; ESTJa I s. 444;
+      Räsänen s. 360; Erdal 1993 Volga Bulgarcası s. 99, 132; DLT).
+    not: >-
+      Oğuz ve Karluk dillerinde son -l düşmüş (o, u); Tatarca ve Başkurtçada
+      o > u (ul); Çuvaşçada başa v- gelmiş (văl). Kerkük ve Balkan Gagavuz genel
+      Türkoloji bilgisine dayanır. Horasan Türkçesi, Kaşkayca, Karayca,
+      Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi ve küçük Sibirya dilleri
+      boş bırakıldı.
+    tarihi:
+      otk: ol             # Orhon 𐰆𐰞
+      xqa: ol
+      xbo: wal            # Volga Bulgarcası
+      eski-anadolu: ol
+      qwm: ol
+      chg: u              # ayrıca ul
+    bicimler:
+      # --- Oğur
+      chv: { bicim: văl, miras: true }      # вӑл
+      # --- Halaç
+      klj: { bicim: o, miras: true }        # ô
+      # --- Oğuz
+      tur: o
+      gag: o
+      bgx: o
+      aze: o
+      kerkuk: o
+      tuk: ol
+      slr: u
+      # --- Kıpçak
+      tat: ul                            # ул
+      bak: ul                            # ул
+      crh: ol
+      kum: ol
+      krc: ol
+      kaz: ol
+      kaa: ol
+      nog: ol
+      kir: al                            # ал; ol da kullanılır
+      alt: ol
+      # --- Karluk
+      uzb: u
+      uig: u                             # ئۇ
+      # --- Sibirya
+      sah: { bicim: ol, tercih: 0.25 }   # yalnızca cansız varlıklar için
+      dlg: ol
+      tyv: ol
+      kim: ol
+      kjh: ol
+      cjs: ol
+      atv: ol                            # ayrıca ul
+  - kok: kini
+    koken: belirsiz
+    kaynak: Sahaca kişi zamiri кини (genel Türkoloji bilgisi; doğrulanmadı)
+    not: Sahacada kişiler için kullanılan 3. tekil şahıs zamiri. Kökeni araştırılmalı.
+    bicimler:
+      sah: kini

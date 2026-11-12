@@ -1,0 +1,56 @@
+# Tarihî tanıklar
+# ------------------------------------------------------------------
+# Yaşayan diller kelimenin BUGÜNKÜ yayılımını, tarihî diller ESKİLİĞİNİ ölçer.
+# Tarihî diller yaşayan dillerin ağırlığını değiştirmez; sadece "eskilik"
+# puanına katkı verir (bkz. ILKELER.md §5).
+#
+#   kod      : kavram dosyalarındaki `tarihi:` alanında kullanılan kod
+#   dal      : agac.yaml'daki bağlı olduğu düğüm. Bir düğümde karar verilirken
+#              o düğümün, üst düğümlerinin ve alt düğümlerinin tanıkları sayılır.
+#   agirlik  : eskilik puanına katkısı. Daha eski ve daha geniş tanık = daha ağır.
+#   sira     : kronolojik sıra. En eski tanığın biçimi, en tepedeki biçimin
+#              seçiminde ölçü olarak kullanılır.
+
+- ad: Eski Türkçe (Göktürk ve Uygur metinleri)
+  kod: otk
+  dal: ortak
+  donem: 7.–11. yüzyıl
+  agirlik: 3
+  sira: 1
+
+- ad: Volga Bulgarcası
+  kod: xbo
+  dal: ogur
+  donem: 10.–14. yüzyıl
+  agirlik: 1
+  sira: 2
+  not: Sadece mezar taşları ve alıntı kelimelerle biliniyor; çoğu kavram için veri yok.
+
+- ad: Karahanlıca (Dîvânu Lugâti't-Türk, Kutadgu Bilig)
+  kod: xqa
+  dal: ortak
+  donem: 11.–12. yüzyıl
+  agirlik: 2
+  sira: 3
+  not: DLT Oğuz, Kıpçak ve diğer boyların kelimelerini de kaydeder; bu yüzden Ortak Türkçeye bağlandı.
+
+- ad: Kuman-Kıpçakça (Codex Cumanicus, Memlük Kıpçakçası)
+  kod: qwm
+  dal: kipcak
+  donem: 13.–15. yüzyıl
+  agirlik: 1
+  sira: 4
+
+- ad: Eski Anadolu Türkçesi
+  kod: eski-anadolu
+  dal: oguz
+  donem: 13.–15. yüzyıl
+  agirlik: 1
+  sira: 5
+
+- ad: Harezm Türkçesi ve Çağatayca
+  kod: chg
+  dal: karluk
+  donem: 14.–19. yüzyıl
+  agirlik: 1
+  sira: 6

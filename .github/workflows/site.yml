@@ -1,0 +1,52 @@
+# Bitig sitesi: çıktıların güncel olduğunu denetler, statik siteyi kurar ve
+# main dalındaki her değişiklikte GitHub Pages'e yayınlar.
+name: site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  kur:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Çıktılar veriyle güncel mi
+        run: python3 araclar/yayinla.py --denetle
+      - name: Siteyi kur
+        run: python3 araclar/site.py --cikti _site
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: _site
+
+  yayinla:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: kur
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.dagit.outputs.page_url }}
+    steps:
+      - name: Pages açık değilse açmayı dene
+        uses: actions/configure-pages@v5
+        continue-on-error: true
+        with:
+          enablement: true
+      - id: dagit
+        uses: actions/deploy-pages@v4

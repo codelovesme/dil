@@ -1,0 +1,34 @@
+# Sözlük maddesi (Hedef 4) şablonu → sozluk/kok/<kök>.yaml   (ILKELER.md §14)
+kok: köz                     # kavram dosyasındaki kök kimliğiyle aynı
+anlam: görme organı          # temel anlam
+koken: türkçe
+ana_turkce: "*göŕ"
+kavramlar: [goz]             # bu kökü kullanan kavram dosyaları
+etimoloji: >-
+  Kısa etimoloji; tartışmalar ve ses gelişmeleri.
+kaynak: wiktionary-ana-turkce; clauson     # kök düzeyindeki dayanak (kaynak kimlikleri)
+
+taniklar:
+  # Tarihî tanık: yer, yüzyıl, metin ve kaydeden mümkün olduğunca dolu
+  - dil: otk                 # dil/ağız kodu, tarihi.yaml kodu ya da dal kodu (oguz, kipcak)
+    boy: ""                  # kaynağın adlandırdığı boy (Kâşgarlı'nın "Oğuz"u, Memlük "Türkmen"i)
+    yer: Orhon, Moğolistan
+    yuzyil: 8                # ya da "13-15"; yazılmazsa kaynağın yuzyil alanından alınır
+    bicim: köz               # çalışma yazımı (ILKELER §11)
+    yazi: 𐰚𐰇𐰕              # özgün yazı
+    anlam: ""                # temel anlamdan farklıysa
+    metin: Kül Tigin yazıtı  # kelimenin geçtiği özgün metin
+    kaynak: clauson          # bizim okuduğumuz kaynak (kimlik; birden çoksa ; ile)
+    atif: s. 000             # madde/sayfa
+    kaydeden: ""             # kaydı tutan (Kâşgarlı, Ebû Hayyân, Çin yıllığı…)
+    yabanci: false           # Türk olmayan gözlemci ya da Türkçe olmayan dilde sözlükse true
+    not: ""
+  # Yaşayan dil: kısa biçim yeterli; yüzyıl yazılmazsa günümüz
+  - { dil: tur, bicim: göz, kaynak: tdk-portal }
+  - { dil: tur-erzurum, bicim: göz, kaynak: bilgi }      # bilgi = kaynakla doğrulanmadı
+  - { dil: chv, bicim: kuś, yazi: куҫ, kaynak: unal-2026, not: "Miras; Oğur ŕ > r değil, ś." }
+
+yok:                         # araştırılıp kökün bulunmadığı diller → ne kullanıldığı
+  # xyz: "yerine X (Farsça alıntı)"
+tarihi_yok:                  # araştırılıp bulunamayan duraklar (hedefler.yaml'daki durak adı)
+  # "Volga Bulgarcası": "mezar taşlarında geçmiyor"

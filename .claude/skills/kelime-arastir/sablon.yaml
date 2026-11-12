@@ -1,0 +1,21 @@
+kavram: göz
+ingilizce: eye
+anlam: Görme organı.
+dogrulandi: false          # kaynakla kontrol edilince true
+kokler:
+  - kok: köz               # kökün kimliği (genelde en eski biçim)
+    koken: türkçe          # türkçe | alıntı:<dil> | belirsiz
+    kaynak: Clauson 1972; StarLing; Wiktionary Proto-Turkic *göŕ
+    not: ""                # isteğe bağlı açıklama
+    tarihi:                # tarihi.yaml kodları
+      otk: köz
+      xqa: köz
+    bicimler:              # agac.yaml dil kodları
+      tur: göz
+      aze: göz
+      kaz: köz
+      chv: kuś
+      uzb: { bicim: köz, tercih: 1, kaynak: "..." }
+  # - kok: ...             # başka aday kökler / alıntılar
+yok: []                    # araştırılmış ama hiçbir aday kökü kullanmayan diller
+tarihi_yok: []             # araştırılmış ama kelimenin bulunmadığı tarihî tanıklar

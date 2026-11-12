@@ -1,0 +1,34 @@
+kavram: dağ
+ingilizce: mountain
+dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+kokler:
+  - kok: tağ
+    tarihi: { otk: tağ }
+    koken: türkçe
+    kaynak: Orhon yazıtları; DLT; Clauson 1972
+    bicimler:
+      chv: tu
+      tur: dağ
+      aze: dağ
+      tuk: dag
+      tat: taw
+      bak: taw
+      crh: dağ
+      kum: taw
+      krc: taw
+      kaz: taw
+      kaa: taw
+      nog: taw
+      kir: too
+      uzb: toğ
+      uig: tağ
+      tyv: dağ
+      kjh: tağ
+      alt: tuu
+  - kok: kaya
+    tarihi: { otk: kaya }
+    koken: türkçe
+    kaynak: DLT
+    not: Eski Türkçede ve çoğu dilde "kaya" anlamında; "dağ" anlamında Sahacada.
+    bicimler:
+      sah: xaya

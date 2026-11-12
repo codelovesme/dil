@@ -1,0 +1,106 @@
+# Hedefler
+# ------------------------------------------------------------------
+# Aynı veri (agac.yaml, ag.yaml, tarihi.yaml, sozluk/) dört farklı soruya cevap
+# verir. İlk üçü bir kelime SEÇER; dördüncüsü (sözlük) kelime seçmez, kökün
+# bütün tanıklarını BELGELER ve ölçüsü kapsamdır (araclar/sozluk.py). Her hedefin kendi ölçüsü vardır (ILKELER.md §1). Öz Türkçe filtresi üç
+# hedefte de geçerlidir: alıntılar hiçbir zaman seçilmez.
+#
+#   yontem    : kopru -> Hedef 1. Kaç farklı grup kullanıyor: her dil
+#                        kendine özgülük × basamak / 8 ile tartılır (örgüden)
+#               yas   -> Hedef 2. Kökün yaşı: soy ağacının hangi düğümüne kadar gidiyor
+#               kisi  -> Hedef 3. Her dil konuşur sayısıyla tartılır
+#   cevre_esik: (kopru) anlaşılırlığı bunun altındaki komşular "aynı grup"
+#               sayılmaz; üstündekiler (s - eşik) / (1 - eşik) oranında sayılır
+#   ikinci_dil: (kisi) ag.yaml'daki anlaşılırlık bağlarıyla ikinci dil yoluyla anlama
+#   beta      : eskiliğin etkisi (kopru, kisi)
+#   taban     : aynı kökten ama sesleri farklı bir biçimin temel tanıdıklığı
+#   agiz_alfa : bir dilin içinde ağızlar (ağız sayısı ^ agiz_alfa) ile tartılır
+#   yazi_dili_payi : bir dilin içinde yazı dilinin payı; ağızlar kalanı paylaşır.
+#               Boşsa yazı dili ağızlardan biri gibi sayılır.
+#   buyuk_topluluk : (kopru) bu sayıdan çok konuşuru olan diller taban şartıyla korunur
+#   taban_esik, taban_cezasi : (kopru) büyük topluluklardan biri seçilen biçimi
+#               taban_esik'ten az anlıyorsa, o toplulukların ağırlık payı kadar
+#               taban_cezasi ile çarpılarak puandan düşülür (kimse geride kalmasın)
+#   esik      : yayılımı bunun altındaki kökler "canlandırma" sayılır
+#   bicim     : anlasilir -> en anlaşılır YAŞAYAN biçim
+#               eski      -> dalın en eski tanığının biçimi (yaşamasa da olur)
+#
+# Hedef 4 (yontem: derleme) alanları:
+#   duraklar  : Seviye 2'nin tarihî durakları. Bir durak, `dil` kodlarından birinde ve
+#               `yuzyil` aralığında en az bir tanık (ya da kökün `tarihi_yok` listesinde
+#               durak adı) varsa dolu sayılır. `zorunlu: false` olanlar seviyeyi etkilemez.
+#   yabanci_en_az : Seviye 3 için gereken yabancı kayıt sayısı (tanıkta `yabanci: true`)
+
+- kod: ortak
+  ad: Ortak dil
+  soru: Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi.
+  asil: true
+  yontem: kopru
+  cevre_esik: 0.5
+  beta: 0.2
+  taban: 0.5
+  agiz_alfa: 0.5
+  yazi_dili_payi: 0.5
+  buyuk_topluluk: 100_000
+  taban_esik: 0.5
+  taban_cezasi: 0.5
+  esik: 0.5
+  bicim: anlasilir
+
+- kod: ana
+  ad: Ana Türkçe tahmini
+  soru: Türkçenin en eski hâli neydi?
+  yontem: yas
+  agiz_alfa: 0.0
+  bicim: eski
+
+- kod: nufus
+  ad: En çok kişinin anladığı
+  soru: En fazla insan anlasın.
+  yontem: kisi
+  ikinci_dil: true
+  beta: 0.2
+  taban: 0.5
+  agiz_alfa: 0.5
+  yazi_dili_payi: 0.5
+  esik: 0.5
+  bicim: anlasilir
+
+- kod: sozluk
+  ad: Tanıklı sözlük
+  soru: Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış?
+  yontem: derleme
+  # Seviye 1: bütün yaşayan diller (tanık ya da `yok`); ağızlar ayrıca ölçülür.
+  # Seviye 2: + zorunlu tarihî duraklar.  Seviye 3: + yabancıların kayıtları.
+  duraklar:
+    - ad: Eski Türkçe (Göktürk, Yenisey, Uygur)
+      dil: [otk]
+      yuzyil: 7-14
+    - ad: Karahanlıca (DLT, Kutadgu Bilig)
+      dil: [xqa, oguz, kipcak]
+      yuzyil: 11-13
+    - ad: Volga Bulgarcası
+      dil: [xbo, ogur]
+      yuzyil: 10-14
+      zorunlu: false
+    - ad: Harezm ve Altın Orda Türkçesi
+      dil: [chg]
+      yuzyil: 13-14
+    - ad: Memlük Kıpçakçası ve Codex Cumanicus
+      dil: [qwm, kipcak]
+      yuzyil: 13-15
+    - ad: Eski Anadolu Türkçesi
+      dil: [eski-anadolu]
+      yuzyil: 13-15
+    - ad: Çağatayca
+      dil: [chg]
+      yuzyil: 15-19
+    - ad: Osmanlıca
+      dil: [tur, oguz-turkiye]
+      yuzyil: 16-19
+    - ad: 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…)
+      dil: [yasayan]
+      yuzyil: 18-19
+      zorunlu: false
+  yabanci_en_az: 1
+

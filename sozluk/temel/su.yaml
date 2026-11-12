@@ -1,0 +1,29 @@
+kavram: su
+ingilizce: water
+dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+kokler:
+  - kok: sub
+    tarihi: { otk: sub }
+    koken: türkçe
+    kaynak: Orhon yazıtları; DLT; Clauson 1972
+    bicimler:
+      chv: şıv
+      tur: su
+      gag: su
+      aze: su
+      tuk: suw
+      tat: su
+      bak: hıw
+      crh: suv
+      kum: suw
+      krc: suw
+      kaz: su
+      kaa: suw
+      nog: suw
+      kir: suu
+      uzb: suv
+      uig: su
+      sah: uu
+      tyv: suğ
+      kjh: suğ
+      alt: suu

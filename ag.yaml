@@ -1,0 +1,137 @@
+# Türk dilleri örgüsü (mesh)
+# ------------------------------------------------------------------
+# Soy ağacı (agac.yaml) dillerin nereden geldiğini söyler. Bu dosya ise
+# diller arasındaki öteki bağları tutar. Ağaçta "hangi dalın altına
+# koymalı?" sorusunun cevabı çoğu zaman "ikisine de bağlı" olduğu için,
+# bu bağlar ağırlıklı ve gerektiğinde yönlüdür.
+#
+# Kodlar agac.yaml'daki DİL kodlarıdır (ağız kodları değil).
+#
+# anlasilirlik: [a, b, ab, ba]   — DİLBİLİMSEL yakınlık
+#   ab: a dilini konuşan biri, b dilini (öğrenmeden) ne kadar anlar (0..1)
+#   ba: b dilini konuşan biri a dilini ne kadar anlar; yazılmazsa ab ile aynı
+#   Yazılmayan çiftler 0 sayılır.
+#   Kullanıldığı yer: Hedef 1 (dilin "anlaşılırlık çevresi") ve Hedef 3.
+#
+# ikinci_dil: [dinleyen, konusan, deger]   — İKİNCİ DİL bilgisi
+#   dinleyen dili konuşanların, konusan dili ikinci dil olarak (okul, medya,
+#   iki dillilik yoluyla) ne kadar anladığı. Dilbilimsel yakınlıktan ayrıdır:
+#   Halaçlar Azerbaycan Türkçesini iyi bilir, ama iki dil birbirinden uzaktır.
+#   Kullanıldığı yer: sadece Hedef 3 ("kaç kişi anlar").
+#
+# temas: [veren, alan, deger]
+#   veren dilden alan dile ne yoğunlukta kelime geçtiği (0..1).
+#   Kullanıldığı yer: Hedef 2 (Türk dilleri arası ödünçleri ayıklamak).
+#
+# DURUM: Bütün değerler TAHMİNİDİR (alan bilgisine dayanan başlangıç
+# değerleri). ~100 kavram toplandığında kendi verimizden (ortak kök oranı ve
+# biçim benzerliği) yeniden hesaplanacak ve bu değerlerle karşılaştırılacak.
+
+anlasilirlik:
+  # --- Oğuz
+  - [tur, aze, 0.60, 0.65]
+  - [tur, gag, 0.75, 0.80]
+  - [tur, bgx, 0.85]
+  - [tur, kerkuk, 0.75, 0.80]
+  - [tur, qxq, 0.50]
+  - [tur, tuk, 0.40, 0.45]
+  - [tur, kmz, 0.40, 0.45]
+  - [tur, crh, 0.50, 0.55]
+  - [gag, bgx, 0.85]
+  - [aze, kerkuk, 0.80]
+  - [aze, qxq, 0.85]
+  - [aze, kmz, 0.60]
+  - [aze, tuk, 0.50]
+  - [tuk, kmz, 0.70]
+  - [tuk, slr, 0.30]
+  - [klj, aze, 0.15]            # Halaçça erken ayrılmış, uzak bir koldur
+  # --- Kıpçak
+  - [kaz, kaa, 0.90]
+  - [kaz, nog, 0.85]
+  - [kaa, nog, 0.85]
+  - [kaz, kir, 0.80]
+  - [kaa, kir, 0.70]
+  - [nog, kir, 0.70]
+  - [kaz, sty, 0.60]
+  - [kaz, tat, 0.50]
+  - [kaz, bak, 0.50]
+  - [kir, tat, 0.40]
+  - [kir, alt, 0.70]
+  - [kaz, alt, 0.50]
+  - [tat, bak, 0.85]
+  - [tat, sty, 0.70]
+  - [kum, krc, 0.70]
+  - [kum, nog, 0.70]
+  - [krc, nog, 0.60]
+  - [crh, kum, 0.50]
+  - [crh, krc, 0.50]
+  - [crh, nog, 0.60]
+  - [crh, kdr, 0.70]
+  - [crh, jct, 0.95]
+  - [crh, uum, 0.85]
+  # --- Karluk
+  - [uzb, uig, 0.80]
+  - [uig, ili, 0.90]
+  - [uzb, ili, 0.85]
+  - [uig, slr, 0.50, 0.40]
+  # --- Karluk ile Kıpçak/Oğuz arası
+  - [uzb, kaa, 0.50]
+  - [uzb, kaz, 0.50]
+  - [uzb, kir, 0.50]
+  - [uzb, tuk, 0.40]
+  - [uig, kaz, 0.50]
+  - [uig, kir, 0.50]
+  # --- Sibirya
+  - [sah, dlg, 0.90]
+  - [tyv, kim, 0.75]
+  - [tyv, duha, 0.80]
+  - [tyv, soyot, 0.70]
+  - [kim, duha, 0.90]
+  - [kim, soyot, 0.85]
+  - [duha, soyot, 0.85]
+  - [tyv, ybe, 0.40]
+  - [tyv, kjh, 0.50]
+  - [tyv, alt, 0.40]
+  - [kjh, cjs, 0.60]
+  - [kjh, fuyu, 0.70]
+  - [kjh, clw, 0.50]
+  - [kjh, alt, 0.50]
+  - [cjs, atv, 0.70]
+  - [cjs, clw, 0.50]
+  - [atv, clw, 0.60]
+  - [alt, atv, 0.50]
+  # --- Oğur
+  - [chv, tat, 0.15]            # Çuvaşça öteki Türk dillerinden çok ayrışmıştır
+
+ikinci_dil:
+  - [aze, tur, 0.85]            # Türkiye Türkçesi medya yoluyla çok yaygın
+  - [gag, tur, 0.85]
+  - [bgx, tur, 0.95]
+  - [kerkuk, tur, 0.90]
+  - [crh, tur, 0.70]            # Türkiye'deki ve Dobruca'daki Kırım Tatarları
+  - [klj, aze, 0.60]            # Halaçlar çoğunlukla Azerbaycan Türkçesini de bilir
+  - [kaa, uzb, 0.80]            # Karakalpakların çoğu Özbekçe bilir
+  - [bak, tat, 0.90]
+  - [sty, tat, 0.80]            # Sibirya Tatarları yazı dili olarak Tatarcayı kullanır
+  - [ili, uig, 0.90]
+  - [dlg, sah, 0.90]
+
+temas:
+  - [tat, chv, 0.70]            # Çuvaşça yüzyıllardır Tatarcadan kelime alıyor
+  - [tat, sty, 0.50]
+  - [tat, bak, 0.40]
+  - [aze, klj, 0.60]
+  - [tur, bgx, 0.50]            # Standart Türkçe Balkan ağızlarını yerinden ediyor
+  - [tur, gag, 0.30]
+  - [tur, crh, 0.30]
+  - [crh, jct, 0.80]
+  - [crh, uum, 0.70]
+  - [crh, kdr, 0.40]
+  - [uzb, kaa, 0.50]
+  - [kaz, kaa, 0.50]
+  - [uzb, tuk, 0.30]
+  - [uig, slr, 0.50]
+  - [uig, ybe, 0.30]
+  - [tyv, kim, 0.40]
+  - [tyv, duha, 0.40]
+  - [tyv, soyot, 0.40]
