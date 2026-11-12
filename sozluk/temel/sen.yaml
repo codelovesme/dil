@@ -1,0 +1,75 @@
+kavram: sen
+ingilizce: you (singular)
+anlam: İkinci tekil şahıs zamiri; konuşulan kişi.
+dogrulandi: false
+kokler:
+  - kok: sen
+    koken: türkçe
+    ana_turkce: "*se (*sän)"
+    kaynak: >-
+      Wiktionary, Reconstruction:Proto-Turkic/se (Clauson 1972 s. 831). Ortak Türkçe
+      *sän, eğik durum gövdesi *sän- üzerinden geriye oluşum (krş. *be > ben).
+    not: >-
+      Düzenli ses denklikleri: Başkurtça s- > h- (hin), Sahaca ve Dolganca s- düşer
+      (en), Çuvaşçada başa e- gelir (esĕ). Wiktionary'de olmayan Kerkük, Balkan
+      Gagavuz ve Türkiye ağızları genel Türkoloji bilgisine dayanır. Sarı Uygurca,
+      Çulımca, Duhaca, Soyotça boş bırakıldı.
+    tarihi:
+      otk: sän            # Orhon 𐰾𐰤; Eski Uygurca sän
+      xqa: sen
+      eski-anadolu: sän
+      qwm: sen            # Codex Cumanicus
+      chg: sän
+    bicimler:
+      # --- Oğur
+      chv: { bicim: esĕ, miras: true }      # эсӗ
+      # --- Halaç
+      klj: { bicim: sän, miras: true }      # sən
+      # --- Oğuz
+      tur: sen
+      tur-ege: sen
+      tur-teke: sen
+      tur-orta: sen
+      tur-bkaradeniz: sen
+      tur-dkaradeniz: sen
+      tur-erzurum: sen
+      tur-ahiska: sen
+      tur-drumeli: sen
+      tur-brumeli: sen
+      tur-kibris: sen
+      gag: sän
+      bgx: sen
+      aze: sän                           # sən
+      kerkuk: sen
+      qxq: sän
+      tuk: sen
+      kmz: sän
+      slr: sen                           # sēn
+      # --- Kıpçak
+      tat: sin                           # син
+      bak: hin                           # һин
+      sty: sin
+      crh: sen
+      kum: sen
+      krc: sen
+      kdr: sen
+      jct: sen
+      uum: sen
+      kaz: sen
+      kaa: sen
+      nog: sen
+      kir: sen
+      alt: sen
+      # --- Karluk
+      uzb: sen
+      uig: sen                           # سەن
+      ili: sen
+      # --- Sibirya
+      sah: en                            # эн
+      dlg: en
+      tyv: sen
+      kim: sen
+      kjh: sin
+      fuyu: sin
+      cjs: sen
+      atv: sen
