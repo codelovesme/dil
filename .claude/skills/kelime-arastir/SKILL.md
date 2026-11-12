@@ -151,8 +151,9 @@ Hata veriyorsa düzelt (genellikle yanlış dil kodu).
 
 ## 6. Kaydet
 
-`KARSILASTIRMA.md` dosyasını yenile
-(`python3 araclar/puanla.py --karsilastir --md > KARSILASTIRMA.md`) ve sözlük
-sayfalarını üret (`python3 araclar/sozluk.py --yaz`).
+Bütün okunur çıktıları tek komutla yenile: `python3 araclar/yayinla.py`
+(kavram ve kök sayfaları, KARSILASTIRMA.md, SOZLUK.md, KAYNAKLAR.md, site dizini).
+`python3 araclar/yayinla.py --denetle` geçmeden commit etme; CI aynı denetimi yapar
+ve geçmezse site yayınlanmaz.
 Kullanıcının çalışma branch'ine commit et ve push et. Commit mesajı:
 `sozluk: <kavram> eklendi` (güncellemede `güncellendi`).

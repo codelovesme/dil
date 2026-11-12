@@ -1,0 +1,2081 @@
+{
+ "ad": "Bitig",
+ "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
+ "sayilar": {
+  "kavram": 7,
+  "kok": 1,
+  "tanik": 65,
+  "kaynak": 168,
+  "dil": 40
+ },
+ "sayfalar": [
+  {
+   "yol": "README.md",
+   "baslik": "Proje",
+   "tur": "proje"
+  },
+  {
+   "yol": "ILKELER.md",
+   "baslik": "İlkeler",
+   "tur": "ilke"
+  },
+  {
+   "yol": "sozluk/SIRA.md",
+   "baslik": "Çalışma sırası",
+   "tur": "dizin"
+  },
+  {
+   "yol": "AGIRLIKLAR.md",
+   "baslik": "Ağırlıklar",
+   "tur": "dizin"
+  },
+  {
+   "yol": "KARSILASTIRMA.md",
+   "baslik": "Hedeflerin karşılaştırması",
+   "tur": "dizin"
+  },
+  {
+   "yol": "kaynaklar/KAYNAKLAR.md",
+   "baslik": "Kaynak sözlüğü",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/KAVRAMLAR.md",
+   "baslik": "Kavramlar",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/SOZLUK.md",
+   "baslik": "Tanıklı sözlük (Hedef 4)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/kok/ben.md",
+   "baslik": "ben",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/temel/ben.md",
+   "baslik": "ben",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/buyuk.md",
+   "baslik": "büyük",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/dag.md",
+   "baslik": "dağ",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/o.md",
+   "baslik": "o",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/sen.md",
+   "baslik": "sen",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/su.md",
+   "baslik": "su",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/tas.md",
+   "baslik": "taş",
+   "tur": "kavram"
+  }
+ ],
+ "arama": [
+  {
+   "t": "kavram",
+   "ad": "ben",
+   "alt": "I",
+   "yol": "sozluk/temel/ben.md",
+   "ozet": "Ortak dil: män · Ana Türkçe tahmini: bän · En çok kişinin anladığı: ben",
+   "anahtar": [
+    "ben",
+    "bän",
+    "epĕ",
+    "men",
+    "min",
+    "män"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "büyük",
+   "alt": "big",
+   "yol": "sozluk/temel/buyuk.md",
+   "ozet": "Ortak dil: uluğ · Ana Türkçe tahmini: bedük · En çok kişinin anladığı: büyük",
+   "anahtar": [
+    "bedük",
+    "böyük",
+    "büyük",
+    "büük",
+    "katta",
+    "olo",
+    "olı",
+    "pısăk",
+    "ulaxan",
+    "ullu",
+    "ullı",
+    "ulu",
+    "uluu",
+    "uluğ",
+    "uly",
+    "zur",
+    "çoñ",
+    "ülken"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "dağ",
+   "alt": "mountain",
+   "yol": "sozluk/temel/dag.md",
+   "ozet": "Ortak dil: tağ · Ana Türkçe tahmini: tağ · En çok kişinin anladığı: tağ",
+   "anahtar": [
+    "dag",
+    "dağ",
+    "kaya",
+    "taw",
+    "tağ",
+    "too",
+    "toğ",
+    "tu",
+    "tuu",
+    "xaya"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "o",
+   "alt": "he / she / it",
+   "yol": "sozluk/temel/o.md",
+   "ozet": "Ortak dil: ol · Ana Türkçe tahmini: ol · En çok kişinin anladığı: o",
+   "anahtar": [
+    "al",
+    "kini",
+    "o",
+    "ol",
+    "u",
+    "ul",
+    "văl",
+    "wal"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "sen",
+   "alt": "you (singular)",
+   "yol": "sozluk/temel/sen.md",
+   "ozet": "Ortak dil: sen · Ana Türkçe tahmini: sän · En çok kişinin anladığı: sen",
+   "anahtar": [
+    "en",
+    "esĕ",
+    "hin",
+    "sen",
+    "sin",
+    "sän"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "su",
+   "alt": "water",
+   "yol": "sozluk/temel/su.md",
+   "ozet": "Ortak dil: suw · Ana Türkçe tahmini: sub · En çok kişinin anladığı: su",
+   "anahtar": [
+    "hıw",
+    "su",
+    "sub",
+    "suu",
+    "suv",
+    "suw",
+    "suğ",
+    "uu",
+    "şıv"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "taş",
+   "alt": "stone",
+   "yol": "sozluk/temel/tas.md",
+   "ozet": "Ortak dil: taş · Ana Türkçe tahmini: taş · En çok kişinin anladığı: taş",
+   "anahtar": [
+    "daş",
+    "taas",
+    "tas",
+    "taş",
+    "toş",
+    "çul"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ben",
+   "alt": "birinci tekil şahıs zamiri (\"ben\")",
+   "yol": "sozluk/kok/ben.md",
+   "ozet": "65 tanık, en eski 8. yy",
+   "anahtar": [
+    "ben",
+    "bän",
+    "bän / män",
+    "epĕ",
+    "men",
+    "min",
+    "män",
+    "mən",
+    "мен",
+    "мин",
+    "мэн",
+    "эпӗ",
+    "بَنْ",
+    "من",
+    "مَنْ",
+    "مەن",
+    "𐰋𐰤",
+    "𐽹𐽺"
+   ]
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri",
+   "alt": "wiktionary-ana-turkce",
+   "yol": "kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce",
+   "ozet": "Ana Türkçe yeniden kuruluşları ve her maddenin altında torun dillerdeki biçimler (30-40 dil), çekim tablosu, kaynakça (Clauson, ESTJa, Räsänen, DLT).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wiktionary — Türk dilleri Swadesh listeleri",
+   "alt": "wiktionary-swadesh",
+   "yol": "kaynaklar/KAYNAKLAR.md#wiktionary-swadesh",
+   "ozet": "Ana Türkçe ve 25 dil için (Türkiye, Azerbaycan, Türkmen, Kumuk, Karaçay-Malkar, Kırım Tatar, Tatar, Sibirya Tatar, Başkurt, Kazak, Karakalpak, Nogay, Kırgız, Gü",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wiktionary — About Proto-Turkic (yazım ve kuruluş kuralları)",
+   "alt": "wiktionary-hakkinda",
+   "yol": "kaynaklar/KAYNAKLAR.md#wiktionary-hakkinda",
+   "ozet": "Wiktionary'nin Ana Türkçe kuruluşlarında kullandığı yazım ve ses kuralları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)",
+   "alt": "kaikki",
+   "yol": "kaynaklar/KAYNAKLAR.md#kaikki",
+   "ozet": "İngilizce Wiktionary'nin bütün maddeleri JSON Lines biçiminde; dil bazında indirilebilir dosyalar.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "StarLing — Türk etimoloji veritabanı (Starostin, Dybo, Mudrak)",
+   "alt": "starling",
+   "yol": "kaynaklar/KAYNAKLAR.md#starling",
+   "ozet": "Türk dilleri etimoloji veritabanı (turcet); Ana Türkçe kuruluşlar, dillerdeki biçimler, Sevortyan/Räsänen göndermeleri. EDAL'ın (2003) çalışma ortamı.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Etymological Dictionary of the Altaic Languages (Starostin, Dybo, Mudrak 2003)",
+   "alt": "edal",
+   "yol": "kaynaklar/KAYNAKLAR.md#edal",
+   "ozet": "3 cilt, ~2.800 etimoloji; miras ile ödünç ayrımı yapar.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)",
+   "alt": "estja",
+   "yol": "kaynaklar/KAYNAKLAR.md#estja",
+   "ozet": "Türk dillerinin en kapsamlı etimoloji sözlüğü. Cilt 1 (ünlüyle başlayanlar, 1974), 2 (B, 1978), 3 (V/G/D, 1980), 4-6 (Ž/Y, K, Q), 7 (L/M/N/P/S, 2003); 8. cilt h",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)",
+   "alt": "dybo-2013",
+   "yol": "kaynaklar/KAYNAKLAR.md#dybo-2013",
+   "ozet": "Temel söz varlığının (Swadesh tipi) etimoloji sözlüğü; Aşama 1 için birebir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Monumenta Altaica — Türkoloji e-kütüphanesi",
+   "alt": "altaica-kutuphane",
+   "yol": "kaynaklar/KAYNAKLAR.md#altaica-kutuphane",
+   "ozet": "Türkoloji ve Altayistik kitaplarının PDF'leri (Poppe, Vladimirtsov, Karayca söz dizimi, Tenishev serisinin bazı ciltleri…). Altaica.ru ile aynı içerik.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)",
+   "alt": "clauson",
+   "yol": "kaynaklar/KAYNAKLAR.md#clauson",
+   "ozet": "13. yüzyıl öncesi Türkçenin (Eski Türkçe, Karahanlıca) temel etimoloji sözlüğü.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Räsänen — Versuch eines etymologischen Wörterbuchs der Türksprachen (1969)",
+   "alt": "rasanen",
+   "yol": "kaynaklar/KAYNAKLAR.md#rasanen",
+   "ozet": "Türk dillerinin karşılaştırmalı etimoloji sözlüğü (Almanca).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)",
+   "alt": "unal-2026",
+   "yol": "kaynaklar/KAYNAKLAR.md#unal-2026",
+   "ozet": "Ortak Türkçe ile Çuvaşça arasındaki ortak kökenli kelimelerin derlemesi, Ana Türkçe kuruluşlarıyla. Çuvaşçadaki miras/ödünç ayrımı ve Hedef 2 (kök yaşı) için en",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Elegant Lexicon — Turkic database (C. A. Straughn)",
+   "alt": "elegant-lexicon",
+   "yol": "kaynaklar/KAYNAKLAR.md#elegant-lexicon",
+   "ozet": "~30.000 kayıtlık karşılaştırmalı Türk sözlüğü; 575 çekirdek kavram (uzun Swadesh listesi, Doerfer'in listeleri). İran'daki küçük Oğuz çeşitleri (Sonkor vb.) dah",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)",
+   "alt": "savelyev-turkic",
+   "yol": "kaynaklar/KAYNAKLAR.md#savelyev-turkic",
+   "ozet": "32 Türk dilinde 254 temel kavram (Leipzig-Jakarta + Jena 200). Her kelimenin akrabalık sınıfı ses denkliklerine göre belirlenmiş; açık ödünçler ayıklanmış. Save",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "NorthEuraLex",
+   "alt": "northeuralex",
+   "yol": "kaynaklar/KAYNAKLAR.md#northeuralex",
+   "ozet": "107 Kuzey Avrasya dilinde 1.016 kavram, IPA ile. Türk dillerinin bir kısmı dahil. Dellert vd. 2020, Language Resources and Evaluation 54.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "ASJP Database (Automated Similarity Judgment Program)",
+   "alt": "asjp",
+   "yol": "kaynaklar/KAYNAKLAR.md#asjp",
+   "ozet": "Dünyanın dilleri için 40 kavramlık kararlı kelime listeleri (sürüm 21, 2025); birçok Türk çeşidi (ör. OLD_TURKIC, QASHQAI_2).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Concepticon — kavram listeleri veritabanı",
+   "alt": "concepticon",
+   "yol": "kaynaklar/KAYNAKLAR.md#concepticon",
+   "ozet": "Swadesh 100/207, Leipzig-Jakarta, ASJP, Savelyev-2020-254 gibi kavram listeleri ve ortak kavram kimlikleri.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "PanLex",
+   "alt": "panlex",
+   "yol": "kaynaklar/KAYNAKLAR.md#panlex",
+   "ozet": "~9.000 dil çeşidinde 20 milyon sözcük birimi ve 1,1 milyar çeviri çifti.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti",
+   "alt": "ronatas-bati-eski-turkce",
+   "yol": "kaynaklar/KAYNAKLAR.md#ronatas-bati-eski-turkce",
+   "ozet": "Macarcaya Batı Eski Türkçeden (Oğur) geçmiş kelimeler. Oğur kolunun tarihî kanıtı olarak Hedef 2'ye ek tanık sağlar.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Lexical copies in Khalaj — World Loanword Database (WOLD) katkısı",
+   "alt": "wold-halac",
+   "yol": "kaynaklar/KAYNAKLAR.md#wold-halac",
+   "ozet": "Halaççadaki ödünç kelimeler (Farsça, Azerbaycan Türkçesi…).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Sino-Platonic Papers 325 — Proto-Turkic consonants",
+   "alt": "proto-turkic-unsuzler",
+   "yol": "kaynaklar/KAYNAKLAR.md#proto-turkic-unsuzler",
+   "ozet": "Ana Türkçe ünsüzleri üzerine açık erişimli çalışma.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)",
+   "alt": "tdk-portal",
+   "yol": "kaynaklar/KAYNAKLAR.md#tdk-portal",
+   "ozet": "TDK'nin bütün sözlükleri tek portalda: Güncel Türkçe Sözlük, Derleme Sözlüğü (Anadolu ağızları), Tanıklarıyla Tarama Sözlüğü (Eski Anadolu Türkçesi), Köken Bilg",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Nişanyan Sözlük — Çağdaş Türkçenin Etimolojisi",
+   "alt": "nisanyan",
+   "yol": "kaynaklar/KAYNAKLAR.md#nisanyan",
+   "ozet": "Türkiye Türkçesi kelimelerinin kökeni, ilk tanıklıkları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tietze — Tarihî ve Etimolojik Türkiye Türkçesi Lugatı (TÜBA)",
+   "alt": "tietze",
+   "yol": "kaynaklar/KAYNAKLAR.md#tietze",
+   "ozet": "~42.000 madde başı, 71.000 örnek cümle; Kıbrıs vb. ağız verisi de içerir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Türkçe Ulusal Derlemi (TNC) ve Türkçe Sıklık Sözlüğü",
+   "alt": "tnc",
+   "yol": "kaynaklar/KAYNAKLAR.md#tnc",
+   "ozet": "50 milyon kelimelik dengeli Türkçe derlemi (1990-2009); Aksan vd. 2012 Türkçe Sıklık Sözlüğü.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "WOWA — Word Order in Western Asia derlemi (Bamberg)",
+   "alt": "wowa",
+   "yol": "kaynaklar/KAYNAKLAR.md#wowa",
+   "ozet": "Batı Asya'nın az çalışılmış dillerinden açıklamalı konuşma metinleri; Oğuz kısmında Ankara, Erzurum, Tebriz, Kaşkay.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Türik Bitig — Eski Türkçe yazıtlar ve metinler portalı",
+   "alt": "turik-bitig",
+   "yol": "kaynaklar/KAYNAKLAR.md#turik-bitig",
+   "ozet": "300 metin (54 Orhon, 106 Yenisey, 15 Talas yazıtı, 38 Turfan el yazması), 2.353 kelimelik Eski Türkçe-Kazakça sözlük.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wilkens — Handwörterbuch des Altuigurischen (2021)",
+   "alt": "wilkens-eski-uygurca",
+   "yol": "kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca",
+   "ozet": "Eski Uygurca metinlerin bütün söz varlığı; Almanca-Türkçe açıklamalı.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Древнетюркский словарь (1969)",
+   "alt": "dts",
+   "yol": "kaynaklar/KAYNAKLAR.md#dts",
+   "ozet": "Eski Türkçe ve Eski Uygurca sözlüğü (Nadelyaev vd., 676 s.).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)",
+   "alt": "dlt",
+   "yol": "kaynaklar/KAYNAKLAR.md#dlt",
+   "ozet": "11. yüzyıl; Karahanlıca tanığı. Oğuz, Kıpçak ve diğer boyların biçimlerini ayrı ayrı kaydeder (ör. Türk boylarında män, Oğuzlarda bän).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Boeschoten — A Dictionary of Early Middle Turkic (Brill 2022)",
+   "alt": "boeschoten",
+   "yol": "kaynaklar/KAYNAKLAR.md#boeschoten",
+   "ozet": "14. yüzyıl Doğu Türkçesi (geç Karahanlı, Harezm, Altın Orda, Memlük Kıpçakçası) söz varlığı.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Codex Cumanicus (çevrim içi baskılar)",
+   "alt": "codex-cumanicus",
+   "yol": "kaynaklar/KAYNAKLAR.md#codex-cumanicus",
+   "ozet": "Kuman-Kıpçakça tanığı. Halle baskısı (kamu malı, PDF); Kuun 1880 baskısı (archive.org/details/codexcumanicusbi00kuunuoft) ve Ligeti'nin girişi (Hungaricana). Sö",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Akvius — çevrim içi Çağatayca sözlük",
+   "alt": "akvius-cagatayca",
+   "yol": "kaynaklar/KAYNAKLAR.md#akvius-cagatayca",
+   "ozet": "Boeschoten'in sözlüğüne dayanan, geliştirme aşamasındaki Çağatayca arama.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Erdal 1993 — Die Sprache der wolgabolgarischen Inschriften",
+   "alt": "erdal-volga-bulgar",
+   "yol": "kaynaklar/KAYNAKLAR.md#erdal-volga-bulgar",
+   "ozet": "Volga Bulgarcası mezar taşı yazıtlarının dili; Oğur kolunun tarihî tanığı.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Lexilogos — dil bazlı sözlük portalı",
+   "alt": "lexilogos",
+   "yol": "kaynaklar/KAYNAKLAR.md#lexilogos",
+   "ozet": "Her dil için çevrim içi sözlüklerin bağlantı listesi (ör. kazakh_dictionary.htm, tatar_crimean_dictionary.htm, turkmen_dictionary.htm, uyghur_dictionary.htm).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "sozdik.kz — Kazakça-Rusça / Rusça-Kazakça sözlük",
+   "alt": "sozdik",
+   "yol": "kaynaklar/KAYNAKLAR.md#sozdik",
+   "ozet": "~92.000 madde (eski bir rakam).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Kazak Dili Ulusal Derlemi",
+   "alt": "qazcorpus",
+   "yol": "kaynaklar/KAYNAKLAR.md#qazcorpus",
+   "ozet": "Dilbilim Enstitüsü, 2012'den beri; 12 alt derlem. qazcorpora.kz olarak da geçiyor.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "el-sozduk.kg — Kırgızca sözlükler (Yudahin dahil)",
+   "alt": "el-sozduk",
+   "yol": "kaynaklar/KAYNAKLAR.md#el-sozduk",
+   "ozet": "Kırgızca-Rusça (Yudahin), Rusça-Kırgızca, İngilizce-Kırgızca sözlükler; açıklamalı sözlük ve deyimler (/frazeologizm/).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tatar Ulusal Derlemi \"Tugan Tel\" ve Yazılı Tatarca Derlemi",
+   "alt": "tugan-tel",
+   "yol": "kaynaklar/KAYNAKLAR.md#tugan-tel",
+   "ozet": "180 milyonu aşkın kelime kullanımı (2019). Ayrıca Kazan Federal Üniversitesi derlemi corpus.tatar (indirilebilir sıklık listeleri).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "sakhatyla.ru — Sahaca-Rusça / Sahaca-İngilizce sözlük",
+   "alt": "sakhatyla",
+   "yol": "kaynaklar/KAYNAKLAR.md#sakhatyla",
+   "ozet": "Çevrim içi Saha sözlüğü; 15 ciltlik Büyük Açıklamalı Saha Sözlüğü sayısallaştırılıyor.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Kırım Tatarcası Ulusal Derlemi ve sözlükleri",
+   "alt": "kirim-tatar-derlem",
+   "yol": "kaynaklar/KAYNAKLAR.md#kirim-tatar-derlem",
+   "ozet": "Kırım Tatarcası derlemi. Sözlük için ana-yurt.com (iki alfabe, Rusça) ve medeniye.org/en/lugat (durumu belirsiz).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Karayca — Karaim Multi Dictionary (Csató & Nathan) ve KRPS 1974",
+   "alt": "karay-sozluk",
+   "yol": "kaynaklar/KAYNAKLAR.md#karay-sozluk",
+   "ozet": "Çevrim içi Karayca-Rusça çok dilli sözlük. Basılı Karayca-Rusça-Lehçe Sözlük (1974): 17.400 kelime, üç ağzın tamamı (Trakay, Galiç, Kırım).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tuvan Talking Dictionary (Swarthmore) ve Living Dictionaries",
+   "alt": "tuva-sozluk",
+   "yol": "kaynaklar/KAYNAKLAR.md#tuva-sozluk",
+   "ozet": "Sesli Tuvaca-İngilizce sözlük (Anderson & Harrison). Living Tongues'un livingdictionaries.app platformunda 120'den fazla sözlük var; Çulımca (Ös) ve Tofaca belg",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Türkmence sözlükler (Webonary, Makul Sözlük, Ene dilim)",
+   "alt": "turkmen-sozluk",
+   "yol": "kaynaklar/KAYNAKLAR.md#turkmen-sozluk",
+   "ozet": "Webonary Türkmence-İngilizce (Magtymguly Üniversitesi). makulsozluk.com (Türkmence-İngilizce-Rusça-Türkçe). Ene dilim (açıklamalı Türkmence).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Özbekçe kaynaklar (CTILD Indiana, Chicago CEERES)",
+   "alt": "ozbek-kaynaklari",
+   "yol": "kaynaklar/KAYNAKLAR.md#ozbek-kaynaklari",
+   "ozet": "Indiana Üniversitesi CTILD: Özbekçe-İngilizce sözlük ve çoklu ortamlı Özbekçe Ağız Sözlüğü (uzb-karluk, uzb-kipcak, uzb-oguz ağızları için). Chicago: Zangori Ke",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Freelang kelime listeleri",
+   "alt": "freelang",
+   "yol": "kaynaklar/KAYNAKLAR.md#freelang",
+   "ozet": "Küçük İngilizce karşılıklı kelime listeleri (Halaçça 427, Hakasça ~1.220, Nogayca ~1.000 kelime…).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Aşmarin — Thesaurus Linguae Tschuvaschorum (17 cilt)",
+   "alt": "cuvasca-asmarin",
+   "yol": "kaynaklar/KAYNAKLAR.md#cuvasca-asmarin",
+   "ozet": "17 ciltlik (1928–1950) büyük Çuvaşça sözlük, 54.000'den fazla madde; ağız biçimleri ve örnek cümleler dahil.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Halaçça — Doerfer, Khalaj Materials (1971) ve Doerfer & Tezcan, Wörterbuch des Chaladsch (1980)",
+   "alt": "halacca",
+   "yol": "kaynaklar/KAYNAKLAR.md#halacca",
+   "ozet": "Halaççanın temel kaynakları; Talhab ağzından 319 kelimelik liste, Harrab ağzı sözlüğü.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Kaşkayca — Dolatkhah 2019, Qashqai Turkic (derlem tabanlı dilbilgisi)",
+   "alt": "kaskayca",
+   "yol": "kaynaklar/KAYNAKLAR.md#kaskayca",
+   "ozet": "Açıklamalı Kaşkayca metinler ve dilbilgisi; ayrıca Mardani, Qašqayı sözlügü (Şiraz).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Salarca — Dwyer'in çalışmaları ve DoBeS Salar projesi",
+   "alt": "salarca",
+   "yol": "kaynaklar/KAYNAKLAR.md#salarca",
+   "ozet": "DoBeS belgeleme projesi; Salarca-Uygurca-Çince sözlük (2010, basılı); Yakup'un İli Salarcası sözlükçesi.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Gagavuzca sözlükler",
+   "alt": "gagavuzca",
+   "yol": "kaynaklar/KAYNAKLAR.md#gagavuzca",
+   "ozet": "Gagavuzca-Rusça-Moldovaca akademik sözlük (basılı; Gaydarcı vd.), Rajki'nin Concise Gagauz-English Dictionary'si, Freelang listesi.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "ELAR — Endangered Languages Archive",
+   "alt": "elar",
+   "yol": "kaynaklar/KAYNAKLAR.md#elar",
+   "ozet": "Tehlikedeki diller arşivi (550'den fazla dil). Tofaca (son konuşurlarla derlem), Çulımca (Melets ve Eushta), Sarı Uygurca (2024'ten beri), Teleüt (Güney Altay) ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Kuzey, Sibirya ve Uzak Doğu yerli halkları etkileşimli atlası",
+   "alt": "atlaskmns",
+   "yol": "kaynaklar/KAYNAKLAR.md#atlaskmns",
+   "ozet": "Soyotça, Şorca, Çulımca dil sayfaları; nüfus sayımı verisi ve uyarıları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Sibirya Dilleri — Rusya Bilimler Akademisi Etnoloji Enstitüsü",
+   "alt": "lingsib",
+   "yol": "kaynaklar/KAYNAKLAR.md#lingsib",
+   "ozet": "Tofaca, Soyotça ve diğer Sibirya dilleri hakkında bilgi sayfaları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Rusya Federasyonu Türk Ağızları Atlası (Dybo)",
+   "alt": "rf-turk-agiz-atlasi",
+   "yol": "kaynaklar/KAYNAKLAR.md#rf-turk-agiz-atlasi",
+   "ozet": "Rusya'daki Türk ağızlarının atlas projesi; Şor ve Çulım ağızları dahil.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Endangered Languages Project",
+   "alt": "elp",
+   "yol": "kaynaklar/KAYNAKLAR.md#elp",
+   "ozet": "Tehlikedeki diller için konuşur sayıları, bibliyografya, örnekler.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Glottolog",
+   "alt": "glottolog",
+   "yol": "kaynaklar/KAYNAKLAR.md#glottolog",
+   "ozet": "Türk dillerinin sınıflandırması (turk1311), her dil ve alt grup için kaynakça. Johanson 2021 ve Tekin 1990'a göre alt sınıflandırma notları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Johanson & Csató (ed.) — The Turkic Languages (2. baskı, 2021)",
+   "alt": "johanson-csato",
+   "yol": "kaynaklar/KAYNAKLAR.md#johanson-csato",
+   "ozet": "Türk dillerinin standart el kitabı: sınıflandırma, ses tarihi, her dilin dilbilgisi.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Сравнительно-историческая грамматика тюркских языков (Tenishev, 1984–2006)",
+   "alt": "tenishev",
+   "yol": "kaynaklar/KAYNAKLAR.md#tenishev",
+   "ozet": "Türk dillerinin karşılaştırmalı-tarihî dilbilgisi (ses, dilbilgisi, söz varlığı ciltleri).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Grambank",
+   "alt": "grambank",
+   "yol": "kaynaklar/KAYNAKLAR.md#grambank",
+   "ozet": "Dünya dilleri için dilbilgisel özellik veritabanı; Türk dilleri dahil.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "UNESCO World Atlas of Languages",
+   "alt": "unesco-wal",
+   "yol": "kaynaklar/KAYNAKLAR.md#unesco-wal",
+   "ozet": "Dillerin durumu, canlılığı, tehlike düzeyi; ülke ve dile göre arama.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Rosstat — 2021 Rusya nüfus sayımı dil tabloları",
+   "alt": "rosstat-2021",
+   "yol": "kaynaklar/KAYNAKLAR.md#rosstat-2021",
+   "ozet": "Rusya'daki Türk dillerinin konuşur sayıları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ethnologue",
+   "alt": "ethnologue",
+   "yol": "kaynaklar/KAYNAKLAR.md#ethnologue",
+   "ozet": "Konuşur sayıları ve dil durumu.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wikipedia — List of Turkic languages",
+   "alt": "wikipedia-turk-dilleri",
+   "yol": "kaynaklar/KAYNAKLAR.md#wikipedia-turk-dilleri",
+   "ozet": "Türk dillerinin konuşur sayısı, tehlike durumu ve sınıflandırma özeti.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Joshua Project",
+   "alt": "joshua-project",
+   "yol": "kaynaklar/KAYNAKLAR.md#joshua-project",
+   "ozet": "Halk grupları ve dilleri için nüfus tahminleri (ör. Irak Türkmenleri, Horasan Türkleri).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Baidildinova vd. 2026 — Quantifying mutual intelligibility gradients in Turkic languages (SCiL)",
+   "alt": "scil-2026",
+   "yol": "kaynaklar/KAYNAKLAR.md#scil-2026",
+   "ozet": "Dil modelleriyle Türk dilleri arası aktarım. Kırgızcadan Kazakçaya aktarım tersinden güçlü; sözcük benzerliği, ses dizimi örtüşmesi ve soy uzaklığı en iyi öngör",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Salehi & Neysani 2017 — Azerbaycan Türkçesinin Türkiye Türkçesi konuşurlarınca anlaşılırlığı",
+   "alt": "salehi-2017",
+   "yol": "kaynaklar/KAYNAKLAR.md#salehi-2017",
+   "ozet": "Dinleyici deneyi; Türkiye-Azerbaycan anlaşılırlığı.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "En sık 1000 kelime açısından modern Türk dilleri (Türkiye, Azerbaycan, Kazak, Kırgız, Özbek)",
+   "alt": "en-sik-1000",
+   "yol": "kaynaklar/KAYNAKLAR.md#en-sik-1000",
+   "ozet": "~940 içerik kelimesi karşılaştırılmış; en sık 150'den fazla kelime beş dilde ortak.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ortak Türk Alfabesi (Türk Devletleri Teşkilatı, 2024)",
+   "alt": "ortak-turk-alfabesi",
+   "yol": "kaynaklar/KAYNAKLAR.md#ortak-turk-alfabesi",
+   "ozet": "34 harf: A Ä B C Ç D E F G Ğ H I İ J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z. Bakü, Eylül 2024; Mayıs 2025 Budapeşte zirvesinde onaylandı. Her dil yalnızca kend",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi",
+   "alt": "til-mt",
+   "yol": "kaynaklar/KAYNAKLAR.md#til-mt",
+   "ozet": "22 Türk dilinde 75 milyondan fazla cümle çifti (İngilizce, Rusça ve Türk dilleri arası), 400'den fazla çeviri yönü. Mirzakhalov vd. 2021.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Apertium — Türk dilleri çeviri çiftleri ve sözlükleri",
+   "alt": "apertium",
+   "yol": "kaynaklar/KAYNAKLAR.md#apertium",
+   "ozet": "Açık lisanslı tek dilli biçimbirim sözlükleri ve iki dilli sözlükler (.dix), ör. apertium-kaz-kir, apertium-kaz-tat.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Leipzig Corpora Collection — kelime sıklık listeleri",
+   "alt": "leipzig-corpora",
+   "yol": "kaynaklar/KAYNAKLAR.md#leipzig-corpora",
+   "ozet": "Dil bazında derlemler ve sıklık listeleri (CC BY 4.0); ör. Özbekçe uzb_community_2017 (10,9 milyon kelime).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Sketch Engine — Turkic web corpora",
+   "alt": "sketch-engine-turk",
+   "yol": "kaynaklar/KAYNAKLAR.md#sketch-engine-turk",
+   "ozet": "Web'den derlenmiş Türk dilleri derlemleri, sıklık listeleri.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "OpenSubtitles tabanlı sıklık listeleri (hermitdave/FrequencyWords, orgtre/top-open-subtitles-sentences)",
+   "alt": "opensubtitles-siklik",
+   "yol": "kaynaklar/KAYNAKLAR.md#opensubtitles-siklik",
+   "ozet": "Konuşma diline yakın sıklık listeleri (film altyazıları).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Qamus — Türk Devletleri Parlamenter Asamblesi (TÜRKPA) karşılaştırmalı sözlüğü",
+   "alt": "qamus",
+   "yol": "kaynaklar/KAYNAKLAR.md#qamus",
+   "ozet": "9 Türk dilinde karşılaştırmalı dijital sözlük projesi; Kubbealtı'nın Misalli Büyük Türkçe Sözlük'üyle bütünleşme.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Uluslararası Türk Akademisi — Türk dilleri terim sözlükleri",
+   "alt": "turk-akademisi-terim",
+   "yol": "kaynaklar/KAYNAKLAR.md#turk-akademisi-terim",
+   "ozet": "Tıp, ekonomi, askerlik, diplomasi, çevre gibi alanlarda ortak terim sözlükleri (2023'ten beri).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Uluslararası Türk Lehçe Araştırmaları Dergisi (TÜRKLAD)",
+   "alt": "turklad",
+   "yol": "kaynaklar/KAYNAKLAR.md#turklad",
+   "ozet": "Türk lehçeleri ve ağızları üzerine hakemli, açık erişimli dergi (2017'den beri, CC BY-NC 4.0).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Türk Dili Araştırmaları Yıllığı — Belleten",
+   "alt": "tdk-belleten",
+   "yol": "kaynaklar/KAYNAKLAR.md#tdk-belleten",
+   "ozet": "TDK'nin hakemli, açık erişimli Türkoloji dergisi.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "DergiPark",
+   "alt": "dergipark",
+   "yol": "kaynaklar/KAYNAKLAR.md#dergipark",
+   "ozet": "Türkiye'deki akademik dergilerin ortak platformu; ağız ve lehçe çalışmalarının çoğu burada.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)",
+   "alt": "gronbech-kuman",
+   "yol": "kaynaklar/KAYNAKLAR.md#gronbech-kuman",
+   "ozet": "Codex Cumanicus'taki bütün Kumanca kelimelerin alfabetik sözlüğü (Grønbech 1942, Komanisches Wörterbuch; Türkçesi Kemal Aytaç, TDK 1992). Her kelimenin metindek",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)",
+   "alt": "turkbv",
+   "yol": "kaynaklar/KAYNAKLAR.md#turkbv",
+   "ozet": "Türk dillerinde temel söz varlığı listeleri, konuşur ses kayıtlarıyla. Aynı merkezin Moğolca karşılığı mongolicbv.aa-ken.jp; Moğolca ödünçleri ayırmak için yan ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "lehceler.com — Türk lehçeleri karşılaştırmalı sözlüğü",
+   "alt": "lehceler-com",
+   "yol": "kaynaklar/KAYNAKLAR.md#lehceler-com",
+   "ozet": "Türkiye Türkçesinden ana lehçelere kelime karşılıkları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tataristan Bilimler Akademisi — Tatarca sözlükler (Süzlek)",
+   "alt": "tatar-akademi-sozluk",
+   "yol": "kaynaklar/KAYNAKLAR.md#tatar-akademi-sozluk",
+   "ozet": "G. İbrahimov Dil, Edebiyat ve Sanat Enstitüsü'nün sözlükleri: Tatar teleneñ añlatmalı süzlege (açıklamalı), Tatar halık söyläşläre süzlege (ağız sözlüğü), Tatar",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "neurotatarlar/tt-dictionaries — Tatarca sözlükler veri seti",
+   "alt": "tatar-sozluk-veri",
+   "yol": "kaynaklar/KAYNAKLAR.md#tatar-sozluk-veri",
+   "ozet": "Tatarca sözlüklerin makinece okunabilir dökümü (Hugging Face).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tatarca Ulusal Derlemi (corpus.tatar)",
+   "alt": "tatar-derlem",
+   "yol": "kaynaklar/KAYNAKLAR.md#tatar-derlem",
+   "ozet": "Kazan merkezli büyük Tatarca derlemi; sıklık istatistikleri. Tugan Tel'den (tugan-tel) ayrı bir derlem.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "translate.chv.su — Çuvaşça-Rusça derlem, çeviri ve sözlük (Plotnikov)",
+   "alt": "cuvasca-ceviri",
+   "yol": "kaynaklar/KAYNAKLAR.md#cuvasca-ceviri",
+   "ozet": "Çuvaşça-Rusça paralel derlemi (~225.000 cümle çifti) üzerinde çeviri ve sözlük. Aynı geliştiricinin çevrim içi Çuvaşça sözlüğü.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "til.im — Kumukça kitaplar ve sözlükler",
+   "alt": "kumuk-kaynaklari",
+   "yol": "kaynaklar/KAYNAKLAR.md#kumuk-kaynaklari",
+   "ozet": "Kumukça dil kitapları, sözlükler ve konuşma kılavuzları (Rusça arayüz); ör. Sovremennyy kumykskiy yazyk.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "RBA Sibirya Şubesi Filoloji Enstitüsü (Novosibirsk) — dergiler ve e-kitaplık",
+   "alt": "nsc-filoloji",
+   "yol": "kaynaklar/KAYNAKLAR.md#nsc-filoloji",
+   "ozet": "Sibirya Türk dilleri üzerine makaleler (Sibirskiy filologicheskiy zhurnal, Kritika i semiotika) ve sözlük taslakları; ör. Dobrinina'nın Altayca sözlüğü (fehu.ph",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Novye issledovaniya Tuvy (Tuva üzerine yeni araştırmalar) dergisi",
+   "alt": "tuva-dergi",
+   "yol": "kaynaklar/KAYNAKLAR.md#tuva-dergi",
+   "ozet": "Tuvaca, Tuvaca ağızları (Moğolistan, Çin Tuvaları) ve Tofaca üzerine açık erişimli makaleler.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Alişina 1994 — Tobol-İrtış ağzı (Sibirya Tatarcası) ve Tümen Üniversitesi e-kitaplığı",
+   "alt": "sibirya-tatar-agiz",
+   "yol": "kaynaklar/KAYNAKLAR.md#sibirya-tatar-agiz",
+   "ozet": "Sibirya Tatarcasının Tobol-İrtış ağzının tanımı ve söz varlığı (Rusça). Tümen Devlet Üniversitesi deposunda (elib.utmn.ru) başka Sibirya Tatarcası çalışmaları d",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi, TurkLib)",
+   "alt": "sovet-turkologiya",
+   "yol": "kaynaklar/KAYNAKLAR.md#sovet-turkologiya",
+   "ozet": "Sovyet Türkolojisinin ana dergisinin (1970–1991) taranmış sayıları: etimoloji, ses tarihi, ağız ve karşılaştırma makaleleri. Aynı kütüphanenin sözlük koleksiyon",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Azerbaycanca kaynaklar (Azərbaycan dilinin izahlı lüğəti, dilcilik.az)",
+   "alt": "azerbaycan-kaynaklari",
+   "yol": "kaynaklar/KAYNAKLAR.md#azerbaycan-kaynaklari",
+   "ozet": "Azərbaycan dilinin izahlı lüğəti (4 cilt, AMEA 2006) ve Azərbaycan dilinin dialektoloji lüğəti (ağız sözlüğü). dilcilik.az dilbilim kitaplığı; sözlük taramaları",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Qazaq ädebï tiliniñ sözdigi — Kazak yazı dilinin 15 ciltlik sözlüğü (2011)",
+   "alt": "kazak-15-cilt",
+   "yol": "kaynaklar/KAYNAKLAR.md#kazak-15-cilt",
+   "ozet": "Kazakçanın en büyük açıklamalı sözlüğü (A. Baytursınulı Dilbilim Enstitüsü). Eskimiş ve bölgesel kelimeler işaretli.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Rahmatullayev — O'zbek tilining etimologik lug'ati",
+   "alt": "ozbek-etimoloji",
+   "yol": "kaynaklar/KAYNAKLAR.md#ozbek-etimoloji",
+   "ozet": "Özbekçenin etimoloji sözlüğü (Türkçe kökenli kelimeler, Farsça ve Arapça alıntılar ayrı ciltlerde; 2000–2009).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "O'zbek tilining izohli lug'ati — Özbekçe açıklamalı sözlük (yeni baskı)",
+   "alt": "ozbek-izohli",
+   "yol": "kaynaklar/KAYNAKLAR.md#ozbek-izohli",
+   "ozet": "Özbekçenin açıklamalı sözlüğü (5 cilt 2006–2008; Bilimler Akademisi yeni baskısı tanıtıldı).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Türkmence etimoloji ve açıklamalı sözlükler (Atanyýazow; Türkmen diliniň düşündirişli sözlügi)",
+   "alt": "turkmen-etimoloji",
+   "yol": "kaynaklar/KAYNAKLAR.md#turkmen-etimoloji",
+   "ozet": "S. Atanyýazow'un Türkmence etimoloji ve ad sözlükleri; Türkmen diliniň düşündirişli sözlügi (2 cilt). Türkmence ağızlar için Türkmen diliniň dialektlerinin atla",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Çin'deki küçük Türk dillerinin sözlükleri (Batı Yugurca, Salarca)",
+   "alt": "cin-turk-dilleri",
+   "yol": "kaynaklar/KAYNAKLAR.md#cin-turk-dilleri",
+   "ozet": "Lei Xuanchun 1992, Xibu Yugu-Han cidian (Batı Yugurca-Çince sözlük); Lin Lianyun 1992, Sala-Han Han-Sala cihui (Salarca-Çince söz varlığı); Chen Zongzhen'in Bat",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Iran Atlas — İran'ın Dil Atlası (Anonby vd.)",
+   "alt": "iran-dil-atlasi",
+   "yol": "kaynaklar/KAYNAKLAR.md#iran-dil-atlasi",
+   "ozet": "İran'da konuşulan dillerin ve ağızların haritası ve sınıflandırması; Azerbaycan Türkçesi, Kaşkayca, Horasan Türkçesi, Halaçça ve küçük Oğuz ağızlarının dağılımı",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "BBAW Turfan Araştırmaları — Eski Uygurca metinler ve sayısal arşiv",
+   "alt": "turfan-bbaw",
+   "yol": "kaynaklar/KAYNAKLAR.md#turfan-bbaw",
+   "ozet": "Berlin-Brandenburg Bilimler Akademisi'nin Turfan koleksiyonu: Eski Uygurca el yazmalarının sayısal görüntüleri ve yayınları (IDP Berlin).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "KOHD — Almanya'daki Eski Uygurca el yazmaları kataloğu",
+   "alt": "kohd-eski-uygurca",
+   "yol": "kaynaklar/KAYNAKLAR.md#kohd-eski-uygurca",
+   "ozet": "Katalogisierung der Orientalischen Handschriften in Deutschland: Eski Uygurca metin parçalarının ayrıntılı katalogları (VOHD serisi).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Göttingen Bilimler Akademisi — Altuigurisches Wörterbuch projesi",
+   "alt": "gottingen-altuygur",
+   "yol": "kaynaklar/KAYNAKLAR.md#gottingen-altuygur",
+   "ozet": "Büyük Eski Uygurca sözlük projesi (Wilkens, Ünal vd.). Bağlantı projenin Eski Uygurca genel kaynakçası; proje sayfasında yayınlar (ör. Ünal 2026) listelenir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Khabtagaeva — Sibirya Türk dillerinde Moğolca ödünçler",
+   "alt": "khabtagaeva",
+   "yol": "kaynaklar/KAYNAKLAR.md#khabtagaeva",
+   "ozet": "Khabtagaeva 2009, Mongolic Elements in Tuvan (Harrassowitz) ve 2019, Language Contact in Siberia (Brill). Tuvaca ve komşularındaki Moğolca ödünçlerin katmanları",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Robbeets vd. 2021 — Triangulation (Transeurasian) veri seti",
+   "alt": "robbeets-2021",
+   "yol": "kaynaklar/KAYNAKLAR.md#robbeets-2021",
+   "ozet": "Nature 2021 makalesinin temel söz varlığı verisi (CLDF; CLICS'te). Türk dillerinin eski biçimlerini Moğol, Tunguz, Kore ve Japon dilleriyle karşılaştırır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "TurkicNLP — Türk dilleri için doğal dil işleme araç takımı",
+   "alt": "turkicnlp",
+   "yol": "kaynaklar/KAYNAKLAR.md#turkicnlp",
+   "ozet": "Türk dilleri için ortak araçlar: yazı çevirme (Kiril, Arap, Latin), biçimbirim çözümleme ve kaynak listesi (2026).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler",
+   "alt": "yok-acik-bilim",
+   "yol": "kaynaklar/KAYNAKLAR.md#yok-acik-bilim",
+   "ozet": "Türkiye'de yazılmış tezler: Çağatayca lügatlerin çevriyazıları (Abuşka, Şeyh Süleyman Efendi, Bedâyiü'l-Lugat), ağız monografileri, lehçeler arası karşılaştırma",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "ILCAA çevrim içi kaynak portalı (Tokyo)",
+   "alt": "ilcaa-kaynaklari",
+   "yol": "kaynaklar/KAYNAKLAR.md#ilcaa-kaynaklari",
+   "ozet": "Asya ve Afrika dilleri üzerine çevrim içi sözlükler, temel söz varlığı listeleri ve derlemler; Türk dilleri kayıtları (turkbv) dahil.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)",
+   "alt": "houtsma-leiden",
+   "yol": "kaynaklar/KAYNAKLAR.md#houtsma-leiden",
+   "ozet": "Memlük Mısır'ında 1245'te yazılmış Arapça açıklamalı Türkçe sözlük; Kıpçakça ağırlıklı, Oğuzca biçimler de var. Elyazmasının Moğolca bölümü de var. En eski Kıpç",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)",
+   "alt": "ibn-muhenna",
+   "yol": "kaynaklar/KAYNAKLAR.md#ibn-muhenna",
+   "ozet": "İlhanlı çevresinde yazılmış Arapça-Farsça-Türkçe-Moğolca sözlük. Türkçe bölümde 'Türkmen' (Oğuz) ve 'Türkistan Türkleri' biçimlerini ayrı ayrı verir; ağız ayrım",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ebû Hayyân — Kitâbü'l-İdrâk li-Lisâni'l-Etrâk (1312-13)",
+   "alt": "kitab-idrak",
+   "yol": "kaynaklar/KAYNAKLAR.md#kitab-idrak",
+   "ozet": "Kahire'de Arapça yazılmış Kıpçakça sözlük ve dilbilgisi; yer yer Türkmence (Oğuzca) farkları not eder.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "et-Tuhfetü'z-Zekiyye fi'l-Lügati't-Türkiyye (14. yy; Atalay 1945, TDK)",
+   "alt": "tuhfe-zekiyye",
+   "yol": "kaynaklar/KAYNAKLAR.md#tuhfe-zekiyye",
+   "ozet": "Memlük Kıpçakçasının Arapça açıklamalı sözlüğü ve dilbilgisi.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Bulġatü'l-Müştâk ve ed-Dürretü'l-Mudiyye (Zajączkowski 1958-1969, Fransızca)",
+   "alt": "bulgat-durre",
+   "yol": "kaynaklar/KAYNAKLAR.md#bulgat-durre",
+   "ozet": "İki Memlük Kıpçakçası sözlüğünün Lehçe-Fransızca baskıları (14.-15. yy).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Toparlı, Vural, Karaatlı — Kıpçak Türkçesi Sözlüğü (TDK 2007)",
+   "alt": "toparli-kipcak",
+   "yol": "kaynaklar/KAYNAKLAR.md#toparli-kipcak",
+   "ozet": "Memlük Kıpçakçası kaynaklarının (İdrâk, Tuhfe, Bulgat, Kavânîn, Houtsma vb.) birleşik sözlüğü; her biçimin hangi eserde geçtiği gösterilir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Nadjip 1979 — XIV. yüzyıl Türk dillerinin tarihî-karşılaştırmalı sözlüğü (Rusça)",
+   "alt": "najip-xiv",
+   "yol": "kaynaklar/KAYNAKLAR.md#najip-xiv",
+   "ozet": "Altın Orda edebî dili (Kutb'un Hüsrev ü Şirin'i) üzerine kurulu; maddelerde Kıpçak ve Harezm biçimleri karşılaştırılır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Zemahşerî — Mukaddimetü'l-Edeb (1137; Harezm Türkçesi ve Moğolca aralık çevirileri)",
+   "alt": "mukaddimet-edeb",
+   "yol": "kaynaklar/KAYNAKLAR.md#mukaddimet-edeb",
+   "ozet": "Arapça sözlüğün sonraki elyazmalarına Harezm Türkçesi, Çağatayca ve Moğolca karşılıklar eklenmiş. Aynı kavramın Türkçe ve Moğolca karşılığını yan yana görmek Mo",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Rasûlî Altı Dilli Sözlük — The King's Dictionary (Golden 2000)",
+   "alt": "rasulid-hexaglot",
+   "yol": "kaynaklar/KAYNAKLAR.md#rasulid-hexaglot",
+   "ozet": "14. yy Yemen'inde Arapça-Farsça-Türkçe-Rumca-Ermenice-Moğolca kelime listeleri. Türkçe ile Moğolca karşılık yan yana: ödünç sınaması için.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Abuşka — Çağatayca-Osmanlıca sözlük (16. yy; Vámbéry 1862, Atalay 1970)",
+   "alt": "abuska",
+   "yol": "kaynaklar/KAYNAKLAR.md#abuska",
+   "ozet": "Ali Şir Nevayi'nin dilini Osmanlı okuruna açıklayan sözlük.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tâli' İmânî Herevî — Bedâyi'ü'l-Lugat (Borovkov 1961, tıpkıbasım ve Rusça)",
+   "alt": "bedayi-lugat",
+   "yol": "kaynaklar/KAYNAKLAR.md#bedayi-lugat",
+   "ozet": "Nevayi'nin eserleri için Farsça açıklamalı Çağatayca sözlük.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Mirza Mehdi Han — Senglâh (1759-60; Clauson 1960 tıpkıbasım)",
+   "alt": "senglah",
+   "yol": "kaynaklar/KAYNAKLAR.md#senglah",
+   "ozet": "Farsça yazılmış en büyük Çağatayca sözlük; Clauson EDPT'de sık kullanır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Avrupa'da basılan Çağatayca sözlükler (Vámbéry 1867, Pavet de Courteille 1870, Kúnos 1902)",
+   "alt": "cagatay-batili-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#cagatay-batili-sozlukler",
+   "ozet": "Pavet de Courteille'in Fransızca Dictionnaire turk-oriental'i, Vámbéry'nin Čagataische Sprachstudien'i ve Şeyh Süleyman Efendi'nin Lügat-i Çağatay'ının Kúnos ta",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Chaghatay tilining izahliq lughiti (Uygurca açıklamalı Çağatayca sözlük)",
+   "alt": "cagatay-izahli",
+   "yol": "kaynaklar/KAYNAKLAR.md#cagatay-izahli",
+   "ozet": "Doğu Türkistan'da hazırlanmış, Uygurca açıklamalı Çağatayca sözlük.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Bahşayiş Lügati — Eski Oğuzca Sözlük (Turan)",
+   "alt": "bahsayis",
+   "yol": "kaynaklar/KAYNAKLAR.md#bahsayis",
+   "ozet": "Eski Anadolu Türkçesi (Eski Oğuzca) metinlerinden derlenmiş sözlük.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Çin kaynaklarındaki Eski Türkçe kelimeler (Ligeti 1950, Kasai, Vovin & McCraw)",
+   "alt": "cin-transkripsiyonlari",
+   "yol": "kaynaklar/KAYNAKLAR.md#cin-transkripsiyonlari",
+   "ozet": "6.-8. yy Çin yıllıklarında Çince karakterlerle yazılmış Türkçe kelimeler. Göktürk yazıtlarından daha eski olabilen tanıklar; Erken Orta Çince okunuşuyla birlikt",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Gaochang Guan Yiyu / Zazi — Ming dönemi Uygurca-Çince sözlük (15.-16. yy)",
+   "alt": "gaochang-yiyu",
+   "yol": "kaynaklar/KAYNAKLAR.md#gaochang-yiyu",
+   "ozet": "Ming sarayının çevirmen bürosunun Uygurca-Çince kelime listesi (Hua-yi yiyu dizisi). Her Türkçe kelimenin Çince karakterle okunuşu verilir; Eski Uygurca ile Çağ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wuti Qingwen Jian — Beş Dilli Ayna (18. yy; Mançu-Tibet-Moğol-Çağatay-Çince)",
+   "alt": "bes-dilli-ayna",
+   "yol": "kaynaklar/KAYNAKLAR.md#bes-dilli-ayna",
+   "ozet": "Qing sarayının 18.000 civarı kavramlık beş dilli sözlüğü. Çağatayca karşılıkların okunuşu Mançu harfiyle de yazılmıştır; aynı kavramın Moğolca karşılığı da yanı",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Hotanca kaynaklarda Türkçe (Bailey 1939-55, Emmerick & Róna-Tas 1992, Hovdhaugen 1971)",
+   "alt": "hotanca-turkce",
+   "yol": "kaynaklar/KAYNAKLAR.md#hotanca-turkce",
+   "ozet": "10. yy'dan Brahmi harfiyle yazılmış Türkçe-Hotanca kelime listesi (bilinen en eski iki dilli Türkçe sözlüklerden). Brahmi yazısı ünlüleri ve ünlü uzunluğunu gös",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Brahmi, Tibet, Soğd ve Phags-pa harfli Eski Türkçe",
+   "alt": "yabanci-yazili-eski-turkce",
+   "yol": "kaynaklar/KAYNAKLAR.md#yabanci-yazili-eski-turkce",
+   "ozet": "Uygur harfinin göstermediği ünlü ayrımlarını (o/u, ö/ü, e/ä, uzun ünlüler) gösteren yabancı yazılı metinler. Ana Türkçe ünlülerini kurmakta ve Eski Türkçe okunu",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tibetçe kaynaklarda Türkler (OTDO, Pelliot tibétain 1283)",
+   "alt": "tibet-kaynaklari",
+   "yol": "kaynaklar/KAYNAKLAR.md#tibet-kaynaklari",
+   "ozet": "Eski Tibetçe belgelerde Dru-gu (Türk), Hor (Uygur) ve Karluk adları, unvanlar. 8. yy'da beş Uygur elçisinin kuzey kavimlerini anlatan raporu (PT 1283) Türk boy ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Soğdca ödünçler (Gharib 1995 sözlüğü, Ayazlı 2020, Wilkens 2021)",
+   "alt": "sogdca",
+   "yol": "kaynaklar/KAYNAKLAR.md#sogdca",
+   "ozet": "Eski Uygurcadaki Soğdca kelimeler (din, ticaret, yazı terimleri). 'Ele' ilkesi için ödünç ayıklamaya yarar.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Toharca ile Türkçe temasları (CEToM, Carling & Pinault, Róna-Tas 1974)",
+   "alt": "toharca",
+   "yol": "kaynaklar/KAYNAKLAR.md#toharca",
+   "ozet": "Eski Türkçe ile Toharca arasındaki karşılıklı ödünçler; Ana Türkçenin çok eski temas katmanını ayırmak için.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Eski İran dilleriyle temas (Harmatta 1972 Irano-Turcica; Sims-Williams, Baktrça adlar)",
+   "alt": "iran-turk-temasi",
+   "yol": "kaynaklar/KAYNAKLAR.md#iran-turk-temasi",
+   "ozet": "Baktrça belge ve sikkelerde (7.-8. yy) kağan, tarkan, tudun gibi Türkçe unvanlar ve adlar; Eski Türkçedeki İran kökenli kelimeler.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Doerfer — Türkische und mongolische Elemente im Neupersischen (TMEN, 1963-75)",
+   "alt": "doerfer-tmen",
+   "yol": "kaynaklar/KAYNAKLAR.md#doerfer-tmen",
+   "ozet": "Farsçaya geçmiş Türkçe ve Moğolca kelimelerin 4 ciltlik etimolojik sözlüğü. Her kelimenin bütün Türk dillerindeki karşılıklarını tartışır; Türkçe mi Moğolca mı ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Eski Türkçedeki ödünç katmanları üzerine makaleler (Moğolca, Samoyedce, Kitanca)",
+   "alt": "eski-turkce-odunc-katmanlari",
+   "yol": "kaynaklar/KAYNAKLAR.md#eski-turkce-odunc-katmanlari",
+   "ozet": "Eski Türkçede Moğolca var mı, Moğolcadaki Eski Türkçe ödünçler, Samoyed-Ugor ve Kitan temasları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Moğolca sözlükler (Kowalewski 1844-49, Lessing 1960, Bawden, Büyük Akademik Moğolca-Rusça)",
+   "alt": "mogolca-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#mogolca-sozlukler",
+   "ozet": "Bir Türkçe kelimenin Moğolcada da olup olmadığını görmek için. Kowalewski'nin üç dilli (Moğolca-Rusça-Fransızca) sözlüğü klasik yazı dilini, Lessing ve Bawden İ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Moğol dilleri karşılaştırmalı ve etimolojik sözlükleri (Sun Zhu 1990; Sanjeev vd. 2015-18; Sühbaatar)",
+   "alt": "mogolca-etimoloji",
+   "yol": "kaynaklar/KAYNAKLAR.md#mogolca-etimoloji",
+   "ozet": "Bir kelimenin Moğol dillerinin hepsinde olup olmadığı ve Türkçeden mi geldiği. Sühbaatar'ın Moğolcadaki yabancı kelimeler sözlüğü Türkçe kökenlileri işaretler.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Moğolların Gizli Tarihi (13. yy) dizinleri (Kuribayashi 2009, Haenisch 1939)",
+   "alt": "gizli-tarih",
+   "yol": "kaynaklar/KAYNAKLAR.md#gizli-tarih",
+   "ozet": "Orta Moğolcanın ana metni. İçindeki Türkçe ödünçler, bir kelimenin 13. yy'da Moğolcaya geçmiş olduğunu (yani Türkçede daha eski olduğunu) gösterir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Doğu Yugurca (Moğol dili) - Moğolca - Çince sözlük",
+   "alt": "dogu-yugur-sozluk",
+   "yol": "kaynaklar/KAYNAKLAR.md#dogu-yugur-sozluk",
+   "ozet": "Sarı Uygurca konuşurlarının komşusu olan Moğol dili Doğu Yugurcanın sözlüğü. Sarı Uygurcadaki Moğolca ödünçleri ayırmak için.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tunguz-Mançu dilleri karşılaştırmalı sözlüğü (Tsintsius 1975-77) ve Evenkçe sözlük",
+   "alt": "tunguzca",
+   "yol": "kaynaklar/KAYNAKLAR.md#tunguzca",
+   "ozet": "Sahaca ve Dolganca kelimelerin bir kısmı Evenkçe ve Evence kökenlidir; Tunguz kökenlileri ayırmak için.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Moğolistan'daki Türk yazıtları (Battulga 2005; Moriyasu & Ochir 1999, Japonca-Moğolca)",
+   "alt": "mogolistan-yazitlari",
+   "yol": "kaynaklar/KAYNAKLAR.md#mogolistan-yazitlari",
+   "ozet": "Moğolistan'daki küçük runik yazıtların Moğolca yayını; Japon-Moğol ortak ekibinin 1996-98 saha raporu (Şine Usu, Sevrey vb.).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Radloff — Versuch eines Wörterbuches der Türk-Dialecte (1893-1911, 4 cilt)",
+   "alt": "radloff",
+   "yol": "kaynaklar/KAYNAKLAR.md#radloff",
+   "ozet": "19. yy sonunda bütün Türk dillerinden ve ağızlarından derlenmiş dev karşılaştırmalı sözlük (Rusça-Almanca). Her madde hangi dil veya ağızdan geldiğini gösterir;",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Budagov — Türk-Tatar lehçelerinin karşılaştırmalı sözlüğü (1869-71, 2 cilt)",
+   "alt": "budagov",
+   "yol": "kaynaklar/KAYNAKLAR.md#budagov",
+   "ozet": "Rusça açıklamalı, Arap harfli madde başlarıyla Osmanlıca, Azerbaycanca, Tatarca, Çağatayca vb. karşılaştırması.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Vámbéry — Etymologisches Wörterbuch der turko-tatarischen Sprachen (1878)",
+   "alt": "vambery-1878",
+   "yol": "kaynaklar/KAYNAKLAR.md#vambery-1878",
+   "ozet": "İlk Türkçe etimoloji sözlüğü; kök aileleri. Bilim tarihi açısından önemli.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Pallas — Linguarum totius orbis vocabularia comparativa (1786-89)",
+   "alt": "pallas-1787",
+   "yol": "kaynaklar/KAYNAKLAR.md#pallas-1787",
+   "ozet": "II. Katerina'nın emriyle 200'ü aşkın dilde 285 kavramlık karşılaştırmalı liste (Kiril harfli). Pek çok Türk dili ve ağzının 18. yy'daki biçimini verir; temel ka",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Klaproth — Asia Polyglotta (1823) ve Uygur dili ve yazısı üzerine (1812/1820)",
+   "alt": "klaproth",
+   "yol": "kaynaklar/KAYNAKLAR.md#klaproth",
+   "ozet": "Asya dillerinin kelime listeleri: Çuvaşça, Sahaca, Tofaca (Karagas), Hakas ağızları dahil. 1820 baskısında Uygurca kelime listesi var. Abel-Rémusat'ın Recherche",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Strahlenberg 1730 ve Witsen 1692 — Sibirya kelime listeleri (Almanca, Felemenkçe)",
+   "alt": "strahlenberg-witsen",
+   "yol": "kaynaklar/KAYNAKLAR.md#strahlenberg-witsen",
+   "ozet": "Poltava'da esir düşen İsveçli subay Strahlenberg'in 'Tabula polyglotta'sı ve Amsterdam belediye başkanı Witsen'in 'Noord en Oost Tartarye'si: Sibirya Türk dille",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Castrén 1857 (Koybal ve Karagas) ve Böhtlingk 1851 (Sahaca) — ilk bilimsel tanımlar",
+   "alt": "castren-bohtlingk",
+   "yol": "kaynaklar/KAYNAKLAR.md#castren-bohtlingk",
+   "ozet": "Finli Castrén'in Koybal (Hakas ağzı) ve Karagas (Tofaca) sözlükçesi; Böhtlingk'in Almanca Sahaca dilbilgisi ve sözlüğü.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Meninski 1680 ve Latin harfli Osmanlıca (Megiser 1612, Molino 1641)",
+   "alt": "meninski-transkripsiyon",
+   "yol": "kaynaklar/KAYNAKLAR.md#meninski-transkripsiyon",
+   "ozet": "Meninski'nin Thesaurus'u 17. yy Osmanlıcasını Latin harfiyle ve okunuşuyla verir. Megiser ve Molino gibi 'transkripsiyonlu metinler' Arap harfinin göstermediği ",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "19. yy Osmanlıca sözlükleri (Kieffer & Bianchi 1835, Zenker 1866-76, Redhouse 1890)",
+   "alt": "osmanlica-batili-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#osmanlica-batili-sozlukler",
+   "ozet": "Her kelimenin Türkçe, Arapça ya da Farsça olduğunu işaretleyen büyük sözlükler; 'Ele' ilkesinde Türkiye Türkçesinin ödünçlerini ayıklamak için.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Komşu dillerdeki Türkçe ödünçler (Miklosich 1884, Şipova 1976, Škaljić 1966)",
+   "alt": "komsu-dillerde-turkce",
+   "yol": "kaynaklar/KAYNAKLAR.md#komsu-dillerde-turkce",
+   "ozet": "Balkan ve Doğu Avrupa dillerine (Rumca, Arnavutça, Bulgarca, Sırpça, Rumence, Macarca, Lehçe, Rusça) geçmiş Türkçe kelimeler. Ödünç biçim çoğu zaman kaynak dili",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Çuvaşça etimoloji sözlükleri (Yegorov 1964, Fedotov 1996, Zolotnitski 1875, Paasonen)",
+   "alt": "cuvasca-etimoloji",
+   "yol": "kaynaklar/KAYNAKLAR.md#cuvasca-etimoloji",
+   "ozet": "Çuvaşça kelimelerin kökeni: Ana Türkçe mirası, Tatarca, Marice ve Rusça ödünçler. Zolotnitski 1875 ve Paasonen'in (Macarca-Almanca) eski kayıtları bugünkünden ö",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Bizans kaynaklarında Türkçe (Moravcsik, Byzantinoturcica II; Macartney 1944)",
+   "alt": "bizans-kaynaklari",
+   "yol": "kaynaklar/KAYNAKLAR.md#bizans-kaynaklari",
+   "ozet": "Rumca kaynaklarda Hun, Bulgar, Hazar, Peçenek, Kuman ve Göktürk adları, unvanları ve kelimeleri. Moravcsik'in 2. cildi bunların tam dizinidir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Hazarca kalıntıları (Golden 1980 Khazar Studies; İbranice yazışma)",
+   "alt": "hazarca",
+   "yol": "kaynaklar/KAYNAKLAR.md#hazarca",
+   "ozet": "İbranice, Arapça ve Rumca kaynaklarda geçen Hazar unvanları ve kelimeleri; Batı Eski Türkçe (Ogur) için seyrek tanık.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Arapça ve Farsça coğrafya eserleri (Hudûdü'l-Âlem 982; Minorsky 1937)",
+   "alt": "arap-fars-cografyacilar",
+   "yol": "kaynaklar/KAYNAKLAR.md#arap-fars-cografyacilar",
+   "ozet": "Türk boylarının yurtları, adları ve bazı kelimeleri (Oğuz, Karluk, Kimek, Bulgar). İbn Fadlan'ın Volga seyahatnamesi de aynı türden.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Pelliot — Notes on Marco Polo (1959-73)",
+   "alt": "pelliot-marco-polo",
+   "yol": "kaynaklar/KAYNAKLAR.md#pelliot-marco-polo",
+   "ozet": "Batı ve Doğu kaynaklarında geçen Türkçe ve Moğolca kelimelerin, adların uzun tartışmaları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Yedisu'daki Süryani harfli Nesturi mezar taşları (Chwolson 1890)",
+   "alt": "suryani-yazitlar",
+   "yol": "kaynaklar/KAYNAKLAR.md#suryani-yazitlar",
+   "ozet": "13.-14. yy Hristiyan Türklerin Süryani harfli Türkçe mezar yazıtları ve takvim adları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Turfan metinlerinin ilk yayınları (Müller, Uigurica 1908-31; Bang & Gabain, TTT ve dizini)",
+   "alt": "turfan-ilk-yayinlar",
+   "yol": "kaynaklar/KAYNAKLAR.md#turfan-ilk-yayinlar",
+   "ozet": "Berlin Turfan derlemesinin ilk metin yayınları; Eski Uygurca kelimelerin ilk tanıkları.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "VATEC — İslam öncesi Eski Türkçe metinlerin elektronik derlemi (Frankfurt)",
+   "alt": "vatec",
+   "yol": "kaynaklar/KAYNAKLAR.md#vatec",
+   "ozet": "Yayımlanmış Eski Uygurca metinlerde kelime, ek ve yazım değişkeni araması.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ermeni harfli Kıpçakça (Garkavets 2010; Tryjarski 1968-72)",
+   "alt": "ermeni-kipcak",
+   "yol": "kaynaklar/KAYNAKLAR.md#ermeni-kipcak",
+   "ozet": "16.-17. yy'da Lviv ve Kamenets Ermenilerinin yazdığı Kıpçakça (dua, hukuk, kronik). Ermeni harfi ünlüleri açıkça gösterir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Karayca eski kayıtlar (Kowalski 1929 Trakay metinleri; KRPS 1974)",
+   "alt": "karayca-eski-kayitlar",
+   "yol": "kaynaklar/KAYNAKLAR.md#karayca-eski-kayitlar",
+   "ozet": "Trakay ağzı metinleri ve Karayca-Lehçe sözlükçe; Karayca-Rusça-Lehçe sözlük (1974) üç ağzı ayırır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Karamanlıca — Rum harfli Türkçe (Salaville & Dalleggio, Anatoli gazetesi)",
+   "alt": "karamanlica",
+   "yol": "kaynaklar/KAYNAKLAR.md#karamanlica",
+   "ozet": "18.-20. yy'da Rum harfiyle basılmış Türkçe kitaplar ve gazeteler; ünlüleri ve konuşma dilini gösterir.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Arapça ve Farsça kaynak sözlükler (Lane, Steingass) — ödünç sınaması",
+   "alt": "arapca-farsca-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#arapca-farsca-sozlukler",
+   "ozet": "Bir Türkçe kelimenin Arapça ya da Farsça kökenli olup olmadığını denetlemek için ('Ele' ilkesi).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Abaev — Osetçenin tarihî-etimolojik sözlüğü (1958-95, 4 cilt)",
+   "alt": "abaev-osetce",
+   "yol": "kaynaklar/KAYNAKLAR.md#abaev-osetce",
+   "ozet": "Karaçay-Malkarcadaki Osetçe (Alan) kökenli kelimeleri ve Osetçedeki Türkçe ödünçleri ayırmak için.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Studia Etymologica Cracoviensia (Krakov, 1996-2015) ve Stachowski'nin çalışmaları",
+   "alt": "studia-etymologica-cracoviensia",
+   "yol": "kaynaklar/KAYNAKLAR.md#studia-etymologica-cracoviensia",
+   "ozet": "Etimolojiye adanmış dergi; Türk dillerindeki ödünçler üzerine çok makale var. Stachowski'nin Dolganca kelime hazinesi (1993) Dolganca kelimelerin kökenini tek t",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "ASK REAL — Kore Altayistik Derneği saha araştırmaları (2003-2009)",
+   "alt": "kore-ask-real",
+   "yol": "kaynaklar/KAYNAKLAR.md#kore-ask-real",
+   "ozet": "Seul Ulusal Üniversitesi merkezli ekibin tehlikedeki Türk dilleri saha çalışmaları (ses kayıtlı kelime listeleri).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tatarintsev — Tuvacanın etimolojik sözlüğü (2000-)",
+   "alt": "tatarintsev-tuvaca",
+   "yol": "kaynaklar/KAYNAKLAR.md#tatarintsev-tuvaca",
+   "ozet": "Tuvaca kelimelerin kökeni; Moğolca ödünçleri tek tek tartışır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Azərbaycan dilinin dialektoloji lüğəti (1999, 2003)",
+   "alt": "azerbaycan-diyalekt",
+   "yol": "kaynaklar/KAYNAKLAR.md#azerbaycan-diyalekt",
+   "ozet": "Azerbaycan Türkçesi ağız sözlüğü (iki cilt).",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Sibirya ve Altay'ın eski ve küçük dil sözlükleri (Verbitski 1884, Pekarski, Tumaşeva, Rassadin, Lemskaya)",
+   "alt": "sibirya-eski-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#sibirya-eski-sozlukler",
+   "ozet": "Verbitski'nin 1884 Altayca sözlüğü, Pekarski'nin büyük Sahaca sözlüğü, Tumaşeva'nın Sibirya Tatar ağızları sözlüğü (1992), Rassadin'in Tofaca ve Soyotça, Lemska",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Rusça açıklamalı standart sözlükler (Yudahin, Gagavuzca 1973, Karaçay-Malkarca 1989, Hakasça, Sahaca 1972)",
+   "alt": "sovyet-iki-dilli-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#sovyet-iki-dilli-sozlukler",
+   "ozet": "Altaica'nın 28 Türk diline göre düzenlenmiş sözlük listesi; çoğu PDF olarak iner.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Türk ülkelerinde yayımlanmış Eski Türkçe sözlükler (Azerbaycan 1992, Uygur 1989)",
+   "alt": "eski-turkce-yerel-sozlukler",
+   "yol": "kaynaklar/KAYNAKLAR.md#eski-turkce-yerel-sozlukler",
+   "ozet": "Azerbaycanca açıklamalı runik yazıtlar sözlüğü ve Uygurca 'Qedimki Uyghur tili lughiti'.",
+   "anahtar": []
+  },
+  {
+   "t": "dil",
+   "ad": "Çuvaşça",
+   "alt": "chv",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğur kolu. ~740.000 konuşur",
+   "anahtar": [
+    "chv",
+    "chv-anatri",
+    "chv-viryal"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Halaçça",
+   "alt": "klj",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Halaç kolu. ~42.000 konuşur",
+   "anahtar": [
+    "klj"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Türkiye Türkçesi",
+   "alt": "tur",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~80.000.000 konuşur",
+   "anahtar": [
+    "tur",
+    "tur-ahiska",
+    "tur-bkaradeniz",
+    "tur-brumeli",
+    "tur-dkaradeniz",
+    "tur-drumeli",
+    "tur-ege",
+    "tur-erzurum",
+    "tur-guneydogu",
+    "tur-kibris",
+    "tur-orta",
+    "tur-suriye",
+    "tur-teke"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Gagavuzca",
+   "alt": "gag",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~150.000 konuşur",
+   "anahtar": [
+    "gag",
+    "gag-guney",
+    "gag-merkez"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Balkan Gagavuz Türkçesi",
+   "alt": "bgx",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~11.000 konuşur",
+   "anahtar": [
+    "bgx"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Azerbaycan Türkçesi",
+   "alt": "aze",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~30.000.000 konuşur",
+   "anahtar": [
+    "aze",
+    "aze-afsar",
+    "aze-bati",
+    "aze-dogu",
+    "aze-guney",
+    "aze-iran",
+    "aze-karapapak",
+    "aze-kuzey"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Irak Türkmencesi (Kerkük)",
+   "alt": "kerkuk",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~2.000.000 konuşur",
+   "anahtar": [
+    "kerkuk"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kaşkayca",
+   "alt": "qxq",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~950.000 konuşur",
+   "anahtar": [
+    "qxq"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Türkmence",
+   "alt": "tuk",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~7.000.000 konuşur",
+   "anahtar": [
+    "tuk",
+    "tuk-covdur",
+    "tuk-ersari",
+    "tuk-goklen",
+    "tuk-salir",
+    "tuk-sarik",
+    "tuk-teke",
+    "tuk-yomut"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Horasan Türkçesi",
+   "alt": "kmz",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~700.000 konuşur",
+   "anahtar": [
+    "kmz"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Salarca",
+   "alt": "slr",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Oğuz kolu. ~70.000 konuşur",
+   "anahtar": [
+    "slr"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Tatarca",
+   "alt": "tat",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~4.300.000 konuşur",
+   "anahtar": [
+    "tat",
+    "tat-kazan",
+    "tat-miser"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Başkurtça",
+   "alt": "bak",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~1.200.000 konuşur",
+   "anahtar": [
+    "bak",
+    "bak-dogu",
+    "bak-guney",
+    "bak-kuzeybati"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kırım Tatarcası",
+   "alt": "crh",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~400.000 konuşur",
+   "anahtar": [
+    "crh",
+    "crh-bozkir",
+    "crh-orta",
+    "crh-yaliboyu"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Karayca",
+   "alt": "kdr",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~80 konuşur",
+   "anahtar": [
+    "kdr",
+    "kdr-galic",
+    "kdr-kirim",
+    "kdr-trakay"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kırımçakça",
+   "alt": "jct",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~20 konuşur",
+   "anahtar": [
+    "jct"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Urumca",
+   "alt": "uum",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~200 konuşur",
+   "anahtar": [
+    "uum"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kumukça",
+   "alt": "kum",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~450.000 konuşur",
+   "anahtar": [
+    "kum",
+    "kum-buynak",
+    "kum-hasavyurt",
+    "kum-kaytak"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Karaçay-Malkarca",
+   "alt": "krc",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~300.000 konuşur",
+   "anahtar": [
+    "krc",
+    "krc-karacay",
+    "krc-malkar"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kazakça",
+   "alt": "kaz",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~13.000.000 konuşur",
+   "anahtar": [
+    "kaz",
+    "kaz-bati",
+    "kaz-guney",
+    "kaz-kuzeydogu"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Karakalpakça",
+   "alt": "kaa",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~600.000 konuşur",
+   "anahtar": [
+    "kaa",
+    "kaa-guneybati",
+    "kaa-kuzeydogu"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Nogayca",
+   "alt": "nog",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~90.000 konuşur",
+   "anahtar": [
+    "nog",
+    "nog-ak",
+    "nog-astrahan",
+    "nog-kara",
+    "nog-orta"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Sibirya Tatarcası",
+   "alt": "sty",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~100.000 konuşur",
+   "anahtar": [
+    "sty",
+    "sty-baraba",
+    "sty-tobol",
+    "sty-tom"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kırgızca",
+   "alt": "kir",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~5.000.000 konuşur",
+   "anahtar": [
+    "kir",
+    "kir-guney",
+    "kir-kuzey"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Güney Altayca",
+   "alt": "alt",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Kıpçak kolu. ~55.000 konuşur",
+   "anahtar": [
+    "alt",
+    "alt-kiji",
+    "alt-telengit",
+    "alt-teleut"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Özbekçe",
+   "alt": "uzb",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Karluk kolu. ~35.000.000 konuşur",
+   "anahtar": [
+    "uzb",
+    "uzb-karluk",
+    "uzb-kipcak",
+    "uzb-oguz"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Uygurca",
+   "alt": "uig",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Karluk kolu. ~11.000.000 konuşur",
+   "anahtar": [
+    "uig",
+    "uig-hoten",
+    "uig-lopnur",
+    "uig-merkez"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "İli Türkçesi",
+   "alt": "ili",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Karluk kolu. ~120 konuşur",
+   "anahtar": [
+    "ili"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Sahaca (Yakutça)",
+   "alt": "sah",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~450.000 konuşur",
+   "anahtar": [
+    "sah",
+    "sah-kuzeybati",
+    "sah-merkez",
+    "sah-viluy"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Dolganca",
+   "alt": "dlg",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~800 konuşur",
+   "anahtar": [
+    "dlg"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Sarı Uygurca",
+   "alt": "ybe",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~4.600 konuşur",
+   "anahtar": [
+    "ybe"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Tuvaca",
+   "alt": "tyv",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~280.000 konuşur",
+   "anahtar": [
+    "tyv",
+    "tyv-bati",
+    "tyv-cin",
+    "tyv-guneydogu",
+    "tyv-merkez",
+    "tyv-mogolistan",
+    "tyv-toju"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Tofaca",
+   "alt": "kim",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~40 konuşur",
+   "anahtar": [
+    "kim"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Duhaca (Tsaatan)",
+   "alt": "duha",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~500 konuşur",
+   "anahtar": [
+    "duha"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Soyotça",
+   "alt": "soyot",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~37 konuşur",
+   "anahtar": [
+    "soyot"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Hakasça",
+   "alt": "kjh",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~40.000 konuşur",
+   "anahtar": [
+    "kjh",
+    "kjh-kaca",
+    "kjh-kizil",
+    "kjh-koybal",
+    "kjh-sagay"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Şorca",
+   "alt": "cjs",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~3.000 konuşur",
+   "anahtar": [
+    "cjs",
+    "cjs-kondoma",
+    "cjs-mras"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Çulımca",
+   "alt": "clw",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~40 konuşur",
+   "anahtar": [
+    "clw",
+    "clw-asagi",
+    "clw-orta"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Fuyu Kırgızcası",
+   "alt": "fuyu",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~10 konuşur",
+   "anahtar": [
+    "fuyu"
+   ]
+  },
+  {
+   "t": "dil",
+   "ad": "Kuzey Altayca",
+   "alt": "atv",
+   "yol": "AGIRLIKLAR.md",
+   "ozet": "Sibirya kolu. ~3.000 konuşur",
+   "anahtar": [
+    "atv",
+    "atv-calkan",
+    "atv-kumandi",
+    "atv-tuba"
+   ]
+  }
+ ]
+}

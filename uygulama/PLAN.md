@@ -1,5 +1,12 @@
 # Uygulama planı: bitig.codeloves.me
 
+> **Durum (2026-11-12):** İlk yayın **statik site** olarak yapıldı (sahibin kararı):
+> `araclar/yayinla.py` Markdown çıktılarını ve `cikti/site.json`'ı üretir,
+> `araclar/site.py` bunlardan HTML kurar, `.github/workflows/site.yml` GitHub Pages'e
+> yayınlar. Arama tarayıcıda, `site.json`'dan. Aşağıdaki Euglena planı (worker, API,
+> Mongo, Azurite) etkileşimli hesap ya da Mike bağlantısı istendiğinde aynı çıktıların
+> üstüne kurulacak; Aşama 0 tamamlandı.
+
 Projeyi (ortak Türk dili, dört hedef, kaynak sözlüğü, tanıklı sözlük) herkese açık
 bir web sitesi olarak yayınlama planı. Henüz kod yok; aşamalar en altta.
 

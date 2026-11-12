@@ -28,6 +28,9 @@ seçtiği kelimeler sağlamdır; ayrıştıkları kelimeler tartışmaya açıl�
 
 Ayrıntılar: **[ILKELER.md](ILKELER.md)**
 
+Site: bütün çıktılar her `main` güncellemesinde statik bir siteye dönüşüp GitHub
+Pages'te yayınlanır (alan adı ileride `bitig.codeloves.me`).
+
 ## Yapı
 
 ```
@@ -45,7 +48,9 @@ sozluk/kok/         tanıklı sözlük: her kök için tanıklar (.yaml) ve okun
 sozluk/SOZLUK.md    sözlük dizini ve kapsam tablosu (üretilir)
 araclar/sozluk.py   sözlük: doğrulama, kapsam, sayfa üretimi
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
-uygulama/PLAN.md    bitig.codeloves.me: sitenin planı (uygulamalar my-euglena-apps altında)
+araclar/yayinla.py  bütün okunur çıktılar: kavram ve kök sayfaları, dizinler, cikti/site.json
+araclar/site.py     statik site (GitHub Pages; .github/workflows/site.yml)
+uygulama/PLAN.md    bitig.codeloves.me: site planı ve ileride Euglena uygulamaları
 .claude/skills/kelime-arastir/   bir kelimeyi araştırma yöntemi ve şablon
 ```
 
@@ -68,6 +73,10 @@ python3 araclar/sozluk.py                     # sözlük: bütün köklerin kaps
 python3 araclar/sozluk.py ben                 # tek kök: eksik duraklar ve diller
 python3 araclar/sozluk.py --denetle           # kök dosyaları ile kavram dosyaları uyumlu mu
 python3 araclar/sozluk.py --yaz               # sozluk/kok/*.md ve sozluk/SOZLUK.md üret
+
+python3 araclar/yayinla.py                    # bütün okunur çıktıları üret (sayfalar + cikti/site.json)
+python3 araclar/yayinla.py --denetle          # çıktılar güncel mi (CI de bunu çalıştırır)
+python3 araclar/site.py                       # statik siteyi _site/ altına kur
 
 # üretilen dosyaları yenile
 python3 araclar/puanla.py --agirliklar --md > AGIRLIKLAR.md
