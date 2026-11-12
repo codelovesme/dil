@@ -700,6 +700,11 @@ def yazdir(s: Secim, derinlik: int, agizlar: bool, seviye: int = 0, ust: Secim |
             yazdir(c, derinlik, agizlar, seviye + 1, s)
 
 
+def _kisa_ad(L: Dugum) -> str:
+    """Parantezsiz dil adı: 'Irak Türkmencesi (Kerkük)' -> 'Irak Türkmencesi'."""
+    return L.ad.split(" (")[0]
+
+
 def hedef_secimleri(kv, agac, hedefler) -> dict[str, Secim]:
     return {kod: sec(agac, kv, h) for kod, h in hedefler.items()}
 
@@ -721,10 +726,16 @@ def aday_olculeri(kv, agac, hedefler):
             sonuc.append((k, None))
             continue
         bicimler = {b.bicim for b in k.bicimler.values()}
-        b1 = max(bicimler, key=lambda f: kopru_puani(agac, k, f, kv, h1))
+
+        def secilen(h, puan_fn):
+            """Hedefin seçimdeki biçim kuralının aynısı: puan + β × eski biçime yakınlık."""
+            eski = en_eski_bicim(agac, k, h)
+            return max(bicimler, key=lambda f: (puan_fn(f) + (h.beta * benzerlik(f, eski[0]) if eski else 0.0), f))
+
+        b1 = secilen(h1, lambda f: kopru_puani(agac, k, f, kv, h1))
         p1 = kopru_puani(agac, k, b1, kv, h1) + h1.beta * eskilik(agac, k, kv, h1)
         en_dusuk = taban_acigi(agac, k, b1, kv, h1)[1]
-        b3 = max(bicimler, key=lambda f: anlasilirlik(agac, k, f, kv, h3) or 0.0)
+        b3 = secilen(h3, lambda f: anlasilirlik(agac, k, f, kv, h3) or 0.0)
         kisi, bilinen = anlayan_kisi(agac, k, b3, kv, h3)
         r = kok_yasi(agac, k, kv, h2)
         supheli = [(L, v) for L in agac.diller if (v := supheli_odunc(L, k, kv, h2))]
@@ -751,7 +762,7 @@ def kavram_raporu(kv, agac, hedefler, h, derinlik, agizlar):
         if o is None:
             print(f"  {k.kimlik:<9} (seçilemez: köken={k.koken})")
             continue
-        dusuk = f"en düşük: {o['en_dusuk'][0].ad.split(' ')[0]} %{100 * o['en_dusuk'][1]:.0f}" if o["en_dusuk"] else ""
+        dusuk = f"en düşük: {_kisa_ad(o['en_dusuk'][0])} %{100 * o['en_dusuk'][1]:.0f}" if o["en_dusuk"] else ""
         p1 = f"{o['p1']:.2f} '{o['b1']}' {dusuk}"
         oran = o["kisi"] / o["bilinen"] if o["bilinen"] else 0
         p3 = f"~{o['kisi'] / 1e6:.0f} milyon (%{100 * oran:.0f}) '{o['b3']}'"
@@ -771,7 +782,7 @@ def kavram_raporu(kv, agac, hedefler, h, derinlik, agizlar):
         _, degerler = taban_acigi(agac, secim.kok, secim.bicim, kv, h)
         if degerler:
             print("Büyük topluluklarda anlaşılırlık: "
-                  + ", ".join(f"{L.ad.split(' ')[0]} %{100 * v:.0f}" for L, v in degerler))
+                  + ", ".join(f"{_kisa_ad(L)} %{100 * v:.0f}" for L, v in degerler))
     print()
     yazdir(secim, derinlik, agizlar)
     print()
