@@ -39,11 +39,23 @@ Temel sıra:
    etimolojide ESTJa (`estja`), Clauson (`clauson`).
 3. **Çuvaşça:** Ünal 2026 (`unal-2026`) ile miras/ödünç denetimi. Sibirya dillerinde
    Moğolca ödünç şüphesi için Khabtagaeva (`khabtagaeva`) ve ILCAA Moğolca listesi (`turkbv`).
+   **Ödünç sınaması (Ele):** kelime Moğolcada da varsa `mogolca-sozlukler`, `mogolca-etimoloji`,
+   `doerfer-tmen`; Tuvacada `tatarintsev-tuvaca`; Sahaca/Dolgancada Tunguzca için `tunguzca`;
+   Arapça/Farsça şüphesinde `arapca-farsca-sozlukler`, `osmanlica-batili-sozlukler`;
+   Soğdca/Toharca/İranca için `sogdca`, `toharca`, `iran-turk-temasi`; Çuvaşçada `cuvasca-etimoloji`.
 4. **Tarihî tanıklar:** Türik Bitig ve Wilkens (Eski Türkçe), DLT (Karahanlıca), Grønbech
    (`gronbech-kuman`) ve Codex Cumanicus (Kuman), Tarama Sözlüğü (Eski Anadolu),
    Akvius/Boeschoten (Çağatay). Clauson archive.org'da tam metin (`clauson`).
+   **Yabancıların kayıtları** (ses ve tarih için çok değerli; yabancı yazılar ünlüleri gösterir):
+   Çin kaynakları (`cin-transkripsiyonlari`, `gaochang-yiyu`), Hotanca ve Brahmi (`hotanca-turkce`,
+   `yabanci-yazili-eski-turkce`), Arapça yazılmış Memlük sözlükleri (`toparli-kipcak` önce,
+   sonra `houtsma-leiden`, `kitab-idrak`, `ibn-muhenna`), Moğolca aradilli `mukaddimet-edeb` ve
+   `rasulid-hexaglot`, Ermeni harfli Kıpçakça (`ermeni-kipcak`), Latin harfli Osmanlıca
+   (`meninski-transkripsiyon`), Avrupalıların derlemeleri (`radloff`, `pallas-1787`, `klaproth`,
+   `strahlenberg-witsen`, `castren-bohtlingk`). Bunların çoğu altaica.ru ve archive.org'da açık.
 5. **Ağızlar ve küçük diller:** Derleme Sözlüğü (Türkiye ağızları), dil sözlükleri,
-   ELAR ve atlaslar (küçük Sibirya dilleri).
+   ELAR ve atlaslar (küçük Sibirya dilleri), `sibirya-eski-sozlukler`, `azerbaycan-diyalekt`,
+   `sovyet-iki-dilli-sozlukler`; eski ağız biçimleri için Radloff (`radloff`).
 
 Erişim ipuçları: GitHub depolarını `raw.githubusercontent.com/<sahip>/<depo>/<dal>/<yol>`
 üzerinden oku (HTML sayfaları bu ortamda 403). TDK Güncel Türkçe Sözlük JSON verir:
