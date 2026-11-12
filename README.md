@@ -37,6 +37,7 @@ ag.yaml             örgü: anlaşılırlık, ikinci dil ve temas bağları (tah
 tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
 AGIRLIKLAR.md       üç hedefin ağırlık tabloları (üretilir)
 KARSILASTIRMA.md    her kavram için üç hedefin seçimi (üretilir)
+kaynaklar/          kaynak sözlüğü: ~80 kaynak, ihtiyaca ve dile göre (KAYNAKLAR.md)
 sozluk/SIRA.md      kelimelerin çalışma sırası (sıklığa göre)
 sozluk/temel/       temel söz varlığı: her kavram için bir dosya
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim

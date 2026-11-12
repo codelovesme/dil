@@ -22,15 +22,31 @@ Kullanıcı tek bir kavram verir (ör. "göz", "gelmek", "büyük"). Amaç, o ka
 
 ## 2. Araştır
 
-Web araştırması yap (WebSearch / web-fetch). Kaynak önceliği:
+Kaynakları **kaynak sözlüğünden** seç: [`kaynaklar/KAYNAKLAR.md`](../../../kaynaklar/KAYNAKLAR.md).
+Her dil ve her ihtiyaç için hangi kaynağın kullanılacağını oradan bul:
 
-1. **Wiktionary'deki Ana Türkçe (Proto-Turkic) maddeleri**, ör.
-   `Reconstruction:Proto-Turkic/tāš`. Torun dilleri listeler ve iyi bir başlangıçtır.
-2. **StarLing Türk etimoloji veritabanı** (starling.rinet.ru): yaşayan dillerdeki
-   biçimler ve Sevortyan/Räsänen göndermeleri.
-3. Clauson (EDPT), Kâşgarlı Mahmud (DLT), TDK *Karşılaştırmalı Türk Lehçeleri
-   Sözlüğü*.
-4. Her dilin kendi sözlüğü (Wiktionary'deki dil maddeleri dahil).
+```bash
+python3 araclar/kaynaklar.py --ara <dil kodu>     # ör. --ara chv, --ara kaz
+python3 araclar/kaynaklar.py --ara odunc          # ihtiyaç: ana_turkce, bicim, agiz, tarihi, odunc, ...
+```
+
+Temel sıra:
+
+1. **Ana Türkçe ve torun biçimler:** Wiktionary Ana Türkçe maddesi (`wiktionary-ana-turkce`,
+   ham metin `?action=raw`, yönlendirmeleri izle), ardından StarLing (`starling`).
+2. **Bağımsız ikinci kaynak:** Her kelimede en az bir kaynak Wiktionary dışından olsun.
+   Temel kavramlarda Savelyev & Robbeets (`savelyev-turkic`) ve Dybo 2013 (`dybo-2013`),
+   etimolojide ESTJa (`estja`), Clauson (`clauson`).
+3. **Çuvaşça:** Ünal 2026 (`unal-2026`) ile miras/ödünç denetimi.
+4. **Tarihî tanıklar:** Türik Bitig ve Wilkens (Eski Türkçe), DLT (Karahanlıca), Codex
+   Cumanicus (Kuman), Tarama Sözlüğü (Eski Anadolu), Akvius/Boeschoten (Çağatay).
+5. **Ağızlar ve küçük diller:** Derleme Sözlüğü (Türkiye ağızları), dil sözlükleri,
+   ELAR ve atlaslar (küçük Sibirya dilleri).
+
+Kullanılan her kaynağı kökün `kaynak` alanına kimliğiyle yaz (ör. `wiktionary-ana-turkce;
+savelyev-turkic`). Bir kaynak bu ortamdan erişilemiyorsa (`KAYNAKLAR.md`'de ✗), kullanıcıya
+hangi adresin izin listesine eklenmesi gerektiğini söyle. Yeni ve işe yarar bir kaynak
+bulursan `kaynaklar/kaynaklar.yaml`'a ekle ve dizini yenile.
 
 **Alttan yukarı çalış.** Her dil için önce ağızlara bak (`agac.yaml`'da dilin
 altındaki ağızlar), sonra yazı diline. Örneğin Türkiye Türkçesinde TDK *Derleme

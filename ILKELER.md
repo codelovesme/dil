@@ -430,15 +430,21 @@ bu alfabeye aktarılır.
 ## 12. Doğrulama ve kaynaklar
 
 Her kavram dosyasında `dogrulandi` alanı bulunur. Yapay zekâyla üretilen veri
-`false` olarak girilir ve kaynakla kontrol edilene kadar öyle kalır. Temel
-kaynaklar:
+`false` olarak girilir ve kaynakla kontrol edilene kadar öyle kalır.
 
-- G. Clauson, *An Etymological Dictionary of Pre-Thirteenth-Century Turkish* (1972)
-- Kâşgarlı Mahmud, *Dîvânu Lugâti't-Türk*
-- E. V. Sevortyan vd., *Etimologičeskij slovar' tjurkskix jazykov*
-- M. Räsänen, *Versuch eines etymologischen Wörterbuchs der Türksprachen* (1969)
-- A. Dybo, StarLing Türk etimoloji veritabanı (Ana Türkçe kuruluşları)
-- TDK, *Karşılaştırmalı Türk Lehçeleri Sözlüğü*; *Derleme Sözlüğü* (Anadolu ağızları)
+Kullanılabilecek kaynaklar (sözlükler, etimoloji veritabanları, tarihî metinler,
+derlemler, sınıflandırma, konuşur sayıları, anlaşılırlık çalışmaları) **kaynak
+sözlüğünde** tutulur: [`kaynaklar/KAYNAKLAR.md`](kaynaklar/KAYNAKLAR.md). Her
+kaynağın ne işe yaradığı, adresi, kapsadığı diller, nasıl kullanılacağı ve
+güvenilirliği orada yazılıdır.
+
+Kurallar:
+
+- Her kelimede en az bir kaynak Wiktionary dışından olmalıdır.
+- Kaynak kimlikleri kökün `kaynak` alanına yazılır (ör. `wiktionary-ana-turkce;
+  savelyev-turkic`).
+- Güveni düşük kaynaklar (küçük kelime listeleri, kaba tahminler) tek başına
+  kanıt sayılmaz.
 
 ## 13. Parametreler
 
