@@ -5,80 +5,105 @@ kurallara dayanmalı; kural değişecekse önce bu belge değişir.
 
 ## 1. Amaç
 
-Bütün Türk kavimlerinin birbirini kolayca anlamasını sağlayacak **ortak bir Türk
-dili** oluşturmak. Bunu yaparken:
+Bugün yaşayan bütün Türk kavimlerinin **birbirini anlamasını** sağlayacak ortak
+bir Türk dili oluşturmak. Bunu yaparken:
 
 - **Öz Türkçe** kelimeler kullanılır; Arapça, Farsça, Rusça, Moğolca vb.
-  alıntılar elenir.
-- **Eskilik** önceliklidir: Eski Türkçede tanıklanmış kelimeler öne çıkar.
+  alıntılar **hiçbir koşulda** seçilmez.
+- **Anlaşılırlık** esastır: seçilen biçim, olabildiğince çok kavmin kulağına
+  tanıdık gelmelidir.
+- **Eskilik** önceliklidir: tarihî metinlerde tanıklanmış kelimeler ve biçimler
+  öne çıkar.
 - **Kavimler arası denge** gözetilir: bir topluluk ne nüfusuyla ne de içinde
-  çok sayıda küçük dil barındırmasıyla diğerlerini ezebilir.
+  çok sayıda dil ya da ağız barındırmasıyla diğerlerini ezebilir.
 
-## 2. Kapsam: Türk dilleri ağacı
+## 2. Türk dilleri ağacı
 
-Yaşayan bütün Türk dilleri [`agac.yaml`](agac.yaml) dosyasında bir **ağaç**
-olarak tutulur:
+Yaşayan bütün Türk dilleri ve bilinen ağızları [`agac.yaml`](agac.yaml)
+dosyasında bir **ağaç** olarak tutulur (40 dil, 108 ağız):
 
 ```
 Türk dilleri
 ├── Oğur kolu ............ Çuvaşça
 └── Ortak Türkçe
-    ├── Halaç kolu
+    ├── Halaç kolu ....... Halaçça
     ├── Oğuz kolu ........ Batı Oğuz, Doğu Oğuz, Salarca
     ├── Kıpçak kolu ...... Kıpçak-Bulgar, Kıpçak-Oğuz, Kıpçak-Nogay, Kırgızca
     ├── Karluk kolu ...... Özbekçe, Uygurca, İli Türkçesi
     └── Sibirya kolu ..... Kuzey Sibirya, Güney Sibirya (Sayan, Yenisey, Altay)
 ```
 
-Sınıflandırmanın tartışmalı olduğu yerler dosyada `not` ile işaretlidir.
-Ağaçta yapılan bir değişiklik bütün ağırlıkları otomatik olarak günceller.
-
-## 3. Ağırlıklar: ne nüfus ne dil sayısı
-
-İki tehlike var:
-
-1. **Nüfus baskısı.** 80 milyonluk bir dil, 5 bin kişilik bir dili ezer.
-   → Nüfus **hiç** kullanılmaz.
-2. **Dil sayısı baskısı.** Kıpçak kolunda 12 dil, Oğur kolunda 1 dil var.
-   Her dile eşit oy verirsek Kıpçak kolu tek başına kazanır.
-   → Dillere de eşit oy verilmez.
-
-**Çözüm: ağaç ağırlığı.** Ağacın her düğümünde, çocuklar arasındaki ağırlık
-şöyle bölüşülür:
+Diller **birleştirilmez**. Türkçenin ne kadar çeşitlendiği görülsün diye her
+dil, bilinen ağızlarına kadar ayrılır. Örneğin Türkiye Türkçesi şu ağızlara
+ayrılır:
 
 ```
-çocuğun ağırlığı  ∝  (çocuğun altındaki dil sayısı) ^ α
+Türkiye Türkçesi
+├── Yazı dili                       (otomatik eklenir, kodu: tur)
+├── Anadolu ağızları
+│   ├── Batı grubu ...... Ege, Teke-Akdeniz, Orta Anadolu, Batı Karadeniz
+│   ├── Doğu grubu ...... Erzurum-Kars, Güneydoğu Anadolu
+│   └── Kuzeydoğu grubu . Doğu Karadeniz
+├── Rumeli ağızları ..... Doğu Rumeli, Batı Rumeli
+└── Kıbrıs ağzı
 ```
 
-| α | Anlamı |
+Ağızları olan her dile otomatik olarak bir **"Yazı dili"** ağzı eklenir. Dilin
+kendi kodu (`tur`, `kaz`…) bu yazı dilini gösterir; o da ağızlardan biri gibi
+tartılır. Sınıflandırmanın tartışmalı olduğu yerler dosyada `not` ile
+işaretlidir.
+
+## 3. Ağırlıklar
+
+### Hesap alttan yukarı yapılır
+
+Bir kelime araştırılırken önce en alttaki ağızlara bakılır: Ege ağzı *su*'ya ne
+diyor, Rumeli ağızları ne diyor? Ağızlar birleşir ve Türkiye Türkçesinde ne
+olması gerektiğine karar verilir. Diller birleşir ve Batı Oğuz için karar
+verilir. Bu böyle devam ederek en tepeye, ortak dile ulaşılır.
+
+**Her birleşimde** çocuklar şu oranda tartılır:
+
+```
+çocuğun payı  ∝  (çocuğun sayımı) ^ α          α = 0.5
+```
+
+| Nerede? | Sayım |
 |---|---|
-| `0` | Her dal eşit (Çuvaşça tek başına %50 alır, bu çok aşırı) |
-| `1` | Her dil eşit (kalabalık kollar kazanır) |
-| **`0.5`** (varsayılan) | Arası: büyük kol biraz daha ağır, ama dil sayısıyla doğru orantılı değil |
+| Dil düzeyinin **üstünde** (diller, dallar, kollar) | Altındaki **dil** sayısı |
+| Bir dilin **içinde** (ağızlar, ağız grupları) | Altındaki **ağız** sayısı |
 
-α = 0.5 ile en ağır dil %14.8 (Çuvaşça, kendi başına bir ana kol), en hafif
-dil %1.7. Her dil eşit olsaydı herkes %2.9 alırdı. Tam tablo için:
+Bu ayrım önemlidir: **Bir dilin kaç ağzının yazıldığı, o dilin ve kolunun
+ağırlığını değiştirmez.** Türkiye Türkçesinin 11 ağızlı olması ile Kırımçakçanın
+ağızsız olması, ikisinin Batı Oğuz ve Kıpçak-Oğuz içindeki paylarını
+etkilemez. Ağızlar sadece kendi dillerinin içinde neyin seçileceğini belirler.
+
+### Ne nüfus ne dil sayısı
+
+- **Nüfus hiç kullanılmaz.** 80 milyonluk bir dil, 5 bin kişilik bir dili ezemez.
+- **Dil sayısı doğrudan kullanılmaz.** α = 1 olsaydı 16 dilli Kıpçak kolu tek
+  başına kazanırdı. α = 0 olsaydı tek dilli Oğur kolu %50 alırdı. α = 0.5 ile
+  büyük kol biraz daha ağırdır, ama dil sayısıyla doğru orantılı değildir.
+
+Bütün ağırlıklar [`AGIRLIKLAR.md`](AGIRLIKLAR.md) dosyasındadır. Ağaç
+değişince yeniden üretilir:
 
 ```
-python3 araclar/puanla.py --agirliklar
+python3 araclar/puanla.py --agirliklar --agizlar --md > AGIRLIKLAR.md
 ```
 
 Gerekirse bir düğüme `agirlik_carpani` verilerek elle düzeltme yapılabilir, ama
 bu istisna olmalı ve gerekçesi yazılmalıdır.
 
-### Çuvaşçanın %14.8'i neden düzeltilmiyor?
+### Çuvaşçanın %13.8'i neden düzeltilmiyor?
 
-Çuvaşça tek başına bir dil gibi görünür, ama aslında Ortak Türkçeden önce
-ayrılmış bütün bir ana kolun (Oğur) tek yaşayan temsilcisidir. Ağırlığı bu yüzden
-yüksek. Bu bilinçli bir karardır:
+Çuvaşça, Ortak Türkçeden önce ayrılmış bütün bir ana kolun (Oğur) tek yaşayan
+temsilcisidir. Ağırlığı bu yüzden yüksektir. Ama tek başına kazanamaz, çünkü
+Ortak Türkçenin ağırlığı %86'dır. Sonucu ancak öteki diller iki kelime arasında
+neredeyse eşit bölündüğünde belirler. O durumda da eskiden yana karar verdirir,
+bu da eskilik ilkesinin ta kendisidir.
 
-- **Tek başına kazanamaz.** Ortak Türkçe %85 ağırlığa sahip. Çuvaşça ancak öteki
-  diller iki kök arasında neredeyse eşit bölündüğünde sonucu belirler.
-- **Bu, istediğimiz şeydir.** Hem Çuvaşçada hem Ortak Türkçede bulunan bir kök,
-  büyük olasılıkla Ana Türkçeye kadar uzanır. Başa baş durumda eskiden yana karar
-  vermek, eskilik ilkesinin ta kendisidir.
-
-## 3a. Tarihî tanıklar
+## 4. Tarihî tanıklar
 
 Yaşayan diller bir kelimenin **bugünkü** yayılımını ölçer. Tarihî diller ise
 **eskiliğini** ölçer. Bunlar [`tarihi.yaml`](tarihi.yaml) dosyasında tutulur ve
@@ -98,21 +123,21 @@ verilirken o düğümün kendi tanıkları ile üst ve alt düğümlerinin tanı
 sayılır. Örneğin Oğuz kolunda Eski Türkçe, Karahanlıca ve Eski Anadolu Türkçesi
 sayılır, ama Kuman-Kıpçakça sayılmaz.
 
-## 4. Kök ve biçim
+## 5. Kök ve biçim
 
-Her kavram için birden çok **aday kök** (etimon) olabilir. Örneğin "büyük" için:
-`uluğ`, `bedük`, `çoñ`, `zur`… Her kökün dillerde farklı **biçimleri** vardır:
-`tağ` → `dağ`, `taw`, `too`, `toğ`, `tu`…
+Her kavram için birden çok **aday kök** (etimon) olabilir. Örneğin "büyük" için
+`uluğ`, `bedük`, `çoñ`, `zur`… Her kökün dillerde farklı **biçimleri** vardır.
+Örneğin `tağ` kökü dillerde `dağ`, `taw`, `too`, `toğ`, `tu` olarak yaşar.
 
 Her kök kaydında şunlar bulunur:
 
 | Alan | Açıklama |
 |---|---|
 | `kok` | Kökün kimliği |
-| `tarihi` | Tarihî tanık kodu → biçim (ör. `{ otk: tağ, xqa: tağ, qwm: taw }`) |
 | `koken` | `türkçe`, `alıntı:<dil>` veya `belirsiz` |
-| `kaynak` | Dayanak |
-| `bicimler` | Dil kodu → biçim. Eş anlamlılar için `tercih` (aşağıya bakın) |
+| `tarihi` | Tarihî tanık kodu → biçim (ör. `{ otk: tağ, xqa: tağ, qwm: taw }`) |
+| `bicimler` | Dil ya da ağız kodu → biçim, gerekirse `tercih` ile |
+| `kaynak`, `not` | Dayanak ve açıklama |
 
 ### Tercih değerleri (bir dil içindeki eş anlamlılar)
 
@@ -120,60 +145,109 @@ Her kök kaydında şunlar bulunur:
 |---|---|
 | `1` | Asıl, günlük kelime (varsayılan) |
 | `0.5` | Yaygın ama ikincil |
-| `0.25` | Nadir, eskimiş, yazı dili, ya da anlamı kaymış |
+| `0.25` | Nadir, eskimiş, yazı dilinde kalmış, ya da anlamı kaymış |
 
-## 5. Puan
+## 6. Ölçüler
 
-Bir kökün bir düğümdeki **yayılımı**, çocuklarının yayılımlarının ağırlıklı
-ortalamasıdır. Bir yaprakta (dilde) yayılım o dildeki `tercih` değeridir.
+Üç ölçü vardır, üçü de 0 ile 1 arasındadır ve alttan yukarı aynı ağırlıklarla
+hesaplanır.
 
-Bir kökün bir düğümdeki **eskiliği**, o düğümde sayılan tarihî tanıklardan
-kökü kaydedenlerin ağırlıklı oranıdır (0–1).
+### Yayılım: kök yaşıyor mu?
+
+Bir dilde (ağızda) değeri o dildeki `tercih` değeridir, kökü kullanmıyorsa 0'dır.
+
+### Anlaşılırlık: biçim tanınıyor mu?
+
+Önerilen biçimi duyan bir dil konuşurunun onu ne kadar tanıyacağını ölçer:
 
 ```
-puan = yayılım + β · eskilik        β = 0.2
+dil o kökü kullanıyorsa:   tercih × (taban + (1 − taban) × ses_benzerliği)     taban = 0.5
+kullanmıyorsa:             0
 ```
 
-- **Eleme:** Sadece `koken: türkçe` olan kökler seçilebilir. `belirsiz` olanlar
-  araştırılana kadar seçilemez.
-- **Eksik veri ≠ yok:** Bir dil için hiç veri girilmemişse o dil hesaba
-  katılmaz (ortalamadan çıkar). Veri girilmiş ama o kök kullanılmıyorsa 0 sayılır.
-  Her raporda verinin ağacın yüzde kaçını kapsadığı (`kapsama`) gösterilir.
-  Bir dil araştırılmış ama kavram için hiçbir aday kökü kullanmıyorsa kavram
-  dosyasındaki `yok` listesine yazılır. Tarihî tanıklar için de aynısı geçerli:
-  araştırılmış ama kelime bulunamamışsa `tarihi_yok` listesine yazılır.
+- **Taban:** Aynı kökten gelen bir kelime, sesleri farklı da olsa yarı yarıya
+  tanıdıktır. Gerisini ses benzerliği belirler.
+- **Ses benzerliği:** Harf değişimlerinin maliyetiyle ölçülür. Türk dillerinde
+  düzenli olarak birbirine dönüşen sesler (t~d, ş~s, ğ~w~v, y~c~j, s~h, ünlü
+  çiftleri…) **yarım maliyetlidir**, çünkü bir Türk kulağı bunları kolayca
+  eşler.
+- **Anlaşılırlık sadece Türkçe adaylar arasında karşılaştırılır.** Bir dilin
+  alıntı kullanması, o dilde Türkçe adayın değerini 0 yapar. Ama alıntının
+  kendisi asla aday olmaz. Yani anlaşılırlık bizi alıntıya **itemez**.
 
-## 6. Seçim: ağaç boyunca yukarıdan aşağıya
+### Eskilik: tarihte var mı?
 
-1. **En tepe (Türk dilleri):** En yüksek puanlı Türkçe kök seçilir. Biçimi,
-   **en eski tanığın biçimine en yakın yaşayan biçimdir**. Bugün kimsenin
-   konuşmadığı bir biçim seçilmez: Eski Türkçe *sub* için *su*, *tağ* için
-   *tağ* (Uygurca ve Hakasçada yaşıyor) seçilir. Yakınlık harf mesafesiyle
-   ölçülür, eşitlikte daha yaygın biçim kazanır.
-2. **Her dal:** Kendi alt ağacına göre en iyi kökü yeniden hesaplar.
-   - Üst dalın kökü, en iyi seçenekten **δ'dan az geride** ise korunur
-     (**süreklilik payı**, δ = 0.15). Böylece dil gereksiz yere parçalanmaz,
-     ama bir dalın güçlü bir tercihi varsa (örneğin Oğuz kolunda `bedük` →
-     *büyük*) o dal farklı bir eş anlamlı seçebilir.
-   - Dalın biçimi, o kökün dalın dillerindeki **ağırlıkça en yaygın biçimidir**.
-     Burada da süreklilik payı uygulanır: üst dalın biçimi yeterince yaygınsa
-     korunur.
-3. **Her dil (yaprak):**
-   - **Ortak dildeki karşılığı:** Yukarıdaki kurala göre seçilir. Dil Türkçe
-     kökü kaybetmişse (ör. alıntı kullanıyorsa) üst dalın kelimesi önerilir:
-     bu, **yeniden canlandırmadır**.
-   - **Günlük kullanım:** Dilin bugün en çok kullandığı biçim ayrıca not edilir.
+Kökü kaydeden tarihî tanıkların ağırlıklı oranıdır.
 
-## 7. Yazım
+### Eksik veri yok demek değildir
+
+Bir dil ya da ağız için hiç veri girilmemişse hesaba katılmaz, ortalamadan
+çıkar. Veri girilmiş ama o kök kullanılmıyorsa 0 sayılır. Bir dil araştırılmış
+ama hiçbir aday kökü kullanmıyorsa kavram dosyasındaki `yok` listesine yazılır.
+Tarihî tanıklar için aynısı `tarihi_yok` listesiyle yapılır.
+
+## 7. Seçim
+
+Her düğüm (ağız grubu, dil, dal, kol, en tepe) **sadece kendi altına bakarak**
+iki karar verir:
+
+1. **Kök:**
+   `kök puanı = anlaşılırlık (en iyi biçimiyle) + β × eskilik`. Burada β = 0.2
+   ve sadece `koken: türkçe` olan kökler aday olabilir.
+2. **Biçim:** Seçilen kökün, düğümün altında yaşayan biçimleri arasından
+   `anlaşılırlık + β × (en eski tanık biçimine ses yakınlığı)` puanı en yüksek
+   olan seçilir. Bugün kimsenin kullanmadığı bir biçim seçilmez.
+
+Böylece her birleşim "burada ne olmalı?" sorusuna kendi cevabını verir:
+
+- Oğuz kolunda *dağ*, Kıpçak kolunda *taw*, en tepede *tağ* çıkar.
+- "Büyük" için Oğuz kolunda *büyük* (`bedük` kökü), en tepede *uluğ* çıkar.
+- En altta her dilin günlük kullandığı biçim ayrıca not edilir.
+
+### Canlandırma
+
+Bir dil seçilen Türkçe kökü kaybetmişse, örneğin alıntı kullanıyorsa, ona üst
+dalın kelimesi önerilir ve raporda **"canlandırma"** olarak işaretlenir. En
+tepede seçilen kök bugün dillerin ağırlıkça %50'sinden azında yaşıyorsa, bütün
+kavram canlandırma olarak işaretlenir. Bu, bedelin görünmesi içindir: o kelimenin
+öğretilmesi gerekecektir.
+
+### En az anlayan topluluk
+
+Her raporda en tepedeki seçimin **her ana kolda** ne kadar anlaşıldığı
+gösterilir ve en az anlayan kol işaretlenir. Ortalama iyi olsa bile geride
+kalan bir topluluk varsa görülür.
+
+## 8. Ses kuralları (ertelendi)
+
+Ses kurallarını baştan koymak, örneğin "kelime başında hep *t-*" demek, bazı
+dillerin seslerini ötekilere dayatma tehlikesi taşır. Ayrıca Türk dillerinin
+ses düzenleri birbirine benzese de aynı değildir. Çuvaşçanın *r/l*'si,
+Sahacanın *s → h* değişimi, Kazakçanın *ş → s* değişimi gibi her kolun kendi
+yenilikleri vardır. Bu yüzden:
+
+- Şimdilik **ses kuralı konmaz**. Her kelimenin biçimi, anlaşılırlık ve eskilik
+  ölçüleriyle kendi başına seçilir.
+- Yeterli kelime (~100) toplandığında seçilen biçimlerde **kendiliğinden
+  oluşan** düzenlilikler incelenir. Kural ancak veriden çıkarsa ve bir kolun
+  kendine özgü yeniliğini değil, çoğunluğun **ortak ve eski** durumunu
+  yansıtıyorsa önerilir.
+
+## 9. Çalışma sırası
+
+Kelimeler **kullanım sıklığına** göre ele alınır. Önce zamirler, sayılar,
+temel fiiller, edatlar, sonra temel isim ve sıfatlar gelir. Ekler dilbilgisi
+aşamasında ele alınır. Sıra için: [`sozluk/SIRA.md`](sozluk/SIRA.md).
+
+## 10. Yazım
 
 Ortak Latin alfabesi kullanılır. Ortak Türk alfabesiyle uyum sonraki aşamada
-kesinleştirilecek. Şimdilik çalışma yazımı:
+kesinleştirilecek. Şimdilik çalışma yazımı Türkiye Türkçesi harflerine şunların
+eklenmesiyle oluşur: `ä` (açık e / ə), `ñ` (nazal n), `w`, `x` (hırıltılı h),
+`q` (art damak k, gerektiğinde). Verideki biçimler, her dilin kendi yazısından
+bu alfabeye aktarılır.
 
-- Türkiye Türkçesi harfleri, artı `ä` (açık e / ə), `ñ` (nazal n), `w`,
-  `x` (hırıltılı h), `q` (art damak k, gerektiğinde)
-- Verideki biçimler, her dilin kendi yazısından bu alfabeye aktarılır.
-
-## 8. Doğrulama ve kaynaklar
+## 11. Doğrulama ve kaynaklar
 
 Her kavram dosyasında `dogrulandi` alanı bulunur. Yapay zekâyla üretilen veri
 `false` olarak girilir ve kaynakla kontrol edilene kadar öyle kalır. Temel
@@ -182,13 +256,14 @@ kaynaklar:
 - G. Clauson, *An Etymological Dictionary of Pre-Thirteenth-Century Turkish* (1972)
 - Kâşgarlı Mahmud, *Dîvânu Lugâti't-Türk*
 - E. V. Sevortyan vd., *Etimologičeskij slovar' tjurkskix jazykov*
-- TDK, *Karşılaştırmalı Türk Lehçeleri Sözlüğü*
 - M. Räsänen, *Versuch eines etymologischen Wörterbuchs der Türksprachen* (1969)
+- TDK, *Karşılaştırmalı Türk Lehçeleri Sözlüğü*; *Derleme Sözlüğü* (Anadolu ağızları)
 
-## 9. Parametreler
+## 12. Parametreler
 
 | Parametre | Varsayılan | Anlamı |
 |---|---|---|
-| α (`--alfa`) | 0.5 | Dil sayısının dal ağırlığına etkisi |
-| β (`--beta`) | 0.2 | Eskilik (tarihî tanıklık) bonusu |
-| δ (`--delta`) | 0.15 | Süreklilik payı (kök ve biçim) |
+| α (`--alfa`) | 0.5 | Dil/ağız sayısının ağırlığa etkisi |
+| β (`--beta`) | 0.2 | Eskiliğin etkisi |
+| taban (`--taban`) | 0.5 | Aynı kökten ama sesleri farklı bir biçimin temel tanıdıklığı |
+| eşik (`--esik`) | 0.5 | Bu yayılımın altındaki kökler "canlandırma" sayılır |

@@ -1,89 +1,259 @@
 # Türk dilleri ağacı
 # ------------------------------------------------------------------
-# Her düğüm: ad, kod. İç düğümlerin `alt` listesi vardır, yapraklar dildir.
-# Yaprak kodları ISO 639-3 kodlarıdır.
-# `not` alanı sınıflandırması tartışmalı olan yerleri belirtir.
+# Düğüm alanları:
+#   ad, kod     : ad ve benzersiz kod. Dil kodları ISO 639-3 (yoksa kısa bir ad),
+#                 ağız kodları "<dil>-<ağız>" biçimindedir.
+#   tip         : kol  -> ana kol (anlaşılırlık raporunda ayrı gösterilir)
+#                 dil  -> altında ağızları olan bir dil
+#                 (Altında ağız olmayan yapraklar da dildir; dilin altındaki
+#                  her şey ağızdır.)
+#   not         : sınıflandırması tartışmalı yerler
+#   agirlik_carpani : istisnai elle düzeltme (gerekçesi yazılmalı)
 #
-# Ağırlıklar bu dosyada ELLE verilmez; araclar/puanla.py ağacın şeklinden
-# hesaplar (bkz. ILKELER.md §3). İstisnai durumlarda bir düğüme
-# `agirlik_carpani: 1.5` gibi bir çarpan eklenebilir.
+# Ağırlıklar ELLE verilmez, araclar/puanla.py ağacın şeklinden hesaplar
+# (ILKELER.md §3):
+#   * Dil düzeyinin üstünde DİL sayısı sayılır: bir dilin kaç ağzı yazıldığı,
+#     o dilin ve kolunun ağırlığını DEĞİŞTİRMEZ.
+#   * Bir dilin içinde ağızlar kendi aralarında aynı yöntemle tartılır.
+#   * Ağızları olan her dile otomatik olarak bir "Yazı dili" ağzı eklenir; dilin
+#     kendi kodu (ör. tur) o yazı dilini gösterir.
 
 ad: Türk dilleri
 kod: turk
 alt:
+  # ============================================================ OĞUR
   - ad: Oğur kolu
     kod: ogur
+    tip: kol
     alt:
-      - { ad: Çuvaşça, kod: chv }
+      - ad: Çuvaşça
+        kod: chv
+        tip: dil
+        alt:
+          - { ad: Viryal (Yukarı) ağzı, kod: chv-viryal }
+          - { ad: Anatri (Aşağı) ağzı, kod: chv-anatri }
 
   - ad: Ortak Türkçe
     kod: ortak
     alt:
+      # ========================================================== HALAÇ
       - ad: Halaç kolu
         kod: halac
+        tip: kol
         alt:
           - { ad: Halaçça, kod: klj }
 
+      # ========================================================== OĞUZ
       - ad: Oğuz kolu
         kod: oguz
+        tip: kol
         alt:
           - ad: Batı Oğuz
             kod: oguz-bati
             alt:
-              - { ad: Türkiye Türkçesi, kod: tur }
-              - { ad: Gagavuzca, kod: gag }
-              - { ad: Azerbaycan Türkçesi, kod: aze }
+              - ad: Türkiye Türkçesi
+                kod: tur
+                tip: dil
+                alt:
+                  - ad: Anadolu ağızları
+                    kod: tur-anadolu
+                    alt:
+                      - ad: Batı grubu
+                        kod: tur-bati
+                        alt:
+                          - { ad: Ege ağzı, kod: tur-ege }
+                          - { ad: Teke-Akdeniz ağzı, kod: tur-teke }
+                          - { ad: Orta Anadolu ağzı, kod: tur-orta }
+                          - { ad: Batı Karadeniz ağzı (Kastamonu-Sinop), kod: tur-bkaradeniz }
+                      - ad: Doğu grubu
+                        kod: tur-dogu
+                        alt:
+                          - { ad: Erzurum-Kars ağzı, kod: tur-erzurum }
+                          - { ad: Güneydoğu Anadolu ağzı, kod: tur-guneydogu }
+                      - ad: Kuzeydoğu grubu
+                        kod: tur-kuzeydogu
+                        alt:
+                          - { ad: Doğu Karadeniz ağzı (Trabzon-Rize), kod: tur-dkaradeniz }
+                  - ad: Rumeli ağızları
+                    kod: tur-rumeli
+                    alt:
+                      - { ad: "Doğu Rumeli ağzı (Bulgaristan, Batı Trakya)", kod: tur-drumeli }
+                      - { ad: "Batı Rumeli ağzı (Makedonya, Kosova)", kod: tur-brumeli }
+                  - { ad: Kıbrıs ağzı, kod: tur-kibris }
+              - ad: Gagavuzca
+                kod: gag
+                tip: dil
+                alt:
+                  - { ad: Merkez ağzı (Komrat), kod: gag-merkez }
+                  - { ad: Güney ağzı (Vulkaneşti), kod: gag-guney }
+              - ad: Balkan Gagavuz Türkçesi
+                kod: bgx
+                not: Bulgaristan, Kuzey Makedonya ve Yunanistan'daki Gacal, Surguç vb. topluluklar.
+              - ad: Azerbaycan Türkçesi
+                kod: aze
+                tip: dil
+                alt:
+                  - ad: Kuzey Azerbaycan ağızları
+                    kod: aze-kuzey-az
+                    alt:
+                      - { ad: "Doğu grubu (Bakü, Şamahı, Kuba)", kod: aze-dogu }
+                      - { ad: "Batı grubu (Gence, Kazah, Karabağ)", kod: aze-bati }
+                      - { ad: "Kuzey grubu (Şeki, Zakatala)", kod: aze-kuzey }
+                      - { ad: "Güney grubu (Nahçıvan, Ordubad, Lenkeran)", kod: aze-guney }
+                  - { ad: "Güney Azerbaycan ağızları (İran, Tebriz)", kod: aze-iran }
+              - ad: Irak Türkmencesi (Kerkük)
+                kod: kerkuk
+                not: Azerbaycan Türkçesi ile Türkiye Türkçesi arasında; ayrı ISO kodu yok.
               - { ad: Kaşkayca, kod: qxq }
           - ad: Doğu Oğuz
             kod: oguz-dogu
             alt:
-              - { ad: Türkmence, kod: tuk }
+              - ad: Türkmence
+                kod: tuk
+                tip: dil
+                alt:
+                  - { ad: Teke ağzı, kod: tuk-teke }
+                  - { ad: Yomut ağzı, kod: tuk-yomut }
+                  - { ad: Ersarı ağzı, kod: tuk-ersari }
+                  - { ad: Göklen ağzı, kod: tuk-goklen }
+                  - { ad: Salır ağzı, kod: tuk-salir }
+                  - { ad: Sarık ağzı, kod: tuk-sarik }
+                  - { ad: Çovdur ağzı, kod: tuk-covdur }
               - { ad: Horasan Türkçesi, kod: kmz }
           - ad: Salarca
             kod: slr
             not: Oğuz kökenli, Karluk/Çağatay etkisi güçlü.
 
+      # ========================================================== KIPÇAK
       - ad: Kıpçak kolu
         kod: kipcak
+        tip: kol
         alt:
           - ad: Kıpçak-Bulgar (Ural)
             kod: kipcak-bulgar
             alt:
-              - { ad: Tatarca, kod: tat }
-              - { ad: Başkurtça, kod: bak }
+              - ad: Tatarca
+                kod: tat
+                tip: dil
+                alt:
+                  - { ad: Orta (Kazan) ağzı, kod: tat-kazan }
+                  - { ad: Batı (Mişer) ağzı, kod: tat-miser }
+              - ad: Başkurtça
+                kod: bak
+                tip: dil
+                alt:
+                  - { ad: Güney ağzı, kod: bak-guney }
+                  - { ad: Doğu ağzı, kod: bak-dogu }
+                  - { ad: Kuzeybatı ağzı, kod: bak-kuzeybati }
           - ad: Kıpçak-Oğuz (Karadeniz-Kafkas)
             kod: kipcak-oguz
             alt:
-              - { ad: Kırım Tatarcası, kod: crh }
-              - { ad: Kumukça, kod: kum }
-              - { ad: Karaçay-Malkarca, kod: krc }
-              - { ad: Karayca, kod: kdr }
+              - ad: Kırım Tatarcası
+                kod: crh
+                tip: dil
+                alt:
+                  - { ad: Bozkır (Nogay) ağzı, kod: crh-bozkir }
+                  - { ad: Orta ağız, kod: crh-orta }
+                  - { ad: Güney (Yalıboyu) ağzı, kod: crh-yaliboyu }
+              - ad: Kumukça
+                kod: kum
+                tip: dil
+                alt:
+                  - { ad: Hasavyurt ağzı, kod: kum-hasavyurt }
+                  - { ad: Buynak ağzı, kod: kum-buynak }
+                  - { ad: Kaytak ağzı, kod: kum-kaytak }
+              - ad: Karaçay-Malkarca
+                kod: krc
+                tip: dil
+                alt:
+                  - { ad: Karaçay-Baksan-Çegem ağzı, kod: krc-karacay }
+                  - { ad: Malkar ağzı, kod: krc-malkar }
+              - ad: Karayca
+                kod: kdr
+                tip: dil
+                alt:
+                  - { ad: Trakay (Litvanya) ağzı, kod: kdr-trakay }
+                  - { ad: Galiç (Ukrayna) ağzı, kod: kdr-galic }
+                  - { ad: Kırım ağzı, kod: kdr-kirim }
               - { ad: Kırımçakça, kod: jct }
+              - ad: Urumca
+                kod: uum
+                not: Ukrayna'daki (Azak kıyısı) Rum Ortodoks Türklerin dili; Kırım Tatarcasına yakın.
           - ad: Kıpçak-Nogay (Aral-Hazar)
             kod: kipcak-nogay
             alt:
-              - { ad: Kazakça, kod: kaz }
-              - { ad: Karakalpakça, kod: kaa }
-              - { ad: Nogayca, kod: nog }
-              - { ad: Sibirya Tatarcası, kod: sty }
+              - ad: Kazakça
+                kod: kaz
+                tip: dil
+                alt:
+                  - { ad: Kuzeydoğu ağzı, kod: kaz-kuzeydogu }
+                  - { ad: Güney ağzı, kod: kaz-guney }
+                  - { ad: Batı ağzı, kod: kaz-bati }
+              - ad: Karakalpakça
+                kod: kaa
+                tip: dil
+                alt:
+                  - { ad: Kuzeydoğu ağzı, kod: kaa-kuzeydogu }
+                  - { ad: Güneybatı ağzı, kod: kaa-guneybati }
+              - ad: Nogayca
+                kod: nog
+                tip: dil
+                alt:
+                  - { ad: Kara Nogay ağzı, kod: nog-kara }
+                  - { ad: Orta Nogay ağzı, kod: nog-orta }
+                  - { ad: Ak Nogay ağzı, kod: nog-ak }
+              - ad: Sibirya Tatarcası
+                kod: sty
+                tip: dil
+                alt:
+                  - { ad: Tobol-İrtiş ağzı, kod: sty-tobol }
+                  - { ad: Baraba ağzı, kod: sty-baraba }
+                  - { ad: Tom ağzı, kod: sty-tom }
           - ad: Kırgızca
             kod: kir
+            tip: dil
             not: Bazı sınıflandırmalarda Güney Altayca ile "Kırgız-Kıpçak" grubunda.
+            alt:
+              - { ad: Kuzey ağzı, kod: kir-kuzey }
+              - { ad: Güney ağzı, kod: kir-guney }
 
+      # ========================================================== KARLUK
       - ad: Karluk kolu
         kod: karluk
+        tip: kol
         alt:
-          - { ad: Özbekçe, kod: uzb }
-          - { ad: Uygurca, kod: uig }
+          - ad: Özbekçe
+            kod: uzb
+            tip: dil
+            not: Özbekçenin Kıpçak ve Oğuz ağızları soy bakımından o kollara yakındır; topluluk olarak Özbekçe altında tutuldu.
+            alt:
+              - { ad: "Karluk ağızları (Taşkent, Fergana)", kod: uzb-karluk }
+              - { ad: Kıpçak ağızları, kod: uzb-kipcak }
+              - { ad: Oğuz ağızları (Harezm), kod: uzb-oguz }
+          - ad: Uygurca
+            kod: uig
+            tip: dil
+            alt:
+              - { ad: "Merkez ağızları (Kaşgar, Turfan, İli)", kod: uig-merkez }
+              - { ad: Hoten ağzı, kod: uig-hoten }
+              - { ad: Lopnur ağzı, kod: uig-lopnur }
           - { ad: İli Türkçesi, kod: ili }
 
+      # ========================================================== SİBİRYA
       - ad: Sibirya kolu
         kod: sibirya
+        tip: kol
         alt:
           - ad: Kuzey Sibirya
             kod: sibirya-kuzey
             alt:
-              - { ad: Sahaca (Yakutça), kod: sah }
+              - ad: Sahaca (Yakutça)
+                kod: sah
+                tip: dil
+                alt:
+                  - { ad: Merkez ağzı, kod: sah-merkez }
+                  - { ad: Vilüy ağzı, kod: sah-viluy }
+                  - { ad: Kuzeybatı ağzı, kod: sah-kuzeybati }
               - { ad: Dolganca, kod: dlg }
           - ad: Güney Sibirya
             kod: sibirya-guney
@@ -91,18 +261,58 @@ alt:
               - ad: Sayan
                 kod: sayan
                 alt:
-                  - { ad: Tuvaca, kod: tyv }
+                  - ad: Tuvaca
+                    kod: tyv
+                    tip: dil
+                    alt:
+                      - { ad: Merkez ağzı, kod: tyv-merkez }
+                      - { ad: Batı ağzı, kod: tyv-bati }
+                      - { ad: Kuzeydoğu (Toju) ağzı, kod: tyv-toju }
+                      - { ad: Güneydoğu ağzı, kod: tyv-guneydogu }
+                      - { ad: Moğolistan Tuvacası (Tsengel), kod: tyv-mogolistan }
                   - { ad: Tofaca, kod: kim }
+                  - { ad: Duhaca (Tsaatan), kod: duha, not: "Moğolistan; Tofacaya yakın, ayrı ISO kodu yok." }
+                  - { ad: Soyotça, kod: soyot, not: "Buryatya; yeniden canlandırılıyor." }
                   - { ad: Sarı Uygurca, kod: ybe }
               - ad: Yenisey (Hakas grubu)
                 kod: yenisey
                 alt:
-                  - { ad: Hakasça, kod: kjh }
-                  - { ad: Şorca, kod: cjs }
-                  - { ad: Çulımca, kod: clw }
+                  - ad: Hakasça
+                    kod: kjh
+                    tip: dil
+                    alt:
+                      - { ad: Kaça ağzı, kod: kjh-kaca }
+                      - { ad: Sagay ağzı, kod: kjh-sagay }
+                      - { ad: Kızıl ağzı, kod: kjh-kizil }
+                      - { ad: Koybal ağzı, kod: kjh-koybal }
+                  - ad: Şorca
+                    kod: cjs
+                    tip: dil
+                    alt:
+                      - { ad: Mras ağzı, kod: cjs-mras }
+                      - { ad: Kondoma ağzı, kod: cjs-kondoma }
+                  - ad: Çulımca
+                    kod: clw
+                    tip: dil
+                    alt:
+                      - { ad: Orta Çulım ağzı, kod: clw-orta }
+                      - { ad: Aşağı Çulım ağzı, kod: clw-asagi }
+                  - { ad: Fuyu Kırgızcası, kod: fuyu, not: "Çin (Heilongjiang); Hakasçaya yakın." }
               - ad: Altay
                 kod: altay
                 not: Güney Altayca bazı sınıflandırmalarda Kıpçak koluna yakın sayılır.
                 alt:
-                  - { ad: Güney Altayca, kod: alt }
-                  - { ad: Kuzey Altayca, kod: atv }
+                  - ad: Güney Altayca
+                    kod: alt
+                    tip: dil
+                    alt:
+                      - { ad: Altay-kiji ağzı, kod: alt-kiji }
+                      - { ad: Telengit ağzı, kod: alt-telengit }
+                      - { ad: Teleüt ağzı, kod: alt-teleut }
+                  - ad: Kuzey Altayca
+                    kod: atv
+                    tip: dil
+                    alt:
+                      - { ad: Tuba ağzı, kod: atv-tuba }
+                      - { ad: Kumandı ağzı, kod: atv-kumandi }
+                      - { ad: Çalkan ağzı, kod: atv-calkan }

@@ -6,8 +6,8 @@ description: Ortak Türk dili için bir kavramı/kelimeyi bütün Türk dillerin
 # Kelime araştırma yöntemi
 
 Kullanıcı tek bir kavram verir (ör. "göz", "gelmek", "büyük"). Amaç, o kavramın
-`agac.yaml`'daki **34 yaşayan dildeki** ve `tarihi.yaml`'daki **tarihî
-tanıklardaki** karşılıklarını toplamak, kökenlerini belirlemek ve
+`agac.yaml`'daki **yaşayan dillerdeki ve ağızlarındaki** ve `tarihi.yaml`'daki
+**tarihî tanıklardaki** karşılıklarını toplamak, kökenlerini belirlemek ve
 `araclar/puanla.py` ile ortak dildeki karşılığını seçmektir. Kurallar
 `ILKELER.md`'dedir; önce onu oku.
 
@@ -31,6 +31,13 @@ Web araştırması yap (WebSearch / web-fetch). Kaynak önceliği:
 3. Clauson (EDPT), Kâşgarlı Mahmud (DLT), TDK *Karşılaştırmalı Türk Lehçeleri
    Sözlüğü*.
 4. Her dilin kendi sözlüğü (Wiktionary'deki dil maddeleri dahil).
+
+**Alttan yukarı çalış.** Her dil için önce ağızlara bak (`agac.yaml`'da dilin
+altındaki ağızlar), sonra yazı diline. Örneğin Türkiye Türkçesinde TDK *Derleme
+Sözlüğü* ve ağız çalışmalarından Ege, Rumeli, Doğu Karadeniz… ağızlarının
+kullandığı biçimleri al. Yazı dilinin biçimi dilin kendi koduna (`tur`), ağız
+biçimleri ağız kodlarına (`tur-ege`) yazılır. Ağız verisi bulunamazsa sadece
+yazı dili girilir; bu geçerlidir.
 
 Kurallar:
 
@@ -65,8 +72,9 @@ Hata veriyorsa düzelt (genellikle yanlış dil kodu).
 
 ## 5. Raporla (Türkçe, kısa)
 
-1. **Sonuç:** en tepede seçilen kelime ve biçim, kolların seçimleri
-   (`--derinlik 2` çıktısı).
+1. **Sonuç:** alttan yukarı her birleşimde ne çıktığı (önemli ağızlar → dil →
+   dal → kol → en tepe), anlaşılırlıkta en az anlayan kol, canlandırma uyarısı
+   varsa o. Çıktı için `--derinlik 3` ya da `--agizlar` kullan.
 2. **Tablo:** dil → biçim (alıntılar işaretli).
 3. **Belirsizlikler:** boş bırakılan diller, şüpheli biçimler, tartışmalı kök
    bağlantıları.
