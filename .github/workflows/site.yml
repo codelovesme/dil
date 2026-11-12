@@ -43,5 +43,10 @@ jobs:
       name: github-pages
       url: ${{ steps.dagit.outputs.page_url }}
     steps:
+      - name: Pages açık değilse açmayı dene
+        uses: actions/configure-pages@v5
+        continue-on-error: true
+        with:
+          enablement: true
       - id: dagit
         uses: actions/deploy-pages@v4
