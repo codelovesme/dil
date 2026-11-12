@@ -21,7 +21,7 @@ KOK = Path(__file__).resolve().parent.parent
 KAYNAK_DOSYASI = KOK / "kaynaklar" / "kaynaklar.yaml"
 
 ALANLAR = {"kimlik", "ad", "url", "tur", "diller", "kullanim", "ne", "nasil", "erisim",
-           "bicim", "guven", "durum", "not"}
+           "bicim", "guven", "durum", "dogrulama", "not"}
 TURLER = {
     "etimoloji": "Etimoloji ve karşılaştırmalı sözlükler",
     "veri-seti": "Karşılaştırmalı veri setleri",
@@ -128,6 +128,10 @@ def md(veri, kodlar) -> str:
       "düşük = küçük liste ya da kaba tahmin.")
     y("- **Ortam:** ✓ bu oturumun ağ izni olan adres; ✗ izin listesine eklenmesi gerekir "
       "(bkz. [Erişim](#bu-ortamdan-erisim)).")
+    durumlar = Counter(k["durum"] for k in ks)
+    y(f"- **Durum:** {durumlar['denendi']} kaynak bu ortamdan açılıp denetlendi, "
+      f"{durumlar['arandi']} kaynak aramada görüldü, {durumlar['basili']} kaynak basılı. "
+      "Son denetimin sonucu her kaydın **Doğrulama** satırında.")
     y("- **Hızlı arama:** `python3 araclar/kaynaklar.py --ara <dil kodu ya da ihtiyaç>` "
       "(ör. `--ara chv`, `--ara odunc`).\n")
 
@@ -179,6 +183,8 @@ def md(veri, kodlar) -> str:
             y(f"- **Erişim:** {ERISIM[k['erisim']]} · **Biçim:** {k.get('bicim', '—')} · "
               f"**Güven:** {GUVEN[k['guven']]} · **Durum:** {DURUM[k['durum']]} · "
               f"**Ortam:** {ortam(k, izinli)}")
+            if k.get("dogrulama"):
+                y(f"- **Doğrulama:** {k['dogrulama'].strip()}")
             if k.get("not"):
                 y(f"- **Not:** {k['not'].strip()}")
             y(f"- **Kimlik:** `{k['kimlik']}`\n")

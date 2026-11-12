@@ -37,11 +37,18 @@ Temel sıra:
 2. **Bağımsız ikinci kaynak:** Her kelimede en az bir kaynak Wiktionary dışından olsun.
    Temel kavramlarda Savelyev & Robbeets (`savelyev-turkic`) ve Dybo 2013 (`dybo-2013`),
    etimolojide ESTJa (`estja`), Clauson (`clauson`).
-3. **Çuvaşça:** Ünal 2026 (`unal-2026`) ile miras/ödünç denetimi.
-4. **Tarihî tanıklar:** Türik Bitig ve Wilkens (Eski Türkçe), DLT (Karahanlıca), Codex
-   Cumanicus (Kuman), Tarama Sözlüğü (Eski Anadolu), Akvius/Boeschoten (Çağatay).
+3. **Çuvaşça:** Ünal 2026 (`unal-2026`) ile miras/ödünç denetimi. Sibirya dillerinde
+   Moğolca ödünç şüphesi için Khabtagaeva (`khabtagaeva`) ve ILCAA Moğolca listesi (`turkbv`).
+4. **Tarihî tanıklar:** Türik Bitig ve Wilkens (Eski Türkçe), DLT (Karahanlıca), Grønbech
+   (`gronbech-kuman`) ve Codex Cumanicus (Kuman), Tarama Sözlüğü (Eski Anadolu),
+   Akvius/Boeschoten (Çağatay). Clauson archive.org'da tam metin (`clauson`).
 5. **Ağızlar ve küçük diller:** Derleme Sözlüğü (Türkiye ağızları), dil sözlükleri,
    ELAR ve atlaslar (küçük Sibirya dilleri).
+
+Erişim ipuçları: GitHub depolarını `raw.githubusercontent.com/<sahip>/<depo>/<dal>/<yol>`
+üzerinden oku (HTML sayfaları bu ortamda 403). TDK Güncel Türkçe Sözlük JSON verir:
+`https://sozluk.gov.tr/gts?ara=<kelime>`. Wikimedia 429 verirse istekler arasında bekle.
+Her kaydın `dogrulama` alanı son denetimin sonucunu ve çalışan erişim yolunu yazar.
 
 Kullanılan her kaynağı kökün `kaynak` alanına kimliğiyle yaz (ör. `wiktionary-ana-turkce;
 savelyev-turkic`). Bir kaynak bu ortamdan erişilemiyorsa (`KAYNAKLAR.md`'de ✗), kullanıcıya

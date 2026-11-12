@@ -2,140 +2,185 @@
 
 > Bu dosya `python3 araclar/kaynaklar.py > kaynaklar/KAYNAKLAR.md` komutuyla [`kaynaklar.yaml`](kaynaklar.yaml) dosyasından üretilir; elle düzenlemeyin.
 
-Toplam **79 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı diller, nasıl kullanılacağı, erişim türü, güvenilirlik ve bu ortamdan erişilip erişilemediği.
+Toplam **106 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı diller, nasıl kullanılacağı, erişim türü, güvenilirlik ve bu ortamdan erişilip erişilemediği.
 
 - **Güven:** yüksek = hakemli ya da uzman eseri; orta = derlenmiş ya da topluluk ürünü; düşük = küçük liste ya da kaba tahmin.
 - **Ortam:** ✓ bu oturumun ağ izni olan adres; ✗ izin listesine eklenmesi gerekir (bkz. [Erişim](#bu-ortamdan-erisim)).
+- **Durum:** 26 kaynak bu ortamdan açılıp denetlendi, 66 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
 - **Hızlı arama:** `python3 araclar/kaynaklar.py --ara <dil kodu ya da ihtiyaç>` (ör. `--ara chv`, `--ara odunc`).
 
 ## İhtiyaca göre
 
 ### Ana Türkçe kuruluşu ve etimoloji
 
-- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](#clauson) — kısmen, güven: yüksek, ortam: ✗
-- [Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)](#dybo-2013) — açık, güven: yüksek, ortam: ✗
+- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](#clauson) — kısmen, güven: yüksek, ortam: ✓
+- [Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)](#dybo-2013) — açık, güven: yüksek, ortam: ✓
+- [Göttingen Bilimler Akademisi — Altuigurisches Wörterbuch projesi](#gottingen-altuygur) — açık, güven: yüksek, ortam: ✗
 - [Halaçça — Doerfer, Khalaj Materials (1971) ve Doerfer & Tezcan, Wörterbuch des Chaladsch (1980)](#halacca) — basılı, güven: yüksek
+- [Rahmatullayev — O'zbek tilining etimologik lug'ati](#ozbek-etimoloji) — basılı, güven: yüksek
 - [Räsänen — Versuch eines etymologischen Wörterbuchs der Türksprachen (1969)](#rasanen) — basılı, güven: yüksek
-- [Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti](#ronatas-bati-eski-turkce) — açık, güven: yüksek, ortam: ✗
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✗
+- [Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti](#ronatas-bati-eski-turkce) — açık, güven: yüksek, ortam: ✓
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✓
+- [Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi, TurkLib)](#sovet-turkologiya) — açık, güven: yüksek, ortam: ✗
 - [StarLing — Türk etimoloji veritabanı (Starostin, Dybo, Mudrak)](#starling) — açık, güven: yüksek, ortam: ✓
-- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✗
+- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✓
+- [Tataristan Bilimler Akademisi — Tatarca sözlükler (Süzlek)](#tatar-akademi-sozluk) — açık, güven: yüksek, ortam: ✗
 - [Tietze — Tarihî ve Etimolojik Türkiye Türkçesi Lugatı (TÜBA)](#tietze) — basılı, güven: yüksek
-- [Wilkens — Handwörterbuch des Altuigurischen (2021)](#wilkens-eski-uygurca) — açık, güven: yüksek, ortam: ✗
-- [Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)](#unal-2026) — açık, güven: yüksek, ortam: ✗
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](#wilkens-eski-uygurca) — açık, güven: yüksek, ortam: ✓
+- [Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)](#unal-2026) — açık, güven: yüksek, ortam: ✓
 - [Сравнительно-историческая грамматика тюркских языков (Tenishev, 1984–2006)](#tenishev) — basılı, güven: yüksek
-- [Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)](#estja) — kısmen, güven: yüksek, ortam: ✗
+- [Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)](#estja) — kısmen, güven: yüksek, ortam: ✓
 - [Etymological Dictionary of the Altaic Languages (Starostin, Dybo, Mudrak 2003)](#edal) — basılı, güven: orta
-- [Monumenta Altaica — Türkoloji e-kütüphanesi](#altaica-kutuphane) — açık, güven: orta, ortam: ✗
-- [Nişanyan Sözlük — Çağdaş Türkçenin Etimolojisi](#nisanyan) — kısmen, güven: orta, ortam: ✗
+- [Monumenta Altaica — Türkoloji e-kütüphanesi](#altaica-kutuphane) — açık, güven: orta, ortam: ✓
+- [Nişanyan Sözlük — Çağdaş Türkçenin Etimolojisi](#nisanyan) — kısmen, güven: orta, ortam: ✓
+- [Robbeets vd. 2021 — Triangulation (Transeurasian) veri seti](#robbeets-2021) — açık, güven: orta, ortam: ✗
 - [Sino-Platonic Papers 325 — Proto-Turkic consonants](#proto-turkic-unsuzler) — açık, güven: orta, ortam: ✗
+- [Türkmence etimoloji ve açıklamalı sözlükler (Atanyýazow; Türkmen diliniň düşündirişli sözlügi)](#turkmen-etimoloji) — basılı, güven: orta
 - [Wiktionary — About Proto-Turkic (yazım ve kuruluş kuralları)](#wiktionary-hakkinda) — açık, güven: orta, ortam: ✓
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](#wiktionary-ana-turkce) — açık, güven: orta, ortam: ✓
-- [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✗
+- [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✓
 
 ### Yaşayan dillerde biçim toplama
 
+- [Alişina 1994 — Tobol-İrtış ağzı (Sibirya Tatarcası) ve Tümen Üniversitesi e-kitaplığı](#sibirya-tatar-agiz) — açık, güven: yüksek, ortam: ✗
+- [Azerbaycanca kaynaklar (Azərbaycan dilinin izahlı lüğəti, dilcilik.az)](#azerbaycan-kaynaklari) — kısmen, güven: yüksek, ortam: ✗
 - [Aşmarin — Thesaurus Linguae Tschuvaschorum (17 cilt)](#cuvasca-asmarin) — basılı, güven: yüksek
-- [Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)](#dybo-2013) — açık, güven: yüksek, ortam: ✗
+- [Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)](#dybo-2013) — açık, güven: yüksek, ortam: ✓
 - [ELAR — Endangered Languages Archive](#elar) — kısmen, güven: yüksek, ortam: ✗
+- [Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)](#gronbech-kuman) — açık, güven: yüksek, ortam: ✓
 - [Halaçça — Doerfer, Khalaj Materials (1971) ve Doerfer & Tezcan, Wörterbuch des Chaladsch (1980)](#halacca) — basılı, güven: yüksek
+- [ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)](#turkbv) — açık, güven: yüksek, ortam: ✗
+- [ILCAA çevrim içi kaynak portalı (Tokyo)](#ilcaa-kaynaklari) — açık, güven: yüksek, ortam: ✗
 - [Karayca — Karaim Multi Dictionary (Csató & Nathan) ve KRPS 1974](#karay-sozluk) — kısmen, güven: yüksek, ortam: ✗
 - [Kazak Dili Ulusal Derlemi](#qazcorpus) — kısmen, güven: yüksek, ortam: ✗
 - [Kaşkayca — Dolatkhah 2019, Qashqai Turkic (derlem tabanlı dilbilgisi)](#kaskayca) — basılı, güven: yüksek
 - [Lexical copies in Khalaj — World Loanword Database (WOLD) katkısı](#wold-halac) — açık, güven: yüksek, ortam: ✗
-- [NorthEuraLex](#northeuralex) — açık, güven: yüksek, ortam: ✗
+- [NorthEuraLex](#northeuralex) — açık, güven: yüksek, ortam: ✓
+- [O'zbek tilining izohli lug'ati — Özbekçe açıklamalı sözlük (yeni baskı)](#ozbek-izohli) — kısmen, güven: yüksek, ortam: ✗
+- [Qazaq ädebï tiliniñ sözdigi — Kazak yazı dilinin 15 ciltlik sözlüğü (2011)](#kazak-15-cilt) — kısmen, güven: yüksek, ortam: ✗
+- [RBA Sibirya Şubesi Filoloji Enstitüsü (Novosibirsk) — dergiler ve e-kitaplık](#nsc-filoloji) — açık, güven: yüksek, ortam: ✗
 - [Salarca — Dwyer'in çalışmaları ve DoBeS Salar projesi](#salarca) — kısmen, güven: yüksek, ortam: ✗
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✗
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✓
 - [StarLing — Türk etimoloji veritabanı (Starostin, Dybo, Mudrak)](#starling) — açık, güven: yüksek, ortam: ✓
-- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✗
+- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✓
 - [Tatar Ulusal Derlemi "Tugan Tel" ve Yazılı Tatarca Derlemi](#tugan-tel) — açık, güven: yüksek, ortam: ✗
+- [Tataristan Bilimler Akademisi — Tatarca sözlükler (Süzlek)](#tatar-akademi-sozluk) — açık, güven: yüksek, ortam: ✗
 - [el-sozduk.kg — Kırgızca sözlükler (Yudahin dahil)](#el-sozduk) — açık, güven: yüksek, ortam: ✗
+- [Çin'deki küçük Türk dillerinin sözlükleri (Batı Yugurca, Salarca)](#cin-turk-dilleri) — basılı, güven: yüksek
 - [Özbekçe kaynaklar (CTILD Indiana, Chicago CEERES)](#ozbek-kaynaklari) — açık, güven: yüksek, ortam: ✗
-- [Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)](#estja) — kısmen, güven: yüksek, ortam: ✗
-- [Apertium — Türk dilleri çeviri çiftleri ve sözlükleri](#apertium) — açık, güven: orta, ortam: ✗
-- [DergiPark](#dergipark) — açık, güven: orta, ortam: ✗
-- [Elegant Lexicon — Turkic database (C. A. Straughn)](#elegant-lexicon) — açık, güven: orta, ortam: ✗
+- [Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)](#estja) — kısmen, güven: yüksek, ortam: ✓
+- [Apertium — Türk dilleri çeviri çiftleri ve sözlükleri](#apertium) — açık, güven: orta, ortam: ✓
+- [DergiPark](#dergipark) — açık, güven: orta, ortam: ✓
+- [Elegant Lexicon — Turkic database (C. A. Straughn)](#elegant-lexicon) — açık, güven: orta, ortam: ✓
 - [Kuzey, Sibirya ve Uzak Doğu yerli halkları etkileşimli atlası](#atlaskmns) — açık, güven: orta, ortam: ✗
 - [Kırım Tatarcası Ulusal Derlemi ve sözlükleri](#kirim-tatar-derlem) — açık, güven: orta, ortam: ✗
 - [Lexilogos — dil bazlı sözlük portalı](#lexilogos) — açık, güven: orta, ortam: ✗
 - [Qamus — Türk Devletleri Parlamenter Asamblesi (TÜRKPA) karşılaştırmalı sözlüğü](#qamus) — kısmen, güven: orta, ortam: ✗
 - [Sibirya Dilleri — Rusya Bilimler Akademisi Etnoloji Enstitüsü](#lingsib) — açık, güven: orta, ortam: ✗
-- [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✗
+- [Tatarca Ulusal Derlemi (corpus.tatar)](#tatar-derlem) — açık, güven: orta, ortam: ✗
+- [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✓
 - [Tuvan Talking Dictionary (Swarthmore) ve Living Dictionaries](#tuva-sozluk) — açık, güven: orta, ortam: ✗
+- [Türkmence etimoloji ve açıklamalı sözlükler (Atanyýazow; Türkmen diliniň düşündirişli sözlügi)](#turkmen-etimoloji) — basılı, güven: orta
 - [Türkmence sözlükler (Webonary, Makul Sözlük, Ene dilim)](#turkmen-sozluk) — açık, güven: orta, ortam: ✗
 - [Uluslararası Türk Akademisi — Türk dilleri terim sözlükleri](#turk-akademisi-terim) — kısmen, güven: orta, ortam: ✗
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](#wiktionary-ana-turkce) — açık, güven: orta, ortam: ✓
 - [Wiktionary — Türk dilleri Swadesh listeleri](#wiktionary-swadesh) — açık, güven: orta, ortam: ✓
-- [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✗
+- [YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler](#yok-acik-bilim) — kısmen, güven: orta, ortam: ✗
+- [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✓
+- [neurotatarlar/tt-dictionaries — Tatarca sözlükler veri seti](#tatar-sozluk-veri) — açık, güven: orta, ortam: ✗
 - [sakhatyla.ru — Sahaca-Rusça / Sahaca-İngilizce sözlük](#sakhatyla) — açık, güven: orta, ortam: ✗
 - [sozdik.kz — Kazakça-Rusça / Rusça-Kazakça sözlük](#sozdik) — açık, güven: orta, ortam: ✗
+- [til.im — Kumukça kitaplar ve sözlükler](#kumuk-kaynaklari) — açık, güven: orta, ortam: ✗
+- [translate.chv.su — Çuvaşça-Rusça derlem, çeviri ve sözlük (Plotnikov)](#cuvasca-ceviri) — açık, güven: orta, ortam: ✗
 - [Freelang kelime listeleri](#freelang) — açık, güven: düşük, ortam: ✗
 - [Gagavuzca sözlükler](#gagavuzca) — kısmen, güven: düşük, ortam: ✗
 - [PanLex](#panlex) — açık, güven: düşük, ortam: ✗
+- [lehceler.com — Türk lehçeleri karşılaştırmalı sözlüğü](#lehceler-com) — açık, güven: düşük, ortam: ✗
 
 ### Ağız verisi
 
+- [Alişina 1994 — Tobol-İrtış ağzı (Sibirya Tatarcası) ve Tümen Üniversitesi e-kitaplığı](#sibirya-tatar-agiz) — açık, güven: yüksek, ortam: ✗
+- [Azerbaycanca kaynaklar (Azərbaycan dilinin izahlı lüğəti, dilcilik.az)](#azerbaycan-kaynaklari) — kısmen, güven: yüksek, ortam: ✗
 - [Aşmarin — Thesaurus Linguae Tschuvaschorum (17 cilt)](#cuvasca-asmarin) — basılı, güven: yüksek
 - [ELAR — Endangered Languages Archive](#elar) — kısmen, güven: yüksek, ortam: ✗
 - [Halaçça — Doerfer, Khalaj Materials (1971) ve Doerfer & Tezcan, Wörterbuch des Chaladsch (1980)](#halacca) — basılı, güven: yüksek
 - [Karayca — Karaim Multi Dictionary (Csató & Nathan) ve KRPS 1974](#karay-sozluk) — kısmen, güven: yüksek, ortam: ✗
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](#dlt) — basılı, güven: yüksek
+- [RBA Sibirya Şubesi Filoloji Enstitüsü (Novosibirsk) — dergiler ve e-kitaplık](#nsc-filoloji) — açık, güven: yüksek, ortam: ✗
 - [Rusya Federasyonu Türk Ağızları Atlası (Dybo)](#rf-turk-agiz-atlasi) — kısmen, güven: yüksek, ortam: ✗
-- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✗
+- [Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi, TurkLib)](#sovet-turkologiya) — açık, güven: yüksek, ortam: ✗
+- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✓
+- [Tataristan Bilimler Akademisi — Tatarca sözlükler (Süzlek)](#tatar-akademi-sozluk) — açık, güven: yüksek, ortam: ✗
 - [Tietze — Tarihî ve Etimolojik Türkiye Türkçesi Lugatı (TÜBA)](#tietze) — basılı, güven: yüksek
-- [Uluslararası Türk Lehçe Araştırmaları Dergisi (TÜRKLAD)](#turklad) — açık, güven: yüksek, ortam: ✗
+- [Uluslararası Türk Lehçe Araştırmaları Dergisi (TÜRKLAD)](#turklad) — açık, güven: yüksek, ortam: ✓
 - [WOWA — Word Order in Western Asia derlemi (Bamberg)](#wowa) — açık, güven: yüksek, ortam: ✗
 - [Özbekçe kaynaklar (CTILD Indiana, Chicago CEERES)](#ozbek-kaynaklari) — açık, güven: yüksek, ortam: ✗
-- [DergiPark](#dergipark) — açık, güven: orta, ortam: ✗
+- [DergiPark](#dergipark) — açık, güven: orta, ortam: ✓
+- [Novye issledovaniya Tuvy (Tuva üzerine yeni araştırmalar) dergisi](#tuva-dergi) — açık, güven: orta, ortam: ✗
+- [Türkmence etimoloji ve açıklamalı sözlükler (Atanyýazow; Türkmen diliniň düşündirişli sözlügi)](#turkmen-etimoloji) — basılı, güven: orta
+- [YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler](#yok-acik-bilim) — kısmen, güven: orta, ortam: ✗
 
 ### Tarihî tanık biçimleri
 
+- [BBAW Turfan Araştırmaları — Eski Uygurca metinler ve sayısal arşiv](#turfan-bbaw) — açık, güven: yüksek, ortam: ✗
 - [Boeschoten — A Dictionary of Early Middle Turkic (Brill 2022)](#boeschoten) — ücretli, güven: yüksek, ortam: ✗
-- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](#clauson) — kısmen, güven: yüksek, ortam: ✗
+- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](#clauson) — kısmen, güven: yüksek, ortam: ✓
 - [Codex Cumanicus (çevrim içi baskılar)](#codex-cumanicus) — açık, güven: yüksek, ortam: ✗
 - [Erdal 1993 — Die Sprache der wolgabolgarischen Inschriften](#erdal-volga-bulgar) — basılı, güven: yüksek
+- [Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)](#gronbech-kuman) — açık, güven: yüksek, ortam: ✓
+- [Göttingen Bilimler Akademisi — Altuigurisches Wörterbuch projesi](#gottingen-altuygur) — açık, güven: yüksek, ortam: ✗
+- [KOHD — Almanya'daki Eski Uygurca el yazmaları kataloğu](#kohd-eski-uygurca) — açık, güven: yüksek, ortam: ✗
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](#dlt) — basılı, güven: yüksek
-- [Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti](#ronatas-bati-eski-turkce) — açık, güven: yüksek, ortam: ✗
-- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✗
+- [Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti](#ronatas-bati-eski-turkce) — açık, güven: yüksek, ortam: ✓
+- [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](#tdk-portal) — açık, güven: yüksek, ortam: ✓
 - [Tietze — Tarihî ve Etimolojik Türkiye Türkçesi Lugatı (TÜBA)](#tietze) — basılı, güven: yüksek
-- [Wilkens — Handwörterbuch des Altuigurischen (2021)](#wilkens-eski-uygurca) — açık, güven: yüksek, ortam: ✗
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](#wilkens-eski-uygurca) — açık, güven: yüksek, ortam: ✓
 - [Древнетюркский словарь (1969)](#dts) — basılı, güven: yüksek
 - [Akvius — çevrim içi Çağatayca sözlük](#akvius-cagatayca) — açık, güven: orta, ortam: ✗
-- [Türik Bitig — Eski Türkçe yazıtlar ve metinler portalı](#turik-bitig) — açık, güven: orta, ortam: ✗
+- [Türik Bitig — Eski Türkçe yazıtlar ve metinler portalı](#turik-bitig) — açık, güven: orta, ortam: ✓
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](#wiktionary-ana-turkce) — açık, güven: orta, ortam: ✓
+- [YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler](#yok-acik-bilim) — kısmen, güven: orta, ortam: ✗
 
 ### Ödünç ve miras ayrımı (özellikle Çuvaşça)
 
 - [Aşmarin — Thesaurus Linguae Tschuvaschorum (17 cilt)](#cuvasca-asmarin) — basılı, güven: yüksek
 - [Erdal 1993 — Die Sprache der wolgabolgarischen Inschriften](#erdal-volga-bulgar) — basılı, güven: yüksek
+- [Khabtagaeva — Sibirya Türk dillerinde Moğolca ödünçler](#khabtagaeva) — basılı, güven: yüksek
 - [Lexical copies in Khalaj — World Loanword Database (WOLD) katkısı](#wold-halac) — açık, güven: yüksek, ortam: ✗
-- [Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti](#ronatas-bati-eski-turkce) — açık, güven: yüksek, ortam: ✗
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✗
-- [Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)](#unal-2026) — açık, güven: yüksek, ortam: ✗
-- [Nişanyan Sözlük — Çağdaş Türkçenin Etimolojisi](#nisanyan) — kısmen, güven: orta, ortam: ✗
+- [Rahmatullayev — O'zbek tilining etimologik lug'ati](#ozbek-etimoloji) — basılı, güven: yüksek
+- [Róna-Tas & Berta — West Old Turkic (Macarcadaki Türkçe ödünçler) veri seti](#ronatas-bati-eski-turkce) — açık, güven: yüksek, ortam: ✓
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✓
+- [Çin'deki küçük Türk dillerinin sözlükleri (Batı Yugurca, Salarca)](#cin-turk-dilleri) — basılı, güven: yüksek
+- [Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)](#unal-2026) — açık, güven: yüksek, ortam: ✓
+- [Nişanyan Sözlük — Çağdaş Türkçenin Etimolojisi](#nisanyan) — kısmen, güven: orta, ortam: ✓
 
 ### Örgü: benzerlik ve anlaşılırlık değerleri
 
-- [Baidildinova vd. 2026 — Quantifying mutual intelligibility gradients in Turkic languages (SCiL)](#scil-2026) — açık, güven: yüksek, ortam: ✗
-- [NorthEuraLex](#northeuralex) — açık, güven: yüksek, ortam: ✗
+- [Baidildinova vd. 2026 — Quantifying mutual intelligibility gradients in Turkic languages (SCiL)](#scil-2026) — açık, güven: yüksek, ortam: ✓
+- [ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)](#turkbv) — açık, güven: yüksek, ortam: ✗
+- [Iran Atlas — İran'ın Dil Atlası (Anonby vd.)](#iran-dil-atlasi) — açık, güven: yüksek, ortam: ✗
+- [NorthEuraLex](#northeuralex) — açık, güven: yüksek, ortam: ✓
 - [Rusya Federasyonu Türk Ağızları Atlası (Dybo)](#rf-turk-agiz-atlasi) — kısmen, güven: yüksek, ortam: ✗
 - [Salehi & Neysani 2017 — Azerbaycan Türkçesinin Türkiye Türkçesi konuşurlarınca anlaşılırlığı](#salehi-2017) — kısmen, güven: yüksek, ortam: ✗
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✗
-- [ASJP Database (Automated Similarity Judgment Program)](#asjp) — açık, güven: orta, ortam: ✗
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✓
+- [ASJP Database (Automated Similarity Judgment Program)](#asjp) — açık, güven: orta, ortam: ✓
 - [En sık 1000 kelime açısından modern Türk dilleri (Türkiye, Azerbaycan, Kazak, Kırgız, Özbek)](#en-sik-1000) — açık, güven: orta, ortam: ✗
 
 ### Sınıflandırma (soy ağacı)
 
-- [Glottolog](#glottolog) — açık, güven: yüksek, ortam: ✗
+- [Glottolog](#glottolog) — açık, güven: yüksek, ortam: ✓
+- [Iran Atlas — İran'ın Dil Atlası (Anonby vd.)](#iran-dil-atlasi) — açık, güven: yüksek, ortam: ✗
 - [Johanson & Csató (ed.) — The Turkic Languages (2. baskı, 2021)](#johanson-csato) — ücretli, güven: yüksek, ortam: ✗
 - [Sibirya Dilleri — Rusya Bilimler Akademisi Etnoloji Enstitüsü](#lingsib) — açık, güven: orta, ortam: ✗
 - [Wikipedia — List of Turkic languages](#wikipedia-turk-dilleri) — açık, güven: düşük, ortam: ✗
 
 ### Konuşur sayısı ve canlılık
 
+- [Iran Atlas — İran'ın Dil Atlası (Anonby vd.)](#iran-dil-atlasi) — açık, güven: yüksek, ortam: ✗
 - [Endangered Languages Project](#elp) — açık, güven: orta, ortam: ✗
 - [Ethnologue](#ethnologue) — ücretli, güven: orta, ortam: ✗
 - [Kuzey, Sibirya ve Uzak Doğu yerli halkları etkileşimli atlası](#atlaskmns) — açık, güven: orta, ortam: ✗
+- [Novye issledovaniya Tuvy (Tuva üzerine yeni araştırmalar) dergisi](#tuva-dergi) — açık, güven: orta, ortam: ✗
 - [Rosstat — 2021 Rusya nüfus sayımı dil tabloları](#rosstat-2021) — açık, güven: orta, ortam: ✗
 - [Sibirya Dilleri — Rusya Bilimler Akademisi Etnoloji Enstitüsü](#lingsib) — açık, güven: orta, ortam: ✗
 - [UNESCO World Atlas of Languages](#unesco-wal) — açık, güven: orta, ortam: ✗
@@ -144,33 +189,38 @@ Toplam **79 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı di
 
 ### Sıklık listeleri ve kavram listeleri
 
-- [Concepticon — kavram listeleri veritabanı](#concepticon) — açık, güven: yüksek, ortam: ✗
-- [Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)](#dybo-2013) — açık, güven: yüksek, ortam: ✗
+- [Concepticon — kavram listeleri veritabanı](#concepticon) — açık, güven: yüksek, ortam: ✓
+- [Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)](#dybo-2013) — açık, güven: yüksek, ortam: ✓
 - [Kazak Dili Ulusal Derlemi](#qazcorpus) — kısmen, güven: yüksek, ortam: ✗
 - [Tatar Ulusal Derlemi "Tugan Tel" ve Yazılı Tatarca Derlemi](#tugan-tel) — açık, güven: yüksek, ortam: ✗
 - [Türkçe Ulusal Derlemi (TNC) ve Türkçe Sıklık Sözlüğü](#tnc) — kısmen, güven: yüksek, ortam: ✗
 - [En sık 1000 kelime açısından modern Türk dilleri (Türkiye, Azerbaycan, Kazak, Kırgız, Özbek)](#en-sik-1000) — açık, güven: orta, ortam: ✗
 - [Kırım Tatarcası Ulusal Derlemi ve sözlükleri](#kirim-tatar-derlem) — açık, güven: orta, ortam: ✗
 - [Leipzig Corpora Collection — kelime sıklık listeleri](#leipzig-corpora) — açık, güven: orta, ortam: ✗
-- [OpenSubtitles tabanlı sıklık listeleri (hermitdave/FrequencyWords, orgtre/top-open-subtitles-sentences)](#opensubtitles-siklik) — açık, güven: orta, ortam: ✗
+- [OpenSubtitles tabanlı sıklık listeleri (hermitdave/FrequencyWords, orgtre/top-open-subtitles-sentences)](#opensubtitles-siklik) — açık, güven: orta, ortam: ✓
 - [Sketch Engine — Turkic web corpora](#sketch-engine-turk) — ücretli, güven: orta, ortam: ✗
-- [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✗
+- [Tatarca Ulusal Derlemi (corpus.tatar)](#tatar-derlem) — açık, güven: orta, ortam: ✗
+- [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✓
 - [Wiktionary — Türk dilleri Swadesh listeleri](#wiktionary-swadesh) — açık, güven: orta, ortam: ✓
+- [translate.chv.su — Çuvaşça-Rusça derlem, çeviri ve sözlük (Plotnikov)](#cuvasca-ceviri) — açık, güven: orta, ortam: ✗
 
 ### Ses denklikleri
 
+- [ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)](#turkbv) — açık, güven: yüksek, ortam: ✗
 - [Johanson & Csató (ed.) — The Turkic Languages (2. baskı, 2021)](#johanson-csato) — ücretli, güven: yüksek, ortam: ✗
+- [Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi, TurkLib)](#sovet-turkologiya) — açık, güven: yüksek, ortam: ✗
 - [StarLing — Türk etimoloji veritabanı (Starostin, Dybo, Mudrak)](#starling) — açık, güven: yüksek, ortam: ✓
-- [Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)](#unal-2026) — açık, güven: yüksek, ortam: ✗
+- [Ünal — A Compendium of Common Turkic–Chuvash Lexical Correspondences with Proto-Turkic Reconstructions (2026)](#unal-2026) — açık, güven: yüksek, ortam: ✓
 - [Сравнительно-историческая грамматика тюркских языков (Tenishev, 1984–2006)](#tenishev) — basılı, güven: yüksek
-- [Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)](#estja) — kısmen, güven: yüksek, ortam: ✗
-- [Monumenta Altaica — Türkoloji e-kütüphanesi](#altaica-kutuphane) — açık, güven: orta, ortam: ✗
+- [Этимологический словарь тюркских языков (ЭСТЯ, Sevortyan ve devamı)](#estja) — kısmen, güven: yüksek, ortam: ✓
+- [Monumenta Altaica — Türkoloji e-kütüphanesi](#altaica-kutuphane) — açık, güven: orta, ortam: ✓
 - [Sino-Platonic Papers 325 — Proto-Turkic consonants](#proto-turkic-unsuzler) — açık, güven: orta, ortam: ✗
 - [Wiktionary — About Proto-Turkic (yazım ve kuruluş kuralları)](#wiktionary-hakkinda) — açık, güven: orta, ortam: ✓
 
 ### Ortak alfabe ve yazım
 
 - [Ortak Türk Alfabesi (Türk Devletleri Teşkilatı, 2024)](#ortak-turk-alfabesi) — açık, güven: yüksek, ortam: ✗
+- [TurkicNLP — Türk dilleri için doğal dil işleme araç takımı](#turkicnlp) — açık, güven: orta, ortam: ✗
 
 ### Dilbilgisi (Aşama 3)
 
@@ -179,28 +229,40 @@ Toplam **79 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı di
 - [Kaşkayca — Dolatkhah 2019, Qashqai Turkic (derlem tabanlı dilbilgisi)](#kaskayca) — basılı, güven: yüksek
 - [WOWA — Word Order in Western Asia derlemi (Bamberg)](#wowa) — açık, güven: yüksek, ortam: ✗
 - [Сравнительно-историческая грамматика тюркских языков (Tenishev, 1984–2006)](#tenishev) — basılı, güven: yüksek
+- [til.im — Kumukça kitaplar ve sözlükler](#kumuk-kaynaklari) — açık, güven: orta, ortam: ✗
 
 ### Toplu, makinece okunabilir veri
 
-- [Concepticon — kavram listeleri veritabanı](#concepticon) — açık, güven: yüksek, ortam: ✗
-- [NorthEuraLex](#northeuralex) — açık, güven: yüksek, ortam: ✗
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✗
-- [ASJP Database (Automated Similarity Judgment Program)](#asjp) — açık, güven: orta, ortam: ✗
-- [Apertium — Türk dilleri çeviri çiftleri ve sözlükleri](#apertium) — açık, güven: orta, ortam: ✗
-- [Elegant Lexicon — Turkic database (C. A. Straughn)](#elegant-lexicon) — açık, güven: orta, ortam: ✗
+- [Concepticon — kavram listeleri veritabanı](#concepticon) — açık, güven: yüksek, ortam: ✓
+- [NorthEuraLex](#northeuralex) — açık, güven: yüksek, ortam: ✓
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](#savelyev-turkic) — açık, güven: yüksek, ortam: ✓
+- [ASJP Database (Automated Similarity Judgment Program)](#asjp) — açık, güven: orta, ortam: ✓
+- [Apertium — Türk dilleri çeviri çiftleri ve sözlükleri](#apertium) — açık, güven: orta, ortam: ✓
+- [Elegant Lexicon — Turkic database (C. A. Straughn)](#elegant-lexicon) — açık, güven: orta, ortam: ✓
 - [Leipzig Corpora Collection — kelime sıklık listeleri](#leipzig-corpora) — açık, güven: orta, ortam: ✗
-- [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✗
-- [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✗
+- [Robbeets vd. 2021 — Triangulation (Transeurasian) veri seti](#robbeets-2021) — açık, güven: orta, ortam: ✗
+- [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✓
+- [TurkicNLP — Türk dilleri için doğal dil işleme araç takımı](#turkicnlp) — açık, güven: orta, ortam: ✗
+- [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✓
+- [neurotatarlar/tt-dictionaries — Tatarca sözlükler veri seti](#tatar-sozluk-veri) — açık, güven: orta, ortam: ✗
 - [PanLex](#panlex) — açık, güven: düşük, ortam: ✗
 
 ### Makaleler ve bibliyografya
 
-- [Glottolog](#glottolog) — açık, güven: yüksek, ortam: ✗
+- [Azerbaycanca kaynaklar (Azərbaycan dilinin izahlı lüğəti, dilcilik.az)](#azerbaycan-kaynaklari) — kısmen, güven: yüksek, ortam: ✗
+- [Glottolog](#glottolog) — açık, güven: yüksek, ortam: ✓
+- [Göttingen Bilimler Akademisi — Altuigurisches Wörterbuch projesi](#gottingen-altuygur) — açık, güven: yüksek, ortam: ✗
+- [ILCAA çevrim içi kaynak portalı (Tokyo)](#ilcaa-kaynaklari) — açık, güven: yüksek, ortam: ✗
+- [KOHD — Almanya'daki Eski Uygurca el yazmaları kataloğu](#kohd-eski-uygurca) — açık, güven: yüksek, ortam: ✗
+- [RBA Sibirya Şubesi Filoloji Enstitüsü (Novosibirsk) — dergiler ve e-kitaplık](#nsc-filoloji) — açık, güven: yüksek, ortam: ✗
+- [Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi, TurkLib)](#sovet-turkologiya) — açık, güven: yüksek, ortam: ✗
 - [Türk Dili Araştırmaları Yıllığı — Belleten](#tdk-belleten) — açık, güven: yüksek, ortam: ✗
-- [Uluslararası Türk Lehçe Araştırmaları Dergisi (TÜRKLAD)](#turklad) — açık, güven: yüksek, ortam: ✗
-- [DergiPark](#dergipark) — açık, güven: orta, ortam: ✗
+- [Uluslararası Türk Lehçe Araştırmaları Dergisi (TÜRKLAD)](#turklad) — açık, güven: yüksek, ortam: ✓
+- [DergiPark](#dergipark) — açık, güven: orta, ortam: ✓
 - [Endangered Languages Project](#elp) — açık, güven: orta, ortam: ✗
-- [Monumenta Altaica — Türkoloji e-kütüphanesi](#altaica-kutuphane) — açık, güven: orta, ortam: ✗
+- [Monumenta Altaica — Türkoloji e-kütüphanesi](#altaica-kutuphane) — açık, güven: orta, ortam: ✓
+- [Novye issledovaniya Tuvy (Tuva üzerine yeni araştırmalar) dergisi](#tuva-dergi) — açık, güven: orta, ortam: ✗
+- [YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler](#yok-acik-bilim) — kısmen, güven: orta, ortam: ✗
 
 ## Dile göre
 
@@ -208,50 +270,50 @@ Yalnızca o dili **özellikle** kapsayan kaynaklar. Bütün diller için geçerl
 
 | Dil | Kaynaklar |
 |---|---|
-| Çuvaşça (`chv`) | [cuvasca-asmarin](#cuvasca-asmarin), [northeuralex](#northeuralex), [ronatas-bati-eski-turkce](#ronatas-bati-eski-turkce), [unal-2026](#unal-2026), [apertium](#apertium), [rosstat-2021](#rosstat-2021) |
-| Halaçça (`klj`) | [halacca](#halacca), [wold-halac](#wold-halac), [elegant-lexicon](#elegant-lexicon), [freelang](#freelang) |
-| Türkiye Türkçesi (`tur`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [tdk-portal](#tdk-portal), [tietze](#tietze), [tnc](#tnc), [wowa](#wowa), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [nisanyan](#nisanyan), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim) |
+| Çuvaşça (`chv`) | [cuvasca-asmarin](#cuvasca-asmarin), [northeuralex](#northeuralex), [ronatas-bati-eski-turkce](#ronatas-bati-eski-turkce), [unal-2026](#unal-2026), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [cuvasca-ceviri](#cuvasca-ceviri) |
+| Halaçça (`klj`) | [halacca](#halacca), [iran-dil-atlasi](#iran-dil-atlasi), [wold-halac](#wold-halac), [elegant-lexicon](#elegant-lexicon), [freelang](#freelang) |
+| Türkiye Türkçesi (`tur`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [tdk-portal](#tdk-portal), [tietze](#tietze), [tnc](#tnc), [wowa](#wowa), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [nisanyan](#nisanyan), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
 | Gagavuzca (`gag`) | [freelang](#freelang), [gagavuzca](#gagavuzca) |
 | Balkan Gagavuz Türkçesi (`bgx`) | *özel kaynak bulunamadı* |
-| Azerbaycan Türkçesi (`aze`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [wowa](#wowa), [apertium](#apertium), [elegant-lexicon](#elegant-lexicon), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang) |
+| Azerbaycan Türkçesi (`aze`) | [azerbaycan-kaynaklari](#azerbaycan-kaynaklari), [scil-2026](#scil-2026), [iran-dil-atlasi](#iran-dil-atlasi), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [wowa](#wowa), [apertium](#apertium), [elegant-lexicon](#elegant-lexicon), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
 | Irak Türkmencesi (Kerkük) (`kerkuk`) | *özel kaynak bulunamadı* |
-| Kaşkayca (`qxq`) | [kaskayca](#kaskayca), [wowa](#wowa), [elegant-lexicon](#elegant-lexicon) |
-| Türkmence (`tuk`) | [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turkmen-sozluk](#turkmen-sozluk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang) |
-| Horasan Türkçesi (`kmz`) | [elegant-lexicon](#elegant-lexicon) |
-| Salarca (`slr`) | [salarca](#salarca) |
-| Tatarca (`tat`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [tugan-tel](#tugan-tel), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [turk-akademisi-terim](#turk-akademisi-terim) |
-| Başkurtça (`bak`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [turk-akademisi-terim](#turk-akademisi-terim) |
+| Kaşkayca (`qxq`) | [iran-dil-atlasi](#iran-dil-atlasi), [kaskayca](#kaskayca), [wowa](#wowa), [elegant-lexicon](#elegant-lexicon) |
+| Türkmence (`tuk`) | [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turkmen-etimoloji](#turkmen-etimoloji), [turkmen-sozluk](#turkmen-sozluk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
+| Horasan Türkçesi (`kmz`) | [iran-dil-atlasi](#iran-dil-atlasi), [elegant-lexicon](#elegant-lexicon) |
+| Salarca (`slr`) | [salarca](#salarca), [cin-turk-dilleri](#cin-turk-dilleri) |
+| Tatarca (`tat`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [tugan-tel](#tugan-tel), [tatar-akademi-sozluk](#tatar-akademi-sozluk), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [tatar-derlem](#tatar-derlem), [turk-akademisi-terim](#turk-akademisi-terim), [tatar-sozluk-veri](#tatar-sozluk-veri), [lehceler-com](#lehceler-com) |
+| Başkurtça (`bak`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
 | Kırım Tatarcası (`crh`) | [apertium](#apertium), [kirim-tatar-derlem](#kirim-tatar-derlem), [lexilogos](#lexilogos) |
 | Karayca (`kdr`) | [karay-sozluk](#karay-sozluk) |
 | Kırımçakça (`jct`) | *özel kaynak bulunamadı* |
 | Urumca (`uum`) | *özel kaynak bulunamadı* |
-| Kumukça (`kum`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [freelang](#freelang) |
+| Kumukça (`kum`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [kumuk-kaynaklari](#kumuk-kaynaklari), [freelang](#freelang) |
 | Karaçay-Malkarca (`krc`) | [rosstat-2021](#rosstat-2021) |
-| Kazakça (`kaz`) | [scil-2026](#scil-2026), [qazcorpus](#qazcorpus), [northeuralex](#northeuralex), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [sozdik](#sozdik) |
+| Kazakça (`kaz`) | [scil-2026](#scil-2026), [qazcorpus](#qazcorpus), [northeuralex](#northeuralex), [kazak-15-cilt](#kazak-15-cilt), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [sozdik](#sozdik), [lehceler-com](#lehceler-com) |
 | Karakalpakça (`kaa`) | [apertium](#apertium) |
 | Nogayca (`nog`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [freelang](#freelang) |
-| Sibirya Tatarcası (`sty`) | [rosstat-2021](#rosstat-2021) |
-| Kırgızca (`kir`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [el-sozduk](#el-sozduk), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim) |
-| Güney Altayca (`alt`) | [elar](#elar), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [rosstat-2021](#rosstat-2021) |
-| Özbekçe (`uzb`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [ozbek-kaynaklari](#ozbek-kaynaklari), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim) |
-| Uygurca (`uig`) | [scil-2026](#scil-2026), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang) |
+| Sibirya Tatarcası (`sty`) | [sibirya-tatar-agiz](#sibirya-tatar-agiz), [nsc-filoloji](#nsc-filoloji), [rosstat-2021](#rosstat-2021) |
+| Kırgızca (`kir`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [el-sozduk](#el-sozduk), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
+| Güney Altayca (`alt`) | [elar](#elar), [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [rosstat-2021](#rosstat-2021) |
+| Özbekçe (`uzb`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [ozbek-izohli](#ozbek-izohli), [ozbek-etimoloji](#ozbek-etimoloji), [ozbek-kaynaklari](#ozbek-kaynaklari), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
+| Uygurca (`uig`) | [scil-2026](#scil-2026), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
 | İli Türkçesi (`ili`) | *özel kaynak bulunamadı* |
-| Sahaca (Yakutça) (`sah`) | [northeuralex](#northeuralex), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [sakhatyla](#sakhatyla) |
+| Sahaca (Yakutça) (`sah`) | [khabtagaeva](#khabtagaeva), [northeuralex](#northeuralex), [nsc-filoloji](#nsc-filoloji), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [sakhatyla](#sakhatyla) |
 | Dolganca (`dlg`) | [rosstat-2021](#rosstat-2021) |
-| Sarı Uygurca (`ybe`) | [elar](#elar) |
-| Tuvaca (`tyv`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [tuva-sozluk](#tuva-sozluk), [freelang](#freelang) |
-| Tofaca (`kim`) | [elar](#elar), [rosstat-2021](#rosstat-2021), [lingsib](#lingsib), [tuva-sozluk](#tuva-sozluk) |
-| Duhaca (Tsaatan) (`duha`) | *özel kaynak bulunamadı* |
-| Soyotça (`soyot`) | [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021), [lingsib](#lingsib) |
-| Hakasça (`kjh`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [rosstat-2021](#rosstat-2021), [freelang](#freelang) |
-| Şorca (`cjs`) | [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021) |
-| Çulımca (`clw`) | [elar](#elar), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021), [tuva-sozluk](#tuva-sozluk) |
-| Fuyu Kırgızcası (`fuyu`) | *özel kaynak bulunamadı* |
-| Kuzey Altayca (`atv`) | [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [rosstat-2021](#rosstat-2021) |
-| Eski Türkçe (Göktürk ve Uygur metinleri) (`otk`) | [clauson](#clauson), [wilkens-eski-uygurca](#wilkens-eski-uygurca), [dts](#dts), [turik-bitig](#turik-bitig) |
+| Sarı Uygurca (`ybe`) | [elar](#elar), [cin-turk-dilleri](#cin-turk-dilleri) |
+| Tuvaca (`tyv`) | [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [apertium](#apertium), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [tuva-sozluk](#tuva-sozluk), [freelang](#freelang) |
+| Tofaca (`kim`) | [elar](#elar), [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [lingsib](#lingsib), [tuva-sozluk](#tuva-sozluk) |
+| Duhaca (Tsaatan) (`duha`) | [tuva-dergi](#tuva-dergi) |
+| Soyotça (`soyot`) | [atlaskmns](#atlaskmns), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [lingsib](#lingsib) |
+| Hakasça (`kjh`) | [khabtagaeva](#khabtagaeva), [northeuralex](#northeuralex), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [rosstat-2021](#rosstat-2021), [freelang](#freelang) |
+| Şorca (`cjs`) | [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021) |
+| Çulımca (`clw`) | [elar](#elar), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021), [tuva-sozluk](#tuva-sozluk) |
+| Fuyu Kırgızcası (`fuyu`) | [cin-turk-dilleri](#cin-turk-dilleri) |
+| Kuzey Altayca (`atv`) | [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [rosstat-2021](#rosstat-2021) |
+| Eski Türkçe (Göktürk ve Uygur metinleri) (`otk`) | [turfan-bbaw](#turfan-bbaw), [clauson](#clauson), [gottingen-altuygur](#gottingen-altuygur), [kohd-eski-uygurca](#kohd-eski-uygurca), [wilkens-eski-uygurca](#wilkens-eski-uygurca), [dts](#dts), [turik-bitig](#turik-bitig) |
 | Volga Bulgarcası (`xbo`) | [erdal-volga-bulgar](#erdal-volga-bulgar), [ronatas-bati-eski-turkce](#ronatas-bati-eski-turkce) |
 | Karahanlıca (Dîvânu Lugâti't-Türk, Kutadgu Bilig) (`xqa`) | [boeschoten](#boeschoten), [clauson](#clauson), [dlt](#dlt), [dts](#dts) |
-| Kuman-Kıpçakça (Codex Cumanicus, Memlük Kıpçakçası) (`qwm`) | [boeschoten](#boeschoten), [codex-cumanicus](#codex-cumanicus) |
+| Kuman-Kıpçakça (Codex Cumanicus, Memlük Kıpçakçası) (`qwm`) | [boeschoten](#boeschoten), [codex-cumanicus](#codex-cumanicus), [gronbech-kuman](#gronbech-kuman) |
 | Eski Anadolu Türkçesi (`eski-anadolu`) | [tdk-portal](#tdk-portal), [tietze](#tietze) |
 | Harezm Türkçesi ve Çağatayca (`chg`) | [boeschoten](#boeschoten), [akvius-cagatayca](#akvius-cagatayca) |
 
@@ -262,15 +324,17 @@ Yalnızca o dili **özellikle** kapsayan kaynaklar. Bütün diller için geçerl
 <a id="clauson"></a>
 #### Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)
 
-<https://archive.org/details/etymologicaldict00clau>
+<
+https://archive.org/details/sir-gerard-clauson-an-etymological-dictionary-of-pre-thirteenth-century-turkish->
 
 13. yüzyıl öncesi Türkçenin (Eski Türkçe, Karahanlıca) temel etimoloji sözlüğü.
 
-**Nasıl kullanılır:** Internet Archive'da ödünç alınabilir tarama; ayrı dizin cildi (Szeged 1981).
+**Nasıl kullanılır:** Internet Archive'da tam tarama (PDF ve metin). Madde başları Clauson'un kendi sırasıyla dizili (ünsüz iskeletine göre). Bu yüzden önce ayrı dizin cildine (Szeged 1981, Studia Uralo-Altaica) ya da PDF'in metin aramasına bak.
 
 - **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri), Karahanlıca (Dîvânu Lugâti't-Türk, Kutadgu Bilig)
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Tarihî tanık biçimleri
-- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (archive.org)
+- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: eski adres (etymologicaldict00clau) 404 veriyordu; yeni archive.org kaydı açıldı (HTTP 200).
 - **Kimlik:** `clauson`
 
 <a id="dybo-2013"></a>
@@ -284,8 +348,37 @@ Temel söz varlığının (Swadesh tipi) etimoloji sözlüğü; Aşama 1 için b
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Sıklık listeleri ve kavram listeleri
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (altaica.ru)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: PDF indirildi (HTTP 200, ~22 MB).
 - **Kimlik:** `dybo-2013`
+
+<a id="khabtagaeva"></a>
+#### Khabtagaeva — Sibirya Türk dillerinde Moğolca ödünçler
+
+<https://search.worldcat.org/search?q=Khabtagaeva+Mongolic+elements+in+Tuvan>
+
+Khabtagaeva 2009, Mongolic Elements in Tuvan (Harrassowitz) ve 2019, Language Contact in Siberia (Brill). Tuvaca ve komşularındaki Moğolca ödünçlerin katmanları.
+
+**Nasıl kullanılır:** Basılı. Sibirya dillerinde bir biçimin Türkçe mi Moğolca ödünç mü olduğunu ayırmak için.
+
+- **Diller:** Tuvaca, Sahaca (Yakutça), Güney Altayca, Hakasça, Tofaca
+- **İşe yaradığı yer:** Ödünç ve miras ayrımı (özellikle Çuvaşça)
+- **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
+- **Kimlik:** `khabtagaeva`
+
+<a id="ozbek-etimoloji"></a>
+#### Rahmatullayev — O'zbek tilining etimologik lug'ati
+
+<https://search.worldcat.org/search?q=O%27zbek+tilining+etimologik+lug%27ati>
+
+Özbekçenin etimoloji sözlüğü (Türkçe kökenli kelimeler, Farsça ve Arapça alıntılar ayrı ciltlerde; 2000–2009).
+
+**Nasıl kullanılır:** Basılı; Özbekistan kütüphanelerinde elektronik kopyalar. Özbekçenin Farsça alıntılarını ayıklamak için.
+
+- **Diller:** Özbekçe
+- **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Ödünç ve miras ayrımı (özellikle Çuvaşça)
+- **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
+- **Kimlik:** `ozbek-etimoloji`
 
 <a id="rasanen"></a>
 #### Räsänen — Versuch eines etymologischen Wörterbuchs der Türksprachen (1969)
@@ -313,7 +406,8 @@ Türk dilleri etimoloji veritabanı (turcet); Ana Türkçe kuruluşlar, dillerde
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Ses denklikleri
 - **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
-- **Not:** Denemede sunucu 504 (zaman aşımı) verdi; sonra tekrar denenmeli. Altay dil ailesi hipotezine dayanır: yalnızca Türk dilleri kısmı kullanılmalı.
+- **Doğrulama:** 2026-11-12: ana sayfa açıldı (HTTP 200). Veritabanı sorguları (cgi-bin) zaman zaman 502/504 veriyor; sunucu tarafı sorun, birkaç dakika sonra yeniden dene. starling.rinet.ru eski adres.
+- **Not:** Altay dil ailesi hipotezine dayanır: yalnızca Türk dilleri kısmı kullanılmalı.
 - **Kimlik:** `starling`
 
 <a id="tietze"></a>
@@ -328,6 +422,7 @@ Türk dilleri etimoloji veritabanı (turcet); Ana Türkçe kuruluşlar, dillerde
 - **Diller:** Türkiye Türkçesi, Eski Anadolu Türkçesi
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Tarihî tanık biçimleri, Ağız verisi
 - **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
+- **Not:** Kıbrıs ağzı verileri üzerine bir inceleme: akmb.gov.tr (Emine Yılmaz). TÜBA'nın tanıtım PDF'i tuba.gov.tr/files/images/2020/tietze 10 cilt/ altında.
 - **Kimlik:** `tietze`
 
 <a id="unal-2026"></a>
@@ -341,7 +436,8 @@ Ortak Türkçe ile Çuvaşça arasındaki ortak kökenli kelimelerin derlemesi, 
 
 - **Diller:** Çuvaşça, bütün diller
 - **İşe yaradığı yer:** Ödünç ve miras ayrımı (özellikle Çuvaşça), Ana Türkçe kuruluşu ve etimoloji, Ses denklikleri
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (univerlag.uni-goettingen.de)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: yayınevi sayfası açıldı (HTTP 200); PDF bağlantısı sayfada.
 - **Kimlik:** `unal-2026`
 
 <a id="estja"></a>
@@ -355,8 +451,9 @@ Türk dillerinin en kapsamlı etimoloji sözlüğü. Cilt 1 (ünlüyle başlayan
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Ses denklikleri
-- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (altaica.ru)
-- **Not:** altaica.ru izinli değil. Taramaların telif durumu belirsiz.
+- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: dizin sayfası açıldı (HTTP 200). Ciltler PDF olarak altaica.ru/LIBRARY/ESTJA/ altında (estja1.pdf … Estja7.pdf).
+- **Not:** Taramaların telif durumu belirsiz.
 - **Kimlik:** `estja`
 
 <a id="edal"></a>
@@ -385,9 +482,25 @@ Türkiye Türkçesi kelimelerinin kökeni, ilk tanıklıkları.
 
 - **Diller:** Türkiye Türkçesi
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Ödünç ve miras ayrımı (özellikle Çuvaşça)
-- **Erişim:** kısmen · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.nisanyansozluk.com)
-- **Not:** Türkçe kökenler konusunda eleştirileri var; Eren, Gülensoy, Tietze ile karşılaştır.
+- **Erişim:** kısmen · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200).
+- **Not:** Türkçe etimolojide hızlı ilk bakış. Türk dilleri arası köken bağlantılarında tek başına kullanma; Clauson, ESTJa ya da Tietze ile denetle.
 - **Kimlik:** `nisanyan`
+
+<a id="turkmen-etimoloji"></a>
+#### Türkmence etimoloji ve açıklamalı sözlükler (Atanyýazow; Türkmen diliniň düşündirişli sözlügi)
+
+<https://search.worldcat.org/search?q=T%C3%BCrkmen+dilini%C5%88+s%C3%B6zl%C3%BCgi>
+
+S. Atanyýazow'un Türkmence etimoloji ve ad sözlükleri; Türkmen diliniň düşündirişli sözlügi (2 cilt). Türkmence ağızlar için Türkmen diliniň dialektlerinin atlası.
+
+**Nasıl kullanılır:** Basılı; Türkiye kütüphanelerinde Türkçe çevirileri de var.
+
+- **Diller:** Türkmence
+- **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Ağız verisi
+- **Erişim:** basılı · **Biçim:** basili · **Güven:** orta · **Durum:** basılı · **Ortam:** —
+- **Not:** Künyeler kütüphane kataloğundan denetlenmeli.
+- **Kimlik:** `turkmen-etimoloji`
 
 <a id="wiktionary-hakkinda"></a>
 #### Wiktionary — About Proto-Turkic (yazım ve kuruluş kuralları)
@@ -401,6 +514,7 @@ Wiktionary'nin Ana Türkçe kuruluşlarında kullandığı yazım ve ses kuralla
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Ses denklikleri
 - **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: Wikimedia hız sınırı (HTTP 429). Önceki denemede açılmıştı; ardışık isteklerde 1-2 saniye bekle, ya da kaikki dökümünü kullan.
 - **Kimlik:** `wiktionary-hakkinda`
 
 <a id="wiktionary-ana-turkce"></a>
@@ -415,10 +529,26 @@ Ana Türkçe yeniden kuruluşları ve her maddenin altında torun dillerdeki bi�
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: kategori sayfası açıldı (HTTP 200). Madde ham metni ?action=raw ile alınıyor (ben, sen, o bu yolla araştırıldı).
 - **Not:** Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir.
 - **Kimlik:** `wiktionary-ana-turkce`
 
 ### Karşılaştırmalı veri setleri
+
+<a id="turkbv"></a>
+#### ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)
+
+<https://turkbv.aa-ken.jp/>
+
+Türk dillerinde temel söz varlığı listeleri, konuşur ses kayıtlarıyla. Aynı merkezin Moğolca karşılığı mongolicbv.aa-ken.jp; Moğolca ödünçleri ayırmak için yan yana kullanılabilir.
+
+**Nasıl kullanılır:** Web arayüzünde kavram ya da dil seçilir. Kaynak portalı: online-resources.aa-ken.jp.
+
+- **Diller:** bütün diller
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Örgü: benzerlik ve anlaşılırlık değerleri, Ses denklikleri
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (turkbv.aa-ken.jp)
+- **Not:** Hangi dilleri kapsadığı ortama eklenip denetlenmeli (Japonca aramada bulundu).
+- **Kimlik:** `turkbv`
 
 <a id="wold-halac"></a>
 #### Lexical copies in Khalaj — World Loanword Database (WOLD) katkısı
@@ -445,7 +575,8 @@ Halaççadaki ödünç kelimeler (Farsça, Azerbaycan Türkçesi…).
 
 - **Diller:** Türkiye Türkçesi, Azerbaycan Türkçesi, Kazakça, Özbekçe, Tatarca, Başkurtça, Çuvaşça, Sahaca (Yakutça), Hakasça, Kırgızca
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri, Toplu, makinece okunabilir veri, Yaşayan dillerde biçim toplama
-- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (lexibank.clld.org)
+- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: lexibank katkı sayfası açıldı (HTTP 200).
 - **Not:** Kapsanan Türk dillerinin tam listesi doğrulanmadı.
 - **Kimlik:** `northeuralex`
 
@@ -456,11 +587,12 @@ Halaççadaki ödünç kelimeler (Farsça, Azerbaycan Türkçesi…).
 
 Macarcaya Batı Eski Türkçeden (Oğur) geçmiş kelimeler. Oğur kolunun tarihî kanıtı olarak Hedef 2'ye ek tanık sağlar.
 
-**Nasıl kullanılır:** Makinece okunabilir veri seti (CLDF).
+**Nasıl kullanılır:** Makinece okunabilir veri seti (CLDF). Ham dosyalar: https://raw.githubusercontent.com/LoanpyDataHub/ronataswestoldturkic/main/ (GitHub HTML sayfaları bu ortamda 403). Basılı eser: Róna-Tas & Berta 2011, West Old Turkic: Turkic Loanwords in Hungarian (Harrassowitz). Daha eski temel eser: Gombocz 1912, Die bulgarisch-türkischen Lehnwörter in der ungarischen Sprache.
 
 - **Diller:** Çuvaşça, Volga Bulgarcası
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ödünç ve miras ayrımı (özellikle Çuvaşça), Ana Türkçe kuruluşu ve etimoloji
-- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (github.com)
+- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: README raw üzerinden okundu (HTTP 200).
 - **Kimlik:** `ronatas-bati-eski-turkce`
 
 <a id="savelyev-turkic"></a>
@@ -470,12 +602,13 @@ Macarcaya Batı Eski Türkçeden (Oğur) geçmiş kelimeler. Oğur kolunun tarih
 
 32 Türk dilinde 254 temel kavram (Leipzig-Jakarta + Jena 200). Her kelimenin akrabalık sınıfı ses denkliklerine göre belirlenmiş; açık ödünçler ayıklanmış. Savelyev & Robbeets 2020, Journal of Language Evolution 5(1).
 
-**Nasıl kullanılır:** CLDF biçimi (forms.csv, cognates.csv, languages.csv). Zenodo sürümleri v1.0–v2.1. Örgüyü (ag.yaml) veriden hesaplamak ve kök yaşını denetlemek için birebir.
+**Nasıl kullanılır:** CLDF biçimi (cldf/forms.csv, cognates.csv, languages.csv). Bu ortamdan GitHub HTML sayfaları 403 verir; dosyaları ham adresten çek: https://raw.githubusercontent.com/lexibank/savelyevturkic/master/cldf/forms.csv. Zenodo sürümleri v1.0–v2.1. Örgüyü (ag.yaml) veriden hesaplamak ve kök yaşını denetlemek için birebir.
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri, Toplu, makinece okunabilir veri, Yaşayan dillerde biçim toplama, Ana Türkçe kuruluşu ve etimoloji, Ödünç ve miras ayrımı (özellikle Çuvaşça)
-- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (github.com)
-- **Not:** github.com ve zenodo.org bu ortamda izinli değil.
+- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: raw.githubusercontent.com üzerinden master dalı okundu (HTTP 200); 'main' dalı yok (404).
+- **Not:** Biçimlerin her biri kendi kaynağına bağlı (sources.bib); 32 dilin listesi languages.csv'de.
 - **Kimlik:** `savelyev-turkic`
 
 <a id="asjp"></a>
@@ -489,7 +622,8 @@ Dünyanın dilleri için 40 kavramlık kararlı kelime listeleri (sürüm 21, 20
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri, Toplu, makinece okunabilir veri
-- **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (asjp.clld.org)
+- **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200). Dil sayfaları ör. asjp.clld.org/languages/QASHQAI_2, OLD_TURKIC, ILI_TURKI.
 - **Kimlik:** `asjp`
 
 <a id="apertium"></a>
@@ -503,7 +637,8 @@ Açık lisanslı tek dilli biçimbirim sözlükleri ve iki dilli sözlükler (.d
 
 - **Diller:** Kazakça, Kırgızca, Tatarca, Başkurtça, Çuvaşça, Sahaca (Yakutça), Tuvaca, Kırım Tatarcası, Kumukça, Karakalpakça, Nogayca, Özbekçe, Uygurca, Türkiye Türkçesi, Azerbaycan Türkçesi, Türkmence
 - **İşe yaradığı yer:** Toplu, makinece okunabilir veri, Yaşayan dillerde biçim toplama
-- **Erişim:** açık · **Biçim:** git · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (github.com)
+- **Erişim:** açık · **Biçim:** git · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: github.com HTML sayfası 403 (oturumun GitHub kapsamı). Depolardaki .dix dosyaları raw.githubusercontent.com/apertium/<depo>/master/ üzerinden okunabilir.
 - **Not:** Liste örnektir; hangi çiftlerin bulunduğu depolardan doğrulanmalı.
 - **Kimlik:** `apertium`
 
@@ -518,8 +653,24 @@ Açık lisanslı tek dilli biçimbirim sözlükleri ve iki dilli sözlükler (.d
 
 - **Diller:** bütün diller, Kaşkayca, Azerbaycan Türkçesi, Horasan Türkçesi, Halaçça
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Toplu, makinece okunabilir veri
-- **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (turkic.elegantlexicon.com)
+- **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200).
 - **Kimlik:** `elegant-lexicon`
+
+<a id="robbeets-2021"></a>
+#### Robbeets vd. 2021 — Triangulation (Transeurasian) veri seti
+
+<https://clics.clld.org/languages/1687>
+
+Nature 2021 makalesinin temel söz varlığı verisi (CLDF; CLICS'te). Türk dillerinin eski biçimlerini Moğol, Tunguz, Kore ve Japon dilleriyle karşılaştırır.
+
+**Nasıl kullanılır:** Ana Türkçe ötesine gitmek için değil, bir kökün Moğolca ile paylaşılıp paylaşılmadığını görmek için (ödünç şüphesi).
+
+- **Diller:** bütün diller
+- **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Toplu, makinece okunabilir veri
+- **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (clics.clld.org)
+- **Not:** Transeurasian (Altay) akrabalığı tartışmalıdır; Hedef 2 için kanıt sayılmaz.
+- **Kimlik:** `robbeets-2021`
 
 <a id="kaikki"></a>
 #### kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)
@@ -532,9 +683,25 @@ Açık lisanslı tek dilli biçimbirim sözlükleri ve iki dilli sözlükler (.d
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Toplu, makinece okunabilir veri, Yaşayan dillerde biçim toplama, Ana Türkçe kuruluşu ve etimoloji
-- **Erişim:** açık · **Biçim:** json · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (kaikki.org)
-- **Not:** Bu ortamda kaikki.org izinli değil; kullanmak için ortama eklenmeli.
+- **Erişim:** açık · **Biçim:** json · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: indirme sayfası açıldı (HTTP 200).
+- **Not:** Türk dilleri kapsamı (2026-11): Türkçe, Azerbaycanca, Türkmence, Gagavuzca, Kazakça, Kırgızca, Tatarca, Başkurtça, Kırım Tatarcası, Karaçay-Malkarca, Kumukça, Nogayca, Karakalpakça, Özbekçe, Uygurca, Sahaca, Tuvaca, Hakasça, Altayca, Çuvaşça ve ayrıca Ana Türkçe, Eski Türkçe, Çağatayca. Küçük dillerin dosyaları birkaç yüz maddelik olabilir. Aynı veri wiktextract (PyPI) ile kendi dökümünden de üretilebilir.
 - **Kimlik:** `kaikki`
+
+<a id="tatar-sozluk-veri"></a>
+#### neurotatarlar/tt-dictionaries — Tatarca sözlükler veri seti
+
+<https://huggingface.co/datasets/neurotatarlar/tt-dictionaries>
+
+Tatarca sözlüklerin makinece okunabilir dökümü (Hugging Face).
+
+**Nasıl kullanılır:** README'de kaynak sözlükler ve lisans; dosyalar doğrudan indirilir.
+
+- **Diller:** Tatarca
+- **İşe yaradığı yer:** Toplu, makinece okunabilir veri, Yaşayan dillerde biçim toplama
+- **Erişim:** açık · **Biçim:** json · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (huggingface.co)
+- **Not:** huggingface.co bu ortamda izinli değil.
+- **Kimlik:** `tatar-sozluk-veri`
 
 <a id="panlex"></a>
 #### PanLex
@@ -564,7 +731,8 @@ Swadesh 100/207, Leipzig-Jakarta, ASJP, Savelyev-2020-254 gibi kavram listeleri 
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Sıklık listeleri ve kavram listeleri, Toplu, makinece okunabilir veri
-- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (concepticon.clld.org)
+- **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200, sürüm 3.4.1).
 - **Kimlik:** `concepticon`
 
 <a id="wiktionary-swadesh"></a>
@@ -579,9 +747,25 @@ Ana Türkçe ve 25 dil için (Türkiye, Azerbaycan, Türkmen, Kumuk, Karaçay-Ma
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Sıklık listeleri ve kavram listeleri
 - **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200, ~1 MB tek sayfa).
 - **Kimlik:** `wiktionary-swadesh`
 
 ### Tarihî metinler ve sözlükler
+
+<a id="turfan-bbaw"></a>
+#### BBAW Turfan Araştırmaları — Eski Uygurca metinler ve sayısal arşiv
+
+<https://turfan.bbaw.de/projekt-en.html>
+
+Berlin-Brandenburg Bilimler Akademisi'nin Turfan koleksiyonu: Eski Uygurca el yazmalarının sayısal görüntüleri ve yayınları (IDP Berlin).
+
+**Nasıl kullanılır:** Metin tanığını görmek için; kelime arama için Wilkens sözlüğü daha uygun.
+
+- **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
+- **İşe yaradığı yer:** Tarihî tanık biçimleri
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (turfan.bbaw.de)
+- **Not:** Almanca aramada bulundu.
+- **Kimlik:** `turfan-bbaw`
 
 <a id="boeschoten"></a>
 #### Boeschoten — A Dictionary of Early Middle Turkic (Brill 2022)
@@ -602,13 +786,14 @@ Ana Türkçe ve 25 dil için (Türkiye, Azerbaycan, Türkmen, Kumuk, Karaçay-Ma
 
 <https://opendata.uni-halle.de/handle/1981185920/102379>
 
-Kuman-Kıpçakça tanığı. Halle baskısı (kamu malı, PDF); ayrıca Kuun 1880 baskısı (archive.org/details/codexcumanicusbi00kuunuoft) ve Ligeti'nin girişi (Hungaricana).
+Kuman-Kıpçakça tanığı. Halle baskısı (kamu malı, PDF); Kuun 1880 baskısı (archive.org/details/codexcumanicusbi00kuunuoft) ve Ligeti'nin girişi (Hungaricana). Sözlük olarak Grønbech'in Kuman Lehçesi Sözlüğü (gronbech-kuman) daha kullanışlı.
 
 **Nasıl kullanılır:** PDF'lerde kelime arama; Türkçe baskı (Argunşah & Güner) basılı.
 
 - **Diller:** Kuman-Kıpçakça (Codex Cumanicus, Memlük Kıpçakçası)
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (opendata.uni-halle.de)
+- **Doğrulama:** 2026-11-12: Kuun 1880 baskısı archive.org'da açıldı (HTTP 200). Halle adresi bu ortamda izinli değil.
 - **Kimlik:** `codex-cumanicus`
 
 <a id="erdal-volga-bulgar"></a>
@@ -624,6 +809,51 @@ Volga Bulgarcası mezar taşı yazıtlarının dili; Oğur kolunun tarihî tanı
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ödünç ve miras ayrımı (özellikle Çuvaşça)
 - **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
 - **Kimlik:** `erdal-volga-bulgar`
+
+<a id="gronbech-kuman"></a>
+#### Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)
+
+<https://archive.org/details/k.-gronbech-kuman-lehcesi-sozlugu-codex-cumani-cus>
+
+Codex Cumanicus'taki bütün Kumanca kelimelerin alfabetik sözlüğü (Grønbech 1942, Komanisches Wörterbuch; Türkçesi Kemal Aytaç, TDK 1992). Her kelimenin metindeki yazımları ve anlamı.
+
+**Nasıl kullanılır:** archive.org taramasında madde başına göre ara. qwm tanığı için ilk bakılacak yer.
+
+- **Diller:** Kuman-Kıpçakça (Codex Cumanicus, Memlük Kıpçakçası)
+- **İşe yaradığı yer:** Tarihî tanık biçimleri, Yaşayan dillerde biçim toplama
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: archive.org kaydı açıldı (HTTP 200).
+- **Kimlik:** `gronbech-kuman`
+
+<a id="gottingen-altuygur"></a>
+#### Göttingen Bilimler Akademisi — Altuigurisches Wörterbuch projesi
+
+<
+https://adw.d.sub.uni-goettingen.de/fileadmin/forschungsprojekte/altuigurisches_woerterbuch/dokumente/Gesamtbibliographie_JPL.pdf>
+
+Büyük Eski Uygurca sözlük projesi (Wilkens, Ünal vd.). Bağlantı projenin Eski Uygurca genel kaynakçası; proje sayfasında yayınlar (ör. Ünal 2026) listelenir.
+
+**Nasıl kullanılır:** Kaynakça PDF'i bir Eski Uygurca metnin yayınını bulmak için.
+
+- **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
+- **İşe yaradığı yer:** Tarihî tanık biçimleri, Ana Türkçe kuruluşu ve etimoloji, Makaleler ve bibliyografya
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (adw.d.sub.uni-goettingen.de)
+- **Kimlik:** `gottingen-altuygur`
+
+<a id="kohd-eski-uygurca"></a>
+#### KOHD — Almanya'daki Eski Uygurca el yazmaları kataloğu
+
+<
+https://orient-kohd.dl.uni-leipzig.de/content/SpecFeatures_KOHD_OldUygur_ENG_20200120.pdf>
+
+Katalogisierung der Orientalischen Handschriften in Deutschland: Eski Uygurca metin parçalarının ayrıntılı katalogları (VOHD serisi).
+
+**Nasıl kullanılır:** Leipzig Üniversitesi veritabanı; metin parçasının yayın bilgisini bulmak için.
+
+- **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
+- **İşe yaradığı yer:** Tarihî tanık biçimleri, Makaleler ve bibliyografya
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (orient-kohd.dl.uni-leipzig.de)
+- **Kimlik:** `kohd-eski-uygurca`
 
 <a id="dlt"></a>
 #### Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)
@@ -646,11 +876,12 @@ Volga Bulgarcası mezar taşı yazıtlarının dili; Oğur kolunun tarihî tanı
 
 Eski Uygurca metinlerin bütün söz varlığı; Almanca-Türkçe açıklamalı.
 
-**Nasıl kullanılır:** Göttingen Üniversitesi Yayınevi, açık erişim PDF (OAPEN).
+**Nasıl kullanılır:** Göttingen Üniversitesi Yayınevi, açık erişim PDF. Kayıt: DOAB; dosya: library.oapen.org/handle/20.500.12657/51341.
 
 - **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ana Türkçe kuruluşu ve etimoloji
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (directory.doabooks.org)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: DOAB ve OAPEN hız sınırı veriyor (HTTP 429). Aralıklı denenmeli; arama motorunda kayıt görüldü.
 - **Kimlik:** `wilkens-eski-uygurca`
 
 <a id="dts"></a>
@@ -692,24 +923,39 @@ Boeschoten'in sözlüğüne dayanan, geliştirme aşamasındaki Çağatayca aram
 
 - **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
 - **İşe yaradığı yer:** Tarihî tanık biçimleri
-- **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (bitig.kz)
+- **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: bitig.kz izinli olduğu hâlde bağlantı yanıt vermedi (zaman aşımı). Eski adres bitig.org (ISAW AWOL dizininde arşivli).
 - **Kimlik:** `turik-bitig`
 
 ### Dil sözlükleri
+
+<a id="azerbaycan-kaynaklari"></a>
+#### Azerbaycanca kaynaklar (Azərbaycan dilinin izahlı lüğəti, dilcilik.az)
+
+<https://dilcilik.az>
+
+Azərbaycan dilinin izahlı lüğəti (4 cilt, AMEA 2006) ve Azərbaycan dilinin dialektoloji lüğəti (ağız sözlüğü). dilcilik.az dilbilim kitaplığı; sözlük taramaları preslib.az koleksiyonunda.
+
+**Nasıl kullanılır:** Ağız sözlüğü Azerbaycan ağızlarını (Güney, Afşar, Karapapak) doldurmak için.
+
+- **Diller:** Azerbaycan Türkçesi, `aze-iran` (ağız)
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ağız verisi, Makaleler ve bibliyografya
+- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (dilcilik.az)
+- **Kimlik:** `azerbaycan-kaynaklari`
 
 <a id="cuvasca-asmarin"></a>
 #### Aşmarin — Thesaurus Linguae Tschuvaschorum (17 cilt)
 
 <https://openlibrary.org/works/OL3026013W>
 
-54.000'den fazla kelimelik büyük Çuvaşça sözlük; ağız biçimleri dahil. 2014 dizini.
+17 ciltlik (1928–1950) büyük Çuvaşça sözlük, 54.000'den fazla madde; ağız biçimleri ve örnek cümleler dahil.
 
-**Nasıl kullanılır:** Basılı (1928-1950; yeniden basımlar).
+**Nasıl kullanılır:** Basılı (yeniden basım: Routledge 1968+). Çuvaşistan Ulusal Kütüphanesi (nbchr.ru) 2014'te kelime dizinini elektronik olarak yayımladı; ciltlerin taramaları da orada aranabilir.
 
 - **Diller:** Çuvaşça
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ağız verisi, Ödünç ve miras ayrımı (özellikle Çuvaşça)
 - **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
-- **Not:** Standart Çuvaşça yenilikçidir; ağız biçimleri Ana Türkçe için daha değerli olabilir.
+- **Not:** Standart Çuvaşça yenilikçidir; ağız biçimleri Ana Türkçe için daha değerli olabilir. Rusça aramada: Ашмарин, Словарь чувашского языка.
 - **Kimlik:** `cuvasca-asmarin`
 
 <a id="halacca"></a>
@@ -751,8 +997,39 @@ Açıklamalı Kaşkayca metinler ve dilbilgisi; ayrıca Mardani, Qašqayı sözl
 
 - **Diller:** Kaşkayca
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Dilbilgisi (Aşama 3)
-- **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
+- **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** —
+- **Doğrulama:** 2026-11-12: Glottolog künye sayfası açıldı (HTTP 200).
 - **Kimlik:** `kaskayca`
+
+<a id="ozbek-izohli"></a>
+#### O'zbek tilining izohli lug'ati — Özbekçe açıklamalı sözlük (yeni baskı)
+
+<https://uza.uz/ar/posts/ozbek-tilining-izohli-lugati-taqdimoti-otkazildi_488895>
+
+Özbekçenin açıklamalı sözlüğü (5 cilt 2006–2008; Bilimler Akademisi yeni baskısı tanıtıldı).
+
+**Nasıl kullanılır:** Akademinin yayınlar sayfası academy.uz/en/page/pdf/nashrlar.
+
+- **Diller:** Özbekçe
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama
+- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (uza.uz)
+- **Not:** Özbekçe aramada bulundu.
+- **Kimlik:** `ozbek-izohli`
+
+<a id="kazak-15-cilt"></a>
+#### Qazaq ädebï tiliniñ sözdigi — Kazak yazı dilinin 15 ciltlik sözlüğü (2011)
+
+<
+https://search.worldcat.org/search?q=%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B+%D3%99%D0%B4%D0%B5%D0%B1%D0%B8+%D1%82%D1%96%D0%BB%D1%96%D0%BD%D1%96%D2%A3+%D1%81%D3%A9%D0%B7%D0%B4%D1%96%D0%B3%D1%96>
+
+Kazakçanın en büyük açıklamalı sözlüğü (A. Baytursınulı Dilbilim Enstitüsü). Eskimiş ve bölgesel kelimeler işaretli.
+
+**Nasıl kullanılır:** Çevrim içi sürümü sozdik.kz ve Kazakistan dil portallarında aranabilir.
+
+- **Diller:** Kazakça
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama
+- **Erişim:** kısmen · **Biçim:** basili · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (search.worldcat.org)
+- **Kimlik:** `kazak-15-cilt`
 
 <a id="tdk-portal"></a>
 #### TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)
@@ -761,20 +1038,34 @@ Açıklamalı Kaşkayca metinler ve dilbilgisi; ayrıca Mardani, Qašqayı sözl
 
 TDK'nin bütün sözlükleri tek portalda: Güncel Türkçe Sözlük, Derleme Sözlüğü (Anadolu ağızları), Tanıklarıyla Tarama Sözlüğü (Eski Anadolu Türkçesi), Köken Bilgisi (etimoloji) Sözlüğü, terim sözlükleri.
 
-**Nasıl kullanılır:** Belgelenmemiş JSON uç noktası: https://sozluk.gov.tr/gts?ara=<kelime> (dizi döner; bazen HTML ya da hata döner, kontrol et). Hazır sarmalayıcılar: tdk-py (Python). Derleme Sözlüğü ağız kodlarını (tur-ege, tur-erzurum…) doldurmak için, Tarama Sözlüğü eski-anadolu tanığı için.
+**Nasıl kullanılır:** Belgelenmiş olmayan JSON ucu: https://sozluk.gov.tr/gts?ara=<kelime> (Güncel Türkçe Sözlük; dizi döner, bulunamazsa {"error": ...}). Diğer sözlükler sitenin içinde ayrı sayfalar (/ds Derleme, /ts Tarama, /etms Köken Bilgisi, /lehceler Karşılaştırmalı Türk Lehçeleri, /osmanlica, /bati, /ads). Bu sayfalar HTML uygulamasıdır; veriyi https://api.sozluk.gov.tr altındaki uçlardan çeker (uygulama kodunda görülen yollar: /gts-yeni/arama, /gts-yeni/maddeler-detay, /yeni-derleme, /koken-bilgisi, /lehceler). Hazır sarmalayıcı: tdk-py (Python). Derleme Sözlüğü ağız kodlarını (tur-ege, tur-erzurum…), Tarama Sözlüğü eski-anadolu tanığını, Lehçeler Sözlüğü 8 lehçede karşılıkları doldurmak için.
 
 - **Diller:** Türkiye Türkçesi, Eski Anadolu Türkçesi
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ağız verisi, Tarihî tanık biçimleri, Ana Türkçe kuruluşu ve etimoloji
-- **Erişim:** açık · **Biçim:** api · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (sozluk.gov.tr)
-- **Not:** sozluk.gov.tr bu ortamda izinli değil.
+- **Erişim:** açık · **Biçim:** api · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: gts JSON ucu çalışıyor (ör. ara=biz, HTTP 200). api.sozluk.gov.tr bu ortamda izinli değil; Derleme/Tarama/Köken uçları için ortama eklenmeli.
 - **Kimlik:** `tdk-portal`
+
+<a id="tatar-akademi-sozluk"></a>
+#### Tataristan Bilimler Akademisi — Tatarca sözlükler (Süzlek)
+
+<https://www.antat.ru/en/tatzet>
+
+G. İbrahimov Dil, Edebiyat ve Sanat Enstitüsü'nün sözlükleri: Tatar teleneñ añlatmalı süzlege (açıklamalı), Tatar halık söyläşläre süzlege (ağız sözlüğü), Tatarca etimoloji sözlüğü (Ahmetyanov).
+
+**Nasıl kullanılır:** Enstitünün çevrim içi sözlük hizmeti suzlek.antat.ru. Ağız sözlüğü Tatarca ağızlarını (Kazan, Mişer, Sibirya) ayırmak için.
+
+- **Diller:** Tatarca
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ağız verisi, Ana Türkçe kuruluşu ve etimoloji
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.antat.ru)
+- **Kimlik:** `tatar-akademi-sozluk`
 
 <a id="el-sozduk"></a>
 #### el-sozduk.kg — Kırgızca sözlükler (Yudahin dahil)
 
 <https://el-sozduk.kg>
 
-Kırgızca-Rusça (Yudahin), Rusça-Kırgızca, İngilizce-Kırgızca sözlükler.
+Kırgızca-Rusça (Yudahin), Rusça-Kırgızca, İngilizce-Kırgızca sözlükler; açıklamalı sözlük ve deyimler (/frazeologizm/).
 
 **Nasıl kullanılır:** Web arama. Ayrıca Kırgızca dil kaynakları listesi github.com/alexeyev/awesome-kyrgyz-nlp.
 
@@ -782,6 +1073,22 @@ Kırgızca-Rusça (Yudahin), Rusça-Kırgızca, İngilizce-Kırgızca sözlükle
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama
 - **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (el-sozduk.kg)
 - **Kimlik:** `el-sozduk`
+
+<a id="cin-turk-dilleri"></a>
+#### Çin'deki küçük Türk dillerinin sözlükleri (Batı Yugurca, Salarca)
+
+<
+https://search.worldcat.org/search?q=%E8%A5%BF%E9%83%A8%E8%A3%95%E5%9B%BA%E6%B1%89%E8%AF%8D%E5%85%B8>
+
+Lei Xuanchun 1992, Xibu Yugu-Han cidian (Batı Yugurca-Çince sözlük); Lin Lianyun 1992, Sala-Han Han-Sala cihui (Salarca-Çince söz varlığı); Chen Zongzhen'in Batı Yugurca incelemeleri. Fuyu Kırgızcası için Hu Zhenhua'nın çalışmaları.
+
+**Nasıl kullanılır:** Basılı (Çince). Çince arama terimleri: 西部裕固汉词典, 撒拉汉汉撒拉词汇, 富裕柯尔克孜语. Moğolca ve Tibetçe ödünçlere dikkat.
+
+- **Diller:** Sarı Uygurca, Salarca, Fuyu Kırgızcası
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ödünç ve miras ayrımı (özellikle Çuvaşça)
+- **Erişim:** basılı · **Biçim:** basili · **Güven:** yüksek · **Durum:** basılı · **Ortam:** —
+- **Not:** Çince aramada bulundu.
+- **Kimlik:** `cin-turk-dilleri`
 
 <a id="ozbek-kaynaklari"></a>
 #### Özbekçe kaynaklar (CTILD Indiana, Chicago CEERES)
@@ -909,6 +1216,20 @@ Gagavuzca-Rusça-Moldovaca akademik sözlük (basılı; Gaydarcı vd.), Rajki'ni
 - **Erişim:** kısmen · **Biçim:** web · **Güven:** düşük · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.freelang.net)
 - **Kimlik:** `gagavuzca`
 
+<a id="lehceler-com"></a>
+#### lehceler.com — Türk lehçeleri karşılaştırmalı sözlüğü
+
+<http://www.lehceler.com/>
+
+Türkiye Türkçesinden ana lehçelere kelime karşılıkları.
+
+**Nasıl kullanılır:** Türkçe kelimeyle ara. Hızlı ilk tarama için; biçimleri bir dil sözlüğüyle denetle.
+
+- **Diller:** Türkiye Türkçesi, Azerbaycan Türkçesi, Türkmence, Kazakça, Kırgızca, Özbekçe, Tatarca, Başkurtça, Uygurca
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama
+- **Erişim:** açık · **Biçim:** web · **Güven:** düşük · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.lehceler.com)
+- **Kimlik:** `lehceler-com`
+
 ### Derlemler ve sıklık listeleri
 
 <a id="qazcorpus"></a>
@@ -993,7 +1314,7 @@ Dil bazında derlemler ve sıklık listeleri (CC BY 4.0); ör. Özbekçe uzb_com
 - **Diller:** Özbekçe, Kazakça, Kırgızca, Tatarca, Azerbaycan Türkçesi, Türkiye Türkçesi, Başkurtça, Türkmence, Uygurca
 - **İşe yaradığı yer:** Sıklık listeleri ve kavram listeleri, Toplu, makinece okunabilir veri
 - **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (wortschatz.uni-leipzig.de)
-- **Not:** Özbekçe dışındaki dillerin dosyaları ayrıca doğrulanmalı.
+- **Not:** Dil sayfası ör. curl.corpora.uni-leipzig.de/languages/uzb. Özbekçe dışındaki dillerin dosyaları ayrıca doğrulanmalı.
 - **Kimlik:** `leipzig-corpora`
 
 <a id="opensubtitles-siklik"></a>
@@ -1003,11 +1324,12 @@ Dil bazında derlemler ve sıklık listeleri (CC BY 4.0); ör. Özbekçe uzb_com
 
 Konuşma diline yakın sıklık listeleri (film altyazıları).
 
-**Nasıl kullanılır:** Dil koduna göre dosyalar (content/2018/<kod>/).
+**Nasıl kullanılır:** Dil koduna göre dosyalar: https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/<kod>/<kod>_50k.txt (kelime ve sayı). Türkçe için tr, Kazakça için kk.
 
 - **Diller:** Türkiye Türkçesi, Kazakça
 - **İşe yaradığı yer:** Sıklık listeleri ve kavram listeleri
-- **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (github.com)
+- **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: tr_50k.txt raw üzerinden indirildi (HTTP 200, ~700 KB).
 - **Kimlik:** `opensubtitles-siklik`
 
 <a id="sketch-engine-turk"></a>
@@ -1024,6 +1346,20 @@ Web'den derlenmiş Türk dilleri derlemleri, sıklık listeleri.
 - **Erişim:** ücretli · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.sketchengine.eu)
 - **Kimlik:** `sketch-engine-turk`
 
+<a id="tatar-derlem"></a>
+#### Tatarca Ulusal Derlemi (corpus.tatar)
+
+<https://www.corpus.tatar/en/statistics>
+
+Kazan merkezli büyük Tatarca derlemi; sıklık istatistikleri. Tugan Tel'den (tugan-tel) ayrı bir derlem.
+
+**Nasıl kullanılır:** search.corpus.tatar arayüzünde kelime ve sıklık arama.
+
+- **Diller:** Tatarca
+- **İşe yaradığı yer:** Sıklık listeleri ve kavram listeleri, Yaşayan dillerde biçim toplama
+- **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.corpus.tatar)
+- **Kimlik:** `tatar-derlem`
+
 <a id="til-mt"></a>
 #### Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi
 
@@ -1035,10 +1371,41 @@ Web'den derlenmiş Türk dilleri derlemleri, sıklık listeleri.
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Toplu, makinece okunabilir veri, Sıklık listeleri ve kavram listeleri, Yaşayan dillerde biçim toplama
-- **Erişim:** açık · **Biçim:** git · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (github.com)
+- **Erişim:** açık · **Biçim:** git · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: README raw.githubusercontent.com/turkic-interlingua/til-mt/main/README.md üzerinden okundu (HTTP 200). GitHub HTML sayfası bu ortamda 403.
 - **Kimlik:** `til-mt`
 
+<a id="cuvasca-ceviri"></a>
+#### translate.chv.su — Çuvaşça-Rusça derlem, çeviri ve sözlük (Plotnikov)
+
+<https://ru.translate.chv.su>
+
+Çuvaşça-Rusça paralel derlemi (~225.000 cümle çifti) üzerinde çeviri ve sözlük. Aynı geliştiricinin çevrim içi Çuvaşça sözlüğü.
+
+**Nasıl kullanılır:** Kelimenin bugünkü kullanımını ve sıklığını görmek için.
+
+- **Diller:** Çuvaşça
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Sıklık listeleri ve kavram listeleri
+- **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (ru.translate.chv.su)
+- **Not:** Rusça aramada bulundu.
+- **Kimlik:** `cuvasca-ceviri`
+
 ### Küçük diller ve belgeleme
+
+<a id="sibirya-tatar-agiz"></a>
+#### Alişina 1994 — Tobol-İrtış ağzı (Sibirya Tatarcası) ve Tümen Üniversitesi e-kitaplığı
+
+<
+https://elib.utmn.ru/jspui/bitstream/ru-tsu/35717/1/Alishina_1994_Tobolo-Irtyshskii_dialekt.pdf>
+
+Sibirya Tatarcasının Tobol-İrtış ağzının tanımı ve söz varlığı (Rusça). Tümen Devlet Üniversitesi deposunda (elib.utmn.ru) başka Sibirya Tatarcası çalışmaları da var.
+
+**Nasıl kullanılır:** PDF. Sibirya Tatarcası (sty) ağız biçimleri için.
+
+- **Diller:** Sibirya Tatarcası
+- **İşe yaradığı yer:** Ağız verisi, Yaşayan dillerde biçim toplama
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (elib.utmn.ru)
+- **Kimlik:** `sibirya-tatar-agiz`
 
 <a id="elar"></a>
 #### ELAR — Endangered Languages Archive
@@ -1137,7 +1504,8 @@ Türk dillerinin sınıflandırması (turk1311), her dil ve alt grup için kayna
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Sınıflandırma (soy ağacı), Makaleler ve bibliyografya
-- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (glottolog.org)
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: Türk dilleri sayfası açıldı (HTTP 200, Glottolog 5.4).
 - **Kimlik:** `glottolog`
 
 <a id="grambank"></a>
@@ -1183,6 +1551,21 @@ Türk dillerinin karşılaştırmalı-tarihî dilbilgisi (ses, dilbilgisi, söz 
 - **Kimlik:** `tenishev`
 
 ### Konuşur sayısı ve canlılık
+
+<a id="iran-dil-atlasi"></a>
+#### Iran Atlas — İran'ın Dil Atlası (Anonby vd.)
+
+<https://iranatlas.net>
+
+İran'da konuşulan dillerin ve ağızların haritası ve sınıflandırması; Azerbaycan Türkçesi, Kaşkayca, Horasan Türkçesi, Halaçça ve küçük Oğuz ağızlarının dağılımı.
+
+**Nasıl kullanılır:** Harita ve belge sayfaları (Google Docs vekil sayfaları da var). Konuşur sayısı ve komşuluk (örgü) için.
+
+- **Diller:** `aze-iran` (ağız), Kaşkayca, Horasan Türkçesi, Halaçça
+- **İşe yaradığı yer:** Konuşur sayısı ve canlılık, Sınıflandırma (soy ağacı), Örgü: benzerlik ve anlaşılırlık değerleri
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (iranatlas.net)
+- **Not:** Farsça aramada bulundu. Farsça sözlük sitesi abadis.ir Azerbaycanca karşılıklar için yardımcı olabilir (güven düşük).
+- **Kimlik:** `iran-dil-atlasi`
 
 <a id="ethnologue"></a>
 #### Ethnologue
@@ -1268,21 +1651,24 @@ Dil modelleriyle Türk dilleri arası aktarım. Kırgızcadan Kazakçaya aktarı
 
 - **Diller:** Türkiye Türkçesi, Azerbaycan Türkçesi, Kazakça, Kırgızca, Özbekçe, Uygurca
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (aclanthology.org)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: ACL Anthology sayfası ve PDF açıldı (HTTP 200).
 - **Kimlik:** `scil-2026`
 
 <a id="salehi-2017"></a>
 #### Salehi & Neysani 2017 — Azerbaycan Türkçesinin Türkiye Türkçesi konuşurlarınca anlaşılırlığı
 
-<https://aclanthology.org/2026.scil-main.41.pdf>
+<
+https://www.tandfonline.com/action/doSearch?AllField=Receptive+intelligibility+of+Turkish+to+Iranian-Azerbaijani+speakers>
 
 Dinleyici deneyi; Türkiye-Azerbaycan anlaşılırlığı.
 
-**Nasıl kullanılır:** Künyesi SCiL 2026 makalesinin kaynakçasında.
+**Nasıl kullanılır:** Salehi & Neysani 2017, Receptive intelligibility of Turkish to Iranian-Azerbaijani speakers, Cogent Education 4(1). Künye SCiL 2026 makalesinin (scil-2026) kaynakçasında da var.
 
 - **Diller:** Türkiye Türkçesi, Azerbaycan Türkçesi
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri
-- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (aclanthology.org)
+- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.tandfonline.com)
+- **Doğrulama:** 2026-11-12: eski adres makalenin kendisi değil SCiL 2026 PDF'iydi; dergi aramasına çevrildi. Makale bu ortamdan açılmadı.
 - **Kimlik:** `salehi-2017`
 
 <a id="en-sik-1000"></a>
@@ -1333,6 +1719,21 @@ Ana Türkçe ünsüzleri üzerine açık erişimli çalışma.
 
 ### Portallar ve kütüphaneler
 
+<a id="ilcaa-kaynaklari"></a>
+#### ILCAA çevrim içi kaynak portalı (Tokyo)
+
+<https://online-resources.aa-ken.jp/>
+
+Asya ve Afrika dilleri üzerine çevrim içi sözlükler, temel söz varlığı listeleri ve derlemler; Türk dilleri kayıtları (turkbv) dahil.
+
+**Nasıl kullanılır:** Dil adına göre ara.
+
+- **Diller:** bütün diller
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Makaleler ve bibliyografya
+- **Erişim:** açık · **Biçim:** web · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (online-resources.aa-ken.jp)
+- **Not:** Japonca aramada bulundu.
+- **Kimlik:** `ilcaa-kaynaklari`
+
 <a id="lexilogos"></a>
 #### Lexilogos — dil bazlı sözlük portalı
 
@@ -1358,11 +1759,69 @@ Türkoloji ve Altayistik kitaplarının PDF'leri (Poppe, Vladimirtsov, Karayca s
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Makaleler ve bibliyografya, Ana Türkçe kuruluşu ve etimoloji, Ses denklikleri
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (altaica.c4.starlingdb.org)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: Türkoloji kitap listesi açıldı (HTTP 200). Aynı içerik altaica.ru/LIBRARY altında da var.
 - **Not:** c4.starlingdb.org alt alan adı izin listesinde ayrıca yok; denenmeli.
 - **Kimlik:** `altaica-kutuphane`
 
+<a id="yok-acik-bilim"></a>
+#### YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler
+
+<https://acikbilim.yok.gov.tr>
+
+Türkiye'de yazılmış tezler: Çağatayca lügatlerin çevriyazıları (Abuşka, Şeyh Süleyman Efendi, Bedâyiü'l-Lugat), ağız monografileri, lehçeler arası karşılaştırmalı sözlükler.
+
+**Nasıl kullanılır:** Tez adına ya da konuya göre ara. Çağatayca (chg) ve Türkiye ağızları için zengin.
+
+- **Diller:** bütün diller
+- **İşe yaradığı yer:** Makaleler ve bibliyografya, Tarihî tanık biçimleri, Ağız verisi, Yaşayan dillerde biçim toplama
+- **Erişim:** kısmen · **Biçim:** pdf · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (acikbilim.yok.gov.tr)
+- **Kimlik:** `yok-acik-bilim`
+
+<a id="kumuk-kaynaklari"></a>
+#### til.im — Kumukça kitaplar ve sözlükler
+
+<https://til.im>
+
+Kumukça dil kitapları, sözlükler ve konuşma kılavuzları (Rusça arayüz); ör. Sovremennyy kumykskiy yazyk.
+
+**Nasıl kullanılır:** Kitaplar bölümünde (knigi) sözlükleri ara.
+
+- **Diller:** Kumukça
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Dilbilgisi (Aşama 3)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (til.im)
+- **Kimlik:** `kumuk-kaynaklari`
+
 ### Dergiler ve bibliyografya
+
+<a id="nsc-filoloji"></a>
+#### RBA Sibirya Şubesi Filoloji Enstitüsü (Novosibirsk) — dergiler ve e-kitaplık
+
+<https://philology.nsc.ru/>
+
+Sibirya Türk dilleri üzerine makaleler (Sibirskiy filologicheskiy zhurnal, Kritika i semiotika) ve sözlük taslakları; ör. Dobrinina'nın Altayca sözlüğü (fehu.philology.nsc.ru/elib/).
+
+**Nasıl kullanılır:** PDF'ler fehu.philology.nsc.ru/journals/spj/pdf/<yıl_sayı>/<no>.pdf biçiminde. Rusça arama: алтайско-русский словарь, хакасско-русский словарь.
+
+- **Diller:** Güney Altayca, Kuzey Altayca, Hakasça, Şorca, Çulımca, Tuvaca, Tofaca, Sahaca (Yakutça), Sibirya Tatarcası
+- **İşe yaradığı yer:** Yaşayan dillerde biçim toplama, Ağız verisi, Makaleler ve bibliyografya
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (philology.nsc.ru)
+- **Kimlik:** `nsc-filoloji`
+
+<a id="sovet-turkologiya"></a>
+#### Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi, TurkLib)
+
+<https://files.preslib.az/projects/turklib/>
+
+Sovyet Türkolojisinin ana dergisinin (1970–1991) taranmış sayıları: etimoloji, ses tarihi, ağız ve karşılaştırma makaleleri. Aynı kütüphanenin sözlük koleksiyonu: preslib.az/en/collections/ebooks/0eJYS7u.
+
+**Nasıl kullanılır:** Sayılar jurnallar/sovet_turkologiya/sovtur_<yıl>_<sayı>.pdf biçiminde.
+
+- **Diller:** bütün diller
+- **İşe yaradığı yer:** Makaleler ve bibliyografya, Ana Türkçe kuruluşu ve etimoloji, Ses denklikleri, Ağız verisi
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (files.preslib.az)
+- **Not:** Azerbaycanca aramada bulundu.
+- **Kimlik:** `sovet-turkologiya`
 
 <a id="tdk-belleten"></a>
 #### Türk Dili Araştırmaları Yıllığı — Belleten
@@ -1389,7 +1848,8 @@ Türk lehçeleri ve ağızları üzerine hakemli, açık erişimli dergi (2017'd
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Makaleler ve bibliyografya, Ağız verisi
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinsiz (dergipark.org.tr)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200).
 - **Kimlik:** `turklad`
 
 <a id="dergipark"></a>
@@ -1403,41 +1863,56 @@ Türkiye'deki akademik dergilerin ortak platformu; ağız ve lehçe çalışmala
 
 - **Diller:** bütün diller
 - **İşe yaradığı yer:** Makaleler ve bibliyografya, Ağız verisi, Yaşayan dillerde biçim toplama
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (dergipark.org.tr)
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-12: açıldı (HTTP 200). Makale PDF'leri dergipark.org.tr/tr/download/article-file/<no> biçiminde doğrudan inebiliyor.
 - **Kimlik:** `dergipark`
+
+<a id="tuva-dergi"></a>
+#### Novye issledovaniya Tuvy (Tuva üzerine yeni araştırmalar) dergisi
+
+<https://nit.tuva.asia>
+
+Tuvaca, Tuvaca ağızları (Moğolistan, Çin Tuvaları) ve Tofaca üzerine açık erişimli makaleler.
+
+**Nasıl kullanılır:** Makale PDF'leri nit.tuva.asia/nit/article/download/<no>.
+
+- **Diller:** Tuvaca, Tofaca, Duhaca (Tsaatan), Soyotça
+- **İşe yaradığı yer:** Makaleler ve bibliyografya, Ağız verisi, Konuşur sayısı ve canlılık
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (nit.tuva.asia)
+- **Kimlik:** `tuva-dergi`
+
+### Araçlar
+
+<a id="turkicnlp"></a>
+#### TurkicNLP — Türk dilleri için doğal dil işleme araç takımı
+
+<https://arxiv.org/html/2602.19174>
+
+Türk dilleri için ortak araçlar: yazı çevirme (Kiril, Arap, Latin), biçimbirim çözümleme ve kaynak listesi (2026).
+
+**Nasıl kullanılır:** Kiril ve Arap yazısındaki biçimleri çalışma yazımına aktarmak için yardımcı olabilir.
+
+- **Diller:** bütün diller
+- **İşe yaradığı yer:** Toplu, makinece okunabilir veri, Ortak alfabe ve yazım
+- **Erişim:** açık · **Biçim:** git · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (arxiv.org)
+- **Kimlik:** `turkicnlp`
 
 <a id="bu-ortamdan-erisim"></a>
 ## Bu ortamdan erişim
 
-Bu oturumun ortamında (**dil**) yalnızca şu adreslere izin var: `en.wiktionary.org`, `starling.rinet.ru`, `starlingdb.org`.
+Bu oturumun ortamında (**dil**) yalnızca şu adreslere izin var: `aclanthology.org`, `altaica.c4.starlingdb.org`, `altaica.ru`, `archive.org`, `asjp.clld.org`, `bitig.kz`, `concepticon.clld.org`, `dergipark.org.tr`, `directory.doabooks.org`, `en.wiktionary.org`, `github.com`, `glottolog.org`, `kaikki.org`, `lexibank.clld.org`, `library.oapen.org`, `raw.githubusercontent.com`, `sozluk.gov.tr`, `starling.rinet.ru`, `starlingdb.org`, `turkic.elegantlexicon.com`, `univerlag.uni-goettingen.de`, `www.nisanyansozluk.com`, `zenodo.org`.
 
 Çevrim içi kaynakların ihtiyaç duyduğu, henüz izinli olmayan adresler (kaç kaynağın kullandığına göre). Bir kaynağı kullanmak gerektiğinde ilgili adres ortama eklenir.
 
 | Adres | Kaynak sayısı | Kaynaklar |
 |---|---:|---|
-| `github.com` | 5 | `savelyev-turkic`, `ronatas-bati-eski-turkce`, `til-mt`, `apertium`, `opensubtitles-siklik` |
-| `altaica.ru` | 2 | `estja`, `dybo-2013` |
 | `www.freelang.net` | 2 | `freelang`, `gagavuzca` |
 | `en.wikipedia.org` | 2 | `wikipedia-turk-dilleri`, `ortak-turk-alfabesi` |
-| `aclanthology.org` | 2 | `scil-2026`, `salehi-2017` |
-| `dergipark.org.tr` | 2 | `turklad`, `dergipark` |
-| `kaikki.org` | 1 | `kaikki` |
-| `altaica.c4.starlingdb.org` | 1 | `altaica-kutuphane` |
-| `archive.org` | 1 | `clauson` |
-| `univerlag.uni-goettingen.de` | 1 | `unal-2026` |
-| `turkic.elegantlexicon.com` | 1 | `elegant-lexicon` |
-| `lexibank.clld.org` | 1 | `northeuralex` |
-| `asjp.clld.org` | 1 | `asjp` |
-| `concepticon.clld.org` | 1 | `concepticon` |
 | `dev.panlex.org` | 1 | `panlex` |
 | `openaccess.artvin.edu.tr` | 1 | `wold-halac` |
 | `sino-platonic.org` | 1 | `proto-turkic-unsuzler` |
-| `sozluk.gov.tr` | 1 | `tdk-portal` |
-| `www.nisanyansozluk.com` | 1 | `nisanyan` |
 | `www.tnc.org.tr` | 1 | `tnc` |
 | `multicast.aspra.uni-bamberg.de` | 1 | `wowa` |
-| `bitig.kz` | 1 | `turik-bitig` |
-| `directory.doabooks.org` | 1 | `wilkens-eski-uygurca` |
 | `www.degruyterbrill.com` | 1 | `boeschoten` |
 | `opendata.uni-halle.de` | 1 | `codex-cumanicus` |
 | `akvius-website.pages.dev` | 1 | `akvius-cagatayca` |
@@ -1458,17 +1933,39 @@ Bu oturumun ortamında (**dil**) yalnızca şu adreslere izin var: `en.wiktionar
 | `lingsib.iea.ras.ru` | 1 | `lingsib` |
 | `www.altaist.org` | 1 | `rf-turk-agiz-atlasi` |
 | `www.endangeredlanguages.com` | 1 | `elp` |
-| `glottolog.org` | 1 | `glottolog` |
 | `www.routledge.com` | 1 | `johanson-csato` |
 | `grambank.clld.org` | 1 | `grambank` |
 | `en.wal.unesco.org` | 1 | `unesco-wal` |
 | `rosstat.gov.ru` | 1 | `rosstat-2021` |
 | `www.ethnologue.com` | 1 | `ethnologue` |
 | `joshuaproject.net` | 1 | `joshua-project` |
+| `www.tandfonline.com` | 1 | `salehi-2017` |
 | `www.academia.edu` | 1 | `en-sik-1000` |
 | `wortschatz.uni-leipzig.de` | 1 | `leipzig-corpora` |
 | `www.sketchengine.eu` | 1 | `sketch-engine-turk` |
 | `www.dailysabah.com` | 1 | `qamus` |
 | `turkicacademy.org` | 1 | `turk-akademisi-terim` |
 | `tdkbelleten.gov.tr` | 1 | `tdk-belleten` |
+| `turkbv.aa-ken.jp` | 1 | `turkbv` |
+| `www.lehceler.com` | 1 | `lehceler-com` |
+| `www.antat.ru` | 1 | `tatar-akademi-sozluk` |
+| `huggingface.co` | 1 | `tatar-sozluk-veri` |
+| `www.corpus.tatar` | 1 | `tatar-derlem` |
+| `ru.translate.chv.su` | 1 | `cuvasca-ceviri` |
+| `til.im` | 1 | `kumuk-kaynaklari` |
+| `philology.nsc.ru` | 1 | `nsc-filoloji` |
+| `nit.tuva.asia` | 1 | `tuva-dergi` |
+| `elib.utmn.ru` | 1 | `sibirya-tatar-agiz` |
+| `files.preslib.az` | 1 | `sovet-turkologiya` |
+| `dilcilik.az` | 1 | `azerbaycan-kaynaklari` |
+| `search.worldcat.org` | 1 | `kazak-15-cilt` |
+| `uza.uz` | 1 | `ozbek-izohli` |
+| `iranatlas.net` | 1 | `iran-dil-atlasi` |
+| `turfan.bbaw.de` | 1 | `turfan-bbaw` |
+| `orient-kohd.dl.uni-leipzig.de` | 1 | `kohd-eski-uygurca` |
+| `adw.d.sub.uni-goettingen.de` | 1 | `gottingen-altuygur` |
+| `clics.clld.org` | 1 | `robbeets-2021` |
+| `arxiv.org` | 1 | `turkicnlp` |
+| `acikbilim.yok.gov.tr` | 1 | `yok-acik-bilim` |
+| `online-resources.aa-ken.jp` | 1 | `ilcaa-kaynaklari` |
 

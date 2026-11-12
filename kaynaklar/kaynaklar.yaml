@@ -20,15 +20,38 @@
 #   guven        : yuksek (hakemli, uzman) | orta (derlenmiş, topluluk) | dusuk (küçük liste, kaba tahmin)
 #   durum        : denendi (bu ortamdan açıldı) | arandi (arama sonucunda görüldü, açılmadı) |
 #                  basili (çevrim içi değil)
+#   dogrulama    : son denetimin tarihi ve sonucu (HTTP kodu, çalışan erişim yolu, sorunlar)
 #   not          : ek bilgi, sınırlar
 #
 # Bu ortamın ağ izni olan adresler (environment: dil). Listede olmayan bir adrese
-# erişmek için ortam ayarlarına eklenmesi gerekir.
+# erişmek için ortam ayarlarına eklenmesi gerekir. Not: github.com HTML sayfaları bu
+# oturumun GitHub kapsamı yüzünden 403 verir; depo dosyaları raw.githubusercontent.com
+# üzerinden okunur.
 
 izinli_hostlar:
   - en.wiktionary.org
   - starling.rinet.ru
   - starlingdb.org
+  - github.com
+  - raw.githubusercontent.com
+  - zenodo.org
+  - kaikki.org
+  - altaica.ru
+  - altaica.c4.starlingdb.org
+  - sozluk.gov.tr
+  - univerlag.uni-goettingen.de
+  - library.oapen.org
+  - directory.doabooks.org
+  - glottolog.org
+  - asjp.clld.org
+  - concepticon.clld.org
+  - lexibank.clld.org
+  - turkic.elegantlexicon.com
+  - bitig.kz
+  - archive.org
+  - dergipark.org.tr
+  - aclanthology.org
+  - www.nisanyansozluk.com
 
 ihtiyaclar:
   ana_turkce: Ana Türkçe kuruluşu ve etimoloji
@@ -68,6 +91,9 @@ kaynaklar:
     bicim: web
     guven: orta
     durum: denendi
+    dogrulama: >-
+      2026-11-12: kategori sayfası açıldı (HTTP 200). Madde ham metni ?action=raw ile
+      alınıyor (ben, sen, o bu yolla araştırıldı).
     not: Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir.
 
   - kimlik: wiktionary-swadesh
@@ -86,6 +112,8 @@ kaynaklar:
     bicim: web
     guven: orta
     durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200, ~1 MB tek sayfa).
 
   - kimlik: wiktionary-hakkinda
     ad: Wiktionary — About Proto-Turkic (yazım ve kuruluş kuralları)
@@ -99,6 +127,9 @@ kaynaklar:
     bicim: web
     guven: orta
     durum: denendi
+    dogrulama: >-
+      2026-11-12: Wikimedia hız sınırı (HTTP 429). Önceki denemede açılmıştı; ardışık
+      isteklerde 1-2 saniye bekle, ya da kaikki dökümünü kullan.
 
   - kimlik: kaikki
     ad: kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)
@@ -115,8 +146,15 @@ kaynaklar:
     erisim: acik
     bicim: json
     guven: orta
-    durum: arandi
-    not: Bu ortamda kaikki.org izinli değil; kullanmak için ortama eklenmeli.
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: indirme sayfası açıldı (HTTP 200).
+    not: >-
+      Türk dilleri kapsamı (2026-11): Türkçe, Azerbaycanca, Türkmence, Gagavuzca, Kazakça,
+      Kırgızca, Tatarca, Başkurtça, Kırım Tatarcası, Karaçay-Malkarca, Kumukça, Nogayca,
+      Karakalpakça, Özbekçe, Uygurca, Sahaca, Tuvaca, Hakasça, Altayca, Çuvaşça ve ayrıca
+      Ana Türkçe, Eski Türkçe, Çağatayca. Küçük dillerin dosyaları birkaç yüz maddelik
+      olabilir. Aynı veri wiktextract (PyPI) ile kendi dökümünden de üretilebilir.
 
   - kimlik: starling
     ad: StarLing — Türk etimoloji veritabanı (Starostin, Dybo, Mudrak)
@@ -134,9 +172,12 @@ kaynaklar:
     bicim: web
     guven: yuksek
     durum: denendi
+    dogrulama: >-
+      2026-11-12: ana sayfa açıldı (HTTP 200). Veritabanı sorguları (cgi-bin) zaman zaman
+      502/504 veriyor; sunucu tarafı sorun, birkaç dakika sonra yeniden dene.
+      starling.rinet.ru eski adres.
     not: >-
-      Denemede sunucu 504 (zaman aşımı) verdi; sonra tekrar denenmeli. Altay dil
-      ailesi hipotezine dayanır: yalnızca Türk dilleri kısmı kullanılmalı.
+      Altay dil ailesi hipotezine dayanır: yalnızca Türk dilleri kısmı kullanılmalı.
 
   - kimlik: edal
     ad: Etymological Dictionary of the Altaic Languages (Starostin, Dybo, Mudrak 2003)
@@ -168,8 +209,11 @@ kaynaklar:
     erisim: kismen
     bicim: pdf
     guven: yuksek
-    durum: arandi
-    not: altaica.ru izinli değil. Taramaların telif durumu belirsiz.
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: dizin sayfası açıldı (HTTP 200). Ciltler PDF olarak
+      altaica.ru/LIBRARY/ESTJA/ altında (estja1.pdf … Estja7.pdf).
+    not: Taramaların telif durumu belirsiz.
 
   - kimlik: dybo-2013
     ad: Dybo — Этимологический словарь базисной лексики тюркских языков (2013, ЭСТЯ ek cilt 9)
@@ -182,7 +226,9 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: PDF indirildi (HTTP 200, ~22 MB).
 
   - kimlik: altaica-kutuphane
     ad: Monumenta Altaica — Türkoloji e-kütüphanesi
@@ -197,21 +243,32 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: orta
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: Türkoloji kitap listesi açıldı (HTTP 200). Aynı içerik
+      altaica.ru/LIBRARY altında da var.
     not: c4.starlingdb.org alt alan adı izin listesinde ayrıca yok; denenmeli.
 
   - kimlik: clauson
     ad: Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)
-    url: https://archive.org/details/etymologicaldict00clau
+    url: >-
+      
+      https://archive.org/details/sir-gerard-clauson-an-etymological-dictionary-of-pre-thirteenth-century-turkish-
     tur: etimoloji
     diller: [otk, xqa]
     kullanim: [ana_turkce, tarihi]
     ne: 13. yüzyıl öncesi Türkçenin (Eski Türkçe, Karahanlıca) temel etimoloji sözlüğü.
-    nasil: Internet Archive'da ödünç alınabilir tarama; ayrı dizin cildi (Szeged 1981).
+    nasil: >-
+      Internet Archive'da tam tarama (PDF ve metin). Madde başları Clauson'un kendi
+      sırasıyla dizili (ünsüz iskeletine göre). Bu yüzden önce ayrı dizin cildine (Szeged
+      1981, Studia Uralo-Altaica) ya da PDF'in metin aramasına bak.
     erisim: kismen
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: eski adres (etymologicaldict00clau) 404 veriyordu; yeni archive.org
+      kaydı açıldı (HTTP 200).
 
   - kimlik: rasanen
     ad: Räsänen — Versuch eines etymologischen Wörterbuchs der Türksprachen (1969)
@@ -240,7 +297,9 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: yayınevi sayfası açıldı (HTTP 200); PDF bağlantısı sayfada.
 
   - kimlik: elegant-lexicon
     ad: Elegant Lexicon — Turkic database (C. A. Straughn)
@@ -256,7 +315,9 @@ kaynaklar:
     erisim: acik
     bicim: web
     guven: orta
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200).
 
   - kimlik: savelyev-turkic
     ad: Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)
@@ -269,14 +330,21 @@ kaynaklar:
       akrabalık sınıfı ses denkliklerine göre belirlenmiş; açık ödünçler
       ayıklanmış. Savelyev & Robbeets 2020, Journal of Language Evolution 5(1).
     nasil: >-
-      CLDF biçimi (forms.csv, cognates.csv, languages.csv). Zenodo sürümleri
-      v1.0–v2.1. Örgüyü (ag.yaml) veriden hesaplamak ve kök yaşını denetlemek için
-      birebir.
+      CLDF biçimi (cldf/forms.csv, cognates.csv, languages.csv). Bu ortamdan GitHub HTML
+      sayfaları 403 verir; dosyaları ham adresten çek:
+      https://raw.githubusercontent.com/lexibank/savelyevturkic/master/cldf/forms.csv.
+      Zenodo sürümleri v1.0–v2.1. Örgüyü (ag.yaml) veriden hesaplamak ve kök yaşını
+      denetlemek için birebir.
     erisim: acik
     bicim: csv
     guven: yuksek
-    durum: arandi
-    not: github.com ve zenodo.org bu ortamda izinli değil.
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: raw.githubusercontent.com üzerinden master dalı okundu (HTTP 200);
+      'main' dalı yok (404).
+    not: >-
+      Biçimlerin her biri kendi kaynağına bağlı (sources.bib); 32 dilin listesi
+      languages.csv'de.
 
   - kimlik: northeuralex
     ad: NorthEuraLex
@@ -291,7 +359,9 @@ kaynaklar:
     erisim: acik
     bicim: csv
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: lexibank katkı sayfası açıldı (HTTP 200).
     not: Kapsanan Türk dillerinin tam listesi doğrulanmadı.
 
   - kimlik: asjp
@@ -305,7 +375,10 @@ kaynaklar:
     erisim: acik
     bicim: csv
     guven: orta
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200). Dil sayfaları ör. asjp.clld.org/languages/QASHQAI_2,
+      OLD_TURKIC, ILI_TURKI.
 
   - kimlik: concepticon
     ad: Concepticon — kavram listeleri veritabanı
@@ -320,7 +393,9 @@ kaynaklar:
     erisim: acik
     bicim: csv
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200, sürüm 3.4.1).
 
   - kimlik: panlex
     ad: PanLex
@@ -345,11 +420,18 @@ kaynaklar:
     ne: >-
       Macarcaya Batı Eski Türkçeden (Oğur) geçmiş kelimeler. Oğur kolunun tarihî
       kanıtı olarak Hedef 2'ye ek tanık sağlar.
-    nasil: Makinece okunabilir veri seti (CLDF).
+    nasil: >-
+      Makinece okunabilir veri seti (CLDF). Ham dosyalar:
+      https://raw.githubusercontent.com/LoanpyDataHub/ronataswestoldturkic/main/ (GitHub
+      HTML sayfaları bu ortamda 403). Basılı eser: Róna-Tas & Berta 2011, West Old Turkic:
+      Turkic Loanwords in Hungarian (Harrassowitz). Daha eski temel eser: Gombocz 1912,
+      Die bulgarisch-türkischen Lehnwörter in der ungarischen Sprache.
     erisim: acik
     bicim: csv
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: README raw üzerinden okundu (HTTP 200).
 
   - kimlik: wold-halac
     ad: Lexical copies in Khalaj — World Loanword Database (WOLD) katkısı
@@ -390,15 +472,22 @@ kaynaklar:
       (Anadolu ağızları), Tanıklarıyla Tarama Sözlüğü (Eski Anadolu Türkçesi),
       Köken Bilgisi (etimoloji) Sözlüğü, terim sözlükleri.
     nasil: >-
-      Belgelenmemiş JSON uç noktası: https://sozluk.gov.tr/gts?ara=<kelime> (dizi döner;
-      bazen HTML ya da hata döner, kontrol et). Hazır sarmalayıcılar: tdk-py (Python).
-      Derleme Sözlüğü ağız kodlarını (tur-ege, tur-erzurum…) doldurmak için,
-      Tarama Sözlüğü eski-anadolu tanığı için.
+      Belgelenmiş olmayan JSON ucu: https://sozluk.gov.tr/gts?ara=<kelime> (Güncel Türkçe
+      Sözlük; dizi döner, bulunamazsa {"error": ...}). Diğer sözlükler sitenin içinde ayrı
+      sayfalar (/ds Derleme, /ts Tarama, /etms Köken Bilgisi, /lehceler Karşılaştırmalı
+      Türk Lehçeleri, /osmanlica, /bati, /ads). Bu sayfalar HTML uygulamasıdır; veriyi
+      https://api.sozluk.gov.tr altındaki uçlardan çeker (uygulama kodunda görülen yollar:
+      /gts-yeni/arama, /gts-yeni/maddeler-detay, /yeni-derleme, /koken-bilgisi,
+      /lehceler). Hazır sarmalayıcı: tdk-py (Python). Derleme Sözlüğü ağız kodlarını
+      (tur-ege, tur-erzurum…), Tarama Sözlüğü eski-anadolu tanığını, Lehçeler Sözlüğü 8
+      lehçede karşılıkları doldurmak için.
     erisim: acik
     bicim: api
     guven: yuksek
-    durum: arandi
-    not: sozluk.gov.tr bu ortamda izinli değil.
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: gts JSON ucu çalışıyor (ör. ara=biz, HTTP 200). api.sozluk.gov.tr bu
+      ortamda izinli değil; Derleme/Tarama/Köken uçları için ortama eklenmeli.
 
   - kimlik: nisanyan
     ad: Nişanyan Sözlük — Çağdaş Türkçenin Etimolojisi
@@ -411,8 +500,12 @@ kaynaklar:
     erisim: kismen
     bicim: web
     guven: orta
-    durum: arandi
-    not: Türkçe kökenler konusunda eleştirileri var; Eren, Gülensoy, Tietze ile karşılaştır.
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200).
+    not: >-
+      Türkçe etimolojide hızlı ilk bakış. Türk dilleri arası köken bağlantılarında tek
+      başına kullanma; Clauson, ESTJa ya da Tietze ile denetle.
 
   - kimlik: tietze
     ad: Tietze — Tarihî ve Etimolojik Türkiye Türkçesi Lugatı (TÜBA)
@@ -426,6 +519,9 @@ kaynaklar:
     bicim: basili
     guven: yuksek
     durum: basili
+    not: >-
+      Kıbrıs ağzı verileri üzerine bir inceleme: akmb.gov.tr (Emine Yılmaz). TÜBA'nın
+      tanıtım PDF'i tuba.gov.tr/files/images/2020/tietze 10 cilt/ altında.
 
   - kimlik: tnc
     ad: Türkçe Ulusal Derlemi (TNC) ve Türkçe Sıklık Sözlüğü
@@ -473,6 +569,9 @@ kaynaklar:
     bicim: web
     guven: orta
     durum: arandi
+    dogrulama: >-
+      2026-11-12: bitig.kz izinli olduğu hâlde bağlantı yanıt vermedi (zaman aşımı). Eski
+      adres bitig.org (ISAW AWOL dizininde arşivli).
 
   - kimlik: wilkens-eski-uygurca
     ad: Wilkens — Handwörterbuch des Altuigurischen (2021)
@@ -481,11 +580,16 @@ kaynaklar:
     diller: [otk]
     kullanim: [tarihi, ana_turkce]
     ne: Eski Uygurca metinlerin bütün söz varlığı; Almanca-Türkçe açıklamalı.
-    nasil: Göttingen Üniversitesi Yayınevi, açık erişim PDF (OAPEN).
+    nasil: >-
+      Göttingen Üniversitesi Yayınevi, açık erişim PDF. Kayıt: DOAB; dosya:
+      library.oapen.org/handle/20.500.12657/51341.
     erisim: acik
     bicim: pdf
     guven: yuksek
     durum: arandi
+    dogrulama: >-
+      2026-11-12: DOAB ve OAPEN hız sınırı veriyor (HTTP 429). Aralıklı denenmeli; arama
+      motorunda kayıt görüldü.
 
   - kimlik: dts
     ad: Древнетюркский словарь (1969)
@@ -535,13 +639,17 @@ kaynaklar:
     diller: [qwm]
     kullanim: [tarihi]
     ne: >-
-      Kuman-Kıpçakça tanığı. Halle baskısı (kamu malı, PDF); ayrıca Kuun 1880 baskısı
+      Kuman-Kıpçakça tanığı. Halle baskısı (kamu malı, PDF); Kuun 1880 baskısı
       (archive.org/details/codexcumanicusbi00kuunuoft) ve Ligeti'nin girişi (Hungaricana).
+      Sözlük olarak Grønbech'in Kuman Lehçesi Sözlüğü (gronbech-kuman) daha kullanışlı.
     nasil: PDF'lerde kelime arama; Türkçe baskı (Argunşah & Güner) basılı.
     erisim: acik
     bicim: pdf
     guven: yuksek
     durum: arandi
+    dogrulama: >-
+      2026-11-12: Kuun 1880 baskısı archive.org'da açıldı (HTTP 200). Halle adresi bu
+      ortamda izinli değil.
 
   - kimlik: akvius-cagatayca
     ad: Akvius — çevrim içi Çağatayca sözlük
@@ -616,7 +724,9 @@ kaynaklar:
     tur: sozluk
     diller: [kir]
     kullanim: [bicim]
-    ne: Kırgızca-Rusça (Yudahin), Rusça-Kırgızca, İngilizce-Kırgızca sözlükler.
+    ne: >-
+      Kırgızca-Rusça (Yudahin), Rusça-Kırgızca, İngilizce-Kırgızca sözlükler; açıklamalı
+      sözlük ve deyimler (/frazeologizm/).
     nasil: Web arama. Ayrıca Kırgızca dil kaynakları listesi github.com/alexeyev/awesome-kyrgyz-nlp.
     erisim: acik
     bicim: web
@@ -748,13 +858,20 @@ kaynaklar:
     tur: sozluk
     diller: [chv]
     kullanim: [bicim, agiz, odunc]
-    ne: 54.000'den fazla kelimelik büyük Çuvaşça sözlük; ağız biçimleri dahil. 2014 dizini.
-    nasil: Basılı (1928-1950; yeniden basımlar).
+    ne: >-
+      17 ciltlik (1928–1950) büyük Çuvaşça sözlük, 54.000'den fazla madde; ağız biçimleri
+      ve örnek cümleler dahil.
+    nasil: >-
+      Basılı (yeniden basım: Routledge 1968+). Çuvaşistan Ulusal Kütüphanesi (nbchr.ru)
+      2014'te kelime dizinini elektronik olarak yayımladı; ciltlerin taramaları da orada
+      aranabilir.
     erisim: basili
     bicim: basili
     guven: yuksek
     durum: basili
-    not: Standart Çuvaşça yenilikçidir; ağız biçimleri Ana Türkçe için daha değerli olabilir.
+    not: >-
+      Standart Çuvaşça yenilikçidir; ağız biçimleri Ana Türkçe için daha değerli olabilir.
+      Rusça aramada: Ашмарин, Словарь чувашского языка.
 
   - kimlik: halacca
     ad: Halaçça — Doerfer, Khalaj Materials (1971) ve Doerfer & Tezcan, Wörterbuch des Chaladsch (1980)
@@ -780,7 +897,9 @@ kaynaklar:
     erisim: basili
     bicim: basili
     guven: yuksek
-    durum: basili
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: Glottolog künye sayfası açıldı (HTTP 200).
 
   - kimlik: salarca
     ad: Salarca — Dwyer'in çalışmaları ve DoBeS Salar projesi
@@ -895,7 +1014,9 @@ kaynaklar:
     erisim: acik
     bicim: web
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: Türk dilleri sayfası açıldı (HTTP 200, Glottolog 5.4).
 
   - kimlik: johanson-csato
     ad: Johanson & Csató (ed.) — The Turkic Languages (2. baskı, 2021)
@@ -1022,20 +1143,30 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: ACL Anthology sayfası ve PDF açıldı (HTTP 200).
 
   - kimlik: salehi-2017
     ad: Salehi & Neysani 2017 — Azerbaycan Türkçesinin Türkiye Türkçesi konuşurlarınca anlaşılırlığı
-    url: https://aclanthology.org/2026.scil-main.41.pdf
+    url: >-
+      
+      https://www.tandfonline.com/action/doSearch?AllField=Receptive+intelligibility+of+Turkish+to+Iranian-Azerbaijani+speakers
     tur: anlasilirlik
     diller: [tur, aze]
     kullanim: [ag]
     ne: Dinleyici deneyi; Türkiye-Azerbaycan anlaşılırlığı.
-    nasil: Künyesi SCiL 2026 makalesinin kaynakçasında.
+    nasil: >-
+      Salehi & Neysani 2017, Receptive intelligibility of Turkish to Iranian-Azerbaijani
+      speakers, Cogent Education 4(1). Künye SCiL 2026 makalesinin (scil-2026)
+      kaynakçasında da var.
     erisim: kismen
     bicim: pdf
     guven: yuksek
     durum: arandi
+    dogrulama: >-
+      2026-11-12: eski adres makalenin kendisi değil SCiL 2026 PDF'iydi; dergi aramasına
+      çevrildi. Makale bu ortamdan açılmadı.
 
   - kimlik: en-sik-1000
     ad: En sık 1000 kelime açısından modern Türk dilleri (Türkiye, Azerbaycan, Kazak, Kırgız, Özbek)
@@ -1083,7 +1214,11 @@ kaynaklar:
     erisim: acik
     bicim: git
     guven: orta
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: README
+      raw.githubusercontent.com/turkic-interlingua/til-mt/main/README.md üzerinden okundu
+      (HTTP 200). GitHub HTML sayfası bu ortamda 403.
 
   - kimlik: apertium
     ad: Apertium — Türk dilleri çeviri çiftleri ve sözlükleri
@@ -1097,6 +1232,9 @@ kaynaklar:
     bicim: git
     guven: orta
     durum: arandi
+    dogrulama: >-
+      2026-11-12: github.com HTML sayfası 403 (oturumun GitHub kapsamı). Depolardaki .dix
+      dosyaları raw.githubusercontent.com/apertium/<depo>/master/ üzerinden okunabilir.
     not: Liste örnektir; hangi çiftlerin bulunduğu depolardan doğrulanmalı.
 
   - kimlik: leipzig-corpora
@@ -1111,7 +1249,9 @@ kaynaklar:
     bicim: csv
     guven: orta
     durum: arandi
-    not: Özbekçe dışındaki dillerin dosyaları ayrıca doğrulanmalı.
+    not: >-
+      Dil sayfası ör. curl.corpora.uni-leipzig.de/languages/uzb. Özbekçe dışındaki
+      dillerin dosyaları ayrıca doğrulanmalı.
 
   - kimlik: sketch-engine-turk
     ad: Sketch Engine — Turkic web corpora
@@ -1133,11 +1273,16 @@ kaynaklar:
     diller: [tur, kaz]
     kullanim: [sira]
     ne: Konuşma diline yakın sıklık listeleri (film altyazıları).
-    nasil: Dil koduna göre dosyalar (content/2018/<kod>/).
+    nasil: >-
+      Dil koduna göre dosyalar:
+      https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/<kod>/<kod>_50k.txt
+      (kelime ve sayı). Türkçe için tr, Kazakça için kk.
     erisim: acik
     bicim: csv
     guven: orta
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: tr_50k.txt raw üzerinden indirildi (HTTP 200, ~700 KB).
 
   - kimlik: qamus
     ad: Qamus — Türk Devletleri Parlamenter Asamblesi (TÜRKPA) karşılaştırmalı sözlüğü
@@ -1178,7 +1323,9 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200).
 
   - kimlik: tdk-belleten
     ad: Türk Dili Araştırmaları Yıllığı — Belleten
@@ -1204,4 +1351,501 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: açıldı (HTTP 200). Makale PDF'leri
+      dergipark.org.tr/tr/download/article-file/<no> biçiminde doğrudan inebiliyor.
+
+  # ================================================== YENİ KAYNAKLAR (2026-11 genişletmesi, çok dilli arama)
+
+  - kimlik: gronbech-kuman
+    ad: Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)
+    url: >-
+      https://archive.org/details/k.-gronbech-kuman-lehcesi-sozlugu-codex-cumani-cus
+    tur: tarihi
+    diller: [qwm]
+    kullanim: [tarihi, bicim]
+    ne: >-
+      Codex Cumanicus'taki bütün Kumanca kelimelerin alfabetik sözlüğü (Grønbech 1942,
+      Komanisches Wörterbuch; Türkçesi Kemal Aytaç, TDK 1992). Her kelimenin metindeki
+      yazımları ve anlamı.
+    nasil: >-
+      archive.org taramasında madde başına göre ara. qwm tanığı için ilk bakılacak yer.
+    erisim: acik
+    bicim: pdf
+    guven: yuksek
+    durum: denendi
+    dogrulama: >-
+      2026-11-12: archive.org kaydı açıldı (HTTP 200).
+
+  - kimlik: turkbv
+    ad: ILCAA Turkic Basic Vocabulary (Tokyo Yabancı Diller Üniversitesi)
+    url: >-
+      https://turkbv.aa-ken.jp/
+    tur: veri-seti
+    diller: [tum]
+    kullanim: [bicim, ag, ses]
+    ne: >-
+      Türk dillerinde temel söz varlığı listeleri, konuşur ses kayıtlarıyla. Aynı merkezin
+      Moğolca karşılığı mongolicbv.aa-ken.jp; Moğolca ödünçleri ayırmak için yan yana
+      kullanılabilir.
+    nasil: >-
+      Web arayüzünde kavram ya da dil seçilir. Kaynak portalı: online-resources.aa-ken.jp.
+    erisim: acik
+    bicim: web
+    guven: yuksek
     durum: arandi
+    not: Hangi dilleri kapsadığı ortama eklenip denetlenmeli (Japonca aramada bulundu).
+
+  - kimlik: lehceler-com
+    ad: lehceler.com — Türk lehçeleri karşılaştırmalı sözlüğü
+    url: >-
+      http://www.lehceler.com/
+    tur: sozluk
+    diller: [tur, aze, tuk, kaz, kir, uzb, tat, bak, uig]
+    kullanim: [bicim]
+    ne: Türkiye Türkçesinden ana lehçelere kelime karşılıkları.
+    nasil: >-
+      Türkçe kelimeyle ara. Hızlı ilk tarama için; biçimleri bir dil sözlüğüyle denetle.
+    erisim: acik
+    bicim: web
+    guven: dusuk
+    durum: arandi
+
+  - kimlik: tatar-akademi-sozluk
+    ad: Tataristan Bilimler Akademisi — Tatarca sözlükler (Süzlek)
+    url: >-
+      https://www.antat.ru/en/tatzet
+    tur: sozluk
+    diller: [tat]
+    kullanim: [bicim, agiz, ana_turkce]
+    ne: >-
+      G. İbrahimov Dil, Edebiyat ve Sanat Enstitüsü'nün sözlükleri: Tatar teleneñ
+      añlatmalı süzlege (açıklamalı), Tatar halık söyläşläre süzlege (ağız sözlüğü),
+      Tatarca etimoloji sözlüğü (Ahmetyanov).
+    nasil: >-
+      Enstitünün çevrim içi sözlük hizmeti suzlek.antat.ru. Ağız sözlüğü Tatarca
+      ağızlarını (Kazan, Mişer, Sibirya) ayırmak için.
+    erisim: acik
+    bicim: web
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: tatar-sozluk-veri
+    ad: neurotatarlar/tt-dictionaries — Tatarca sözlükler veri seti
+    url: >-
+      https://huggingface.co/datasets/neurotatarlar/tt-dictionaries
+    tur: veri-seti
+    diller: [tat]
+    kullanim: [toplu, bicim]
+    ne: Tatarca sözlüklerin makinece okunabilir dökümü (Hugging Face).
+    nasil: >-
+      README'de kaynak sözlükler ve lisans; dosyalar doğrudan indirilir.
+    erisim: acik
+    bicim: json
+    guven: orta
+    durum: arandi
+    not: huggingface.co bu ortamda izinli değil.
+
+  - kimlik: tatar-derlem
+    ad: Tatarca Ulusal Derlemi (corpus.tatar)
+    url: >-
+      https://www.corpus.tatar/en/statistics
+    tur: derlem
+    diller: [tat]
+    kullanim: [sira, bicim]
+    ne: >-
+      Kazan merkezli büyük Tatarca derlemi; sıklık istatistikleri. Tugan Tel'den
+      (tugan-tel) ayrı bir derlem.
+    nasil: search.corpus.tatar arayüzünde kelime ve sıklık arama.
+    erisim: acik
+    bicim: web
+    guven: orta
+    durum: arandi
+
+  - kimlik: cuvasca-ceviri
+    ad: translate.chv.su — Çuvaşça-Rusça derlem, çeviri ve sözlük (Plotnikov)
+    url: >-
+      https://ru.translate.chv.su
+    tur: derlem
+    diller: [chv]
+    kullanim: [bicim, sira]
+    ne: >-
+      Çuvaşça-Rusça paralel derlemi (~225.000 cümle çifti) üzerinde çeviri ve sözlük. Aynı
+      geliştiricinin çevrim içi Çuvaşça sözlüğü.
+    nasil: Kelimenin bugünkü kullanımını ve sıklığını görmek için.
+    erisim: acik
+    bicim: web
+    guven: orta
+    durum: arandi
+    not: Rusça aramada bulundu.
+
+  - kimlik: kumuk-kaynaklari
+    ad: til.im — Kumukça kitaplar ve sözlükler
+    url: >-
+      https://til.im
+    tur: portal
+    diller: [kum]
+    kullanim: [bicim, dilbilgisi]
+    ne: >-
+      Kumukça dil kitapları, sözlükler ve konuşma kılavuzları (Rusça arayüz); ör.
+      Sovremennyy kumykskiy yazyk.
+    nasil: Kitaplar bölümünde (knigi) sözlükleri ara.
+    erisim: acik
+    bicim: pdf
+    guven: orta
+    durum: arandi
+
+  - kimlik: nsc-filoloji
+    ad: RBA Sibirya Şubesi Filoloji Enstitüsü (Novosibirsk) — dergiler ve e-kitaplık
+    url: >-
+      https://philology.nsc.ru/
+    tur: dergi
+    diller: [alt, atv, kjh, cjs, clw, tyv, kim, sah, sty]
+    kullanim: [bicim, agiz, literatur]
+    ne: >-
+      Sibirya Türk dilleri üzerine makaleler (Sibirskiy filologicheskiy zhurnal, Kritika i
+      semiotika) ve sözlük taslakları; ör. Dobrinina'nın Altayca sözlüğü
+      (fehu.philology.nsc.ru/elib/).
+    nasil: >-
+      PDF'ler fehu.philology.nsc.ru/journals/spj/pdf/<yıl_sayı>/<no>.pdf biçiminde. Rusça
+      arama: алтайско-русский словарь, хакасско-русский словарь.
+    erisim: acik
+    bicim: pdf
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: tuva-dergi
+    ad: Novye issledovaniya Tuvy (Tuva üzerine yeni araştırmalar) dergisi
+    url: >-
+      https://nit.tuva.asia
+    tur: dergi
+    diller: [tyv, kim, duha, soyot]
+    kullanim: [literatur, agiz, konusur]
+    ne: >-
+      Tuvaca, Tuvaca ağızları (Moğolistan, Çin Tuvaları) ve Tofaca üzerine açık erişimli
+      makaleler.
+    nasil: >-
+      Makale PDF'leri nit.tuva.asia/nit/article/download/<no>.
+    erisim: acik
+    bicim: pdf
+    guven: orta
+    durum: arandi
+
+  - kimlik: sibirya-tatar-agiz
+    ad: >-
+      Alişina 1994 — Tobol-İrtış ağzı (Sibirya Tatarcası) ve Tümen Üniversitesi
+      e-kitaplığı
+    url: >-
+      
+      https://elib.utmn.ru/jspui/bitstream/ru-tsu/35717/1/Alishina_1994_Tobolo-Irtyshskii_dialekt.pdf
+    tur: belgeleme
+    diller: [sty]
+    kullanim: [agiz, bicim]
+    ne: >-
+      Sibirya Tatarcasının Tobol-İrtış ağzının tanımı ve söz varlığı (Rusça). Tümen Devlet
+      Üniversitesi deposunda (elib.utmn.ru) başka Sibirya Tatarcası çalışmaları da var.
+    nasil: PDF. Sibirya Tatarcası (sty) ağız biçimleri için.
+    erisim: acik
+    bicim: pdf
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: sovet-turkologiya
+    ad: >-
+      Sovetskaya Tyurkologiya dergisi arşivi (Azerbaycan Cumhurbaşkanlığı Kütüphanesi,
+      TurkLib)
+    url: >-
+      https://files.preslib.az/projects/turklib/
+    tur: dergi
+    diller: [tum]
+    kullanim: [literatur, ana_turkce, ses, agiz]
+    ne: >-
+      Sovyet Türkolojisinin ana dergisinin (1970–1991) taranmış sayıları: etimoloji, ses
+      tarihi, ağız ve karşılaştırma makaleleri. Aynı kütüphanenin sözlük koleksiyonu:
+      preslib.az/en/collections/ebooks/0eJYS7u.
+    nasil: >-
+      Sayılar jurnallar/sovet_turkologiya/sovtur_<yıl>_<sayı>.pdf biçiminde.
+    erisim: acik
+    bicim: pdf
+    guven: yuksek
+    durum: arandi
+    not: Azerbaycanca aramada bulundu.
+
+  - kimlik: azerbaycan-kaynaklari
+    ad: Azerbaycanca kaynaklar (Azərbaycan dilinin izahlı lüğəti, dilcilik.az)
+    url: >-
+      https://dilcilik.az
+    tur: sozluk
+    diller: [aze, aze-iran]
+    kullanim: [bicim, agiz, literatur]
+    ne: >-
+      Azərbaycan dilinin izahlı lüğəti (4 cilt, AMEA 2006) ve Azərbaycan dilinin
+      dialektoloji lüğəti (ağız sözlüğü). dilcilik.az dilbilim kitaplığı; sözlük
+      taramaları preslib.az koleksiyonunda.
+    nasil: Ağız sözlüğü Azerbaycan ağızlarını (Güney, Afşar, Karapapak) doldurmak için.
+    erisim: kismen
+    bicim: pdf
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: kazak-15-cilt
+    ad: Qazaq ädebï tiliniñ sözdigi — Kazak yazı dilinin 15 ciltlik sözlüğü (2011)
+    url: >-
+      
+      https://search.worldcat.org/search?q=%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B+%D3%99%D0%B4%D0%B5%D0%B1%D0%B8+%D1%82%D1%96%D0%BB%D1%96%D0%BD%D1%96%D2%A3+%D1%81%D3%A9%D0%B7%D0%B4%D1%96%D0%B3%D1%96
+    tur: sozluk
+    diller: [kaz]
+    kullanim: [bicim]
+    ne: >-
+      Kazakçanın en büyük açıklamalı sözlüğü (A. Baytursınulı Dilbilim Enstitüsü). Eskimiş
+      ve bölgesel kelimeler işaretli.
+    nasil: Çevrim içi sürümü sozdik.kz ve Kazakistan dil portallarında aranabilir.
+    erisim: kismen
+    bicim: basili
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: ozbek-etimoloji
+    ad: >-
+      Rahmatullayev — O'zbek tilining etimologik lug'ati
+    url: >-
+      https://search.worldcat.org/search?q=O%27zbek+tilining+etimologik+lug%27ati
+    tur: etimoloji
+    diller: [uzb]
+    kullanim: [ana_turkce, odunc]
+    ne: >-
+      Özbekçenin etimoloji sözlüğü (Türkçe kökenli kelimeler, Farsça ve Arapça alıntılar
+      ayrı ciltlerde; 2000–2009).
+    nasil: >-
+      Basılı; Özbekistan kütüphanelerinde elektronik kopyalar. Özbekçenin Farsça
+      alıntılarını ayıklamak için.
+    erisim: basili
+    bicim: basili
+    guven: yuksek
+    durum: basili
+
+  - kimlik: ozbek-izohli
+    ad: >-
+      O'zbek tilining izohli lug'ati — Özbekçe açıklamalı sözlük (yeni baskı)
+    url: >-
+      https://uza.uz/ar/posts/ozbek-tilining-izohli-lugati-taqdimoti-otkazildi_488895
+    tur: sozluk
+    diller: [uzb]
+    kullanim: [bicim]
+    ne: >-
+      Özbekçenin açıklamalı sözlüğü (5 cilt 2006–2008; Bilimler Akademisi yeni baskısı
+      tanıtıldı).
+    nasil: Akademinin yayınlar sayfası academy.uz/en/page/pdf/nashrlar.
+    erisim: kismen
+    bicim: pdf
+    guven: yuksek
+    durum: arandi
+    not: Özbekçe aramada bulundu.
+
+  - kimlik: turkmen-etimoloji
+    ad: >-
+      Türkmence etimoloji ve açıklamalı sözlükler (Atanyýazow; Türkmen diliniň
+      düşündirişli sözlügi)
+    url: >-
+      https://search.worldcat.org/search?q=T%C3%BCrkmen+dilini%C5%88+s%C3%B6zl%C3%BCgi
+    tur: etimoloji
+    diller: [tuk]
+    kullanim: [ana_turkce, bicim, agiz]
+    ne: >-
+      S. Atanyýazow'un Türkmence etimoloji ve ad sözlükleri; Türkmen diliniň düşündirişli
+      sözlügi (2 cilt). Türkmence ağızlar için Türkmen diliniň dialektlerinin atlası.
+    nasil: Basılı; Türkiye kütüphanelerinde Türkçe çevirileri de var.
+    erisim: basili
+    bicim: basili
+    guven: orta
+    durum: basili
+    not: Künyeler kütüphane kataloğundan denetlenmeli.
+
+  - kimlik: cin-turk-dilleri
+    ad: >-
+      Çin'deki küçük Türk dillerinin sözlükleri (Batı Yugurca, Salarca)
+    url: >-
+      
+      https://search.worldcat.org/search?q=%E8%A5%BF%E9%83%A8%E8%A3%95%E5%9B%BA%E6%B1%89%E8%AF%8D%E5%85%B8
+    tur: sozluk
+    diller: [ybe, slr, fuyu]
+    kullanim: [bicim, odunc]
+    ne: >-
+      Lei Xuanchun 1992, Xibu Yugu-Han cidian (Batı Yugurca-Çince sözlük); Lin Lianyun
+      1992, Sala-Han Han-Sala cihui (Salarca-Çince söz varlığı); Chen Zongzhen'in Batı
+      Yugurca incelemeleri. Fuyu Kırgızcası için Hu Zhenhua'nın çalışmaları.
+    nasil: >-
+      Basılı (Çince). Çince arama terimleri: 西部裕固汉词典, 撒拉汉汉撒拉词汇, 富裕柯尔克孜语. Moğolca ve
+      Tibetçe ödünçlere dikkat.
+    erisim: basili
+    bicim: basili
+    guven: yuksek
+    durum: basili
+    not: Çince aramada bulundu.
+
+  - kimlik: iran-dil-atlasi
+    ad: >-
+      Iran Atlas — İran'ın Dil Atlası (Anonby vd.)
+    url: >-
+      https://iranatlas.net
+    tur: nufus
+    diller: [aze-iran, qxq, kmz, klj]
+    kullanim: [konusur, agac, ag]
+    ne: >-
+      İran'da konuşulan dillerin ve ağızların haritası ve sınıflandırması; Azerbaycan
+      Türkçesi, Kaşkayca, Horasan Türkçesi, Halaçça ve küçük Oğuz ağızlarının dağılımı.
+    nasil: >-
+      Harita ve belge sayfaları (Google Docs vekil sayfaları da var). Konuşur sayısı ve
+      komşuluk (örgü) için.
+    erisim: acik
+    bicim: web
+    guven: yuksek
+    durum: arandi
+    not: >-
+      Farsça aramada bulundu. Farsça sözlük sitesi abadis.ir Azerbaycanca karşılıklar için
+      yardımcı olabilir (güven düşük).
+
+  - kimlik: turfan-bbaw
+    ad: BBAW Turfan Araştırmaları — Eski Uygurca metinler ve sayısal arşiv
+    url: >-
+      https://turfan.bbaw.de/projekt-en.html
+    tur: tarihi
+    diller: [otk]
+    kullanim: [tarihi]
+    ne: >-
+      Berlin-Brandenburg Bilimler Akademisi'nin Turfan koleksiyonu: Eski Uygurca el
+      yazmalarının sayısal görüntüleri ve yayınları (IDP Berlin).
+    nasil: Metin tanığını görmek için; kelime arama için Wilkens sözlüğü daha uygun.
+    erisim: acik
+    bicim: web
+    guven: yuksek
+    durum: arandi
+    not: Almanca aramada bulundu.
+
+  - kimlik: kohd-eski-uygurca
+    ad: >-
+      KOHD — Almanya'daki Eski Uygurca el yazmaları kataloğu
+    url: >-
+      
+      https://orient-kohd.dl.uni-leipzig.de/content/SpecFeatures_KOHD_OldUygur_ENG_20200120.pdf
+    tur: tarihi
+    diller: [otk]
+    kullanim: [tarihi, literatur]
+    ne: >-
+      Katalogisierung der Orientalischen Handschriften in Deutschland: Eski Uygurca metin
+      parçalarının ayrıntılı katalogları (VOHD serisi).
+    nasil: Leipzig Üniversitesi veritabanı; metin parçasının yayın bilgisini bulmak için.
+    erisim: acik
+    bicim: web
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: gottingen-altuygur
+    ad: Göttingen Bilimler Akademisi — Altuigurisches Wörterbuch projesi
+    url: >-
+      
+      https://adw.d.sub.uni-goettingen.de/fileadmin/forschungsprojekte/altuigurisches_woerterbuch/dokumente/Gesamtbibliographie_JPL.pdf
+    tur: tarihi
+    diller: [otk]
+    kullanim: [tarihi, ana_turkce, literatur]
+    ne: >-
+      Büyük Eski Uygurca sözlük projesi (Wilkens, Ünal vd.). Bağlantı projenin Eski
+      Uygurca genel kaynakçası; proje sayfasında yayınlar (ör. Ünal 2026) listelenir.
+    nasil: >-
+      Kaynakça PDF'i bir Eski Uygurca metnin yayınını bulmak için.
+    erisim: acik
+    bicim: pdf
+    guven: yuksek
+    durum: arandi
+
+  - kimlik: khabtagaeva
+    ad: Khabtagaeva — Sibirya Türk dillerinde Moğolca ödünçler
+    url: >-
+      https://search.worldcat.org/search?q=Khabtagaeva+Mongolic+elements+in+Tuvan
+    tur: etimoloji
+    diller: [tyv, sah, alt, kjh, kim]
+    kullanim: [odunc]
+    ne: >-
+      Khabtagaeva 2009, Mongolic Elements in Tuvan (Harrassowitz) ve 2019, Language
+      Contact in Siberia (Brill). Tuvaca ve komşularındaki Moğolca ödünçlerin katmanları.
+    nasil: >-
+      Basılı. Sibirya dillerinde bir biçimin Türkçe mi Moğolca ödünç mü olduğunu ayırmak
+      için.
+    erisim: basili
+    bicim: basili
+    guven: yuksek
+    durum: basili
+
+  - kimlik: robbeets-2021
+    ad: Robbeets vd. 2021 — Triangulation (Transeurasian) veri seti
+    url: >-
+      https://clics.clld.org/languages/1687
+    tur: veri-seti
+    diller: [tum]
+    kullanim: [ana_turkce, toplu]
+    ne: >-
+      Nature 2021 makalesinin temel söz varlığı verisi (CLDF; CLICS'te). Türk dillerinin
+      eski biçimlerini Moğol, Tunguz, Kore ve Japon dilleriyle karşılaştırır.
+    nasil: >-
+      Ana Türkçe ötesine gitmek için değil, bir kökün Moğolca ile paylaşılıp
+      paylaşılmadığını görmek için (ödünç şüphesi).
+    erisim: acik
+    bicim: csv
+    guven: orta
+    durum: arandi
+    not: Transeurasian (Altay) akrabalığı tartışmalıdır; Hedef 2 için kanıt sayılmaz.
+
+  - kimlik: turkicnlp
+    ad: TurkicNLP — Türk dilleri için doğal dil işleme araç takımı
+    url: >-
+      https://arxiv.org/html/2602.19174
+    tur: arac
+    diller: [tum]
+    kullanim: [toplu, yazim]
+    ne: >-
+      Türk dilleri için ortak araçlar: yazı çevirme (Kiril, Arap, Latin), biçimbirim
+      çözümleme ve kaynak listesi (2026).
+    nasil: >-
+      Kiril ve Arap yazısındaki biçimleri çalışma yazımına aktarmak için yardımcı
+      olabilir.
+    erisim: acik
+    bicim: git
+    guven: orta
+    durum: arandi
+
+  - kimlik: yok-acik-bilim
+    ad: >-
+      YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler
+    url: >-
+      https://acikbilim.yok.gov.tr
+    tur: portal
+    diller: [tum]
+    kullanim: [literatur, tarihi, agiz, bicim]
+    ne: >-
+      Türkiye'de yazılmış tezler: Çağatayca lügatlerin çevriyazıları (Abuşka, Şeyh
+      Süleyman Efendi, Bedâyiü'l-Lugat), ağız monografileri, lehçeler arası
+      karşılaştırmalı sözlükler.
+    nasil: >-
+      Tez adına ya da konuya göre ara. Çağatayca (chg) ve Türkiye ağızları için zengin.
+    erisim: kismen
+    bicim: pdf
+    guven: orta
+    durum: arandi
+
+  - kimlik: ilcaa-kaynaklari
+    ad: ILCAA çevrim içi kaynak portalı (Tokyo)
+    url: >-
+      https://online-resources.aa-ken.jp/
+    tur: portal
+    diller: [tum]
+    kullanim: [bicim, literatur]
+    ne: >-
+      Asya ve Afrika dilleri üzerine çevrim içi sözlükler, temel söz varlığı listeleri ve
+      derlemler; Türk dilleri kayıtları (turkbv) dahil.
+    nasil: Dil adına göre ara.
+    erisim: acik
+    bicim: web
+    guven: yuksek
+    durum: arandi
+    not: Japonca aramada bulundu.
