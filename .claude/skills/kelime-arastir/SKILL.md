@@ -51,6 +51,8 @@ Kurallar:
 - Aynı kökten gelen biçimleri **tek kökte** topla (ses denklikleri: t/d, ş/s/l
   (Çuvaşça), -ğ/-w/-u/-v, z/r (Çuvaşça), y/c/ç/j/s/ʒ başlangıcı…). Bağlantı
   tartışmalıysa ayrı kök yap ve `not` yaz.
+- Bilim insanlarının yeniden kurduğu Ana Türkçe biçim biliniyorsa (ör. StarLing,
+  Wiktionary) kökün `ana_turkce` alanına yaz (ör. `ana_turkce: "*tāš"`).
 - Kiril, Arap ve diğer yazılardaki biçimleri ILKELER.md §7'deki çalışma yazımına aktar.
 - Tarihî tanıklarda kelime bulunamadıysa `tarihi_yok` listesine yaz. Hiç
   bakılmadıysa hiçbir yere yazma.
@@ -78,9 +80,13 @@ Hata veriyorsa düzelt (genellikle yanlış dil kodu).
 2. **Tablo:** dil → biçim (alıntılar işaretli).
 3. **Belirsizlikler:** boş bırakılan diller, şüpheli biçimler, tartışmalı kök
    bağlantıları.
-4. **Karar gerektirenler:** kullanıcıya sorulacak en fazla 2–3 nokta.
+4. **Üç hedef:** ortak dil, Ana Türkçe tahmini ve en çok kişinin anladığı
+   biçim (`--karsilastir`). Ayrışıyorsa nedenini bir cümleyle açıkla.
+5. **Karar gerektirenler:** kullanıcıya sorulacak en fazla 2–3 nokta.
 
 ## 6. Kaydet
 
+`KARSILASTIRMA.md` dosyasını yenile
+(`python3 araclar/puanla.py --karsilastir --md > KARSILASTIRMA.md`).
 Kullanıcının çalışma branch'ine commit et ve push et. Commit mesajı:
 `sozluk: <kavram> eklendi` (güncellemede `güncellendi`).

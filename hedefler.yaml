@@ -1,0 +1,61 @@
+# Hedefler
+# ------------------------------------------------------------------
+# Aynı veri (agac.yaml, tarihi.yaml, sozluk/) üç farklı soruya cevap verir.
+# Her hedefin kendi ağırlığı, ölçüsü ve biçim kuralı vardır (ILKELER.md §1).
+# Öz Türkçe filtresi üç hedefte de geçerlidir: alıntılar hiçbir zaman seçilmez.
+#
+#   agirlik   : basamak -> (ortalama büyüklük basamağı) x (dil sayısı ^ alfa)
+#               soy     -> her ayrılıkta dallar eşit; nüfus hiç sayılmaz
+#               nufus   -> doğrudan konuşur sayısı
+#               (Bir dilin içinde ağızlar her hedefte (ağız sayısı ^ alfa) ile,
+#                soy hedefinde eşit tartılır.)
+#   seffaf    : agac.yaml'daki şeffaf düğümleri (Ortak Türkçe) atla mı?
+#   olcu      : anlasilirlik -> biçim ne kadar tanıdık; yayilim -> kök ne kadar yaşıyor
+#   beta      : eskiliğin etkisi
+#   turetilmis_taniklar : Ana Türkçe tanıklığı gibi türetilmiş tanıklar sayılsın mı?
+#   bicim     : anlasilir -> en anlaşılır YAŞAYAN biçim
+#               eski      -> o dalın en eski tanığının biçimi (yaşamasa da olur)
+#   esik      : yayılımı bunun altındaki kökler "canlandırma" sayılır (boş: uyarı yok)
+#   tanik_kapsami : ilgili -> bir dalda karar verilirken kendi, üst ve alt dallarının
+#                            tanıkları sayılır (eski kelimeye genel eğilim)
+#                   alt    -> sadece kendi ve alt dallarının tanıkları sayılır
+#                            ("Kıpçakçanın en eski hâli"ni Kıpçak kanıtı belirler;
+#                             Ana Türkçe tanıklığı yalnızca en tepede sayılır)
+
+- kod: ortak
+  ad: Ortak dil
+  soru: Bütün Türk kavimleri birbirini anlasın.
+  asil: true
+  agirlik: basamak
+  alfa: 0.5
+  seffaf: true
+  olcu: anlasilirlik
+  beta: 0.2
+  taban: 0.5
+  turetilmis_taniklar: false
+  bicim: anlasilir
+  esik: 0.5
+
+- kod: ana
+  ad: Ana Türkçe tahmini
+  soru: Türkçenin en eski hâli neydi?
+  agirlik: soy
+  seffaf: false
+  olcu: yayilim
+  beta: 1.0
+  turetilmis_taniklar: true
+  tanik_kapsami: alt
+  bicim: eski
+
+- kod: nufus
+  ad: En çok kişinin anladığı
+  soru: En fazla insan anlasın.
+  agirlik: nufus
+  alfa: 0.5
+  seffaf: true
+  olcu: anlasilirlik
+  beta: 0.2
+  taban: 0.5
+  turetilmis_taniklar: false
+  bicim: anlasilir
+  esik: 0.5

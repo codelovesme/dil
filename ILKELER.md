@@ -3,17 +3,41 @@
 Bu belge projenin anayasasıdır. Kelime seçimiyle ilgili her karar buradaki
 kurallara dayanmalı; kural değişecekse önce bu belge değişir.
 
-## 1. Amaç
+## 1. Amaç ve hedefler
 
-Bugün yaşayan bütün Türk kavimlerinin **birbirini anlamasını** sağlayacak ortak
-bir Türk dili oluşturmak. Bunu yaparken:
+Türk kavimlerini öz Türkçe kelimelerle birbirine bağlamak. Aynı veriden
+**üç ayrı hedefe** cevap aranır, çünkü bunlar farklı sorulardır ve her biri
+farklı bir ağırlık ister. Hedeflerin ayarları [`hedefler.yaml`](hedefler.yaml)
+dosyasındadır.
 
-- **Öz Türkçe** kelimeler kullanılır; Arapça, Farsça, Rusça, Moğolca vb.
-  alıntılar **hiçbir koşulda** seçilmez.
+| | 1. Ortak dil **(asıl ürün)** | 2. Ana Türkçe tahmini | 3. En çok kişinin anladığı |
+|---|---|---|---|
+| **Soru** | Bütün Türk kavimleri birbirini anlasın | Türkçenin en eski hâli neydi? | En fazla insan anlasın |
+| **Ne sayılır** | Kavim / topluluk | Soy hattı (dal) | Kişi |
+| **Ağırlık** | Ağaç + büyüklük basamağı; altı kol yan yana | Her ayrılıkta dallar eşit (Oğur %50, Ortak Türkçe %50); nüfus sayılmaz | Doğrudan konuşur sayısı |
+| **Ölçü** | Anlaşılırlık | Yayılım (kök hangi soy hatlarında yaşıyor) | Anlaşılırlık |
+| **Eskilik** | Küçük bonus (β = 0.2) | Ana ölçü kadar önemli (β = 1.0), Ana Türkçe tanıklığı dahil | Küçük bonus (β = 0.2) |
+| **Biçim** | En anlaşılır yaşayan biçim | Dalın en eski tanığının biçimi; yaşamasa da olur | En anlaşılır yaşayan biçim |
+
+Üç hedefte de geçerli olanlar:
+
+- **Öz Türkçe:** Arapça, Farsça, Rusça, Moğolca vb. alıntılar **hiçbir koşulda**
+  seçilmez.
+- **Alttan yukarı hesap** ve aynı ağaç, aynı veri.
+- **Karşılaştırma:** Üç hedefin aynı kökü seçtiği kavramlar sağlamdır. Ayrıştığı
+  kavramlar tartışmaya açılır ve ayrıca listelenir:
+
+```
+python3 araclar/puanla.py --karsilastir
+```
+
+Asıl ürün, **Hedef 1: Ortak dil**dir. Hedef 2 ve 3 kaynak ve karşılaştırma
+içindir. Hedef 1'in ilkeleri:
+
 - **Anlaşılırlık** esastır: seçilen biçim, olabildiğince çok kavmin kulağına
   tanıdık gelmelidir.
-- **Eskilik** önceliklidir: tarihî metinlerde tanıklanmış kelimeler ve biçimler
-  öne çıkar.
+- **Eskilik** eşitlik bozucudur: tarihî metinlerde tanıklanmış kelimeler ve
+  biçimler öne çıkar.
 - **Kavimler arası denge** gözetilir: bir topluluk ne nüfusuyla ne de içinde
   çok sayıda dil ya da ağız barındırmasıyla diğerlerini ezebilir. Kişi sayısı
   sayılır, ama sadece büyüklük basamağı olarak (§3).
@@ -151,28 +175,37 @@ python3 araclar/puanla.py --agirliklar --agizlar --md > AGIRLIKLAR.md
 Gerekirse bir düğüme `agirlik_carpani` verilerek elle düzeltme yapılabilir, ama
 bu istisna olmalı ve gerekçesi yazılmalıdır.
 
-### Altı kol yan yana: Çuvaşçanın iki rolü ayrılır
+### Hedeflere göre ağırlık
 
-Çuvaşçanın iki ayrı rolü vardır ve bunlar ayrı ölçülür:
+Bu bölümdeki basamak kuralı **Hedef 1** içindir. Öteki hedefler aynı ağacı
+farklı tartar:
 
-1. **Anlaşılması gereken bir topluluk olarak** Çuvaşça sıradan bir dildir:
-   yaklaşık 740 bin konuşuru vardır ve basamağı 6'dır. Bu rol **ağırlıkla**
-   ölçülür.
-2. **Eskilik tanığı olarak** çok değerlidir: Ortak Türkçeden en erken ayrılan
-   kolun (Oğur) tek yaşayan temsilcisidir. Bu rol **eskilikle** ölçülür
-   (§4, Ana Türkçe tanıklığı).
+| Kol | 1. Ortak dil | 2. Ana Türkçe | 3. En çok kişi |
+|---|---|---|---|
+| Oğur (Çuvaşça) | %8.1 | %50 | %0.4 |
+| Halaç | %6.8 | %10 | %0.02 |
+| Oğuz | %26.1 | %10 | %62.3 |
+| Kıpçak | %27.4 | %10 | %13.2 |
+| Karluk | %14.8 | %10 | %23.7 |
+| Sibirya | %16.8 | %10 | %0.4 |
 
-Eskiden en tepede sadece iki çocuk vardı, Oğur ve Ortak Türkçe. Bu yüzden
-eskilik değeri topluluk ağırlığına dönüşüyor ve Çuvaşça %15.8 alıyordu, yani
-Türkiye Türkçesinin 5 katı ve bütün Karluk kolundan fazla. Şimdi
-**Ortak Türkçe düğümü şeffaftır** (`seffaf: true`): soy bilgisi olarak ağaçta
-durur, ama ağırlık hesabında atlanır. Böylece altı kol (Oğur, Halaç, Oğuz,
-Kıpçak, Karluk, Sibirya) en tepede yan yana tartılır.
+Tam tablolar [`AGIRLIKLAR.md`](AGIRLIKLAR.md) dosyasındadır.
 
-Sonuç: Oğur %8.1, Halaç %6.8, Oğuz %26.1, Kıpçak %27.4, Karluk %14.8,
-Sibirya %16.8. Oğur ve Halaç kolları tek dille temsil edildikleri için hâlâ
-tek tek dillerden ağırdır. Bu bilinçli bir tercihtir: kol bir kavimler
-grubudur ve tek dille temsil edilmesi sesini kısmak için bir sebep değildir.
+**Hedef 1'de altı kol yan yana tartılır.** Ortak Türkçe düğümü şeffaftır
+(`seffaf: true`): soy bilgisi olarak ağaçta durur, ama Hedef 1 ve 3'te ağırlık
+hesabında atlanır. Böylece Çuvaşça, anlaşılması gereken bir topluluk olarak
+sıradan bir dil gibi tartılır: yaklaşık 740 bin konuşur, basamak 6.
+
+Oğur ve Halaç kolları tek dille temsil edildikleri için tek tek dillerden yine de
+ağırdır. Bu bilinçli bir tercihtir: kol bir kavimler grubudur ve tek dille
+temsil edilmesi sesini kısmak için bir sebep değildir.
+
+**Hedef 2'de ağaç olduğu gibi tartılır.** Burada soru topluluk değil soydur.
+Türk dillerinin ilk ayrılığı Oğur ile Ortak Türkçe arasında olduğu için Çuvaşça
+%50 alır. Bu hedefte Çuvaşça en önemli tanıktır.
+
+**Hedef 3'te doğrudan konuşur sayısı kullanılır.** Türkiye Türkçesi tek başına
+%41 alır; Oğuz, Karluk ve Kıpçak kolları ağırlığın %99'unu toplar.
 
 ## 4. Tarihî tanıklar
 
@@ -191,9 +224,16 @@ her biri ağaçtaki bir dala bağlıdır:
 | Harezm Türkçesi ve Çağatayca, 14.–19. yy | Karluk | 1 |
 
 Tarihî diller yaşayan dillerin ağırlığını **değiştirmez**. Bir düğümde karar
-verilirken o düğümün kendi tanıkları ile üst ve alt düğümlerinin tanıkları
-sayılır. Örneğin Oğuz kolunda Eski Türkçe, Karahanlıca ve Eski Anadolu Türkçesi
-sayılır, ama Kuman-Kıpçakça sayılmaz.
+verilirken hangi tanıkların sayılacağı hedefe göre değişir:
+
+- **Hedef 1 ve 3:** Düğümün kendi tanıkları ile üst ve alt düğümlerinin
+  tanıkları sayılır. Örneğin Oğuz kolunda Eski Türkçe, Karahanlıca ve Eski
+  Anadolu Türkçesi sayılır, ama Kuman-Kıpçakça sayılmaz. Bu, eski kelimeye
+  genel bir eğilim verir.
+- **Hedef 2:** Sadece düğümün kendi ve alt düğümlerinin tanıkları sayılır.
+  "Kıpçakçanın en eski hâli neydi?" sorusunu yalnızca Kıpçak kanıtı cevaplar.
+  Biçim de dalın kendi en eski tanığından alınır: Oğuz için Eski Anadolu
+  Türkçesi, Kıpçak için Kuman-Kıpçakça, en tepe için Eski Türkçe.
 
 ### Ana Türkçe tanıklığı
 
@@ -204,7 +244,13 @@ uzanır. Bu tanık bir metin değildir; kendiliğinden hesaplanır:
 - Kök Oğur kolunda (Çuvaşçada ya da Volga Bulgarcasında) **ve** Ortak Türkçede
   (yaşayan bir dilde ya da tarihî bir tanıkta) varsa tanıklanmış sayılır.
 - İki taraftan birinde hiç veri yoksa hesaba katılmaz.
-- Bütün düğümlerde sayılır, çünkü Ana Türkçe kökeni her düzeyde değerlidir.
+- **Sadece Hedef 2'de ve sadece en tepede** sayılır. Hedef 1'de sayılmaz,
+  çünkü orada soru eskilik değil anlaşılırlıktır.
+- Kavramın bir kökü için bilim insanlarının yeniden kurduğu Ana Türkçe biçim
+  biliniyorsa `ana_turkce` alanına yazılır (ör. `ana_turkce: "*tāš"`). Hedef 2
+  raporunda kendi sonucumuzla yan yana gösterilir. Gerçek yeniden kuruluş
+  ses kurallarına dayanan karşılaştırmalı yöntemle yapılır; bizim sonucumuz bir
+  yaklaşımdır.
 
 Örneğin "büyük" için *bedük* kökü Çuvaşçada *pısăk* olarak yaşadığı için bu
 tanıklığı alır; *uluğ* almaz.
@@ -277,17 +323,22 @@ Tarihî tanıklar için aynısı `tarihi_yok` listesiyle yapılır.
 Her düğüm (ağız grubu, dil, dal, kol, en tepe) **sadece kendi altına bakarak**
 iki karar verir:
 
-1. **Kök:**
-   `kök puanı = anlaşılırlık (en iyi biçimiyle) + β × eskilik`. Burada β = 0.2
-   ve sadece `koken: türkçe` olan kökler aday olabilir.
-2. **Biçim:** Seçilen kökün, düğümün altında yaşayan biçimleri arasından
-   `anlaşılırlık + β × (en eski tanık biçimine ses yakınlığı)` puanı en yüksek
-   olan seçilir. Bugün kimsenin kullanmadığı bir biçim seçilmez.
+1. **Kök:** `kök puanı = ölçü + β × eskilik`. Sadece `koken: türkçe` olan
+   kökler aday olabilir.
+   - Hedef 1 ve 3'te ölçü, kökün en iyi biçiminin **anlaşılırlığıdır** (β = 0.2).
+   - Hedef 2'de ölçü, kökün soy hatlarındaki **yayılımıdır** (β = 1.0).
+2. **Biçim:**
+   - Hedef 1 ve 3'te, seçilen kökün düğümün altında yaşayan biçimleri arasından
+     `anlaşılırlık + β × (en eski tanık biçimine ses yakınlığı)` puanı en
+     yüksek olan seçilir. Bugün kimsenin kullanmadığı bir biçim seçilmez.
+   - Hedef 2'de, dalın kendi en eski tanığının biçimi seçilir (ör. Eski Türkçe
+     *sub*). Tanık yoksa dalın en yaygın biçimi alınır.
 
 Böylece her birleşim "burada ne olmalı?" sorusuna kendi cevabını verir:
 
 - Oğuz kolunda *dağ*, Kıpçak kolunda *taw*, en tepede *tağ* çıkar.
-- "Büyük" için Oğuz kolunda *büyük* (`bedük` kökü), en tepede *uluğ* çıkar.
+- "Büyük" için Hedef 1'de Oğuz kolunda *büyük* (`bedük` kökü), en tepede
+  *uluğ* çıkar. Hedef 2'de en tepede *bedük*, Hedef 3'te *büyük* çıkar.
 - En altta her dilin günlük kullandığı biçim ayrıca not edilir.
 
 ### Canlandırma
@@ -347,9 +398,14 @@ kaynaklar:
 
 ## 12. Parametreler
 
-| Parametre | Varsayılan | Anlamı |
-|---|---|---|
-| α (`--alfa`) | 0.5 | Dil/ağız sayısının ağırlığa etkisi |
-| β (`--beta`) | 0.2 | Eskiliğin etkisi |
-| taban (`--taban`) | 0.5 | Aynı kökten ama sesleri farklı bir biçimin temel tanıdıklığı |
-| eşik (`--esik`) | 0.5 | Bu yayılımın altındaki kökler "canlandırma" sayılır |
+Parametreler her hedef için ayrı ayrı [`hedefler.yaml`](hedefler.yaml)
+dosyasında tutulur. Komut satırından seçili hedef için değiştirilebilir
+(`--hedef ana --beta 0.5` gibi).
+
+| Parametre | 1. Ortak dil | 2. Ana Türkçe | 3. En çok kişi | Anlamı |
+|---|---|---|---|---|
+| ağırlık | basamak | soy | nüfus | Dillerin ve dalların nasıl tartıldığı (§3) |
+| α (`--alfa`) | 0.5 | — | 0.5 (ağızlar) | Dil/ağız sayısının ağırlığa etkisi |
+| β (`--beta`) | 0.2 | 1.0 | 0.2 | Eskiliğin etkisi |
+| taban (`--taban`) | 0.5 | — | 0.5 | Aynı kökten ama sesleri farklı bir biçimin temel tanıdıklığı |
+| eşik (`--esik`) | 0.5 | — | 0.5 | Bu yayılımın altındaki kökler "canlandırma" sayılır |
