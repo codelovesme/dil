@@ -1,0 +1,54 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ku
+anlam: Çuvaşçada "bu"
+koken: türkçe
+kavramlar:
+- bu
+etimoloji: Çuvaşçanın yakın işaret zamiri ku Ortak Türkçe bu ile denk değildir; ayrı bir Oğur
+  gövdesidir. Kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'asmarin1928, savelyev2011', bicim: ku, dil: chv, kaynak: savelyev-turkic, yazi: ку}
+
+yok:
+  sty-baraba: yerine bu (bu)
+  atv: yerine po (bu)
+  alt: yerine pu (bu)
+  aze: yerine bu (bu)
+  bak: yerine bıl (bu)
+  crh: yerine bu (bu)
+  dlg: yerine bu (bu)
+  gag: yerine bu (bu)
+  kaa: yerine bul (bu)
+  krc: yerine bu (bu)
+  kdr: yerine bu (bu)
+  kaz: yerine bul (bu)
+  kjh: yerine pu (bu)
+  klj: yerine bo (bu)
+  kir: yerine bu (bu)
+  kum: yerine bu (bu)
+  clw: yerine pu (bu)
+  nog: yerine bu (bu)
+  slr: yerine bu (bu)
+  ybe: yerine pu (bu)
+  cjs: yerine po (bu)
+  tat: yerine bu (bu)
+  kim: yerine bo (bu)
+  tur: yerine bu (bu)
+  tuk: yerine bu (bu)
+  tyv: yerine bo (bu)
+  uig: yerine bu (bu)
+  uzb: yerine bu (bu)
+  sah: yerine bu (bu)
+  tur-ege: yerine bu (bu)
+  tur-teke: yerine bu (bu)
+  tur-orta: yerine bu (bu)
+  tur-bkaradeniz: yerine bu (bu)
+  tur-dkaradeniz: yerine bu (bu)
+  tur-erzurum: yerine bu (bu)
+  tur-ahiska: yerine bu (bu)
+  tur-drumeli: yerine bu (bu)
+  tur-brumeli: yerine bu (bu)
+  tur-kibris: yerine bu (bu)
+tarihi_yok: {}

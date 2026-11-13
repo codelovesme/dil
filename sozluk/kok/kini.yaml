@@ -12,5 +12,32 @@ taniklar:
   - {atif: 'aksenova1992, stachowski1993', bicim: giniler, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kiniler, dil: sah, kaynak: savelyev-turkic}
 
-yok: {}
+yok:
+  atv: yerine ılar (olar)
+  alt: yerine olor (olar)
+  aze: yerine onlar (olar)
+  bak: yerine ular (olar)
+  chv: yerine vĕsem (olar)
+  crh: yerine olar (olar)
+  gag: yerine onnar (olar)
+  kaa: yerine olar (olar)
+  krc: yerine ala (olar)
+  kdr: yerine alar (olar)
+  kaz: yerine olar (olar)
+  kjh: yerine olar (olar)
+  klj: yerine ollar (olar)
+  kir: yerine alar (olar)
+  kum: yerine olar (olar)
+  clw: yerine olar (olar)
+  nog: yerine olar (olar)
+  slr: yerine vular (olar)
+  cjs: yerine ılar (olar)
+  tat: yerine alar (olar)
+  kim: yerine olarıñ (olar)
+  tur: yerine onlar (olar)
+  tuk: yerine olar (olar)
+  tyv: yerine olar (olar)
+  uig: yerine ular (olar)
+  uzb: yerine ular (olar)
+  ybe: yerine kolar (olar)
 tarihi_yok: {}

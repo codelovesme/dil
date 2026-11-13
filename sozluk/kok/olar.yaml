@@ -117,5 +117,7 @@ taniklar:
   - {atif: nadzip1968, bicim: ular, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ular, dil: uzb, kaynak: savelyev-turkic}
 
-yok: {}
+yok:
+  dlg: yerine giniler (kini)
+  sah: yerine kiniler (kini)
 tarihi_yok: {}

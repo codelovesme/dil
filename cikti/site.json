@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 10,
-  "kok": 5,
-  "tanik": 219,
+  "kavram": 11,
+  "kok": 7,
+  "tanik": 270,
   "kaynak": 168,
   "dil": 40
  },
@@ -60,8 +60,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/bu.md",
+   "baslik": "bu",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kini.md",
    "baslik": "kini",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ku.md",
+   "baslik": "ku",
    "tur": "kok"
   },
   {
@@ -82,6 +92,11 @@
   {
    "yol": "sozluk/temel/biz.md",
    "baslik": "biz",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/bu.md",
+   "baslik": "bu",
    "tur": "kavram"
   },
   {
@@ -156,6 +171,22 @@
     "pis",
     "piser",
     "pız"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "bu",
+   "alt": "this",
+   "yol": "sozluk/temel/bu.md",
+   "ozet": "Ortak dil: bu · Ana Türkçe tahmini: bu · En çok kişinin anladığı: bu",
+   "anahtar": [
+    "bo",
+    "bu",
+    "bul",
+    "bıl",
+    "ku",
+    "po",
+    "pu"
    ]
   },
   {
@@ -375,6 +406,23 @@
   },
   {
    "t": "kok",
+   "ad": "bu",
+   "alt": "yakındakini gösteren işaret zamiri (\"bu\")",
+   "yol": "sozluk/kok/bu.md",
+   "ozet": "50 tanık, en eski 8. yy",
+   "anahtar": [
+    "bo",
+    "bu",
+    "bul",
+    "bıl",
+    "po",
+    "pu",
+    "был",
+    "бұл"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kini",
    "alt": "Sahaca ve Dolgancada \"o\" kişi zamiri; çoğulu kiniler",
    "yol": "sozluk/kok/kini.md",
@@ -382,6 +430,17 @@
    "anahtar": [
     "giniler",
     "kiniler"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ku",
+   "alt": "Çuvaşçada \"bu\"",
+   "yol": "sozluk/kok/ku.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "ku",
+    "ку"
    ]
   },
   {

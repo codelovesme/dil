@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 6/7 · tanık 38 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
+**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 6/7 · tanık 38 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -23,7 +23,7 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Sahaca (Yakutça), Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -82,6 +82,8 @@ Notlar:
 | Sibirya kolu | Şorca |  | **ılar** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Çulımca |  | **olar** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Kuzey Altayca |  | **ılar** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| | Dolganca | | — | | | | kök yok: yerine giniler (kini) |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine kiniler (kini) |
 
 ## Kaynakça
 

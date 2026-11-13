@@ -8,6 +8,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 |---|---|---|---|---|---|
 | [ben](temel/ben.md) | I | **män** | **bän** | **ben** | uyuşuyor |
 | [biz](temel/biz.md) | we | **biz** | **biz** | **biz** | uyuşuyor |
+| [bu](temel/bu.md) | this | **bu** | **bu** | **bu** | uyuşuyor |
 | [büyük](temel/buyuk.md) | big | **uluğ** | **bedük** | **büyük** | ayrişiyor |
 | [dağ](temel/dag.md) | mountain | **tağ** | **tağ** | **tağ** | uyuşuyor |
 | [o](temel/o.md) | he / she / it | **ol** | **ol** | **o** | uyuşuyor |
