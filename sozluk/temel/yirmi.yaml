@@ -1,0 +1,45 @@
+kavram: yirmi
+ingilizce: twenty
+anlam: Yirmi (sayı).
+dogrulandi: false
+kokler:
+- kok: yegirmi
+  koken: türkçe
+  ana_turkce: '*yegirmi'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yegirmi.yaml).
+  bicimler:
+    aze: iyirmi
+    bak: yegerme
+    chv:
+      bicim: şirĕm
+      miras: true
+    crh: yigirmi
+    dlg: hüürbe
+    gag: yirmi
+    krc: cıyırma
+    kdr: yigirmi
+    kaa: jigirma
+    kaz: jiırma
+    kjh: çibirge
+    klj:
+      bicim: yigirmi
+      miras: true
+    kir: jıyırma
+    kum: yigirma
+    nog: yırma
+    atv: çigirbe
+    slr: yiğirme
+    cjs: çegirbe
+    tat: yegerme
+    tur: yirmi
+    tuk: yigrimi
+    tyv: çeerbi
+    uig: yigirmä
+    uzb: yigirma
+    sah: süürbe
+    uum: yirmi
+  tarihi:
+    otk: yegirmi
+yok: []
+tarihi_yok: []

@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 220,
-  "kok": 639,
-  "tanik": 7144,
+  "kavram": 224,
+  "kok": 643,
+  "tanik": 7283,
   "kaynak": 168,
   "dil": 40
  },
@@ -587,6 +587,11 @@
   {
    "yol": "sozluk/kok/elig.md",
    "baslik": "elig",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ellig.md",
+   "baslik": "ellig",
    "tur": "kok"
   },
   {
@@ -1365,6 +1370,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kırk.md",
+   "baslik": "kırk",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kısga.md",
    "baslik": "kısga",
    "tur": "kok"
@@ -1547,6 +1557,11 @@
   {
    "yol": "sozluk/kok/ot.md",
    "baslik": "ot",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/otuz.md",
+   "baslik": "otuz",
    "tur": "kok"
   },
   {
@@ -2522,6 +2537,11 @@
   {
    "yol": "sozluk/kok/ye.md",
    "baslik": "ye",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/yegirmi.md",
+   "baslik": "yegirmi",
    "tur": "kok"
   },
   {
@@ -3625,6 +3645,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/elli.md",
+   "baslik": "elli",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/em.md",
    "baslik": "em-",
    "tur": "kavram"
@@ -3875,6 +3900,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/kirk.md",
+   "baslik": "kırk",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/kisa.md",
    "baslik": "kısa",
    "tur": "kavram"
@@ -4037,6 +4067,11 @@
   {
    "yol": "sozluk/temel/otur.md",
    "baslik": "otur-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/otuz.md",
+   "baslik": "otuz",
    "tur": "kavram"
   },
   {
@@ -4317,6 +4352,11 @@
   {
    "yol": "sozluk/temel/yildiz.md",
    "baslik": "yıldız",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/yirmi.md",
+   "baslik": "yirmi",
    "tur": "kavram"
   },
   {
@@ -5925,6 +5965,28 @@
   },
   {
    "t": "kavram",
+   "ad": "elli",
+   "alt": "fifty",
+   "yol": "sozluk/temel/elli.md",
+   "ozet": "Ortak dil: elli · Ana Türkçe tahmini: ellig · En çok kişinin anladığı: elli",
+   "anahtar": [
+    "allă",
+    "elig",
+    "eliw",
+    "elli",
+    "ellig",
+    "ellik",
+    "elu",
+    "elüü",
+    "ilig",
+    "ille",
+    "älli",
+    "ällig",
+    "ölü"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "em-",
    "alt": "suck",
    "yol": "sozluk/temel/em.md",
@@ -6719,7 +6781,6 @@
     "kaan",
     "kan",
     "kon",
-    "qan",
     "xaan",
     "xan",
     "yun"
@@ -6769,7 +6830,6 @@
     "gara",
     "kara",
     "kora",
-    "qara",
     "xara",
     "xura"
    ]
@@ -7036,6 +7096,21 @@
   },
   {
    "t": "kavram",
+   "ad": "kırk",
+   "alt": "forty",
+   "yol": "sozluk/temel/kirk.md",
+   "ozet": "Ortak dil: kırk · Ana Türkçe tahmini: kırk · En çok kişinin anladığı: kırk",
+   "anahtar": [
+    "gırx",
+    "kirk",
+    "kırk",
+    "kırık",
+    "xĕrĕx",
+    "xırıx"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "kısa",
    "alt": "short",
    "yol": "sozluk/temel/kisa.md",
@@ -7257,7 +7332,6 @@
     "kulgaax",
     "kulkak",
     "kulok",
-    "qulaq",
     "xulax",
     "xălxa"
    ]
@@ -7277,7 +7351,6 @@
     "kumax",
     "kuvak",
     "kŭm",
-    "qum",
     "xum",
     "xăyăr",
     "çäge"
@@ -7366,7 +7439,6 @@
     "kuş",
     "kuşkaş",
     "kötör",
-    "quş",
     "xus"
    ]
   },
@@ -7804,6 +7876,26 @@
     "ultır",
     "utır",
     "yuor"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "otuz",
+   "alt": "thirty",
+   "yol": "sozluk/temel/otuz.md",
+   "ozet": "Ortak dil: otuz · Ana Türkçe tahmini: otuz · En çok kişinin anladığı: otuz",
+   "anahtar": [
+    "hottuz",
+    "odus",
+    "ottuz",
+    "otus",
+    "otut",
+    "otuz",
+    "otıs",
+    "otız",
+    "utız",
+    "vătăr",
+    "öttiz"
    ]
   },
   {
@@ -9064,6 +9156,36 @@
   },
   {
    "t": "kavram",
+   "ad": "yirmi",
+   "alt": "twenty",
+   "yol": "sozluk/temel/yirmi.md",
+   "ozet": "Ortak dil: yigirmi · Ana Türkçe tahmini: yegirmi · En çok kişinin anladığı: yigirmi",
+   "anahtar": [
+    "cıyırma",
+    "hüürbe",
+    "iyirmi",
+    "jigirma",
+    "jiırma",
+    "jıyırma",
+    "süürbe",
+    "yegerme",
+    "yegirmi",
+    "yigirma",
+    "yigirmi",
+    "yigirmä",
+    "yigrimi",
+    "yirmi",
+    "yiğirme",
+    "yırma",
+    "çeerbi",
+    "çegirbe",
+    "çibirge",
+    "çigirbe",
+    "şirĕm"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "yumurta",
    "alt": "egg",
    "yol": "sozluk/temel/yumurta.md",
@@ -9864,7 +9986,6 @@
    "ozet": "11 tanık, en eski 14. yy",
    "anahtar": [
     "bak",
-    "baq",
     "bax",
     "pax",
     "păx",
@@ -10918,6 +11039,40 @@
   },
   {
    "t": "kok",
+   "ad": "ellig",
+   "alt": "\"elli (sayı)\"",
+   "yol": "sozluk/kok/ellig.md",
+   "ozet": "36 tanık, en eski 8. yy",
+   "anahtar": [
+    "allă",
+    "elig",
+    "eliw",
+    "elli",
+    "ellig",
+    "ellik",
+    "elu",
+    "elüü",
+    "ilig",
+    "ille",
+    "älli",
+    "ällig",
+    "ölü",
+    "əlli",
+    "аллӑ",
+    "елиў",
+    "елу",
+    "илле",
+    "иліг",
+    "элиг",
+    "элли",
+    "элүү",
+    "ӧлӱ",
+    "ئەللىك",
+    "اللی"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "em",
    "alt": "\"emmek (meme)\"",
    "yol": "sozluk/kok/em.md",
@@ -11642,7 +11797,6 @@
     "kaan",
     "kan",
     "kon",
-    "qan",
     "xaan",
     "xan",
     "хаан",
@@ -11746,7 +11900,6 @@
     "gara",
     "kara",
     "kora",
-    "qara",
     "xara",
     "xura",
     "хара",
@@ -12600,7 +12753,6 @@
     "kuyrık",
     "kuzuruk",
     "kŭyrık",
-    "quyruq",
     "xuzuruk",
     "xüre",
     "койрык",
@@ -12638,7 +12790,6 @@
     "kulgaax",
     "kulkak",
     "kulok",
-    "qulaq",
     "xulax",
     "xălxa",
     "колак",
@@ -12664,7 +12815,6 @@
     "kumax",
     "kuvak",
     "kŭm",
-    "qum",
     "xum",
     "ком",
     "кумах",
@@ -12820,7 +12970,6 @@
     "kus",
     "kuş",
     "kuşkaş",
-    "quş",
     "xus",
     "кош",
     "құс",
@@ -13284,6 +13433,34 @@
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "kırağ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kırk",
+   "alt": "\"kırk (sayı)\"",
+   "yol": "sozluk/kok/kırk.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "gırx",
+    "kirk",
+    "kyrk",
+    "kırk",
+    "kırık",
+    "qirq",
+    "qırq",
+    "qırx",
+    "xĕrĕx",
+    "xırıx",
+    "къыркъ",
+    "кырк",
+    "кырык",
+    "хырых",
+    "хӗрӗх",
+    "қырық",
+    "ҡырҡ",
+    "قرق",
+    "قىرىق"
    ]
   },
   {
@@ -13837,6 +14014,37 @@
     "уот",
     "ут",
     "اود"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "otuz",
+   "alt": "\"otuz (sayı)\"",
+   "yol": "sozluk/kok/otuz.md",
+   "ozet": "40 tanık, en eski 8. yy",
+   "anahtar": [
+    "hottuz",
+    "odus",
+    "ottuz",
+    "otus",
+    "otut",
+    "otuz",
+    "otıs",
+    "otız",
+    "oʻttiz",
+    "utız",
+    "vătăr",
+    "öttiz",
+    "вӑтӑр",
+    "одус",
+    "отуз",
+    "отут",
+    "отыз",
+    "отыс",
+    "утыз",
+    "утыҙ",
+    "ئوتتۇز",
+    "اوتوز"
    ]
   },
   {
@@ -16039,7 +16247,6 @@
     "urlux",
     "urlık",
     "uruk",
-    "uruq",
     "uruğ",
     "urık",
     "văra",
@@ -16860,6 +17067,54 @@
     "чи-",
     "ҫи-",
     "یمك"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "yegirmi",
+   "alt": "\"yirmi (sayı)\"",
+   "yol": "sozluk/kok/yegirmi.md",
+   "ozet": "29 tanık, en eski 8. yy",
+   "anahtar": [
+    "cıyırma",
+    "hüürbe",
+    "iyirmi",
+    "jigirma",
+    "jiırma",
+    "jıyırma",
+    "süürbe",
+    "yegerme",
+    "yegirmi",
+    "yigirma",
+    "yigirmi",
+    "yigirmä",
+    "yigrimi",
+    "yirmi",
+    "yiğirme",
+    "yırma",
+    "çeerbi",
+    "çegirbe",
+    "çibirge",
+    "çigirbe",
+    "ýigrimi",
+    "şirĕm",
+    "джыйырма",
+    "егерме",
+    "жигирма",
+    "жиырма",
+    "жыйырма",
+    "йигирма",
+    "йирми",
+    "йырма",
+    "сүүрбэ",
+    "чегирбе",
+    "чибірге",
+    "чигирбе",
+    "чээрби",
+    "ҫирӗм",
+    "һүүрбэ",
+    "يىگىرمە",
+    "یگرمی"
    ]
   },
   {

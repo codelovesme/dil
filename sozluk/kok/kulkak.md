@@ -32,7 +32,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **kulkak** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **qulaq** | قلاق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **kulak** | قلاق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kulak** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 16.–19. yy | Türkiye Türkçesi |  | **kulak** | قولاق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
@@ -40,6 +40,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 Notlar:
 
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary aktarımı qulaq.
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım chulag.
 
 ## Yaşayan diller ve ağızlar

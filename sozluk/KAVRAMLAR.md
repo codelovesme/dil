@@ -80,6 +80,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [düşün-](temel/dusun.md) | think | **oyla** | **sakın** | **düşün** | ayrişiyor |
 | [ekşi](temel/eksi.md) | sour | **açığ** | **ekşig** | **ekşi** | ayrişiyor |
 | [el](temel/el.md) | hand, arm | **kol** | **el** | **kol** | ayrişiyor |
+| [elli](temel/elli.md) | fifty | **elli** | **ellig** | **elli** | uyuşuyor |
 | [em-](temel/em.md) | suck | **sor** | **em** | **em** | ayrişiyor |
 | [er (erkek)](temel/er.md) | man (male) | **er** | **er** | **erkek** | uyuşuyor |
 | [eski](temel/eski.md) | old (thing) | **eski** | **eski** | **eski** | uyuşuyor |
@@ -130,6 +131,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [keskin](temel/keskin.md) | sharp | **yiti** | **yiti** | **iti** | uyuşuyor |
 | [kim](temel/kim.md) | who | **kim** | **kim** | **kim** | uyuşuyor |
 | [kır-](temel/kir-fiil.md) | break | **sındır** | **sındur** | **sındır** | uyuşuyor |
+| [kırk](temel/kirk.md) | forty | **kırk** | **kırk** | **kırk** | uyuşuyor |
 | [kısa](temel/kisa.md) | short | **kıska** | **kısga** | **kısa** | uyuşuyor |
 | [kişi](temel/kisi.md) | person | **kişi** | **kişi** | **kişi** | uyuşuyor |
 | [kızıl](temel/kizil.md) | red | **kızıl** | **kızıl** | **kızıl** | uyuşuyor |
@@ -163,6 +165,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [ört-](temel/ort.md) | cover | **yap** | **yap** | **yap** | uyuşuyor |
 | [ot](temel/ot.md) | grass | **ot** | **ot** | **ot** | uyuşuyor |
 | [otur-](temel/otur.md) | sit | **olur** | **olur** | **otur** | uyuşuyor |
+| [otuz](temel/otuz.md) | thirty | **otuz** | **otuz** | **otuz** | uyuşuyor |
 | [oyna-](temel/oyna.md) | play | **oyna** | **oyna** | **oyna** | uyuşuyor |
 | [saç](temel/sac.md) | hair (head) | **saç** | **saç** | **saç** | uyuşuyor |
 | [sağ (yön)](temel/sag.md) | right (side) | **oñ** | **oñ** | **oñ** | uyuşuyor |
@@ -219,6 +222,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [yıl](temel/yil.md) | year | **yıl** | **yıl** | **yıl** | uyuşuyor |
 | [yılan](temel/yilan.md) | snake | **yılan** | **yılan** | **yılan** | uyuşuyor |
 | [yıldız](temel/yildiz.md) | star | **yultuz** | **yultuz** | **yulduz** | uyuşuyor |
+| [yirmi](temel/yirmi.md) | twenty | **yigirmi** | **yegirmi** | **yigirmi** | uyuşuyor |
 | [yumurta](temel/yumurta.md) | egg | **yumurtğa** | **yumurtğa** | **yumurta** | uyuşuyor |
 | [yumuşak](temel/yumusak.md) | soft | **yumşak** | **yumşak** | **yumşak** | uyuşuyor |
 | [yürek](temel/yurek.md) | heart | **yürek** | **yürek** | **yürek** | uyuşuyor |

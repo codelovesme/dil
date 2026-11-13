@@ -27,10 +27,11 @@ taniklar:
     atif: clauson1972
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: qan
+    bicim: kan
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: قان
+    not: Wiktionary aktarımı qan.
   - dil: tur
     yuzyil: 16-19
     bicim: kan

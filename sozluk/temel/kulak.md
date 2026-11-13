@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kulak | kulkak | kulak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kulaak | kulaak | kulaak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kulaak | kulaak | kulaak | kulaak |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kulak | qulaq | kulak |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kulak | kulak | kulak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | kulak | kulak | kulak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kulak | kulak | kulak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kulak | kulak | kulak | kulak |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kulak | kulak | kulak | kulak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kulak | kulak | kulak | kulak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kulak ↑ | kulak ↑ | kulak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kulak ↑ | qulaq ↑ | kulak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kulak ↑ | qulaq ↑ | kulak ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kulak ↑ | kulak ↑ | kulak ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kulak ↑ | kulak ↑ | kulak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | gulak | gulak | gulak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | gulak | gulak | gulak | gulak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gulak | gulak | gulak | gulak |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kulak |
 | Sibirya kolu | Kuzey Altayca |  | kulak |
 
-**Tarihî tanıklar:** Eski Türkçe *kulkak*; Kuman-Kıpçakça *kulak*; Eski Anadolu Türkçesi *qulaq*.
+**Tarihî tanıklar:** Eski Türkçe *kulkak*; Kuman-Kıpçakça *kulak*; Eski Anadolu Türkçesi *kulak*.
 

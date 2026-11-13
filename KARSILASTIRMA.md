@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 220 kavram, 32 tanesi ayrışıyor.
+Toplam 224 kavram, 32 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@ Toplam 220 kavram, 32 tanesi ayrışıyor.
 | düşün- | oyla *(oyla)* | sakın *(sakın)* | düşün *(düşün)* | AYRIŞIYOR |
 | ekşi | açığ *(açığ)* | ekşig *(ekşi)* | ekşi *(ekşi)* | AYRIŞIYOR |
 | el | kol *(kol-ad)* | el *(elig)* | kol *(kol-ad)* | AYRIŞIYOR |
+| elli | elli *(ellig)* | ellig *(ellig)* | elli *(ellig)* | UYUŞUYOR |
 | em- | sor *(sor)* | em *(em)* | em *(em)* | AYRIŞIYOR |
 | er (erkek) | er *(er)* | er *(er)* | erkek *(er)* | UYUŞUYOR |
 | eski | eski *(eski)* | eski *(eski)* | eski *(eski)* | UYUŞUYOR |
@@ -132,6 +133,7 @@ Toplam 220 kavram, 32 tanesi ayrışıyor.
 | keskin | yiti *(yitig)* | yiti *(yitig)* | iti *(yitig)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | kır- | sındır *(sındır)* | sındur *(sındır)* | sındır *(sındır)* | UYUŞUYOR |
+| kırk | kırk *(kırk)* | kırk *(kırk)* | kırk *(kırk)* | UYUŞUYOR |
 | kısa | kıska *(kısga)* | kısga *(kısga)* | kısa *(kısga)* | UYUŞUYOR |
 | kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
 | kızıl | kızıl *(kızıl)* | kızıl *(kızıl)* | kızıl *(kızıl)* | UYUŞUYOR |
@@ -165,6 +167,7 @@ Toplam 220 kavram, 32 tanesi ayrışıyor.
 | ört- | yap *(yap)* | yap *(yap)* | yap *(yap)* | UYUŞUYOR |
 | ot | ot *(ot-bitki)* | ot *(ot-bitki)* | ot *(ot-bitki)* | UYUŞUYOR |
 | otur- | olur *(olur)* | olur *(olur)* | otur *(olur)* | UYUŞUYOR |
+| otuz | otuz *(otuz)* | otuz *(otuz)* | otuz *(otuz)* | UYUŞUYOR |
 | oyna- | oyna *(oyna)* | oyna *(oyna)* | oyna *(oyna)* | UYUŞUYOR |
 | saç | saç *(saç)* | saç *(saç)* | saç *(saç)* | UYUŞUYOR |
 | sağ (yön) | oñ *(oñ)* | oñ *(oñ)* | oñ *(oñ)* | UYUŞUYOR |
@@ -221,6 +224,7 @@ Toplam 220 kavram, 32 tanesi ayrışıyor.
 | yıl | yıl *(yıl)* | yıl *(yıl)* | yıl *(yıl)* | UYUŞUYOR |
 | yılan | yılan *(yılan)* | yılan *(yılan)* | yılan *(yılan)* | UYUŞUYOR |
 | yıldız | yultuz *(yultuz)* | yultuz *(yultuz)* | yulduz *(yultuz)* | UYUŞUYOR |
+| yirmi | yigirmi *(yegirmi)* | yegirmi *(yegirmi)* | yigirmi *(yegirmi)* | UYUŞUYOR |
 | yumurta | yumurtğa *(yumurtga)* | yumurtğa *(yumurtga)* | yumurta *(yumurtga)* | UYUŞUYOR |
 | yumuşak | yumşak *(yımşak)* | yumşak *(yımşak)* | yumşak *(yımşak)* | UYUŞUYOR |
 | yürek | yürek *(yürek)* | yürek *(yürek)* | yürek *(yürek)* | UYUŞUYOR |

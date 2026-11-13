@@ -41,7 +41,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kum | kum | kum |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kum ↑ | kum ↑ | kum ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kum ↑ | kum ↑ | kum ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kum | qum | kum |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kum | kum | kum |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | kum | kum | kum |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kum | kum | kum |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kum | kum | kum | kum |
@@ -53,8 +53,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kum | kum | kum | kum |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kum | kum | kum | kum |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kum ↑ | kum ↑ | kum ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kum ↑ | qum ↑ | kum ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kum ↑ | qum ↑ | kum ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kum ↑ | kum ↑ | kum ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kum ↑ | kum ↑ | kum ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | *çäge* (çäge) | *çäge* (çäge) | *çäge* (çäge) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | çäge | çäge | çäge | çäge |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çäge | çäge | çäge | çäge |
@@ -159,5 +159,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kum |  |  |
 | Sibirya kolu | Kuzey Altayca |  | kuvak |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *kum*; Kuman-Kıpçakça *kum*; Eski Anadolu Türkçesi *qum*.
+**Tarihî tanıklar:** Eski Türkçe *kum*; Kuman-Kıpçakça *kum*; Eski Anadolu Türkçesi *kum*.
 
