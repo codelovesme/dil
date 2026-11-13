@@ -1,0 +1,55 @@
+kavram: ak- (sıvı)
+ingilizce: flow
+anlam: Akmak.
+dogrulandi: false
+kokler:
+- kok: ak-fiil
+  koken: türkçe
+  ana_turkce: '*āk-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ak-fiil.yaml).
+  tarihi:
+    qwm: ak
+    otk: ak
+    xqa: ak
+    chg: ak
+  bicimler:
+    aze: ax
+    bak: ak
+    crh: ak
+    gag: ak
+    krc: ak
+    kdr: ak
+    kaa: ak
+    kaz: ak
+    kjh: ak
+    kir: ak
+    kum: ak
+    clw: ak
+    nog: ak
+    atv: ak
+    ybe: ak
+    cjs: ak
+    alt: ak
+    tat: ak
+    kim: aˁk
+    tur: ak
+    tuk: ak
+    tyv: ak
+    uig: ak
+    uzb: ok
+    sty-baraba: ak
+- kok: süür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/süür.yaml).
+  bicimler:
+    sah: süür
+- kok: yux
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yux.yaml).
+  bicimler:
+    chv: yux
+yok: []
+tarihi_yok: []

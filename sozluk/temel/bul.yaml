@@ -1,0 +1,61 @@
+kavram: bul-
+ingilizce: find
+anlam: Bulmak.
+dogrulandi: false
+kokler:
+- kok: tap
+  koken: türkçe
+  ana_turkce: '*tap-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tap.yaml).
+  tarihi:
+    qwm: tap
+    otk: tap
+  bicimler:
+    aze: tap
+    bak: tap
+    chv:
+      bicim: tup
+      miras: true
+    crh: tap
+    krc: tap
+    kdr: tap
+    kaa: tap
+    kaz: tap
+    kjh: tap
+    kir: tap
+    kum: tap
+    clw: tap
+    nog: tap
+    atv: tap
+    slr: tap
+    ybe: tap
+    cjs: tap
+    alt: tap
+    tat: tap
+    kim: tıp
+    tuk: tap
+    tyv: tıp
+    uig: tap
+    uzb: top
+    sty-baraba: tap
+- kok: bul
+  koken: türkçe
+  ana_turkce: '*bul-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bul.yaml).
+  bicimler:
+    dlg: bul
+    gag: bul
+    klj:
+      bicim: bul
+      miras: true
+    tur: bul
+    sah: bul
+  tarihi:
+    otk: bul
+    xqa: bul
+    chg: bul
+    qwm: bul
+yok: []
+tarihi_yok: []

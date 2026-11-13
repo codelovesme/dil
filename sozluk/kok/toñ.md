@@ -5,33 +5,66 @@
 - **Anlam:** "donmuş; buz"
 - **Ana Türkçe:** *toŋ
 - **Köken:** türkçe
-- **Kavramlar:** [buz](../temel/buz.yaml)
+- **Kavramlar:** [buz](../temel/buz.yaml), [don](../temel/don.yaml)
 - **Etimoloji:** toñ 'donmuş'; Salarcada toñsı 'buz'.
-- **En eski tanık:** günümüz
+- **En eski tanık:** 8. yy
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 22 (kaynaklı %100) · kaynak 2 · yabancı kayıt 0**
 
-- ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
+- ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
 - · Volga Bulgarcası, 10-14. yy
 - ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
 - ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
-- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✓ Eski Anadolu Türkçesi, 13-15. yy (1 tanık)
 - ✗ Çağatayca, 15-19. yy
-- ✗ Osmanlıca, 16-19. yy
-- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+- ✓ Osmanlıca, 16-19. yy (1 tanık)
+- ✓ 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy (1 tanık)
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **toñ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **doŋ** | طوكمق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **doñ** | طوكمق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle doŋmaq.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle doñmak.
+
 ## Yaşayan diller ve ağızlar
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **don** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Gagavuzca |  | **don** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **don** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Türkmence |  | **doñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Salarca |  | **toñsı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Salarca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Tatarca |  | **tuñ** | туң- | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Başkurtça |  | **tuñ** | туң- | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Kırgızca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Güney Altayca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Karluk kolu | Uygurca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | toñla- de. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Sarı Uygurca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Tuvaca |  | **doñ** | доң- | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Tofaca |  | **doñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Hakasça |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Şorca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Çulımca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Kuzey Altayca |  | **toñ** |  | donmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | toñdır- 'dondurmak'. |
 | | Baraba ağzı | | — | | | | kök yok: yerine mös (buz) |
 | | Kuzey Altayca | | — | | | | kök yok: yerine bus (buz) |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine buz (buz) |
@@ -64,4 +97,5 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 20 tanık
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 2 tanık

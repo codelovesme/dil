@@ -13,6 +13,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [ağır](temel/agir.md) | heavy | **ağır** | **ağır** | **ağır** | uyuşuyor |
 | [ağız](temel/agiz.md) | mouth | **ağız** | **ağız** | **ağız** | uyuşuyor |
 | [ağla-](temel/agla.md) | cry, weep | **ığla** | **ığla** | **ağla** | uyuşuyor |
+| [ak- (sıvı)](temel/ak-fiil.md) | flow | **ak** | **ak** | **ak** | uyuşuyor |
 | [ak](temel/ak.md) | white | **ak** | **ak** | **ak** | uyuşuyor |
 | [al-](temel/al.md) | take | **al** | **al** | **al** | uyuşuyor |
 | [alın](temel/alin.md) | forehead | **alın** | **alın** | **alın** | uyuşuyor |
@@ -37,9 +38,11 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [boynuz](temel/boynuz.md) | horn | **müyüz** | **müyüz** | **müyüz** | uyuşuyor |
 | [boyun](temel/boyun.md) | neck | **boyun** | **boyın** | **boyun** | uyuşuyor |
 | [bu](temel/bu.md) | this | **bu** | **bu** | **bu** | uyuşuyor |
+| [bul-](temel/bul.md) | find | **tap** | **tap** | **tap** | uyuşuyor |
 | [bulut](temel/bulut.md) | cloud | **bulut** | **bulıt** | **bulut** | uyuşuyor |
 | [burada](temel/burada.md) | here | **munda** | **bunta** | **munda** | uyuşuyor |
 | [burun](temel/burun.md) | nose | **burun** | **burun** | **burun** | uyuşuyor |
+| [büyü-](temel/buyu.md) | grow | **ös** | **ös** | **ös** | uyuşuyor |
 | [büyük](temel/buyuk.md) | big | **uluğ** | **büyük** | **büyük** | ayrişiyor |
 | [buz](temel/buz.md) | ice | **buz** | **buz** | **buz** | uyuşuyor |
 | [çek-](temel/cek.md) | pull | **tart** | **tart** | **tart** | uyuşuyor |
@@ -65,10 +68,12 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [diz](temel/diz.md) | knee | **tiz** | **tiz** | **tiz** | uyuşuyor |
 | [doku-](temel/doku.md) | weave | **tokı** | **tokı** | **toku** | uyuşuyor |
 | [dolu](temel/dolu.md) | full | **tolu** | **tolu** | **tolu** | uyuşuyor |
+| [don-](temel/don.md) | freeze | **toñ** | **toñ** | **toñ** | uyuşuyor |
 | [dört](temel/dort.md) | four | **dört** | **dört** | **dört** | uyuşuyor |
 | [duman](temel/duman.md) | smoke | **tütün** | **tütün** | **tütün** | uyuşuyor |
 | [dün](temel/dun.md) | yesterday | **tünegün** | **tünekün** | **tünegün** | uyuşuyor |
 | [düş-](temel/dus.md) | fall | **yığıl** | **tüş** | **düş** | ayrişiyor |
+| [düşün-](temel/dusun.md) | think | **oyla** | **sakın** | **düşün** | ayrişiyor |
 | [ekşi](temel/eksi.md) | sour | **açığ** | **ekşig** | **ekşi** | ayrişiyor |
 | [el](temel/el.md) | hand, arm | **kol** | **el** | **kol** | ayrişiyor |
 | [em-](temel/em.md) | suck | **sor** | **em** | **em** | ayrişiyor |

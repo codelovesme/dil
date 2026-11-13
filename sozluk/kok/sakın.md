@@ -1,0 +1,77 @@
+# sakın
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`sakın.yaml`](sakın.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** "düşünmek; sakınmak"
+- **Ana Türkçe:** *sakïn-
+- **Köken:** türkçe
+- **Kavramlar:** [dusun](../temel/dusun.yaml)
+- **Etimoloji:** sakın- 'düşünmek, özlemek' (sak 'uyanık' ile). Eski Uygurcadan beri; Karay, Hakas, Tofa, Sarı Uygur dillerinde 'düşünmek'; Türkiye Türkçesinde 'sakınmak'.
+- **En eski tanık:** 8. yy
+
+## Kapsam
+
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 2/7 · tanık 7 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+
+- ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
+- ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (1 tanık)
+- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✗ Çağatayca, 15-19. yy
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **sakın** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **sağın** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım sagin.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **san** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Karayca |  | **sağın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Sarı Uygurca |  | **sakın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Tofaca |  | **sağın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Hakasça |  | **sağın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| | Baraba ağzı | | — | | | | kök yok: yerine oyla (oyla) |
+| | Başkurtça | | — | | | | kök yok: yerine uyla (oyla) |
+| | Kırım Tatarcası | | — | | | | kök yok: yerine oyla (oyla) |
+| | Karakalpakça | | — | | | | kök yok: yerine oyla (oyla) |
+| | Karaçay-Malkarca | | — | | | | kök yok: yerine oyla (oyla) |
+| | Kazakça | | — | | | | kök yok: yerine oyla (oyla) |
+| | Kırgızca | | — | | | | kök yok: yerine oyla (oyla) |
+| | Kumukça | | — | | | | kök yok: yerine oylaş (oyla) |
+| | Nogayca | | — | | | | kök yok: yerine oyla (oyla) |
+| | Tatarca | | — | | | | kök yok: yerine uyla (oyla) |
+| | Uygurca | | — | | | | kök yok: yerine oyla (oyla) |
+| | Özbekçe | | — | | | | kök yok: yerine öyla (oyla) |
+| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine düşün (düşün) |
+| | Gagavuzca | | — | | | | kök yok: yerine düşün (düşün) |
+| | Türkiye Türkçesi | | — | | | | kök yok: yerine düşün (düşün) |
+| | Kuzey Altayca | | — | | | | kök yok: yerine sana (sana) |
+| | Güney Altayca | | — | | | | kök yok: yerine sana (sana) |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sana (sana) |
+| | Çulımca | | — | | | | kök yok: yerine pöögün (pögün) |
+| | Şorca | | — | | | | kök yok: yerine pögün (pögün) |
+| | Tuvaca | | — | | | | kök yok: yerine boda (boda) |
+| | Çuvaşça | | — | | | | kök yok: yerine şuxăşla (şuxăşla) |
+
+## Kaynakça
+
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 7 tanık

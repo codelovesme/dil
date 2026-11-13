@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: oyla
+anlam: '"düşünmek"'
+koken: türkçe
+kavramlar:
+- dusun
+etimoloji: oy 'düşünce' + -la-. Kıpçak, Karluk ve Kırgız dillerinde asıl 'düşünmek' fiili.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'uraksin1996, uraksin2005', bicim: uyla, dil: bak, kaynak: savelyev-turkic, yazi: уйла-}
+  - {atif: useinov2007, bicim: oyla, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: oyla, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: oyla, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: oyla, dil: kaz, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: oyla, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: oylaş, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: oyla, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: uyla, dil: tat, kaynak: savelyev-turkic, yazi: уйла-}
+  - {atif: nadzip1968, bicim: oyla, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: öyla, dil: uzb, kaynak: savelyev-turkic, yazi: o'yla-}
+  - {atif: dmitrijeva1981, bicim: oyla, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  klj: yerine san (sakın)
+  kdr: yerine sağın (sakın)
+  kjh: yerine sağın (sakın)
+  ybe: yerine sakın (sakın)
+  kim: yerine sağın (sakın)
+  aze: yerine düşün (düşün)
+  gag: yerine düşün (düşün)
+  tur: yerine düşün (düşün)
+  atv: yerine sana (sana)
+  alt: yerine sana (sana)
+  sah: yerine sana (sana)
+  clw: yerine pöögün (pögün)
+  cjs: yerine pögün (pögün)
+  tyv: yerine boda (boda)
+  chv: yerine şuxăşla (şuxăşla)
+tarihi_yok: {}

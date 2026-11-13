@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 203 kavram, 30 tanesi ayrışıyor.
+Toplam 208 kavram, 31 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@ Toplam 203 kavram, 30 tanesi ayrışıyor.
 | ağır | ağır *(ağır)* | ağır *(ağır)* | ağır *(ağır)* | UYUŞUYOR |
 | ağız | ağız *(ağız)* | ağız *(ağız)* | ağız *(ağız)* | UYUŞUYOR |
 | ağla- | ığla *(ığla)* | ığla *(ığla)* | ağla *(ığla)* | UYUŞUYOR |
+| ak- (sıvı) | ak *(ak-fiil)* | ak *(ak-fiil)* | ak *(ak-fiil)* | UYUŞUYOR |
 | ak | ak *(ak)* | ak *(ak)* | ak *(ak)* | UYUŞUYOR |
 | al- | al *(al)* | al *(al)* | al *(al)* | UYUŞUYOR |
 | alın | alın *(alın)* | alın *(alın)* | alın *(alın)* | UYUŞUYOR |
@@ -39,9 +40,11 @@ Toplam 203 kavram, 30 tanesi ayrışıyor.
 | boynuz | müyüz *(müñüz)* | müyüz *(müñüz)* | müyüz *(müñüz)* | UYUŞUYOR |
 | boyun | boyun *(boyun)* | boyın *(boyun)* | boyun *(boyun)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
+| bul- | tap *(tap)* | tap *(tap)* | tap *(tap)* | UYUŞUYOR |
 | bulut | bulut *(bulıt)* | bulıt *(bulıt)* | bulut *(bulıt)* | UYUŞUYOR |
 | burada | munda *(bunda)* | bunta *(bunda)* | munda *(bunda)* | UYUŞUYOR |
 | burun | burun *(burun)* | burun *(burun)* | burun *(burun)* | UYUŞUYOR |
+| büyü- | ös *(ös)* | ös *(ös)* | ös *(ös)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | büyük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | buz | buz *(buz)* | buz *(buz)* | buz *(buz)* | UYUŞUYOR |
 | çek- | tart *(tart)* | tart *(tart)* | tart *(tart)* | UYUŞUYOR |
@@ -67,10 +70,12 @@ Toplam 203 kavram, 30 tanesi ayrışıyor.
 | diz | tiz *(tiz)* | tiz *(tiz)* | tiz *(tiz)* | UYUŞUYOR |
 | doku- | tokı *(toku)* | tokı *(toku)* | toku *(toku)* | UYUŞUYOR |
 | dolu | tolu *(tolu)* | tolu *(tolu)* | tolu *(tolu)* | UYUŞUYOR |
+| don- | toñ *(toñ)* | toñ *(toñ)* | toñ *(toñ)* | UYUŞUYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
 | duman | tütün *(tütün)* | tütün *(tütün)* | tütün *(tütün)* | UYUŞUYOR |
 | dün | tünegün *(tünegün)* | tünekün *(tünegün)* | tünegün *(tünegün)* | UYUŞUYOR |
 | düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
+| düşün- | oyla *(oyla)* | sakın *(sakın)* | düşün *(düşün)* | AYRIŞIYOR |
 | ekşi | açığ *(açığ)* | ekşig *(ekşi)* | ekşi *(ekşi)* | AYRIŞIYOR |
 | el | kol *(kol-ad)* | el *(elig)* | kol *(kol-ad)* | AYRIŞIYOR |
 | em- | sor *(sor)* | em *(em)* | em *(em)* | AYRIŞIYOR |

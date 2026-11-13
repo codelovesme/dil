@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 203,
-  "kok": 596,
-  "tanik": 6578,
+  "kavram": 208,
+  "kok": 612,
+  "tanik": 6752,
   "kaynak": 168,
   "dil": 40
  },
@@ -87,6 +87,11 @@
   {
    "yol": "sozluk/kok/aga.md",
    "baslik": "aga",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ak-fiil.md",
+   "baslik": "ak-fiil",
    "tur": "kok"
   },
   {
@@ -380,6 +385,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/boda.md",
+   "baslik": "boda",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/boyun.md",
    "baslik": "boyun",
    "tur": "kok"
@@ -402,6 +412,11 @@
   {
    "yol": "sozluk/kok/buku.md",
    "baslik": "buku",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bul.md",
+   "baslik": "bul",
    "tur": "kok"
   },
   {
@@ -445,6 +460,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/buzla.md",
+   "baslik": "buzla",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/bäläkäy.md",
    "baslik": "bäläkäy",
    "tur": "kok"
@@ -452,6 +472,11 @@
   {
    "yol": "sozluk/kok/bür.md",
    "baslik": "bür",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/büyü.md",
+   "baslik": "büyü",
    "tur": "kok"
   },
   {
@@ -512,6 +537,11 @@
   {
    "yol": "sozluk/kok/dük.md",
    "baslik": "dük",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/düşün.md",
+   "baslik": "düşün",
    "tur": "kok"
   },
   {
@@ -1480,6 +1510,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/oyla.md",
+   "baslik": "oyla",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/oyna.md",
    "baslik": "oyna",
    "tur": "kok"
@@ -1530,6 +1565,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/pögün.md",
+   "baslik": "pögün",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/pılak.md",
    "baslik": "pılak",
    "tur": "kok"
@@ -1547,6 +1587,11 @@
   {
    "yol": "sozluk/kok/sakla.md",
    "baslik": "sakla",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/sakın.md",
+   "baslik": "sakın",
    "tur": "kok"
   },
   {
@@ -1710,6 +1755,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/süür.md",
+   "baslik": "süür",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/süüs.md",
    "baslik": "süüs",
    "tur": "kok"
@@ -1762,6 +1812,11 @@
   {
    "yol": "sozluk/kok/tamır.md",
    "baslik": "tamır",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/tap.md",
+   "baslik": "tap",
    "tur": "kok"
   },
   {
@@ -2480,6 +2535,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/yux.md",
+   "baslik": "yux",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/yäş-taze.md",
    "baslik": "yäş-taze",
    "tur": "kok"
@@ -2825,6 +2885,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ös.md",
+   "baslik": "ös",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/öskin.md",
    "baslik": "öskin",
    "tur": "kok"
@@ -2862,6 +2927,11 @@
   {
    "yol": "sozluk/kok/üküş.md",
    "baslik": "üküş",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ün-fiil.md",
+   "baslik": "ün-fiil",
    "tur": "kok"
   },
   {
@@ -3005,6 +3075,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/şuxăşla.md",
+   "baslik": "şuxăşla",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/şăn.md",
+   "baslik": "şăn",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/şătăk.md",
    "baslik": "şătăk",
    "tur": "kok"
@@ -3072,6 +3152,11 @@
   {
    "yol": "sozluk/temel/agla.md",
    "baslik": "ağla-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/ak-fiil.md",
+   "baslik": "ak- (sıvı)",
    "tur": "kavram"
   },
   {
@@ -3195,6 +3280,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/bul.md",
+   "baslik": "bul-",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/bulut.md",
    "baslik": "bulut",
    "tur": "kavram"
@@ -3207,6 +3297,11 @@
   {
    "yol": "sozluk/temel/burun.md",
    "baslik": "burun",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/buyu.md",
+   "baslik": "büyü-",
    "tur": "kavram"
   },
   {
@@ -3335,6 +3430,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/don.md",
+   "baslik": "don-",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/dort.md",
    "baslik": "dört",
    "tur": "kavram"
@@ -3352,6 +3452,11 @@
   {
    "yol": "sozluk/temel/dus.md",
    "baslik": "düş-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/dusun.md",
+   "baslik": "düşün-",
    "tur": "kavram"
   },
   {
@@ -4215,6 +4320,21 @@
   },
   {
    "t": "kavram",
+   "ad": "ak- (sıvı)",
+   "alt": "flow",
+   "yol": "sozluk/temel/ak-fiil.md",
+   "ozet": "Ortak dil: ak · Ana Türkçe tahmini: ak · En çok kişinin anladığı: ak",
+   "anahtar": [
+    "ak",
+    "ax",
+    "aˁk",
+    "ok",
+    "süür",
+    "yux"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "ak",
    "alt": "white",
    "yol": "sozluk/temel/ak.md",
@@ -4677,6 +4797,20 @@
   },
   {
    "t": "kavram",
+   "ad": "bul-",
+   "alt": "find",
+   "yol": "sozluk/temel/bul.md",
+   "ozet": "Ortak dil: tap · Ana Türkçe tahmini: tap · En çok kişinin anladığı: tap",
+   "anahtar": [
+    "bul",
+    "tap",
+    "top",
+    "tup",
+    "tıp"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "bulut",
    "alt": "cloud",
    "yol": "sozluk/temel/bulut.md",
@@ -4741,6 +4875,24 @@
     "sămsa",
     "tumçuk",
     "xaay"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "büyü-",
+   "alt": "grow",
+   "yol": "sozluk/temel/buyu.md",
+   "ozet": "Ortak dil: ös · Ana Türkçe tahmini: ös · En çok kişinin anladığı: ös",
+   "anahtar": [
+    "bidi",
+    "böyü",
+    "büyü",
+    "büü",
+    "ös",
+    "ün",
+    "üs",
+    "üz",
+    "üün"
    ]
   },
   {
@@ -5298,6 +5450,25 @@
   },
   {
    "t": "kavram",
+   "ad": "don-",
+   "alt": "freeze",
+   "yol": "sozluk/temel/don.md",
+   "ozet": "Ortak dil: toñ · Ana Türkçe tahmini: toñ · En çok kişinin anladığı: toñ",
+   "anahtar": [
+    "buzla",
+    "don",
+    "doñ",
+    "doŋ",
+    "muz kat",
+    "muzla",
+    "pustan",
+    "toñ",
+    "tuñ",
+    "şăn"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "dört",
    "alt": "four",
    "yol": "sozluk/temel/dort.md",
@@ -5393,6 +5564,28 @@
     "yığıl",
     "çığıl",
     "ük"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "düşün-",
+   "alt": "think",
+   "yol": "sozluk/temel/dusun.md",
+   "ozet": "Ortak dil: oyla · Ana Türkçe tahmini: sakın · En çok kişinin anladığı: düşün",
+   "anahtar": [
+    "boda",
+    "düşün",
+    "oyla",
+    "oylaş",
+    "pögün",
+    "pöögün",
+    "sakın",
+    "san",
+    "sana",
+    "sağın",
+    "uyla",
+    "öyla",
+    "şuxăşla"
    ]
   },
   {
@@ -8649,6 +8842,21 @@
   },
   {
    "t": "kok",
+   "ad": "ak-fiil",
+   "alt": "\"akmak\"",
+   "yol": "sozluk/kok/ak-fiil.md",
+   "ozet": "38 tanık, en eski 8. yy",
+   "anahtar": [
+    "ak",
+    "akmak",
+    "ax",
+    "aˁk",
+    "ok",
+    "آقمق"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ak",
    "alt": "\"ak, beyaz\"",
    "yol": "sozluk/kok/ak.md",
@@ -9611,6 +9819,17 @@
   },
   {
    "t": "kok",
+   "ad": "boda",
+   "alt": "Tuvacada \"düşünmek\"",
+   "yol": "sozluk/kok/boda.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "boda",
+    "бода-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "boyun",
    "alt": "\"boyun\"",
    "yol": "sozluk/kok/boyun.md",
@@ -9694,6 +9913,17 @@
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "buku"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bul",
+   "alt": "\"bulmak\"",
+   "yol": "sozluk/kok/bul.md",
+   "ozet": "16 tanık, en eski 8. yy",
+   "anahtar": [
+    "bul",
+    "бул-"
    ]
   },
   {
@@ -9858,6 +10088,19 @@
   },
   {
    "t": "kok",
+   "ad": "buzla",
+   "alt": "\"buzlanmak, donmak\"",
+   "yol": "sozluk/kok/buzla.md",
+   "ozet": "9 tanık, en eski günümüz",
+   "anahtar": [
+    "buzla",
+    "muz kat",
+    "muzla",
+    "pustan"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "bäläkäy",
    "alt": "Başkurtçada \"küçük\"",
    "yol": "sozluk/kok/bäläkäy.md",
@@ -9879,6 +10122,19 @@
     "pür",
     "püür",
     "бүрү"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "büyü",
+   "alt": "\"büyümek\"",
+   "yol": "sozluk/kok/büyü.md",
+   "ozet": "4 tanık, en eski günümüz",
+   "anahtar": [
+    "bidi",
+    "böyü",
+    "büyü",
+    "büü"
    ]
   },
   {
@@ -10020,6 +10276,16 @@
    "anahtar": [
     "dük",
     "дүк"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "düşün",
+   "alt": "\"düşünmek\"",
+   "yol": "sozluk/kok/düşün.md",
+   "ozet": "3 tanık, en eski günümüz",
+   "anahtar": [
+    "düşün"
    ]
   },
   {
@@ -12954,6 +13220,21 @@
   },
   {
    "t": "kok",
+   "ad": "oyla",
+   "alt": "\"düşünmek\"",
+   "yol": "sozluk/kok/oyla.md",
+   "ozet": "12 tanık, en eski günümüz",
+   "anahtar": [
+    "o'yla-",
+    "oyla",
+    "oylaş",
+    "uyla",
+    "öyla",
+    "уйла-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "oyna",
    "alt": "\"oynamak\"",
    "yol": "sozluk/kok/oyna.md",
@@ -13072,6 +13353,17 @@
   },
   {
    "t": "kok",
+   "ad": "pögün",
+   "alt": "Şor ve Orta Çulımcada \"düşünmek\"",
+   "yol": "sozluk/kok/pögün.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "pögün",
+    "pöögün"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "pılak",
    "alt": "Çuvaşçada \"tatlı\"",
    "yol": "sozluk/kok/pılak.md",
@@ -13115,14 +13407,27 @@
   },
   {
    "t": "kok",
+   "ad": "sakın",
+   "alt": "\"düşünmek; sakınmak\"",
+   "yol": "sozluk/kok/sakın.md",
+   "ozet": "7 tanık, en eski 8. yy",
+   "anahtar": [
+    "sakın",
+    "san",
+    "sağın"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "sana",
    "alt": "\"saymak\"",
    "yol": "sozluk/kok/sana.md",
-   "ozet": "27 tanık, en eski 8. yy",
+   "ozet": "30 tanık, en eski 8. yy",
    "anahtar": [
     "hana",
     "saana",
     "sana",
+    "санаа-",
     "һана-"
    ]
   },
@@ -13596,6 +13901,17 @@
   },
   {
    "t": "kok",
+   "ad": "süür",
+   "alt": "\"koşmak; akmak\"",
+   "yol": "sozluk/kok/süür.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "süür",
+    "сүүр-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "süüs",
    "alt": "Sahacada \"alın\"",
    "yol": "sozluk/kok/süüs.md",
@@ -13715,6 +14031,22 @@
     "tımar",
     "тамыр",
     "тымар"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "tap",
+   "alt": "\"bulmak\"",
+   "yol": "sozluk/kok/tap.md",
+   "ozet": "28 tanık, en eski 8. yy",
+   "anahtar": [
+    "tap",
+    "top",
+    "tup",
+    "tıp",
+    "туп-",
+    "тып-",
+    "طاپمق"
    ]
   },
   {
@@ -14302,9 +14634,17 @@
    "ad": "toñ",
    "alt": "\"donmuş; buz\"",
    "yol": "sozluk/kok/toñ.md",
-   "ozet": "1 tanık, en eski günümüz",
+   "ozet": "22 tanık, en eski 8. yy",
    "anahtar": [
-    "toñsı"
+    "don",
+    "doñ",
+    "doŋ",
+    "toñ",
+    "toñsı",
+    "tuñ",
+    "доң-",
+    "туң-",
+    "طوكمق"
    ]
   },
   {
@@ -16072,6 +16412,17 @@
   },
   {
    "t": "kok",
+   "ad": "yux",
+   "alt": "Çuvaşçada \"akmak\"",
+   "yol": "sozluk/kok/yux.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "yux",
+    "юх-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "yäş-taze",
    "alt": "Baraba ağzında \"çiğ, taze\"",
    "yol": "sozluk/kok/yäş-taze.md",
@@ -17032,6 +17383,22 @@
   },
   {
    "t": "kok",
+   "ad": "ös",
+   "alt": "\"büyümek\"",
+   "yol": "sozluk/kok/ös.md",
+   "ozet": "23 tanık, en eski 14. yy",
+   "anahtar": [
+    "o's-",
+    "ös",
+    "üs",
+    "üz",
+    "үс-",
+    "үҫ-",
+    "ӳс-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "öskin",
    "alt": "Tofacada \"yağmur\"",
    "yol": "sozluk/kok/öskin.md",
@@ -17128,6 +17495,18 @@
     "elbex",
     "ügüs",
     "üküş"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ün-fiil",
+   "alt": "\"çıkmak, yetişmek\"",
+   "yol": "sozluk/kok/ün-fiil.md",
+   "ozet": "3 tanık, en eski günümüz",
+   "anahtar": [
+    "ün",
+    "üün",
+    "үүн-"
    ]
   },
   {
@@ -17521,6 +17900,28 @@
    "anahtar": [
     "şurăm",
     "ҫурӑм"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "şuxăşla",
+   "alt": "Çuvaşçada \"düşünmek\"",
+   "yol": "sozluk/kok/şuxăşla.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "şuxăşla",
+    "шухӑшла-"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "şăn",
+   "alt": "Çuvaşçada \"donmak\"",
+   "yol": "sozluk/kok/şăn.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "şăn",
+    "шӑн-"
    ]
   },
   {

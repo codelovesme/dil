@@ -1,0 +1,58 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sakın
+anlam: '"düşünmek; sakınmak"'
+koken: türkçe
+ana_turkce: '*sakïn-'
+kavramlar:
+- dusun
+etimoloji: sakın- 'düşünmek, özlemek' (sak 'uyanık' ile). Eski Uygurcadan beri; Karay, Hakas,
+  Tofa, Sarı Uygur dillerinde 'düşünmek'; Türkiye Türkçesinde 'sakınmak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: sağın
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım sagin.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: sakın
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: baskakov1974, bicim: sağın, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: sağın, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: san, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: sakın, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sağın, dil: kim, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine oyla (oyla)
+  bak: yerine uyla (oyla)
+  crh: yerine oyla (oyla)
+  kaa: yerine oyla (oyla)
+  krc: yerine oyla (oyla)
+  kaz: yerine oyla (oyla)
+  kir: yerine oyla (oyla)
+  kum: yerine oylaş (oyla)
+  nog: yerine oyla (oyla)
+  tat: yerine uyla (oyla)
+  uig: yerine oyla (oyla)
+  uzb: yerine öyla (oyla)
+  aze: yerine düşün (düşün)
+  gag: yerine düşün (düşün)
+  tur: yerine düşün (düşün)
+  atv: yerine sana (sana)
+  alt: yerine sana (sana)
+  sah: yerine sana (sana)
+  clw: yerine pöögün (pögün)
+  cjs: yerine pögün (pögün)
+  tyv: yerine boda (boda)
+  chv: yerine şuxăşla (şuxăşla)
+tarihi_yok: {}

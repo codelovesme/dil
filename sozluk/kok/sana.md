@@ -5,13 +5,13 @@
 - **Anlam:** "saymak"
 - **Ana Türkçe:** *sana-
 - **Köken:** türkçe
-- **Kavramlar:** [say](../temel/say.yaml)
+- **Kavramlar:** [say](../temel/say.yaml), [dusun](../temel/dusun.yaml)
 - **Etimoloji:** sana- 'saymak' (*sā- 'saymak' tabanından). Kıpçak, Karluk, Kırgız, Sibirya dillerinde; Eski Türkçe sana-; Başkurtça hana-.
 - **En eski tanık:** 8. yy
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 0/89 · duraklar 4/7 · tanık 27 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 4/7 · tanık 30 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -23,7 +23,7 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Çuvaşça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, Güney Altayca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Şorca, Fuyu Kırgızcası.
+Tanığı olmayan diller: Çuvaşça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Şorca, Fuyu Kırgızcası.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -61,14 +61,17 @@ Notlar:
 | Kıpçak kolu | Karakalpakça |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Nogayca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Güney Altayca |  | **sana** |  | düşünmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Karluk kolu | Özbekçe |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Karluk kolu | Uygurca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ağızlarda say-. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **sana** | санаа- | düşünmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Sarı Uygurca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Tuvaca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Tofaca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Hakasça |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Çulımca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Kuzey Altayca |  | **sana** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Kuzey Altayca |  | **sana** |  | düşünmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine say (say) |
 | | Kırım Tatarcası | | — | | | | kök yok: yerine say (say) |
 | | Gagavuzca | | — | | | | kök yok: yerine say (say) |
@@ -79,7 +82,7 @@ Notlar:
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 20 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 23 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 7 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

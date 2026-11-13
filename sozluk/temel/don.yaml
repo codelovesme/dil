@@ -1,0 +1,54 @@
+kavram: don-
+ingilizce: freeze
+anlam: Donmak.
+dogrulandi: false
+kokler:
+- kok: toñ
+  koken: türkçe
+  ana_turkce: '*toŋ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/toñ.yaml).
+  tarihi:
+    otk: toñ
+    eski-anadolu: doŋ
+  bicimler:
+    aze: don
+    bak: tuñ
+    gag: don
+    kjh: toñ
+    kir: toñ
+    clw: toñ
+    atv: toñ
+    slr: toñ
+    ybe: toñ
+    cjs: toñ
+    alt: toñ
+    tat: tuñ
+    kim: doñ
+    tur: don
+    tuk: doñ
+    tyv: doñ
+    uig: toñ
+    sah: toñ
+- kok: buzla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/buzla.yaml).
+  bicimler:
+    crh: buzla
+    krc: buzla
+    kdr: buzla
+    kaa: muzla
+    kaz: muz kat
+    kum: buzla
+    nog: buzla
+    uzb: muzla
+    sty-baraba: pustan
+- kok: şăn
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şăn.yaml).
+  bicimler:
+    chv: şăn
+yok: []
+tarihi_yok: []

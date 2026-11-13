@@ -1,0 +1,59 @@
+kavram: büyü-
+ingilizce: grow
+anlam: Büyümek.
+dogrulandi: false
+kokler:
+- kok: ös
+  koken: türkçe
+  ana_turkce: '*ös-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ös.yaml).
+  tarihi:
+    qwm: ös
+  bicimler:
+    bak: üz
+    chv:
+      bicim: üs
+      miras: true
+    crh: ös
+    krc: ös
+    kdr: ös
+    kaa: ös
+    kaz: ös
+    kjh: ös
+    kir: ös
+    kum: ös
+    clw: ös
+    nog: ös
+    atv: ös
+    cjs: ös
+    alt: ös
+    tat: üs
+    kim: ös
+    tuk: ös
+    tyv: ös
+    uig: ös
+    uzb: ös
+    sty-baraba: ös
+- kok: büyü
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/büyü.yaml).
+  bicimler:
+    aze: böyü
+    gag: büü
+    klj:
+      bicim: bidi
+      miras: true
+    tur: büyü
+- kok: ün-fiil
+  koken: türkçe
+  ana_turkce: '*ün-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ün-fiil.yaml).
+  bicimler:
+    dlg: üün
+    ybe: ün
+    sah: üün
+yok: []
+tarihi_yok: []

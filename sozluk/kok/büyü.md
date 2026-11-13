@@ -1,0 +1,65 @@
+# büyü
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`büyü.yaml`](büyü.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** "büyümek"
+- **Köken:** türkçe
+- **Kavramlar:** [buyu](../temel/buyu.yaml)
+- **Etimoloji:** büyük ile aynı kökten (bedü- 'büyümek'); Oğuz dillerinde (büyü-, böyü-, büü-). Halaçça bidi- de buradan.
+- **En eski tanık:** günümüz
+
+## Kapsam
+
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+
+- ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
+- ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
+- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✗ Çağatayca, 15-19. yy
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **bidi** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **büyü** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Gagavuzca |  | **büü** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **böyü** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| | Baraba ağzı | | — | | | | kök yok: yerine ös (ös) |
+| | Kuzey Altayca | | — | | | | kök yok: yerine ös (ös) |
+| | Güney Altayca | | — | | | | kök yok: yerine ös (ös) |
+| | Başkurtça | | — | | | | kök yok: yerine üz (ös) |
+| | Çuvaşça | | — | | | | kök yok: yerine üs (ös) |
+| | Kırım Tatarcası | | — | | | | kök yok: yerine ös (ös) |
+| | Karakalpakça | | — | | | | kök yok: yerine ös (ös) |
+| | Karaçay-Malkarca | | — | | | | kök yok: yerine ös (ös) |
+| | Karayca | | — | | | | kök yok: yerine ös (ös) |
+| | Kazakça | | — | | | | kök yok: yerine ös (ös) |
+| | Hakasça | | — | | | | kök yok: yerine ös (ös) |
+| | Kırgızca | | — | | | | kök yok: yerine ös (ös) |
+| | Kumukça | | — | | | | kök yok: yerine ös (ös) |
+| | Çulımca | | — | | | | kök yok: yerine ös (ös) |
+| | Nogayca | | — | | | | kök yok: yerine ös (ös) |
+| | Şorca | | — | | | | kök yok: yerine ös (ös) |
+| | Tatarca | | — | | | | kök yok: yerine üs (ös) |
+| | Tofaca | | — | | | | kök yok: yerine ös (ös) |
+| | Türkmence | | — | | | | kök yok: yerine ös (ös) |
+| | Tuvaca | | — | | | | kök yok: yerine ös (ös) |
+| | Uygurca | | — | | | | kök yok: yerine ös (ös) |
+| | Özbekçe | | — | | | | kök yok: yerine ös (ös) |
+| | Dolganca | | — | | | | kök yok: yerine üün (ün-fiil) |
+| | Sarı Uygurca | | — | | | | kök yok: yerine ün (ün-fiil) |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine üün (ün-fiil) |
+
+## Kaynakça
+
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 4 tanık
