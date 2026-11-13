@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 11,
-  "kok": 7,
-  "tanik": 270,
+  "kavram": 12,
+  "kok": 8,
+  "tanik": 321,
   "kaynak": 168,
   "dil": 40
  },
@@ -65,6 +65,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kim.md",
+   "baslik": "kim",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kini.md",
    "baslik": "kini",
    "tur": "kok"
@@ -107,6 +112,11 @@
   {
    "yol": "sozluk/temel/dag.md",
    "baslik": "dağ",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/kim.md",
+   "baslik": "kim",
    "tur": "kavram"
   },
   {
@@ -233,6 +243,22 @@
     "tu",
     "tuu",
     "xaya"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "kim",
+   "alt": "who",
+   "yol": "sozluk/temel/kim.md",
+   "ozet": "Ortak dil: kim · Ana Türkçe tahmini: kim · En çok kişinin anladığı: kim",
+   "anahtar": [
+    "kam",
+    "kem",
+    "kim",
+    "kum",
+    "käm",
+    "kĭm",
+    "kım"
    ]
   },
   {
@@ -419,6 +445,27 @@
     "pu",
     "был",
     "бұл"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kim",
+   "alt": "kişiyi soran soru zamiri (\"kim\"); eski dilde ilgi zamiri ve bağlaç da",
+   "yol": "sozluk/kok/kim.md",
+   "ozet": "51 tanık, en eski 8. yy",
+   "anahtar": [
+    "kam",
+    "kem",
+    "kim",
+    "kum",
+    "käm",
+    "kīm",
+    "kĭm",
+    "kım",
+    "кам",
+    "кым",
+    "кім",
+    "كم"
    ]
   },
   {

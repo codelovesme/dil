@@ -1,0 +1,62 @@
+kavram: kim
+ingilizce: who
+anlam: Kişiyi soran soru zamiri.
+dogrulandi: false
+kokler:
+- kok: kim
+  koken: türkçe
+  ana_turkce: '*kem'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  tarihi:
+    otk: kim
+    xqa: kim
+    qwm: kim
+    chg: kim
+    eski-anadolu: kim
+  bicimler:
+    aze: kim
+    bak: kem
+    chv:
+      bicim: kam
+      miras: true
+    crh: kim
+    dlg: kim
+    gag: kim
+    krc: kim
+    kdr: kim
+    kaa: kim
+    kaz: kĭm
+    kjh: kem
+    klj:
+      bicim: kim
+      miras: true
+    kir: kim
+    kum: kim
+    clw: käm
+    nog: kim
+    atv: kem
+    slr: kem
+    ybe: kim
+    cjs: kem
+    alt: kem
+    tat: kem
+    kim: kum
+    tur: kim
+    tur-ahiska: kim
+    tur-bkaradeniz: kim
+    tur-brumeli: kim
+    tur-dkaradeniz: kim
+    tur-drumeli: kim
+    tur-ege: kim
+    tur-erzurum: kim
+    tur-kibris: kim
+    tur-orta: kim
+    tur-teke: kim
+    tuk: kim
+    tyv: kım
+    uig: kim
+    uzb: kim
+    sah: kim
+    sty-baraba: kim
+yok: []
+tarihi_yok: []
