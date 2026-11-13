@@ -5,7 +5,7 @@
 - **Anlam:** Geniş, enli.
 - **İngilizce:** wide
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [keñ](../kok/keñ.md) | türkçe | 0.91 (*keñ*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~155 milyon (%80, *keñ*) | *käŋ |
-| [çalbak](../kok/çalbak.md) | türkçe | -0.41 (*çalbak*) | Çuvaşça %0 | Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) (3 hat) | ~0 milyon (%0, *çalbax*) |  |
-| [aalhığ](../kok/aalhığ.md) | türkçe | -0.49 (*aalhığ*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *aalhığ*) |  |
-| [sarlaga](../kok/sarlaga.md) | türkçe | -0.38 (*sarlaga*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sarlaga*) |  |
+| [keñ](../kok/keñ.md) | türkçe | 0.89 (*keñ*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~155 milyon (%80, *keñ*) | *käŋ |
+| [çalbak](../kok/çalbak.md) | türkçe | -0.41 (*çalbax*) | Çuvaşça %0 | Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) (3 hat) | ~60 milyon (%31, *çalbak*) |  |
+| [aalhığ](../kok/aalhığ.md) | türkçe | -0.49 (*aalhığ*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *aalhığ*) |  |
+| [sarlaga](../kok/sarlaga.md) | türkçe | -0.37 (*sarlaga*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sarlaga*) |  |
 
 **Büyük topluluklarda *keñ* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %70, Gagavuzca %70, Azerbaycan Türkçesi %70, Türkmence %79, Tatarca %88, Başkurtça %88, Sahaca %88, Kumukça %92, Uygurca %92, Sibirya Tatarcası %92, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100.
 
@@ -117,14 +117,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | aalhığ | aalhığ | aalhığ | aalhığ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | aalhığ ↑ | aalhığ ↑ | aalhığ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | aalhığ ↑ | aalhığ ↑ | aalhığ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | *çalbak* (çalbak) | *çalbak* (çalbak) | *çalbax* (çalbak) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | *çalbax* (çalbak) | *çalbak* (çalbak) | *çalbax* (çalbak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | çalbax | çalbax | çalbax | çalbax |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çalbax | çalbax | çalbax | çalbax |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | çalbak | çalbak | çalbak | çalbak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çalbak | çalbak | çalbak | çalbak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | çalbak | çalbak | çalbak | çalbak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çalbak | çalbak | çalbak | çalbak |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çalbak ↑ | çalbak ↑ | çalbax ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çalbax ↑ | çalbak ↑ | çalbax ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | *keñ* (keñ) | *keñ* (keñ) | *keñ* (keñ) | keñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | keñ | keñ | keñ | keñ |
 

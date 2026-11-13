@@ -5,7 +5,7 @@
 - **Anlam:** Görme organı.
 - **İngilizce:** eye
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [köz](../kok/köz.md) | türkçe | 0.91 (*köz*) | Sahaca %0 | Ana Türkçe (2 hat) | ~185 milyon (%95, *köz*) | *köŕ |
-| [karak](../kok/karak.md) | türkçe | -0.27 (*karak*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~1 milyon (%0, *xarax*) | *karak |
+| [köz](../kok/köz.md) | türkçe | 0.89 (*köz*) | Sahaca %0 | Ana Türkçe (2 hat) | ~185 milyon (%95, *köz*) | *köŕ |
+| [karak](../kok/karak.md) | türkçe | -0.25 (*karak*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~61 milyon (%31, *karak*) | *karak |
 
 **Büyük topluluklarda *köz* biçiminin anlaşılırlığı:** Sahaca %0, Tuvaca %0, Çuvaşça %83, Başkurtça %92, Kumukça %92, Türkiye Türkçesi %92, Gagavuzca %92, Türkmence %92, Tatarca %92, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 
@@ -115,14 +115,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | karak | karak | karak | karak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | karak ↑ | karak ↑ | karak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | karak ↑ | karak ↑ | karak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | karak | karak | xarax |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | xarax | karak | xarax |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | xarax | xarax | xarax | xarax |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xarax | xarax | xarax | xarax |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | karak | karak | karak | karak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | karak | karak | karak | karak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | karak | karak | karak | karak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | karak | karak | karak | karak |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | karak ↑ | karak ↑ | xarax ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | xarax ↑ | karak ↑ | xarax ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | *kös* (köz) | *kös* (köz) | *kös* (köz) | kös |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kös | kös | kös | kös |
 

@@ -5,7 +5,7 @@
 - **Anlam:** Nesneyi ya da durumu soran soru zamiri.
 - **İngilizce:** what
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %85 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ne](../kok/ne.md) | türkçe | 0.80 (*ne*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~170 milyon (%88, *ne*) | *nē |
-| [mĕn](../kok/mĕn.md) | türkçe | -0.39 (*mĕn*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *mĕn*) |  |
-| [çü](../kok/çü.md) | türkçe | -0.43 (*çüü*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *çüü*) |  |
-| [tuoh](../kok/tuoh.md) | türkçe | -0.42 (*tuoh*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *tuoh*) |  |
+| [ne](../kok/ne.md) | türkçe | 0.76 (*ne*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~170 milyon (%88, *ne*) | *nē |
+| [mĕn](../kok/mĕn.md) | türkçe | -0.38 (*mĕn*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *mĕn*) |  |
+| [çü](../kok/çü.md) | türkçe | -0.42 (*çüü*) | Çuvaşça %0 | Sayan (2 hat) | ~43 milyon (%22, *çüü*) |  |
+| [tuoh](../kok/tuoh.md) | türkçe | -0.41 (*tuoh*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *tuoh*) |  |
 
 **Büyük topluluklarda *ne* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Özbekçe %69, Uygurca %69, Türkmence %75, Sibirya Tatarcası %75, Kırgızca %75, Tatarca %81, Başkurtça %81, Azerbaycan Türkçesi %88, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100.
 

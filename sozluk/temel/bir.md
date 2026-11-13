@@ -5,7 +5,7 @@
 - **Anlam:** Bir sayısı.
 - **İngilizce:** one
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bir](../kok/bir.md) | türkçe | 1.13 (*bir*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bir*) | *bīr |
+| [bir](../kok/bir.md) | türkçe | 1.12 (*bir*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bir*) | *bīr |
 
 **Büyük topluluklarda *bir* biçiminin anlaşılırlığı:** Çuvaşça %68, Kazakça %83, Tatarca %88, Başkurtça %88, Sahaca %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 

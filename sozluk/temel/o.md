@@ -5,7 +5,7 @@
 - **Anlam:** Üçüncü tekil şahıs zamiri (kişi zamiri). Türk dillerinin çoğunda aynı kelime "o (şu, uzaktaki)" işaret zamiri olarak da kullanılır; bu kayıt kişi zamiri içindir.
 - **İngilizce:** he / she / it
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 6/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 6/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| ol | türkçe | 0.99 (*ol*) | Sahaca %25 | Ana Türkçe (2 hat) | ~172 milyon (%89, *o*) | *ol (eğik gövde *an-) |
+| ol | türkçe | 0.97 (*ol*) | Sahaca %25 | Ana Türkçe (2 hat) | ~172 milyon (%89, *o*) | *ol (eğik gövde *an-) |
 | [kini](../kok/kini.md) | belirsiz | seçilemez | | | |  |
 
 **Büyük topluluklarda *ol* biçiminin anlaşılırlığı:** Sahaca %25, Özbekçe %62, Uygurca %62, Çuvaşça %71, Gagavuzca %75, Azerbaycan Türkçesi %75, Irak Türkmencesi %75, Türkiye Türkçesi %75, Kırgızca %81, Tatarca %88, Başkurtça %88, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Tuvaca %100.

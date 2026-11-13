@@ -5,7 +5,7 @@
 - **Anlam:** Açmak.
 - **İngilizce:** open
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [aç](../kok/aç.md) | türkçe | 1.10 (*aç*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~185 milyon (%95, *aç*) | *āč- |
+| [aç](../kok/aç.md) | türkçe | 1.09 (*aç*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~185 milyon (%95, *aç*) | *āč- |
 | [arıy](../kok/arıy.md) | türkçe | -0.49 (*arıy*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *arıy*) |  |
 
 **Büyük topluluklarda *aç* biçiminin anlaşılırlığı:** Çuvaşça %69, Tuvaca %69, Özbekçe %81, Başkurtça %88, Kazakça %88, Karakalpakça %88, Sibirya Tatarcası %88, Sahaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.

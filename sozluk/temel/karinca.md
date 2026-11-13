@@ -5,7 +5,7 @@
 - **Anlam:** Karınca.
 - **İngilizce:** ant
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %73 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %70 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kumursga](../kok/kumursga.md) | türkçe | 0.56 (*kumurska*) | Türkiye Türkçesi %0 | Ortak Türkçe (5 hat) | ~89 milyon (%46, *kumurska*) | *kumursga |
-| [karınca](../kok/karınca.md) | türkçe | -0.21 (*karınca*) | Tatarca %0 | Oğuz kolu (2 hat) | ~129 milyon (%67, *karınca*) |  |
-| [çumalı](../kok/çumalı.md) | türkçe | -0.27 (*çumoli*) | Türkiye Türkçesi %0 | Ortak Türkçe (3 hat) | ~58 milyon (%30, *çumoli*) |  |
+| [kumursga](../kok/kumursga.md) | türkçe | 0.53 (*kumurska*) | Türkiye Türkçesi %0 | Ortak Türkçe (5 hat) | ~108 milyon (%56, *kumurska*) | *kumursga |
+| [karınca](../kok/karınca.md) | türkçe | -0.21 (*karınca*) | Tatarca %0 | Oğuz kolu (2 hat) | ~146 milyon (%75, *karınca*) |  |
+| [çumalı](../kok/çumalı.md) | türkçe | -0.24 (*çumoli*) | Türkiye Türkçesi %0 | Ortak Türkçe (3 hat) | ~107 milyon (%55, *çömüli*) |  |
 
 **Büyük topluluklarda *kumurska* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Özbekçe %0, Uygurca %0, Tuvaca %72, Sahaca %75, Tatarca %78, Başkurtça %78, Kırım Tatarcası %91, Kumukça %91, Kazakça %95, Karakalpakça %95, Karaçay-Malkarca %97, Kırgızca %100.
 
@@ -105,8 +105,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | kımırdağas | kımırdağas | kımırdağas | kımırdağas |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kımırdağas | kımırdağas | kımırdağas | kımırdağas |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | kımırdağas ↑ | kımırdağas ↑ | kımırdağas ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kumurska | kumurska | kımıskayak |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | kumurska ↑ | kumurska ↑ | kımıskayak ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | xımısxa | kumurska | kımıskayak |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | xımısxa ↑ | kumurska ↑ | kımıskayak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | kımıskayak | hımıska | kımıskayak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | kımıskayak | kımıskayak | kımıskayak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | kımıskayak | kımıskayak | kımıskayak | kımıskayak |
@@ -115,14 +115,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | hımıska | hımıska | hımıska | hımıska |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | hımıska ↑ | hımıska ↑ | hımıska ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | hımıska ↑ | hımıska ↑ | hımıska ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | kumurska | kumurska | xımısxa |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | xımısxa | kumurska | xımısxa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | xımısxa | xımısxa | xımısxa | xımısxa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xımısxa | xımısxa | xımısxa | xımısxa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | kımıskaş | kımıskaş | kımıskaş | kımıskaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kımıskaş | kımıskaş | kımıskaş | kımıskaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | kumurska | kumurska | kumurska | kumurska |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kumurska | kumurska | kumurska | kumurska |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | kumurska ↑ | kumurska ↑ | xımısxa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | xımısxa ↑ | kumurska ↑ | xımısxa ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | *çubala* (çumalı) | *çubala* (çumalı) | *çubala* (çumalı) | çubala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çubala | çubala | çubala | çubala |
 

@@ -5,7 +5,7 @@
 - **Anlam:** Sıvıyı ağızdan almak.
 - **İngilizce:** drink
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [iç](../kok/iç.md) | türkçe | 1.13 (*iç*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~190 milyon (%98, *iç*) | *ič- |
+| [iç](../kok/iç.md) | türkçe | 1.12 (*iç*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~190 milyon (%98, *iç*) | *ič- |
 
 **Büyük topluluklarda *iç* biçiminin anlaşılırlığı:** Çuvaşça %69, Başkurtça %69, Tatarca %81, Sibirya Tatarcası %81, Kazakça %88, Karakalpakça %88, Sahaca %88, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

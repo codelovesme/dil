@@ -5,7 +5,7 @@
 - **Anlam:** Bulut.
 - **İngilizce:** cloud
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bulıt](../kok/bulıt.md) | türkçe | 1.15 (*bulut*) | Çuvaşça %80 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bulut*) | *bulït |
+| [bulıt](../kok/bulıt.md) | türkçe | 1.14 (*bulut*) | Çuvaşça %80 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bulut*) | *bulït |
 
 **Büyük topluluklarda *bulut* biçiminin anlaşılırlığı:** Çuvaşça %80, Sibirya Tatarcası %85, Sahaca %85, Tatarca %88, Başkurtça %90, Kazakça %90, Karakalpakça %90, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 
@@ -58,7 +58,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bulut | bulut | bulut | bulut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | bulut ↑ | bulut ↑ | bulut ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | pulut | pulut | pulut | pulut |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | bulut | bulut | bulıt |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | bulıt | bulut | bulıt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | bolıt | bolıt | bolıt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | bolıt | bolıt | bolıt | bolıt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bolıt | bolıt | bolıt | bolıt |

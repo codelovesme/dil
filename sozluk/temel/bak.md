@@ -5,7 +5,7 @@
 - **Anlam:** Gözünü bir yere çevirmek, bakmak.
 - **İngilizce:** look
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bak](../kok/bak.md) | türkçe | 0.05 (*bak*) | Tatarca %0 | Ana Türkçe (2 hat) | ~138 milyon (%71, *bak*) | *bak- |
-| [kara](../kok/kara.md) | türkçe | 0.17 (*kara*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~74 milyon (%38, *kara*) | *kara- |
-| [kör](../kok/kör.md) | türkçe | -0.05 (*kör*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~11 milyon (%6, *kör*) |  |
+| [bak](../kok/bak.md) | türkçe | 0.04 (*bak*) | Tatarca %0 | Ana Türkçe (2 hat) | ~158 milyon (%81, *bak*) | *bak- |
+| [kara](../kok/kara.md) | türkçe | 0.15 (*kara*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~130 milyon (%67, *kara*) | *kara- |
+| [kör](../kok/kör.md) | türkçe | -0.03 (*kör*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~73 milyon (%37, *kör*) |  |
 
 - ⚠ **Canlandırma:** *kara* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -68,15 +68,15 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kara | kara | kara | kara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | kara | kara | kara | kara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kara | kara | kara | kara |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | kara | *bak* (bak) | kara |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | *bak* (bak) | bak | *bak* (bak) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | kara | *bak* (bak) | *bak* (bak) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | *bak* (bak) | bak | bak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | bak | bak | bak | bak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bak | bak | bak | bak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | bak | bak | bak | bak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bak | bak | bak | bak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | bak ↑ | bak ↑ | bak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | bak ↑ | bak ↑ | bak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | kara | *kara* (kara) | kara |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | kara | *kara* (kara) | *kara* (kara) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | kara | kara | kara | kara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kara | kara | kara | kara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kara | kara | kara | kara |

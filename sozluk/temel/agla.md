@@ -5,7 +5,7 @@
 - **Anlam:** Ağlamak.
 - **İngilizce:** cry, weep
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ığla](../kok/ığla.md) | türkçe | 0.80 (*ığla*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~178 milyon (%92, *ağla*) | *ïgla- |
-| [sıkta](../kok/sıkta.md) | türkçe | -0.42 (*sıkta*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~11 milyon (%6, *sıkta*) |  |
-| [ıtaa](../kok/ıtaa.md) | türkçe | -0.41 (*ıtaa*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *ıtaa*) |  |
-| [măkăr](../kok/măkăr.md) | türkçe | -0.39 (*măkăr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *măkăr*) |  |
+| [ığla](../kok/ığla.md) | türkçe | 0.77 (*ığla*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~178 milyon (%92, *ağla*) | *ïgla- |
+| [sıkta](../kok/sıkta.md) | türkçe | -0.42 (*sıkta*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~60 milyon (%31, *sıkta*) |  |
+| [ıtaa](../kok/ıtaa.md) | türkçe | -0.40 (*ıtaa*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *ıtaa*) |  |
+| [măkăr](../kok/măkăr.md) | türkçe | -0.38 (*măkăr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *măkăr*) |  |
 
 **Büyük topluluklarda *ığla* biçiminin anlaşılırlığı:** Çuvaşça %0, Sibirya Tatarcası %0, Sahaca %0, Tatarca %75, Kumukça %75, Karaçay-Malkarca %75, Kazakça %75, Karakalpakça %75, Gagavuzca %78, Uygurca %80, Başkurtça %81, Özbekçe %85, Kırgızca %88, Azerbaycan Türkçesi %91, Türkmence %91, Kırım Tatarcası %91, Türkiye Türkçesi %91, Tuvaca %100.
 
@@ -61,13 +61,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ağla | ağla | ağla | ağla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | ağla ↑ | ağla ↑ | ağla ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yığla | yığla | yığla | yığla |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yıla | yıla | jıla |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | jıla | yıla | jıla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | ila | ila | yıla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yıla | yıla | yıla | yıla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yıla | yıla | yıla | yıla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | ila | ila | ila | ila |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ila | ila | ila | ila |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | yıla | yıla | ağla |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | jıla | yıla | ağla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | ağla | ağla | ağla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | ağla | ağla | ağla | ağla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ağla | ağla | ağla | ağla |
@@ -117,14 +117,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | ığla | ığla | ığla | ığla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | ığla ↑ | ığla ↑ | ığla ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | ığla ↑ | ığla ↑ | ığla ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | ıla | ılğa | ılğa |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | ılğa | ılğa | ılğa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | ılğa | ılğa | ılğa | ılğa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ılğa | ılğa | ılğa | ılğa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | ılğa | ılğa | ılğa | ılğa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ılğa | ılğa | ılğa | ılğa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | *sıkta* (sıkta) | *sıkta* (sıkta) | *sıkta* (sıkta) | sıkta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sıkta | sıkta | sıkta | sıkta |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | ıla ↑ | ılğa ↑ | ılğa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | ılğa ↑ | ılğa ↑ | ılğa ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | ıla | ıla | ıla | ıla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ıla | ıla | ıla | ıla |
 

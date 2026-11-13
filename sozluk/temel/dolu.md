@@ -5,7 +5,7 @@
 - **Anlam:** Dolu.
 - **İngilizce:** full
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -92,7 +92,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | toltura | toltura | toltura | toltura |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | tolo | tolo | tolo | tolo |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tolo | tolo | tolo | tolo |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | toluk | toluk | töla |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | töla | toluk | töla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | töla | töla | töla | töla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | töla | töla | töla | töla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | toluk | toluk | toluk |  |

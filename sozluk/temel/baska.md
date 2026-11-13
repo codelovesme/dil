@@ -5,7 +5,7 @@
 - **Anlam:** Başka, diğer.
 - **İngilizce:** other
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [başka](../kok/başka.md) | türkçe | 0.53 (*başka*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~187 milyon (%96, *başka*) | *baĺka |
-| [adın](../kok/adın.md) | türkçe | -0.26 (*atın*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *atın*) | *adïn |
-| [özge](../kok/özge.md) | türkçe | -0.35 (*öske*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~9 milyon (%5, *öske*) |  |
-| [art](../kok/art.md) | türkçe | -0.42 (*artı*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~8 milyon (%4, *artı*) |  |
-| [urăx](../kok/urăx.md) | türkçe | -0.39 (*urăx*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *urăx*) |  |
-| [iieza](../kok/iieza.md) | türkçe | -0.45 (*iieza*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *iieza*) |  |
+| [başka](../kok/başka.md) | türkçe | 0.49 (*başka*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~187 milyon (%96, *başka*) | *baĺka |
+| [adın](../kok/adın.md) | türkçe | -0.25 (*atın*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *atın*) | *adïn |
+| [özge](../kok/özge.md) | türkçe | -0.34 (*öske*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~61 milyon (%31, *öske*) |  |
+| [art](../kok/art.md) | türkçe | -0.42 (*artı*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~71 milyon (%37, *artan*) |  |
+| [urăx](../kok/urăx.md) | türkçe | -0.38 (*urăx*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *urăx*) |  |
+| [iieza](../kok/iieza.md) | türkçe | -0.44 (*iieza*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *iieza*) |  |
 
 **Büyük topluluklarda *başka* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Özbekçe %93, Kumukça %95, Kazakça %95, Azerbaycan Türkçesi %95, Türkmence %95, Karaçay-Malkarca %95, Karakalpakça %95, Sibirya Tatarcası %95, Türkiye Türkçesi %100, Gagavuzca %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kırgızca %100, Uygurca %100.
 
@@ -119,14 +119,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | baˁşka | baˁşka | baˁşka | baˁşka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | baˁşka ↑ | baˁşka ↑ | baˁşka ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | baˁşka ↑ | baˁşka ↑ | baˁşka ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | *paska* (başka) | pasxa | *pasxa* (başka) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | *pasxa* (başka) | pasxa | *pasxa* (başka) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | pasxa | pasxa | pasxa | pasxa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | pasxa | pasxa | pasxa | pasxa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | paşka | paşka | paşka | paşka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | paşka | paşka | paşka | paşka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | paska | paska | paska | paska |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | paska | paska | paska | paska |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | paska ↑ | pasxa ↑ | pasxa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | pasxa ↑ | pasxa ↑ | pasxa ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | *artan* (art) | *artan* (art) | *artan* (art) | artan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | artan | artan | artan | artan |
 

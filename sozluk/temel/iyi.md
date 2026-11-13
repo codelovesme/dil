@@ -5,7 +5,7 @@
 - **Anlam:** İyi.
 - **İngilizce:** good
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yakşı](../kok/yakşı.md) | türkçe | 0.72 (*yakşı*) | Gagavuzca %0 | Ortak Türkçe (4 hat) | ~155 milyon (%80, *yaxşı*) | *yakšï |
-| [edgü](../kok/edgü.md) | türkçe | -0.15 (*eyi*) | Türkmence %0 | Ortak Türkçe (3 hat) | ~112 milyon (%58, *iyi*) | *edgü |
-| [üçügey](../kok/üçügey.md) | türkçe | -0.40 (*üçügey*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *üçügey*) |  |
+| [yakşı](../kok/yakşı.md) | türkçe | 0.70 (*yakşı*) | Gagavuzca %0 | Ortak Türkçe (4 hat) | ~155 milyon (%80, *yaxşı*) | *yakšï |
+| [edgü](../kok/edgü.md) | türkçe | -0.14 (*eyi*) | Türkmence %0 | Ortak Türkçe (3 hat) | ~139 milyon (%72, *iyi*) | *edgü |
+| [üçügey](../kok/üçügey.md) | türkçe | -0.39 (*üçügey*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *üçügey*) |  |
 
 **Büyük topluluklarda *yakşı* biçiminin anlaşılırlığı:** Gagavuzca %0, Sahaca %0, Tuvaca %0, Türkiye Türkçesi %22, Karaçay-Malkarca %70, Özbekçe %90, Uygurca %90, Kırım Tatarcası %95, Kumukça %95, Kazakça %95, Azerbaycan Türkçesi %95, Türkmence %95, Tatarca %95, Karakalpakça %95, Kırgızca %95, Başkurtça %100, Sibirya Tatarcası %100.
 

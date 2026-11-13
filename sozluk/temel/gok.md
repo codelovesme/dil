@@ -5,7 +5,7 @@
 - **Anlam:** Gök, gökyüzü.
 - **İngilizce:** sky
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %59 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %58 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kök](../kok/kök.md) | türkçe | 0.59 (*kök*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~148 milyon (%77, *kök*) | *kȫk |
-| [teñri](../kok/teñri.md) | türkçe | -0.24 (*teñeri*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *teñeri*) | *teŋri |
-| [xallaan](../kok/xallaan.md) | türkçe | -0.37 (*xallaan*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xallaan*) |  |
-| [tüpe](../kok/tüpe.md) | türkçe | -0.35 (*tüpe*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tüpe*) |  |
+| [kök](../kok/kök.md) | türkçe | 0.52 (*kök*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~151 milyon (%78, *kök*) | *kȫk |
+| [teñri](../kok/teñri.md) | türkçe | -0.21 (*teñeri*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~72 milyon (%37, *teñir*) | *teŋri |
+| [xallaan](../kok/xallaan.md) | türkçe | -0.36 (*xallaan*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xallaan*) |  |
+| [tüpe](../kok/tüpe.md) | türkçe | -0.33 (*tüpe*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tüpe*) |  |
 
 **Büyük topluluklarda *kök* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Azerbaycan Türkçesi %75, Başkurtça %92, Türkiye Türkçesi %92, Gagavuzca %92, Tatarca %92, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Sibirya Tatarcası %100, Kırgızca %100.
 

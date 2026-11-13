@@ -5,7 +5,7 @@
 - **Anlam:** Yukarıdan aşağıya inmek, düşmek.
 - **İngilizce:** fall
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tüş](../kok/tüş.md) | türkçe | 0.23 (*tüş*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~140 milyon (%72, *düş*) | *tüš- |
-| [yıkıl](../kok/yıkıl.md) | türkçe | 0.35 (*yığıl*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~127 milyon (%65, *yıkıl*) | *yïkïl- |
-| [ük](../kok/ük.md) | türkçe | -0.39 (*ük*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ük*) |  |
-| [añnal](../kok/añnal.md) | türkçe | -0.48 (*añnal*) | Çuvaşça %0 | Çulımca (1 hat) | ~0 milyon (%0, *añnal*) |  |
+| [tüş](../kok/tüş.md) | türkçe | 0.26 (*tüş*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~148 milyon (%76, *düş*) | *tüš- |
+| [yıkıl](../kok/yıkıl.md) | türkçe | 0.31 (*yığıl*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~133 milyon (%68, *yıkıl*) | *yïkïl- |
+| [ük](../kok/ük.md) | türkçe | -0.38 (*ük*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ük*) |  |
+| [añnal](../kok/añnal.md) | türkçe | -0.49 (*añnal*) | Çuvaşça %0 | Çulımca (1 hat) | ~55 milyon (%28, *añnal*) |  |
 
 **Büyük topluluklarda *yığıl* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Sahaca %0, Tuvaca %0, Uygurca %80, Özbekçe %85, Kırım Tatarcası %95, Kazakça %95, Türkmence %95, Karaçay-Malkarca %95, Karakalpakça %95, Kırgızca %95, Tatarca %100, Başkurtça %100, Kumukça %100, Sibirya Tatarcası %100.
 
@@ -80,7 +80,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yığıl | yığıl | yığıl | yığıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | cığıl | cığıl | cığıl | cığıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | cığıl | cığıl | cığıl | cığıl |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | jığıl | *jığıl* (yıkıl) | jığıl |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | yığıl | *jığıl* (yıkıl) | jığıl |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | jığıl | jığıl | jığıl | jığıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jığıl | jığıl | jığıl | jığıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | jığıl | jığıl | jığıl | jığıl |

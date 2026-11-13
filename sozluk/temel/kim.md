@@ -5,7 +5,7 @@
 - **Anlam:** Kişiyi soran soru zamiri.
 - **İngilizce:** who
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 

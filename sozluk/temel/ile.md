@@ -5,7 +5,7 @@
 - **Anlam:** Birlikte olma, araç (ile, -la).
 - **İngilizce:** with
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [birle](../kok/birle.md) | türkçe | 0.81 (*bile*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~160 milyon (%82, *bile*) | *birle |
-| [nan](../kok/nan.md) | türkçe | -0.32 (*-nan*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~61 milyon (%31, *-nan*) |  |
+| [birle](../kok/birle.md) | türkçe | 0.80 (*bile*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~160 milyon (%82, *bile*) | *birle |
+| [nan](../kok/nan.md) | türkçe | -0.31 (*-nan*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~107 milyon (%55, *-nan*) |  |
 
 **Büyük topluluklarda *bile* biçiminin anlaşılırlığı:** Gagavuzca %0, Sahaca %0, Kazakça %53, Başkurtça %57, Karakalpakça %62, Kırgızca %62, Çuvaşça %72, Tatarca %78, Kumukça %78, Azerbaycan Türkçesi %81, Karaçay-Malkarca %81, Sibirya Tatarcası %85, Özbekçe %85, Uygurca %85, Türkiye Türkçesi %88, Kırım Tatarcası %88, Türkmence %90, Tuvaca %100.
 
@@ -115,14 +115,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | bile | bile | bile | bile |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | bile ↑ | bile ↑ | bile ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | bile ↑ | bile ↑ | bile ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | bla | pıla | *-nañ* (nan) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | pıla | pıla | *-nañ* (nan) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | *-nañ* (nan) | *-nañ* (nan) | -nañ | -nañ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | -nañ | -nañ | -nañ | -nañ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | pıla | pıla | *pıla* (birle) | pıla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | pıla | pıla | pıla | pıla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | *-nañ* (nan) | *-nañ* (nan) | -nañ | -nañ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | -nañ | -nañ | -nañ | -nañ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | bla ↑ | pıla ↑ | -nañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | pıla ↑ | pıla ↑ | -nañ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | bla | bla | *bla* (birle) | bla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bla | bla | bla | bla |
 

@@ -5,7 +5,7 @@
 - **Anlam:** Katı, sert.
 - **İngilizce:** hard
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -23,8 +23,8 @@
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
 | [katığ](../kok/katığ.md) | türkçe | 0.94 (*katığ*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~176 milyon (%91, *katı*) | *katïg |
-| [berk](../kok/berk.md) | türkçe | -0.44 (*bärk*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *bärk*) |  |
-| [çetin](../kok/çetin.md) | türkçe | -0.45 (*çetin*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *çetin*) |  |
+| [berk](../kok/berk.md) | türkçe | -0.44 (*bärk*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *bärk*) |  |
+| [çetin](../kok/çetin.md) | türkçe | -0.46 (*çetin*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *çetin*) |  |
 
 **Büyük topluluklarda *katığ* biçiminin anlaşılırlığı:** Gagavuzca %0, Azerbaycan Türkçesi %0, Sahaca %69, Çuvaşça %70, Karakalpakça %80, Sibirya Tatarcası %80, Kırım Tatarcası %80, Kumukça %80, Kazakça %80, Kırgızca %82, Özbekçe %83, Uygurca %83, Türkmence %85, Türkiye Türkçesi %90, Tatarca %90, Başkurtça %90, Karaçay-Malkarca %90, Tuvaca %95.
 

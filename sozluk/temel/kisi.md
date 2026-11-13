@@ -5,7 +5,7 @@
 - **Anlam:** İnsan, kişi.
 - **İngilizce:** person
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %64 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %65 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kişi](../kok/kişi.md) | türkçe | 0.96 (*kişi*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~180 milyon (%93, *kişi*) | *kiĺi |
-| [şın](../kok/şın.md) | türkçe | -0.35 (*şın*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şın*) |  |
+| [kişi](../kok/kişi.md) | türkçe | 0.95 (*kişi*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~180 milyon (%93, *kişi*) | *kiĺi |
+| [şın](../kok/şın.md) | türkçe | -0.34 (*şın*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şın*) |  |
 
 **Büyük topluluklarda *kişi* biçiminin anlaşılırlığı:** Çuvaşça %0, Kazakça %69, Tatarca %81, Başkurtça %81, Sahaca %88, Tuvaca %88, Kumukça %94, Türkiye Türkçesi %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

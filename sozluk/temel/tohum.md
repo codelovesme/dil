@@ -5,13 +5,13 @@
 - **Anlam:** Tohum.
 - **İngilizce:** seed
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %43 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %41 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
 | Hedef | Soru | Seçim | Kök |
 |---|---|---|---|
-| 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **uruk** | [uruğ-tohum](../kok/uruğ-tohum.md) |
+| 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **uruğ** | [uruğ-tohum](../kok/uruğ-tohum.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **uruğ** | [uruğ-tohum](../kok/uruğ-tohum.md) |
 | 3. En çok kişinin anladığı | En fazla insan anlasın. | **uruğ** | [uruğ-tohum](../kok/uruğ-tohum.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [uruğ-tohum](../kok/uruğ-tohum.md) (seviye 0) |
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [uruğ-tohum](../kok/uruğ-tohum.md) | türkçe | 0.97 (*uruk*) | Türkiye Türkçesi %22 | Ana Türkçe (2 hat) | ~110 milyon (%57, *uruğ*) | *urug |
+| [uruğ-tohum](../kok/uruğ-tohum.md) | türkçe | 0.92 (*uruğ*) | Türkiye Türkçesi %21 | Ana Türkçe (2 hat) | ~123 milyon (%63, *uruğ*) | *urug |
 | tohum | alıntı:fa | seçilemez | | | |  |
 
-**Büyük topluluklarda *uruk* biçiminin anlaşılırlığı:** Türkiye Türkçesi %22, Çuvaşça %56, Tatarca %78, Başkurtça %80, Kırım Tatarcası %90, Kumukça %90, Karaçay-Malkarca %90, Kazakça %91, Özbekçe %94, Kırgızca %100, Uygurca %100.
+**Büyük topluluklarda *uruğ* biçiminin anlaşılırlığı:** Türkiye Türkçesi %21, Çuvaşça %56, Tatarca %72, Başkurtça %75, Kazakça %84, Kırım Tatarcası %85, Kumukça %85, Karaçay-Malkarca %85, Kırgızca %94, Uygurca %94, Özbekçe %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -33,7 +33,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | uruk | uruğ | uruğ |  |
+| **Türk dilleri** | uruğ | uruğ | uruğ |  |
 | &nbsp;&nbsp;**Oğur kolu** | văra | văra | văra |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | văra | văra | văra | văra |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | văra | văra | văra | văra |

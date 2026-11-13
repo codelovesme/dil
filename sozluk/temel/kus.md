@@ -5,7 +5,7 @@
 - **Anlam:** Kuş.
 - **İngilizce:** bird
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -23,9 +23,9 @@
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
 | [kuş](../kok/kuş.md) | türkçe | 0.85 (*kuş*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~189 milyon (%97, *kuş*) | *kuĺ |
-| [kanat](../kok/kanat.md) | türkçe | -0.38 (*kanatlı*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~41 milyon (%21, *kanattuu*) | *kanat |
-| [kötör](../kok/kötör.md) | türkçe | -0.41 (*kötör*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kötör*) |  |
-| [kayăk](../kok/kayăk.md) | türkçe | -0.39 (*kayăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kayăk*) |  |
+| [kanat](../kok/kanat.md) | türkçe | -0.41 (*kanatlı*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~90 milyon (%46, *kanatlı*) | *kanat |
+| [kötör](../kok/kötör.md) | türkçe | -0.40 (*kötör*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kötör*) |  |
+| [kayăk](../kok/kayăk.md) | türkçe | -0.38 (*kayăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kayăk*) |  |
 
 **Büyük topluluklarda *kuş* biçiminin anlaşılırlığı:** Çuvaşça %0, Karaçay-Malkarca %0, Kırgızca %0, Sahaca %0, Başkurtça %92, Kazakça %92, Türkmence %92, Tatarca %92, Karakalpakça %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 

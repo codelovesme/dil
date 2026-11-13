@@ -5,7 +5,7 @@
 - **Anlam:** Büyük.
 - **İngilizce:** big
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **uluğ** | [uluğ](../kok/uluğ.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **büyük** | [bedük](../kok/bedük.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **uluğ** | [uluğ](../kok/uluğ.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **büyük** | [bedük](../kok/bedük.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [uluğ](../kok/uluğ.md) (seviye 0), [bedük](../kok/bedük.md) (seviye 0) |
 
 İlk üç hedef **ayrişiyor**.
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [uluğ](../kok/uluğ.md) | türkçe | 0.41 (*uluğ*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~79 milyon (%41, *uluğ*) | *uluɣ |
-| [bedük](../kok/bedük.md) | türkçe | -0.12 (*büyük*) | Türkmence %0 | Ana Türkçe (2 hat) | ~117 milyon (%60, *büyük*) | *bedük |
+| [uluğ](../kok/uluğ.md) | türkçe | 0.40 (*uluğ*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~85 milyon (%44, *uluğ*) | *uluɣ |
+| [bedük](../kok/bedük.md) | türkçe | -0.11 (*büyük*) | Türkmence %0 | Ana Türkçe (2 hat) | ~153 milyon (%79, *büyük*) | *bedük |
 | ülken | belirsiz | seçilemez | | | |  |
 | çoñ | belirsiz | seçilemez | | | |  |
 | zur | belirsiz | seçilemez | | | |  |
@@ -37,14 +37,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | uluğ | büyük | uluğ |  |
-| &nbsp;&nbsp;**Oğur kolu** | *pısăk* (bedük) | pısăk | *pısăk* (bedük) |  |
+| **Türk dilleri** | uluğ | büyük | büyük |  |
+| &nbsp;&nbsp;**Oğur kolu** | *pısăk* (bedük) | pısăk | pısăk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | pısăk | pısăk | pısăk | pısăk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | pısăk | pısăk | pısăk | pısăk |
-| &nbsp;&nbsp;**Ortak Türkçe** | uluğ | *uluğ* (uluğ) | uluğ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | *büdük* (bedük) | *büdük* (bedük) | *büdük* (bedük) |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | uluğ | *uluğ* (uluğ) | büyük |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | *büdük* (bedük) | *büdük* (bedük) | büdük |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | büdük | büdük | büdük | büdük |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ulı | ulı | *büyük* (bedük) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ulı | ulı | büyük |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *büyük* (bedük) | *büyük* (bedük) | büyük |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | büyük | büyük | büyük |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | büyük | büyük | büyük | büyük |
@@ -63,7 +63,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ulı | ulı | ulı | ulı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | ulı ↑ | ulı ↑ | ulı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | ullı | ullı | *ullı* (uluğ) | ullı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | uluu | ulu | ulu |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | uluu | ulu | *ulu* (uluğ) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | olo | olo | olı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | olı | olı | olı | zur |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | olı | olı | olı | zur |
@@ -97,14 +97,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | uluu | uluu | uluu | çoñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | ulu | ulu | ulu | ulu |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ulu | ulu | ulu | ulu |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | uluğ | uluğ | uluğ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | uluğ | uluğ | *uluğ* (uluğ) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | uluğ | uluğ | uluğ | katta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | uluğ | uluğ | uluğ | katta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | uluğ | uluğ | uluğ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | uluğ | uluğ | uluğ | çoñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | uluğ | uluğ | uluğ | çoñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | uluğ ↑ | uluğ ↑ | uluğ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | uluğ | uluğ | uluğ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | uluğ | uluğ | *uluğ* (uluğ) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | ulaxan | ulaxan | ulaxan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ulaxan | ulaxan | ulaxan | ulaxan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ulaxan | ulaxan | ulaxan | ulaxan |

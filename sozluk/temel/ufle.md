@@ -5,7 +5,7 @@
 - **Anlam:** Üflemek, esmek.
 - **İngilizce:** blow
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [es](../kok/es.md) | türkçe | 0.38 (*es*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *es*) | *ēs- |
-| [ür](../kok/ür.md) | türkçe | 0.12 (*ür*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~35 milyon (%18, *ür*) | *ür- |
-| [sok](../kok/sok.md) | türkçe | -0.43 (*sok*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~41 milyon (%21, *sok*) | *sok- |
-| [für](../kok/für.md) | türkçe | -0.45 (*für*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *für*) |  |
-| [übür](../kok/übür.md) | türkçe | -0.47 (*übür*) | Çuvaşça %0 | Şorca (1 hat) | ~0 milyon (%0, *übür*) |  |
-| [kir-üfle](../kok/kir-üfle.md) | türkçe | -0.47 (*kir*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~0 milyon (%0, *kir*) |  |
+| [es](../kok/es.md) | türkçe | 0.37 (*es*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *es*) | *ēs- |
+| [ür](../kok/ür.md) | türkçe | 0.13 (*ür*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~103 milyon (%53, *ür*) | *ür- |
+| [sok](../kok/sok.md) | türkçe | -0.43 (*sok*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~88 milyon (%45, *sok*) | *sok- |
+| [für](../kok/für.md) | türkçe | -0.44 (*für*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *für*) |  |
+| [übür](../kok/übür.md) | türkçe | -0.47 (*übür*) | Çuvaşça %0 | Şorca (1 hat) | ~60 milyon (%31, *übür*) |  |
+| [kir-üfle](../kok/kir-üfle.md) | türkçe | -0.47 (*kir*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *kir*) |  |
 
 **Büyük topluluklarda *es* biçiminin anlaşılırlığı:** Çuvaşça %0, Karaçay-Malkarca %0, Kazakça %0, Kırgızca %0, Sahaca %0, Tuvaca %0, Başkurtça %69, Türkmence %81, Tatarca %81, Azerbaycan Türkçesi %88, Kumukça %88, Sibirya Tatarcası %88, Uygurca %88, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karakalpakça %100, Özbekçe %100.
 

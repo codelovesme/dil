@@ -5,7 +5,7 @@
 - **Anlam:** Kesmek.
 - **İngilizce:** cut
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kes](../kok/kes.md) | türkçe | 1.08 (*kes*) | Sahaca %0 | Ana Türkçe (2 hat) | ~189 milyon (%97, *kes*) | *kẹs- |
-| [bıs](../kok/bıs.md) | türkçe | -0.41 (*bıs*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *bıs*) | *bïč- |
+| [kes](../kok/kes.md) | türkçe | 1.07 (*kes*) | Sahaca %0 | Ana Türkçe (2 hat) | ~189 milyon (%97, *kes*) | *kẹs- |
+| [bıs](../kok/bıs.md) | türkçe | -0.40 (*bıs*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *bıs*) | *bïč- |
 
 **Büyük topluluklarda *kes* biçiminin anlaşılırlığı:** Sahaca %0, Tatarca %88, Başkurtça %88, Kumukça %92, Uygurca %92, Çuvaşça %92, Azerbaycan Türkçesi %92, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Tuvaca %100.
 

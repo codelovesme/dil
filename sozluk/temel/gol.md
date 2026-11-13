@@ -5,7 +5,7 @@
 - **Anlam:** Göl.
 - **İngilizce:** lake
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [köl](../kok/köl.md) | türkçe | 1.16 (*köl*) | Çuvaşça %81 | Ana Türkçe (2 hat) | ~183 milyon (%94, *köl*) | *kȫl |
+| [köl](../kok/köl.md) | türkçe | 1.15 (*köl*) | Çuvaşça %81 | Ana Türkçe (2 hat) | ~183 milyon (%94, *köl*) | *kȫl |
 
 **Büyük topluluklarda *köl* biçiminin anlaşılırlığı:** Çuvaşça %81, Sahaca %88, Başkurtça %92, Kırım Tatarcası %92, Tuvaca %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Tatarca %92, Türkmence %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

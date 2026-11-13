@@ -5,7 +5,7 @@
 - **Anlam:** Kemik.
 - **İngilizce:** bone
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [süñük](../kok/süñük.md) | türkçe | 0.85 (*sümük*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~145 milyon (%75, *sümük*) | *süŋük |
-| [kemik](../kok/kemik.md) | türkçe | -0.34 (*kemik*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *kemik*) |  |
+| [süñük](../kok/süñük.md) | türkçe | 0.86 (*sümük*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~145 milyon (%75, *sümük*) | *süŋük |
+| [kemik](../kok/kemik.md) | türkçe | -0.35 (*kemik*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~149 milyon (%77, *kemik*) |  |
 
 **Büyük topluluklarda *sümük* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Kırım Tatarcası %0, Sahaca %60, Çuvaşça %70, Başkurtça %72, Tatarca %78, Özbekçe %78, Sibirya Tatarcası %80, Kırgızca %80, Tuvaca %80, Kumukça %82, Kazakça %82, Uygurca %82, Karaçay-Malkarca %82, Karakalpakça %82, Türkmence %85, Azerbaycan Türkçesi %100.
 

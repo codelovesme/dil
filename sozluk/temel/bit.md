@@ -5,7 +5,7 @@
 - **Anlam:** Bit.
 - **İngilizce:** louse
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 

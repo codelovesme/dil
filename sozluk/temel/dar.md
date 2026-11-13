@@ -5,7 +5,7 @@
 - **Anlam:** Dar.
 - **İngilizce:** narrow
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tar](../kok/tar.md) | türkçe | 0.93 (*tar*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~178 milyon (%92, *tar*) | *tar |
-| [ıkçam](../kok/ıkçam.md) | türkçe | -0.47 (*ıkçam*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~0 milyon (%0, *ıkçam*) |  |
-| [kıarağas](../kok/kıarağas.md) | türkçe | -0.40 (*kıarağas*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kıarağas*) |  |
-| [anzĕr](../kok/anzĕr.md) | türkçe | -0.38 (*anzĕr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *anzĕr*) |  |
+| [tar](../kok/tar.md) | türkçe | 0.90 (*tar*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~178 milyon (%92, *tar*) | *tar |
+| [ıkçam](../kok/ıkçam.md) | türkçe | -0.47 (*ıkçam*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *ıkçam*) |  |
+| [kıarağas](../kok/kıarağas.md) | türkçe | -0.39 (*kıarağas*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kıarağas*) |  |
+| [anzĕr](../kok/anzĕr.md) | türkçe | -0.37 (*anzĕr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *anzĕr*) |  |
 
 **Büyük topluluklarda *tar* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Özbekçe %88, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %92, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
 

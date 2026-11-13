@@ -5,7 +5,7 @@
 - **Anlam:** Yer, toprak; yer, mekân.
 - **İngilizce:** earth, ground, place
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yer](../kok/yer.md) | türkçe | 1.05 (*yer*) | Tuvaca %42 | Ana Türkçe (2 hat) | ~190 milyon (%98, *yer*) | *yẹr |
-| [dovurak](../kok/dovurak.md) | türkçe | -0.43 (*dovurak*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *dovurak*) |  |
+| [yer](../kok/yer.md) | türkçe | 1.04 (*yer*) | Tuvaca %42 | Ana Türkçe (2 hat) | ~190 milyon (%98, *yer*) | *yẹr |
+| [dovurak](../kok/dovurak.md) | türkçe | -0.42 (*dovurak*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *dovurak*) |  |
 
 **Büyük topluluklarda *yer* biçiminin anlaşılırlığı:** Tuvaca %42, Sahaca %71, Çuvaşça %75, Tatarca %79, Kazakça %92, Uygurca %92, Karaçay-Malkarca %92, Karakalpakça %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100, Özbekçe %100.
 

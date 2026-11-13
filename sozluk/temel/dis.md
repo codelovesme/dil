@@ -5,7 +5,7 @@
 - **Anlam:** Diş.
 - **İngilizce:** tooth
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tiş](../kok/tiş.md) | türkçe | 1.09 (*tiş*) | Çuvaşça %54 | Ana Türkçe (2 hat) | ~178 milyon (%92, *tiş*) | *tiĺ |
+| [tiş](../kok/tiş.md) | türkçe | 1.08 (*tiş*) | Çuvaşça %54 | Ana Türkçe (2 hat) | ~178 milyon (%92, *tiş*) | *tiĺ |
 
 **Büyük topluluklarda *tiş* biçiminin anlaşılırlığı:** Çuvaşça %54, Kazakça %75, Sahaca %81, Uygurca %83, Tatarca %88, Başkurtça %88, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %92, Karakalpakça %92, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100.
 
@@ -98,7 +98,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | çiş | çiş | çiş | çiş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çiş | çiş | çiş | çiş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | çiş ↑ | çiş ↑ | çiş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | tiş | tiş | tiş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | tis | tiş | tiş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | tiis | tiis | tiis |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | tiis | tiis | tiis | tiis |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tiis | tiis | tiis | tiis |

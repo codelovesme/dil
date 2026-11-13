@@ -5,7 +5,7 @@
 - **Anlam:** Uzak.
 - **İngilizce:** far
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [uzak](../kok/uzak.md) | türkçe | 0.20 (*uzak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~178 milyon (%92, *uzak*) |  |
-| [ırak](../kok/ırak.md) | türkçe | 0.30 (*ırak*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~48 milyon (%25, *ırak*) | *ïrak |
-| [kaşık-uzak](../kok/kaşık-uzak.md) | türkçe | -0.45 (*kaşık*) | Çuvaşça %0 | Kazakça (1 hat) | ~43 milyon (%22, *kaşık*) |  |
-| [inşe](../kok/inşe.md) | türkçe | -0.39 (*inşe*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *inşe*) |  |
+| [uzak](../kok/uzak.md) | türkçe | 0.17 (*uzak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~181 milyon (%93, *uzak*) |  |
+| [ırak](../kok/ırak.md) | türkçe | 0.31 (*ırak*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~106 milyon (%55, *ırak*) | *ïrak |
+| [kaşık-uzak](../kok/kaşık-uzak.md) | türkçe | -0.45 (*kaşık*) | Çuvaşça %0 | Kazakça (1 hat) | ~84 milyon (%44, *kaşık*) |  |
+| [inşe](../kok/inşe.md) | türkçe | -0.38 (*inşe*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *inşe*) |  |
 
 - ⚠ **Canlandırma:** *ırak* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 

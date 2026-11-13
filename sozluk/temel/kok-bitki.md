@@ -5,7 +5,7 @@
 - **Anlam:** Bitkinin kökü.
 - **İngilizce:** root
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %71 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kök-bitki](../kok/kök-bitki.md) | türkçe | -0.22 (*kök*) | Çuvaşça %0 | Oğuz kolu (2 hat) | ~135 milyon (%69, *kök*) | *kȫk |
-| [tamır](../kok/tamır.md) | türkçe | 0.27 (*tamır*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~99 milyon (%51, *tamır*) | *tamïr |
-| [yıltız](../kok/yıltız.md) | türkçe | -0.05 (*yıltıs*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~57 milyon (%29, *ildiz*) | *yïltïz |
-| [tazıl](../kok/tazıl.md) | türkçe | -0.36 (*tazıl*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *tazıl*) |  |
+| [kök-bitki](../kok/kök-bitki.md) | türkçe | -0.23 (*kök*) | Çuvaşça %0 | Oğuz kolu (2 hat) | ~152 milyon (%78, *kök*) | *kȫk |
+| [tamır](../kok/tamır.md) | türkçe | 0.23 (*tamır*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~121 milyon (%62, *tamır*) | *tamïr |
+| [yıltız](../kok/yıltız.md) | türkçe | -0.02 (*yıltıs*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~99 milyon (%51, *ildiz*) | *yïltïz |
+| [tazıl](../kok/tazıl.md) | türkçe | -0.35 (*tazıl*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~72 milyon (%37, *tazıl*) |  |
 
 - ⚠ **Canlandırma:** *tamır* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 

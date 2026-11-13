@@ -5,7 +5,7 @@
 - **Anlam:** Yumurta.
 - **İngilizce:** egg
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %70 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %69 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yumurtga](../kok/yumurtga.md) | türkçe | 1.05 (*yumurtğa*) | Sahaca %66 | Ana Türkçe (2 hat) | ~164 milyon (%85, *yumurta*) | *yumurtga |
+| [yumurtga](../kok/yumurtga.md) | türkçe | 1.05 (*yumurtğa*) | Sahaca %66 | Ana Türkçe (2 hat) | ~166 milyon (%86, *yumurta*) | *yumurtga |
 
 **Büyük topluluklarda *yumurtğa* biçiminin anlaşılırlığı:** Sahaca %66, Çuvaşça %78, Tuvaca %81, Tatarca %83, Gagavuzca %84, Kırım Tatarcası %84, Kumukça %88, Kazakça %89, Sibirya Tatarcası %89, Başkurtça %91, Türkiye Türkçesi %94, Azerbaycan Türkçesi %94, Kırgızca %94, Türkmence %100.
 

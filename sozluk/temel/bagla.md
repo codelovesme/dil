@@ -5,7 +5,7 @@
 - **Anlam:** Bağlamak.
 - **İngilizce:** tie
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bağla](../kok/bağla.md) | türkçe | 1.00 (*bağla*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~187 milyon (%96, *bağla*) | *bā- |
-| [şıx](../kok/şıx.md) | türkçe | -0.39 (*şıx*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şıx*) |  |
+| [bağla](../kok/bağla.md) | türkçe | 0.98 (*bağla*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~187 milyon (%96, *bağla*) | *bā- |
+| [şıx](../kok/şıx.md) | türkçe | -0.38 (*şıx*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şıx*) |  |
 
 **Büyük topluluklarda *bağla* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %70, Tatarca %80, Başkurtça %80, Gagavuzca %90, Kumukça %90, Karaçay-Malkarca %90, Kazakça %90, Karakalpakça %90, Sibirya Tatarcası %90, Kırgızca %90, Özbekçe %93, Türkiye Türkçesi %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Uygurca %100, Tuvaca %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Uyumak.
 - **İngilizce:** sleep
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [udı](../kok/udı.md) | türkçe | 0.81 (*udu*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~160 milyon (%83, *uyu*) | *udï- |
-| [şıvăr](../kok/şıvăr.md) | türkçe | -0.39 (*şıvăr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şıvăr*) |  |
+| [udı](../kok/udı.md) | türkçe | 0.80 (*udu*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~160 milyon (%83, *uyu*) | *udï- |
+| [şıvăr](../kok/şıvăr.md) | türkçe | -0.38 (*şıvăr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şıvăr*) |  |
 
 **Büyük topluluklarda *udu* biçiminin anlaşılırlığı:** Çuvaşça %0, Azerbaycan Türkçesi %50, Tatarca %57, Başkurtça %57, Sibirya Tatarcası %57, Karakalpakça %60, Kırım Tatarcası %62, Kumukça %62, Karaçay-Malkarca %62, Kazakça %65, Türkmence %66, Özbekçe %66, Uygurca %66, Kırgızca %72, Sahaca %81, Türkiye Türkçesi %83, Gagavuzca %83, Tuvaca %100.
 
@@ -37,10 +37,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Oğur kolu** | *şıvăr* (şıvăr) | *şıvăr* (şıvăr) | *şıvăr* (şıvăr) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | şıvăr | şıvăr | şıvăr | şıvăr |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şıvăr | şıvăr | şıvăr | şıvăr |
-| &nbsp;&nbsp;**Ortak Türkçe** | ukla | udı | uyu |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | ukla ↑ | udı ↑ | uyu ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | ukla ↑ | udı ↑ | uyu ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ukla | uyu | uyu |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | udu | udı | uyu |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | udu ↑ | udı ↑ | uyu ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | udu ↑ | udı ↑ | uyu ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | uxla | uyu | uyu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | uyu | uyu | uyu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | uyu | uyu | uyu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | uyu | uyu | uyu | uyu |
@@ -52,8 +52,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | yat | yat | yat | yat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yat | yat | yat | yat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | yat ↑ | yat ↑ | yat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | ukla ↑ | uyu ↑ | uyu ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | ukla ↑ | uyu ↑ | uyu ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | uxla ↑ | uyu ↑ | uyu ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | uxla ↑ | uyu ↑ | uyu ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | ukla | ukla | ukla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ukla | ukla | ukla | ukla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ukla | ukla | ukla | ukla |
@@ -88,7 +88,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | yokla | yokla | yokla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yokla ↑ | yokla ↑ | yokla ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | yokla | yokla | yokla | yokla |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | ukta | ukta | ukta |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | uyuxta | ukta | ukta |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | ukta | ukta | ukta | ukta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ukta | ukta | ukta | ukta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | uyuxta | uyuxta | uyuxta | uyuxta |

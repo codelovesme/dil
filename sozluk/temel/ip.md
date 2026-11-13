@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yip](../kok/yip.md) | türkçe | -0.13 (*yip*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~153 milyon (%79, *ip*) | *yip |
-| [bağ](../kok/bağ.md) | türkçe | 0.15 (*bağ*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~48 milyon (%25, *baw*) | *bāg |
-| [arkan](../kok/arkan.md) | türkçe | -0.23 (*arkan*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~94 milyon (%49, *arkon*) |  |
+| [yip](../kok/yip.md) | türkçe | -0.15 (*yip*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~156 milyon (%80, *ip*) | *yip |
+| [bağ](../kok/bağ.md) | türkçe | 0.18 (*bağ*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~96 milyon (%50, *baw*) | *bāg |
+| [arkan](../kok/arkan.md) | türkçe | -0.25 (*arkan*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~119 milyon (%62, *arkan*) |  |
 | [uruk](../kok/uruk.md) | türkçe | seçilemez | | | |  |
 | [örken](../kok/örken.md) | türkçe | seçilemez | | | |  |
-| [xendir](../kok/xendir.md) | türkçe | -0.42 (*xendir*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *xendir*) |  |
+| [xendir](../kok/xendir.md) | türkçe | -0.41 (*xendir*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *xendir*) |  |
 
 **Büyük topluluklarda *bağ* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Kumukça %0, Sibirya Tatarcası %0, Kırgızca %0, Özbekçe %0, Tuvaca %0, Çuvaşça %70, Sahaca %71, Başkurtça %92, Kazakça %92, Tatarca %92, Karakalpakça %92.
 

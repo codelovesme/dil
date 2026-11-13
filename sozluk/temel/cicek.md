@@ -5,7 +5,7 @@
 - **Anlam:** Çiçek.
 - **İngilizce:** flower
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %51 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %50 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [çeçek](../kok/çeçek.md) | türkçe | 0.99 (*çeçek*) | Başkurtça %65 | Ortak Türkçe (5 hat) | ~162 milyon (%84, *çeçek*) | *čečäk |
-| [çakayak](../kok/çakayak.md) | türkçe | -0.40 (*çaxayax*) | Türkiye Türkçesi %0 | Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) (2 hat) | ~0 milyon (%0, *çaxayax*) |  |
-| [akkaş](../kok/akkaş.md) | türkçe | -0.49 (*akkaş*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~0 milyon (%0, *akkaş*) |  |
+| [çeçek](../kok/çeçek.md) | türkçe | 0.98 (*çeçek*) | Başkurtça %65 | Ortak Türkçe (5 hat) | ~160 milyon (%83, *çeçek*) | *čečäk |
+| [çakayak](../kok/çakayak.md) | türkçe | -0.40 (*çaxayax*) | Türkiye Türkçesi %0 | Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) (2 hat) | ~60 milyon (%31, *çakkiyek*) |  |
+| [akkaş](../kok/akkaş.md) | türkçe | -0.49 (*akkaş*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~43 milyon (%22, *akkaş*) |  |
 
 **Büyük topluluklarda *çeçek* biçiminin anlaşılırlığı:** Başkurtça %65, Azerbaycan Türkçesi %88, Sibirya Tatarcası %88, Tatarca %90, Türkiye Türkçesi %92, Gagavuzca %92, Kırım Tatarcası %93, Uygurca %95, Kumukça %100, Tuvaca %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Sıcak.
 - **İngilizce:** hot
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [isig](../kok/isig.md) | türkçe | 0.58 (*isig*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~134 milyon (%69, *issik*) | *isig |
-| [sıcak](../kok/sıcak.md) | türkçe | -0.34 (*sıcak*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *sıcak*) |  |
-| [kızgın](../kok/kızgın.md) | türkçe | -0.40 (*gızgın*) | Çuvaşça %0 | Türkmence (1 hat) | ~69 milyon (%35, *gızgın*) |  |
-| [itii](../kok/itii.md) | türkçe | -0.41 (*itii*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *itii*) |  |
-| [vĕri](../kok/vĕri.md) | türkçe | -0.39 (*vĕri*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *vĕri*) |  |
+| [isig](../kok/isig.md) | türkçe | 0.58 (*isig*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~135 milyon (%70, *issik*) | *isig |
+| [sıcak](../kok/sıcak.md) | türkçe | -0.35 (*sıcak*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~149 milyon (%77, *sıcak*) |  |
+| [kızgın](../kok/kızgın.md) | türkçe | -0.41 (*gızgın*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *gızgın*) |  |
+| [itii](../kok/itii.md) | türkçe | -0.40 (*itii*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *itii*) |  |
+| [vĕri](../kok/vĕri.md) | türkçe | -0.38 (*vĕri*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *vĕri*) |  |
 
 **Büyük topluluklarda *isig* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Türkmence %0, Kırım Tatarcası %0, Sahaca %0, Başkurtça %56, Tatarca %66, Karakalpakça %69, Azerbaycan Türkçesi %75, Kumukça %75, Karaçay-Malkarca %75, Kazakça %75, Sibirya Tatarcası %78, Kırgızca %81, Özbekçe %85, Uygurca %85, Tuvaca %94.
 
@@ -43,7 +43,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | isig | isig | issik |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | isig ↑ | isig ↑ | issik ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | isig ↑ | isig ↑ | issik ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | isti | ıssı | *sıcak* (sıcak) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ıssı | ıssı | *sıcak* (sıcak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *sıcak* (sıcak) | *sıcak* (sıcak) | sıcak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | sıcak | sıcak | sıcak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | sıcak | sıcak | sıcak | sıcak |
@@ -55,8 +55,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | isti | isti | isti | isti |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | isti | isti | isti | isti |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | isti ↑ | isti ↑ | isti ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | isti ↑ | ıssı ↑ | sıcak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | isti ↑ | ıssı ↑ | sıcak ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | ıssı ↑ | ıssı ↑ | sıcak ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | ıssı ↑ | ıssı ↑ | sıcak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | *gızgın* (kızgın) | *gızgın* (kızgın) | *gızgın* (kızgın) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | gızgın | gızgın | gızgın | gızgın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gızgın | gızgın | gızgın | gızgın |
@@ -91,7 +91,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | isü | isü | isü |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | isü ↑ | isü ↑ | isü ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | isü | isü | isü | isü |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | ısık | ısık | ısık |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | izü | ısık | ısık |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | ısık | ısık | ısık | ısık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ısık | ısık | ısık | ısık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | izü | izü | izü | izü |

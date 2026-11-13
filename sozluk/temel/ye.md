@@ -5,7 +5,7 @@
 - **Anlam:** Yiyecek yemek.
 - **İngilizce:** eat
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ye](../kok/ye.md) | türkçe | 0.32 (*ye*) | Tatarca %0 | Ana Türkçe (2 hat) | ~180 milyon (%93, *ye*) | *yē- |
-| [aşa](../kok/aşa.md) | türkçe | 0.20 (*aşa*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~62 milyon (%32, *aşa*) | *aša- |
+| [ye](../kok/ye.md) | türkçe | 0.35 (*ye*) | Tatarca %0 | Ana Türkçe (2 hat) | ~181 milyon (%93, *ye*) | *yē- |
+| [aşa](../kok/aşa.md) | türkçe | 0.17 (*aşa*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~112 milyon (%58, *aşa*) | *aša- |
 
 **Büyük topluluklarda *ye* biçiminin anlaşılırlığı:** Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kumukça %0, Karaçay-Malkarca %0, Sibirya Tatarcası %0, Sahaca %0, Türkmence %50, Çuvaşça %56, Gagavuzca %56, Tuvaca %56, Uygurca %81, Kazakça %88, Karakalpakça %88, Kırgızca %88, Türkiye Türkçesi %100, Azerbaycan Türkçesi %100, Özbekçe %100.
 

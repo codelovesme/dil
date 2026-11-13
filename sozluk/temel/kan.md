@@ -5,7 +5,7 @@
 - **Anlam:** Kan.
 - **İngilizce:** blood
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kan](../kok/kan.md) | türkçe | 1.05 (*kan*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~187 milyon (%96, *kan*) | *kān |
-| [yun](../kok/yun.md) | türkçe | -0.39 (*yun*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yun*) |  |
+| [kan](../kok/kan.md) | türkçe | 1.04 (*kan*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~187 milyon (%96, *kan*) | *kān |
+| [yun](../kok/yun.md) | türkçe | -0.38 (*yun*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yun*) |  |
 
 **Büyük topluluklarda *kan* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkmence %81, Sahaca %81, Özbekçe %88, Tuvaca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 

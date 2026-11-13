@@ -5,7 +5,7 @@
 - **Anlam:** Kalın.
 - **İngilizce:** thick
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kalın](../kok/kalın.md) | türkçe | 0.98 (*kalın*) | Sibirya Tatarcası %0 | Ana Türkçe (2 hat) | ~187 milyon (%97, *kalın*) | *kalïŋ |
-| [yoğun](../kok/yoğun.md) | türkçe | -0.34 (*yoğan*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~22 milyon (%11, *yoğan*) |  |
-| [dombay](../kok/dombay.md) | türkçe | -0.49 (*dombay*) | Çuvaşça %0 | Nogayca (1 hat) | ~16 milyon (%8, *dombay*) |  |
+| [kalın](../kok/kalın.md) | türkçe | 0.95 (*kalın*) | Sibirya Tatarcası %0 | Ana Türkçe (2 hat) | ~187 milyon (%97, *kalın*) | *kalïŋ |
+| [yoğun](../kok/yoğun.md) | türkçe | -0.32 (*yoğan*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~74 milyon (%38, *yoğun*) |  |
+| [dombay](../kok/dombay.md) | türkçe | -0.49 (*dombay*) | Çuvaşça %0 | Nogayca (1 hat) | ~90 milyon (%47, *dombay*) |  |
 
 **Büyük topluluklarda *kalın* biçiminin anlaşılırlığı:** Sibirya Tatarcası %0, Çuvaşça %80, Türkmence %90, Uygurca %90, Sahaca %90, Tuvaca %93, Kazakça %95, Özbekçe %95, Azerbaycan Türkçesi %95, Türkiye Türkçesi %100, Gagavuzca %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100.
 

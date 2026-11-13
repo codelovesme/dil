@@ -5,7 +5,7 @@
 - **Anlam:** Deniz.
 - **İngilizce:** sea
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %53 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %49 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [teñiz](../kok/teñiz.md) | türkçe | 1.12 (*teñiz*) | Tatarca %75 | Ortak Türkçe (4 hat) | ~183 milyon (%95, *deñiz*) | *teŋiŕ |
+| [teñiz](../kok/teñiz.md) | türkçe | 1.11 (*teñiz*) | Tatarca %75 | Ortak Türkçe (4 hat) | ~183 milyon (%95, *deñiz*) | *teŋiŕ |
 
 **Büyük topluluklarda *teñiz* biçiminin anlaşılırlığı:** Tatarca %75, Başkurtça %75, Sibirya Tatarcası %83, Azerbaycan Türkçesi %85, Türkiye Türkçesi %90, Gagavuzca %90, Kırım Tatarcası %95, Kumukça %95, Özbekçe %95, Uygurca %95, Türkmence %95, Kırgızca %95, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100.
 

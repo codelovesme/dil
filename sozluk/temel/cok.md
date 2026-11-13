@@ -5,7 +5,7 @@
 - **Anlam:** Çok.
 - **İngilizce:** many, much
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -13,19 +13,19 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **köp** | [köp](../kok/köp.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **köp** | [köp](../kok/köp.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **köp** | [köp](../kok/köp.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **çok** | [çok](../kok/çok.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [köp](../kok/köp.md) (seviye 0), [çok](../kok/çok.md) (seviye 0), [üküş](../kok/üküş.md) (seviye 0), [xöy](../kok/xöy.md) (seviye 0) |
 
-İlk üç hedef **uyuşuyor**.
+İlk üç hedef **ayrişiyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [köp](../kok/köp.md) | türkçe | 0.65 (*köp*) | Türkiye Türkçesi %0 | Ortak Türkçe (4 hat) | ~126 milyon (%65, *köp*) | *köp |
-| [çok](../kok/çok.md) | türkçe | -0.26 (*çok*) | Türkmence %0 | Ortak Türkçe (2 hat) | ~115 milyon (%59, *çok*) |  |
-| [üküş](../kok/üküş.md) | türkçe | -0.30 (*ügüs*) | Türkiye Türkçesi %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *ügüs*) | *üküš |
-| [xöy](../kok/xöy.md) | türkçe | -0.42 (*xöy*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~0 milyon (%0, *xöy*) |  |
+| [köp](../kok/köp.md) | türkçe | 0.63 (*köp*) | Türkiye Türkçesi %0 | Ortak Türkçe (4 hat) | ~135 milyon (%69, *köp*) | *köp |
+| [çok](../kok/çok.md) | türkçe | -0.27 (*çok*) | Türkmence %0 | Ortak Türkçe (2 hat) | ~151 milyon (%78, *çok*) |  |
+| [üküş](../kok/üküş.md) | türkçe | -0.29 (*ügüs*) | Türkiye Türkçesi %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *ügüs*) | *üküš |
+| [xöy](../kok/xöy.md) | türkçe | -0.41 (*xöy*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~42 milyon (%22, *xöy*) |  |
 
 **Büyük topluluklarda *köp* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Başkurtça %92, Tatarca %92, Karaçay-Malkarca %92, Türkmence %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 
@@ -35,14 +35,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | köp | köp | köp |  |
-| &nbsp;&nbsp;**Oğur kolu** | köp ↑ | köp ↑ | köp ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | köp ↑ | köp ↑ | köp ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köp ↑ | köp ↑ | köp ↑ |  |
-| &nbsp;&nbsp;**Ortak Türkçe** | köp | köp | köp |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | köp ↑ | köp ↑ | köp ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | köp ↑ | köp ↑ | köp ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *çok* (çok) | köp | *çok* (çok) |  |
+| **Türk dilleri** | köp | köp | çok |  |
+| &nbsp;&nbsp;**Oğur kolu** | köp ↑ | köp ↑ | çok ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | köp ↑ | köp ↑ | çok ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köp ↑ | köp ↑ | çok ↑ |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | köp | köp | çok |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | köp ↑ | köp ↑ | çok ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | köp ↑ | köp ↑ | çok ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *çok* (çok) | köp | çok |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | çok | *çok* (çok) | çok |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | çok | çok | çok |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | çok | çok | çok | çok |
@@ -61,7 +61,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köp | köp | köp | köp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | köp ↑ | köp ↑ | köp ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *kop* (köp) | kop | *kop* (köp) | kop |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | köp | köp | köp |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | köp | köp | *köp* (köp) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | küp | küp | küp |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | küp | küp | küp | küp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | küp | küp | küp | küp |
@@ -95,7 +95,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köp | köp | köp | köp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | köp | köp | köp | köp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köp | köp | köp | köp |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | köp | köp | köp |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | köp | köp | *köp* (köp) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | köp | köp | köp | köp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köp | köp | köp | köp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | köp | köp | köp |  |

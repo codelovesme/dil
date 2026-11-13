@@ -5,7 +5,7 @@
 - **Anlam:** Yakındakini gösteren işaret zamiri ve sıfatı.
 - **İngilizce:** this
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bu](../kok/bu.md) | türkçe | 1.03 (*bu*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~191 milyon (%98, *bu*) | *bu (eğik gövde *mun-) |
-| [ku](../kok/ku.md) | türkçe | -0.39 (*ku*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ku*) |  |
+| [bu](../kok/bu.md) | türkçe | 1.01 (*bu*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~191 milyon (%98, *bu*) | *bu (eğik gövde *mun-) |
+| [ku](../kok/ku.md) | türkçe | -0.38 (*ku*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ku*) |  |
 
 **Büyük topluluklarda *bu* biçiminin anlaşılırlığı:** Çuvaşça %0, Başkurtça %71, Kazakça %83, Karakalpakça %83, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100.
 

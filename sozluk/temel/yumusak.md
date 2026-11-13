@@ -5,7 +5,7 @@
 - **Anlam:** Yumuşak.
 - **İngilizce:** soft
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yımşak](../kok/yımşak.md) | türkçe | 0.95 (*yumşak*) | Sahaca %0 | Ana Türkçe (2 hat) | ~182 milyon (%94, *yumşak*) | *yïmšak |
-| [sımnağas](../kok/sımnağas.md) | türkçe | -0.42 (*sımnağas*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *sımnağas*) |  |
-| [imiges](../kok/imiges.md) | türkçe | -0.49 (*imiges*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *imiges*) |  |
-| [miçex](../kok/miçex.md) | türkçe | -0.44 (*miçex*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *miçex*) |  |
+| [yımşak](../kok/yımşak.md) | türkçe | 0.93 (*yumşak*) | Sahaca %0 | Ana Türkçe (2 hat) | ~182 milyon (%94, *yumşak*) | *yïmšak |
+| [sımnağas](../kok/sımnağas.md) | türkçe | -0.40 (*sımnağas*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *sımnağas*) |  |
+| [imiges](../kok/imiges.md) | türkçe | -0.48 (*imiges*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *imiges*) |  |
+| [miçex](../kok/miçex.md) | türkçe | -0.43 (*miçex*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *miçex*) |  |
 
 **Büyük topluluklarda *yumşak* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %73, Tuvaca %81, Gagavuzca %88, Kumukça %88, Karaçay-Malkarca %89, Kazakça %92, Karakalpakça %92, Türkiye Türkçesi %93, Kırım Tatarcası %94, Özbekçe %94, Azerbaycan Türkçesi %96, Tatarca %96, Kırgızca %96, Başkurtça %96, Türkmence %100, Uygurca %100.
 
@@ -106,7 +106,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | sımnağas | *sımnağas* (sımnağas) | sımnağas | sımnağas |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sımnağas | sımnağas | sımnağas | sımnağas |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | *imiges* (imiges) | imiges | *imiges* (imiges) | imiges |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | çımçak | çımçak | çımçak |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | yumsak | çımçak | çımçak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | yumsak | yumsak | yumsak | yumsak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | çımçak | çımçak | çımçak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | çımçak | çımçak | çımçak |  |

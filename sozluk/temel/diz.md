@@ -5,7 +5,7 @@
 - **Anlam:** Diz.
 - **İngilizce:** knee
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tiz](../kok/tiz.md) | türkçe | 0.79 (*tiz*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~178 milyon (%92, *tiz*) | *tiŕ |
-| [tobık](../kok/tobık.md) | türkçe | -0.21 (*tobuk*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~13 milyon (%7, *tubık*) | *tobïk |
+| [tiz](../kok/tiz.md) | türkçe | 0.81 (*tiz*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~178 milyon (%92, *tiz*) | *tiŕ |
+| [tobık](../kok/tobık.md) | türkçe | -0.24 (*tobuk*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~100 milyon (%52, *tobuk*) | *tobïk |
 
 **Büyük topluluklarda *tiz* biçiminin anlaşılırlığı:** Başkurtça %0, Kumukça %0, Karaçay-Malkarca %0, Sahaca %0, Çuvaşça %55, Tuvaca %67, Karakalpakça %81, Türkmence %83, Tatarca %88, Kazakça %88, Kırgızca %88, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Kırım Tatarcası %100, Sibirya Tatarcası %100, Özbekçe %100, Uygurca %100.
 
@@ -100,12 +100,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | tiz | tiz | tiz | tiz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tiz | tiz | tiz | tiz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | tiz ↑ | tiz ↑ | tiz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | tiz | tize | tiz |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *tobuk* (tobık) | *tobuk* (tobık) | *tobuk* (tobık) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | tiz | tize | *tobuk* (tobık) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *tobuk* (tobık) | *tobuk* (tobık) | tobuk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | tobuk | tobuk | tobuk | tobuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tobuk | tobuk | tobuk | tobuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | tobuk | tobuk | tobuk | tobuk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | tiz | tize | diskek |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | tiz | tize | *diskek* (tiz) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | tiz | tiz | tiz | tiz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | diskek | tiskek | diskek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | diskek | diskek | diskek |  |

@@ -5,7 +5,7 @@
 - **Anlam:** Kuyruk.
 - **İngilizce:** tail
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kudruk](../kok/kudruk.md) | türkçe | 1.11 (*kuyruk*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~183 milyon (%94, *kuyruk*) | *kudruk |
+| [kudruk](../kok/kudruk.md) | türkçe | 1.10 (*kuyruk*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~180 milyon (%93, *kuyruk*) | *kudruk |
 
 **Büyük topluluklarda *kuyruk* biçiminin anlaşılırlığı:** Çuvaşça %69, Kazakça %85, Sahaca %86, Tuvaca %86, Tatarca %90, Başkurtça %92, Karakalpakça %94, Sibirya Tatarcası %94, Türkmence %96, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
 
@@ -104,7 +104,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | kuturuk | kuturuk | kuturuk | kuturuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kuturuk | kuturuk | kuturuk | kuturuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | kuturuk | kuturuk | kuturuk | kuturuk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kuzuruk | kuzuruk | kuduruk |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kuduruk | kuzuruk | kuduruk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | kuzuruk | kuzuruk | kuzuruk | kuzuruk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | kuduruk | kuduruk | kuduruk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | kuduruk | kuduruk | kuduruk |  |

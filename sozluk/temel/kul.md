@@ -5,7 +5,7 @@
 - **Anlam:** Kül.
 - **İngilizce:** ash
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kül-ad](../kok/kül-ad.md) | türkçe | 1.17 (*kül*) | Çuvaşça %88 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kül*) | *kül |
+| [kül-ad](../kok/kül-ad.md) | türkçe | 1.16 (*kül*) | Çuvaşça %88 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kül*) | *kül |
 
 **Büyük topluluklarda *kül* biçiminin anlaşılırlığı:** Çuvaşça %88, Başkurtça %92, Özbekçe %92, Tuvaca %92, Tatarca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100, Sahaca %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Bugünden sonraki gün.
 - **İngilizce:** tomorrow
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yarın](../kok/yarın.md) | türkçe | -0.07 (*yarın*) | Türkmence %0 | Ana Türkçe (2 hat) | ~113 milyon (%58, *yarın*) | *yārïn |
-| [erte](../kok/erte.md) | türkçe | 0.15 (*erten*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~111 milyon (%57, *ertir*) | *ẹrte |
-| [tañ](../kok/tañ.md) | türkçe | -0.18 (*tañda*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~1 milyon (%1, *tañda*) | *tāŋ |
-| [sarsın](../kok/sarsın.md) | türkçe | -0.40 (*sarsın*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *sarsın*) |  |
-| [turay](../kok/turay.md) | türkçe | -0.49 (*turay*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *turay*) |  |
-| [daarta](../kok/daarta.md) | türkçe | -0.43 (*daarta*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *daarta*) |  |
+| [yarın](../kok/yarın.md) | türkçe | -0.07 (*yarın*) | Türkmence %0 | Ana Türkçe (2 hat) | ~149 milyon (%77, *yarın*) | *yārïn |
+| [erte](../kok/erte.md) | türkçe | 0.18 (*erten*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~117 milyon (%60, *ertir*) | *ẹrte |
+| [tañ](../kok/tañ.md) | türkçe | -0.23 (*tañda*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~99 milyon (%51, *tañda*) | *tāŋ |
+| [sarsın](../kok/sarsın.md) | türkçe | -0.39 (*sarsın*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *sarsın*) |  |
+| [turay](../kok/turay.md) | türkçe | -0.49 (*turay*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *turay*) |  |
+| [daarta](../kok/daarta.md) | türkçe | -0.42 (*daarta*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *daarta*) |  |
 
 - ⚠ **Canlandırma:** *erte* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -84,7 +84,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tañala | tañala | tañala | tañala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | tambla | tambla | tambla | tambla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tambla | tambla | tambla | tambla |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | erteñ | erteñ | erteñ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | erten | erteñ | erteñ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | erteñ | erteñ | erteñ | erteñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | erteñ | erteñ | erteñ | erteñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | erteñ | erteñ | erteñ | erteñ |

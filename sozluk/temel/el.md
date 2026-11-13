@@ -5,7 +5,7 @@
 - **Anlam:** El (ve kol); birçok dilde aynı kelime ikisini karşılar.
 - **İngilizce:** hand, arm
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kol-ad](../kok/kol-ad.md) | türkçe | 0.92 (*kol*) | Sahaca %0 | Ortak Türkçe (6 hat) | ~132 milyon (%68, *kol*) | *kol |
-| [elig](../kok/elig.md) | türkçe | -0.04 (*el*) | Tatarca %0 | Ana Türkçe (2 hat) | ~132 milyon (%68, *el*) | *ẹlig |
+| [kol-ad](../kok/kol-ad.md) | türkçe | 0.92 (*kol*) | Sahaca %0 | Ortak Türkçe (6 hat) | ~138 milyon (%71, *kol*) | *kol |
+| [elig](../kok/elig.md) | türkçe | -0.02 (*el*) | Tatarca %0 | Ana Türkçe (2 hat) | ~149 milyon (%77, *el*) | *ẹlig |
 
 - ⚠ Çuvaşça'daki *kol-ad* biçimi Tatarca'dan ödünç olabilir; kök yaşında sayılmadı.
 
@@ -102,12 +102,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | kol | kol | kol | kol |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kol | kol | kol | kol |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | kol ↑ | kol ↑ | kol ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | kol | kol | kol |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *ilii* (elig) | *ilii* (elig) | *ilii* (elig) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | kol | kol | *ilii* (elig) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *ilii* (elig) | *ilii* (elig) | ilii |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ilii | ilii | ilii | ilii |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ilii | ilii | ilii | ilii |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ilii | ilii | ilii | ilii |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kol | kol | xol |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kol | kol | *xol* (kol-ad) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | kol | kol | kol | kol |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | xol | kol | xol |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | xol | xol | xol |  |

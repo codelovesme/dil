@@ -5,7 +5,7 @@
 - **Anlam:** Yılan.
 - **İngilizce:** snake
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yılan](../kok/yılan.md) | türkçe | 1.13 (*yılan*) | Çuvaşça %78 | Ana Türkçe (2 hat) | ~178 milyon (%92, *yılan*) | *yïlan |
+| [yılan](../kok/yılan.md) | türkçe | 1.12 (*yılan*) | Çuvaşça %78 | Ana Türkçe (2 hat) | ~178 milyon (%92, *yılan*) | *yïlan |
 
 **Büyük topluluklarda *yılan* biçiminin anlaşılırlığı:** Çuvaşça %78, Özbekçe %78, Azerbaycan Türkçesi %85, Uygurca %85, Tuvaca %90, Kazakça %95, Karaçay-Malkarca %95, Karakalpakça %95, Kırgızca %95, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100.
 

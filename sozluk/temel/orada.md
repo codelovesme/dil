@@ -5,13 +5,13 @@
 - **Anlam:** O yerde.
 - **İngilizce:** there
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
 | Hedef | Soru | Seçim | Kök |
 |---|---|---|---|
-| 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **anda** | [anda](../kok/anda.md) |
+| 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **anta** | [anda](../kok/anda.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **anta** | [anda](../kok/anda.md) |
 | 3. En çok kişinin anladığı | En fazla insan anlasın. | **anda** | [anda](../kok/anda.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [anda](../kok/anda.md) (seviye 0), [orada](../kok/orada.md) (seviye 0), [o yerde](../kok/o yerde.md) (seviye 0) |
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [anda](../kok/anda.md) | türkçe | 0.69 (*anda*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~90 milyon (%47, *anda*) | *anda |
-| [orada](../kok/orada.md) | türkçe | -0.30 (*orada*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~117 milyon (%60, *orada*) |  |
-| [o yerde](../kok/o yerde.md) | türkçe | -0.26 (*u yerda*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~103 milyon (%53, *ol yerde*) |  |
+| [anda](../kok/anda.md) | türkçe | 0.65 (*anta*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~115 milyon (%59, *anda*) | *anda |
+| [orada](../kok/orada.md) | türkçe | -0.30 (*orada*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~144 milyon (%74, *orada*) |  |
+| [o yerde](../kok/o yerde.md) | türkçe | -0.26 (*u yerda*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *ol yerde*) |  |
 
-**Büyük topluluklarda *anda* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Özbekçe %0, Uygurca %0, Sahaca %69, Çuvaşça %84, Başkurtça %91, Kumukça %91, Kazakça %91, Tuvaca %91, Tatarca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100.
+**Büyük topluluklarda *anta* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Özbekçe %0, Uygurca %0, Sahaca %69, Başkurtça %84, Kumukça %84, Kazakça %84, Tuvaca %84, Çuvaşça %91, Tatarca %94, Kırım Tatarcası %94, Karaçay-Malkarca %94, Karakalpakça %94, Sibirya Tatarcası %94, Kırgızca %94.
 
 ## Ağaç üzerinde seçimler
 
@@ -34,7 +34,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | anda | anta | anda |  |
+| **Türk dilleri** | anta | anta | anda |  |
 | &nbsp;&nbsp;**Oğur kolu** | unta | unta | unta |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | unta | unta | unta | unta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | unta | unta | unta | unta |

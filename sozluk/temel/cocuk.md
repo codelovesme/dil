@@ -5,7 +5,7 @@
 - **Anlam:** Çocuk.
 - **İngilizce:** child
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -13,24 +13,24 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **bala** | [bala](../kok/bala.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **bala** | [bala](../kok/bala.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **bala** | [bala](../kok/bala.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **çocuk** | [çocuk](../kok/çocuk.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [bala](../kok/bala.md) (seviye 0), [uşak](../kok/uşak.md) (seviye 0), [çocuk](../kok/çocuk.md) (seviye 0), [çaga](../kok/çaga.md) (seviye 0), [oğul](../kok/oğul.md) (seviye 0), [uruğ](../kok/uruğ.md) (seviye 0), [aça](../kok/aça.md) (seviye 0), [käç](../kok/käç.md) (seviye 0), [mula](../kok/mula.md) (seviye 0) |
 
-İlk üç hedef **uyuşuyor**.
+İlk üç hedef **ayrişiyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bala](../kok/bala.md) | türkçe | 0.46 (*bala*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~116 milyon (%60, *bala*) | *bāla |
-| [uşak](../kok/uşak.md) | türkçe | -0.39 (*uşak*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~97 milyon (%50, *uşak*) |  |
-| [çocuk](../kok/çocuk.md) | türkçe | -0.44 (*çocuk*) | Çuvaşça %0 | Türkiye Türkçesi (1 hat) | ~112 milyon (%58, *çocuk*) |  |
-| [çaga](../kok/çaga.md) | türkçe | -0.40 (*çaga*) | Çuvaşça %0 | Türkmence (1 hat) | ~69 milyon (%35, *çaga*) |  |
+| [bala](../kok/bala.md) | türkçe | 0.44 (*bala*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~133 milyon (%69, *bala*) | *bāla |
+| [uşak](../kok/uşak.md) | türkçe | -0.39 (*uşak*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~123 milyon (%63, *uşak*) |  |
+| [çocuk](../kok/çocuk.md) | türkçe | -0.43 (*çocuk*) | Çuvaşça %0 | Türkiye Türkçesi (1 hat) | ~139 milyon (%72, *çocuk*) |  |
+| [çaga](../kok/çaga.md) | türkçe | -0.41 (*çaga*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *çaga*) |  |
 | [oğul](../kok/oğul.md) | türkçe | seçilemez | | | | *ogul |
-| [uruğ](../kok/uruğ.md) | türkçe | -0.42 (*çaş uruğ*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *çaş uruğ*) | *urug |
-| [aça](../kok/aça.md) | türkçe | -0.39 (*aça*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *aça*) |  |
-| [käç](../kok/käç.md) | türkçe | -0.48 (*käç*) | Çuvaşça %0 | Çulımca (1 hat) | ~0 milyon (%0, *käç*) |  |
-| [mula](../kok/mula.md) | türkçe | -0.46 (*mula*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *mula*) |  |
+| [uruğ](../kok/uruğ.md) | türkçe | -0.41 (*çaş uruğ*) | Çuvaşça %0 | Sayan (2 hat) | ~43 milyon (%22, *çaş uruğ*) | *urug |
+| [aça](../kok/aça.md) | türkçe | -0.37 (*aça*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *aça*) |  |
+| [käç](../kok/käç.md) | türkçe | -0.49 (*käç*) | Çuvaşça %0 | Çulımca (1 hat) | ~55 milyon (%28, *käç*) |  |
+| [mula](../kok/mula.md) | türkçe | -0.45 (*mula*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%37, *mula*) |  |
 
 - ⚠ Salarca'daki *bala* biçimi Uygurca'dan ödünç olabilir; kök yaşında sayılmadı.
 
@@ -42,14 +42,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | bala | bala | bala |  |
+| **Türk dilleri** | bala | bala | çocuk |  |
 | &nbsp;&nbsp;**Oğur kolu** | *aça* (aça) | *aça* (aça) | *aça* (aça) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | aça | aça | aça | aça |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | aça | aça | aça | aça |
-| &nbsp;&nbsp;**Ortak Türkçe** | bala | bala | bala |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | bala | bala | bala |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | bala | bala | çocuk |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | bala | bala | *bala* (bala) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | bala | bala | bala | bala |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *uşak* (uşak) | *uşak* (uşak) | *çocuk* (çocuk) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *uşak* (uşak) | *uşak* (uşak) | çocuk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | uşak | uşak | çocuk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | *çocuk* (çocuk) | uşak | çocuk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | çocuk | *çocuk* (çocuk) | çocuk | çocuk |
@@ -68,7 +68,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çaga | çaga | çaga | çaga |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | çaga ↑ | çaga ↑ | çaga ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *pala* (bala) | *pala* (bala) | *pala* (bala) | pala |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | bala | bala | bala |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | bala | bala | *bala* (bala) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | bala | bala | bala |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | bala | bala | bala | bala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bala | bala | bala | bala |
@@ -102,7 +102,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bala | bala | bala | bala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | bala | bala | bala | bala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bala | bala | bala | bala |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | bola | bola | bola |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | bola | bola | *bola* (bala) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | bola | bola | bola | bola |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bola | bola | bola | bola |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | bala | bala | bala |  |

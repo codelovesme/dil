@@ -5,7 +5,7 @@
 - **Anlam:** Burun.
 - **İngilizce:** nose
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [burun](../kok/burun.md) | türkçe | 0.95 (*burun*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~189 milyon (%97, *burun*) | *burun |
-| [kañrık](../kok/kañrık.md) | türkçe | -0.46 (*kañrık*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *kañrık*) |  |
-| [tumçuk](../kok/tumçuk.md) | türkçe | -0.47 (*tumçuk*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~10 milyon (%5, *tumçuk*) |  |
-| [xaay](../kok/xaay.md) | türkçe | -0.43 (*xaay*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *xaay*) |  |
+| [burun](../kok/burun.md) | türkçe | 0.93 (*burun*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~189 milyon (%98, *burun*) | *burun |
+| [kañrık](../kok/kañrık.md) | türkçe | -0.45 (*kañrık*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *kañrık*) |  |
+| [tumçuk](../kok/tumçuk.md) | türkçe | -0.46 (*tumçuk*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~67 milyon (%34, *tumçuk*) |  |
+| [xaay](../kok/xaay.md) | türkçe | -0.42 (*xaay*) | Çuvaşça %0 | Sayan (2 hat) | ~43 milyon (%22, *xaay*) |  |
 
 **Büyük topluluklarda *burun* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %52, Gagavuzca %80, Başkurtça %80, Kazakça %82, Karakalpakça %82, Sibirya Tatarcası %82, Tatarca %88, Kırgızca %90, Sahaca %90, Türkiye Türkçesi %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Özbekçe %100, Uygurca %100.
 

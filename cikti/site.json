@@ -25,6 +25,16 @@
    "tur": "dizin"
   },
   {
+   "yol": "GOZDEN-GECIRME.md",
+   "baslik": "Gözden geçirme",
+   "tur": "proje"
+  },
+  {
+   "yol": "ORGU.md",
+   "baslik": "Örgü denetimi",
+   "tur": "proje"
+  },
+  {
    "yol": "AGIRLIKLAR.md",
    "baslik": "Ağırlıklar",
    "tur": "dizin"
@@ -4142,7 +4152,7 @@
    "ad": "at-",
    "alt": "throw",
    "yol": "sozluk/temel/at.md",
-   "ozet": "Ortak dil: taşla · Ana Türkçe tahmini: părax · En çok kişinin anladığı: taşla",
+   "ozet": "Ortak dil: taşla · Ana Türkçe tahmini: părax · En çok kişinin anladığı: at",
    "anahtar": [
     "at",
     "bılaktır",
@@ -4548,7 +4558,7 @@
    "ad": "burada",
    "alt": "here",
    "yol": "sozluk/temel/burada.md",
-   "ozet": "Ortak dil: munda · Ana Türkçe tahmini: bunta · En çok kişinin anladığı: bunda",
+   "ozet": "Ortak dil: munda · Ana Türkçe tahmini: bunta · En çok kişinin anladığı: munda",
    "anahtar": [
     "bu yerda",
     "bu yerde",
@@ -4598,7 +4608,7 @@
    "ad": "büyük",
    "alt": "big",
    "yol": "sozluk/temel/buyuk.md",
-   "ozet": "Ortak dil: uluğ · Ana Türkçe tahmini: büyük · En çok kişinin anladığı: uluğ",
+   "ozet": "Ortak dil: uluğ · Ana Türkçe tahmini: büyük · En çok kişinin anladığı: büyük",
    "anahtar": [
     "böyük",
     "büdük",
@@ -4791,7 +4801,7 @@
    "ad": "çocuk",
    "alt": "child",
    "yol": "sozluk/temel/cocuk.md",
-   "ozet": "Ortak dil: bala · Ana Türkçe tahmini: bala · En çok kişinin anladığı: bala",
+   "ozet": "Ortak dil: bala · Ana Türkçe tahmini: bala · En çok kişinin anladığı: çocuk",
    "anahtar": [
     "aça",
     "bala",
@@ -4813,7 +4823,7 @@
    "ad": "çok",
    "alt": "many, much",
    "yol": "sozluk/temel/cok.md",
-   "ozet": "Ortak dil: köp · Ana Türkçe tahmini: köp · En çok kişinin anladığı: köp",
+   "ozet": "Ortak dil: köp · Ana Türkçe tahmini: köp · En çok kişinin anladığı: çok",
    "anahtar": [
     "elbex",
     "kep",
@@ -4913,7 +4923,7 @@
    "ad": "değnek",
    "alt": "stick",
    "yol": "sozluk/temel/degnek.md",
-   "ozet": "Ortak dil: tayak · Ana Türkçe tahmini: tayak · En çok kişinin anladığı: tayak",
+   "ozet": "Ortak dil: tayak · Ana Türkçe tahmini: tayak · En çok kişinin anladığı: sopa",
    "anahtar": [
     "? tayak",
     "dayañgıış",
@@ -5255,7 +5265,7 @@
    "ad": "em-",
    "alt": "suck",
    "yol": "sozluk/temel/em.md",
-   "ozet": "Ortak dil: sor · Ana Türkçe tahmini: em · En çok kişinin anladığı: sor",
+   "ozet": "Ortak dil: sor · Ana Türkçe tahmini: em · En çok kişinin anladığı: em",
    "anahtar": [
     "em",
     "hur",
@@ -5455,7 +5465,7 @@
    "ad": "göbek",
    "alt": "navel",
    "yol": "sozluk/temel/gobek.md",
-   "ozet": "Ortak dil: kindik · Ana Türkçe tahmini: kindik · En çok kişinin anladığı: göbek",
+   "ozet": "Ortak dil: kindik · Ana Türkçe tahmini: kindik · En çok kişinin anladığı: kindik",
    "anahtar": [
     "gindik",
     "göbek",
@@ -5638,7 +5648,7 @@
    "ad": "hangi",
    "alt": "which",
    "yol": "sozluk/temel/hangi.md",
-   "ozet": "Ortak dil: kaysı · Ana Türkçe tahmini: kayım · En çok kişinin anladığı: kaysı",
+   "ozet": "Ortak dil: kaysı · Ana Türkçe tahmini: kayım · En çok kişinin anladığı: hangi",
    "anahtar": [
     "angısı",
     "hangi",
@@ -5970,7 +5980,7 @@
    "ad": "kadın",
    "alt": "woman",
    "yol": "sozluk/temel/kadin.md",
-   "ozet": "Ortak dil: tişiriw · Ana Türkçe tahmini: tişi · En çok kişinin anladığı: karı",
+   "ozet": "Ortak dil: tişiriw · Ana Türkçe tahmini: tişi · En çok kişinin anladığı: tişiriw",
    "anahtar": [
     "ipçi kizi",
     "kadın",
@@ -6277,7 +6287,7 @@
    "ad": "keskin",
    "alt": "sharp",
    "yol": "sozluk/temel/keskin.md",
-   "ozet": "Ortak dil: yiti · Ana Türkçe tahmini: yiti · En çok kişinin anladığı: yiti",
+   "ozet": "Ortak dil: yiti · Ana Türkçe tahmini: yiti · En çok kişinin anladığı: iti",
    "anahtar": [
     "citi",
     "hıtıı",
@@ -6427,7 +6437,7 @@
    "ad": "koş-",
    "alt": "run",
    "yol": "sozluk/temel/kos.md",
-   "ozet": "Ortak dil: yügür · Ana Türkçe tahmini: çap · En çok kişinin anladığı: yügür",
+   "ozet": "Ortak dil: yügür · Ana Türkçe tahmini: çap · En çok kişinin anladığı: koş",
    "anahtar": [
     "dügür",
     "hüür",
@@ -6877,7 +6887,7 @@
    "ad": "omuz",
    "alt": "shoulder",
    "yol": "sozluk/temel/omuz.md",
-   "ozet": "Ortak dil: egin · Ana Türkçe tahmini: egin · En çok kişinin anladığı: egin",
+   "ozet": "Ortak dil: egin · Ana Türkçe tahmini: egin · En çok kişinin anladığı: omuz",
    "anahtar": [
     "carın",
     "egin",
@@ -6933,7 +6943,7 @@
    "ad": "orada",
    "alt": "there",
    "yol": "sozluk/temel/orada.md",
-   "ozet": "Ortak dil: anda · Ana Türkçe tahmini: anta · En çok kişinin anladığı: anda",
+   "ozet": "Ortak dil: anta · Ana Türkçe tahmini: anta · En çok kişinin anladığı: anda",
    "anahtar": [
     "anda",
     "anta",
@@ -7080,7 +7090,7 @@
    "ad": "say-",
    "alt": "count",
    "yol": "sozluk/temel/say.md",
-   "ozet": "Ortak dil: sana · Ana Türkçe tahmini: sana · En çok kişinin anladığı: sana",
+   "ozet": "Ortak dil: sana · Ana Türkçe tahmini: sana · En çok kişinin anladığı: say",
    "anahtar": [
     "aağ",
     "ak",
@@ -7356,7 +7366,7 @@
    "ad": "tohum",
    "alt": "seed",
    "yol": "sozluk/temel/tohum.md",
-   "ozet": "Ortak dil: uruk · Ana Türkçe tahmini: uruğ · En çok kişinin anladığı: uruğ",
+   "ozet": "Ortak dil: uruğ · Ana Türkçe tahmini: uruğ · En çok kişinin anladığı: uruğ",
    "anahtar": [
     "orlok",
     "orlık",

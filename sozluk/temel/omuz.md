@@ -5,7 +5,7 @@
 - **Anlam:** Omuz.
 - **İngilizce:** shoulder
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -13,23 +13,23 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **egin** | [egin](../kok/egin.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **egin** | [egin](../kok/egin.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **egin** | [egin](../kok/egin.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **omuz** | [omuz](../kok/omuz.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [egin](../kok/egin.md) (seviye 0), [iñ](../kok/iñ.md) (seviye 0), [yağrın](../kok/yağrın.md) (seviye 0), [omuz](../kok/omuz.md) (seviye 0), [çiyin](../kok/çiyin.md) (seviye 0), [yelka](../kok/yelka.md) (seviye 0), [öştü](../kok/öştü.md) (seviye 0), [xulpuşşi](../kok/xulpuşşi.md) (seviye 0) |
 
-İlk üç hedef **uyuşuyor**.
+İlk üç hedef **ayrişiyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [egin](../kok/egin.md) | türkçe | 0.09 (*egin*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~91 milyon (%47, *egin*) | *egin |
-| [iñ](../kok/iñ.md) | türkçe | -0.17 (*iñbaş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~15 milyon (%8, *iñbaş*) |  |
-| [yağrın](../kok/yağrın.md) | türkçe | -0.27 (*yawrın*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~18 milyon (%9, *yawrın*) |  |
-| [omuz](../kok/omuz.md) | türkçe | -0.33 (*omuz*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *omuz*) |  |
-| [çiyin](../kok/çiyin.md) | türkçe | -0.44 (*çiyin*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *çiyin*) |  |
-| [yelka](../kok/yelka.md) | türkçe | -0.42 (*yelka*) | Çuvaşça %0 | Özbekçe (1 hat) | ~56 milyon (%29, *yelka*) |  |
-| [öştü](../kok/öştü.md) | türkçe | -0.43 (*öhün*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *öhün*) |  |
-| [xulpuşşi](../kok/xulpuşşi.md) | türkçe | -0.38 (*xulpuşşi*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *xulpuşşi*) |  |
+| [egin](../kok/egin.md) | türkçe | 0.08 (*egin*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~98 milyon (%51, *egin*) | *egin |
+| [iñ](../kok/iñ.md) | türkçe | -0.21 (*iñbaş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~101 milyon (%52, *inbaş*) |  |
+| [yağrın](../kok/yağrın.md) | türkçe | -0.25 (*yawrın*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~73 milyon (%38, *carın*) |  |
+| [omuz](../kok/omuz.md) | türkçe | -0.34 (*omuz*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~149 milyon (%77, *omuz*) |  |
+| [çiyin](../kok/çiyin.md) | türkçe | -0.44 (*çiyin*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *çiyin*) |  |
+| [yelka](../kok/yelka.md) | türkçe | -0.40 (*yelka*) | Çuvaşça %0 | Özbekçe (1 hat) | ~99 milyon (%51, *yelka*) |  |
+| [öştü](../kok/öştü.md) | türkçe | -0.43 (*öhün*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~60 milyon (%31, *öştü*) |  |
+| [xulpuşşi](../kok/xulpuşşi.md) | türkçe | -0.37 (*xulpuşşi*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *xulpuşşi*) |  |
 
 - ⚠ **Canlandırma:** *egin* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -41,14 +41,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | egin | egin | egin |  |
+| **Türk dilleri** | egin | egin | omuz |  |
 | &nbsp;&nbsp;**Oğur kolu** | *xulpuşşi* (xulpuşşi) | *xulpuşşi* (xulpuşşi) | *xulpuşşi* (xulpuşşi) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | xulpuşşi | xulpuşşi | xulpuşşi | xulpuşşi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xulpuşşi | xulpuşşi | xulpuşşi | xulpuşşi |
-| &nbsp;&nbsp;**Ortak Türkçe** | egin | egin | egin |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | egin ↑ | egin ↑ | egin ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | egin ↑ | egin ↑ | egin ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | egin | egin | *omuz* (omuz) |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | egin | egin | omuz |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | egin ↑ | egin ↑ | omuz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | egin ↑ | egin ↑ | omuz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | egin | egin | omuz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *omuz* (omuz) | *omuz* (omuz) | omuz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | omuz | omuz | omuz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | omuz | omuz | omuz | omuz |
@@ -67,7 +67,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | egin | egin | egin | egin |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | egin ↑ | egin ↑ | egin ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *yağrı* (yağrın) | *yağrı* (yağrın) | *yağrı* (yağrın) | yağrı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | iyin | eyin | iyin |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | iyin | eyin | *iyin* (egin) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | *iñbaş* (iñ) | *iñbaş* (iñ) | *iñbaş* (iñ) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | iñbaş | iñbaş | iñbaş | iñbaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iñbaş | iñbaş | iñbaş | iñbaş |
@@ -108,12 +108,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | yelka ↑ | yelka ↑ | yelka ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yelka ↑ | yelka ↑ | yelka ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | yelka ↑ | yelka ↑ | yelka ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | egin | *sarın* (yağrın) | egin |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *sarın* (yağrın) | sarın | *sarın* (yağrın) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | egin | *sarın* (yağrın) | *sarın* (yağrın) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *sarın* (yağrın) | sarın | sarın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | sarın | sarın | sarın | sarın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sarın | sarın | sarın | sarın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | hannı | hannı | hannı | hannı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | egin | *egin* (egin) | egin |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | egin | *egin* (egin) | *egin* (egin) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | igen | igen | igen | igen |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | egin | egin | egin |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | egin | egin | egin |  |

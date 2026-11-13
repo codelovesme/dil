@@ -5,7 +5,7 @@
 - **Anlam:** Yaprak.
 - **İngilizce:** leaf
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %71 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yaprak](../kok/yaprak.md) | türkçe | 0.73 (*yapırak*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~171 milyon (%88, *yaprak*) | *yapïrgak |
-| [bür](../kok/bür.md) | türkçe | -0.34 (*pür*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~0 milyon (%0, *bürü*) | *bür |
-| [sebirdek](../kok/sebirdek.md) | türkçe | -0.40 (*sebirdex*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *sebirdex*) |  |
-| [şulşă](../kok/şulşă.md) | türkçe | -0.38 (*şulşă*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şulşă*) |  |
+| [yaprak](../kok/yaprak.md) | türkçe | 0.68 (*yapırak*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~168 milyon (%87, *yaprak*) | *yapïrgak |
+| [bür](../kok/bür.md) | türkçe | -0.33 (*pür*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~60 milyon (%31, *pür*) | *bür |
+| [sebirdek](../kok/sebirdek.md) | türkçe | -0.39 (*sebirdex*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *sebirdex*) |  |
+| [şulşă](../kok/şulşă.md) | türkçe | -0.36 (*şulşă*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şulşă*) |  |
 
 **Büyük topluluklarda *yapırak* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Azerbaycan Türkçesi %79, Uygurca %84, Karaçay-Malkarca %86, Kırgızca %88, Tatarca %89, Başkurtça %93, Kırım Tatarcası %93, Gagavuzca %93, Türkmence %93, Sibirya Tatarcası %93, Türkiye Türkçesi %93, Kazakça %96, Karakalpakça %96, Kumukça %100.
 
@@ -67,7 +67,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yafrak | yafrak | yafrak | yafrak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | yaprak | yaprak | yaprak | yaprak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yaprak | yaprak | yaprak | yaprak |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | yapırak | yaprak | yapırak |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | yaprak | yaprak | yapırak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | yaprak | yaprak | yaprak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | yaprak | yaprak | yaprak | yaprak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yaprak | yaprak | yaprak | yaprak |

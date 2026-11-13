@@ -5,7 +5,7 @@
 - **Anlam:** Yaşamak, hayatta olmak.
 - **İngilizce:** live
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,13 +22,13 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yaşa](../kok/yaşa.md) | türkçe | 0.67 (*yaşa*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~189 milyon (%97, *yaşa*) | *yaša- |
-| [yurtta](../kok/yurtta.md) | türkçe | -0.37 (*çurta*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~0 milyon (%0, *çurtta*) |  |
-| [tiril](../kok/tiril.md) | türkçe | -0.44 (*tiril*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~0 milyon (%0, *tiril*) |  |
-| [yerle](../kok/yerle.md) | türkçe | -0.49 (*çerlä*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *çerlä*) |  |
-| [purăn](../kok/purăn.md) | türkçe | -0.38 (*purăn*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *purăn*) |  |
-| [olur](../kok/olur.md) | türkçe | -0.40 (*olor*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *olor*) |  |
-| [yat](../kok/yat.md) | türkçe | -0.41 (*dat*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *dat*) |  |
+| [yaşa](../kok/yaşa.md) | türkçe | 0.64 (*yaşa*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~189 milyon (%97, *yaşa*) | *yaša- |
+| [yurtta](../kok/yurtta.md) | türkçe | -0.36 (*çurta*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~55 milyon (%29, *çurta*) |  |
+| [tiril](../kok/tiril.md) | türkçe | -0.45 (*tiril*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~99 milyon (%51, *tiril*) |  |
+| [yerle](../kok/yerle.md) | türkçe | -0.49 (*çerlä*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *çerlä*) |  |
+| [purăn](../kok/purăn.md) | türkçe | -0.37 (*purăn*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *purăn*) |  |
+| [olur](../kok/olur.md) | türkçe | -0.39 (*olor*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *olor*) |  |
+| [yat](../kok/yat.md) | türkçe | -0.41 (*dat*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~72 milyon (%37, *tat*) |  |
 
 **Büyük topluluklarda *yaşa* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Tatarca %88, Başkurtça %88, Karakalpakça %88, Sibirya Tatarcası %88, Karaçay-Malkarca %94, Kırgızca %94, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Özbekçe %100, Uygurca %100.
 

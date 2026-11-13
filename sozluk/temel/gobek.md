@@ -5,7 +5,7 @@
 - **Anlam:** Göbek.
 - **İngilizce:** navel
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %85 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -13,19 +13,19 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **kindik** | [kindik](../kok/kindik.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **kindik** | [kindik](../kok/kindik.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **göbek** | [göbek](../kok/göbek.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **kindik** | [kindik](../kok/kindik.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [kindik](../kok/kindik.md) (seviye 0), [kin](../kok/kin.md) (seviye 0), [göbek](../kok/göbek.md) (seviye 0), [kăvapa](../kok/kăvapa.md) (seviye 0) |
 
-İlk üç hedef **ayrişiyor**.
+İlk üç hedef **uyuşuyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kindik](../kok/kindik.md) | türkçe | 0.56 (*kindik*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~77 milyon (%40, *kindik*) | *kindik |
-| [kin](../kok/kin.md) | türkçe | -0.33 (*kiin*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~11 milyon (%6, *kın*) | *kīn |
-| [göbek](../kok/göbek.md) | türkçe | -0.19 (*göbek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~134 milyon (%69, *göbek*) |  |
-| [kăvapa](../kok/kăvapa.md) | türkçe | -0.39 (*kăvapa*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kăvapa*) |  |
+| [kindik](../kok/kindik.md) | türkçe | 0.55 (*kindik*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~129 milyon (%67, *kindik*) | *kindik |
+| [kin](../kok/kin.md) | türkçe | -0.31 (*kiin*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~67 milyon (%35, *kın*) | *kīn |
+| [göbek](../kok/göbek.md) | türkçe | -0.21 (*göbek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~154 milyon (%79, *göbek*) |  |
+| [kăvapa](../kok/kăvapa.md) | türkçe | -0.38 (*kăvapa*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kăvapa*) |  |
 
 **Büyük topluluklarda *kindik* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Kazakça %83, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %94, Kumukça %96, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 
@@ -35,14 +35,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | kindik | kindik | göbek |  |
+| **Türk dilleri** | kindik | kindik | kindik |  |
 | &nbsp;&nbsp;**Oğur kolu** | *kăvapa* (kăvapa) | *kăvapa* (kăvapa) | *kăvapa* (kăvapa) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | kăvapa | kăvapa | kăvapa | kăvapa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kăvapa | kăvapa | kăvapa | kăvapa |
-| &nbsp;&nbsp;**Ortak Türkçe** | kindik | kindik | göbek |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kündik | kündik | *kündik* (kindik) |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | kindik | kindik | kindik |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kündik | kündik | kündik |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kündik | kündik | kündik | kündik |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *göbek* (göbek) | *göbek* (göbek) | göbek |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *göbek* (göbek) | *göbek* (göbek) | *göbek* (göbek) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | göbek | göbek | göbek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | göbek | göbek | göbek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | göbek | göbek | göbek | göbek |
@@ -61,7 +61,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | göbek | göbek | göbek | göbek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | göbek ↑ | göbek ↑ | göbek ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *kintix* (kindik) | *kintix* (kindik) | *kintix* (kindik) | kintix |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kindik | kindik | *kindik* (kindik) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kindik | kindik | kindik |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kendek | kendek | kendek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kendek | kendek | kendek | kendek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kendek | kendek | kendek | kendek |
@@ -95,7 +95,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | *kın* (kin) | kın | *kın* (kin) | kın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kın | kın | kın | kın |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kindik | kindik | *kindik* (kindik) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kindik | kindik | kindik |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | kindik | kindik | kindik |  |

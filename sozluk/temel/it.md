@@ -5,7 +5,7 @@
 - **Anlam:** Köpek, it.
 - **İngilizce:** dog
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ıt](../kok/ıt.md) | türkçe | 0.91 (*it*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~158 milyon (%81, *it*) | *ït |
-| [köpek](../kok/köpek.md) | türkçe | -0.34 (*köpek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *köpek*) |  |
-| [aday](../kok/aday.md) | türkçe | -0.42 (*aday*) | Çuvaşça %0 | Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) (3 hat) | ~0 milyon (%0, *aday*) |  |
-| [çıdığ](../kok/çıdığ.md) | türkçe | -0.50 (*çıdığ*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *çıdığ*) |  |
+| [ıt](../kok/ıt.md) | türkçe | 0.92 (*it*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~158 milyon (%81, *it*) | *ït |
+| [köpek](../kok/köpek.md) | türkçe | -0.36 (*köpek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~149 milyon (%77, *köpek*) |  |
+| [aday](../kok/aday.md) | türkçe | -0.42 (*aday*) | Çuvaşça %0 | Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) (3 hat) | ~60 milyon (%31, *aday*) |  |
+| [çıdığ](../kok/çıdığ.md) | türkçe | -0.49 (*çıdığ*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *çıdığ*) |  |
 
 **Büyük topluluklarda *it* biçiminin anlaşılırlığı:** Gagavuzca %0, Kırım Tatarcası %0, Türkiye Türkçesi %50, Çuvaşça %69, Tatarca %81, Başkurtça %81, Karakalpakça %83, Uygurca %83, Sahaca %88, Tuvaca %88, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100.
 

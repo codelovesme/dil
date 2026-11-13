@@ -5,7 +5,7 @@
 - **Anlam:** Ad, isim.
 - **İngilizce:** name
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [at](../kok/at.md) | türkçe | 1.15 (*at*) | Özbekçe %81 | Ana Türkçe (2 hat) | ~172 milyon (%89, *at*) | *āt |
+| [at](../kok/at.md) | türkçe | 1.14 (*at*) | Özbekçe %81 | Ana Türkçe (2 hat) | ~172 milyon (%89, *at*) | *āt |
 
 **Büyük topluluklarda *at* biçiminin anlaşılırlığı:** Özbekçe %81, Çuvaşça %83, Sahaca %83, Türkiye Türkçesi %88, Gagavuzca %88, Azerbaycan Türkçesi %88, Kırım Tatarcası %88, Türkmence %100, Tatarca %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
 

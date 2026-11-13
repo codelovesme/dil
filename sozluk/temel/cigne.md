@@ -5,7 +5,7 @@
 - **Anlam:** Çiğnemek.
 - **İngilizce:** chew
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [çayna](../kok/çayna.md) | türkçe | 0.73 (*çayna*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~170 milyon (%88, *çiyne*) | *čaŋna- |
-| [ıstaa](../kok/ıstaa.md) | türkçe | -0.41 (*ıstaa*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *ıstaa*) |  |
-| [çămla](../kok/çămla.md) | türkçe | -0.38 (*çămla*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *çămla*) |  |
+| [çayna](../kok/çayna.md) | türkçe | 0.70 (*çayna*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~170 milyon (%88, *çiyne*) | *čaŋna- |
+| [ıstaa](../kok/ıstaa.md) | türkçe | -0.39 (*ıstaa*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *ıstaa*) |  |
+| [çămla](../kok/çămla.md) | türkçe | -0.37 (*çămla*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *çămla*) |  |
 
 **Büyük topluluklarda *çayna* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Türkiye Türkçesi %78, Başkurtça %85, Gagavuzca %88, Azerbaycan Türkçesi %90, Türkmence %90, Tatarca %90, Tuvaca %90, Kazakça %95, Karakalpakça %95, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

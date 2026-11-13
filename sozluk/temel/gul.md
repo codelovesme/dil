@@ -5,7 +5,7 @@
 - **Anlam:** Gülmek.
 - **İngilizce:** laugh
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kül](../kok/kül.md) | türkçe | 1.02 (*kül*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~180 milyon (%93, *kül*) | *kül- |
-| [katkır](../kok/katkır.md) | türkçe | -0.37 (*katxır*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *katxır*) |  |
+| [kül](../kok/kül.md) | türkçe | 1.01 (*kül*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~180 milyon (%93, *kül*) | *kül- |
+| [katkır](../kok/katkır.md) | türkçe | -0.36 (*katxır*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~67 milyon (%34, *katxır*) |  |
 
 **Büyük topluluklarda *kül* biçiminin anlaşılırlığı:** Tuvaca %0, Kumukça %88, Başkurtça %92, Özbekçe %92, Çuvaşça %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %92, Tatarca %92, Sibirya Tatarcası %92, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100, Sahaca %100.
 

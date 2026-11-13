@@ -5,7 +5,7 @@
 - **Anlam:** Dört sayısı.
 - **İngilizce:** four
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [dört](../kok/dört.md) | türkçe | 1.12 (*dört*) | Çuvaşça %62 | Ana Türkçe (2 hat) | ~187 milyon (%96, *dört*) | *tȫrt |
+| [dört](../kok/dört.md) | türkçe | 1.11 (*dört*) | Çuvaşça %62 | Ana Türkçe (2 hat) | ~187 milyon (%96, *dört*) | *tȫrt |
 
 **Büyük topluluklarda *dört* biçiminin anlaşılırlığı:** Çuvaşça %62, Sahaca %85, Azerbaycan Türkçesi %94, Tatarca %94, Başkurtça %94, Karaçay-Malkarca %94, Kazakça %94, Karakalpakça %94, Sibirya Tatarcası %94, Kırgızca %94, Özbekçe %94, Uygurca %94, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Tuvaca %100.
 

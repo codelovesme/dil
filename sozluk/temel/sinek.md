@@ -5,7 +5,7 @@
 - **Anlam:** Sinek.
 - **İngilizce:** fly (insect)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,13 +22,15 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [çıbın](../kok/çıbın.md) | türkçe | 0.30 (*çibin*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~99 milyon (%51, *çibin*) | *čïbïn |
-| [siñek](../kok/siñek.md) | türkçe | -0.17 (*sinek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~129 milyon (%66, *sinek*) | *siŋek |
-| [kodğu](../kok/kodğu.md) | türkçe | -0.29 (*gudğu*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~5 milyon (%2, *gudğu*) |  |
-| [saxsırga](../kok/saxsırga.md) | türkçe | -0.40 (*saxsırga*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *saxsırga*) |  |
-| [kögen](../kok/kögen.md) | türkçe | -0.47 (*kögen*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~0 milyon (%0, *kögen*) |  |
-| [pohçüin](../kok/pohçüin.md) | türkçe | -0.44 (*pohçüin*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *pohçüin*) |  |
-| [çergäy](../kok/çergäy.md) | türkçe | -0.43 (*çergäy*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *çergäy*) |  |
+| [çıbın](../kok/çıbın.md) | türkçe | 0.26 (*çibin*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~121 milyon (%62, *çibin*) | *čïbïn |
+| [siñek](../kok/siñek.md) | türkçe | -0.16 (*sinek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~145 milyon (%75, *sinek*) | *siŋek |
+| [kodğu](../kok/kodğu.md) | türkçe | -0.28 (*gudğu*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~64 milyon (%33, *gudğu*) |  |
+| [saxsırga](../kok/saxsırga.md) | türkçe | -0.39 (*saxsırga*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *saxsırga*) |  |
+| [kögen](../kok/kögen.md) | türkçe | -0.47 (*kögen*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *kögen*) |  |
+| [pohçüin](../kok/pohçüin.md) | türkçe | -0.43 (*pohçüin*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *pohçüin*) |  |
+| [çergäy](../kok/çergäy.md) | türkçe | -0.42 (*çergäy*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *çergäy*) |  |
+
+- ⚠ **Canlandırma:** *çıbın* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
 **Büyük topluluklarda *çibin* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Türkmence %0, Sibirya Tatarcası %0, Sahaca %0, Tuvaca %0, Çuvaşça %60, Kırgızca %80, Başkurtça %80, Tatarca %85, Kazakça %85, Karakalpakça %85, Kumukça %95, Uygurca %95, Kırım Tatarcası %100, Karaçay-Malkarca %100.
 

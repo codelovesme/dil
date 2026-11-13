@@ -5,7 +5,7 @@
 - **Anlam:** Boyun.
 - **İngilizce:** neck
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [boyun](../kok/boyun.md) | türkçe | 1.05 (*boyun*) | Çuvaşça %62 | Ana Türkçe (2 hat) | ~184 milyon (%95, *boyun*) | *boyun |
+| [boyun](../kok/boyun.md) | türkçe | 1.04 (*boyun*) | Çuvaşça %62 | Ana Türkçe (2 hat) | ~184 milyon (%95, *boyun*) | *boyun |
 
 **Büyük topluluklarda *boyun* biçiminin anlaşılırlığı:** Çuvaşça %62, Sahaca %65, Tatarca %78, Başkurtça %78, Kazakça %82, Karakalpakça %82, Özbekçe %88, Sibirya Tatarcası %90, Kırgızca %90, Tuvaca %90, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Uygurca %100.
 

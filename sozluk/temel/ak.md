@@ -5,7 +5,7 @@
 - **Anlam:** Ak, beyaz.
 - **İngilizce:** white
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %85 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ak](../kok/ak.md) | türkçe | 0.77 (*ak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~161 milyon (%83, *ak*) | *āk |
-| [ürüñ](../kok/ürüñ.md) | türkçe | -0.23 (*ürüñ*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~4 milyon (%2, *ürüñ*) | *ürüŋ |
-| [şură](../kok/şură.md) | türkçe | -0.39 (*şură*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şură*) |  |
+| [ak](../kok/ak.md) | türkçe | 0.73 (*ak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~161 milyon (%83, *ak*) | *āk |
+| [ürüñ](../kok/ürüñ.md) | türkçe | -0.21 (*ürüñ*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~55 milyon (%28, *ürüñ*) | *ürüŋ |
+| [şură](../kok/şură.md) | türkçe | -0.38 (*şură*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şură*) |  |
 | beyaz | alıntı:ar | seçilemez | | | |  |
 
 **Büyük topluluklarda *ak* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Türkiye Türkçesi %50, Özbekçe %81, Azerbaycan Türkçesi %88, Gagavuzca %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.

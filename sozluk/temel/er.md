@@ -5,7 +5,7 @@
 - **Anlam:** Erkek, er kişi.
 - **İngilizce:** man (male)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -23,7 +23,7 @@
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
 | [er](../kok/er.md) | türkçe | 0.86 (*er*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~183 milyon (%94, *erkek*) | *ẹr |
-| [kişi](../kok/kişi.md) | türkçe | -0.44 (*kişi*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *kişi*) |  |
+| [kişi](../kok/kişi.md) | türkçe | -0.44 (*kişi*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *kişi*) |  |
 
 **Büyük topluluklarda *er* biçiminin anlaşılırlığı:** Azerbaycan Türkçesi %0, Sahaca %64, Tuvaca %64, Çuvaşça %65, Uygurca %65, Karaçay-Malkarca %67, Kırım Tatarcası %70, Kumukça %70, Kazakça %70, Özbekçe %70, Türkiye Türkçesi %70, Türkmence %70, Karakalpakça %70, Kırgızca %70, Tatarca %81, Başkurtça %81, Sibirya Tatarcası %100.
 
@@ -73,7 +73,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | erkek | erkek | erkek | erkek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | erkek ↑ | erkek ↑ | erkek ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | erkek ↑ | erkek ↑ | erkek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | erkek | erkek | erkek |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | erkişi | erkek | erkek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | erkek | erkek | erkek | erkek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | erkek | erkek | erkek | erkek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | erkişi | erkişi | erkişi | erkişi |
@@ -105,8 +105,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | er kihi | er kihi | er kihi | er kihi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | er kihi | er kihi | er kihi | er kihi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | er kihi | er kihi | er kihi | er kihi |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | er | er | er kiji |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | er ↑ | er ↑ | er kiji ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | er kiji | er | er kiji |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | er kiji ↑ | er ↑ | er kiji ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | er kiji | er | er kiji |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | er kiji | er kiji | er kiji |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | er kiji | er kiji | er kiji | er kiji |

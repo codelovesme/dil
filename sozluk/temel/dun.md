@@ -5,7 +5,7 @@
 - **Anlam:** Bugünden önceki gün.
 - **İngilizce:** yesterday
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tünegün](../kok/tünegün.md) | türkçe | 0.26 (*tünegün*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~138 milyon (%71, *tünegün*) |  |
-| [keçe](../kok/keçe.md) | türkçe | 0.02 (*keçe*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~68 milyon (%35, *keça*) |  |
-| [begehee](../kok/begehee.md) | türkçe | -0.41 (*begehee*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *begehee*) |  |
-| [äñgür](../kok/äñgür.md) | türkçe | -0.45 (*äñgür*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *äñgür*) |  |
-| [ĕner](../kok/ĕner.md) | türkçe | -0.39 (*ĕner*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ĕner*) |  |
-| [tuğın](../kok/tuğın.md) | türkçe | -0.46 (*tuğın*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *tuğın*) |  |
+| [tünegün](../kok/tünegün.md) | türkçe | 0.20 (*tünegün*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~138 milyon (%71, *tünegün*) |  |
+| [keçe](../kok/keçe.md) | türkçe | 0.05 (*keçe*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~108 milyon (%56, *keça*) |  |
+| [begehee](../kok/begehee.md) | türkçe | -0.40 (*begehee*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *begehee*) |  |
+| [äñgür](../kok/äñgür.md) | türkçe | -0.44 (*äñgür*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *äñgür*) |  |
+| [ĕner](../kok/ĕner.md) | türkçe | -0.37 (*ĕner*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ĕner*) |  |
+| [tuğın](../kok/tuğın.md) | türkçe | -0.45 (*tuğın*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *tuğın*) |  |
 
 - ⚠ **Canlandırma:** *tünegün* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -65,13 +65,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | düyn | düyn | düyn | düyn |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | düyn ↑ | düyn ↑ | düyn ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *keece* (keçe) | *keece* (keçe) | *keece* (keçe) | keece |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | *keçe* (keçe) | tünekün | *keşe* (keçe) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kisä | *kiçä* (keçe) | kiçä |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | *keçe* (keçe) | tünekün | tünegün |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kisä | *kiçä* (keçe) | *kiçä* (keçe) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kiçä | kiçä | kiçä | kiçä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kiçä | kiçä | kiçä | kiçä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | kisä | kisä | kisä | kisä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kisä | kisä | kisä | kisä |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *tünegün* (tünegün) | tünegün | *tünegün* (tünegün) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *tünegün* (tünegün) | tünegün | tünegün |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | tünevin | tünegün | tünevin |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | tünevin | tünevin | tünevin | tünevin |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tünevin | tünevin | tünevin | tünevin |
@@ -84,7 +84,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tünegün | tünegün | tünegün | tünegün |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | tünene | tünene | tünene | tünene |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tünene | tünene | tünene | tünene |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | keşe | *keşe* (keçe) | *tünegün* (tünegün) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | keşe | *keşe* (keçe) | tünegün |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | keşe | keşe | *keşe* (keçe) | keşe |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | keşe | keşe | keşe | keşe |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | keşe | keşe | *keşe* (keçe) | keşe |
@@ -93,7 +93,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tünegün | tünegün | tünegün | tünegün |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | keşe ↑ | keşe ↑ | tünegün ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | keşe ↑ | keşe ↑ | tünegün ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | keçe | *keçee* (keçe) | keçee |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | keçe | *keçee* (keçe) | *keçee* (keçe) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | keçee | keçee | keçee | keçee |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | keçee | keçee | keçee | keçee |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | keçe | keçe | keçe | keçe |

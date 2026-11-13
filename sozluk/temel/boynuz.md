@@ -5,7 +5,7 @@
 - **Anlam:** Boynuz.
 - **İngilizce:** horn
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %70 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %68 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [müñüz](../kok/müñüz.md) | türkçe | 1.02 (*müyüz*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~144 milyon (%74, *müyüz*) | *müŋüŕ |
+| [müñüz](../kok/müñüz.md) | türkçe | 1.01 (*müyüz*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~143 milyon (%74, *müyüz*) | *müŋüŕ |
 
 **Büyük topluluklarda *müyüz* biçiminin anlaşılırlığı:** Çuvaşça %68, Gagavuzca %75, Azerbaycan Türkçesi %75, Kırım Tatarcası %75, Sahaca %75, Türkiye Türkçesi %75, Tatarca %78, Başkurtça %80, Tuvaca %80, Uygurca %83, Karakalpakça %92, Kazakça %93, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Kabuk (ağaç).
 - **İngilizce:** bark
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kabuk](../kok/kabuk.md) | türkçe | 0.48 (*kabuk*) | Uygurca %0 | Ana Türkçe (2 hat) | ~160 milyon (%83, *kabuk*) | *kabïk |
-| [kakpaş](../kok/kakpaş.md) | türkçe | -0.35 (*kakpaş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~5 milyon (%2, *kaas*) |  |
-| [kadız](../kok/kadız.md) | türkçe | -0.30 (*kazdık*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *kazdık*) |  |
-| [çobra](../kok/çobra.md) | türkçe | -0.39 (*çövüree*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *çobra*) |  |
-| [xatırık](../kok/xatırık.md) | türkçe | -0.40 (*xatırık*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xatırık*) |  |
-| [kovzak](../kok/kovzak.md) | türkçe | -0.42 (*kovzak*) | Çuvaşça %0 | Uygurca (1 hat) | ~48 milyon (%25, *kovzak*) |  |
+| [kabuk](../kok/kabuk.md) | türkçe | 0.44 (*kabuk*) | Uygurca %0 | Ana Türkçe (2 hat) | ~164 milyon (%84, *kabuk*) | *kabïk |
+| [kakpaş](../kok/kakpaş.md) | türkçe | -0.34 (*kaas*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~71 milyon (%37, *kağaş*) |  |
+| [kadız](../kok/kadız.md) | türkçe | -0.30 (*kazdık*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~71 milyon (%36, *kazdık*) |  |
+| [çobra](../kok/çobra.md) | türkçe | -0.38 (*çövüree*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~67 milyon (%34, *çobra*) |  |
+| [xatırık](../kok/xatırık.md) | türkçe | -0.39 (*xatırık*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xatırık*) |  |
+| [kovzak](../kok/kovzak.md) | türkçe | -0.42 (*kovzak*) | Çuvaşça %0 | Uygurca (1 hat) | ~99 milyon (%51, *kovzak*) |  |
 
 **Büyük topluluklarda *kabuk* biçiminin anlaşılırlığı:** Uygurca %0, Sahaca %0, Tuvaca %0, Çuvaşça %65, Azerbaycan Türkçesi %82, Türkmence %88, Tatarca %92, Karakalpakça %92, Sibirya Tatarcası %92, Kırgızca %92, Başkurtça %93, Kazakça %93, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100.
 
@@ -63,7 +63,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gabık | gabık | gabık | gabık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | gabık ↑ | gabık ↑ | gabık ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | gabık ↑ | kabuk ↑ | kabuk ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kabuk | kabuk | kabık |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kabık | kabuk | kabık |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kabık | kabık | kabık |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kabık | kabık | kabık | kabık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kabık | kabık | kabık | kabık |

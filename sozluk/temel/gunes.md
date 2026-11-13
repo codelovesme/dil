@@ -5,7 +5,7 @@
 - **Anlam:** Güneş.
 - **İngilizce:** sun
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [koyaş](../kok/koyaş.md) | türkçe | -0.13 (*koyaş*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~62 milyon (%32, *kuyoş*) | *kujaĺ |
-| [küneş](../kok/küneş.md) | türkçe | -0.27 (*güneş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~116 milyon (%60, *güneş*) |  |
-| [kün](../kok/kün.md) | türkçe | 0.56 (*kün*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~138 milyon (%71, *kün*) |  |
+| [koyaş](../kok/koyaş.md) | türkçe | -0.10 (*koyaş*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~117 milyon (%60, *kuyaş*) | *kujaĺ |
+| [küneş](../kok/küneş.md) | türkçe | -0.30 (*güneş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~155 milyon (%80, *güneş*) |  |
+| [kün](../kok/kün.md) | türkçe | 0.55 (*kün*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~138 milyon (%71, *kün*) |  |
 
 **Büyük topluluklarda *kün* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Azerbaycan Türkçesi %0, Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kumukça %0, Sibirya Tatarcası %0, Özbekçe %0, Tuvaca %92, Gagavuzca %92, Türkmence %92, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100, Sahaca %100.
 
@@ -43,12 +43,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kün | kün | kün | kün |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | gün | gün | *güneş* (küneş) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *güneş* (küneş) | *güneş* (küneş) | güneş |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | *gün* (kün) | *gün* (kün) | güneş |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | *güneş* (küneş) | *güneş* (küneş) | güneş | güneş |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | güneş | *gün* (kün) | güneş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | güneş | *güneş* (küneş) | güneş | güneş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | güneş | güneş | güneş | güneş |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | gün | gün | *gün* (kün) | gün |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | *gün* (kün) | gün | *gün* (kün) | gün |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gün | gün | gün | gün |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | gün ↑ | gün ↑ | güneş ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | güneş ↑ | gün ↑ | güneş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | günäş | günäş | günäş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | günäş | günäş | günäş | günäş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | günäş | günäş | günäş | günäş |
@@ -66,7 +66,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | koyaş | koyaş | koyaş | koyaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | koyaş | koyaş | koyaş | koyaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | koyaş | koyaş | koyaş | koyaş |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *güneş* (küneş) | *güneş* (küneş) | kün |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *küneş* (küneş) | *güneş* (küneş) | kün |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | küneş | *kuyaş* (koyaş) | *küneş* (küneş) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | küneş | *küneş* (küneş) | küneş | küneş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | küneş | küneş | küneş | küneş |

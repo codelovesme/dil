@@ -5,7 +5,7 @@
 - **Anlam:** Yağmur.
 - **İngilizce:** rain
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yağmur](../kok/yağmur.md) | türkçe | 0.85 (*yağmır*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~165 milyon (%85, *yağmur*) | *yagmur |
-| [yağış](../kok/yağış.md) | türkçe | -0.23 (*yağış*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~103 milyon (%53, *yağış*) |  |
-| [öskin](../kok/öskin.md) | türkçe | -0.50 (*öskin*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *öskin*) |  |
+| [yağmur](../kok/yağmur.md) | türkçe | 0.85 (*yağmır*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~166 milyon (%86, *yağmur*) | *yagmur |
+| [yağış](../kok/yağış.md) | türkçe | -0.25 (*yağış*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~125 milyon (%64, *yağış*) |  |
+| [öskin](../kok/öskin.md) | türkçe | -0.49 (*öskin*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *öskin*) |  |
 
 **Büyük topluluklarda *yağmır* biçiminin anlaşılırlığı:** Azerbaycan Türkçesi %0, Kırım Tatarcası %0, Türkmence %50, Çuvaşça %71, Özbekçe %73, Sahaca %75, Karaçay-Malkarca %77, Uygurca %77, Kazakça %79, Karakalpakça %79, Kırgızca %79, Kumukça %81, Tatarca %83, Başkurtça %83, Sibirya Tatarcası %83, Gagavuzca %85, Türkiye Türkçesi %94.
 
@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yağış | yağış | yağış | yağış |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yağış ↑ | yağmır ↑ | yağış ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yağmur | yağmur | yağmur | yağmur |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yañur | yağmur | jañbır |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yañgır | yağmur | jañbır |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yamğır | yañgır | yañgır |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yañgır | yañgır | yañgır | yañgır |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yañgır | yañgır | yañgır | yañgır |

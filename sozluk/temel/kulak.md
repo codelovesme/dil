@@ -5,7 +5,7 @@
 - **Anlam:** İşitme organı.
 - **İngilizce:** ear
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kulkak](../kok/kulkak.md) | türkçe | 1.15 (*kulak*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kulak*) | *kulkak |
+| [kulkak](../kok/kulkak.md) | türkçe | 1.14 (*kulak*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kulak*) | *kulkak |
 
 **Büyük topluluklarda *kulak* biçiminin anlaşılırlığı:** Çuvaşça %68, Sahaca %82, Özbekçe %93, Başkurtça %95, Türkmence %95, Tatarca %95, Sibirya Tatarcası %95, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
 

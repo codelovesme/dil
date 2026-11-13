@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ot-bitki](../kok/ot-bitki.md) | türkçe | 0.29 (*ot*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~173 milyon (%89, *ot*) | *ōt |
-| [ölen](../kok/ölen.md) | türkçe | -0.16 (*üläñ*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~61 milyon (%32, *ölen*) | *ölä-ŋ |
-| [çöp](../kok/çöp.md) | türkçe | -0.31 (*çöp*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~46 milyon (%24, *şöp*) |  |
-| [kurăk](../kok/kurăk.md) | türkçe | -0.39 (*kurăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kurăk*) |  |
+| [ot-bitki](../kok/ot-bitki.md) | türkçe | 0.28 (*ot*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~177 milyon (%91, *ot*) | *ōt |
+| [ölen](../kok/ölen.md) | türkçe | -0.16 (*üläñ*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~110 milyon (%57, *ölen*) | *ölä-ŋ |
+| [çöp](../kok/çöp.md) | türkçe | -0.31 (*çöp*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~91 milyon (%47, *şöp*) |  |
+| [kurăk](../kok/kurăk.md) | türkçe | -0.37 (*kurăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kurăk*) |  |
 
 **Büyük topluluklarda *ot* biçiminin anlaşılırlığı:** Çuvaşça %0, Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kazakça %0, Karakalpakça %0, Sibirya Tatarcası %0, Kırgızca %0, Tuvaca %70, Özbekçe %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Uygurca %100, Sahaca %100.
 

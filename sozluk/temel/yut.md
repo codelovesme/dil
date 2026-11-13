@@ -5,7 +5,7 @@
 - **Anlam:** Yutmak.
 - **İngilizce:** swallow
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,13 +22,13 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yut](../kok/yut.md) | türkçe | 0.62 (*yut*) | Sahaca %0 | Ana Türkçe (2 hat) | ~183 milyon (%95, *yut*) | *yut- |
-| [azır](../kok/azır.md) | türkçe | -0.38 (*azır*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~0 milyon (%0, *ajır*) |  |
+| [yut](../kok/yut.md) | türkçe | 0.60 (*yut*) | Sahaca %0 | Ana Türkçe (2 hat) | ~183 milyon (%95, *yut*) | *yut- |
+| [azır](../kok/azır.md) | türkçe | -0.37 (*azır*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~55 milyon (%29, *azır*) |  |
 | [siñir](../kok/siñir.md) | türkçe | seçilemez | | | |  |
-| [ıyıhın](../kok/ıyıhın.md) | türkçe | -0.41 (*ıyıhın*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *ıyıhın*) |  |
-| [batır](../kok/batır.md) | türkçe | -0.50 (*batır*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *batır*) |  |
-| [ux-yut](../kok/ux-yut.md) | türkçe | -0.45 (*ux*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *ux*) |  |
-| [oorta](../kok/oorta.md) | türkçe | -0.47 (*oorta*) | Çuvaşça %0 | Şorca (1 hat) | ~0 milyon (%0, *oorta*) |  |
+| [ıyıhın](../kok/ıyıhın.md) | türkçe | -0.40 (*ıyıhın*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *ıyıhın*) |  |
+| [batır](../kok/batır.md) | türkçe | -0.49 (*batır*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *batır*) |  |
+| [ux-yut](../kok/ux-yut.md) | türkçe | -0.44 (*ux*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *ux*) |  |
+| [oorta](../kok/oorta.md) | türkçe | -0.47 (*oorta*) | Çuvaşça %0 | Şorca (1 hat) | ~60 milyon (%31, *oorta*) |  |
 
 **Büyük topluluklarda *yut* biçiminin anlaşılırlığı:** Sahaca %0, Tuvaca %0, Çuvaşça %71, Azerbaycan Türkçesi %75, Türkmence %80, Başkurtça %92, Kazakça %92, Uygurca %92, Tatarca %92, Karaçay-Malkarca %92, Karakalpakça %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100, Özbekçe %100.
 
@@ -83,7 +83,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yut | yut | yut | yut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | cut | cut | cut | cut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | cut | cut | cut | cut |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | jut | jut | jut |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | yut | jut | jut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | jut | jut | jut | jut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jut | jut | jut | jut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | jut | jut | jut | jut |

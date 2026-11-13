@@ -5,7 +5,7 @@
 - **Anlam:** Tutmak, yakalamak.
 - **İngilizce:** hold, grasp
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -23,7 +23,7 @@
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
 | [tut](../kok/tut.md) | türkçe | 1.14 (*tut*) | Kazakça %50 | Ana Türkçe (2 hat) | ~191 milyon (%98, *tut*) | *tut- |
-| [usta](../kok/usta.md) | türkçe | -0.45 (*usta*) | Çuvaşça %0 | Kazakça (1 hat) | ~43 milyon (%22, *usta*) |  |
+| [usta](../kok/usta.md) | türkçe | -0.45 (*usta*) | Çuvaşça %0 | Kazakça (1 hat) | ~84 milyon (%44, *usta*) |  |
 
 **Büyük topluluklarda *tut* biçiminin anlaşılırlığı:** Kazakça %50, Kırgızca %80, Çuvaşça %88, Başkurtça %92, Tatarca %92, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 

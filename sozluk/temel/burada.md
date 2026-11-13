@@ -5,7 +5,7 @@
 - **Anlam:** Bu yerde.
 - **İngilizce:** here
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **munda** | [bunda](../kok/bunda.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **bunta** | [bunda](../kok/bunda.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **bunda** | [bunda](../kok/bunda.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **munda** | [bunda](../kok/bunda.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [bunda](../kok/bunda.md) (seviye 0), [burada](../kok/burada.md) (seviye 0), [bu yerde](../kok/bu yerde.md) (seviye 0) |
 
 İlk üç hedef **uyuşuyor**.
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bunda](../kok/bunda.md) | türkçe | 0.72 (*munda*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~85 milyon (%44, *bunda*) | *bunda |
-| [burada](../kok/burada.md) | türkçe | -0.34 (*burada*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~117 milyon (%60, *burada*) |  |
-| [bu yerde](../kok/bu yerde.md) | türkçe | -0.26 (*bu yerde*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~108 milyon (%56, *bu yerde*) |  |
+| [bunda](../kok/bunda.md) | türkçe | 0.71 (*munda*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~111 milyon (%57, *munda*) | *bunda |
+| [burada](../kok/burada.md) | türkçe | -0.34 (*burada*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~144 milyon (%74, *burada*) |  |
+| [bu yerde](../kok/bu yerde.md) | türkçe | -0.25 (*bu yerda*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~117 milyon (%60, *bu yerde*) |  |
 
 **Büyük topluluklarda *munda* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Özbekçe %0, Uygurca %0, Başkurtça %82, Sahaca %82, Çuvaşça %85, Karakalpakça %90, Karaçay-Malkarca %92, Sibirya Tatarcası %92, Kırgızca %92, Kırım Tatarcası %93, Tuvaca %93, Tatarca %95, Kumukça %100, Kazakça %100.
 
@@ -34,11 +34,11 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | munda | bunta | bunda |  |
+| **Türk dilleri** | munda | bunta | munda |  |
 | &nbsp;&nbsp;**Oğur kolu** | kunta | kunta | kunta |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | kunta | kunta | kunta | kunta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kunta | kunta | kunta | kunta |
-| &nbsp;&nbsp;**Ortak Türkçe** | munda | bunta | bunda |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | munda | bunta | munda |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | buoda | buoda | buoda |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | buoda | buoda | buoda | buoda |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *burada* (burada) | *burada* (burada) | *burada* (burada) |  |

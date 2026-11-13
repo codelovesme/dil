@@ -5,7 +5,7 @@
 - **Anlam:** Yıkamak.
 - **İngilizce:** wash
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yu](../kok/yu.md) | türkçe | 0.88 (*yu*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~146 milyon (%76, *yu*) | *yū- |
-| [yıka](../kok/yıka.md) | türkçe | -0.40 (*yıka*) | Çuvaşça %0 | Türkiye-Balkan grubu (2 hat) | ~112 milyon (%58, *yıka*) |  |
-| [yayka](../kok/yayka.md) | türkçe | -0.47 (*yayka*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~0 milyon (%0, *yayka*) |  |
+| [yu](../kok/yu.md) | türkçe | 0.89 (*yu*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~147 milyon (%76, *yu*) | *yū- |
+| [yıka](../kok/yıka.md) | türkçe | -0.39 (*yıka*) | Çuvaşça %0 | Türkiye-Balkan grubu (2 hat) | ~139 milyon (%71, *yıka*) |  |
+| [yayka](../kok/yayka.md) | türkçe | -0.47 (*yayka*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *yayka*) |  |
 
 **Büyük topluluklarda *yu* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Sahaca %62, Tuvaca %67, Çuvaşça %75, Başkurtça %75, Kumukça %75, Karaçay-Malkarca %75, Karakalpakça %75, Kırgızca %75, Uygurca %75, Türkmence %83, Tatarca %83, Kırım Tatarcası %83, Özbekçe %83, Kazakça %88, Azerbaycan Türkçesi %100, Sibirya Tatarcası %100.
 
@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yuv | yuv | yuv | yuv |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yuv ↑ | yuv ↑ | yuv ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yu | yu | *yu* (yu) | yu |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yuw | yuu | ju |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yu | yuu | ju |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yuw | yuw | yuw |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yuw | yuw | yuw | yuw |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yuw | yuw | yuw | yuw |
@@ -89,7 +89,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | yu | yu | yu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yu ↑ | yu ↑ | yu ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | yu | yu | yu | yu |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | juu | juu | juu |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | dun | juu | juu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | juu | juu | juu | juu |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | juu | juu | juu | juu |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | dun | dun | dun | dun |
@@ -116,14 +116,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | çu | çu | çu | çu |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | çu ↑ | çu ↑ | çu ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | çu ↑ | çu ↑ | çu ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | çun | çun | çuğ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | çuğ | çun | çuğ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | çuğ | çuğ | çuğ | çuğ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çuğ | çuğ | çuğ | çuğ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | çun | çun | çun | çun |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çun | çun | çun | çun |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | çun | çun | çun | çun |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çun | çun | çun | çun |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çun ↑ | çun ↑ | çuğ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çuğ ↑ | çun ↑ | çuğ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | *yayka* (yayka) | *yayka* (yayka) | *yayka* (yayka) | yayka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yayka | yayka | yayka | yayka |
 

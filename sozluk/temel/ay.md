@@ -5,7 +5,7 @@
 - **Anlam:** Ay (gök cismi ve zaman birimi).
 - **İngilizce:** moon; month
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ay](../kok/ay.md) | türkçe | 1.15 (*ay*) | Çuvaşça %66 | Ana Türkçe (2 hat) | ~186 milyon (%96, *ay*) | *āy |
+| [ay](../kok/ay.md) | türkçe | 1.14 (*ay*) | Çuvaşça %66 | Ana Türkçe (2 hat) | ~186 milyon (%96, *ay*) | *āy |
 
 **Büyük topluluklarda *ay* biçiminin anlaşılırlığı:** Çuvaşça %66, Özbekçe %81, Sahaca %81, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
 

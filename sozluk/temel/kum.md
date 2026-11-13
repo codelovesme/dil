@@ -5,7 +5,7 @@
 - **Anlam:** Kum.
 - **İngilizce:** sand
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %73 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kum](../kok/kum.md) | türkçe | 0.92 (*kum*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~187 milyon (%97, *kum*) | *kum |
-| [çäge](../kok/çäge.md) | türkçe | -0.40 (*çäge*) | Çuvaşça %0 | Türkmence (1 hat) | ~69 milyon (%35, *çäge*) |  |
-| [xăyăr](../kok/xăyăr.md) | türkçe | -0.38 (*xăyăr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *xăyăr*) |  |
+| [kum](../kok/kum.md) | türkçe | 0.91 (*kum*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~188 milyon (%97, *kum*) | *kum |
+| [çäge](../kok/çäge.md) | türkçe | -0.41 (*çäge*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *çäge*) |  |
+| [xăyăr](../kok/xăyăr.md) | türkçe | -0.36 (*xăyăr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *xăyăr*) |  |
 
 **Büyük topluluklarda *kum* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkmence %0, Sahaca %80, Kazakça %83, Başkurtça %92, Kumukça %92, Tatarca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

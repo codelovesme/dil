@@ -5,7 +5,7 @@
 - **Anlam:** Delik.
 - **İngilizce:** hole
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [teşik](../kok/teşik.md) | türkçe | 0.49 (*teşik*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~153 milyon (%79, *deşik*) | *teĺik |
-| [delik](../kok/delik.md) | türkçe | -0.35 (*delik*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *delik*) | *tel-ik |
-| [üt](../kok/üt.md) | türkçe | -0.24 (*üyt*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~11 milyon (%5, *üyt*) | *üt |
-| [teplük](../kok/teplük.md) | türkçe | -0.45 (*teplük*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *teplük*) |  |
-| [xayağas](../kok/xayağas.md) | türkçe | -0.42 (*xayağas*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *xayağas*) |  |
-| [şătăk](../kok/şătăk.md) | türkçe | -0.39 (*şătăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şătăk*) |  |
+| [teşik](../kok/teşik.md) | türkçe | 0.45 (*teşik*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~153 milyon (%79, *deşik*) | *teĺik |
+| [delik](../kok/delik.md) | türkçe | -0.35 (*delik*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~140 milyon (%72, *delik*) | *tel-ik |
+| [üt](../kok/üt.md) | türkçe | -0.24 (*üyt*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~67 milyon (%35, *üyt*) | *üt |
+| [teplük](../kok/teplük.md) | türkçe | -0.44 (*teplük*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *teplük*) |  |
+| [xayağas](../kok/xayağas.md) | türkçe | -0.41 (*xayağas*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *xayağas*) |  |
+| [şătăk](../kok/şătăk.md) | türkçe | -0.37 (*şătăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şătăk*) |  |
 
 **Büyük topluluklarda *teşik* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Sahaca %0, Tatarca %85, Başkurtça %85, Uygurca %85, Tuvaca %85, Kazakça %95, Azerbaycan Türkçesi %95, Türkmence %95, Karakalpakça %95, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100.
 

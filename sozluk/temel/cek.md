@@ -5,7 +5,7 @@
 - **Anlam:** Çekmek.
 - **İngilizce:** pull
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tart](../kok/tart.md) | türkçe | 0.96 (*tart*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~131 milyon (%67, *tart*) | *tart- |
-| [çek](../kok/çek.md) | türkçe | -0.18 (*çek*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~114 milyon (%59, *çek*) | *ček- |
+| [tart](../kok/tart.md) | türkçe | 0.95 (*tart*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~138 milyon (%71, *tart*) | *tart- |
+| [çek](../kok/çek.md) | türkçe | -0.17 (*çek*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~141 milyon (%73, *çek*) | *ček- |
 
 **Büyük topluluklarda *tart* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Çuvaşça %91, Özbekçe %91, Tuvaca %91, Türkmence %94, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Sahaca %100.
 
@@ -40,8 +40,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | tart | tart | tart |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | *çäk* (çek) | *çäk* (çek) | *çäk* (çek) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | çäk | çäk | çäk | çäk |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | dart | dart | *çek* (çek) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *çek* (çek) | *çek* (çek) | çek |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *çek* (çek) | dart | *çek* (çek) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | çek | *çek* (çek) | çek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | çek | çek | çek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | çek | çek | çek | çek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çek | çek | çek | çek |
@@ -52,13 +52,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | çäk | çäk | çäk | çäk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çäk | çäk | çäk | çäk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | çäk ↑ | çäk ↑ | çäk ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | dart ↑ | dart ↑ | çek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | dart ↑ | dart ↑ | çek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | dart | dart | *dart* (tart) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | çek ↑ | dart ↑ | çek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | çek ↑ | dart ↑ | çek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | *dart* (tart) | dart | *dart* (tart) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | dart | dart | dart | dart |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dart | dart | dart | dart |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | dart ↑ | dart ↑ | dart ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | taat | taat | *taat* (tart) | taat |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *taat* (tart) | taat | *taat* (tart) | taat |
 | &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tart | tart | tart |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tart | tart | tart |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tart | tart | tart | tart |

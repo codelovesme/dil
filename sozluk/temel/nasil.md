@@ -5,7 +5,7 @@
 - **Anlam:** Durumu, biçimi soran soru sözü.
 - **İngilizce:** how
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,14 +22,14 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [neçük](../kok/neçük.md) | türkçe | 0.25 (*neçuk*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~125 milyon (%65, *necä*) | *ne-čük |
-| [kalay](../kok/kalay.md) | türkçe | -0.42 (*kalay*) | Çuvaşça %0 | Başkurtça (1 hat) | ~11 milyon (%6, *kalay*) |  |
-| [kanday](../kok/kanday.md) | türkçe | -0.18 (*kanday*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~66 milyon (%34, *kanday*) |  |
-| [kaydı](../kok/kaydı.md) | türkçe | -0.34 (*kayde*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~1 milyon (%0, *haydah*) |  |
+| [neçük](../kok/neçük.md) | türkçe | 0.23 (*neçuk*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~126 milyon (%65, *necä*) | *ne-čük |
+| [kalay](../kok/kalay.md) | türkçe | -0.41 (*kalay*) | Çuvaşça %0 | Başkurtça (1 hat) | ~55 milyon (%28, *kalay*) |  |
+| [kanday](../kok/kanday.md) | türkçe | -0.16 (*kanday*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~112 milyon (%58, *kandak*) |  |
+| [kaydı](../kok/kaydı.md) | türkçe | -0.33 (*haydah*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~60 milyon (%31, *kayde*) |  |
 | nasıl | alıntı:ar | seçilemez | | | |  |
 | nähili | belirsiz | seçilemez | | | |  |
-| [netäg](../kok/netäg.md) | türkçe | -0.45 (*nätäydä*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *nätäydä*) |  |
-| [mĕnle](../kok/mĕnle.md) | türkçe | -0.39 (*mĕnle*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *mĕnle*) |  |
+| [netäg](../kok/netäg.md) | türkçe | -0.44 (*nätäydä*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *nätäydä*) |  |
+| [mĕnle](../kok/mĕnle.md) | türkçe | -0.38 (*mĕnle*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *mĕnle*) |  |
 
 - ⚠ **Canlandırma:** *neçük* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -108,7 +108,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | kandak | kandak | kandak | kandak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kandak | kandak | kandak | kandak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | kandak ↑ | kandak ↑ | kandak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *kayde* (kaydı) | *haydah* (kaydı) | *haydah* (kaydı) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *haydah* (kaydı) | *haydah* (kaydı) | *haydah* (kaydı) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | haydah | haydah | haydah |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | haydah | haydah | haydah | haydah |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | haydah | haydah | haydah | haydah |

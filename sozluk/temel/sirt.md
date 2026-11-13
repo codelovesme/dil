@@ -5,7 +5,7 @@
 - **Anlam:** Sırt, arka.
 - **İngilizce:** back
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,13 +22,13 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [arka](../kok/arka.md) | türkçe | 0.84 (*arka*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~187 milyon (%96, *arka*) | *arka |
-| [sırt](../kok/sırt.md) | türkçe | -0.43 (*sırt*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~1 milyon (%0, *sırt*) |  |
-| [kögüz](../kok/kögüz.md) | türkçe | -0.40 (*köğüs*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~0 milyon (%0, *köğüs*) | *kȫküŕ |
-| [bel](../kok/bel.md) | türkçe | -0.47 (*bel*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~10 milyon (%5, *bel*) |  |
-| [çaarın](../kok/çaarın.md) | türkçe | -0.49 (*çaarın*) | Çuvaşça %0 | Çulımca (1 hat) | ~0 milyon (%0, *çaarın*) |  |
+| [arka](../kok/arka.md) | türkçe | 0.83 (*arka*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~187 milyon (%96, *arka*) | *arka |
+| [sırt](../kok/sırt.md) | türkçe | -0.45 (*sırt*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~87 milyon (%45, *sırt*) |  |
+| [kögüz](../kok/kögüz.md) | türkçe | -0.39 (*köğüs*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~60 milyon (%31, *köksü*) | *kȫküŕ |
+| [bel](../kok/bel.md) | türkçe | -0.46 (*bel*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~67 milyon (%34, *bel*) |  |
+| [çaarın](../kok/çaarın.md) | türkçe | -0.49 (*çaarın*) | Çuvaşça %0 | Çulımca (1 hat) | ~55 milyon (%28, *çaarın*) |  |
 | [his](../kok/his.md) | türkçe | -0.49 (*his*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *his*) |  |
-| [şurăm](../kok/şurăm.md) | türkçe | -0.39 (*şurăm*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şurăm*) |  |
+| [şurăm](../kok/şurăm.md) | türkçe | -0.38 (*şurăm*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şurăm*) |  |
 
 **Büyük topluluklarda *arka* biçiminin anlaşılırlığı:** Çuvaşça %0, Karaçay-Malkarca %0, Sahaca %0, Tuvaca %78, Özbekçe %91, Azerbaycan Türkçesi %94, Sibirya Tatarcası %94, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100.
 
@@ -105,12 +105,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | arka | arka | arka | arka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | arka | arka | arka | arka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | arka ↑ | arka ↑ | arka ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | arka | *köğüs* (kögüz) | arka |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *köğüs* (kögüz) | *his* (his) | *köğüs* (kögüz) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | arka | *köğüs* (kögüz) | *köğüs* (kögüz) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *köğüs* (kögüz) | *his* (his) | köğüs |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | köğüs | *köğüs* (kögüz) | köğüs | köğüs |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köğüs | köğüs | köğüs | köğüs |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | *his* (his) | his | *his* (his) | his |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | arka | *arka* (arka) | oorğa |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | arka | *arka* (arka) | *oorğa* (arka) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | arka | arka | arka | arka |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | oorğa | oorğa | oorğa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | oorğa | oorğa | oorğa |  |

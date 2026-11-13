@@ -5,7 +5,7 @@
 - **Anlam:** Kurt, solucan.
 - **İngilizce:** worm
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kurt](../kok/kurt.md) | türkçe | 0.92 (*kurt*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~176 milyon (%91, *kurt*) | *kurt |
-| [seläwsen](../kok/seläwsen.md) | türkçe | -0.42 (*seläwsen*) | Çuvaşça %0 | Başkurtça (1 hat) | ~11 milyon (%6, *seläwsen*) |  |
-| [sugulcıñ](../kok/sugulcıñ.md) | türkçe | -0.44 (*sugulcıñ*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *sugulcıñ*) |  |
-| [çuvalçañ](../kok/çuvalçañ.md) | türkçe | -0.42 (*çuvalçañ*) | Çuvaşça %0 | Özbekçe (1 hat) | ~56 milyon (%29, *çuvalçañ*) |  |
+| [kurt](../kok/kurt.md) | türkçe | 0.88 (*kurt*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~173 milyon (%89, *kurt*) | *kurt |
+| [seläwsen](../kok/seläwsen.md) | türkçe | -0.41 (*seläwsen*) | Çuvaşça %0 | Başkurtça (1 hat) | ~55 milyon (%28, *seläwsen*) |  |
+| [sugulcıñ](../kok/sugulcıñ.md) | türkçe | -0.44 (*sugulcıñ*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *sugulcıñ*) |  |
+| [çuvalçañ](../kok/çuvalçañ.md) | türkçe | -0.40 (*çuvalçañ*) | Çuvaşça %0 | Özbekçe (1 hat) | ~99 milyon (%51, *çuvalçañ*) |  |
 
 **Büyük topluluklarda *kurt* biçiminin anlaşılırlığı:** Başkurtça %0, Özbekçe %0, Türkmence %71, Kazakça %88, Uygurca %90, Çuvaşça %94, Azerbaycan Türkçesi %94, Tatarca %94, Kumukça %94, Sibirya Tatarcası %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
 

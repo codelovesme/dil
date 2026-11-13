@@ -5,7 +5,7 @@
 - **Anlam:** Ekşi.
 - **İngilizce:** sour
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %61 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %58 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [açığ](../kok/açığ.md) | türkçe | 0.26 (*açığ*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~55 milyon (%29, *aççik*) | *ačïg |
-| [ekşi](../kok/ekşi.md) | türkçe | -0.09 (*ekşi*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~112 milyon (%58, *ekşi*) | *ekšig |
-| [yüşĕ](../kok/yüşĕ.md) | türkçe | -0.35 (*yüşĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yüşĕ*) |  |
-| [kıçkıl](../kok/kıçkıl.md) | türkçe | -0.36 (*kışkıl*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~44 milyon (%23, *kışkıl*) |  |
-| [mıstı](../kok/mıstı.md) | türkçe | -0.40 (*mıstı*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~1 milyon (%0, *mıstı*) |  |
-| [kucur](../kok/kucur.md) | türkçe | -0.49 (*kucur*) | Çuvaşça %0 | Karayca (1 hat) | ~0 milyon (%0, *kucur*) |  |
+| [açığ](../kok/açığ.md) | türkçe | 0.29 (*açığ*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~107 milyon (%55, *aççı*) | *ačïg |
+| [ekşi](../kok/ekşi.md) | türkçe | -0.10 (*ekşi*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~149 milyon (%77, *ekşi*) | *ekšig |
+| [yüşĕ](../kok/yüşĕ.md) | türkçe | -0.33 (*yüşĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yüşĕ*) |  |
+| [kıçkıl](../kok/kıçkıl.md) | türkçe | -0.36 (*kışkıl*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~90 milyon (%47, *kıçkıl*) |  |
+| [mıstı](../kok/mıstı.md) | türkçe | -0.43 (*mıstı*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~87 milyon (%45, *mıstı*) |  |
+| [kucur](../kok/kucur.md) | türkçe | -0.50 (*kucur*) | Çuvaşça %0 | Karayca (1 hat) | ~99 milyon (%51, *kucur*) |  |
 
 **Büyük topluluklarda *açığ* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Kırım Tatarcası %0, Karaçay-Malkarca %0, Kazakça %0, Kırgızca %0, Başkurtça %66, Tatarca %72, Kumukça %75, Sahaca %75, Uygurca %80, Tuvaca %94.
 

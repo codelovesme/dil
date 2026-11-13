@@ -5,7 +5,7 @@
 - **Anlam:** Duman (ateşin dumanı).
 - **İngilizce:** smoke
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tütün](../kok/tütün.md) | türkçe | 0.75 (*tütün*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~155 milyon (%80, *tütün*) | *tütün |
-| [duman](../kok/duman.md) | türkçe | -0.44 (*duman*) | Çuvaşça %0 | Türkiye Türkçesi (1 hat) | ~112 milyon (%58, *duman*) | *tuman |
-| [ıs](../kok/ıs.md) | türkçe | -0.29 (*ıs*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~48 milyon (%25, *is*) | *ïš |
-| [buruo](../kok/buruo.md) | türkçe | -0.41 (*buruo*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *buruo*) |  |
+| [tütün](../kok/tütün.md) | türkçe | 0.72 (*tütün*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~154 milyon (%80, *tütün*) | *tütün |
+| [duman](../kok/duman.md) | türkçe | -0.44 (*duman*) | Çuvaşça %0 | Türkiye Türkçesi (1 hat) | ~139 milyon (%71, *duman*) | *tuman |
+| [ıs](../kok/ıs.md) | türkçe | -0.28 (*ıs*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~99 milyon (%51, *is*) | *ïš |
+| [buruo](../kok/buruo.md) | türkçe | -0.40 (*buruo*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *buruo*) |  |
 
 **Büyük topluluklarda *tütün* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Uygurca %0, Sahaca %0, Tuvaca %0, Türkmence %70, Çuvaşça %80, Azerbaycan Türkçesi %80, Tatarca %88, Sibirya Tatarcası %88, Başkurtça %90, Özbekçe %90, Karakalpakça %92, Kazakça %93, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100.
 
@@ -44,12 +44,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | titün | titün | titün | titün |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | tütün | tütün | tütün |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | tütün | tütün | tütün |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | tütün | *duman* (duman) | *duman* (duman) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | *duman* (duman) | duman | duman | duman |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | *duman* (duman) | *duman* (duman) | *duman* (duman) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | duman | duman | duman | duman |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | duman | duman | duman | duman |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | tütün | *tütün* (tütün) | *tütün* (tütün) | tütün |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | *tütün* (tütün) | *tütün* (tütün) | *tütün* (tütün) | tütün |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tütün | tütün | tütün | tütün |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | tütün ↑ | duman ↑ | duman ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | duman ↑ | duman ↑ | duman ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | tüstü | tüstü | tüstü |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | tüstü | tüstü | tüstü | tüstü |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tüstü | tüstü | tüstü | tüstü |

@@ -5,7 +5,7 @@
 - **Anlam:** Emmek.
 - **İngilizce:** suck
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **sor** | [sor](../kok/sor.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **em** | [em](../kok/em.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **sor** | [sor](../kok/sor.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **em** | [em](../kok/em.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [sor](../kok/sor.md) (seviye 0), [em](../kok/em.md) (seviye 0) |
 
 İlk üç hedef **ayrişiyor**.
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sor](../kok/sor.md) | türkçe | 0.53 (*sor*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~151 milyon (%78, *sor*) | *sor- |
-| [em](../kok/em.md) | türkçe | 0.12 (*em*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~114 milyon (%59, *em*) | *em- |
+| [sor](../kok/sor.md) | türkçe | 0.54 (*sor*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~151 milyon (%78, *sor*) | *sor- |
+| [em](../kok/em.md) | türkçe | 0.11 (*em*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~153 milyon (%79, *em*) | *em- |
 
 **Büyük topluluklarda *sor* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Kırım Tatarcası %0, Karaçay-Malkarca %0, Sahaca %0, Tatarca %81, Uygurca %81, Başkurtça %83, Özbekçe %83, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
 
@@ -33,14 +33,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | sor | em | sor |  |
-| &nbsp;&nbsp;**Oğur kolu** | *ĕm* (em) | ĕm | *ĕm* (em) |  |
+| **Türk dilleri** | sor | em | em |  |
+| &nbsp;&nbsp;**Oğur kolu** | *ĕm* (em) | ĕm | ĕm |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | ĕm | ĕm | ĕm | ĕm |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ĕm | ĕm | ĕm | ĕm |
-| &nbsp;&nbsp;**Ortak Türkçe** | sor | *sor* (sor) | sor |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | suor | suor | suor |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | sor | *sor* (sor) | em |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | suor | suor | *suor* (sor) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | suor | suor | suor | suor |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | sor | sor | *em* (em) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | sor | sor | em |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *em* (em) | *em* (em) | em |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | em | em | em |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | em | em | em | em |
@@ -59,7 +59,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sor | sor | sor | sor |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | sor ↑ | sor ↑ | sor ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | sor ↑ | sor ↑ | em ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | sor | sor | sor |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | sor | sor | *sor* (sor) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | hur | hur | suır |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | suır | suır | suır | suır |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | suır | suır | suır | suır |
@@ -92,14 +92,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sor | sor | sor | sor |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | soor | soor | soor | soor |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | soor | soor | soor | soor |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | sọr | sọr | sọr |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | sọr | sọr | *sọr* (sor) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | sọr | sọr | sọr | sọr |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sọr | sọr | sọr | sọr |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | şora | şora | şora |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | şora | şora | şora | şora |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şora | şora | şora | şora |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | şora ↑ | şora ↑ | şora ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | sor | *em* (em) | *em* (em) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | sor | *em* (em) | em |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *em* (em) | em | em |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | em | em | em | em |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | em | em | em | em |

@@ -5,7 +5,7 @@
 - **Anlam:** Yüzmek (suda).
 - **İngilizce:** swim
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %72 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %69 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yüz](../kok/yüz.md) | türkçe | 0.82 (*yüz*) | Kırım Tatarcası %0 | Ortak Türkçe (6 hat) | ~174 milyon (%90, *yüz*) | *yüŕ- |
-| [yalda](../kok/yalda.md) | türkçe | -0.42 (*yalda*) | Türkiye Türkçesi %0 | Kıpçak kolu (2 hat) | ~56 milyon (%29, *yalda*) |  |
-| [çom](../kok/çom.md) | türkçe | -0.44 (*çum*) | Türkiye Türkçesi %0 | Salarca (1 hat) | ~8 milyon (%4, *çum*) |  |
-| [eşt](../kok/eşt.md) | türkçe | -0.41 (*eşt*) | Türkiye Türkçesi %0 | Sayan (2 hat) | ~0 milyon (%0, *eşt*) |  |
-| [kirun](../kok/kirun.md) | türkçe | -0.44 (*kirun*) | Türkiye Türkçesi %0 | Halaçça (1 hat) | ~5 milyon (%2, *kirun*) |  |
+| [yüz](../kok/yüz.md) | türkçe | 0.80 (*yüz*) | Kırım Tatarcası %0 | Ortak Türkçe (6 hat) | ~174 milyon (%90, *yüz*) | *yüŕ- |
+| [yalda](../kok/yalda.md) | türkçe | -0.44 (*yalda*) | Türkiye Türkçesi %0 | Kıpçak kolu (2 hat) | ~108 milyon (%56, *yalda*) |  |
+| [çom](../kok/çom.md) | türkçe | -0.43 (*çum*) | Türkiye Türkçesi %0 | Salarca (1 hat) | ~69 milyon (%36, *çum*) |  |
+| [eşt](../kok/eşt.md) | türkçe | -0.40 (*eşt*) | Türkiye Türkçesi %0 | Sayan (2 hat) | ~44 milyon (%22, *eşt*) |  |
+| [kirun](../kok/kirun.md) | türkçe | -0.43 (*kirun*) | Türkiye Türkçesi %0 | Halaçça (1 hat) | ~64 milyon (%33, *kirun*) |  |
 
 **Büyük topluluklarda *yüz* biçiminin anlaşılırlığı:** Kırım Tatarcası %0, Tuvaca %0, Özbekçe %75, Gagavuzca %83, Azerbaycan Türkçesi %83, Kırgızca %83, Uygurca %83, Başkurtça %92, Kazakça %92, Tatarca %92, Karaçay-Malkarca %92, Karakalpakça %92, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Türkmence %100, Kumukça %100.
 
@@ -91,7 +91,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | yüs | yüs | yüs |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yüs ↑ | yüs ↑ | yüs ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | yüs | yüs | yüs | yüs |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | süz | süz | süz |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | düs | süz | süz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | süz | süz | süz | süz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | süz | süz | süz | süz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | düs | düs | düs | düs |

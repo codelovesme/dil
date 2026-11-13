@@ -5,7 +5,7 @@
 - **Anlam:** İnce (yassı şey için yuka, uzun şey için ince).
 - **İngilizce:** thin
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yuka](../kok/yuka.md) | türkçe | 0.79 (*yuka*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~125 milyon (%64, *yuka*) | *yuka |
-| [ince](../kok/ince.md) | türkçe | -0.29 (*ince*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~115 milyon (%59, *ince*) | *inčge |
-| [sinnyiges](../kok/sinnyiges.md) | türkçe | -0.40 (*sinnyiges*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *sinnyiges*) |  |
+| [yuka](../kok/yuka.md) | türkçe | 0.79 (*yuka*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~129 milyon (%67, *yuka*) | *yuka |
+| [ince](../kok/ince.md) | türkçe | -0.30 (*ince*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~148 milyon (%76, *ince*) | *inčge |
+| [sinnyiges](../kok/sinnyiges.md) | türkçe | -0.39 (*sinnyiges*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *sinnyiges*) |  |
 
 **Büyük topluluklarda *yuka* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Sahaca %0, Çuvaşça %81, Tuvaca %81, Kırım Tatarcası %90, Özbekçe %90, Uygurca %90, Başkurtça %94, Karaçay-Malkarca %94, Kazakça %94, Karakalpakça %94, Kırgızca %94, Türkmence %100, Tatarca %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Birkaçı arasından seçmeyi soran söz.
 - **İngilizce:** which
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -13,17 +13,17 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **kaysı** | [kayu](../kok/kayu.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **kayım** | [kayu](../kok/kayu.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **kaysı** | [kayu](../kok/kayu.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **hangi** | [kañı](../kok/kañı.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [kayu](../kok/kayu.md) (seviye 0), [kañı](../kok/kañı.md) (seviye 0) |
 
-İlk üç hedef **uyuşuyor**.
+İlk üç hedef **ayrişiyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kayu](../kok/kayu.md) | türkçe | 0.87 (*kaysı*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~146 milyon (%75, *kaysı*) | *kayu |
-| [kañı](../kok/kañı.md) | türkçe | -0.25 (*hangi*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *hangi*) | *kaŋu |
+| [kayu](../kok/kayu.md) | türkçe | 0.86 (*kaysı*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~150 milyon (%77, *kaysı*) | *kayu |
+| [kañı](../kok/kañı.md) | türkçe | -0.25 (*hangi*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~139 milyon (%71, *hangi*) | *kaŋu |
 
 **Büyük topluluklarda *kaysı* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Çuvaşça %68, Sahaca %78, Azerbaycan Türkçesi %85, Karakalpakça %86, Tuvaca %90, Sibirya Tatarcası %92, Başkurtça %95, Özbekçe %95, Uygurca %95, Türkmence %95, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Kırgızca %100.
 
@@ -33,14 +33,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | kaysı | kayım | kaysı |  |
-| &nbsp;&nbsp;**Oğur kolu** | xăşĕ | xăşĕ | xăşĕ |  |
+| **Türk dilleri** | kaysı | kayım | hangi |  |
+| &nbsp;&nbsp;**Oğur kolu** | xăşĕ | xăşĕ | *xăşĕ* (kayu) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | xăşĕ | xăşĕ | xăşĕ | xăşĕ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xăşĕ | xăşĕ | xăşĕ | xăşĕ |
-| &nbsp;&nbsp;**Ortak Türkçe** | kaysı | kayım | kaysı |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kaysı ↑ | kayım ↑ | kaysı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kaysı ↑ | kayım ↑ | kaysı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | haysı | hansı | *hangi* (kañı) |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | kaysı | kayım | hangi |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kaysı ↑ | kayım ↑ | hangi ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kaysı ↑ | kayım ↑ | hangi ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | haysı | hansı | hangi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *hangi* (kañı) | *hangi* (kañı) | hangi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | hangi | hangi | hangi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | hangi | hangi | hangi | hangi |
@@ -59,7 +59,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | haysı | haysı | haysı | haysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | haysı ↑ | haysı ↑ | haysı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | kaysı | kaysı | *kaysı* (kayu) | kaysı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kaysı | kayım | kaysı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kaysı | kayım | *kaysı* (kayu) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kayhı | kaysı | kaysı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
@@ -93,14 +93,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | kajı | kajı | kajı | kajı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kajı | kajı | kajı | kajı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kaysi | kaysi | kaysi |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kaysi | kaysi | *kaysi* (kayu) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | kaysi | kaysi | kaysi | kaysi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysi | kaysi | kaysi | kaysi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | kaysi | kaysi | kaysi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | kaysi | kaysi | kaysi | kaysi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysi | kaysi | kaysi | kaysi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | kaysi ↑ | kaysi ↑ | kaysi ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | kayzı | kaysı | xaya |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | kayzı | kaysı | *xaya* (kayu) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | xaya | xaya | xaya |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | xaya | xaya | xaya | xaya |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xaya | xaya | xaya | xaya |

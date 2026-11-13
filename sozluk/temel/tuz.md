@@ -5,7 +5,7 @@
 - **Anlam:** Tuz.
 - **İngilizce:** salt
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 

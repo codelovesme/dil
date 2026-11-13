@@ -5,7 +5,7 @@
 - **Anlam:** Öldürmek.
 - **İngilizce:** kill
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ölür](../kok/ölür.md) | türkçe | 1.05 (*ölür*) | Tatarca %72 | Ana Türkçe (2 hat) | ~186 milyon (%96, *öldür*) | *ölür- |
+| [ölür](../kok/ölür.md) | türkçe | 1.04 (*ölür*) | Tatarca %72 | Ana Türkçe (2 hat) | ~186 milyon (%96, *öldür*) | *ölür- |
 
 **Büyük topluluklarda *ölür* biçiminin anlaşılırlığı:** Tatarca %72, Sibirya Tatarcası %72, Çuvaşça %75, Başkurtça %78, Kazakça %80, Özbekçe %82, Karakalpakça %82, Türkiye Türkçesi %90, Gagavuzca %90, Azerbaycan Türkçesi %90, Türkmence %90, Kırım Tatarcası %90, Kumukça %90, Karaçay-Malkarca %90, Kırgızca %90, Uygurca %90, Sahaca %94, Tuvaca %100.
 
@@ -36,7 +36,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Oğur kolu** | vĕler | vĕler | vĕler |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | vĕler | vĕler | vĕler | vĕler |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | vĕler | vĕler | vĕler | vĕler |
-| &nbsp;&nbsp;**Ortak Türkçe** | öltür | ölür | öldür |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | ölür | ölür | öldür |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | hiläär | hiläär | hiläär |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | hiläär | hiläär | hiläär | hiläär |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | öldür | öldür | öldür |  |

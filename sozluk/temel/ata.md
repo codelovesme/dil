@@ -5,7 +5,7 @@
 - **Anlam:** Baba.
 - **İngilizce:** father
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ata](../kok/ata.md) | türkçe | 0.55 (*ata*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~155 milyon (%80, *ata*) | *ata |
+| [ata](../kok/ata.md) | türkçe | 0.53 (*ata*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~155 milyon (%80, *ata*) | *ata |
 | baba | belirsiz | seçilemez | | | |  |
-| [aga](../kok/aga.md) | türkçe | -0.41 (*aga*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *aga*) | *aka |
-| [äke](../kok/äke.md) | türkçe | -0.45 (*äke*) | Çuvaşça %0 | Kazakça (1 hat) | ~43 milyon (%22, *äke*) |  |
-| [apa](../kok/apa.md) | türkçe | -0.45 (*apa*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *apa*) |  |
-| [ača](../kok/ača.md) | türkçe | -0.46 (*aça*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *aça*) |  |
+| [aga](../kok/aga.md) | türkçe | -0.40 (*aga*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *aga*) | *aka |
+| [äke](../kok/äke.md) | türkçe | -0.45 (*äke*) | Çuvaşça %0 | Kazakça (1 hat) | ~84 milyon (%44, *äke*) |  |
+| [apa](../kok/apa.md) | türkçe | -0.44 (*apa*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *apa*) |  |
+| [ača](../kok/ača.md) | türkçe | -0.45 (*aça*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *aça*) |  |
 | [kañ](../kok/kañ.md) | türkçe | seçilemez | | | | *kaŋ |
 
 **Büyük topluluklarda *ata* biçiminin anlaşılırlığı:** Gagavuzca %0, Kırım Tatarcası %0, Kazakça %0, Sahaca %0, Türkiye Türkçesi %25, Çuvaşça %81, Özbekçe %88, Tuvaca %92, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.

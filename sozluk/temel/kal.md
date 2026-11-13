@@ -5,7 +5,7 @@
 - **Anlam:** Bir yerde kalmak, geride kalmak.
 - **İngilizce:** remain
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kal](../kok/kal.md) | türkçe | 0.98 (*kal*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~188 milyon (%97, *kal*) | *kāl- |
-| [art](../kok/art.md) | türkçe | -0.42 (*art*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~10 milyon (%5, *art*) | *art- |
-| [yul](../kok/yul.md) | türkçe | -0.39 (*yul*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yul*) |  |
+| [kal](../kok/kal.md) | türkçe | 0.96 (*kal*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~188 milyon (%97, *kal*) | *kāl- |
+| [art](../kok/art.md) | türkçe | -0.41 (*art*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~67 milyon (%34, *art*) | *art- |
+| [yul](../kok/yul.md) | türkçe | -0.38 (*yul*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yul*) |  |
 
 **Büyük topluluklarda *kal* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %81, Özbekçe %88, Türkmence %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
 

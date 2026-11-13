@@ -5,7 +5,7 @@
 - **Anlam:** Kar.
 - **İngilizce:** snow
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kar](../kok/kar.md) | türkçe | 1.06 (*kar*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~188 milyon (%97, *kar*) | *kār |
-| [yur](../kok/yur.md) | türkçe | -0.39 (*yur*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yur*) |  |
+| [kar](../kok/kar.md) | türkçe | 1.04 (*kar*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~188 milyon (%97, *kar*) | *kār |
+| [yur](../kok/yur.md) | türkçe | -0.38 (*yur*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yur*) |  |
 
 **Büyük topluluklarda *kar* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %81, Gagavuzca %88, Özbekçe %88, Tuvaca %92, Türkmence %92, Türkiye Türkçesi %100, Azerbaycan Türkçesi %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 

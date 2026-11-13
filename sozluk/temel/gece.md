@@ -5,7 +5,7 @@
 - **Anlam:** Gece, karanlık vakit.
 - **İngilizce:** night
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tün](../kok/tün.md) | türkçe | 0.44 (*tün*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~64 milyon (%33, *tün*) | *tün |
-| [keçe](../kok/keçe.md) | türkçe | 0.09 (*geçe*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~162 milyon (%83, *gece*) | *kēčä |
-| [şĕr](../kok/şĕr.md) | türkçe | -0.39 (*şĕr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şĕr*) |  |
+| [tün](../kok/tün.md) | türkçe | 0.47 (*tün*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~112 milyon (%58, *tün*) | *tün |
+| [keçe](../kok/keçe.md) | türkçe | 0.04 (*geçe*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~166 milyon (%86, *gece*) | *kēčä |
+| [şĕr](../kok/şĕr.md) | türkçe | -0.38 (*şĕr*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şĕr*) |  |
 
 **Büyük topluluklarda *tün* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Kumukça %0, Karaçay-Malkarca %0, Özbekçe %0, Sahaca %88, Başkurtça %92, Tuvaca %92, Tatarca %92, Sibirya Tatarcası %92, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100.
 

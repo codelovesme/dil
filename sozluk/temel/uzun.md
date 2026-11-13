@@ -5,7 +5,7 @@
 - **Anlam:** Uzun.
 - **İngilizce:** long
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [uzun](../kok/uzun.md) | türkçe | 1.14 (*uzun*) | Çuvaşça %60 | Ana Türkçe (2 hat) | ~190 milyon (%98, *uzun*) | *uŕun |
+| [uzun](../kok/uzun.md) | türkçe | 1.13 (*uzun*) | Çuvaşça %60 | Ana Türkçe (2 hat) | ~190 milyon (%98, *uzun*) | *uŕun |
 
 **Büyük topluluklarda *uzun* biçiminin anlaşılırlığı:** Çuvaşça %60, Tatarca %84, Başkurtça %88, Sahaca %88, Türkmence %91, Kazakça %91, Karakalpakça %91, Sibirya Tatarcası %91, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 

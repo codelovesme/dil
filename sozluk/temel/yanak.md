@@ -5,7 +5,7 @@
 - **Anlam:** Yanak.
 - **İngilizce:** cheek
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %72 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yañak](../kok/yañak.md) | türkçe | 0.54 (*yanak*) | Kazakça %0 | Ortak Türkçe (3 hat) | ~156 milyon (%80, *yanak*) | *yaŋak |
-| [bet](../kok/bet.md) | türkçe | -0.37 (*bet*) | Türkiye Türkçesi %0 | Kıpçak kolu (2 hat) | ~45 milyon (%23, *bet*) |  |
-| [yüz-ad](../kok/yüz-ad.md) | türkçe | -0.41 (*yuz*) | Türkiye Türkçesi %0 | Özbekçe (1 hat) | ~56 milyon (%29, *yuz*) | *yüŕ |
-| [mäñiz](../kok/mäñiz.md) | türkçe | -0.41 (*mäñiz*) | Türkiye Türkçesi %0 | Uygurca (1 hat) | ~48 milyon (%25, *mäñiz*) |  |
-| [iedes](../kok/iedes.md) | türkçe | -0.41 (*iedes*) | Türkiye Türkçesi %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *iedes*) |  |
+| [yañak](../kok/yañak.md) | türkçe | 0.51 (*yanak*) | Kazakça %0 | Ortak Türkçe (3 hat) | ~160 milyon (%83, *yanak*) | *yaŋak |
+| [bet](../kok/bet.md) | türkçe | -0.37 (*bet*) | Türkiye Türkçesi %0 | Kıpçak kolu (2 hat) | ~94 milyon (%49, *bet*) |  |
+| [yüz-ad](../kok/yüz-ad.md) | türkçe | -0.39 (*yuz*) | Türkiye Türkçesi %0 | Özbekçe (1 hat) | ~99 milyon (%51, *yuz*) | *yüŕ |
+| [mäñiz](../kok/mäñiz.md) | türkçe | -0.41 (*mäñiz*) | Türkiye Türkçesi %0 | Uygurca (1 hat) | ~99 milyon (%51, *mäñiz*) |  |
+| [iedes](../kok/iedes.md) | türkçe | -0.40 (*iedes*) | Türkiye Türkçesi %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *iedes*) |  |
 
 **Büyük topluluklarda *yanak* biçiminin anlaşılırlığı:** Kazakça %0, Kırgızca %0, Özbekçe %0, Uygurca %0, Sahaca %0, Tuvaca %80, Karaçay-Malkarca %85, Kumukça %90, Başkurtça %95, Azerbaycan Türkçesi %95, Sibirya Tatarcası %95, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100.
 
@@ -81,14 +81,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yayak | yayak | yayak | yayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | cayak | cayak | cayak | cayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | cayak | cayak | cayak | cayak |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | *bet* (bet) | *bet* (bet) | bet |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | bet | bet | bet | bet |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | yañak | *bet* (bet) | bet |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | *bet* (bet) | bet | bet | bet |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bet | bet | bet | bet |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | bet ↑ | bet ↑ | bet ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bet ↑ | bet ↑ | bet ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | bet | bet | bet | bet |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | yañak ↑ | bet ↑ | bet ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yañak ↑ | bet ↑ | bet ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | *bet* (bet) | bet | bet | bet |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bet | bet | bet | bet |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | *yañak* (yañak) | *yañak* (yañak) | *yañak* (yañak) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | yañak | *yañak* (yañak) | *yañak* (yañak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yañak ↑ | yañak ↑ | yañak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | yañak | yañak | yañak | yañak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | *bet* (bet) | *bet* (bet) | bet |  |

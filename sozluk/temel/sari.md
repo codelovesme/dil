@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sarığ](../kok/sarığ.md) | türkçe | 0.98 (*sarığ*) | Sahaca %0 | Ortak Türkçe (5 hat) | ~185 milyon (%96, *sarı*) | *sarïg |
-| [çakır](../kok/çakır.md) | türkçe | -0.45 (*çakır*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *çakır*) |  |
-| [arağas](../kok/arağas.md) | türkçe | -0.42 (*arağas*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *arağas*) |  |
+| [sarığ](../kok/sarığ.md) | türkçe | 0.97 (*sarığ*) | Sahaca %0 | Ortak Türkçe (5 hat) | ~185 milyon (%96, *sarı*) | *sarïg |
+| [çakır](../kok/çakır.md) | türkçe | -0.44 (*çakır*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *çakır*) |  |
+| [arağas](../kok/arağas.md) | türkçe | -0.41 (*arağas*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *arağas*) |  |
 
 - ⚠ Çuvaşça'daki *sarığ* biçimi Tatarca'dan ödünç olabilir; kök yaşında sayılmadı.
 

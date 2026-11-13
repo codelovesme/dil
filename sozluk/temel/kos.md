@@ -5,7 +5,7 @@
 - **Anlam:** Hızla ilerlemek, koşmak.
 - **İngilizce:** run
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **yügür** | [yügür](../kok/yügür.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **çap** | [çap](../kok/çap.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **yügür** | [yügür](../kok/yügür.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **koş** | [koş](../kok/koş.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [yügür](../kok/yügür.md) (seviye 0), [çap](../kok/çap.md) (seviye 0), [kaç](../kok/kaç.md) (seviye 0), [koş](../kok/koş.md) (seviye 0), [ılga](../kok/ılga.md) (seviye 0), [sun](../kok/sun.md) (seviye 0), [mañna](../kok/mañna.md) (seviye 0) |
 
 İlk üç hedef **ayrişiyor**.
@@ -22,13 +22,13 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yügür](../kok/yügür.md) | türkçe | 0.33 (*yügür*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~73 milyon (%38, *yügür*) | *yügür- |
-| [çap](../kok/çap.md) | türkçe | -0.04 (*çap*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~100 milyon (%52, *çap*) | *čap- |
-| [kaç](../kok/kaç.md) | türkçe | -0.39 (*kaç*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~97 milyon (%50, *kaç*) | *kač- |
-| [koş](../kok/koş.md) | türkçe | -0.40 (*koş*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~112 milyon (%58, *koş*) |  |
-| [ılga](../kok/ılga.md) | türkçe | -0.40 (*ılga*) | Çuvaşça %0 | Türkmence (1 hat) | ~69 milyon (%35, *ılga*) |  |
-| [sun](../kok/sun.md) | türkçe | -0.50 (*sun*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *sun*) |  |
-| [mañna](../kok/mañna.md) | türkçe | -0.43 (*mañna*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *mañna*) |  |
+| [yügür](../kok/yügür.md) | türkçe | 0.36 (*yügür*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~93 milyon (%48, *jügür*) | *yügür- |
+| [çap](../kok/çap.md) | türkçe | -0.08 (*çap*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~125 milyon (%64, *çap*) | *čap- |
+| [kaç](../kok/kaç.md) | türkçe | -0.40 (*kaç*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~123 milyon (%63, *kaç*) | *kač- |
+| [koş](../kok/koş.md) | türkçe | -0.39 (*koş*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~139 milyon (%71, *koş*) |  |
+| [ılga](../kok/ılga.md) | türkçe | -0.41 (*ılga*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *ılga*) |  |
+| [sun](../kok/sun.md) | türkçe | -0.49 (*sun*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *sun*) |  |
+| [mañna](../kok/mañna.md) | türkçe | -0.42 (*mañna*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *mañna*) |  |
 
 **Büyük topluluklarda *yügür* biçiminin anlaşılırlığı:** Çuvaşça %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Kumukça %0, Karaçay-Malkarca %0, Özbekçe %0, Uygurca %0, Tuvaca %0, Türkiye Türkçesi %25, Karakalpakça %72, Sahaca %80, Tatarca %88, Kazakça %88, Sibirya Tatarcası %88, Başkurtça %93, Kırgızca %95.
 
@@ -38,22 +38,22 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | yügür | çap | yügür |  |
+| **Türk dilleri** | yügür | çap | koş |  |
 | &nbsp;&nbsp;**Oğur kolu** | *çup* (çap) | çup | *çup* (çap) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | çup | çup | çup | çup |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çup | çup | çup | çup |
-| &nbsp;&nbsp;**Ortak Türkçe** | yügür | *yügür* (yügür) | yügür |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yiiir | yiiir | yiiir |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | yügür | *yügür* (yügür) | koş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yiiir | yiiir | *yiiir* (yügür) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yiiir | yiiir | yiiir | yiiir |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yügür | yügür | *koş* (koş) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *kaç* (kaç) | *kaç* (kaç) | koş |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | *koş* (koş) | kaç | koş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yügür | yügür | koş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *koş* (koş) | *kaç* (kaç) | koş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | koş | kaç | koş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | koş | *koş* (koş) | koş | koş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | koş | koş | koş | koş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | *kaç* (kaç) | kaç | *kaç* (kaç) | kaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaç | kaç | kaç | kaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | koş ↑ | kaç ↑ | koş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | kaç | kaç | *kaç* (kaç) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | *kaç* (kaç) | kaç | *kaç* (kaç) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kaç | kaç | kaç | kaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaç | kaç | kaç | kaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kaç ↑ | kaç ↑ | kaç ↑ |  |
@@ -64,7 +64,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ılga | ılga | ılga | ılga |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | ılga ↑ | ılga ↑ | ılga ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yükür | yükür | *yükür* (yügür) | yükür |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | jügür | yügür | jügür |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yüger | yügür | *jügür* (yügür) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yüger | yüger | yöger |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yöger | yöger | yöger | yöger |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yöger | yöger | yöger | yöger |
@@ -83,7 +83,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çap | çap | çap | çap |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | çap | çap | çap | çap |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çap | çap | çap | çap |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | jügir | jügir | jügir |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | yögir | jügir | jügir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | jügir | jügir | jügir | jügir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jügir | jügir | jügir | jügir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | juwır | juwır | juwır | juwır |
@@ -105,7 +105,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | çap | çap | çap | çap |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çap | çap | çap | çap |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | çap ↑ | çap ↑ | çap ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | çügür | çügür | süür |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | çügür | çügür | *süür* (yügür) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | süür | süür | süür |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | süür | süür | süür | süür |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | süür | süür | süür | süür |

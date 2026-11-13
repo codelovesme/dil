@@ -5,7 +5,7 @@
 - **Anlam:** Balık.
 - **İngilizce:** fish
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [balık](../kok/balık.md) | türkçe | 1.08 (*balık*) | Karaçay-Malkarca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *balık*) | *balïk |
-| [çabak](../kok/çabak.md) | türkçe | -0.43 (*çabak*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~1 milyon (%0, *çabak*) |  |
+| [balık](../kok/balık.md) | türkçe | 1.10 (*balık*) | Karaçay-Malkarca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *balık*) | *balïk |
+| [çabak](../kok/çabak.md) | türkçe | -0.45 (*çabak*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~87 milyon (%45, *çabak*) |  |
 
 **Büyük topluluklarda *balık* biçiminin anlaşılırlığı:** Karaçay-Malkarca %0, Çuvaşça %70, Uygurca %90, Özbekçe %95, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Sahaca %100, Tuvaca %100.
 

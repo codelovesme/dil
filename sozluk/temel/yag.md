@@ -5,7 +5,7 @@
 - **Anlam:** Yağ.
 - **İngilizce:** fat, grease
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yağ](../kok/yağ.md) | türkçe | 0.52 (*yağ*) | Tatarca %0 | Ana Türkçe (2 hat) | ~169 milyon (%87, *yağ*) | *yāg |
-| [may](../kok/may.md) | türkçe | -0.00 (*may*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~64 milyon (%33, *may*) | *may |
-| [üs](../kok/üs.md) | türkçe | -0.43 (*üs*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *üs*) |  |
+| [yağ](../kok/yağ.md) | türkçe | 0.52 (*yağ*) | Tatarca %0 | Ana Türkçe (2 hat) | ~172 milyon (%89, *yağ*) | *yāg |
+| [may](../kok/may.md) | türkçe | -0.02 (*may*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~119 milyon (%62, *may*) | *may |
+| [üs](../kok/üs.md) | türkçe | -0.42 (*üs*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *üs*) |  |
 
 **Büyük topluluklarda *yağ* biçiminin anlaşılırlığı:** Tatarca %0, Başkurtça %0, Kumukça %0, Kazakça %0, Karakalpakça %0, Sibirya Tatarcası %0, Kırgızca %0, Uygurca %0, Tuvaca %0, Çuvaşça %54, Sahaca %54, Gagavuzca %83, Karaçay-Malkarca %83, Özbekçe %88, Türkiye Türkçesi %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100.
 

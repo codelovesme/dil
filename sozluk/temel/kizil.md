@@ -5,7 +5,7 @@
 - **Anlam:** Kızıl, kırmızı.
 - **İngilizce:** red
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kızıl](../kok/kızıl.md) | türkçe | 1.03 (*kızıl*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~131 milyon (%67, *kızıl*) | *kïŕïl |
+| [kızıl](../kok/kızıl.md) | türkçe | 1.03 (*kızıl*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~137 milyon (%71, *kızıl*) | *kïŕïl |
 | kırmızı | alıntı:ar | seçilemez | | | |  |
 
 **Büyük topluluklarda *kızıl* biçiminin anlaşılırlığı:** Gagavuzca %0, Azerbaycan Türkçesi %0, Türkiye Türkçesi %50, Çuvaşça %57, Özbekçe %90, Uygurca %90, Sahaca %90, Türkmence %95, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Tuvaca %100.

@@ -5,7 +5,7 @@
 - **Anlam:** Ev.
 - **İngilizce:** house
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [eb](../kok/eb.md) | türkçe | 0.71 (*ev*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~157 milyon (%81, *ev*) | *eb |
-| [tura](../kok/tura.md) | türkçe | -0.42 (*tura*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *tura*) |  |
-| [yurt](../kok/yurt.md) | türkçe | -0.38 (*şurt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şurt*) |  |
+| [eb](../kok/eb.md) | türkçe | 0.69 (*ev*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~158 milyon (%82, *ev*) | *eb |
+| [tura](../kok/tura.md) | türkçe | -0.41 (*tura*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~67 milyon (%35, *tura*) |  |
+| [yurt](../kok/yurt.md) | türkçe | -0.36 (*şurt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şurt*) |  |
 
 **Büyük topluluklarda *ev* biçiminin anlaşılırlığı:** Çuvaşça %0, Tatarca %56, Başkurtça %56, Kumukça %56, Karaçay-Malkarca %56, Kazakça %56, Karakalpakça %56, Sibirya Tatarcası %56, Kırgızca %56, Özbekçe %56, Uygurca %56, Tuvaca %56, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100.
 
@@ -66,7 +66,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öy | öy | öy | öy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | öy | öy | öy | öy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öy | öy | öy | öy |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | üv | üy | ev |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | ev | üy | ev |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | ev | ev | ev |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | ev | ev | ev | ev |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ev | ev | ev | ev |

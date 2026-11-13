@@ -5,7 +5,7 @@
 - **Anlam:** Beş sayısı.
 - **İngilizce:** five
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [beş](../kok/beş.md) | türkçe | 1.10 (*beş*) | Çuvaşça %60 | Ana Türkçe (2 hat) | ~190 milyon (%98, *beş*) | *bēš |
+| [beş](../kok/beş.md) | türkçe | 1.09 (*beş*) | Çuvaşça %60 | Ana Türkçe (2 hat) | ~190 milyon (%98, *beş*) | *bēš |
 
 **Büyük topluluklarda *beş* biçiminin anlaşılırlığı:** Çuvaşça %60, Sahaca %81, Sibirya Tatarcası %83, Tatarca %88, Kazakça %92, Uygurca %92, Türkmence %92, Karakalpakça %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Tuvaca %100.
 

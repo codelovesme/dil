@@ -5,7 +5,7 @@
 - **Anlam:** Ağaç.
 - **İngilizce:** tree
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ığaç](../kok/ığaç.md) | türkçe | 0.72 (*ağaç*) | Kırım Tatarcası %0 | Ana Türkçe (2 hat) | ~177 milyon (%91, *ağaç*) | *ïgač |
-| [terek](../kok/terek.md) | türkçe | -0.19 (*terek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~56 milyon (%29, *terek*) | *terek |
-| [mas](../kok/mas.md) | türkçe | -0.41 (*mas*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *mas*) |  |
-| [neş](../kok/neş.md) | türkçe | -0.50 (*neş*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *neş*) |  |
+| [ığaç](../kok/ığaç.md) | türkçe | 0.77 (*ağaç*) | Kırım Tatarcası %0 | Ana Türkçe (2 hat) | ~174 milyon (%90, *ağaç*) | *ïgač |
+| [terek](../kok/terek.md) | türkçe | -0.25 (*terek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~109 milyon (%56, *terek*) | *terek |
+| [mas](../kok/mas.md) | türkçe | -0.39 (*mas*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *mas*) |  |
+| [neş](../kok/neş.md) | türkçe | -0.49 (*neş*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *neş*) |  |
 
 **Büyük topluluklarda *ağaç* biçiminin anlaşılırlığı:** Kırım Tatarcası %0, Kumukça %0, Karaçay-Malkarca %0, Sahaca %0, Çuvaşça %68, Tuvaca %72, Kırgızca %82, Gagavuzca %88, Uygurca %90, Azerbaycan Türkçesi %94, Başkurtça %94, Kazakça %94, Karakalpakça %94, Sibirya Tatarcası %94, Türkiye Türkçesi %100, Türkmence %100, Tatarca %100.
 
@@ -90,7 +90,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | ağac | ağac | ağac |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ağac ↑ | ağac ↑ | ağac ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | ağac | ağac | ağac | ağac |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | jığaç | *jığaç* (ığaç) | jığaç |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | ağaş | *jığaç* (ığaç) | jığaç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | jığaç | jığaç | jığaç | jığaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jığaç | jığaç | jığaç | jığaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | ağaş | ağaş | ağaş | ağaş |

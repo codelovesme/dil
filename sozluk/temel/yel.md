@@ -5,7 +5,7 @@
 - **Anlam:** Yel, rüzgâr.
 - **İngilizce:** wind
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %66 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %65 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yel](../kok/yel.md) | türkçe | 0.90 (*yel*) | Sahaca %0 | Ana Türkçe (2 hat) | ~133 milyon (%68, *yel*) | *yẹl |
-| [tıal](../kok/tıal.md) | türkçe | -0.39 (*tıal*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *tıal*) |  |
-| [kat](../kok/kat.md) | türkçe | -0.41 (*xat*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *xat*) |  |
+| [yel](../kok/yel.md) | türkçe | 0.87 (*yel*) | Sahaca %0 | Ana Türkçe (2 hat) | ~136 milyon (%70, *yel*) | *yẹl |
+| [tıal](../kok/tıal.md) | türkçe | -0.37 (*tıal*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *tıal*) |  |
+| [kat](../kok/kat.md) | türkçe | -0.40 (*xat*) | Çuvaşça %0 | Sayan (2 hat) | ~43 milyon (%22, *xat*) |  |
 
 **Büyük topluluklarda *yel* biçiminin anlaşılırlığı:** Sahaca %0, Tuvaca %0, Türkiye Türkçesi %50, Çuvaşça %71, Tatarca %79, Kazakça %92, Karaçay-Malkarca %92, Karakalpakça %92, Azerbaycan Türkçesi %100, Türkmence %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100.
 
@@ -106,9 +106,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | tıal | tıal | tıal | tıal |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tıal | tıal | tıal | tıal |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | tıal | tıal | tıal | tıal |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | yil | yil | *xat* (kat) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | yil | yil | *yil* (yel) | yil |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | *xat* (kat) | *xat* (kat) | xat |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | *xat* (kat) | yil | *xat* (kat) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | *yil* (yel) | yil | *yil* (yel) | yil |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | xat | *xat* (kat) | xat |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | xat | xat | xat |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | xat | xat | xat | xat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xat | xat | xat | xat |
@@ -116,7 +116,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kat | kat | kat | kat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kat ↑ | kat ↑ | kat ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kat ↑ | kat ↑ | kat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | çil | çäl | *çil* (yel) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | *çil* (yel) | çäl | *çil* (yel) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | çil | çil | çil | çil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çil | çil | çil | çil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | çil ↑ | çäl ↑ | çil ↑ |  |

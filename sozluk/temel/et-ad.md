@@ -5,7 +5,7 @@
 - **Anlam:** Et.
 - **İngilizce:** meat, flesh
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [et-ad](../kok/et-ad.md) | türkçe | 1.12 (*et*) | Uygurca %53 | Ana Türkçe (2 hat) | ~186 milyon (%96, *et*) | *ẹt |
+| [et-ad](../kok/et-ad.md) | türkçe | 1.12 (*et*) | Uygurca %53 | Ana Türkçe (2 hat) | ~185 milyon (%95, *et*) | *ẹt |
 
 **Büyük topluluklarda *et* biçiminin anlaşılırlığı:** Uygurca %53, Çuvaşça %62, Tatarca %81, Başkurtça %81, Azerbaycan Türkçesi %88, Türkiye Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Sahaca %100, Tuvaca %100.
 

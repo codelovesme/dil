@@ -5,7 +5,7 @@
 - **Anlam:** Sol (yön, el).
 - **İngilizce:** left (side)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %58 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %55 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sol](../kok/sol.md) | türkçe | 1.04 (*sol*) | Sahaca %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *sol*) | *sol |
-| [xañas](../kok/xañas.md) | türkçe | -0.37 (*xañas*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xañas*) |  |
+| [sol](../kok/sol.md) | türkçe | 1.02 (*sol*) | Sahaca %0 | Ortak Türkçe (5 hat) | ~178 milyon (%92, *sol*) | *sol |
+| [xañas](../kok/xañas.md) | türkçe | -0.35 (*xañas*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xañas*) |  |
 
 **Büyük topluluklarda *sol* biçiminin anlaşılırlığı:** Sahaca %0, Gagavuzca %67, Başkurtça %83, Tatarca %92, Türkiye Türkçesi %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 

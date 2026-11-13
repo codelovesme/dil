@@ -5,7 +5,7 @@
 - **Anlam:** Dal (ağaç).
 - **İngilizce:** branch
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %62 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %60 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [butık](../kok/butık.md) | türkçe | 0.93 (*butak*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~170 milyon (%88, *butak*) | *butak |
+| [butık](../kok/butık.md) | türkçe | 0.90 (*butak*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~168 milyon (%87, *butak*) | *butak |
 | [talak](../kok/talak.md) | türkçe | -0.48 (*talak*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *talak*) |  |
-| [çukko](../kok/çukko.md) | türkçe | -0.44 (*çukko*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *çukko*) |  |
-| [turat](../kok/turat.md) | türkçe | -0.36 (*turat*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *turat*) |  |
+| [çukko](../kok/çukko.md) | türkçe | -0.44 (*çukko*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *çukko*) |  |
+| [turat](../kok/turat.md) | türkçe | -0.34 (*turat*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *turat*) |  |
 
 **Büyük topluluklarda *butak* biçiminin anlaşılırlığı:** Çuvaşça %0, Kırım Tatarcası %88, Tuvaca %88, Azerbaycan Türkçesi %90, Kazakça %90, Başkurtça %95, Uygurca %95, Türkiye Türkçesi %95, Gagavuzca %95, Tatarca %95, Karakalpakça %95, Sibirya Tatarcası %95, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100.
 

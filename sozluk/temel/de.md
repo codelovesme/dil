@@ -5,7 +5,7 @@
 - **Anlam:** Söylemek, demek.
 - **İngilizce:** say
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ayt](../kok/ayt.md) | türkçe | 0.41 (*ayt*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~133 milyon (%68, *ayt*) | *ayt- |
-| [te](../kok/te.md) | türkçe | 0.07 (*te*) | Türkmence %0 | Ana Türkçe (2 hat) | ~120 milyon (%62, *de*) | *tē- |
-| [çooxta](../kok/çooxta.md) | türkçe | -0.46 (*çooxta*) | Çuvaşça %0 | Hakasça (1 hat) | ~0 milyon (%0, *çooxta*) |  |
-| [çugaala](../kok/çugaala.md) | türkçe | -0.43 (*çugaala*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *çugaala*) |  |
-| [haay](../kok/haay.md) | türkçe | -0.44 (*haay*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *haay*) |  |
+| [ayt](../kok/ayt.md) | türkçe | 0.39 (*ayt*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~139 milyon (%71, *ayt*) | *ayt- |
+| [te](../kok/te.md) | türkçe | 0.07 (*te*) | Türkmence %0 | Ana Türkçe (2 hat) | ~158 milyon (%81, *de*) | *tē- |
+| [çooxta](../kok/çooxta.md) | türkçe | -0.45 (*çooxta*) | Çuvaşça %0 | Hakasça (1 hat) | ~15 milyon (%8, *çooxta*) |  |
+| [çugaala](../kok/çugaala.md) | türkçe | -0.42 (*çugaala*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *çugaala*) |  |
+| [haay](../kok/haay.md) | türkçe | -0.44 (*haay*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *haay*) |  |
 
 **Büyük topluluklarda *ayt* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Kumukça %0, Sahaca %0, Tuvaca %0, Başkurtça %92, Uygurca %92, Tatarca %92, Sibirya Tatarcası %92, Türkmence %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100.
 
@@ -76,10 +76,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ayt | ayt | ayt | ayt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | ayt ↑ | ayt ↑ | ayt ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | ayt ↑ | ayt ↑ | ayt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | *de* (te) | ayt | de |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | de | *de* (te) | de | de |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | ayt | ayt | de |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | *de* (te) | *de* (te) | de | de |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | de | de | de | de |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | *ayt* (ayt) | ayt | *ayt* (ayt) | ayt |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | ayt | ayt | *ayt* (ayt) | ayt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ayt | ayt | ayt | ayt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | ayt | ayt | ayt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | ayt | ayt | ayt | ayt |
@@ -103,7 +103,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | eyt | eyt | eyt | eyt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eyt | eyt | eyt | eyt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | eyt ↑ | eyt ↑ | eyt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *de* (te) | *die* (te) | die |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *de* (te) | *die* (te) | de |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | die | die | die |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | die | die | die | die |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | die | die | die | die |

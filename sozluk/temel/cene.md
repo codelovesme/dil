@@ -5,7 +5,7 @@
 - **Anlam:** Çene.
 - **İngilizce:** chin
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %63 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %64 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [eñek](../kok/eñek.md) | türkçe | 0.74 (*eñek*) | Türkiye Türkçesi %0 | Ortak Türkçe (6 hat) | ~111 milyon (%57, *eñek*) | *eŋek |
-| [çene](../kok/çene.md) | türkçe | -0.29 (*çenä*) | Türkmence %0 | Batı Oğuz (2 hat) | ~113 milyon (%58, *çene*) |  |
-| [erin](../kok/erin.md) | türkçe | -0.49 (*erin*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~0 milyon (%0, *erin*) |  |
-| [segel](../kok/segel.md) | türkçe | -0.41 (*segel*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~0 milyon (%0, *segel*) |  |
+| [eñek](../kok/eñek.md) | türkçe | 0.73 (*eñek*) | Türkiye Türkçesi %0 | Ortak Türkçe (6 hat) | ~116 milyon (%60, *eñek*) | *eŋek |
+| [çene](../kok/çene.md) | türkçe | -0.29 (*çenä*) | Türkmence %0 | Batı Oğuz (2 hat) | ~140 milyon (%72, *çene*) |  |
+| [erin](../kok/erin.md) | türkçe | -0.49 (*erin*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~43 milyon (%22, *erin*) |  |
+| [segel](../kok/segel.md) | türkçe | -0.40 (*segel*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~42 milyon (%22, *segel*) |  |
 
 **Büyük topluluklarda *eñek* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Tuvaca %0, Sahaca %69, Tatarca %72, Özbekçe %72, Kazakça %78, Karakalpakça %78, Sibirya Tatarcası %78, Başkurtça %81, Kırgızca %88, Uygurca %94, Türkmence %100.
 
@@ -61,25 +61,25 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eñek | eñek | eñek | eñek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | eñek ↑ | eñek ↑ | eñek ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | enix | enix | *enix* (eñek) | enix |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | iyek | iñäk | iyek |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | eyäk | iñäk | iyek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | eyäk | eyäk | iyäk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | iyäk | iyäk | iyäk | iyäk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iyäk | iyäk | iyäk | iyäk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | eyäk | eyäk | eyäk | eyäk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eyäk | eyäk | eyäk | eyäk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | iyek ↑ | iñäk ↑ | iyek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iyek ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eyäk ↑ | iñäk ↑ | iyek ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | iyek | iyek | iyek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | iyek | iyek | iyek | iyek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | iyek | iyek | iyek | iyek |

@@ -5,7 +5,7 @@
 - **Anlam:** Kenar, kıyı.
 - **İngilizce:** edge
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kıdığ](../kok/kıdığ.md) | türkçe | 0.24 (*kıdığ*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~59 milyon (%30, *kıdığ*) | *kïdïg |
-| [çet](../kok/çet.md) | türkçe | 0.21 (*çet*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~131 milyon (%68, *çet*) |  |
-| [kırağ](../kok/kırağ.md) | türkçe | -0.44 (*kırağ*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *kırağ*) |  |
+| [kıdığ](../kok/kıdığ.md) | türkçe | 0.23 (*kıdığ*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~101 milyon (%52, *kırıy*) | *kïdïg |
+| [çet](../kok/çet.md) | türkçe | 0.21 (*çet*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~137 milyon (%71, *çet*) |  |
+| [kırağ](../kok/kırağ.md) | türkçe | -0.44 (*kırağ*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *kırağ*) |  |
 | kenar | alıntı:fa | seçilemez | | | |  |
 
 **Büyük topluluklarda *kıdığ* biçiminin anlaşılırlığı:** Azerbaycan Türkçesi %0, Türkmence %0, Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kazakça %0, Karakalpakça %0, Sibirya Tatarcası %0, Kırgızca %0, Özbekçe %0, Uygurca %0, Türkiye Türkçesi %40, Çuvaşça %60, Karaçay-Malkarca %80, Kumukça %80, Sahaca %85, Tuvaca %100.
@@ -67,7 +67,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çit | çit | çit | çit |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | sit | sit | sit | sit |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sit | sit | sit | sit |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *kırıy* (kıdığ) | *kırıy* (kıdığ) | *kırıy* (kıdığ) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *kıyır* (kıdığ) | *kırıy* (kıdığ) | *kırıy* (kıdığ) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | *çet* (çet) | kırıy | *çet* (çet) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | çet | *çet* (çet) | çet | çet |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çet | çet | çet | çet |

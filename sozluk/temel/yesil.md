@@ -5,7 +5,7 @@
 - **Anlam:** Yeşil.
 - **İngilizce:** green
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yaşıl](../kok/yaşıl.md) | türkçe | 0.78 (*yaşıl*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~179 milyon (%92, *yaşıl*) | *yāĺïl |
-| [kök](../kok/kök.md) | türkçe | -0.27 (*küök*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~38 milyon (%20, *kök*) |  |
-| [simĕs](../kok/simĕs.md) | türkçe | -0.39 (*simĕs*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *simĕs*) |  |
+| [yaşıl](../kok/yaşıl.md) | türkçe | 0.75 (*yaşıl*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~179 milyon (%92, *yaşıl*) | *yāĺïl |
+| [kök](../kok/kök.md) | türkçe | -0.25 (*küök*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~89 milyon (%46, *kök*) |  |
+| [simĕs](../kok/simĕs.md) | türkçe | -0.37 (*simĕs*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *simĕs*) |  |
 
 **Büyük topluluklarda *yaşıl* biçiminin anlaşılırlığı:** Çuvaşça %0, Karakalpakça %0, Sahaca %0, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %88, Türkiye Türkçesi %90, Gagavuzca %90, Kırım Tatarcası %90, Kazakça %90, Uygurca %90, Özbekçe %95, Karaçay-Malkarca %95, Kırgızca %95, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100.
 
@@ -101,7 +101,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | yeşil | yeşil | yeşil | yeşil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yeşil | yeşil | yeşil | yeşil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | yeşil ↑ | yeşil ↑ | yeşil ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *kök* (kök) | *kök* (kök) | *küöx* (kök) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *küök* (kök) | *kök* (kök) | *küöx* (kök) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | küöx | küöx | küöx |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | küöx | küöx | küöx | küöx |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | küöx | küöx | küöx | küöx |
@@ -116,14 +116,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kök | kök | kök | kök |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kök ↑ | kök ↑ | kök ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kök ↑ | kök ↑ | kök ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | tajıl | kök | kök |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | çajıl | kök | kök |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | *kök* (kök) | kök | kök | kök |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kök | kök | kök | kök |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | çajıl | *çajıl* (yaşıl) | *çajıl* (yaşıl) | çajıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çajıl | çajıl | çajıl | çajıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | *kök* (kök) | kök | kök | kök |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kök | kök | kök | kök |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | tajıl ↑ | kök ↑ | kök ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çajıl ↑ | kök ↑ | kök ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | tajıl | *tajıl* (yaşıl) | *tajıl* (yaşıl) | tajıl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tajıl | tajıl | tajıl | tajıl |
 

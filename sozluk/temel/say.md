@@ -5,7 +5,7 @@
 - **Anlam:** Saymak.
 - **İngilizce:** count
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %72 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %70 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -13,18 +13,18 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **sana** | [sana](../kok/sana.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **sana** | [sana](../kok/sana.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **sana** | [sana](../kok/sana.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **say** | [say](../kok/say.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [sana](../kok/sana.md) (seviye 0), [say](../kok/say.md) (seviye 0), [aağ](../kok/aağ.md) (seviye 0) |
 
-İlk üç hedef **uyuşuyor**.
+İlk üç hedef **ayrişiyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sana](../kok/sana.md) | türkçe | 0.82 (*sana*) | Türkiye Türkçesi %0 | Ortak Türkçe (7 hat) | ~126 milyon (%65, *sana*) | *sana- |
-| [say](../kok/say.md) | türkçe | -0.12 (*say*) | Türkmence %0 | Ortak Türkçe (4 hat) | ~118 milyon (%61, *say*) | *sā- |
-| [aağ](../kok/aağ.md) | türkçe | -0.40 (*aağ*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *aağ*) |  |
+| [sana](../kok/sana.md) | türkçe | 0.82 (*sana*) | Türkiye Türkçesi %0 | Ortak Türkçe (7 hat) | ~134 milyon (%69, *sana*) | *sana- |
+| [say](../kok/say.md) | türkçe | -0.14 (*say*) | Türkmence %0 | Ortak Türkçe (4 hat) | ~156 milyon (%81, *say*) | *sā- |
+| [aağ](../kok/aağ.md) | türkçe | -0.38 (*aağ*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *aağ*) |  |
 
 **Büyük topluluklarda *sana* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Kırım Tatarcası %0, Sahaca %0, Başkurtça %94, Türkmence %100, Tatarca %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 
@@ -34,14 +34,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | sana | sana | sana |  |
-| &nbsp;&nbsp;**Oğur kolu** | sana ↑ | sana ↑ | sana ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | sana ↑ | sana ↑ | sana ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana ↑ | sana ↑ | sana ↑ |  |
-| &nbsp;&nbsp;**Ortak Türkçe** | sana | sana | sana |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | saana | saana | saana |  |
+| **Türk dilleri** | sana | sana | say |  |
+| &nbsp;&nbsp;**Oğur kolu** | sana ↑ | sana ↑ | say ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | sana ↑ | sana ↑ | say ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana ↑ | sana ↑ | say ↑ |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | sana | sana | say |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | saana | saana | *saana* (sana) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | saana | saana | saana | saana |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | sana | sana | *say* (say) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | sana | sana | say |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *say* (say) | *say* (say) | say |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | say | say | say |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | say | say | say | say |
@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | sana ↑ | sana ↑ | sana ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | sana | sana | *sana* (sana) | sana |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | sana | sana | sana |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | sana | sana | *sana* (sana) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | sana | sana | sana |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana | sana | sana | sana |
@@ -93,14 +93,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | sana ↑ | sana ↑ | sana ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana ↑ | sana ↑ | sana ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | sana | sana | sana |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | sana | sana | *sana* (sana) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | sana | sana | sana |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sana | sana | sana | sana |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | sana ↑ | sana ↑ | sana ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | sana | sana | sana |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | sana | sana | *sana* (sana) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *aağ* (aağ) | *aağ* (aağ) | *aağ* (aağ) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | aağ | aağ | aağ | aağ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | aağ | aağ | aağ | aağ |

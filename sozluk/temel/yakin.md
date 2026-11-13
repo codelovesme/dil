@@ -5,7 +5,7 @@
 - **Anlam:** Yakın.
 - **İngilizce:** near
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yakın](../kok/yakın.md) | türkçe | 0.61 (*yakın*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~186 milyon (%96, *yakın*) | *yakïn |
-| [yağuk](../kok/yağuk.md) | türkçe | 0.15 (*yuwuk*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~18 milyon (%10, *yuwuk*) |  |
+| [yakın](../kok/yakın.md) | türkçe | 0.62 (*yakın*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~187 milyon (%96, *yakın*) | *yakïn |
+| [yağuk](../kok/yağuk.md) | türkçe | 0.14 (*yuwuk*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~102 milyon (%53, *yuwuk*) |  |
 
 **Büyük topluluklarda *yakın* biçiminin anlaşılırlığı:** Çuvaşça %0, Kumukça %0, Karaçay-Malkarca %0, Sibirya Tatarcası %0, Sahaca %0, Tuvaca %0, Uygurca %90, Kırım Tatarcası %93, Kazakça %95, Özbekçe %95, Azerbaycan Türkçesi %95, Karakalpakça %95, Kırgızca %95, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Tatarca %100, Başkurtça %100.
 

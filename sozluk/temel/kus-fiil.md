@@ -5,7 +5,7 @@
 - **Anlam:** Kusmak.
 - **İngilizce:** vomit
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %73 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kus](../kok/kus.md) | türkçe | 1.08 (*kus*) | Sahaca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kus*) | *kus- |
-| [xotuolaa](../kok/xotuolaa.md) | türkçe | -0.41 (*xotuolaa*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *xotuolaa*) |  |
+| [kus](../kok/kus.md) | türkçe | 1.06 (*kus*) | Sahaca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kus*) | *kus- |
+| [xotuolaa](../kok/xotuolaa.md) | türkçe | -0.40 (*xotuolaa*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *xotuolaa*) |  |
 
 **Büyük topluluklarda *kus* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %79, Kazakça %83, Başkurtça %92, Türkmence %92, Tatarca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 

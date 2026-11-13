@@ -5,7 +5,7 @@
 - **Anlam:** Göğüs.
 - **İngilizce:** breast, chest
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kögüz](../kok/kögüz.md) | türkçe | 0.08 (*kögüs*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~114 milyon (%59, *kögüs*) | *kȫküŕ |
-| [kökrek](../kok/kökrek.md) | türkçe | 0.38 (*kökräk*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~120 milyon (%62, *kükrek*) |  |
-| [töş](../kok/töş.md) | türkçe | -0.37 (*tüös*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~1 milyon (%0, *tüös*) | *töš |
+| [kögüz](../kok/kögüz.md) | türkçe | 0.08 (*kögüs*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~140 milyon (%72, *kögüs*) | *kȫküŕ |
+| [kökrek](../kok/kökrek.md) | türkçe | 0.37 (*kökräk*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~131 milyon (%67, *kökräk*) |  |
+| [töş](../kok/töş.md) | türkçe | -0.36 (*tüös*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~61 milyon (%31, *töş*) | *töš |
 
 **Büyük topluluklarda *kökräk* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Kırım Tatarcası %0, Sahaca %0, Çuvaşça %73, Kırgızca %88, Kumukça %89, Karaçay-Malkarca %89, Kazakça %89, Karakalpakça %89, Türkmence %92, Tatarca %96, Başkurtça %96, Özbekçe %96, Sibirya Tatarcası %100, Uygurca %100.
 
@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kükrek | kükrek | kükrek | kükrek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | kükrek ↑ | kükrek ↑ | kükrek ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *küpräx* (kökrek) | küpräx | *küpräx* (kökrek) | küpräx |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kökürek | *kökürek* (kökrek) | *kökirek* (kökrek) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kökräk | *kökürek* (kökrek) | *kökirek* (kökrek) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kükräk | kükräk | kükräk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kükräk | kükräk | kükräk | kükräk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kükräk | kükräk | kükräk | kükräk |

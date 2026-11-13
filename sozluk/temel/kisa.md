@@ -5,7 +5,7 @@
 - **Anlam:** Kısa.
 - **İngilizce:** short
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kısga](../kok/kısga.md) | türkçe | 0.99 (*kıska*) | Sibirya Tatarcası %0 | Ana Türkçe (2 hat) | ~176 milyon (%91, *kısa*) | *kïsga |
-| [kılgas](../kok/kılgas.md) | türkçe | -0.40 (*kılgas*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kılgas*) |  |
-| [karsak](../kok/karsak.md) | türkçe | -0.43 (*karsak*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *karsak*) |  |
+| [kısga](../kok/kısga.md) | türkçe | 0.97 (*kıska*) | Sibirya Tatarcası %0 | Ana Türkçe (2 hat) | ~173 milyon (%89, *kısa*) | *kïsga |
+| [kılgas](../kok/kılgas.md) | türkçe | -0.39 (*kılgas*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kılgas*) |  |
+| [karsak](../kok/karsak.md) | türkçe | -0.42 (*karsak*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *karsak*) |  |
 
 **Büyük topluluklarda *kıska* biçiminin anlaşılırlığı:** Sibirya Tatarcası %0, Sahaca %0, Çuvaşça %88, Türkiye Türkçesi %90, Gagavuzca %90, Azerbaycan Türkçesi %90, Türkmence %90, Kumukça %95, Kazakça %95, Uygurca %95, Karaçay-Malkarca %95, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
 
@@ -41,7 +41,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kıska | kısga | kısa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kıska ↑ | kısga ↑ | kısa ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kıska ↑ | kısga ↑ | kısa ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | gısga | kısa | kısa |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kısa | kısa | kısa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | kısa | kısa | kısa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kısa | kısa | kısa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kısa | kısa | kısa | kısa |
@@ -53,8 +53,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kısa | kısa | kısa | kısa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kısa | kısa | kısa | kısa |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kısa ↑ | kısa ↑ | kısa ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | gısga ↑ | kısa ↑ | kısa ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | gısga ↑ | kısa ↑ | kısa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kısa ↑ | kısa ↑ | kısa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kısa ↑ | kısa ↑ | kısa ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | gısga | gısga | gısga |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | gısga | gısga | gısga | gısga |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gısga | gısga | gısga | gısga |

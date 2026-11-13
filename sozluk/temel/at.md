@@ -5,7 +5,7 @@
 - **Anlam:** Atmak, fırlatmak.
 - **İngilizce:** throw
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **taşla** | [taşla](../kok/taşla.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **părax** | [bırak](../kok/bırak.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **taşla** | [taşla](../kok/taşla.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **at** | [at-fiil](../kok/at-fiil.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [at-fiil](../kok/at-fiil.md) (seviye 0), [taşla](../kok/taşla.md) (seviye 0), [laktır](../kok/laktır.md) (seviye 0), [bırak](../kok/bırak.md) (seviye 0), [kemiş](../kok/kemiş.md) (seviye 0), [çel](../kok/çel.md) (seviye 0), [tarda](../kok/tarda.md) (seviye 0), [kağ](../kok/kağ.md) (seviye 0) |
 
 İlk üç hedef **ayrişiyor**.
@@ -22,14 +22,14 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [at-fiil](../kok/at-fiil.md) | türkçe | -0.15 (*at*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~118 milyon (%61, *at*) | *at- |
-| [taşla](../kok/taşla.md) | türkçe | 0.23 (*taşla*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~122 milyon (%63, *taşla*) |  |
-| [laktır](../kok/laktır.md) | türkçe | -0.40 (*laktır*) | Çuvaşça %0 | Kıpçak-Nogay (Aral-Hazar) (3 hat) | ~44 milyon (%23, *laktır*) |  |
-| [bırak](../kok/bırak.md) | türkçe | -0.30 (*părax*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~2 milyon (%1, *părax*) | *bïrak- |
+| [at-fiil](../kok/at-fiil.md) | türkçe | -0.19 (*at*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~157 milyon (%81, *at*) | *at- |
+| [taşla](../kok/taşla.md) | türkçe | 0.24 (*taşla*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~130 milyon (%67, *taşla*) |  |
+| [laktır](../kok/laktır.md) | türkçe | -0.40 (*laktır*) | Çuvaşça %0 | Kıpçak-Nogay (Aral-Hazar) (3 hat) | ~91 milyon (%47, *bılaktır*) |  |
+| [bırak](../kok/bırak.md) | türkçe | -0.28 (*părax*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~2 milyon (%1, *părax*) | *bïrak- |
 | [kemiş](../kok/kemiş.md) | türkçe | seçilemez | | | | *kämiš- |
-| [çel](../kok/çel.md) | türkçe | -0.47 (*çel*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~0 milyon (%0, *çel*) |  |
-| [tarda](../kok/tarda.md) | türkçe | -0.46 (*tarda*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *tarda*) |  |
-| [kağ](../kok/kağ.md) | türkçe | -0.50 (*kağ*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *kağ*) |  |
+| [çel](../kok/çel.md) | türkçe | -0.47 (*çel*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *çel*) |  |
+| [tarda](../kok/tarda.md) | türkçe | -0.45 (*tarda*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *tarda*) |  |
+| [kağ](../kok/kağ.md) | türkçe | -0.49 (*kağ*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *kağ*) |  |
 
 - ⚠ **Canlandırma:** *taşla* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -41,14 +41,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | taşla | părax | taşla |  |
+| **Türk dilleri** | taşla | părax | at |  |
 | &nbsp;&nbsp;**Oğur kolu** | *părax* (bırak) | părax | *părax* (bırak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | părax | părax | părax | părax |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | părax | părax | părax | părax |
-| &nbsp;&nbsp;**Ortak Türkçe** | taşla | *taşla* (taşla) | taşla |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | *hat* (at-fiil) | *hat* (at-fiil) | *hat* (at-fiil) |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | taşla | *taşla* (taşla) | at |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | *hat* (at-fiil) | *hat* (at-fiil) | hat |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | hat | hat | hat | hat |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *at* (at-fiil) | *at* (at-fiil) | *at* (at-fiil) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *at* (at-fiil) | *at* (at-fiil) | at |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | at | at | at |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | at | at | at |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | at | at | at | at |
@@ -67,7 +67,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | taşla | taşla | taşla | taşla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | taşla ↑ | taşla ↑ | taşla ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | at ↑ | at ↑ | at ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | taşla | taşla | taşta |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | taşla | taşla | *taşta* (taşla) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | taşla | taşla | taşla |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | taşla | taşla | taşla | taşla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | taşla | taşla | taşla | taşla |
@@ -101,7 +101,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | taşta | taşta | taşta | taşta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | taşta | taşta | taşta | taşta |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | taşta | taşta | taşta | taşta |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | taşla | taşla | taşla |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | taşla | taşla | *taşla* (taşla) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | taşla | taşla | taşla | taşla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | taşla | taşla | taşla | taşla |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | taşla | taşla | taşla |  |

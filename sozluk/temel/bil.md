@@ -5,7 +5,7 @@
 - **Anlam:** Bir şeyden haberi olmak, tanımak.
 - **İngilizce:** know
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bil](../kok/bil.md) | türkçe | 1.13 (*bil*) | Çuvaşça %79 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bil*) | *bil- |
-| [oñna](../kok/oñna.md) | türkçe | -0.47 (*oñna*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~0 milyon (%0, *oñna*) |  |
+| [bil](../kok/bil.md) | türkçe | 1.12 (*bil*) | Çuvaşça %79 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bil*) | *bil- |
+| [oñna](../kok/oñna.md) | türkçe | -0.47 (*oñna*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *oñna*) |  |
 
 **Büyük topluluklarda *bil* biçiminin anlaşılırlığı:** Çuvaşça %79, Kazakça %83, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 
@@ -105,7 +105,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | bil | bil | bil | bil |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | pil | pil | bil |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | bil | pil | bil |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | pil | pil | pil | pil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | bil | bil | bil |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | bil | bil | bil |  |

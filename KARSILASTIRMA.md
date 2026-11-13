@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 197 kavram, 26 tanesi ayrışıyor.
+Toplam 197 kavram, 30 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | al- | al *(al)* | al *(al)* | al *(al)* | UYUŞUYOR |
 | alın | alın *(alın)* | alın *(alın)* | alın *(alın)* | UYUŞUYOR |
 | ana | ana *(ana)* | ana *(ana)* | ana *(ana)* | UYUŞUYOR |
-| at- | taşla *(taşla)* | părax *(bırak)* | taşla *(taşla)* | AYRIŞIYOR |
+| at- | taşla *(taşla)* | părax *(bırak)* | at *(at-fiil)* | AYRIŞIYOR |
 | ata | ata *(ata)* | ata *(ata)* | ata *(ata)* | UYUŞUYOR |
 | ateş | ot *(ot)* | ot *(ot)* | ot *(ot)* | UYUŞUYOR |
 | ay | ay *(ay)* | ay *(ay)* | ay *(ay)* | UYUŞUYOR |
@@ -40,9 +40,9 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | boyun | boyun *(boyun)* | boyın *(boyun)* | boyun *(boyun)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
 | bulut | bulut *(bulıt)* | bulıt *(bulıt)* | bulut *(bulıt)* | UYUŞUYOR |
-| burada | munda *(bunda)* | bunta *(bunda)* | bunda *(bunda)* | UYUŞUYOR |
+| burada | munda *(bunda)* | bunta *(bunda)* | munda *(bunda)* | UYUŞUYOR |
 | burun | burun *(burun)* | burun *(burun)* | burun *(burun)* | UYUŞUYOR |
-| büyük | uluğ *(uluğ)* | büyük *(bedük)* | uluğ *(uluğ)* | AYRIŞIYOR |
+| büyük | uluğ *(uluğ)* | büyük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | buz | buz *(buz)* | buz *(buz)* | buz *(buz)* | UYUŞUYOR |
 | çek- | tart *(tart)* | tart *(tart)* | tart *(tart)* | UYUŞUYOR |
 | çene | eñek *(eñek)* | eñek *(eñek)* | eñek *(eñek)* | UYUŞUYOR |
@@ -50,13 +50,13 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | çiğ | çiy *(çiğ)* | çiyg *(çiğ)* | çiğ *(çiğ)* | UYUŞUYOR |
 | ciğer (karaciğer) | bağır *(bağır)* | bağır *(bağır)* | bağır *(bağır)* | UYUŞUYOR |
 | çiğne- | çayna *(çayna)* | çayna *(çayna)* | çiyne *(çayna)* | UYUŞUYOR |
-| çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
-| çok | köp *(köp)* | köp *(köp)* | köp *(köp)* | UYUŞUYOR |
+| çocuk | bala *(bala)* | bala *(bala)* | çocuk *(çocuk)* | AYRIŞIYOR |
+| çok | köp *(köp)* | köp *(köp)* | çok *(çok)* | AYRIŞIYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | dal | butak *(butık)* | butık *(butık)* | butak *(butık)* | UYUŞUYOR |
 | dar | tar *(tar)* | tar *(tar)* | tar *(tar)* | UYUŞUYOR |
 | de-/ayt- | ayt *(ayt)* | te *(te)* | de *(te)* | AYRIŞIYOR |
-| değnek | tayak *(tayak)* | tayak *(tayak)* | tayak *(tayak)* | UYUŞUYOR |
+| değnek | tayak *(tayak)* | tayak *(tayak)* | sopa *(sopa)* | AYRIŞIYOR |
 | delik | teşik *(teşik)* | teşik *(teşik)* | deşik *(teşik)* | UYUŞUYOR |
 | deniz | teñiz *(teñiz)* | teñiz *(teñiz)* | deñiz *(teñiz)* | UYUŞUYOR |
 | deri | teri *(teri)* | teri *(teri)* | teri *(teri)* | UYUŞUYOR |
@@ -71,7 +71,7 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
 | ekşi | açığ *(açığ)* | ekşig *(ekşi)* | ekşi *(ekşi)* | AYRIŞIYOR |
 | el | kol *(kol-ad)* | el *(elig)* | kol *(kol-ad)* | AYRIŞIYOR |
-| em- | sor *(sor)* | em *(em)* | sor *(sor)* | AYRIŞIYOR |
+| em- | sor *(sor)* | em *(em)* | em *(em)* | AYRIŞIYOR |
 | er (erkek) | er *(er)* | er *(er)* | erkek *(er)* | UYUŞUYOR |
 | eski | eski *(eski)* | eski *(eski)* | eski *(eski)* | UYUŞUYOR |
 | et | et *(et-ad)* | et *(et-ad)* | et *(et-ad)* | UYUŞUYOR |
@@ -81,7 +81,7 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
 | geniş | keñ *(keñ)* | keñ *(keñ)* | keñ *(keñ)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
-| göbek | kindik *(kindik)* | kindik *(kindik)* | göbek *(göbek)* | AYRIŞIYOR |
+| göbek | kindik *(kindik)* | kindik *(kindik)* | kindik *(kindik)* | UYUŞUYOR |
 | göğüs | kökräk *(kökrek)* | kökräk *(kökrek)* | kögüs *(kögüz)* | AYRIŞIYOR |
 | gök | kök *(kök)* | kök *(kök)* | kök *(kök)* | UYUŞUYOR |
 | göl | köl *(köl)* | köl *(köl)* | köl *(köl)* | UYUŞUYOR |
@@ -90,7 +90,7 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | gül- | kül *(kül)* | kül *(kül)* | kül *(kül)* | UYUŞUYOR |
 | gün | kün *(kün)* | kün *(kün)* | kün *(kün)* | UYUŞUYOR |
 | güneş | kün *(kün)* | koyaş *(koyaş)* | kün *(kün)* | AYRIŞIYOR |
-| hangi | kaysı *(kayu)* | kayım *(kayu)* | kaysı *(kayu)* | UYUŞUYOR |
+| hangi | kaysı *(kayu)* | kayım *(kayu)* | hangi *(kañı)* | AYRIŞIYOR |
 | iç- | iç *(iç)* | iç *(iç)* | iç *(iç)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | ile | bile *(birle)* | birle *(birle)* | bile *(birle)* | UYUŞUYOR |
@@ -103,7 +103,7 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | it | it *(ıt)* | ıt *(ıt)* | it *(ıt)* | UYUŞUYOR |
 | iyi | yakşı *(yakşı)* | yakşı *(yakşı)* | yaxşı *(yakşı)* | UYUŞUYOR |
 | kabuk | kabuk *(kabuk)* | kabuk *(kabuk)* | kabuk *(kabuk)* | UYUŞUYOR |
-| kadın | tişiriw *(tişi)* | tişi *(tişi)* | karı *(karı)* | AYRIŞIYOR |
+| kadın | tişiriw *(tişi)* | tişi *(tişi)* | tişiriw *(tişi)* | UYUŞUYOR |
 | kal- | kal *(kal)* | kal *(kal)* | kal *(kal)* | UYUŞUYOR |
 | kalın | kalın *(kalın)* | kalın *(kalın)* | kalın *(kalın)* | UYUŞUYOR |
 | kan | kan *(kan)* | kan *(kan)* | kan *(kan)* | UYUŞUYOR |
@@ -117,14 +117,14 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | kemik | sümük *(süñük)* | süñük *(süñük)* | sümük *(süñük)* | UYUŞUYOR |
 | kenar | kıdığ *(kıdığ)* | kıdığ *(kıdığ)* | çet *(çet)* | AYRIŞIYOR |
 | kes- | kes *(kes)* | kes *(kes)* | kes *(kes)* | UYUŞUYOR |
-| keskin | yiti *(yitig)* | yiti *(yitig)* | yiti *(yitig)* | UYUŞUYOR |
+| keskin | yiti *(yitig)* | yiti *(yitig)* | iti *(yitig)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | kısa | kıska *(kısga)* | kısga *(kısga)* | kısa *(kısga)* | UYUŞUYOR |
 | kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
 | kızıl | kızıl *(kızıl)* | kızıl *(kızıl)* | kızıl *(kızıl)* | UYUŞUYOR |
 | kök | tamır *(tamır)* | tamır *(tamır)* | kök *(kök-bitki)* | AYRIŞIYOR |
 | kork- | kork *(kork)* | kork *(kork)* | kork *(kork)* | UYUŞUYOR |
-| koş- | yügür *(yügür)* | çap *(çap)* | yügür *(yügür)* | AYRIŞIYOR |
+| koş- | yügür *(yügür)* | çap *(çap)* | koş *(koş)* | AYRIŞIYOR |
 | kötü | yaman *(yaman)* | yaman *(yaman)* | yaman *(yaman)* | UYUŞUYOR |
 | küçük | kiçig *(kiçig)* | kiçig *(kiçig)* | kiçik *(kiçig)* | UYUŞUYOR |
 | kül | kül *(kül-ad)* | kül *(kül-ad)* | kül *(kül-ad)* | UYUŞUYOR |
@@ -143,16 +143,16 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | odun | ağaç *(ığaç)* | ığaç *(ığaç)* | ağaç *(ığaç)* | UYUŞUYOR |
 | öl- | öl *(öl)* | öl *(öl)* | öl *(öl)* | UYUŞUYOR |
 | öldür- | ölür *(ölür)* | ölür *(ölür)* | öldür *(ölür)* | UYUŞUYOR |
-| omuz | egin *(egin)* | egin *(egin)* | egin *(egin)* | UYUŞUYOR |
+| omuz | egin *(egin)* | egin *(egin)* | omuz *(omuz)* | AYRIŞIYOR |
 | onlar | olar *(olar)* | olar *(olar)* | olar *(olar)* | UYUŞUYOR |
-| orada | anda *(anda)* | anta *(anda)* | anda *(anda)* | UYUŞUYOR |
+| orada | anta *(anda)* | anta *(anda)* | anda *(anda)* | UYUŞUYOR |
 | orman | orman *(orman)* | orman *(orman)* | orman *(orman)* | UYUŞUYOR |
 | ot | ot *(ot-bitki)* | ot *(ot-bitki)* | ot *(ot-bitki)* | UYUŞUYOR |
 | otur- | olur *(olur)* | olur *(olur)* | otur *(olur)* | UYUŞUYOR |
 | saç | saç *(saç)* | saç *(saç)* | saç *(saç)* | UYUŞUYOR |
 | sağ (yön) | oñ *(oñ)* | oñ *(oñ)* | oñ *(oñ)* | UYUŞUYOR |
 | sarı | sarığ *(sarığ)* | sarığ *(sarığ)* | sarı *(sarığ)* | UYUŞUYOR |
-| say- | sana *(sana)* | sana *(sana)* | sana *(sana)* | UYUŞUYOR |
+| say- | sana *(sana)* | sana *(sana)* | say *(say)* | AYRIŞIYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | sıcak | isig *(isig)* | isig *(isig)* | issik *(isig)* | UYUŞUYOR |
 | sinek | çibin *(çıbın)* | çibin *(çıbın)* | sinek *(siñek)* | AYRIŞIYOR |
@@ -165,7 +165,7 @@ Toplam 197 kavram, 26 tanesi ayrışıyor.
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
 | tatlı | tatlı *(tatlı)* | tatığlığ *(tatlı)* | tatlı *(tatlı)* | UYUŞUYOR |
 | tırnak | tırnak *(tırnak)* | tırñak *(tırnak)* | tırnak *(tırnak)* | UYUŞUYOR |
-| tohum | uruk *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | UYUŞUYOR |
+| tohum | uruğ *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | UYUŞUYOR |
 | toz | toz *(toz)* | toz *(toz)* | toz *(toz)* | UYUŞUYOR |
 | tükür- | tükür *(tükür)* | tükür *(tükür)* | tükür *(tükür)* | UYUŞUYOR |
 | dur-/tur- | tur *(tur)* | tur *(tur)* | tur *(tur)* | UYUŞUYOR |

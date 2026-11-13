@@ -5,7 +5,7 @@
 - **Anlam:** Küçük, ufak.
 - **İngilizce:** small
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kiçig](../kok/kiçig.md) | türkçe | 0.90 (*kiçig*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~166 milyon (%85, *kiçik*) | *kičig |
-| [bäläkäy](../kok/bäläkäy.md) | türkçe | -0.42 (*bäläkäy*) | Çuvaşça %0 | Başkurtça (1 hat) | ~11 milyon (%6, *bäläkäy*) |  |
-| [ufak](../kok/ufak.md) | türkçe | -0.44 (*ufaçık*) | Çuvaşça %0 | Kırım Tatarcası (1 hat) | ~41 milyon (%21, *ufaçık*) |  |
+| [kiçig](../kok/kiçig.md) | türkçe | 0.90 (*kiçig*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~165 milyon (%85, *kiçik*) | *kičig |
+| [bäläkäy](../kok/bäläkäy.md) | türkçe | -0.41 (*bäläkäy*) | Çuvaşça %0 | Başkurtça (1 hat) | ~55 milyon (%28, *bäläkäy*) |  |
+| [ufak](../kok/ufak.md) | türkçe | -0.46 (*ufaçık*) | Çuvaşça %0 | Kırım Tatarcası (1 hat) | ~101 milyon (%52, *ufaçık*) |  |
 
 **Büyük topluluklarda *kiçig* biçiminin anlaşılırlığı:** Başkurtça %0, Kırım Tatarcası %0, Karaçay-Malkarca %68, Tatarca %68, Karakalpakça %70, Kazakça %70, Çuvaşça %70, Gagavuzca %71, Sahaca %72, Kumukça %75, Özbekçe %79, Türkiye Türkçesi %80, Sibirya Tatarcası %82, Kırgızca %83, Türkmence %90, Uygurca %95, Azerbaycan Türkçesi %95.
 
@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kiçi | kiçi | kiçi | kiçi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | kiçi ↑ | kiçi ↑ | kiçi ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | kiçi | kiçi | kiçi | kiçi |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kiçi | kiçi | kişkene |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kiçik | kiçi | kişkene |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | keçkenä | *bäläkäy* (bäläkäy) | keçkenä |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | keçkenä | *keçkenä* (kiçig) | keçkenä | keçkenä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | keçkenä | keçkenä | keçkenä | keçkenä |
@@ -79,7 +79,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | giççi | giççi | giççi | giççi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | gitçe | gitçe | gitçe | gitçe |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gitçe | gitçe | gitçe | gitçe |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kişkene | kişkene | kişkene |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kiçü | kişkene | kişkene |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kişkene | kişkene | kişkene | kişkene |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kişkene | kişkene | kişkene | kişkene |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kişkene | kişkene | kişkene | kişkene |
@@ -101,21 +101,21 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | kiçik | kiçik | kiçik | kiçik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kiçik | kiçik | kiçik | kiçik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | kiçik ↑ | kiçik ↑ | kiçik ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | kiçig | kiçig | küççüguy |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | kiçig | kiçig | kiçig |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | küççüguy | küççüguy | küççüguy |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | küççüguy | küççüguy | küççüguy | küççüguy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | küççüguy | küççüguy | küççüguy | küççüguy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | küççügüy | küççügüy | küççügüy | küççügüy |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kiçig | kiçig | kiçicek |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | kiçig | kiçig | kiçig |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | kiçig | kiçig | kiçig | kiçig |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kiçig ↑ | kiçig ↑ | kiçicek ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kiçig ↑ | kiçig ↑ | kiçig ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | kiçig | kiçig | kiçicek |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | kiçicek | kiçicek | kiçicek | kiçicek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kiçicek | kiçicek | kiçicek | kiçicek |

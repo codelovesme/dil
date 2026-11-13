@@ -5,7 +5,7 @@
 - **Anlam:** Buz.
 - **İngilizce:** ice
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [buz](../kok/buz.md) | türkçe | 0.92 (*buz*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~182 milyon (%94, *buz*) | *buŕ |
-| [toş](../kok/toş.md) | türkçe | -0.40 (*doş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *toş*) |  |
-| [toñ](../kok/toñ.md) | türkçe | -0.45 (*toñsı*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *toñsı*) | *toŋ |
+| [buz](../kok/buz.md) | türkçe | 0.89 (*buz*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~182 milyon (%94, *buz*) | *buŕ |
+| [toş](../kok/toş.md) | türkçe | -0.39 (*doş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~67 milyon (%34, *toş*) |  |
+| [toñ](../kok/toñ.md) | türkçe | -0.44 (*toñsı*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *toñsı*) | *toŋ |
 
 **Büyük topluluklarda *buz* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %62, Sibirya Tatarcası %67, Sahaca %69, Kazakça %83, Karakalpakça %83, Kırgızca %83, Özbekçe %83, Uygurca %83, Başkurtça %92, Tatarca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100.
 

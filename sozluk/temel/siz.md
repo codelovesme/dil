@@ -5,7 +5,7 @@
 - **Anlam:** İkinci çoğul şahıs zamiri; birçok dilde saygı için tekil de.
 - **İngilizce:** you (plural; polite)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %85 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [siz](../kok/siz.md) | türkçe | 1.09 (*siz*) | Sahaca %65 | Ana Türkçe (2 hat) | ~192 milyon (%99, *siz*) | *siŕ |
+| [siz](../kok/siz.md) | türkçe | 1.08 (*siz*) | Sahaca %65 | Ana Türkçe (2 hat) | ~192 milyon (%99, *siz*) | *siŕ |
 
 **Büyük topluluklarda *siz* biçiminin anlaşılırlığı:** Sahaca %65, Tuvaca %70, Kırgızca %70, Çuvaşça %75, Başkurtça %79, Tatarca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Irak Türkmencesi %100, Kaşkayca %100, Türkmence %100, Horasan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Özbekçe %100, Uygurca %100.
 
@@ -101,7 +101,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | siz | siz | siz | siz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | siz ↑ | siz ↑ | siz ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | siz ↑ | siz ↑ | siz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | siler | siler | siler |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | sler | siler | siler |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | siler | siler | siler | siler |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | siler | siler | siler | siler |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | sler | sler | sler | sler |

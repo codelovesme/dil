@@ -5,7 +5,7 @@
 - **Anlam:** Çiğ (pişmemiş).
 - **İngilizce:** raw
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %65 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %62 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [çiğ](../kok/çiğ.md) | türkçe | 0.74 (*çiy*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~154 milyon (%79, *çiğ*) |  |
+| [çiğ](../kok/çiğ.md) | türkçe | 0.70 (*çiy*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~157 milyon (%81, *çiğ*) |  |
 | [yig](../kok/yig.md) | türkçe | seçilemez | | | |  |
-| [yäş-taze](../kok/yäş-taze.md) | türkçe | -0.42 (*yäş*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *yäş*) |  |
-| [çĕrĕ](../kok/çĕrĕ.md) | türkçe | -0.36 (*çĕrĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *çĕrĕ*) |  |
+| [yäş-taze](../kok/yäş-taze.md) | türkçe | -0.41 (*yäş*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *yäş*) |  |
+| [çĕrĕ](../kok/çĕrĕ.md) | türkçe | -0.35 (*çĕrĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *çĕrĕ*) |  |
 
 **Büyük topluluklarda *çiy* biçiminin anlaşılırlığı:** Çuvaşça %0, Sibirya Tatarcası %0, Kazakça %69, Sahaca %71, Karakalpakça %75, Başkurtça %79, Kırgızca %80, Türkiye Türkçesi %83, Gagavuzca %83, Türkmence %83, Tatarca %83, Tuvaca %83, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100.
 

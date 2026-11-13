@@ -5,7 +5,7 @@
 - **Anlam:** Bir şeyi başkasına geçirmek.
 - **İngilizce:** give
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ber](../kok/ber.md) | türkçe | 1.13 (*ber*) | Çuvaşça %83 | Ana Türkçe (2 hat) | ~182 milyon (%94, *ber*) | *bēr- |
+| [ber](../kok/ber.md) | türkçe | 1.12 (*ber*) | Çuvaşça %83 | Ana Türkçe (2 hat) | ~182 milyon (%94, *ber*) | *bēr- |
 
 **Büyük topluluklarda *ber* biçiminin anlaşılırlığı:** Çuvaşça %83, Tatarca %88, Başkurtça %88, Sahaca %88, Uygurca %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Tuvaca %100.
 

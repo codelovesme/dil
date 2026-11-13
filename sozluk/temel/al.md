@@ -5,7 +5,7 @@
 - **Anlam:** Bir şeyi tutup kendine geçirmek.
 - **İngilizce:** take
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -23,7 +23,7 @@
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
 | [al](../kok/al.md) | türkçe | 1.17 (*al*) | Çuvaşça %81 | Ana Türkçe (2 hat) | ~187 milyon (%96, *al*) | *al- |
-| [kötür](../kok/kötür.md) | türkçe | -0.44 (*götür*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *götür*) | *köt(ü)r- |
+| [kötür](../kok/kötür.md) | türkçe | -0.44 (*götür*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *götür*) | *köt(ü)r- |
 
 **Büyük topluluklarda *al* biçiminin anlaşılırlığı:** Çuvaşça %81, Özbekçe %81, Sahaca %81, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
 

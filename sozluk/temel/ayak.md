@@ -5,7 +5,7 @@
 - **Anlam:** Ayak, bacak.
 - **İngilizce:** leg, foot
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [adak](../kok/adak.md) | türkçe | 0.90 (*ayak*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~186 milyon (%96, *ayak*) | *adak |
-| [but](../kok/but.md) | türkçe | -0.37 (*but*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~10 milyon (%5, *but*) | *but |
-| [ura](../kok/ura.md) | türkçe | -0.39 (*ura*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ura*) |  |
+| [adak](../kok/adak.md) | türkçe | 0.88 (*ayak*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~186 milyon (%96, *ayak*) | *adak |
+| [but](../kok/but.md) | türkçe | -0.36 (*but*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~72 milyon (%37, *but*) | *but |
+| [ura](../kok/ura.md) | türkçe | -0.38 (*ura*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ura*) |  |
 
 **Büyük topluluklarda *ayak* biçiminin anlaşılırlığı:** Çuvaşça %0, Tuvaca %0, Özbekçe %81, Sahaca %81, Karaçay-Malkarca %83, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 

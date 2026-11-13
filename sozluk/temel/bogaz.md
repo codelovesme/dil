@@ -5,7 +5,7 @@
 - **Anlam:** Boğaz, gırtlak.
 - **İngilizce:** throat
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tamak](../kok/tamak.md) | türkçe | 0.44 (*tamak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~69 milyon (%36, *tamak*) | *tamgak |
-| [boğaz](../kok/boğaz.md) | türkçe | 0.19 (*boğaz*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~140 milyon (%72, *boğaz*) | *bogaŕ |
-| [pır](../kok/pır.md) | türkçe | -0.38 (*pır*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *pır*) |  |
+| [tamak](../kok/tamak.md) | türkçe | 0.42 (*tamak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~126 milyon (%65, *tamak*) | *tamgak |
+| [boğaz](../kok/boğaz.md) | türkçe | 0.19 (*boğaz*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~157 milyon (%81, *boğaz*) | *bogaŕ |
+| [pır](../kok/pır.md) | türkçe | -0.37 (*pır*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *pır*) |  |
 
 **Büyük topluluklarda *tamak* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Tuvaca %0, Özbekçe %85, Sahaca %95, Tatarca %100, Başkurtça %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100.
 

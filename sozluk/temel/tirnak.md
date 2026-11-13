@@ -5,7 +5,7 @@
 - **Anlam:** Tırnak.
 - **İngilizce:** fingernail
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tırnak](../kok/tırnak.md) | türkçe | 1.13 (*tırnak*) | Çuvaşça %73 | Ana Türkçe (2 hat) | ~185 milyon (%96, *tırnak*) | *tïrŋak |
+| [tırnak](../kok/tırnak.md) | türkçe | 1.12 (*tırnak*) | Çuvaşça %73 | Ana Türkçe (2 hat) | ~185 milyon (%96, *tırnak*) | *tïrŋak |
 
 **Büyük topluluklarda *tırnak* biçiminin anlaşılırlığı:** Çuvaşça %73, Sahaca %75, Tuvaca %88, Özbekçe %90, Uygurca %92, Azerbaycan Türkçesi %92, Türkmence %96, Kırgızca %96, Türkiye Türkçesi %100, Gagavuzca %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100.
 

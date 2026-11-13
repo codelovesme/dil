@@ -5,7 +5,7 @@
 - **Anlam:** Karın.
 - **İngilizce:** belly
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [karın](../kok/karın.md) | türkçe | 0.15 (*karın*) | Türkmence %0 | Ana Türkçe (2 hat) | ~162 milyon (%83, *karın*) | *karïn |
-| [iç-ad](../kok/iç-ad.md) | türkçe | 0.18 (*iç*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~115 milyon (%59, *iç*) | *ič |
-| [kursak](../kok/kursak.md) | türkçe | -0.25 (*kursak*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~61 milyon (%31, *kursak*) |  |
+| [karın](../kok/karın.md) | türkçe | 0.16 (*karın*) | Türkmence %0 | Ana Türkçe (2 hat) | ~166 milyon (%86, *karın*) | *karïn |
+| [iç-ad](../kok/iç-ad.md) | türkçe | 0.20 (*iç*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~117 milyon (%61, *iç*) | *ič |
+| [kursak](../kok/kursak.md) | türkçe | -0.28 (*kursak*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~107 milyon (%55, *kursak*) |  |
 
 **Büyük topluluklarda *iç* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Tatarca %0, Kırım Tatarcası %0, Kumukça %0, Karaçay-Malkarca %0, Özbekçe %0, Başkurtça %69, Tuvaca %69, Sibirya Tatarcası %81, Kazakça %88, Karakalpakça %88, Sahaca %88, Türkmence %100, Kırgızca %100, Uygurca %100.
 
@@ -79,7 +79,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kursak | kursak | kursak | kursak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | karın | karın | karın | karın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | karın | karın | karın | karın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | iş | iş | is |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | is | iş | is |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | is | is | is | is |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | is | is | is | is |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | iş | iş | iş | iş |

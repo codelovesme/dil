@@ -5,7 +5,7 @@
 - **Anlam:** Yeri soran soru sözü (nerede?).
 - **İngilizce:** where
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kayda](../kok/kayda.md) | türkçe | 0.60 (*kayda*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~106 milyon (%55, *kayda*) | *kayu-da |
-| [nerede](../kok/nerede.md) | türkçe | -0.25 (*ne yerde*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~127 milyon (%66, *nerede*) |  |
-| [kanda](../kok/kanda.md) | türkçe | -0.15 (*kanna*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~52 milyon (%27, *kani*) |  |
-| [hara](../kok/hara.md) | türkçe | -0.44 (*harada*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *harada*) |  |
-| [ăşta](../kok/ăşta.md) | türkçe | -0.39 (*ăşta*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ăşta*) |  |
+| [kayda](../kok/kayda.md) | türkçe | 0.58 (*kayda*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~127 milyon (%66, *kayda*) | *kayu-da |
+| [nerede](../kok/nerede.md) | türkçe | -0.28 (*ne yerde*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~143 milyon (%74, *nerede*) |  |
+| [kanda](../kok/kanda.md) | türkçe | -0.14 (*kanna*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~99 milyon (%51, *kani*) |  |
+| [hara](../kok/hara.md) | türkçe | -0.44 (*harada*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *harada*) |  |
+| [ăşta](../kok/ăşta.md) | türkçe | -0.38 (*ăşta*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ăşta*) |  |
 
 **Büyük topluluklarda *kayda* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Uygurca %0, Sahaca %0, Karakalpakça %86, Özbekçe %86, Başkurtça %90, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100, Tuvaca %100.
 

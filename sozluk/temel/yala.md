@@ -5,7 +5,7 @@
 - **Anlam:** Yalamak.
 - **İngilizce:** lick
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yalğa](../kok/yalğa.md) | türkçe | 1.12 (*yala*) | Çuvaşça %72 | Ana Türkçe (2 hat) | ~192 milyon (%99, *yala*) | *yalga- |
+| [yalğa](../kok/yalğa.md) | türkçe | 1.11 (*yala*) | Çuvaşça %72 | Ana Türkçe (2 hat) | ~192 milyon (%99, *yala*) | *yalga- |
 
 **Büyük topluluklarda *yala* biçiminin anlaşılırlığı:** Çuvaşça %72, Tuvaca %72, Sahaca %80, Karaçay-Malkarca %94, Kazakça %94, Karakalpakça %94, Kırgızca %94, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Özbekçe %100, Uygurca %100.
 
@@ -86,7 +86,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yala | yala | yala | yala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | jala ↑ | jala ↑ | jala ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jala ↑ | jala ↑ | jala ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | jala | jala | jala |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | dala | jala | jala |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | jala | jala | jala | jala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jala | jala | jala | jala |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | dala | dala | dala | dala |

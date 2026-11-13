@@ -5,7 +5,7 @@
 - **Anlam:** Ateş.
 - **İngilizce:** fire
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %82 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ot](../kok/ot.md) | türkçe | 0.98 (*ot*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~142 milyon (%73, *ot*) | *ōt |
+| [ot](../kok/ot.md) | türkçe | 0.99 (*ot*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~138 milyon (%71, *ot*) | *ōt |
 | ateş | alıntı:fa | seçilemez | | | |  |
 
 **Büyük topluluklarda *ot* biçiminin anlaşılırlığı:** Gagavuzca %0, Kırım Tatarcası %0, Türkiye Türkçesi %22, Çuvaşça %75, Türkmence %83, Sahaca %83, Azerbaycan Türkçesi %88, Tatarca %88, Başkurtça %88, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.

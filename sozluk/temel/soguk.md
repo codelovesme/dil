@@ -5,7 +5,7 @@
 - **Anlam:** Soğuk.
 - **İngilizce:** cold
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [soğık](../kok/soğık.md) | türkçe | 0.87 (*soğuk*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~182 milyon (%94, *soğuk*) | *sōgïk |
-| [tımnıı](../kok/tımnıı.md) | türkçe | -0.40 (*tımnıı*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *tımnıı*) |  |
-| [sivĕ](../kok/sivĕ.md) | türkçe | -0.38 (*sivĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sivĕ*) |  |
+| [soğık](../kok/soğık.md) | türkçe | 0.84 (*soğuk*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~182 milyon (%94, *soğuk*) | *sōgïk |
+| [tımnıı](../kok/tımnıı.md) | türkçe | -0.39 (*tımnıı*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *tımnıı*) |  |
+| [sivĕ](../kok/sivĕ.md) | türkçe | -0.37 (*sivĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sivĕ*) |  |
 
 **Büyük topluluklarda *soğuk* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Başkurtça %75, Tatarca %78, Kazakça %78, Karakalpakça %82, Gagavuzca %85, Kırgızca %85, Tuvaca %85, Azerbaycan Türkçesi %90, Kırım Tatarcası %90, Kumukça %90, Karaçay-Malkarca %90, Özbekçe %95, Türkmence %95, Türkiye Türkçesi %100, Uygurca %100.
 

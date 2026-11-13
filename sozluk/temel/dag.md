@@ -5,7 +5,7 @@
 - **Anlam:** Dağ.
 - **İngilizce:** mountain
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tağ](../kok/tağ.md) | türkçe | 0.96 (*tağ*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~175 milyon (%90, *tağ*) | *tāg |
-| [kaya](../kok/kaya.md) | türkçe | -0.41 (*xaya*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xaya*) | *kaya |
-| [bayır](../kok/bayır.md) | türkçe | -0.45 (*bayır*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *bayır*) |  |
-| [kır](../kok/kır.md) | türkçe | -0.47 (*kır*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~10 milyon (%5, *kır*) |  |
+| [tağ](../kok/tağ.md) | türkçe | 0.95 (*tağ*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~175 milyon (%90, *tağ*) | *tāg |
+| [kaya](../kok/kaya.md) | türkçe | -0.40 (*xaya*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *xaya*) | *kaya |
+| [bayır](../kok/bayır.md) | türkçe | -0.46 (*bayır*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *bayır*) |  |
+| [kır](../kok/kır.md) | türkçe | -0.46 (*kır*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~67 milyon (%34, *kır*) |  |
 
 **Büyük topluluklarda *tağ* biçiminin anlaşılırlığı:** Gagavuzca %0, Sahaca %0, Çuvaşça %71, Kırgızca %71, Özbekçe %88, Başkurtça %92, Kırım Tatarcası %92, Kumukça %92, Kazakça %92, Tuvaca %92, Türkiye Türkçesi %92, Azerbaycan Türkçesi %92, Türkmence %92, Tatarca %92, Karaçay-Malkarca %92, Karakalpakça %92, Sibirya Tatarcası %92, Uygurca %100.
 

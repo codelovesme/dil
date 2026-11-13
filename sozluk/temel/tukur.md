@@ -5,7 +5,7 @@
 - **Anlam:** Tükürmek.
 - **İngilizce:** spit
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tükür](../kok/tükür.md) | türkçe | 0.71 (*tükür*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~180 milyon (%93, *tükür*) |  |
+| [tükür](../kok/tükür.md) | türkçe | 0.67 (*tükür*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~180 milyon (%93, *tükür*) |  |
 | [sod](../kok/sod.md) | türkçe | seçilemez | | | |  |
-| [sur](../kok/sur.md) | türkçe | -0.38 (*sur*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sur*) |  |
-| [tüdeste](../kok/tüdeste.md) | türkçe | -0.45 (*tüdeste*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *tüdeste*) |  |
-| [sillee](../kok/sillee.md) | türkçe | -0.42 (*sillee*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *sillee*) |  |
+| [sur](../kok/sur.md) | türkçe | -0.37 (*sur*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sur*) |  |
+| [tüdeste](../kok/tüdeste.md) | türkçe | -0.45 (*tüdeste*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *tüdeste*) |  |
+| [sillee](../kok/sillee.md) | türkçe | -0.40 (*sillee*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *sillee*) |  |
 
 **Büyük topluluklarda *tükür* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Özbekçe %80, Tatarca %88, Azerbaycan Türkçesi %90, Başkurtça %90, Türkmence %92, Karakalpakça %92, Kazakça %93, Sibirya Tatarcası %95, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
 

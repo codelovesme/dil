@@ -5,7 +5,7 @@
 - **Anlam:** Üçüncü çoğul şahıs zamiri.
 - **İngilizce:** they
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [olar](../kok/olar.md) | türkçe | 1.02 (*olar*) | Sahaca %0 | Ana Türkçe (2 hat) | ~177 milyon (%91, *olar*) | *ol + *-lAr (eğik gövde *an-) |
-| [kini](../kok/kini.md) | türkçe | -0.41 (*kiniler*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kiniler*) |  |
+| [olar](../kok/olar.md) | türkçe | 1.00 (*olar*) | Sahaca %0 | Ana Türkçe (2 hat) | ~177 milyon (%91, *olar*) | *ol + *-lAr (eğik gövde *an-) |
+| [kini](../kok/kini.md) | türkçe | -0.40 (*kiniler*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kiniler*) |  |
 
 **Büyük topluluklarda *olar* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %57, Karaçay-Malkarca %78, Gagavuzca %80, Türkiye Türkçesi %90, Azerbaycan Türkçesi %90, Tatarca %91, Kırgızca %91, Başkurtça %94, Özbekçe %94, Uygurca %94, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Tuvaca %100.
 

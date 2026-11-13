@@ -5,7 +5,7 @@
 - **Anlam:** Anne.
 - **İngilizce:** mother
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ana](../kok/ana.md) | türkçe | 0.70 (*ana*) | Sahaca %0 | Ana Türkçe (2 hat) | ~171 milyon (%88, *ana*) | *ana |
-| [içe](../kok/içe.md) | türkçe | -0.24 (*ice*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~8 milyon (%4, *icä*) | *ẹčä |
+| [ana](../kok/ana.md) | türkçe | 0.67 (*ana*) | Sahaca %0 | Ana Türkçe (2 hat) | ~171 milyon (%88, *ana*) | *ana |
+| [içe](../kok/içe.md) | türkçe | -0.21 (*ice*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~70 milyon (%36, *icä*) | *ẹčä |
 | [ög](../kok/ög.md) | türkçe | seçilemez | | | | *ȫg |
 
 **Büyük topluluklarda *ana* biçiminin anlaşılırlığı:** Sahaca %0, Tuvaca %0, Başkurtça %79, Sibirya Tatarcası %79, Çuvaşça %81, Türkiye Türkçesi %81, Türkmence %83, Kırgızca %83, Özbekçe %88, Gagavuzca %100, Azerbaycan Türkçesi %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Uygurca %100.

@@ -5,7 +5,7 @@
 - **Anlam:** Kulakla algılamak, işitmek.
 - **İngilizce:** hear
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [eşit](../kok/eşit.md) | türkçe | 0.84 (*eşit*) | Kırgızca %0 | Ana Türkçe (2 hat) | ~181 milyon (%93, *eşit*) | *ešit- |
-| [uk](../kok/uk.md) | türkçe | -0.37 (*uk*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~41 milyon (%21, *uk*) | *uk- |
-| [tıñla](../kok/tıñla.md) | türkçe | -0.39 (*tıñna*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~0 milyon (%0, *dıñna*) | *tıñla- |
+| [eşit](../kok/eşit.md) | türkçe | 0.82 (*eşit*) | Kırgızca %0 | Ana Türkçe (2 hat) | ~181 milyon (%93, *eşit*) | *ešit- |
+| [uk](../kok/uk.md) | türkçe | -0.37 (*uk*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~88 milyon (%45, *uk*) | *uk- |
+| [tıñla](../kok/tıñla.md) | türkçe | -0.38 (*tıñna*) | Çuvaşça %0 | Güney Sibirya (2 hat) | ~71 milyon (%37, *tıñna*) | *tıñla- |
 
 **Büyük topluluklarda *eşit* biçiminin anlaşılırlığı:** Kırgızca %0, Tuvaca %0, Çuvaşça %66, Sahaca %78, Tatarca %81, Başkurtça %81, Gagavuzca %91, Sibirya Tatarcası %91, Uygurca %91, Türkiye Türkçesi %91, Kazakça %94, Karakalpakça %94, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Özbekçe %100.
 

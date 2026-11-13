@@ -5,7 +5,7 @@
 - **Anlam:** Yıldız.
 - **İngilizce:** star
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yultuz](../kok/yultuz.md) | türkçe | 1.05 (*yultuz*) | Çuvaşça %71 | Ana Türkçe (2 hat) | ~176 milyon (%91, *yulduz*) | *yultuŕ |
+| [yultuz](../kok/yultuz.md) | türkçe | 1.04 (*yultuz*) | Çuvaşça %71 | Ana Türkçe (2 hat) | ~176 milyon (%91, *yulduz*) | *yultuŕ |
 
 **Büyük topluluklarda *yultuz* biçiminin anlaşılırlığı:** Çuvaşça %71, Tuvaca %71, Başkurtça %79, Kırgızca %79, Sahaca %79, Türkiye Türkçesi %83, Gagavuzca %83, Türkmence %83, Kırım Tatarcası %83, Tatarca %85, Kazakça %85, Azerbaycan Türkçesi %88, Karaçay-Malkarca %92, Karakalpakça %92, Kumukça %96, Özbekçe %96, Uygurca %100.
 
@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | yulduz | yultuz | yulduz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yulduz | yulduz | yulduz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yulduz | yulduz | yulduz | yulduz |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yıldız | yıldız | yıldız |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yultus | yıldız | yıldız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | yıldız | yıldız | yıldız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | yıldız | yıldız | yıldız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | yıldız | yıldız | yıldız | yıldız |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | ulduz | ulduz | ulduz | ulduz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ulduz | ulduz | ulduz | ulduz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | ulduz ↑ | ulduz ↑ | ulduz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yıldız ↑ | yıldız ↑ | yıldız ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yıldız ↑ | yıldız ↑ | yıldız ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yultus ↑ | yıldız ↑ | yıldız ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yultus ↑ | yıldız ↑ | yıldız ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | yıldız | yıldız | yıldız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | yıldız | yıldız | yıldız | yıldız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yıldız | yıldız | yıldız | yıldız |
@@ -77,15 +77,15 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yulduz | yulduz | yulduz | yulduz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | julduz | julduz | julduz | julduz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | julduz | julduz | julduz | julduz |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | julduz | julduz | juldız |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | juldız | julduz | juldız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | juldız | juldız | juldız | juldız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | juldız | juldız | juldız | juldız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | julduz | julduz | julduz | julduz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | julduz | julduz | julduz | julduz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | yuldız | yuldız | yuldız | yuldız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yuldız | yuldız | yuldız | yuldız |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | julduz ↑ | julduz ↑ | juldız ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | julduz ↑ | julduz ↑ | juldız ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | juldız ↑ | julduz ↑ | juldız ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | juldız ↑ | julduz ↑ | juldız ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | jıldız | jıldız | jıldız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | jıldız | jıldız | jıldız | jıldız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jıldız | jıldız | jıldız | jıldız |

@@ -5,7 +5,7 @@
 - **Anlam:** Kanat.
 - **İngilizce:** wing
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kanat](../kok/kanat.md) | türkçe | 1.10 (*kanat*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~189 milyon (%97, *kanat*) |  |
-| [çalgın](../kok/çalgın.md) | türkçe | -0.43 (*çalgın*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *çalgın*) |  |
+| [kanat](../kok/kanat.md) | türkçe | 1.09 (*kanat*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~189 milyon (%97, *kanat*) |  |
+| [çalgın](../kok/çalgın.md) | türkçe | -0.42 (*çalgın*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *çalgın*) |  |
 
 **Büyük topluluklarda *kanat* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %82, Özbekçe %93, Sahaca %93, Azerbaycan Türkçesi %95, Türkmence %95, Türkiye Türkçesi %100, Gagavuzca %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Yeni.
 - **İngilizce:** new
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %72 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yañı](../kok/yañı.md) | türkçe | 1.06 (*yañı*) | Çuvaşça %66 | Ana Türkçe (2 hat) | ~170 milyon (%88, *yeñi*) | *yaŋï |
+| [yañı](../kok/yañı.md) | türkçe | 1.05 (*yañı*) | Çuvaşça %66 | Ana Türkçe (2 hat) | ~167 milyon (%86, *yeñi*) | *yaŋï |
 
 **Büyük topluluklarda *yañı* biçiminin anlaşılırlığı:** Çuvaşça %66, Sahaca %78, Türkiye Türkçesi %81, Gagavuzca %81, Azerbaycan Türkçesi %81, Kazakça %84, Karakalpakça %84, Uygurca %88, Tatarca %91, Sibirya Tatarcası %91, Karaçay-Malkarca %94, Kırgızca %94, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Değnek, sopa.
 - **İngilizce:** stick
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %69 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
+- **Veri kapsaması:** %67 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 1/6
 
 ## Dört hedef
 
@@ -13,21 +13,21 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **tayak** | [tayak](../kok/tayak.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **tayak** | [tayak](../kok/tayak.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **tayak** | [tayak](../kok/tayak.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **sopa** | [sopa](../kok/sopa.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [tayak](../kok/tayak.md) (seviye 0), [sopa](../kok/sopa.md) (seviye 0), [çıbık](../kok/çıbık.md) (seviye 0), [çomak](../kok/çomak.md) (seviye 0), [mas](../kok/mas.md) (seviye 0), [patak](../kok/patak.md) (seviye 0) |
 
-İlk üç hedef **uyuşuyor**.
+İlk üç hedef **ayrişiyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tayak](../kok/tayak.md) | türkçe | 0.65 (*tayak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~129 milyon (%67, *tayak*) | *tayak |
-| [sopa](../kok/sopa.md) | türkçe | -0.38 (*sopa*) | Çuvaşça %0 | Türkiye-Balkan grubu (2 hat) | ~112 milyon (%58, *sopa*) |  |
+| [tayak](../kok/tayak.md) | türkçe | 0.62 (*tayak*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~135 milyon (%70, *tayak*) | *tayak |
+| [sopa](../kok/sopa.md) | türkçe | -0.37 (*sopa*) | Çuvaşça %0 | Türkiye-Balkan grubu (2 hat) | ~139 milyon (%71, *sopa*) |  |
 | [çıbık](../kok/çıbık.md) | türkçe | seçilemez | | | |  |
-| [çomak](../kok/çomak.md) | türkçe | -0.45 (*çomak*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *çomak*) |  |
-| [mas](../kok/mas.md) | türkçe | -0.49 (*mas*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *mas*) |  |
-| [patak](../kok/patak.md) | türkçe | -0.37 (*patak*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *patak*) |  |
+| [çomak](../kok/çomak.md) | türkçe | -0.44 (*çomak*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *çomak*) |  |
+| [mas](../kok/mas.md) | türkçe | -0.48 (*mas*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *mas*) |  |
+| [patak](../kok/patak.md) | türkçe | -0.35 (*patak*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *patak*) |  |
 
 **Büyük topluluklarda *tayak* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Tuvaca %72, Özbekçe %85, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 
@@ -37,14 +37,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | tayak | tayak | tayak |  |
+| **Türk dilleri** | tayak | tayak | sopa |  |
 | &nbsp;&nbsp;**Oğur kolu** | *patak* (patak) | *patak* (patak) | *patak* (patak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | patak | patak | patak | patak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | patak | patak | patak | patak |
-| &nbsp;&nbsp;**Ortak Türkçe** | tayak | tayak | tayak |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | tayak ↑ | tayak ↑ | tayak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | tayak ↑ | tayak ↑ | tayak ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *sopa* (sopa) | *sopa* (sopa) | *sopa* (sopa) |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | tayak | tayak | sopa |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | tayak ↑ | tayak ↑ | sopa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | tayak ↑ | tayak ↑ | sopa ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *sopa* (sopa) | *sopa* (sopa) | sopa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | sopa | sopa | sopa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | sopa | sopa | sopa |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | sopa | sopa | sopa | sopa |
@@ -63,7 +63,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tayak | tayak | tayak | tayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | tayak ↑ | tayak ↑ | tayak ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | sopa ↑ | sopa ↑ | sopa ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tayak | tayak | tayak |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tayak | tayak | *tayak* (tayak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tayak | tayak | tayak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tayak | tayak | tayak | tayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tayak | tayak | tayak | tayak |
@@ -97,7 +97,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tayak | tayak | tayak | tayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | tayak | tayak | tayak | tayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tayak | tayak | tayak | tayak |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | toyok | toyok | toyok |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | toyok | toyok | *toyok* (tayak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | toyok | toyok | toyok | toyok |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | toyok | toyok | toyok | toyok |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | tayak | tayak | tayak |  |

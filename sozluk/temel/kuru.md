@@ -5,7 +5,7 @@
 - **Anlam:** Kuru.
 - **İngilizce:** dry
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kuruğ](../kok/kuruğ.md) | türkçe | 0.89 (*kuruğ*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~180 milyon (%93, *kuru*) | *kurïg |
-| [kak-kuru](../kok/kak-kuru.md) | türkçe | -0.44 (*kak*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *kak*) |  |
-| [keebiğ](../kok/keebiğ.md) | türkçe | -0.49 (*keebiğ*) | Çuvaşça %0 | Çulımca (1 hat) | ~0 milyon (%0, *keebiğ*) |  |
-| [tipĕ](../kok/tipĕ.md) | türkçe | -0.39 (*tipĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tipĕ*) |  |
+| [kuruğ](../kok/kuruğ.md) | türkçe | 0.88 (*kuruğ*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~180 milyon (%93, *kuru*) | *kurïg |
+| [kak-kuru](../kok/kak-kuru.md) | türkçe | -0.43 (*kak*) | Çuvaşça %0 | Sibirya Tatarcası (1 hat) | ~11 milyon (%6, *kak*) |  |
+| [keebiğ](../kok/keebiğ.md) | türkçe | -0.49 (*keebiğ*) | Çuvaşça %0 | Çulımca (1 hat) | ~55 milyon (%28, *keebiğ*) |  |
+| [tipĕ](../kok/tipĕ.md) | türkçe | -0.38 (*tipĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tipĕ*) |  |
 
 **Büyük topluluklarda *kuruğ* biçiminin anlaşılırlığı:** Çuvaşça %0, Sibirya Tatarcası %0, Sahaca %73, Türkmence %78, Tatarca %78, Başkurtça %80, Karaçay-Malkarca %81, Kazakça %81, Karakalpakça %81, Kırgızca %81, Azerbaycan Türkçesi %85, Tuvaca %85, Türkiye Türkçesi %90, Gagavuzca %90, Kırım Tatarcası %90, Kumukça %90, Özbekçe %95, Uygurca %95.
 

@@ -5,7 +5,7 @@
 - **Anlam:** Sağ (yön, el).
 - **İngilizce:** right (side)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [oñ](../kok/oñ.md) | türkçe | 0.71 (*oñ*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~114 milyon (%59, *oñ*) | *oŋ |
-| [sağ](../kok/sağ.md) | türkçe | -0.21 (*sağ*) | Çuvaşça %0 | Oğuz kolu (3 hat) | ~139 milyon (%72, *sağ*) | *sāg |
-| [bod](../kok/bod.md) | türkçe | -0.45 (*bod*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *bod*) |  |
-| [sıltăm](../kok/sıltăm.md) | türkçe | -0.39 (*sıltăm*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sıltăm*) |  |
+| [oñ](../kok/oñ.md) | türkçe | 0.69 (*oñ*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~136 milyon (%70, *oñ*) | *oŋ |
+| [sağ](../kok/sağ.md) | türkçe | -0.21 (*sağ*) | Çuvaşça %0 | Oğuz kolu (3 hat) | ~152 milyon (%78, *sağ*) | *sāg |
+| [bod](../kok/bod.md) | türkçe | -0.44 (*bod*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *bod*) |  |
+| [sıltăm](../kok/sıltăm.md) | türkçe | -0.38 (*sıltăm*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sıltăm*) |  |
 
 **Büyük topluluklarda *oñ* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Sahaca %75, Tatarca %88, Başkurtça %88, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 

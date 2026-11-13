@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [biz](../kok/biz.md) | türkçe | 1.12 (*biz*) | Sahaca %67 | Ana Türkçe (2 hat) | ~193 milyon (%99, *biz*) | *biŕ |
+| [biz](../kok/biz.md) | türkçe | 1.11 (*biz*) | Sahaca %67 | Ana Türkçe (2 hat) | ~193 milyon (%99, *biz*) | *biŕ |
 
 **Büyük topluluklarda *biz* biçiminin anlaşılırlığı:** Sahaca %67, Çuvaşça %69, Tatarca %88, Başkurtça %88, Tuvaca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Irak Türkmencesi %100, Kaşkayca %100, Türkmence %100, Horasan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

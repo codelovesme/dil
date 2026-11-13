@@ -5,7 +5,7 @@
 - **Anlam:** Orman.
 - **İngilizce:** forest
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %66 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %65 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,13 +22,13 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [orman](../kok/orman.md) | türkçe | 0.43 (*orman*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~178 milyon (%92, *orman*) |  |
-| [ığaç](../kok/ığaç.md) | türkçe | -0.17 (*ağaş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~11 milyon (%6, *ağaş*) |  |
-| [arığ](../kok/arığ.md) | türkçe | -0.28 (*arığ*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~8 milyon (%4, *arığ*) |  |
-| [tağ](../kok/tağ.md) | türkçe | -0.44 (*daa*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *daa*) |  |
+| [orman](../kok/orman.md) | türkçe | 0.43 (*orman*) | Gagavuzca %0 | Ana Türkçe (2 hat) | ~179 milyon (%92, *orman*) |  |
+| [ığaç](../kok/ığaç.md) | türkçe | -0.18 (*ağaş*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~88 milyon (%45, *ağaç*) |  |
+| [arığ](../kok/arığ.md) | türkçe | -0.28 (*arığ*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~69 milyon (%36, *arığ*) |  |
+| [tağ](../kok/tağ.md) | türkçe | -0.45 (*daa*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *daa*) |  |
 | [mas](../kok/mas.md) | türkçe | -0.48 (*mas*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *mas*) |  |
-| [neş](../kok/neş.md) | türkçe | -0.49 (*neş*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *neş*) |  |
-| [tıa](../kok/tıa.md) | türkçe | -0.40 (*tıa*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *tıa*) |  |
+| [neş](../kok/neş.md) | türkçe | -0.49 (*neş*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *neş*) |  |
+| [tıa](../kok/tıa.md) | türkçe | -0.39 (*tıa*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *tıa*) |  |
 
 **Büyük topluluklarda *orman* biçiminin anlaşılırlığı:** Gagavuzca %0, Karaçay-Malkarca %0, Sahaca %0, Tuvaca %0, Çuvaşça %85, Özbekçe %88, Başkurtça %95, Tatarca %95, Türkiye Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Kazakça %100, Sibirya Tatarcası %100, Uygurca %100.
 

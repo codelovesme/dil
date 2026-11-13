@@ -5,7 +5,7 @@
 - **Anlam:** Adım atarak ilerlemek.
 - **İngilizce:** walk
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yorı](../kok/yorı.md) | türkçe | 0.87 (*yorı*) | Sahaca %0 | Ana Türkçe (2 hat) | ~174 milyon (%90, *yürü*) | *yorï- |
-| [kez](../kok/kez.md) | türkçe | -0.45 (*gez*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *gez*) |  |
-| [bas](../kok/bas.md) | türkçe | -0.46 (*bas*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~10 milyon (%5, *bas*) |  |
-| [haamp](../kok/haamp.md) | türkçe | -0.42 (*haamp*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *haamp*) |  |
+| [yorı](../kok/yorı.md) | türkçe | 0.86 (*yorı*) | Sahaca %0 | Ana Türkçe (2 hat) | ~174 milyon (%90, *yürü*) | *yorï- |
+| [kez](../kok/kez.md) | türkçe | -0.46 (*gez*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *gez*) |  |
+| [bas](../kok/bas.md) | türkçe | -0.46 (*bas*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~67 milyon (%34, *bas*) |  |
+| [haamp](../kok/haamp.md) | türkçe | -0.41 (*haamp*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *haamp*) |  |
 
 **Büyük topluluklarda *yorı* biçiminin anlaşılırlığı:** Sahaca %0, Gagavuzca %42, Çuvaşça %72, Kazakça %75, Karakalpakça %75, Kırgızca %75, Uygurca %75, Karaçay-Malkarca %78, Tuvaca %78, Tatarca %81, Kırım Tatarcası %81, Sibirya Tatarcası %81, Özbekçe %81, Türkiye Türkçesi %84, Azerbaycan Türkçesi %84, Türkmence %84, Başkurtça %84, Kumukça %84.
 

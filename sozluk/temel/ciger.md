@@ -5,7 +5,7 @@
 - **Anlam:** Karaciğer.
 - **İngilizce:** liver
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bağır](../kok/bağır.md) | türkçe | 0.95 (*bağır*) | Özbekçe %0 | Ana Türkçe (2 hat) | ~147 milyon (%76, *bağır*) | *bagïr |
+| [bağır](../kok/bağır.md) | türkçe | 0.93 (*bağır*) | Özbekçe %0 | Ana Türkçe (2 hat) | ~144 milyon (%74, *bağır*) | *bagïr |
 | ciğer | alıntı:fa | seçilemez | | | |  |
 
 **Büyük topluluklarda *bağır* biçiminin anlaşılırlığı:** Özbekçe %0, Türkiye Türkçesi %25, Kırgızca %75, Sahaca %75, Çuvaşça %78, Tuvaca %82, Kumukça %88, Karaçay-Malkarca %88, Uygurca %90, Başkurtça %95, Kazakça %95, Tatarca %95, Karakalpakça %95, Sibirya Tatarcası %95, Azerbaycan Türkçesi %100, Türkmence %100.
@@ -100,7 +100,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | beğir | beğir | beğir | beğir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | beğir | beğir | beğir | beğir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | beğir ↑ | beğir ↑ | beğir ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | bağır | paar | baar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | baar | paar | baar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | bıar | bıar | bıar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | bıar | bıar | bıar | bıar |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bıar | bıar | bıar | bıar |

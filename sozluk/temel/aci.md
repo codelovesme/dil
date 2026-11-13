@@ -5,7 +5,7 @@
 - **Anlam:** Acı (tat).
 - **İngilizce:** bitter
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [açığ](../kok/açığ.md) | türkçe | 0.91 (*açığ*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~173 milyon (%89, *acı*) | *ačïg |
-| [yüşĕ](../kok/yüşĕ.md) | türkçe | -0.39 (*yüşĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yüşĕ*) |  |
+| [açığ](../kok/açığ.md) | türkçe | 0.90 (*açığ*) | Çuvaşça %0 | Ortak Türkçe (7 hat) | ~173 milyon (%89, *acı*) | *ačïg |
+| [yüşĕ](../kok/yüşĕ.md) | türkçe | -0.37 (*yüşĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *yüşĕ*) |  |
 
 **Büyük topluluklarda *açığ* biçiminin anlaşılırlığı:** Çuvaşça %0, Başkurtça %66, Kırım Tatarcası %69, Kazakça %69, Karakalpakça %69, Kumukça %75, Sahaca %75, Kırgızca %78, Özbekçe %80, Uygurca %80, Türkiye Türkçesi %81, Gagavuzca %81, Azerbaycan Türkçesi %81, Türkmence %81, Tatarca %88, Karaçay-Malkarca %88, Tuvaca %94.
 

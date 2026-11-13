@@ -5,7 +5,7 @@
 - **Anlam:** Irmak, akarsu.
 - **İngilizce:** river
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %73 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,16 +22,16 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [özen](../kok/özen.md) | türkçe | -0.20 (*özen*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~87 milyon (%45, *özen*) |  |
-| [sub](../kok/sub.md) | türkçe | 0.08 (*suw*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~57 milyon (%30, *su*) |  |
-| [yılğa](../kok/yılğa.md) | türkçe | -0.34 (*yılğa*) | Çuvaşça %0 | Kıpçak-Bulgar (Ural) (2 hat) | ~14 milyon (%7, *yılğa*) | *yïlga |
+| [özen](../kok/özen.md) | türkçe | -0.25 (*özen*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~111 milyon (%57, *özen*) |  |
+| [sub](../kok/sub.md) | türkçe | 0.07 (*suw*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~105 milyon (%54, *su*) |  |
+| [yılğa](../kok/yılğa.md) | türkçe | -0.32 (*yılğa*) | Çuvaşça %0 | Kıpçak-Bulgar (Ural) (2 hat) | ~73 milyon (%38, *yılğa*) | *yïlga |
 | [ögüz](../kok/ögüz.md) | türkçe | seçilemez | | | | *ögüŕ |
-| [kem](../kok/kem.md) | türkçe | -0.42 (*xem*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *xem*) |  |
-| [çay](../kok/çay.md) | türkçe | -0.43 (*çay*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *çay*) |  |
-| [ırmak](../kok/ırmak.md) | türkçe | -0.43 (*ırmak*) | Çuvaşça %0 | Türkiye Türkçesi (1 hat) | ~112 milyon (%58, *ırmak*) |  |
-| [örüs](../kok/örüs.md) | türkçe | -0.41 (*örüs*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *örüs*) |  |
-| [ebe](../kok/ebe.md) | türkçe | -0.49 (*ebe*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *ebe*) |  |
-| [çaaban](../kok/çaaban.md) | türkçe | -0.44 (*çaaban*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *çaaban*) |  |
+| [kem](../kok/kem.md) | türkçe | -0.41 (*xem*) | Çuvaşça %0 | Sayan (2 hat) | ~43 milyon (%22, *xem*) |  |
+| [çay](../kok/çay.md) | türkçe | -0.43 (*çay*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *çay*) |  |
+| [ırmak](../kok/ırmak.md) | türkçe | -0.42 (*ırmak*) | Çuvaşça %0 | Türkiye Türkçesi (1 hat) | ~139 milyon (%71, *ırmak*) |  |
+| [örüs](../kok/örüs.md) | türkçe | -0.40 (*örüs*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *örüs*) |  |
+| [ebe](../kok/ebe.md) | türkçe | -0.48 (*ebe*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *ebe*) |  |
+| [çaaban](../kok/çaaban.md) | türkçe | -0.43 (*çaaban*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *çaaban*) |  |
 
 - ⚠ **Canlandırma:** *sub* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -47,7 +47,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Oğur kolu** | şıv | şıv | *şıv* (sub) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | şıv | şıv | şıv | şıv |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şıv | şıv | şıv | şıv |
-| &nbsp;&nbsp;**Ortak Türkçe** | suw | su | ırmak |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | su | su | ırmak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | *çaaban* (çaaban) | *çaaban* (çaaban) | *çaaban* (çaaban) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | çaaban | çaaban | çaaban | çaaban |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *ırmak* (ırmak) | *uzen* (özen) | ırmak |  |

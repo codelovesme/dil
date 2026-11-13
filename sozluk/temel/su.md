@@ -5,7 +5,7 @@
 - **Anlam:** Su.
 - **İngilizce:** water
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sub](../kok/sub.md) | türkçe | 1.08 (*suw*) | Çuvaşça %71 | Ana Türkçe (2 hat) | ~185 milyon (%95, *su*) | *sub |
+| [sub](../kok/sub.md) | türkçe | 1.07 (*suw*) | Çuvaşça %71 | Ana Türkçe (2 hat) | ~185 milyon (%95, *su*) | *sub |
 
 **Büyük topluluklarda *suw* biçiminin anlaşılırlığı:** Çuvaşça %71, Sahaca %75, Başkurtça %79, Türkiye Türkçesi %83, Gagavuzca %83, Azerbaycan Türkçesi %83, Tatarca %83, Kazakça %83, Sibirya Tatarcası %83, Uygurca %83, Özbekçe %92, Tuvaca %92, Kırgızca %92, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100.
 

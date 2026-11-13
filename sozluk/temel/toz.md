@@ -5,7 +5,7 @@
 - **Anlam:** Toz.
 - **İngilizce:** dust
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %79 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [toz](../kok/toz.md) | türkçe | 0.46 (*toz*) | Kumukça %0 | Ortak Türkçe (4 hat) | ~145 milyon (%75, *toz*) | *tōŕ |
-| [çañ](../kok/çañ.md) | türkçe | -0.08 (*çañ*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~70 milyon (%36, *çañ*) |  |
-| [toprak](../kok/toprak.md) | türkçe | -0.41 (*turpaak*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~14 milyon (%7, *tobrax*) |  |
-| [buku](../kok/buku.md) | türkçe | -0.43 (*buku*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~1 milyon (%0, *buku*) |  |
-| [taarıx](../kok/taarıx.md) | türkçe | -0.45 (*taarıx*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *taarıx*) |  |
+| [toz](../kok/toz.md) | türkçe | 0.47 (*toz*) | Kumukça %0 | Ortak Türkçe (4 hat) | ~160 milyon (%83, *toz*) | *tōŕ |
+| [çañ](../kok/çañ.md) | türkçe | -0.09 (*çañ*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~126 milyon (%65, *çañ*) |  |
+| [toprak](../kok/toprak.md) | türkçe | -0.41 (*turpaak*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~68 milyon (%35, *turpaak*) |  |
+| [buku](../kok/buku.md) | türkçe | -0.45 (*buku*) | Çuvaşça %0 | Karaçay-Malkarca (1 hat) | ~87 milyon (%45, *buku*) |  |
+| [taarıx](../kok/taarıx.md) | türkçe | -0.44 (*taarıx*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *taarıx*) |  |
 
 - ⚠ Çuvaşça'daki *toz* biçimi Tatarca'dan ödünç olabilir; kök yaşında sayılmadı.
 

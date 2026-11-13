@@ -5,7 +5,7 @@
 - **Anlam:** Tüy (kuş tüyü).
 - **İngilizce:** feather
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %53 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %50 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tük](../kok/tük.md) | türkçe | 0.48 (*tük*) | Türkmence %0 | Ana Türkçe (2 hat) | ~114 milyon (%59, *tüy*) | *tüŕ |
-| [yüñ](../kok/yüñ.md) | türkçe | -0.23 (*çüg*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~0 milyon (%0, *çüg*) | *yüŋ |
-| [kanat](../kok/kanat.md) | türkçe | -0.36 (*kanat*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~51 milyon (%27, *kanat*) |  |
-| [yelek](../kok/yelek.md) | türkçe | -0.34 (*yelek*) | Çuvaşça %0 | Türkmence (1 hat) | ~69 milyon (%36, *yelek*) |  |
-| [mimilux](../kok/mimilux.md) | türkçe | -0.42 (*mimilux*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *mimilux*) |  |
+| [tük](../kok/tük.md) | türkçe | 0.47 (*tük*) | Türkmence %0 | Ana Türkçe (2 hat) | ~146 milyon (%75, *tüy*) | *tüŕ |
+| [yüñ](../kok/yüñ.md) | türkçe | -0.21 (*çüg*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~60 milyon (%31, *çüg*) | *yüŋ |
+| [kanat](../kok/kanat.md) | türkçe | -0.37 (*kanat*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~102 milyon (%53, *kanat*) |  |
+| [yelek](../kok/yelek.md) | türkçe | -0.35 (*yelek*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *yelek*) |  |
+| [mimilux](../kok/mimilux.md) | türkçe | -0.40 (*mimilux*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *mimilux*) |  |
 
 **Büyük topluluklarda *tük* biçiminin anlaşılırlığı:** Türkmence %0, Kırım Tatarcası %0, Tuvaca %0, Karaçay-Malkarca %64, Türkiye Türkçesi %83, Gagavuzca %83, Sahaca %83, Çuvaşça %88, Azerbaycan Türkçesi %100, Kumukça %100.
 
@@ -62,13 +62,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yelek | yelek | yelek | yelek |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yelek ↑ | yelek ↑ | yelek ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | *mimilux* (mimilux) | *mimilux* (mimilux) | *mimilux* (mimilux) | mimilux |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tük | *kanat* (kanat) | *kanat* (kanat) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | tük | *tük* (tük) | *tük* (tük) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tük | *kanat* (kanat) | tük |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | tük | *tük* (tük) | tük |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | *kanat* (kanat) | *kanat* (kanat) | *kanat* (kanat) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | kanat | kanat | kanat | kanat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kanat | kanat | kanat | kanat |
@@ -81,16 +81,16 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük | tük | tük | tük |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kanatlı tük | kanatlı tük | kanatlı tük | kanatlı tük |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kanatlı tük | kanatlı tük | kanatlı tük | kanatlı tük |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | kanat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | *kanat* (kanat) | kanat | kanat |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tük ↑ | kanat ↑ | tük ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | *kanat* (kanat) | kanat | *kanat* (kanat) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | kanat ↑ | kanat ↑ | kanat ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kanat ↑ | kanat ↑ | kanat ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | kanat | kanat | kanat | kanat |

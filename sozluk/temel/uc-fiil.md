@@ -5,7 +5,7 @@
 - **Anlam:** Uçmak.
 - **İngilizce:** fly
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [uç](../kok/uç.md) | türkçe | 1.03 (*uç*) | Sahaca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *uç*) | *uč- |
-| [köt](../kok/köt.md) | türkçe | -0.41 (*köt*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *köt*) |  |
+| [uç](../kok/uç.md) | türkçe | 1.02 (*uç*) | Sahaca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *uç*) | *uč- |
+| [köt](../kok/köt.md) | türkçe | -0.40 (*köt*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *köt*) |  |
 
 **Büyük topluluklarda *uç* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %62, Başkurtça %75, Tatarca %88, Kazakça %88, Karakalpakça %88, Sibirya Tatarcası %88, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 

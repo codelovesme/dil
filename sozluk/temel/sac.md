@@ -5,7 +5,7 @@
 - **Anlam:** Saç.
 - **İngilizce:** hair (head)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [saç](../kok/saç.md) | türkçe | 1.03 (*saç*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~184 milyon (%95, *saç*) | *sāč |
-| [dük](../kok/dük.md) | türkçe | -0.43 (*dük*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *dük*) | *tük |
+| [saç](../kok/saç.md) | türkçe | 1.02 (*saç*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~184 milyon (%95, *saç*) | *sāč |
+| [dük](../kok/dük.md) | türkçe | -0.42 (*dük*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *dük*) | *tük |
 
 **Büyük topluluklarda *saç* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %71, Sahaca %75, Tatarca %83, Başkurtça %83, Kazakça %83, Karakalpakça %83, Sibirya Tatarcası %83, Özbekçe %88, Kumukça %92, Uygurca %92, Karaçay-Malkarca %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100.
 
@@ -93,7 +93,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çaç | çaç | çaç | çaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | çaç | çaç | çaç | çaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çaç | çaç | çaç | çaç |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | çaç | çaç | soç |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | soç | çaç | soç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | soç | soç | soç | soç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | soç | soç | soç | soç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | çaç | çaç | çaç |  |
@@ -115,14 +115,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | çeş | çeş | çeş | çeş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | çeş ↑ | çeş ↑ | çeş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | çeş ↑ | çeş ↑ | çeş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | çaç | çaç | sas |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | sas | çaç | sas |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | sas | sas | sas | sas |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sas | sas | sas | sas |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | şaş | şaş | şaş | şaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şaş | şaş | şaş | şaş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | çaç | çaç | çaç | çaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çaç | çaç | çaç | çaç |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çaç ↑ | çaç ↑ | sas ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | sas ↑ | çaç ↑ | sas ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | çaç | çaç | çaç | çaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çaç | çaç | çaç | çaç |
 

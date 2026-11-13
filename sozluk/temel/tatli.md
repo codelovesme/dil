@@ -5,7 +5,7 @@
 - **Anlam:** Tatlı.
 - **İngilizce:** sweet
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %72 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tatlı](../kok/tatlı.md) | türkçe | 0.59 (*tatlı*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~152 milyon (%78, *tatlı*) | *tātlïg |
-| [süçig](../kok/süçig.md) | türkçe | -0.39 (*süyci*) | Çuvaşça %0 | Türkmence (1 hat) | ~69 milyon (%35, *süyci*) | *süčig |
-| [minnyiges](../kok/minnyiges.md) | türkçe | -0.40 (*minnyiges*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *minnyiges*) |  |
-| [pılak](../kok/pılak.md) | türkçe | -0.38 (*pılak*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *pılak*) |  |
+| [tatlı](../kok/tatlı.md) | türkçe | 0.55 (*tatlı*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~159 milyon (%82, *tatlı*) | *tātlïg |
+| [süçig](../kok/süçig.md) | türkçe | -0.40 (*süyci*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *süyci*) | *süčig |
+| [minnyiges](../kok/minnyiges.md) | türkçe | -0.39 (*minnyiges*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *minnyiges*) |  |
+| [pılak](../kok/pılak.md) | türkçe | -0.36 (*pılak*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *pılak*) |  |
 | şirin | alıntı:fa | seçilemez | | | |  |
 
 **Büyük topluluklarda *tatlı* biçiminin anlaşılırlığı:** Çuvaşça %0, Azerbaycan Türkçesi %0, Türkmence %0, Özbekçe %0, Sahaca %0, Uygurca %44, Kırgızca %77, Kazakça %80, Kumukça %95, Türkiye Türkçesi %100, Gagavuzca %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Sibirya Tatarcası %100.

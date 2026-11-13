@@ -5,7 +5,7 @@
 - **Anlam:** Eski (nesne için).
 - **İngilizce:** old (thing)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %74 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %73 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [eski](../kok/eski.md) | türkçe | 0.75 (*eski*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~180 milyon (%93, *eski*) | *eski |
-| [ergi](../kok/ergi.md) | türkçe | -0.22 (*erge*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~1 milyon (%0, *erge*) |  |
-| [kivĕ](../kok/kivĕ.md) | türkçe | -0.38 (*kivĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kivĕ*) |  |
+| [eski](../kok/eski.md) | türkçe | 0.71 (*eski*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *eski*) | *eski |
+| [ergi](../kok/ergi.md) | türkçe | -0.19 (*erge*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~71 milyon (%37, *erke*) |  |
+| [kivĕ](../kok/kivĕ.md) | türkçe | -0.36 (*kivĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kivĕ*) |  |
 
 **Büyük topluluklarda *eski* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Tatarca %81, Başkurtça %81, Kazakça %88, Kumukça %94, Uygurca %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100.
 

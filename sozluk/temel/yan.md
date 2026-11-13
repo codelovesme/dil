@@ -5,7 +5,7 @@
 - **Anlam:** Yanmak.
 - **İngilizce:** burn (intr.)
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %81 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %80 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yan](../kok/yan.md) | türkçe | 0.48 (*yan*) | Karaçay-Malkarca %0 | Ana Türkçe (2 hat) | ~186 milyon (%96, *yan*) | *yan- |
-| [küy](../kok/küy.md) | türkçe | 0.01 (*küy*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~18 milyon (%9, *küy*) | *küy- |
-| [kıp](../kok/kıp.md) | türkçe | -0.43 (*kıp*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *kıp*) |  |
-| [umay](../kok/umay.md) | türkçe | -0.42 (*umay*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *umay*) |  |
+| [yan](../kok/yan.md) | türkçe | 0.47 (*yan*) | Karaçay-Malkarca %0 | Ana Türkçe (2 hat) | ~186 milyon (%96, *yan*) | *yan- |
+| [küy](../kok/küy.md) | türkçe | -0.01 (*küy*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~88 milyon (%45, *küy*) | *küy- |
+| [kıp](../kok/kıp.md) | türkçe | -0.42 (*kıp*) | Çuvaşça %0 | Sayan (2 hat) | ~44 milyon (%22, *kıp*) |  |
+| [umay](../kok/umay.md) | türkçe | -0.41 (*umay*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *umay*) |  |
 | [güdeeriy](../kok/güdeeriy.md) | türkçe | -0.49 (*güdeeriy*) | Çuvaşça %0 | Dolganca (1 hat) | ~0 milyon (%0, *güdeeriy*) |  |
 
 **Büyük topluluklarda *yan* biçiminin anlaşılırlığı:** Karaçay-Malkarca %0, Sahaca %0, Tuvaca %0, Çuvaşça %71, Özbekçe %88, Kazakça %92, Karakalpakça %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100, Uygurca %100.
@@ -81,7 +81,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yan | yan | yan | yan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | küy | küy | küy | küy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | küy | küy | küy | küy |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | jan | jan | jan |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | yan | jan | jan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | jan | jan | jan | jan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jan | jan | jan | jan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | jan | jan | jan | jan |
@@ -118,14 +118,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kıp | kıp | kıp | kıp |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kıp ↑ | kıp ↑ | kıp ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kıp ↑ | kıp ↑ | kıp ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | küy | köy | *köy* (küy) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | köy | köy | *köy* (küy) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | köy | köy | köy | köy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köy | köy | köy | köy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | köy | köy | köy | köy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | köy | köy | köy | köy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | koy | koy | koy | koy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | koy | koy | koy | koy |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | küy ↑ | köy ↑ | köy ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | köy ↑ | köy ↑ | köy ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | küy | küy | küy | küy |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | küy | küy | küy | küy |
 

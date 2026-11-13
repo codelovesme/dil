@@ -5,7 +5,7 @@
 - **Anlam:** Isırmak.
 - **İngilizce:** bite
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ısır](../kok/ısır.md) | türkçe | -0.09 (*ısır*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~112 milyon (%58, *ısır*) | *ïsïr- |
-| [tişle](../kok/tişle.md) | türkçe | 0.51 (*tişle*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~144 milyon (%74, *tişle*) |  |
-| [kap](../kok/kap.md) | türkçe | -0.35 (*kap*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~1 milyon (%1, *xap*) |  |
-| [tala](../kok/tala.md) | türkçe | -0.45 (*dala*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *dala*) |  |
-| [şırt](../kok/şırt.md) | türkçe | -0.38 (*şırt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şırt*) |  |
+| [ısır](../kok/ısır.md) | türkçe | -0.06 (*ısır*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~141 milyon (%72, *ısır*) | *ïsïr- |
+| [tişle](../kok/tişle.md) | türkçe | 0.51 (*tişle*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~146 milyon (%75, *tişle*) |  |
+| [kap](../kok/kap.md) | türkçe | -0.40 (*kap*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~98 milyon (%51, *xap*) |  |
+| [tala](../kok/tala.md) | türkçe | -0.45 (*dala*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *dala*) |  |
+| [şırt](../kok/şırt.md) | türkçe | -0.37 (*şırt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şırt*) |  |
 
 **Büyük topluluklarda *tişle* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Kumukça %0, Karaçay-Malkarca %0, Sahaca %0, Tuvaca %0, Kırgızca %82, Kazakça %85, Uygurca %85, Tatarca %88, Başkurtça %88, Azerbaycan Türkçesi %90, Özbekçe %95, Türkmence %95, Karakalpakça %95, Kırım Tatarcası %100.
 
@@ -102,7 +102,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | çişlä | çişlä | çişlä | çişlä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çişlä | çişlä | çişlä | çişlä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | çişlä ↑ | çişlä ↑ | çişlä ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *ısır* (ısır) | *ızır* (ısır) | *ızır* (ısır) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *ızır* (ısır) | *ızır* (ısır) | *ızır* (ısır) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | ıtır | ıtır | ıtır |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ıtır | ıtır | ıtır | ıtır |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ıtır | ıtır | ıtır | ıtır |

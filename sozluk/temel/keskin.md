@@ -5,7 +5,7 @@
 - **Anlam:** Keskin.
 - **İngilizce:** sharp
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 3/6
 
 ## Dört hedef
 
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **yiti** | [yitig](../kok/yitig.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **yiti** | [yitig](../kok/yitig.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **yiti** | [yitig](../kok/yitig.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **iti** | [yitig](../kok/yitig.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [yitig](../kok/yitig.md) (seviye 0), [ötkür](../kok/ötkür.md) (seviye 0), [keskin](../kok/keskin.md) (seviye 0) |
 
 İlk üç hedef **uyuşuyor**.
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yitig](../kok/yitig.md) | türkçe | 0.38 (*yiti*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~94 milyon (%49, *yiti*) | *yitig |
-| [ötkür](../kok/ötkür.md) | türkçe | 0.01 (*ötkür*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~72 milyon (%37, *ötkir*) |  |
-| [keskin](../kok/keskin.md) | türkçe | -0.33 (*keskin*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~112 milyon (%58, *keskin*) |  |
+| [yitig](../kok/yitig.md) | türkçe | 0.36 (*yiti*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~127 milyon (%66, *iti*) | *yitig |
+| [ötkür](../kok/ötkür.md) | türkçe | 0.04 (*ötkür*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~117 milyon (%60, *ötkür*) |  |
+| [keskin](../kok/keskin.md) | türkçe | -0.34 (*keskin*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~149 milyon (%77, *keskin*) |  |
 
 **Büyük topluluklarda *yiti* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kazakça %0, Karakalpakça %0, Kırgızca %0, Özbekçe %0, Uygurca %0, Çuvaşça %62, Sahaca %70, Kumukça %75, Tuvaca %75, Azerbaycan Türkçesi %88, Karaçay-Malkarca %94, Türkmence %100.
 
@@ -34,11 +34,11 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | yiti | yiti | yiti |  |
+| **Türk dilleri** | yiti | yiti | iti |  |
 | &nbsp;&nbsp;**Oğur kolu** | şivĕç | şivĕç | şivĕç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | şivĕç | şivĕç | şivĕç | şivĕç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şivĕç | şivĕç | şivĕç | şivĕç |
-| &nbsp;&nbsp;**Ortak Türkçe** | yiti | yiti | yiti |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | yiti | yiti | iti |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yitdi | yitdi | yitdi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yitdi | yitdi | yitdi | yitdi |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yiti | yiti | *keskin* (keskin) |  |
@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yiti | yiti | yiti | yiti |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yiti ↑ | yiti ↑ | yiti ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yiti ↑ | yiti ↑ | keskin ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | *ötkir* (ötkür) | *ötkir* (ötkür) | *ötkir* (ötkür) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | *ütker* (ötkür) | *ötkir* (ötkür) | *ötkir* (ötkür) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | ütker | ütken | ütken |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | ütken | ütken | ütken | ütken |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ütken | ütken | ütken | ütken |

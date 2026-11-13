@@ -5,7 +5,7 @@
 - **Anlam:** Yürek, kalp.
 - **İngilizce:** heart
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yürek](../kok/yürek.md) | türkçe | 1.11 (*yürek*) | Çuvaşça %72 | Ana Türkçe (2 hat) | ~183 milyon (%94, *yürek*) | *yürek |
+| [yürek](../kok/yürek.md) | türkçe | 1.10 (*yürek*) | Çuvaşça %72 | Ana Türkçe (2 hat) | ~183 milyon (%94, *yürek*) | *yürek |
 
 **Büyük topluluklarda *yürek* biçiminin anlaşılırlığı:** Çuvaşça %72, Azerbaycan Türkçesi %85, Sahaca %85, Gagavuzca %90, Tatarca %90, Başkurtça %90, Sibirya Tatarcası %90, Özbekçe %90, Tuvaca %90, Kazakça %95, Uygurca %95, Karaçay-Malkarca %95, Karakalpakça %95, Kırgızca %95, Türkiye Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100.
 

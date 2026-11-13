@@ -5,7 +5,7 @@
 - **Anlam:** Üç sayısı.
 - **İngilizce:** three
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [üç](../kok/üç.md) | türkçe | 1.09 (*üç*) | Çuvaşça %52 | Ana Türkçe (2 hat) | ~186 milyon (%96, *üç*) | *üč |
+| [üç](../kok/üç.md) | türkçe | 1.08 (*üç*) | Çuvaşça %52 | Ana Türkçe (2 hat) | ~186 milyon (%96, *üç*) | *üč |
 
 **Büyük topluluklarda *üç* biçiminin anlaşılırlığı:** Çuvaşça %52, Başkurtça %75, Tatarca %88, Kazakça %88, Karakalpakça %88, Sibirya Tatarcası %88, Özbekçe %88, Sahaca %88, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
 
@@ -104,7 +104,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | üs | üs | üs | üs |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | üs | üs | üs | üs |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | üs | üs | üs | üs |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | üç | üş | üş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | üş | üş | üş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | üş | üş | üş | üş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | üş | üş | üş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | üş | üş | üş |  |

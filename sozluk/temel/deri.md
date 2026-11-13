@@ -5,7 +5,7 @@
 - **Anlam:** Deri.
 - **İngilizce:** skin, hide
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %83 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [teri](../kok/teri.md) | türkçe | 1.04 (*teri*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~180 milyon (%93, *teri*) | *tẹri |
-| [keş](../kok/keş.md) | türkçe | -0.43 (*keş*) | Çuvaşça %0 | Sayan (2 hat) | ~0 milyon (%0, *keş*) | *kä̂ĺ |
+| [teri](../kok/teri.md) | türkçe | 1.02 (*teri*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~180 milyon (%93, *teri*) | *tẹri |
+| [keş](../kok/keş.md) | türkçe | -0.42 (*keş*) | Çuvaşça %0 | Sayan (2 hat) | ~44 milyon (%22, *keş*) | *kä̂ĺ |
 
 **Büyük topluluklarda *teri* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %81, Tatarca %81, Başkurtça %81, Sahaca %82, Azerbaycan Türkçesi %88, Kazakça %88, Uygurca %91, Türkiye Türkçesi %94, Gagavuzca %94, Türkmence %94, Sibirya Tatarcası %94, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100.
 

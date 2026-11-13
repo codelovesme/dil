@@ -5,7 +5,7 @@
 - **Anlam:** Yatmak, uzanmak.
 - **İngilizce:** lie down
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yat](../kok/yat.md) | türkçe | 1.00 (*yat*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~182 milyon (%94, *yat*) | *yat- |
-| [uzan](../kok/uzan.md) | türkçe | -0.44 (*uzan*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~84 milyon (%43, *uzan*) |  |
-| [vırt](../kok/vırt.md) | türkçe | -0.39 (*vırt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *vırt*) |  |
+| [yat](../kok/yat.md) | türkçe | 0.98 (*yat*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~182 milyon (%94, *yat*) | *yat- |
+| [uzan](../kok/uzan.md) | türkçe | -0.44 (*uzan*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *uzan*) |  |
+| [vırt](../kok/vırt.md) | türkçe | -0.38 (*vırt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *vırt*) |  |
 
 **Büyük topluluklarda *yat* biçiminin anlaşılırlığı:** Çuvaşça %0, Azerbaycan Türkçesi %50, Sahaca %71, Tuvaca %71, Özbekçe %88, Kazakça %92, Karaçay-Malkarca %92, Karakalpakça %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100, Uygurca %100.
 
@@ -101,12 +101,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | yat | yat | yat | yat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yat | yat | yat | yat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | yat ↑ | yat ↑ | yat ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | çat | çat | sıt |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | yat | çat | sıt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | sıt | sıt | sıt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | sıt | sıt | sıt | sıt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sıt | sıt | sıt | sıt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | hıt | hıt | hıt | hıt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | çat | çat | çıt |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | yat | çat | çıt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | yat | yat | yat | yat |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | çıt | çıt | çıt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | çıt | çıt | çıt |  |

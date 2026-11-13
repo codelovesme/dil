@@ -5,7 +5,7 @@
 - **Anlam:** Bir yerden başka bir yere doğru hareket etmek, uzaklaşmak.
 - **İngilizce:** go
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bar](../kok/bar.md) | türkçe | 0.99 (*bar*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~131 milyon (%68, *bar*) | *bar- |
-| [ket](../kok/ket.md) | türkçe | -0.34 (*git*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~113 milyon (%58, *git*) | *ket- |
+| [bar](../kok/bar.md) | türkçe | 0.99 (*bar*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~137 milyon (%71, *bar*) | *bar- |
+| [ket](../kok/ket.md) | türkçe | -0.34 (*git*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~140 milyon (%72, *git*) | *ket- |
 
 **Büyük topluluklarda *bar* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Çuvaşça %79, Karakalpakça %80, Özbekçe %88, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 
@@ -105,7 +105,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | bar | bar | bar | bar |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | bar | bar | bar | bar |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | par | par | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | bar | par | bar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | par | par | par | par |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | bar | bar | bar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | bar | bar | bar |  |

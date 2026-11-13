@@ -5,7 +5,7 @@
 - **Anlam:** Bir şeyi öğrenmek için soru yöneltmek.
 - **İngilizce:** ask
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %77 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %75 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sora](../kok/sora.md) | türkçe | 0.39 (*sora*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~176 milyon (%91, *sor*) | *sora- |
-| [tile](../kok/tile.md) | türkçe | -0.04 (*tile*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~86 milyon (%44, *dilä*) | *tile- |
-| [iste](../kok/iste.md) | türkçe | -0.45 (*iste*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *iste*) |  |
-| [kol](../kok/kol.md) | türkçe | -0.44 (*kol*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~0 milyon (%0, *kol*) | *kōl- |
-| [kördöö](../kok/kördöö.md) | türkçe | -0.40 (*kördöö*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kördöö*) |  |
-| [ıyt](../kok/ıyt.md) | türkçe | -0.38 (*ıyt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ıyt*) |  |
+| [sora](../kok/sora.md) | türkçe | 0.41 (*sora*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~176 milyon (%91, *sor*) | *sora- |
+| [tile](../kok/tile.md) | türkçe | -0.07 (*tile*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~115 milyon (%59, *tile*) | *tile- |
+| [iste](../kok/iste.md) | türkçe | -0.46 (*iste*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *iste*) |  |
+| [kol](../kok/kol.md) | türkçe | -0.45 (*kol*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~99 milyon (%51, *kol*) | *kōl- |
+| [kördöö](../kok/kördöö.md) | türkçe | -0.39 (*kördöö*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kördöö*) |  |
+| [ıyt](../kok/ıyt.md) | türkçe | -0.37 (*ıyt*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ıyt*) |  |
 
 **Büyük topluluklarda *sora* biçiminin anlaşılırlığı:** Çuvaşça %0, Gagavuzca %0, Kumukça %0, Karaçay-Malkarca %0, Sahaca %0, Tuvaca %0, Azerbaycan Türkçesi %41, Türkiye Türkçesi %88, Başkurtça %94, Kazakça %94, Kırgızca %94, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Karakalpakça %100, Sibirya Tatarcası %100, Özbekçe %100, Uygurca %100.
 

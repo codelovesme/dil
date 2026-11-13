@@ -5,7 +5,7 @@
 - **Anlam:** Yapmak, etmek.
 - **İngilizce:** do, make
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,14 +22,14 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [et](../kok/et.md) | türkçe | 0.12 (*et*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~167 milyon (%86, *et*) | *ẹt- |
-| [kıl](../kok/kıl.md) | türkçe | -0.21 (*kıl*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~52 milyon (%27, *kıl*) | *kïl- |
-| [yasa](../kok/yasa.md) | türkçe | -0.11 (*yasa*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~101 milyon (%52, *yasa*) | *yasa- |
-| [işle](../kok/işle.md) | türkçe | -0.43 (*eşlä*) | Çuvaşça %0 | Başkurtça (1 hat) | ~11 milyon (%6, *eşlä*) |  |
-| [oñor](../kok/oñor.md) | türkçe | -0.41 (*oñor*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *oñor*) |  |
-| [yap](../kok/yap.md) | türkçe | -0.45 (*yap*) | Çuvaşça %0 | Kırım Tatarcası (1 hat) | ~41 milyon (%21, *yap*) |  |
-| [tu](../kok/tu.md) | türkçe | -0.39 (*tu*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tu*) |  |
-| [şa](../kok/şa.md) | türkçe | -0.45 (*şa*) | Çuvaşça %0 | Halaçça (1 hat) | ~5 milyon (%2, *şa*) |  |
+| [et](../kok/et.md) | türkçe | 0.09 (*et*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~165 milyon (%85, *et*) | *ẹt- |
+| [kıl](../kok/kıl.md) | türkçe | -0.19 (*kıl*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~99 milyon (%51, *kil*) | *kïl- |
+| [yasa](../kok/yasa.md) | türkçe | -0.13 (*yasa*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~112 milyon (%58, *yasa*) | *yasa- |
+| [işle](../kok/işle.md) | türkçe | -0.42 (*eşlä*) | Çuvaşça %0 | Başkurtça (1 hat) | ~55 milyon (%28, *eşlä*) |  |
+| [oñor](../kok/oñor.md) | türkçe | -0.40 (*oñor*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *oñor*) |  |
+| [yap](../kok/yap.md) | türkçe | -0.46 (*yap*) | Çuvaşça %0 | Kırım Tatarcası (1 hat) | ~101 milyon (%52, *yap*) |  |
+| [tu](../kok/tu.md) | türkçe | -0.38 (*tu*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tu*) |  |
+| [şa](../kok/şa.md) | türkçe | -0.44 (*şa*) | Çuvaşça %0 | Halaçça (1 hat) | ~64 milyon (%33, *şa*) |  |
 
 - ⚠ **Canlandırma:** *et* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 

@@ -5,7 +5,7 @@
 - **Anlam:** İtmek.
 - **İngilizce:** push
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [it](../kok/it.md) | türkçe | 0.72 (*it*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~170 milyon (%87, *it*) | *it- |
-| [teber](../kok/teber.md) | türkçe | -0.36 (*teber*) | Çuvaşça %0 | Kafkas grubu (2 hat) | ~1 milyon (%1, *teber*) |  |
-| [tĕk](../kok/tĕk.md) | türkçe | -0.38 (*tĕk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tĕk*) |  |
-| [as-it](../kok/as-it.md) | türkçe | -0.42 (*as*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *as*) |  |
+| [it](../kok/it.md) | türkçe | 0.74 (*it*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~170 milyon (%87, *it*) | *it- |
+| [teber](../kok/teber.md) | türkçe | -0.41 (*teber*) | Çuvaşça %0 | Kafkas grubu (2 hat) | ~98 milyon (%51, *teber*) |  |
+| [tĕk](../kok/tĕk.md) | türkçe | -0.37 (*tĕk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tĕk*) |  |
+| [as-it](../kok/as-it.md) | türkçe | -0.41 (*as*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *as*) |  |
 
 **Büyük topluluklarda *it* biçiminin anlaşılırlığı:** Çuvaşça %0, Kumukça %0, Karaçay-Malkarca %0, Sahaca %0, Uygurca %70, Azerbaycan Türkçesi %70, Karakalpakça %70, Gagavuzca %75, Kazakça %75, Kırgızca %75, Özbekçe %75, Tatarca %81, Başkurtça %81, Kırım Tatarcası %83, Türkiye Türkçesi %100, Türkmence %100, Tuvaca %100.
 

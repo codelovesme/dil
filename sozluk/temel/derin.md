@@ -5,7 +5,7 @@
 - **Anlam:** Derin.
 - **İngilizce:** deep
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %78 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
+- **Veri kapsaması:** %76 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 4/6
 
 ## Dört hedef
 
@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [teriñ](../kok/teriñ.md) | türkçe | 0.86 (*tereñ*) | Türkmence %0 | Ana Türkçe (2 hat) | ~156 milyon (%81, *derin*) | *teriŋ |
-| [çuñkur](../kok/çuñkur.md) | türkçe | -0.26 (*çoñkur*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~94 milyon (%48, *çuñ*) |  |
+| [teriñ](../kok/teriñ.md) | türkçe | 0.85 (*tereñ*) | Türkmence %0 | Ana Türkçe (2 hat) | ~159 milyon (%82, *derin*) | *teriŋ |
+| [çuñkur](../kok/çuñkur.md) | türkçe | -0.25 (*çukur*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~107 milyon (%55, *çoñkur*) |  |
 
 **Büyük topluluklarda *tereñ* biçiminin anlaşılırlığı:** Türkmence %0, Özbekçe %0, Uygurca %0, Azerbaycan Türkçesi %78, Sahaca %80, Gagavuzca %82, Tatarca %82, Türkiye Türkçesi %82, Çuvaşça %85, Başkurtça %85, Sibirya Tatarcası %90, Kırım Tatarcası %95, Kumukça %95, Karaçay-Malkarca %95, Kazakça %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
 

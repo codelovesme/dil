@@ -5,7 +5,7 @@
 - **Anlam:** Kötü.
 - **İngilizce:** bad
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %70 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %68 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,16 +22,16 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yaman](../kok/yaman.md) | türkçe | 0.66 (*yaman*) | Başkurtça %0 | Ortak Türkçe (5 hat) | ~151 milyon (%78, *yaman*) | *yaman |
-| [kötü](../kok/kötü.md) | türkçe | -0.43 (*kötü*) | Azerbaycan Türkçesi %0 | Türkiye Türkçesi (1 hat) | ~112 milyon (%58, *kötü*) |  |
-| [yaramay](../kok/yaramay.md) | türkçe | -0.44 (*yaramay*) | Türkiye Türkçesi %0 | Kırım Tatarcası (1 hat) | ~41 milyon (%21, *yaramay*) |  |
-| [alama](../kok/alama.md) | türkçe | -0.41 (*alama*) | Türkiye Türkçesi %0 | Başkurtça (1 hat) | ~11 milyon (%6, *alama*) |  |
-| [kuhağan](../kok/kuhağan.md) | türkçe | -0.39 (*kuhağan*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kuhağan*) |  |
-| [çabal](../kok/çabal.md) | türkçe | -0.47 (*çabal*) | Türkiye Türkçesi %0 | Şorca (1 hat) | ~0 milyon (%0, *çabal*) |  |
-| [çüvür](../kok/çüvür.md) | türkçe | -0.48 (*çüvür*) | Türkiye Türkçesi %0 | Çulımca (1 hat) | ~0 milyon (%0, *çüvür*) |  |
-| [yus](../kok/yus.md) | türkçe | -0.45 (*yus*) | Türkiye Türkçesi %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *yus*) |  |
-| [çoraanda](../kok/çoraanda.md) | türkçe | -0.49 (*çoraanda*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~0 milyon (%0, *çoraanda*) |  |
-| [bagay](../kok/bagay.md) | türkçe | -0.42 (*bagay*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~0 milyon (%0, *bagay*) |  |
+| [yaman](../kok/yaman.md) | türkçe | 0.63 (*yaman*) | Başkurtça %0 | Ortak Türkçe (5 hat) | ~152 milyon (%78, *yaman*) | *yaman |
+| [kötü](../kok/kötü.md) | türkçe | -0.42 (*kötü*) | Azerbaycan Türkçesi %0 | Türkiye Türkçesi (1 hat) | ~139 milyon (%71, *kötü*) |  |
+| [yaramay](../kok/yaramay.md) | türkçe | -0.45 (*yaramay*) | Türkiye Türkçesi %0 | Kırım Tatarcası (1 hat) | ~101 milyon (%52, *yaramay*) |  |
+| [alama](../kok/alama.md) | türkçe | -0.40 (*alama*) | Türkiye Türkçesi %0 | Başkurtça (1 hat) | ~55 milyon (%28, *alama*) |  |
+| [kuhağan](../kok/kuhağan.md) | türkçe | -0.38 (*kuhağan*) | Türkiye Türkçesi %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kuhağan*) |  |
+| [çabal](../kok/çabal.md) | türkçe | -0.47 (*çabal*) | Türkiye Türkçesi %0 | Şorca (1 hat) | ~60 milyon (%31, *çabal*) |  |
+| [çüvür](../kok/çüvür.md) | türkçe | -0.49 (*çüvür*) | Türkiye Türkçesi %0 | Çulımca (1 hat) | ~55 milyon (%28, *çüvür*) |  |
+| [yus](../kok/yus.md) | türkçe | -0.44 (*yus*) | Türkiye Türkçesi %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *yus*) |  |
+| [çoraanda](../kok/çoraanda.md) | türkçe | -0.49 (*çoraanda*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~43 milyon (%22, *çoraanda*) |  |
+| [bagay](../kok/bagay.md) | türkçe | -0.41 (*bagay*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~42 milyon (%22, *bagay*) |  |
 
 **Büyük topluluklarda *yaman* biçiminin anlaşılırlığı:** Başkurtça %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Türkiye Türkçesi %25, Özbekçe %85, Türkmence %86, Tatarca %86, Karaçay-Malkarca %90, Kazakça %95, Karakalpakça %95, Kırgızca %95, Azerbaycan Türkçesi %100, Kumukça %100, Sibirya Tatarcası %100, Uygurca %100.
 

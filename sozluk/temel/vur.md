@@ -5,7 +5,7 @@
 - **Anlam:** Vurmak, dövmek.
 - **İngilizce:** hit, beat
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %86 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -22,15 +22,15 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ur](../kok/ur.md) | türkçe | 0.16 (*ur*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~165 milyon (%85, *ur*) | *ur- |
-| [sok](../kok/sok.md) | türkçe | -0.06 (*sok*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~48 milyon (%25, *sok*) | *sok- |
-| [çap](../kok/çap.md) | türkçe | -0.28 (*şap*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~9 milyon (%5, *çap*) |  |
+| [ur](../kok/ur.md) | türkçe | 0.11 (*ur*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~168 milyon (%86, *ur*) | *ur- |
+| [sok](../kok/sok.md) | türkçe | -0.04 (*sok*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~96 milyon (%50, *sok*) | *sok- |
+| [çap](../kok/çap.md) | türkçe | -0.26 (*şap*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~71 milyon (%37, *çap*) |  |
 | [tokı](../kok/tokı.md) | türkçe | seçilemez | | | | *tokï- |
-| [oğus](../kok/oğus.md) | türkçe | -0.41 (*oğus*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *oğus*) |  |
-| [yanç](../kok/yanç.md) | türkçe | -0.49 (*yanç*) | Çuvaşça %0 | Karayca (1 hat) | ~0 milyon (%0, *yanç*) |  |
-| [döv](../kok/döv.md) | türkçe | -0.45 (*döv*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *döv*) |  |
-| [per](../kok/per.md) | türkçe | -0.46 (*per*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *per*) |  |
-| [kak](../kok/kak.md) | türkçe | -0.50 (*kak*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *kak*) |  |
+| [oğus](../kok/oğus.md) | türkçe | -0.40 (*oğus*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *oğus*) |  |
+| [yanç](../kok/yanç.md) | türkçe | -0.50 (*yanç*) | Çuvaşça %0 | Karayca (1 hat) | ~99 milyon (%51, *yanç*) |  |
+| [döv](../kok/döv.md) | türkçe | -0.46 (*döv*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *döv*) |  |
+| [per](../kok/per.md) | türkçe | -0.45 (*per*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%36, *per*) |  |
+| [kak](../kok/kak.md) | türkçe | -0.49 (*kak*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *kak*) |  |
 
 - ⚠ **Canlandırma:** *ur* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 

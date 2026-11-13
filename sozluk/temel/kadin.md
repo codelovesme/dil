@@ -5,7 +5,7 @@
 - **Anlam:** Kadın.
 - **İngilizce:** woman
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %63 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+- **Veri kapsaması:** %62 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
 
 ## Dört hedef
 
@@ -13,24 +13,24 @@
 |---|---|---|---|
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **tişiriw** | [tişi](../kok/tişi.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **tişi** | [tişi](../kok/tişi.md) |
-| 3. En çok kişinin anladığı | En fazla insan anlasın. | **karı** | [karı](../kok/karı.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **tişiriw** | [tişi](../kok/tişi.md) |
 | 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [tişi](../kok/tişi.md) (seviye 0), [karı](../kok/karı.md) (seviye 0), [ipçi](../kok/ipçi.md) (seviye 0), [üy](../kok/üy.md) (seviye 0), [xĕrarăm](../kok/xĕrarăm.md) (seviye 0), [xereejen](../kok/xereejen.md) (seviye 0), [kohrhınak](../kok/kohrhınak.md) (seviye 0), [säjdığ](../kok/säjdığ.md) (seviye 0) |
 
-İlk üç hedef **ayrişiyor**.
+İlk üç hedef **uyuşuyor**.
 
 ## Adaylar ve ölçüler
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tişi](../kok/tişi.md) | türkçe | -0.23 (*tişiriw*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~1 milyon (%0, *tişiriw*) | *tiĺi |
+| [tişi](../kok/tişi.md) | türkçe | -0.26 (*tişiriw*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~87 milyon (%45, *tişiriw*) | *tiĺi |
 | katun | alıntı:sogd | seçilemez | | | |  |
-| [karı](../kok/karı.md) | türkçe | -0.44 (*karı*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~60 milyon (%31, *karı*) | *karï |
-| [ipçi](../kok/ipçi.md) | türkçe | -0.45 (*ipçi kizi*) | Çuvaşça %0 | Hakasça (1 hat) | ~0 milyon (%0, *ipçi kizi*) |  |
-| [üy](../kok/üy.md) | türkçe | -0.45 (*üy kiji*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~10 milyon (%5, *üy kiji*) |  |
-| [xĕrarăm](../kok/xĕrarăm.md) | türkçe | -0.35 (*xĕrarăm*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *xĕrarăm*) |  |
-| [xereejen](../kok/xereejen.md) | türkçe | -0.41 (*xereejen*) | Çuvaşça %0 | Tuvaca (1 hat) | ~0 milyon (%0, *xereejen*) |  |
-| [kohrhınak](../kok/kohrhınak.md) | türkçe | -0.49 (*kohrhınak*) | Çuvaşça %0 | Tofaca (1 hat) | ~0 milyon (%0, *kohrhınak*) |  |
-| [säjdığ](../kok/säjdığ.md) | türkçe | -0.44 (*säjdığ*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~0 milyon (%0, *säjdığ*) |  |
+| [karı](../kok/karı.md) | türkçe | -0.44 (*karı*) | Çuvaşça %0 | Gagavuzca (1 hat) | ~105 milyon (%54, *karı*) | *karï |
+| [ipçi](../kok/ipçi.md) | türkçe | -0.44 (*ipçi kizi*) | Çuvaşça %0 | Hakasça (1 hat) | ~15 milyon (%8, *ipçi kizi*) |  |
+| [üy](../kok/üy.md) | türkçe | -0.45 (*üy kiji*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~67 milyon (%34, *üy kiji*) |  |
+| [xĕrarăm](../kok/xĕrarăm.md) | türkçe | -0.33 (*xĕrarăm*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *xĕrarăm*) |  |
+| [xereejen](../kok/xereejen.md) | türkçe | -0.40 (*xereejen*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *xereejen*) |  |
+| [kohrhınak](../kok/kohrhınak.md) | türkçe | -0.49 (*kohrhınak*) | Çuvaşça %0 | Tofaca (1 hat) | ~43 milyon (%22, *kohrhınak*) |  |
+| [säjdığ](../kok/säjdığ.md) | türkçe | -0.44 (*säjdığ*) | Çuvaşça %0 | Sarı Uygurca (1 hat) | ~71 milyon (%37, *säjdığ*) |  |
 
 - ⚠ **Canlandırma:** *tişi* bugün dillerin ağırlıkça yarısından azında yaşıyor; öğretilmesi gerekecek.
 
@@ -42,14 +42,14 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
-| **Türk dilleri** | tişiriw | tişi | karı |  |
+| **Türk dilleri** | tişiriw | tişi | tişiriw |  |
 | &nbsp;&nbsp;**Oğur kolu** | *xĕrarăm* (xĕrarăm) | *xĕrarăm* (xĕrarăm) | *xĕrarăm* (xĕrarăm) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | xĕrarăm | xĕrarăm | xĕrarăm | xĕrarăm |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xĕrarăm | xĕrarăm | xĕrarăm | xĕrarăm |
-| &nbsp;&nbsp;**Ortak Türkçe** | tişiriw | tişi | karı |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | tişiriw ↑ | tişi ↑ | karı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | tişiriw ↑ | tişi ↑ | karı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *karı* (karı) | *karı* (karı) | karı |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | tişiriw | tişi | tişiriw |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *karı* (karı) | *karı* (karı) | *karı* (karı) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | karı | karı | karı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | karı | karı | karı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | karı ↑ | karı ↑ | karı ↑ | kadın |
@@ -68,13 +68,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | karı ↑ | karı ↑ | karı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | karı ↑ | karı ↑ | karı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | karı ↑ | karı ↑ | karı ↑ | katın kiş |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tişiriw | *üy kiji* (üy) | *üy kiji* (üy) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | xatınkız |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | xatınkız |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | katın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | katın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | tişiriw | *tişiriw* (tişi) | *tişiriw* (tişi) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tişiriw | *üy kiji* (üy) | tişiriw |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | xatınkız |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | xatınkız |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | katın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | katın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | tişiriw | *tişiriw* (tişi) | tişiriw |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | tişiriw ↑ | tişiriw ↑ | tişiriw ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | tişiriw ↑ | tişiriw ↑ | tişiriw ↑ | kadın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | tişiriw ↑ | tişiriw ↑ | kadın |
@@ -87,28 +87,28 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | tişiriw ↑ | tişiriw ↑ | katın giši |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | tişiriw | tişiriw | tişiriw | tişiriw |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw | tişiriw | tişiriw | tişiriw |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | katın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | katın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | xatınkız |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | xatınkız |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | tişiriw ↑ | üy kiji ↑ | üy kiji ↑ | katın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | *üy kiji* (üy) | üy kiji | üy kiji |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | katın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | katın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | xatınkız |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | xatınkız |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | tişiriw ↑ | üy kiji ↑ | tişiriw ↑ | katın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | *üy kiji* (üy) | üy kiji | *üy kiji* (üy) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | üy kiji ↑ | üy kiji ↑ | üy kiji ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | üy kiji ↑ | üy kiji ↑ | üy kiji ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | üy kiji | üy kiji | üy kiji | üy kiji |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | üy kiji | üy kiji | üy kiji | üy kiji |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | tişiriw ↑ | tişi ↑ | karı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | tişiriw ↑ | tişi ↑ | karı ↑ | xotin |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | tişi ↑ | karı ↑ | xotin |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | tişiriw ↑ | tişi ↑ | karı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | tişiriw ↑ | tişi ↑ | karı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | tişi ↑ | karı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | tişiriw ↑ | tişi ↑ | karı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | tişiriw ↑ | tişi ↑ | tişiriw ↑ | xotin |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | tişi ↑ | tişiriw ↑ | xotin |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | tişiriw ↑ | tişi ↑ | tişiriw ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | *xereejen* (xereejen) | *säjdığ* (säjdığ) | *xereejen* (xereejen) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | xereejen ↑ | säjdığ ↑ | xereejen ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | xereejen ↑ | säjdığ ↑ | xereejen ↑ |  |
