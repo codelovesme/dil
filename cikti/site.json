@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 235,
-  "kok": 656,
-  "tanik": 7562,
+  "kavram": 238,
+  "kok": 661,
+  "tanik": 7634,
   "kaynak": 169,
   "dil": 40
  },
@@ -102,6 +102,21 @@
   {
    "yol": "sozluk/ek/ilgi.md",
    "baslik": "ilgi hâli eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/iyelik-1t.md",
+   "baslik": "iyelik eki (1. tekil)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/iyelik-2t.md",
+   "baslik": "iyelik eki (2. tekil)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/iyelik-3.md",
+   "baslik": "iyelik eki (3. kişi)",
    "tur": "dizin"
   },
   {
@@ -690,13 +705,38 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-sı.md",
+   "baslik": "ek-sı",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ta.md",
+   "baslik": "ek-ta",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-tar.md",
    "baslik": "ek-tar",
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-u.md",
+   "baslik": "ek-u",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-ğa.md",
    "baslik": "ek-ğa",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ım.md",
+   "baslik": "ek-ım",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ıñ.md",
+   "baslik": "ek-ıñ",
    "tur": "kok"
   },
   {
@@ -4607,6 +4647,43 @@
     "nın",
     "nıñ",
     "ăn"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "iyelik eki (1. tekil)",
+   "alt": "1sg possessive",
+   "yol": "sozluk/ek/iyelik-1t.md",
+   "ozet": "Ortak dil: m · Ana Türkçe tahmini: m · En çok kişinin anladığı: m",
+   "anahtar": [
+    "m",
+    "ăm"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "iyelik eki (2. tekil)",
+   "alt": "2sg possessive",
+   "yol": "sozluk/ek/iyelik-2t.md",
+   "ozet": "Ortak dil: ñ · Ana Türkçe tahmini: ñ · En çok kişinin anladığı: n",
+   "anahtar": [
+    "n",
+    "u",
+    "ñ"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "iyelik eki (3. kişi)",
+   "alt": "3rd person possessive",
+   "yol": "sozluk/ek/iyelik-3.md",
+   "ozet": "Ortak dil: sı · Ana Türkçe tahmini: sı · En çok kişinin anladığı: sı",
+   "anahtar": [
+    "a",
+    "hı",
+    "si",
+    "sı",
+    "ĕ"
    ]
   },
   {
@@ -11442,12 +11519,47 @@
   },
   {
    "t": "kok",
+   "ad": "ek-sı",
+   "alt": "\"3. kişi iyelik eki -(s)I\"",
+   "yol": "sozluk/kok/ek-sı.md",
+   "ozet": "22 tanık, en eski günümüz",
+   "anahtar": [
+    "-ӗ",
+    "hı",
+    "si",
+    "sı",
+    "ĕ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ta",
+   "alt": "Saha ve Dolgancada \"3. kişi iyelik eki\"",
+   "yol": "sozluk/kok/ek-ta.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "a"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-tar",
    "alt": "Saha ve Dolgancada \"şart eki\"",
    "yol": "sozluk/kok/ek-tar.md",
    "ozet": "2 tanık, en eski günümüz",
    "anahtar": [
     "tar"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-u",
+   "alt": "Çuvaşçada \"2. tekil iyelik eki\"",
+   "yol": "sozluk/kok/ek-u.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "-у",
+    "u"
    ]
   },
   {
@@ -11462,6 +11574,29 @@
     "ga",
     "ka",
     "ğa"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ım",
+   "alt": "\"1. tekil iyelik eki -(I)m\"",
+   "yol": "sozluk/kok/ek-ım.md",
+   "ozet": "24 tanık, en eski günümüz",
+   "anahtar": [
+    "-ӑм",
+    "m",
+    "ăm"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ıñ",
+   "alt": "\"2. tekil iyelik eki -(I)ñ\"",
+   "yol": "sozluk/kok/ek-ıñ.md",
+   "ozet": "23 tanık, en eski günümüz",
+   "anahtar": [
+    "n",
+    "ñ"
    ]
   },
   {

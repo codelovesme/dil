@@ -1,0 +1,42 @@
+kavram: iyelik eki (2. tekil)
+ingilizce: 2sg possessive
+anlam: İkinci tekil kişi iyelik eki (senin …).
+dogrulandi: false
+kokler:
+- kok: ek-ıñ
+  koken: türkçe
+  ana_turkce: '*-(I)ŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ıñ.yaml).
+  bicimler:
+    aze: n
+    bak: ñ
+    crh: ñ
+    dlg: ñ
+    gag: n
+    krc: ñ
+    kdr: ñ
+    kaa: ñ
+    kaz: ñ
+    kjh: ñ
+    kir: ñ
+    kum: ñ
+    nog: ñ
+    cjs: ñ
+    alt: ñ
+    tat: ñ
+    tur: n
+    tuk: ñ
+    tyv: ñ
+    uig: ñ
+    uzb: ñ
+    sah: ñ
+    sty: ñ
+- kok: ek-u
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-u.yaml).
+  bicimler:
+    chv: u
+yok: []
+tarihi_yok: []

@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ıñ
+anlam: '"2. tekil iyelik eki -(I)ñ"'
+koken: türkçe
+ana_turkce: '*-(I)ŋ'
+kavramlar:
+- iyelik-2t
+etimoloji: Ana Türkçe *-(I)ŋ. Bütün Ortak Türkçe dillerinde ñ ile; Türkiye, Azerbaycan ve
+  Gagauz dillerinde ñ > n.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: n, dil: aze, kaynak: bilgi, not: 'Biçimler: n; ın, in…'}
+  - {bicim: ñ, dil: bak, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: crh, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: dlg, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: n, dil: gag, kaynak: bilgi, not: 'Biçimler: n; ın, in…'}
+  - {bicim: ñ, dil: krc, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: kdr, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: kaa, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: kaz, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: kjh, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: kir, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: kum, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: nog, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: cjs, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: alt, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: tat, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: n, dil: tur, kaynak: bilgi, not: 'Biçimler: n; ın, in, un, ün (ñ > n)'}
+  - {bicim: ñ, dil: tuk, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: tyv, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: uig, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: uzb, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: sah, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+  - {bicim: ñ, dil: sty, kaynak: bilgi, not: 'Biçimler: ünlüden sonra ñ; ünsüzden sonra ıñ, iñ…'}
+
+yok:
+  chv: yerine u (ek-u)
+tarihi_yok: {}

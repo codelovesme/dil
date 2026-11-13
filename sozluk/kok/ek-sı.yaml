@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-sı
+anlam: '"3. kişi iyelik eki -(s)I"'
+koken: türkçe
+ana_turkce: '*-(s)I'
+kavramlar:
+- iyelik-3
+etimoloji: Ana Türkçe *-(s)I. Bütün Ortak Türkçe dillerinde (sı, si; Başkurtça hı); Çuvaşça
+  -ĕ/-şĕ.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: sı, dil: aze, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: hı, dil: bak, kaynak: bilgi, not: 'Biçimler: hı, he; ünsüzden sonra ı, e (s > h)'}
+  - {bicim: ĕ, dil: chv, kaynak: bilgi, not: 'Biçimler: ĕ, i; ünlüden sonra şĕ', yazi: -ӗ}
+  - {bicim: sı, dil: crh, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: gag, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: krc, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: kdr, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: kaa, kaynak: bilgi, not: 'Biçimler: sı, si; ı, i'}
+  - {bicim: sı, dil: kaz, kaynak: bilgi, not: 'Biçimler: sı, si; ı, i'}
+  - {bicim: sı, dil: kjh, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: kir, kaynak: bilgi, not: 'Biçimler: sı, si, su, sü; ı…'}
+  - {bicim: sı, dil: kum, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: nog, kaynak: bilgi, not: 'Biçimler: sı, si; ı, i'}
+  - {bicim: sı, dil: cjs, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: alt, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: tat, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: tur, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: tuk, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: tyv, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: sı, dil: uig, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {bicim: si, dil: uzb, kaynak: bilgi, not: 'Biçimler: si; ünsüzden sonra i'}
+  - {bicim: sı, dil: sty, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+
+yok:
+  sah: yerine a (ek-ta)
+  dlg: yerine a (ek-ta)
+tarihi_yok: {}

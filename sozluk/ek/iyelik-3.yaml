@@ -1,0 +1,44 @@
+kavram: iyelik eki (3. kişi)
+ingilizce: 3rd person possessive
+anlam: Üçüncü kişi iyelik eki (onun …).
+dogrulandi: false
+kokler:
+- kok: ek-sı
+  koken: türkçe
+  ana_turkce: '*-(s)I'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sı.yaml).
+  bicimler:
+    aze: sı
+    bak: hı
+    chv:
+      bicim: ĕ
+      miras: true
+    crh: sı
+    gag: sı
+    krc: sı
+    kdr: sı
+    kaa: sı
+    kaz: sı
+    kjh: sı
+    kir: sı
+    kum: sı
+    nog: sı
+    cjs: sı
+    alt: sı
+    tat: sı
+    tur: sı
+    tuk: sı
+    tyv: sı
+    uig: sı
+    uzb: si
+    sty: sı
+- kok: ek-ta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ta.yaml).
+  bicimler:
+    dlg: a
+    sah: a
+yok: []
+tarihi_yok: []
