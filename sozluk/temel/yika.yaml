@@ -1,0 +1,61 @@
+kavram: yıka-
+ingilizce: wash
+anlam: Yıkamak.
+dogrulandi: false
+kokler:
+- kok: yu
+  koken: türkçe
+  ana_turkce: '*yū-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yu.yaml).
+  tarihi:
+    qwm: yuu
+    otk: yu
+    eski-anadolu: yumaq
+  bicimler:
+    aze: yu
+    bak: yıw
+    chv:
+      bicim: şu
+      miras: true
+    crh: yuv
+    dlg: huuy
+    krc: juw
+    kdr: yuv
+    kaa: juw
+    kaz: ju
+    kjh: çuğ
+    klj:
+      bicim: yuu
+      miras: true
+    kir: juu
+    kum: juw
+    clw: çun
+    nog: yuw
+    slr: yu
+    ybe: yu
+    cjs: çun
+    alt: dun
+    tat: yuw
+    kim: çu
+    tuk: yuv
+    tyv: çuğ
+    uig: juy
+    uzb: yuv
+    sah: suuy
+    sty-baraba: yu
+- kok: yıka
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yıka.yaml).
+  bicimler:
+    gag: yıka
+    tur: yıka
+- kok: yayka
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yayka.yaml).
+  bicimler:
+    atv: yayka
+yok: []
+tarihi_yok: []

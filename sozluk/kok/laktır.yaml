@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: laktır
+anlam: '"fırlatmak"'
+koken: türkçe
+kavramlar:
+- at
+etimoloji: Kazakça laktır-, Karakalpakça ılaktır-, Nogayca bılaktır-; kökeni bu çalışmada
+  araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1958, baskakov1967', bicim: ılaktır, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: laktır, dil: kaz, kaynak: savelyev-turkic, yazi: лақтыр-}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bılaktır, dil: nog, kaynak: savelyev-turkic}
+
+yok:
+  aze: yerine at (at-fiil)
+  crh: yerine at (at-fiil)
+  gag: yerine at (at-fiil)
+  krc: yerine at (at-fiil)
+  kdr: yerine at (at-fiil)
+  klj: yerine hat (at-fiil)
+  tur: yerine at (at-fiil)
+  sty-baraba: yerine taşla (taşla)
+  alt: yerine taşta (taşla)
+  bak: yerine taşla (taşla)
+  kjh: yerine tasta (taşla)
+  kir: yerine taşta (taşla)
+  kum: yerine taşla (taşla)
+  clw: yerine tasta (taşla)
+  cjs: yerine taşta (taşla)
+  tat: yerine taşla (taşla)
+  tuk: yerine taşla (taşla)
+  tyv: yerine daja (taşla)
+  uig: yerine taşla (taşla)
+  uzb: yerine taşla (taşla)
+  chv: yerine părax (bırak)
+  dlg: yerine bırak (bırak)
+  sah: yerine bırax (bırak)
+  atv: yerine çel (çel)
+  ybe: yerine tarda (tarda)
+  kim: yerine kağ (kağ)
+tarihi_yok: {}

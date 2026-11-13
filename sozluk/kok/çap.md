@@ -5,13 +5,13 @@
 - **Anlam:** "koşmak, dörtnala gitmek"
 - **Ana Türkçe:** *čap-
 - **Köken:** türkçe
-- **Kavramlar:** [kos](../temel/kos.yaml)
+- **Kavramlar:** [kos](../temel/kos.yaml), [vur](../temel/vur.yaml)
 - **Etimoloji:** çap- 'dörtnala koşmak'; Kırım, Kafkas, Nogay ve Karluk dillerinde 'koşmak'. Çuvaşça çup-.
 - **En eski tanık:** günümüz
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 12 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -32,6 +32,8 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  | **çup** | чуп- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğur kolu | Çuvaşça |  | **şap** | ҫап- | vurmak, kesmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Salarca |  | **çap** |  | vurmak, kesmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırım Tatarcası |  | **çap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Karayca |  | **çap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kumukça |  | **çap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -39,6 +41,8 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Kıpçak kolu | Nogayca |  | **şap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Karluk kolu | Özbekçe |  | **çop** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Karluk kolu | Uygurca |  | **çap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Hakasça |  | **sap** |  | vurmak, kesmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Şorca |  | **şap** |  | vurmak, kesmek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Baraba ağzı | | — | | | | kök yok: yerine yögir (yügür) |
 | | Kuzey Altayca | | — | | | | kök yok: yerine tügür (yügür) |
 | | Güney Altayca | | — | | | | kök yok: yerine dügür (yügür) |
@@ -63,4 +67,4 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 8 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 12 tanık

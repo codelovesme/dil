@@ -3,8 +3,7 @@ kok: çap
 anlam: '"koşmak, dörtnala gitmek"'
 koken: türkçe
 ana_turkce: '*čap-'
-kavramlar:
-- kos
+kavramlar: [kos, vur]
 etimoloji: çap- 'dörtnala koşmak'; Kırım, Kafkas, Nogay ve Karluk dillerinde 'koşmak'. Çuvaşça
   çup-.
 kaynak: savelyev-turkic
@@ -18,6 +17,10 @@ taniklar:
   - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şap, dil: nog, kaynak: savelyev-turkic}
   - {atif: nadzip1968, bicim: çap, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çop, dil: uzb, kaynak: savelyev-turkic}
+  - {anlam: 'vurmak, kesmek', atif: 'asmarin1928, savelyev2011', bicim: şap, dil: chv, kaynak: savelyev-turkic, yazi: ҫап-}
+  - {anlam: 'vurmak, kesmek', atif: 'baskakov1953, cankov1961, subrakova2006', bicim: sap, dil: kjh, kaynak: savelyev-turkic}
+  - {anlam: 'vurmak, kesmek', atif: tenisev1976, bicim: çap, dil: slr, kaynak: savelyev-turkic}
+  - {anlam: 'vurmak, kesmek', atif: kurpesko-tannagaseva1993, bicim: şap, dil: cjs, kaynak: savelyev-turkic}
 
 yok:
   sty-baraba: yerine yögir (yügür)

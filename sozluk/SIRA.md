@@ -62,6 +62,7 @@ aşamasında ele alınacak.
 ## 11. Ek kavramlar (Savelyev & Robbeets temel listesinden)
 
 - [x] [burada](temel/burada.yaml) · [x] [orada](temel/orada.yaml) · [x] [ne zaman](temel/ne-zaman.yaml) · [x] [hangi](temel/hangi.yaml) · [x] [başka](temel/baska.yaml) · [x] [dolu](temel/dolu.yaml)
+- [x] [gül-](temel/gul.yaml) · [x] [ağla-](temel/agla.yaml) · [x] [öldür-](temel/oldur.yaml) · [x] [vur-](temel/vur.yaml) · [x] [kes-](temel/kes.yaml) · [x] [at-](temel/at.yaml) · [x] [yıka-](temel/yika.yaml) · [x] [aç-](temel/ac.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

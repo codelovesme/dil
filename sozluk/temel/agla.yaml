@@ -1,0 +1,62 @@
+kavram: ağla-
+ingilizce: cry, weep
+anlam: Ağlamak.
+dogrulandi: false
+kokler:
+- kok: ığla
+  koken: türkçe
+  ana_turkce: '*ïgla-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ığla.yaml).
+  tarihi:
+    otk: ığla
+  bicimler:
+    aze: ağla
+    bak: ila
+    crh: ağla
+    gag: aala
+    krc: jıla
+    kdr: yıla
+    kaa: jıla
+    kaz: jıla
+    kjh: ılğa
+    klj:
+      bicim: hığla
+      miras: true
+    kir: ıyla
+    kum: yıla
+    nog: yıla
+    atv: ıla
+    slr: yığla
+    ybe: yığla
+    cjs: ılğa
+    alt: ıyla
+    tat: yıla
+    kim: ığla
+    tur: ağla
+    tuk: ağla
+    tyv: ığla
+    uig: jiğlä
+    uzb: yiğla
+- kok: sıkta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sıkta.yaml).
+  bicimler:
+    clw: sıkta
+    sty-baraba: sıkta
+- kok: ıtaa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıtaa.yaml).
+  bicimler:
+    dlg: ıtaa
+    sah: ıtaa
+- kok: măkăr
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/măkăr.yaml).
+  bicimler:
+    chv: măkăr
+yok: []
+tarihi_yok: []

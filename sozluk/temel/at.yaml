@@ -1,0 +1,83 @@
+kavram: at-
+ingilizce: throw
+anlam: Atmak, fırlatmak.
+dogrulandi: false
+kokler:
+- kok: at-fiil
+  koken: türkçe
+  ana_turkce: '*at-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/at-fiil.yaml).
+  bicimler:
+    aze: at
+    crh: at
+    gag: at
+    krc: at
+    kdr: at
+    klj:
+      bicim: hat
+      miras: true
+    tur: at
+- kok: taşla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/taşla.yaml).
+  bicimler:
+    bak: taşla
+    kjh: tasta
+    kir: taşta
+    kum: taşla
+    clw: tasta
+    cjs: taşta
+    alt: taşta
+    tat: taşla
+    tuk: taşla
+    tyv: daja
+    uig: taşla
+    uzb: taşla
+    sty-baraba: taşla
+- kok: laktır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/laktır.yaml).
+  bicimler:
+    kaa: ılaktır
+    kaz: laktır
+    nog: bılaktır
+- kok: bırak
+  koken: türkçe
+  ana_turkce: '*bïrak-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bırak.yaml).
+  bicimler:
+    chv: părax
+    dlg: bırak
+    sah: bırax
+- kok: kemiş
+  koken: türkçe
+  ana_turkce: '*kämiš-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kemiş.yaml).
+  tarihi:
+    otk: kemiş
+  bicimler: {}
+- kok: çel
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çel.yaml).
+  bicimler:
+    atv: çel
+- kok: tarda
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tarda.yaml).
+  bicimler:
+    ybe: tarda
+- kok: kağ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kağ.yaml).
+  bicimler:
+    kim: kağ
+yok: []
+tarihi_yok: []

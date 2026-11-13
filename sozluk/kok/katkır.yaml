@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: katkır
+anlam: '"kahkahayla gülmek"'
+koken: türkçe
+kavramlar:
+- gul
+etimoloji: katkır- 'kahkahayla gülmek'; Altay, Şor ve Sayan dillerinde 'gülmek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: kurpesko-tannagaseva1993, bicim: katkır, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: katxır, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kakkır, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kattır, dil: tyv, kaynak: savelyev-turkic, yazi: каттыр-}
+
+yok:
+  sty-baraba: yerine köl (kül)
+  atv: yerine kül (kül)
+  aze: yerine gül (kül)
+  bak: yerine köl (kül)
+  chv: yerine kul (kül)
+  crh: yerine kül (kül)
+  dlg: yerine kül (kül)
+  gag: yerine gül (kül)
+  kaa: yerine kül (kül)
+  krc: yerine kül (kül)
+  kdr: yerine kül (kül)
+  kaz: yerine kül (kül)
+  kjh: yerine kül (kül)
+  klj: yerine kil (kül)
+  kir: yerine kül (kül)
+  kum: yerine küle (kül)
+  clw: yerine kül (kül)
+  nog: yerine kül (kül)
+  slr: yerine kul (kül)
+  ybe: yerine kül (kül)
+  tat: yerine köl (kül)
+  tur: yerine gül (kül)
+  tuk: yerine gül (kül)
+  uig: yerine kül (kül)
+  uzb: yerine kul (kül)
+  sah: yerine kül (kül)
+tarihi_yok: {}
