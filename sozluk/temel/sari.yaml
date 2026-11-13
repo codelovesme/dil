@@ -1,0 +1,57 @@
+kavram: sarı
+ingilizce: yellow
+anlam: Sarı.
+dogrulandi: false
+kokler:
+- kok: sarığ
+  koken: türkçe
+  ana_turkce: '*sarïg'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sarığ.yaml).
+  tarihi:
+    qwm: sari
+    otk: sarığ
+  bicimler:
+    aze: sarı
+    bak: harı
+    chv: sară
+    crh: sarı
+    dlg: hahıl
+    gag: sarı
+    krc: sarı
+    kdr: sarı
+    kaa: sarı
+    kaz: sarı
+    kjh: sarığ
+    kir: sarı
+    clw: saarığ
+    nog: sarı
+    atv: sarı
+    slr: sarı
+    ybe: sarığ
+    cjs: sarığ
+    alt: sarı
+    tat: sarı
+    kim: sarığ
+    tur: sarı
+    tuk: sarı
+    tyv: sarığ
+    uig: serik
+    uzb: sarik
+    sty-baraba: sarı
+- kok: çakır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çakır.yaml).
+  bicimler:
+    klj:
+      bicim: çakır
+      miras: true
+- kok: arağas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/arağas.yaml).
+  bicimler:
+    sah: arağas
+yok: []
+tarihi_yok: []

@@ -1,0 +1,59 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: soğık
+anlam: '"soğuk"'
+koken: türkçe
+ana_turkce: '*sōgïk'
+kavramlar:
+- soguk
+etimoloji: Ana Türkçe *sōgïk; Eski Türkçe soğık. Oğuz'da soğuk, soyuk; Kıpçak'ta suwık, suık;
+  Kırgız suuk; Sibirya sook; Başkurtça hıwık.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: sovuk
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım saogh.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: soğık
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: soyuk, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: hıwık, dil: bak, kaynak: savelyev-turkic, yazi: һыуыҡ}
+  - {atif: useinov2007, bicim: suvuk, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: suuk, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: suwuk, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: suvuk, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: suwık, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: suık, dil: kaz, kaynak: savelyev-turkic, yazi: суық}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: soox, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: '? sovuk', dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: suuk, dil: kir, kaynak: savelyev-turkic, yazi: суук}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: suwuk, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: sook, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: suwık, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: sook, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: sox, dil: slr, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: sook, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: sook, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: suık, dil: tat, kaynak: savelyev-turkic, yazi: суык}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sook, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: soğuk, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: sovuk, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: sook, dil: tyv, kaynak: savelyev-turkic, yazi: соок}
+  - {atif: nadzip1968, bicim: soğuk, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: sovuk, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  dlg: yerine tımnıı (tımnıı)
+  sah: yerine tımnıı (tımnıı)
+  chv: yerine sivĕ (sivĕ)
+tarihi_yok: {}

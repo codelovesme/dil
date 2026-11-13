@@ -1,0 +1,58 @@
+kavram: kızıl
+ingilizce: red
+anlam: Kızıl, kırmızı.
+dogrulandi: false
+kokler:
+- kok: kızıl
+  koken: türkçe
+  ana_turkce: '*kïŕïl'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kızıl.yaml).
+  tarihi:
+    qwm: kızıl
+    otk: kızıl
+  bicimler:
+    bak: kızıl
+    chv:
+      bicim: xĕrlĕ
+      miras: true
+    crh: kızıl
+    dlg: kıhıl
+    krc: kızıl
+    kdr: kızıl
+    kaa: kızıl
+    kaz: kızıl
+    kjh: xızıl
+    klj:
+      bicim: kızıl
+      miras: true
+    kir: kızıl
+    kum: kızıl
+    clw: kızıl
+    nog: kızıl
+    atv: kızıl
+    slr: kısıl
+    ybe: kızıl
+    cjs: kızıl
+    alt: kızıl
+    tat: kızıl
+    kim: kızıl
+    tur:
+      bicim: kızıl
+      tercih: 0.5
+    tuk: gızıl
+    tyv: kızıl
+    uig: kizil
+    uzb: kizil
+    sah: kıhıl
+    sty-baraba: kızıl
+- kok: kırmızı
+  koken: alıntı:ar
+  kaynak: savelyev-turkic
+  not: Arapça qirmizī'den (kırmız böceği boyası); seçilmez.
+  bicimler:
+    aze: kırmızı
+    gag: kırmızı
+    tur: kırmızı
+yok: []
+tarihi_yok: []

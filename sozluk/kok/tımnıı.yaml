@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tımnıı
+anlam: Sahacada "soğuk"
+koken: türkçe
+kavramlar:
+- soguk
+etimoloji: Sahaca ve Dolganca tımnıı; tım 'soğuk hava' gövdesinden olabilir, bu çalışmada
+  araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: tımnıı, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tımnıı, dil: sah, kaynak: savelyev-turkic, yazi: тымныы}
+
+yok:
+  atv: yerine sook (soğık)
+  alt: yerine sook (soğık)
+  aze: yerine soyuk (soğık)
+  bak: yerine hıwık (soğık)
+  crh: yerine suvuk (soğık)
+  gag: yerine suuk (soğık)
+  kaa: yerine suwık (soğık)
+  krc: yerine suwuk (soğık)
+  kdr: yerine suvuk (soğık)
+  kaz: yerine suık (soğık)
+  kjh: yerine soox (soğık)
+  klj: yerine ? sovuk (soğık)
+  kir: yerine suuk (soğık)
+  kum: yerine suwuk (soğık)
+  clw: yerine sook (soğık)
+  nog: yerine suwık (soğık)
+  slr: yerine sox (soğık)
+  cjs: yerine sook (soğık)
+  tat: yerine suık (soğık)
+  kim: yerine sook (soğık)
+  tur: yerine soğuk (soğık)
+  tuk: yerine sovuk (soğık)
+  tyv: yerine sook (soğık)
+  uig: yerine soğuk (soğık)
+  uzb: yerine sovuk (soğık)
+  chv: yerine sivĕ (sivĕ)
+tarihi_yok: {}

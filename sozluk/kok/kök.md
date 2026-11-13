@@ -5,13 +5,13 @@
 - **Anlam:** "gök; mavi"
 - **Ana Türkçe:** *kȫk
 - **Köken:** türkçe
-- **Kavramlar:** [gok](../temel/gok.yaml)
+- **Kavramlar:** [gok](../temel/gok.yaml), [yesil](../temel/yesil.yaml)
 - **Etimoloji:** Ana Türkçe *kȫk 'gök; mavi'. Oğuz'da gök, göy; Kıpçak-Bulgar'da kük.
 - **En eski tanık:** 8. yy
 
 ## Kapsam
 
-**seviye 0 · diller 22/40 · ağızlar 1/89 · duraklar 4/7 · tanık 17 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
+**seviye 0 · diller 25/40 · ağızlar 1/89 · duraklar 4/7 · tanık 24 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -23,7 +23,7 @@
 - ✓ Osmanlıca, 16-19. yy (1 tanık)
 - ✓ 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy (1 tanık)
 
-Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, Kazakça, Karakalpakça, Özbekçe, Uygurca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, Kazakça, Özbekçe, Uygurca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -42,6 +42,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **küök** |  | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **gök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Gagavuzca |  | **gök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **göy** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -51,9 +52,15 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Kıpçak kolu | Karayca |  | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kumukça |  | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Karakalpakça |  | **kök** |  | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Nogayca |  | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | **küöx** | күөх | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Dolganca |  | **küök** |  | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Tofaca |  | **kök** |  | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Hakasça |  | **kök** |  | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ot kök 'ot rengi'. |
+| Sibirya kolu | Çulımca |  | **kök** |  | yeşil (gök rengi) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Kuzey Altayca |  | **kök** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Güney Altayca | | — | | | | kök yok: yerine teñeri (teñri) |
 | | Hakasça | | — | | | | kök yok: yerine tiger (teñri) |
@@ -67,5 +74,5 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 15 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 22 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 2 tanık

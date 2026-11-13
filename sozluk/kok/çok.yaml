@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çok
+anlam: '"çok"'
+koken: türkçe
+kavramlar:
+- cok
+etimoloji: çok; Oğuz dillerinde (Türkiye, Azerbaycan, Gagavuz) ve Kırım Tatarcasında asıl
+  kelime. Kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: çox, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: çok, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çok, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: çok, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine köp (köp)
+  atv: yerine köp (köp)
+  alt: yerine köp (köp)
+  bak: yerine küp (köp)
+  kaa: yerine köp (köp)
+  krc: yerine köb (köp)
+  kdr: yerine köp (köp)
+  kaz: yerine köp (köp)
+  kjh: yerine köp (köp)
+  kir: yerine köp (köp)
+  kum: yerine köp (köp)
+  clw: yerine köp (köp)
+  nog: yerine köp (köp)
+  slr: yerine kop (köp)
+  ybe: yerine kep (köp)
+  cjs: yerine köp (köp)
+  tat: yerine küp (köp)
+  kim: yerine köp (köp)
+  tuk: yerine köp (köp)
+  uig: yerine köp (köp)
+  uzb: yerine köp (köp)
+  dlg: yerine ügüs (üküş)
+  sah: yerine elbex (üküş)
+  tyv: yerine xöy (xöy)
+tarihi_yok: {}

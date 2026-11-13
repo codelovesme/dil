@@ -57,7 +57,7 @@ aşamasında ele alınacak.
 ## 10. Sıfatlar
 
 - [x] [büyük](temel/buyuk.yaml) · [x] [küçük](temel/kucuk.yaml) · [x] [iyi](temel/iyi.yaml) · [x] [kötü](temel/kotu.yaml) · [x] [yeni](temel/yeni.yaml) · [x] [eski](temel/eski.yaml) · [x] [uzun](temel/uzun.yaml) · [x] [kısa](temel/kisa.yaml)
-- [ ] ak · [ ] kara · [ ] kızıl · [ ] sarı · [ ] gök (mavi) · [ ] yaşıl · [ ] sıcak · [ ] soğuk · [ ] çok · [ ] az
+- [x] [ak](temel/ak.yaml) · [x] [kara](temel/kara.yaml) · [x] [kızıl](temel/kizil.yaml) · [x] [sarı](temel/sari.yaml) · [ ] gök (mavi) · [x] [yaşıl](temel/yesil.yaml) · [x] [sıcak](temel/sicak.yaml) · [x] [soğuk](temel/soguk.yaml) · [x] [çok](temel/cok.yaml) · [ ] az
 
 > [x] işaretli olanlar şimdilik **doğrulanmamış örnek veri** içerir; sırası
 > gelince araştırma yöntemiyle baştan yapılacak.

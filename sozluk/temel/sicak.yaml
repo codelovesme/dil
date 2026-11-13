@@ -1,0 +1,66 @@
+kavram: sıcak
+ingilizce: hot
+anlam: Sıcak.
+dogrulandi: false
+kokler:
+- kok: isig
+  koken: türkçe
+  ana_turkce: '*isig'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/isig.yaml).
+  tarihi:
+    qwm: issi
+    otk: isig
+    eski-anadolu: ıssı
+  bicimler:
+    aze: isti
+    bak: eśe
+    krc: issi
+    kdr: issi
+    kaa: ıssı
+    kaz: ıstık
+    kjh: izig
+    kir: ısık
+    kum: issi
+    clw: izığ
+    nog: issi
+    atv: izig
+    slr: ıssı
+    ybe: issığ
+    cjs: izig
+    alt: izü
+    tat: esse
+    kim: isig
+    tyv: izig
+    uig: issik
+    uzb: issik
+    sty-baraba: isü
+- kok: sıcak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sıcak.yaml).
+  bicimler:
+    crh: sıcak
+    gag: sıcak
+    tur: sıcak
+- kok: kızgın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kızgın.yaml).
+  bicimler:
+    tuk: gızgın
+- kok: itii
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/itii.yaml).
+  bicimler:
+    dlg: itii
+    sah: itii
+- kok: vĕri
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/vĕri.yaml).
+  bicimler:
+    chv: vĕri
+yok: []
+tarihi_yok: []
