@@ -1,0 +1,84 @@
+kavram: sakla-
+ingilizce: hide
+anlam: Saklamak, gizlemek.
+dogrulandi: false
+kokler:
+- kok: yaşır
+  koken: türkçe
+  ana_turkce: '*yašïr-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yaşır.yaml).
+  tarihi:
+    qwm: yaşır
+    otk: yaşur
+  bicimler:
+    bak: yäşer
+    krc: caşır
+    kdr: yaşır
+    kaa: jasır
+    kjh: çazır
+    kir: jaşır
+    kum: yaşır
+    clw: çaazır
+    nog: yasır
+    slr: yaşir
+    ybe: yaşır
+    cjs: çajır
+    alt: dajır
+    tat: yäşer
+    kim: çaahır
+    tuk: yığşır
+    tyv: çajır
+    uig: yoşur
+    uzb: yaşir
+    sty-baraba: yäşär
+- kok: sakla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sakla.yaml).
+  bicimler:
+    crh: sakla
+    gag: sakla
+    tur: sakla
+- kok: gizle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/gizle.yaml).
+  bicimler:
+    aze: gizlän
+- kok: tık
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tık.yaml).
+  bicimler:
+    kaz: tık
+- kok: sok
+  koken: türkçe
+  ana_turkce: '*sok-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sok.yaml).
+  bicimler:
+    atv: suk
+- kok: kistee
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kistee.yaml).
+  bicimler:
+    dlg: kistee
+    sah: kistee
+- kok: küöşü
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/küöşü.yaml).
+  bicimler:
+    klj:
+      bicim: küöşü
+      miras: true
+- kok: pıtar
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/pıtar.yaml).
+  bicimler:
+    chv: pıtar
+yok: []
+tarihi_yok: []

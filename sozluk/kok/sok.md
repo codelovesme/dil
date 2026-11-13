@@ -5,13 +5,13 @@
 - **Anlam:** "vurmak, çarpmak"
 - **Ana Türkçe:** *sok-
 - **Köken:** türkçe
-- **Kavramlar:** [vur](../temel/vur.yaml), [ufle](../temel/ufle.yaml)
+- **Kavramlar:** [vur](../temel/vur.yaml), [ufle](../temel/ufle.yaml), [doku](../temel/doku.yaml), [sakla](../temel/sakla.yaml)
 - **Etimoloji:** sok- 'vurmak, çarpmak' (Türkiye Türkçesinde 'sokmak'); Kıpçak, Kırgız, Altay ve Sibirya dillerinde asıl 'vurmak' fiili.
 - **En eski tanık:** 14. yy
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 12 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 24 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -40,16 +40,28 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Kıpçak kolu | Tatarca |  | **suk** | сук- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Tatarca |  | **suk** | сук- | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Başkurtça |  | **huğ** | һуғ- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Başkurtça |  | **huk** | һуҡ- | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Karayca |  | **sox** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle. |
+| Kıpçak kolu | Kumukça |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kazakça |  | **sok** | соқ- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Nogayca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Nogayca |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **sok** | сок- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **sok** |  | esmek (rüzgâr) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Kırgızca |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle. |
 | Kıpçak kolu | Güney Altayca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Güney Altayca |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Sarı Uygurca |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Tuvaca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle. |
+| Sibirya kolu | Hakasça |  | **sok** |  | dokumak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Çulımca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Kuzey Altayca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Kuzey Altayca |  | **suk** |  | saklamak (bir yere sokmak) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine vur (ur) |
 | | Kırım Tatarcası | | — | | | | kök yok: yerine ur (ur) |
 | | Karakalpakça | | — | | | | kök yok: yerine ur (ur) |
@@ -73,4 +85,4 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 12 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 24 tanık

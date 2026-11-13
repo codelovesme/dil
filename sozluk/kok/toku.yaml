@@ -1,0 +1,55 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: toku
+anlam: '"dokumak"'
+koken: türkçe
+ana_turkce: '*tokï-'
+kavramlar:
+- doku
+etimoloji: tok- 'vurmak' + -ı-; 'dokumak' (tezgâhta atkıyı vurarak). Eski Uygurca tokı-; Oğuz,
+  Karluk ve Kazak-Karakalpak dillerinde (toku-, toxu-, doku-).
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tokı
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: toxu, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: toku, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: doku, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: tokı, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: toku, dil: kaz, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: toku, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: doku, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: doka, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: toku, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: toki, dil: uzb, kaynak: savelyev-turkic}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: tokı, anlam: 'vurmak, yenmek (düşmanı)', metin: Kül Tigin ve Bilge Kağan yazıtları, kaynak: clauson, atif: 'II S 8, II E 31 (Clauson, tokı:-)'}
+  - {dil: otk, yuzyil: 8-14, bicim: tokı, anlam: vurmak; dokumak, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 2; U II 61; TT VII 26 (Clauson, tokı:-)'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tokı, anlam: vurmak; dövmek (kılıç); dokumak (bez), metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 268 (Clauson, tokı:-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı 'dövmek' anlamını Oğuzca diye verir.}
+  - {dil: xqa, yuzyil: 13, bicim: tokı, anlam: 'vurmak, çakmak', metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 307 (Clauson, tokı:-)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: doku, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 25, 3; 31, 13 (Clauson, tokı:-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: toku, metin: Nehcü'l-Feradis, kaynak: clauson, atif: 'Nehcü''l-Feradis 82 (Clauson, tokı:-)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: dokı, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 35, 19 (Clauson, tokı:-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: tokı, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 65 (Clauson, tokı:-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: toku, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 36b 13 (Clauson, tokı:-)'}
+  - {dil: chg, yuzyil: 16-18, bicim: toku, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 180r (Clauson, tokı:-)'}
+
+yok:
+  sty-baraba: yerine sok (sok)
+  alt: yerine sok (sok)
+  bak: yerine huk (sok)
+  krc: yerine sok (sok)
+  kdr: yerine sox (sok)
+  kjh: yerine sok (sok)
+  kir: yerine sok (sok)
+  kum: yerine sok (sok)
+  nog: yerine sok (sok)
+  ybe: yerine sok (sok)
+  tat: yerine suk (sok)
+  sah: yerine ör (ör)
+  tyv: yerine arğı (arğı)
+  chv: yerine tĕrt (tĕrt)
+tarihi_yok: {}

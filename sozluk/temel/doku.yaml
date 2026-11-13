@@ -1,0 +1,66 @@
+kavram: doku-
+ingilizce: weave
+anlam: Dokumak.
+dogrulandi: false
+kokler:
+- kok: toku
+  koken: türkçe
+  ana_turkce: '*tokï-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/toku.yaml).
+  tarihi:
+    otk: tokı
+    xqa: tokı
+    chg: toku
+    qwm: dokı
+  bicimler:
+    aze: toxu
+    crh: toku
+    gag: doku
+    kaa: tokı
+    kaz: toku
+    klj:
+      bicim: toku
+      miras: true
+    tur: doku
+    tuk: doka
+    uig: toku
+    uzb: toki
+- kok: sok
+  koken: türkçe
+  ana_turkce: '*sok-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sok.yaml).
+  bicimler:
+    bak: huk
+    krc: sok
+    kdr: sox
+    kjh: sok
+    kir: sok
+    kum: sok
+    nog: sok
+    ybe: sok
+    alt: sok
+    tat: suk
+    sty-baraba: sok
+- kok: ör
+  koken: türkçe
+  ana_turkce: '*ȫr-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ör.yaml).
+  bicimler:
+    sah: ör
+- kok: arğı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/arğı.yaml).
+  bicimler:
+    tyv: arğı
+- kok: tĕrt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tĕrt.yaml).
+  bicimler:
+    chv: tĕrt
+yok: []
+tarihi_yok: []

@@ -1,0 +1,62 @@
+kavram: şiş-
+ingilizce: swell
+anlam: Şişmek.
+dogrulandi: false
+kokler:
+- kok: şiş
+  koken: türkçe
+  ana_turkce: '*šiš-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şiş.yaml).
+  tarihi:
+    otk: sış
+  bicimler:
+    aze: şiş
+    bak: şeş
+    chv: şış
+    crh: şiş
+    gag: şiş
+    kdr: sis
+    kjh: sĕs
+    klj:
+      bicim: şış
+      miras: true
+    kir: şiş
+    kum: şiş
+    nog: sis
+    ybe: sız
+    cjs: şiş
+    tat: şeş
+    tur: şiş
+    tuk: çiş
+    uzb: şiş
+- kok: iş-şiş
+  koken: türkçe
+  ana_turkce: '*iš-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iş-şiş.yaml).
+  bicimler:
+    kaa: is
+    kaz: is
+    kim: ış
+    tyv: ış
+    uig: işşä
+    sah: is
+- kok: köp-fiil
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köp-fiil.yaml).
+  tarihi:
+    qwm: köp
+  bicimler:
+    krc: köp
+    clw: kop
+- kok: tiji
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tiji.yaml).
+  bicimler:
+    atv: tiji
+    alt: tiji
+yok: []
+tarihi_yok: []

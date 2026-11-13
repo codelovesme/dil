@@ -76,6 +76,7 @@ aşamasında ele alınacak.
 - [x] [göğüs](temel/gogus.yaml) · [x] [sırt](temel/sirt.yaml) · [x] [tırnak](temel/tirnak.yaml) · [x] [kabuk](temel/kabuk.yaml) · [x] [dal](temel/dal.yaml) · [x] [yanak](temel/yanak.yaml)
 - [x] [çene](temel/cene.yaml) · [x] [ciğer](temel/ciger.yaml) · [x] [göbek](temel/gobek.yaml) · [x] [omuz](temel/omuz.yaml) · [x] [boğaz](temel/bogaz.yaml)
 - [x] [çek-](temel/cek.yaml) · [x] [it-](temel/it-fiil.yaml) · [x] [çiğne-](temel/cigne.yaml) · [x] [em-](temel/em.yaml) · [x] [yut-](temel/yut.yaml) · [x] [yala-](temel/yala.yaml)
+- [x] [dik-](temel/dik.yaml) · [x] [doku-](temel/doku.yaml) · [x] [oyna-](temel/oyna.yaml) · [x] [sakla-](temel/sakla.yaml) · [x] [kaşı-](temel/kasi.yaml) · [x] [şiş-](temel/sis.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

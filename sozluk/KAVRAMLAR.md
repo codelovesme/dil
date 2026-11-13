@@ -59,9 +59,11 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [deniz](temel/deniz.md) | sea | **teñiz** | **teñiz** | **deñiz** | uyuşuyor |
 | [deri](temel/deri.md) | skin, hide | **teri** | **teri** | **teri** | uyuşuyor |
 | [derin](temel/derin.md) | deep | **tereñ** | **teriñ** | **derin** | uyuşuyor |
+| [dik- (dikiş)](temel/dik.md) | sew | **tik** | **tik** | **tik** | uyuşuyor |
 | [dil](temel/dil.md) | tongue | **til** | **tıl** | **til** | uyuşuyor |
 | [diş](temel/dis.md) | tooth | **tiş** | **tiş** | **tiş** | uyuşuyor |
 | [diz](temel/diz.md) | knee | **tiz** | **tiz** | **tiz** | uyuşuyor |
+| [doku-](temel/doku.md) | weave | **tokı** | **tokı** | **toku** | uyuşuyor |
 | [dolu](temel/dolu.md) | full | **tolu** | **tolu** | **tolu** | uyuşuyor |
 | [dört](temel/dort.md) | four | **dört** | **dört** | **dört** | uyuşuyor |
 | [duman](temel/duman.md) | smoke | **tütün** | **tütün** | **tütün** | uyuşuyor |
@@ -110,6 +112,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [kara](temel/kara.md) | black | **kara** | **kara** | **kara** | uyuşuyor |
 | [karın](temel/karin.md) | belly | **iç** | **karın** | **karın** | ayrişiyor |
 | [karınca](temel/karinca.md) | ant | **kumurska** | **kumursğa** | **kumurska** | uyuşuyor |
+| [kaşı-](temel/kasi.md) | scratch | **kaşı** | **kaşı** | **kaşı** | uyuşuyor |
 | [katı](temel/kati.md) | hard | **katığ** | **katığ** | **katı** | uyuşuyor |
 | [kaz-](temel/kaz.md) | dig | **kaz** | **kaz** | **kaz** | uyuşuyor |
 | [kemik](temel/kemik.md) | bone | **sümük** | **süñük** | **sümük** | uyuşuyor |
@@ -147,14 +150,17 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [orman](temel/orman.md) | forest | **orman** | **orman** | **orman** | uyuşuyor |
 | [ot](temel/ot.md) | grass | **ot** | **ot** | **ot** | uyuşuyor |
 | [otur-](temel/otur.md) | sit | **olur** | **olur** | **otur** | uyuşuyor |
+| [oyna-](temel/oyna.md) | play | **oyna** | **oyna** | **oyna** | uyuşuyor |
 | [saç](temel/sac.md) | hair (head) | **saç** | **saç** | **saç** | uyuşuyor |
 | [sağ (yön)](temel/sag.md) | right (side) | **oñ** | **oñ** | **oñ** | uyuşuyor |
+| [sakla-](temel/sakla.md) | hide | **yaşır** | **yaşur** | **yaşır** | uyuşuyor |
 | [sarı](temel/sari.md) | yellow | **sarığ** | **sarığ** | **sarı** | uyuşuyor |
 | [say-](temel/say.md) | count | **sana** | **sana** | **say** | ayrişiyor |
 | [sen](temel/sen.md) | you (singular) | **sen** | **sän** | **sen** | uyuşuyor |
 | [sıcak](temel/sicak.md) | hot | **isig** | **isig** | **issik** | uyuşuyor |
 | [sinek](temel/sinek.md) | fly (insect) | **çibin** | **çibin** | **sinek** | ayrişiyor |
 | [sırt](temel/sirt.md) | back | **arka** | **arka** | **arka** | uyuşuyor |
+| [şiş-](temel/sis.md) | swell | **şış** | **sış** | **şiş** | uyuşuyor |
 | [siz](temel/siz.md) | you (plural; polite) | **siz** | **siz** | **siz** | uyuşuyor |
 | [soğuk](temel/soguk.md) | cold | **soğuk** | **soğık** | **soğuk** | uyuşuyor |
 | [sol](temel/sol.md) | left (side) | **sol** | **sol** | **sol** | uyuşuyor |

@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 197 kavram, 30 tanesi ayrışıyor.
+Toplam 203 kavram, 30 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -61,9 +61,11 @@ Toplam 197 kavram, 30 tanesi ayrışıyor.
 | deniz | teñiz *(teñiz)* | teñiz *(teñiz)* | deñiz *(teñiz)* | UYUŞUYOR |
 | deri | teri *(teri)* | teri *(teri)* | teri *(teri)* | UYUŞUYOR |
 | derin | tereñ *(teriñ)* | teriñ *(teriñ)* | derin *(teriñ)* | UYUŞUYOR |
+| dik- (dikiş) | tik *(tik)* | tik *(tik)* | tik *(tik)* | UYUŞUYOR |
 | dil | til *(tıl)* | tıl *(tıl)* | til *(tıl)* | UYUŞUYOR |
 | diş | tiş *(tiş)* | tiş *(tiş)* | tiş *(tiş)* | UYUŞUYOR |
 | diz | tiz *(tiz)* | tiz *(tiz)* | tiz *(tiz)* | UYUŞUYOR |
+| doku- | tokı *(toku)* | tokı *(toku)* | toku *(toku)* | UYUŞUYOR |
 | dolu | tolu *(tolu)* | tolu *(tolu)* | tolu *(tolu)* | UYUŞUYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
 | duman | tütün *(tütün)* | tütün *(tütün)* | tütün *(tütün)* | UYUŞUYOR |
@@ -112,6 +114,7 @@ Toplam 197 kavram, 30 tanesi ayrışıyor.
 | kara | kara *(kara-ad)* | kara *(kara-ad)* | kara *(kara-ad)* | UYUŞUYOR |
 | karın | iç *(iç-ad)* | karın *(karın)* | karın *(karın)* | AYRIŞIYOR |
 | karınca | kumurska *(kumursga)* | kumursğa *(kumursga)* | kumurska *(kumursga)* | UYUŞUYOR |
+| kaşı- | kaşı *(kaşı)* | kaşı *(kaşı)* | kaşı *(kaşı)* | UYUŞUYOR |
 | katı | katığ *(katığ)* | katığ *(katığ)* | katı *(katığ)* | UYUŞUYOR |
 | kaz- | kaz *(kaz)* | kaz *(kaz)* | kaz *(kaz)* | UYUŞUYOR |
 | kemik | sümük *(süñük)* | süñük *(süñük)* | sümük *(süñük)* | UYUŞUYOR |
@@ -149,14 +152,17 @@ Toplam 197 kavram, 30 tanesi ayrışıyor.
 | orman | orman *(orman)* | orman *(orman)* | orman *(orman)* | UYUŞUYOR |
 | ot | ot *(ot-bitki)* | ot *(ot-bitki)* | ot *(ot-bitki)* | UYUŞUYOR |
 | otur- | olur *(olur)* | olur *(olur)* | otur *(olur)* | UYUŞUYOR |
+| oyna- | oyna *(oyna)* | oyna *(oyna)* | oyna *(oyna)* | UYUŞUYOR |
 | saç | saç *(saç)* | saç *(saç)* | saç *(saç)* | UYUŞUYOR |
 | sağ (yön) | oñ *(oñ)* | oñ *(oñ)* | oñ *(oñ)* | UYUŞUYOR |
+| sakla- | yaşır *(yaşır)* | yaşur *(yaşır)* | yaşır *(yaşır)* | UYUŞUYOR |
 | sarı | sarığ *(sarığ)* | sarığ *(sarığ)* | sarı *(sarığ)* | UYUŞUYOR |
 | say- | sana *(sana)* | sana *(sana)* | say *(say)* | AYRIŞIYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | sıcak | isig *(isig)* | isig *(isig)* | issik *(isig)* | UYUŞUYOR |
 | sinek | çibin *(çıbın)* | çibin *(çıbın)* | sinek *(siñek)* | AYRIŞIYOR |
 | sırt | arka *(arka)* | arka *(arka)* | arka *(arka)* | UYUŞUYOR |
+| şiş- | şış *(şiş)* | sış *(şiş)* | şiş *(şiş)* | UYUŞUYOR |
 | siz | siz *(siz)* | siz *(siz)* | siz *(siz)* | UYUŞUYOR |
 | soğuk | soğuk *(soğık)* | soğık *(soğık)* | soğuk *(soğık)* | UYUŞUYOR |
 | sol | sol *(sol)* | sol *(sol)* | sol *(sol)* | UYUŞUYOR |

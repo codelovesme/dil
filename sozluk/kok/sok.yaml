@@ -3,7 +3,7 @@ kok: sok
 anlam: '"vurmak, çarpmak"'
 koken: türkçe
 ana_turkce: '*sok-'
-kavramlar: [vur, ufle]
+kavramlar: [vur, ufle, doku, sakla]
 etimoloji: sok- 'vurmak, çarpmak' (Türkiye Türkçesinde 'sokmak'); Kıpçak, Kırgız, Altay ve
   Sibirya dillerinde asıl 'vurmak' fiili.
 kaynak: savelyev-turkic
@@ -21,6 +21,18 @@ taniklar:
   - {atif: dmitrijeva1981, bicim: sok, dil: sty-baraba, kaynak: savelyev-turkic}
   - {anlam: esmek (rüzgâr), atif: noauthor1880, bicim: sok, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
   - {anlam: esmek (rüzgâr), atif: 'judakhin1985, judakhin1957', bicim: sok, dil: kir, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: 'uraksin1996, uraksin2005', bicim: huk, dil: bak, kaynak: savelyev-turkic, yazi: һуҡ-}
+  - {anlam: dokumak, atif: 'tenisev1989, sujuncev1965', bicim: sok, dil: krc, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: baskakov1974, bicim: sox, dil: kdr, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {anlam: dokumak, atif: 'baskakov1953, cankov1961, subrakova2006', bicim: sok, dil: kjh, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: 'judakhin1985, judakhin1957', bicim: sok, dil: kir, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {anlam: dokumak, atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: sok, dil: kum, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: sok, dil: nog, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: 'malov1957, tenisev1966', bicim: sok, dil: ybe, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: baskakov1947, bicim: sok, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: dokumak, atif: 'dmitrijev1955, osmanov1966', bicim: suk, dil: tat, kaynak: savelyev-turkic, yazi: сук-}
+  - {anlam: dokumak, atif: dmitrijeva1981, bicim: sok, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: saklamak (bir yere sokmak), atif: baskakov1985, bicim: suk, dil: atv, kaynak: savelyev-turkic}
 
 yok:
   aze: yerine vur (ur)
