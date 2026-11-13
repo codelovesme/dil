@@ -1,0 +1,65 @@
+kavram: duman
+ingilizce: smoke
+anlam: Duman (ateşin dumanı).
+dogrulandi: false
+kokler:
+- kok: tütün
+  koken: türkçe
+  ana_turkce: '*tütün'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tütün.yaml).
+  tarihi:
+    qwm: tütün
+    otk: tütün
+  bicimler:
+    aze: tüstü
+    bak: tötön
+    chv: tĕtĕm
+    crh: tütün
+    gag: tütün
+    krc: tütün
+    kdr: tütün
+    kaa: tütin
+    kaz: tütin
+    kjh: tüdün
+    klj:
+      bicim: titün
+      miras: true
+    kir: tütün
+    kum: tütün
+    clw: tüdün
+    nog: tütin
+    atv: tüdök
+    slr: cücün
+    cjs: tüdün
+    tat: töten
+    tuk: tüsse
+    uzb: tutun
+    sty-baraba: tötin
+- kok: duman
+  koken: türkçe
+  ana_turkce: '*tuman'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/duman.yaml).
+  bicimler:
+    tur: duman
+- kok: ıs
+  koken: türkçe
+  ana_turkce: '*ïš'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıs.yaml).
+  bicimler:
+    ybe: ıs
+    alt: ış
+    kim: ış
+    tyv: ış
+    uig: is
+- kok: buruo
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/buruo.yaml).
+  bicimler:
+    dlg: buruo
+    sah: buruo
+yok: []
+tarihi_yok: []

@@ -1,0 +1,54 @@
+kavram: kum
+ingilizce: sand
+anlam: Kum.
+dogrulandi: false
+kokler:
+- kok: kum
+  koken: türkçe
+  ana_turkce: '*kum'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kum.yaml).
+  tarihi:
+    qwm: kum
+    otk: kum
+    eski-anadolu: qum
+  bicimler:
+    aze: kum
+    bak: kom
+    crh: kum
+    dlg: kumak
+    gag: kum
+    krc: kum
+    kdr: kum
+    kaa: kum
+    kaz: kŭm
+    kjh: xum
+    kir: kum
+    kum: xum
+    clw: kum
+    nog: kum
+    atv: kuvak
+    slr: '? kum'
+    ybe: kum
+    cjs: kumak
+    tat: kom
+    kim: hum
+    tur: kum
+    uig: kum
+    uzb: kum
+    sah: kumax
+    sty-baraba: kum
+- kok: çäge
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çäge.yaml).
+  bicimler:
+    tuk: çäge
+- kok: xăyăr
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xăyăr.yaml).
+  bicimler:
+    chv: xăyăr
+yok: []
+tarihi_yok: []

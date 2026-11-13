@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çañ
+anlam: '"toz"'
+koken: türkçe
+kavramlar:
+- toz
+etimoloji: çañ 'toz'; Kıpçak (Kazak, Nogay, Kumuk), Kırgız ve Karluk dillerinde ve Sarı Uygurcada
+  (şañ, çañ, çam).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1958, baskakov1967', bicim: şañ, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şañ, dil: kaz, kaynak: savelyev-turkic, yazi: шаң}
+  - {atif: 'judakhin1985, judakhin1957', bicim: çañ, dil: kir, kaynak: savelyev-turkic, yazi: чаң}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: çañ, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şañ, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: çam, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: çañ, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çañ, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine tos (toz)
+  atv: yerine tozun (toz)
+  aze: yerine toz (toz)
+  bak: yerine tuzan (toz)
+  chv: yerine tuzan (toz)
+  crh: yerine toz (toz)
+  gag: yerine tooz (toz)
+  kdr: yerine toz (toz)
+  kjh: yerine tozın (toz)
+  clw: yerine tozan (toz)
+  cjs: yerine tozun (toz)
+  tat: yerine tuzan (toz)
+  tur: yerine toz (toz)
+  tuk: yerine tozan (toz)
+  tyv: yerine doozun (toz)
+  alt: yerine tobrax (toprak)
+  klj: yerine turpaak (toprak)
+  kim: yerine toprak (toprak)
+  krc: yerine buku (buku)
+  slr: yerine taarıx (taarıx)
+tarihi_yok: {}

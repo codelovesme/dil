@@ -1,0 +1,48 @@
+kavram: kül
+ingilizce: ash
+anlam: Kül.
+dogrulandi: false
+kokler:
+- kok: kül-ad
+  koken: türkçe
+  ana_turkce: '*kül'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kül-ad.yaml).
+  tarihi:
+    otk: kül
+  bicimler:
+    aze: kül
+    bak: köl
+    chv:
+      bicim: kĕl
+      miras: true
+    crh: kül
+    dlg: kül
+    gag: kül
+    krc: kül
+    kdr: kül
+    kaa: kül
+    kaz: kül
+    kjh: kül
+    klj:
+      bicim: kil
+      miras: true
+    kir: kül
+    kum: kül
+    clw: kül
+    nog: kül
+    atv: kül
+    slr: kül
+    ybe: kul
+    cjs: kül
+    alt: kül
+    tat: köl
+    kim: hül
+    tur: kül
+    tuk: kül
+    tyv: xül
+    uig: kül
+    uzb: kul
+    sah: kül
+yok: []
+tarihi_yok: []

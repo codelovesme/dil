@@ -63,6 +63,7 @@ aşamasında ele alınacak.
 
 - [x] [burada](temel/burada.yaml) · [x] [orada](temel/orada.yaml) · [x] [ne zaman](temel/ne-zaman.yaml) · [x] [hangi](temel/hangi.yaml) · [x] [başka](temel/baska.yaml) · [x] [dolu](temel/dolu.yaml)
 - [x] [gül-](temel/gul.yaml) · [x] [ağla-](temel/agla.yaml) · [x] [öldür-](temel/oldur.yaml) · [x] [vur-](temel/vur.yaml) · [x] [kes-](temel/kes.yaml) · [x] [at-](temel/at.yaml) · [x] [yıka-](temel/yika.yaml) · [x] [aç-](temel/ac.yaml)
+- [x] [kül](temel/kul.yaml) · [x] [toz](temel/toz.yaml) · [x] [buz](temel/buz.yaml) · [x] [ırmak](temel/irmak.yaml) · [x] [kum](temel/kum.yaml) · [x] [tuz](temel/tuz.yaml) · [x] [duman](temel/duman.yaml) · [x] [bulut](temel/bulut.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

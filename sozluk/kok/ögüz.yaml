@@ -1,0 +1,57 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ögüz
+anlam: '"ırmak" (Eski Türkçe)'
+koken: türkçe
+ana_turkce: '*ögüŕ'
+kavramlar:
+- irmak
+etimoloji: Ana Türkçe *ögüŕ 'ırmak'; Eski Türkçe ve Kuman ögüz. Sahaca örüs'ün bu köke bağlanması
+  tartışmalı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: ögüz
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım ochus.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: ögüz
+    kaynak: savelyev-turkic
+    atif: clauson1972
+
+yok:
+  crh: yerine özen (özen)
+  kaa: yerine özek (özen)
+  kdr: yerine özän (özen)
+  kaz: yerine özen (özen)
+  kum: yerine özen (özen)
+  slr: yerine uzen (özen)
+  sty-baraba: yerine su (sub)
+  atv: yerine suğ (sub)
+  alt: yerine suu (sub)
+  chv: yerine şıv (sub)
+  krc: yerine suw (sub)
+  kjh: yerine suğ (sub)
+  kir: yerine suu (sub)
+  nog: yerine suw (sub)
+  ybe: yerine su (sub)
+  cjs: yerine suğ (sub)
+  uig: yerine su (sub)
+  bak: yerine yılğa (yılğa)
+  tat: yerine yılğa (yılğa)
+  kim: yerine hem (kem)
+  tyv: yerine xem (kem)
+  aze: yerine çay (çay)
+  tur: yerine ırmak (ırmak)
+  sah: yerine örüs (örüs)
+  dlg: yerine ebe (ebe)
+  klj: yerine çaaban (çaaban)
+tarihi_yok: {}

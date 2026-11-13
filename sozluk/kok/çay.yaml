@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çay
+anlam: '"çay, dere"'
+koken: türkçe
+kavramlar:
+- irmak
+etimoloji: çay 'dere, ırmak'; Azerbaycan Türkçesinde 'ırmak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: çay, dil: aze, kaynak: savelyev-turkic}
+
+yok:
+  crh: yerine özen (özen)
+  kaa: yerine özek (özen)
+  kdr: yerine özän (özen)
+  kaz: yerine özen (özen)
+  kum: yerine özen (özen)
+  slr: yerine uzen (özen)
+  sty-baraba: yerine su (sub)
+  atv: yerine suğ (sub)
+  alt: yerine suu (sub)
+  chv: yerine şıv (sub)
+  krc: yerine suw (sub)
+  kjh: yerine suğ (sub)
+  kir: yerine suu (sub)
+  nog: yerine suw (sub)
+  ybe: yerine su (sub)
+  cjs: yerine suğ (sub)
+  uig: yerine su (sub)
+  bak: yerine yılğa (yılğa)
+  tat: yerine yılğa (yılğa)
+  kim: yerine hem (kem)
+  tyv: yerine xem (kem)
+  tur: yerine ırmak (ırmak)
+  sah: yerine örüs (örüs)
+  dlg: yerine ebe (ebe)
+  klj: yerine çaaban (çaaban)
+tarihi_yok: {}

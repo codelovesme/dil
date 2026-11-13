@@ -1,0 +1,60 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tuz
+anlam: '"tuz"'
+koken: türkçe
+ana_turkce: '*tuŕ'
+kavramlar:
+- tuz
+etimoloji: Ana Türkçe *tuŕ. Oğuz'da duz/tuz, Kıpçak-Bulgar toz, Sibirya tus, Sahaca tuus;
+  Çuvaşça tăvar (Oğur -r).
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tuz
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım tus.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tuz
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: duz, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: toz, dil: bak, kaynak: savelyev-turkic, yazi: тоҙ}
+  - {atif: 'asmarin1928, savelyev2011', bicim: tăvar, dil: chv, kaynak: savelyev-turkic, not: Oğur -r (Ortak Türkçe -z)., yazi: тӑвар}
+  - {atif: useinov2007, bicim: tuz, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tüüs, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tuz, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tuz, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: tuz, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: duz, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tŭz, dil: kaz, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tus, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: tuuz, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: tuz, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tuz, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: tus, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: tuz, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: tus, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: duz, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: tuz, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: tus, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: tus, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: toz, dil: tat, kaynak: savelyev-turkic, yazi: тоз}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tus, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: tuz, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: duz, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dus, dil: tyv, kaynak: savelyev-turkic, yazi: дус}
+  - {atif: nadzip1968, bicim: tuz, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: tuz, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tuus, dil: sah, kaynak: savelyev-turkic, yazi: туус}
+
+yok: {}
+tarihi_yok: {}

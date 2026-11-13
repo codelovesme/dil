@@ -5,13 +5,13 @@
 - **Anlam:** "su"
 - **Ana Türkçe:** *sub
 - **Köken:** türkçe
-- **Kavramlar:** [su](../temel/su.yaml)
+- **Kavramlar:** [su](../temel/su.yaml), [irmak](../temel/irmak.yaml)
 - **Etimoloji:** Ana Türkçe *sub; Eski Türkçe sub/suv. -b dillere göre -w, -v, -ğ ya da uzun ünlü olur (suw, suv, suğ, suu); Başkurtça hıw, Sahaca uu (s- düşer), Çuvaşça şıv.
 - **En eski tanık:** 8. yy
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 4/7 · tanık 34 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 4/7 · tanık 45 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -47,6 +47,7 @@ Notlar:
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  | **şıv** | шыв |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğur kolu | Çuvaşça |  | **şıv** | шыв | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Halaç kolu | Halaçça |  | **suw** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **su** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Gagavuzca |  | **su** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -59,25 +60,35 @@ Notlar:
 | Kıpçak kolu | Karayca |  | **suv** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kumukça |  | **suw** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **suw** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **suw** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kazakça |  | **su** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Karakalpakça |  | **suw** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Nogayca |  | **suw** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Nogayca |  | **suw** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **su** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **su** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **suu** | суу |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Kırgızca |  | **suu** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Güney Altayca |  | **suu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Güney Altayca |  | **suu** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Karluk kolu | Özbekçe |  | **suv** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Karluk kolu | Uygurca |  | **su** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Karluk kolu | Uygurca |  | **su** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Sahaca (Yakutça) |  | **uu** | уу |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Sahacada s- düşer. |
 | Sibirya kolu | Dolganca |  | **uu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Sarı Uygurca |  | **su** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Sarı Uygurca |  | **su** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Tuvaca |  | **suğ** | суг |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Tofaca |  | **suğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Hakasça |  | **suğ** | суғ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Hakasça |  | **suğ** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Şorca |  | **suğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Şorca |  | **suğ** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Çulımca |  | **suğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Kuzey Altayca |  | **suğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Kuzey Altayca |  | **suğ** |  | ırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 32 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 43 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 2 tanık

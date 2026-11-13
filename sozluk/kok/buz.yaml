@@ -1,0 +1,55 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: buz
+anlam: '"buz"'
+koken: türkçe
+ana_turkce: '*buŕ'
+kavramlar:
+- buz
+etimoloji: Ana Türkçe *buŕ. Oğuz'da buz, Kıpçak'ta muz (b > m), Kıpçak-Bulgar boz, Sibirya
+  bus/pus/muus; Çuvaşça păr (Oğur -r).
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: buz
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazımlar bus, buyz.
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: buz, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: boz, dil: bak, kaynak: savelyev-turkic, yazi: боҙ}
+  - {atif: 'asmarin1928, savelyev2011', bicim: păr, dil: chv, kaynak: savelyev-turkic, not: Oğur -r (Ortak Türkçe -z)., yazi: пӑр}
+  - {atif: useinov2007, bicim: buz, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: buus, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: buz, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: buz, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: buz, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: muz, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: muz, dil: kaz, kaynak: savelyev-turkic, yazi: мұз}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: pus, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: buzaak, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: muz, dil: kir, kaynak: savelyev-turkic, yazi: муз}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: buz, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: pus, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: buz, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: bus, dil: atv, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: pız, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: mus, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: boz, dil: tat, kaynak: savelyev-turkic, yazi: боз}
+  - {atif: 'baskakov1977, iz1992', bicim: buz, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: buz, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: muz, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: muz, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: muus, dil: sah, kaynak: savelyev-turkic, yazi: муус}
+  - {atif: dmitrijeva1981, bicim: mös, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine toş (toş)
+  kim: yerine toş (toş)
+  tyv: yerine doş (toş)
+  slr: yerine toñsı (toñ)
+tarihi_yok: {}
