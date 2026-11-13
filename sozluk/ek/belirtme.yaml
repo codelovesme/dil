@@ -1,0 +1,36 @@
+kavram: belirtme hâli eki
+ingilizce: accusative suffix
+anlam: Belirtme (yükleme) hâli eki.
+dogrulandi: false
+kokler:
+- kok: ek-nı
+  koken: türkçe
+  ana_turkce: '*-(n)I'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-nı.yaml).
+  bicimler:
+    aze: ı
+    bak: dı
+    crh: nı
+    dlg: ı
+    gag: ı
+    krc: nı
+    kdr: nı
+    kaa: dı
+    kaz: dı
+    kjh: nı
+    kir: dı
+    kum: nı
+    nog: dı
+    cjs: nı
+    alt: dı
+    tat: nı
+    tur: ı
+    tuk: ı
+    tyv: nı
+    uig: nı
+    uzb: ni
+    sah: ı
+    sty: nı
+yok: []
+tarihi_yok: []

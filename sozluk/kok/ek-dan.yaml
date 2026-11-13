@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-dan
+anlam: '"ayrılma hâli eki -DAn"'
+koken: türkçe
+ana_turkce: '*-DIn / *-DAn'
+kavramlar:
+- ayrilma
+etimoloji: Göktürkçe -dın/-tın, sonra -DAn. Bütün kollarda (dan, tan, nan; Uygurca -din, Sahaca
+  -ttan); Çuvaşça -ran/-tan.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: dan, dil: aze, kaynak: bilgi, not: 'Biçimler: dan, dän'}
+  - {bicim: dan, dil: bak, kaynak: bilgi, not: 'Biçimler: dan, dän; tan, tän; nan, nän; lan, län; zan, zän'}
+  - {bicim: ran, dil: chv, kaynak: bilgi, not: 'Biçimler: ran, ren, tan, ten; iyelikten sonra çen.', yazi: -ран}
+  - {bicim: dan, dil: crh, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
+  - {bicim: ttan, dil: dlg, kaynak: bilgi, not: 'Biçimler: ttan, tan, dan…'}
+  - {bicim: dan, dil: gag, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
+  - {bicim: dan, dil: krc, kaynak: bilgi, not: 'Biçimler: dan, den'}
+  - {bicim: dan, dil: kdr, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
+  - {bicim: dan, dil: kaa, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten, nan, nen'}
+  - {bicim: dan, dil: kaz, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten, nan, nen'}
+  - {bicim: dan, dil: kjh, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
+  - {bicim: dan, dil: kir, kaynak: bilgi, not: 'Biçimler: dan, den, don, dön; tan…'}
+  - {bicim: dan, dil: kum, kaynak: bilgi, not: 'Biçimler: dan, den'}
+  - {bicim: dan, dil: nog, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten, nan, nen'}
+  - {bicim: tan, dil: cjs, kaynak: bilgi, not: 'Biçimler: tan, ten, dan, den'}
+  - {bicim: dan, dil: alt, kaynak: bilgi, not: 'Biçimler: dan…; tan…; nan…'}
+  - {bicim: dan, dil: tat, kaynak: bilgi, not: 'Biçimler: dan, dän, tan, tän, nan, nän'}
+  - {bicim: dan, dil: tur, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
+  - {bicim: dan, dil: tuk, kaynak: bilgi, not: 'Biçimler: dan, den'}
+  - {bicim: dan, dil: tyv, kaynak: bilgi, not: 'Biçimler: dan, den; tan, ten; nan, nen'}
+  - {bicim: din, dil: uig, kaynak: bilgi, not: 'Biçimler: din, tin'}
+  - {bicim: dan, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız dan'}
+  - {bicim: ttan, dil: sah, kaynak: bilgi, not: 'Biçimler: ttan, tten; tan…, dan…, nan…, lan…'}
+  - {bicim: tan, dil: sty, kaynak: bilgi, not: 'Biçimler: tan, dan, nan'}
+
+yok: {}
+tarihi_yok: {}

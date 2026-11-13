@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ğa
+anlam: '"yönelme hâli eki -GA"'
+koken: türkçe
+ana_turkce: '*-GA'
+kavramlar:
+- yonelme
+etimoloji: Ana Türkçe *-GA (Göktürkçe -ka/-ke, -ğa/-ge). Kıpçak, Karluk ve Sibirya dillerinde
+  ğa/ka; Oğuz'da ğ düşer (-a/-e). Çuvaşça -a/-na.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: a, dil: aze, kaynak: bilgi, not: 'Biçimler: a, ä; ünlüden sonra ya, yä'}
+  - {bicim: ğa, dil: bak, kaynak: bilgi, not: 'Biçimler: ğa, gä, ka, kä'}
+  - {bicim: a, dil: chv, kaynak: bilgi, not: 'Biçimler: a, e; ünlüden sonra na, ne. Çuvaşçada yönelme ile belirtme aynı ek.', yazi: -а}
+  - {bicim: ğa, dil: crh, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ka, dil: dlg, kaynak: bilgi, not: 'Biçimler: ka, ke; ga…'}
+  - {bicim: a, dil: gag, kaynak: bilgi, not: 'Biçimler: a, e; ya, ye'}
+  - {bicim: ğa, dil: krc, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ğa, dil: kdr, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ğa, dil: kaa, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ğa, dil: kaz, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke; iyelikten sonra a, e'}
+  - {bicim: ğa, dil: kjh, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ğa, dil: kir, kaynak: bilgi, not: 'Biçimler: ğa, ge, ğo, gö; ka, ke, ko, kö'}
+  - {bicim: ğa, dil: kum, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ğa, dil: nog, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
+  - {bicim: ka, dil: cjs, kaynak: bilgi, not: 'Biçimler: ka, ke, ğa, ge'}
+  - {bicim: ga, dil: alt, kaynak: bilgi, not: 'Biçimler: ga, ge, go, gö; ka…'}
+  - {bicim: ğa, dil: tat, kaynak: bilgi, not: 'Biçimler: ğa, gä, ka, kä'}
+  - {bicim: a, dil: tur, kaynak: bilgi, not: 'Biçimler: a, e; ünlüden sonra ya, ye'}
+  - {bicim: a, dil: tuk, kaynak: bilgi, not: 'Biçimler: a, e (ünlüden sonra ünlü uzar)'}
+  - {bicim: ka, dil: tyv, kaynak: bilgi, not: 'Biçimler: ka, ke, ko, kö; ga…'}
+  - {bicim: ğa, dil: uig, kaynak: bilgi, not: 'Biçimler: ğa, gä, ka, kä'}
+  - {bicim: ga, dil: uzb, kaynak: bilgi, not: 'Biçimler: ga; ka, qa'}
+  - {bicim: ka, dil: sah, kaynak: bilgi, not: 'Biçimler: ka, ke, ko, kö; ga…, xa…'}
+  - {bicim: ğa, dil: sty, kaynak: bilgi, not: 'Biçimler: ğa, ka'}
+
+yok: {}
+tarihi_yok: {}

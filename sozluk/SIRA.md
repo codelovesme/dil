@@ -87,7 +87,7 @@ dosyalarına (`sozluk/kok/ek-*.yaml`) tanık olarak yazılır, üç hedef ortak 
 için eki de kelime gibi seçer. Biçim olarak ünlüden ya da akıcı ünsüzden sonraki
 kalın sıralı biçim yazılır; öteki biçimler tanığın notundadır.
 
-- **İsim:** [x] [çoğul](ek/cogul.yaml) · [ ] iyelik (1., 2., 3. kişi; tekil, çoğul) · [ ] ilgi hâli · [ ] yönelme · [ ] belirtme · [ ] bulunma · [ ] ayrılma · [ ] vasıta (ile)
+- **İsim:** [x] [çoğul](ek/cogul.yaml) · [ ] iyelik (1., 2., 3. kişi; tekil, çoğul) · [x] [ilgi hâli](ek/ilgi.yaml) · [x] [yönelme](ek/yonelme.yaml) · [x] [belirtme](ek/belirtme.yaml) · [x] [bulunma](ek/bulunma.yaml) · [x] [ayrılma](ek/ayrilma.yaml) · [ ] vasıta (ile)
 - **Fiil:** [ ] olumsuzluk (-mA) · [ ] geçmiş zaman (-DI) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [ ] şart (-sA) · [ ] emir · [ ] istek
 - **Kişi ekleri:** [ ] 1., 2., 3. kişi (tekil, çoğul)
 - **Türetme ve diğer:** [ ] soru eki (mI) · [ ] bildirme · [ ] sıfat-fiil · [ ] zarf-fiil (-p, -A) · [ ] -lI · [ ] -sIz · [ ] -CI · [ ] -lIK

@@ -1,0 +1,37 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-nıñ
+anlam: '"ilgi hâli eki -nIñ"'
+koken: türkçe
+ana_turkce: '*-nIŋ'
+kavramlar:
+- ilgi
+etimoloji: Ana Türkçe *-nIŋ. Göktürkçeden beri; ñ Oğuz'da n'ye (Türkmen hariç), Kafkas Kıpçakçasında
+  düşer (-nı). Çuvaşça -ăn/-năn. Sahaca ve Dolgancada ilgi hâli yoktur.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: nın, dil: aze, kaynak: bilgi, not: 'Biçimler: ın, in, un, ün; ünlüden sonra nın…'}
+  - {bicim: nıñ, dil: bak, kaynak: bilgi, not: 'Biçimler: nıñ, neñ; dıñ; tıñ; zıñ'}
+  - {bicim: ăn, dil: chv, kaynak: bilgi, not: 'Biçimler: ăn, ĕn; ünlüden sonra n, năn. *-nIŋ''ın Çuvaşça karşılığı (ŋ > n).', yazi: -ӑн}
+  - {bicim: nıñ, dil: crh, kaynak: bilgi, not: 'Biçimler: nıñ, niñ'}
+  - {bicim: nın, dil: gag, kaynak: bilgi, not: 'Biçimler: ın, in…; nın…'}
+  - {bicim: nı, dil: krc, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü'}
+  - {bicim: nıñ, dil: kdr, kaynak: bilgi, not: 'Biçimler: nıñ, niñ'}
+  - {bicim: nıñ, dil: kaa, kaynak: bilgi, not: 'Biçimler: nıñ, niñ; dıñ; tıñ'}
+  - {bicim: nıñ, dil: kaz, kaynak: bilgi, not: 'Biçimler: nıñ, niñ; dıñ, diñ; tıñ, tiñ'}
+  - {bicim: nıñ, dil: kjh, kaynak: bilgi, not: 'Biçimler: nıñ, niñ; tıñ, tiñ'}
+  - {bicim: nın, dil: kir, kaynak: bilgi, not: 'Biçimler: nın, nin, nun, nün; dın…, tın…'}
+  - {bicim: nı, dil: kum, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü'}
+  - {bicim: nıñ, dil: nog, kaynak: bilgi, not: 'Biçimler: nıñ, niñ; dıñ, tıñ'}
+  - {bicim: nıñ, dil: cjs, kaynak: bilgi, not: 'Biçimler: nıñ, niñ'}
+  - {bicim: nıñ, dil: alt, kaynak: bilgi, not: 'Biçimler: nıñ…; dıñ…; tıñ…'}
+  - {bicim: nıñ, dil: tat, kaynak: bilgi, not: 'Biçimler: nıñ, neñ'}
+  - {bicim: nın, dil: tur, kaynak: bilgi, not: 'Biçimler: ın, in, un, ün; ünlüden sonra nın, nin, nun, nün'}
+  - {bicim: nıñ, dil: tuk, kaynak: bilgi, not: 'Biçimler: ıñ, iñ…; ünlüden sonra nıñ…'}
+  - {bicim: nıñ, dil: tyv, kaynak: bilgi, not: 'Biçimler: nıñ, niñ, nuñ, nüñ; dıñ…; tıñ…'}
+  - {bicim: nıñ, dil: uig, kaynak: bilgi, not: 'Biçimler: nıñ, niñ'}
+  - {bicim: niñ, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız niñ'}
+  - {bicim: nıñ, dil: sty, kaynak: bilgi, not: 'Biçimler: nıñ, niñ'}
+
+yok: {}
+tarihi_yok: {}

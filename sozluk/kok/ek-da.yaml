@@ -1,0 +1,37 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-da
+anlam: '"bulunma hâli eki -DA"'
+koken: türkçe
+ana_turkce: '*-DA'
+kavramlar:
+- bulunma
+etimoloji: Ana Türkçe *-DA (Göktürkçede ayrılma anlamı da). Bütün kollarda (da, ta, la, na);
+  Çuvaşça -ra/-ta. Saha ve Dolgancada bulunma yönelme ekiyle (-ka) karşılanır.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: da, dil: aze, kaynak: bilgi, not: 'Biçimler: da, dä'}
+  - {bicim: da, dil: bak, kaynak: bilgi, not: 'Biçimler: da, dä; ta, tä; la, lä; na, nä; za, zä'}
+  - {bicim: ra, dil: chv, kaynak: bilgi, not: 'Biçimler: ra, re (ünlü ve akıcı ünsüzden sonra), ta, te; iyelikten sonra çe. *-DA''nın Çuvaşça karşılığı (d > r).', yazi: -ра}
+  - {bicim: da, dil: crh, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: da, dil: gag, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: da, dil: krc, kaynak: bilgi, not: 'Biçimler: da, de'}
+  - {bicim: da, dil: kdr, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: da, dil: kaa, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: da, dil: kaz, kaynak: bilgi, not: 'Biçimler: da, de, ta, te; iyelikten sonra nda, nde'}
+  - {bicim: da, dil: kjh, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: da, dil: kir, kaynak: bilgi, not: 'Biçimler: da, de, do, dö; ta…'}
+  - {bicim: da, dil: kum, kaynak: bilgi, not: 'Biçimler: da, de'}
+  - {bicim: da, dil: nog, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: ta, dil: cjs, kaynak: bilgi, not: 'Biçimler: ta, te, da, de'}
+  - {bicim: da, dil: alt, kaynak: bilgi, not: 'Biçimler: da, de, do, dö; ta…'}
+  - {bicim: da, dil: tat, kaynak: bilgi, not: 'Biçimler: da, dä, ta, tä'}
+  - {bicim: da, dil: tur, kaynak: bilgi, not: 'Biçimler: da, de, ta, te'}
+  - {bicim: da, dil: tuk, kaynak: bilgi, not: 'Biçimler: da, de'}
+  - {bicim: da, dil: tyv, kaynak: bilgi, not: 'Biçimler: da, de; ta, te'}
+  - {bicim: da, dil: uig, kaynak: bilgi, not: 'Biçimler: da, dä, ta, tä'}
+  - {bicim: da, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız da'}
+  - {bicim: ta, dil: sty, kaynak: bilgi, not: 'Biçimler: ta, da'}
+
+yok: {}
+tarihi_yok: {}

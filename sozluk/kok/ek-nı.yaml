@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-nı
+anlam: '"belirtme hâli eki -(n)I"'
+koken: türkçe
+ana_turkce: '*-(n)I'
+kavramlar:
+- belirtme
+etimoloji: Göktürkçe -(ı)ğ ve zamir çekiminden yayılan -nı. Oğuz ve Sahada ünlüden sonra -nı/-yı,
+  ünsüzden sonra -ı; Kıpçak ve Sibirya'da -nı, -dı, -tı. Çuvaşçada belirtme yönelme ekiyle
+  birleşmiştir (-a/-na).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: ı, dil: aze, kaynak: bilgi, not: 'Biçimler: ı, i, u, ü; ünlüden sonra nı…'}
+  - {bicim: dı, dil: bak, kaynak: bilgi, not: 'Biçimler: dı, de; tı, te; nı, ne; zı, ze'}
+  - {bicim: nı, dil: crh, kaynak: bilgi, not: 'Biçimler: nı, ni'}
+  - {bicim: ı, dil: dlg, kaynak: bilgi, not: 'Biçimler: ı, i…; nı…'}
+  - {bicim: ı, dil: gag, kaynak: bilgi, not: 'Biçimler: ı, i…; yı…'}
+  - {bicim: nı, dil: krc, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü'}
+  - {bicim: nı, dil: kdr, kaynak: bilgi, not: 'Biçimler: nı, ni'}
+  - {bicim: dı, dil: kaa, kaynak: bilgi, not: 'Biçimler: dı, di; tı, ti; nı, ni'}
+  - {bicim: dı, dil: kaz, kaynak: bilgi, not: 'Biçimler: dı, di; tı, ti; nı, ni; iyelikten sonra n'}
+  - {bicim: nı, dil: kjh, kaynak: bilgi, not: 'Biçimler: nı, ni; tı, ti'}
+  - {bicim: dı, dil: kir, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…; nı…'}
+  - {bicim: nı, dil: kum, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü'}
+  - {bicim: dı, dil: nog, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti, nı, ni'}
+  - {bicim: nı, dil: cjs, kaynak: bilgi, not: 'Biçimler: nı, ni; tı, ti'}
+  - {bicim: dı, dil: alt, kaynak: bilgi, not: 'Biçimler: dı…; tı…; nı…'}
+  - {bicim: nı, dil: tat, kaynak: bilgi, not: 'Biçimler: nı, ne'}
+  - {bicim: ı, dil: tur, kaynak: bilgi, not: 'Biçimler: ı, i, u, ü; ünlüden sonra yı…'}
+  - {bicim: ı, dil: tuk, kaynak: bilgi, not: 'Biçimler: ı, i…; ünlüden sonra nı, ni'}
+  - {bicim: nı, dil: tyv, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü; dı…; tı…'}
+  - {bicim: nı, dil: uig, kaynak: bilgi, not: 'Biçimler: nı, ni'}
+  - {bicim: ni, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız ni'}
+  - {bicim: ı, dil: sah, kaynak: bilgi, not: 'Biçimler: ı, i, u, ü; ünlüden sonra nı…'}
+  - {bicim: nı, dil: sty, kaynak: bilgi, not: 'Biçimler: nı, ni'}
+
+yok: {}
+tarihi_yok: {}

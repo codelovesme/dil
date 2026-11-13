@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 227,
-  "kok": 647,
-  "tanik": 7376,
+  "kavram": 232,
+  "kok": 652,
+  "tanik": 7491,
   "kaynak": 169,
   "dil": 40
  },
@@ -75,8 +75,33 @@
    "tur": "dizin"
   },
   {
+   "yol": "sozluk/ek/ayrilma.md",
+   "baslik": "ayrılma hâli eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/belirtme.md",
+   "baslik": "belirtme hâli eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/bulunma.md",
+   "baslik": "bulunma hâli eki",
+   "tur": "dizin"
+  },
+  {
    "yol": "sozluk/ek/cogul.md",
    "baslik": "çoğul eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/ilgi.md",
+   "baslik": "ilgi hâli eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/yonelme.md",
+   "baslik": "yönelme hâli eki",
    "tur": "dizin"
   },
   {
@@ -605,13 +630,38 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-da.md",
+   "baslik": "ek-da",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-dan.md",
+   "baslik": "ek-dan",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-lar.md",
    "baslik": "ek-lar",
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-nı.md",
+   "baslik": "ek-nı",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-nıñ.md",
+   "baslik": "ek-nıñ",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-sem.md",
    "baslik": "ek-sem",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ğa.md",
+   "baslik": "ek-ğa",
    "tur": "kok"
   },
   {
@@ -4448,6 +4498,45 @@
  "arama": [
   {
    "t": "kavram",
+   "ad": "ayrılma hâli eki",
+   "alt": "ablative suffix",
+   "yol": "sozluk/ek/ayrilma.md",
+   "ozet": "Ortak dil: dan · Ana Türkçe tahmini: dan · En çok kişinin anladığı: dan",
+   "anahtar": [
+    "dan",
+    "din",
+    "ran",
+    "tan",
+    "ttan"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "belirtme hâli eki",
+   "alt": "accusative suffix",
+   "yol": "sozluk/ek/belirtme.md",
+   "ozet": "Ortak dil: nı · Ana Türkçe tahmini: nı · En çok kişinin anladığı: ı",
+   "anahtar": [
+    "dı",
+    "ni",
+    "nı",
+    "ı"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "bulunma hâli eki",
+   "alt": "locative suffix",
+   "yol": "sozluk/ek/bulunma.md",
+   "ozet": "Ortak dil: da · Ana Türkçe tahmini: da · En çok kişinin anladığı: da",
+   "anahtar": [
+    "da",
+    "ra",
+    "ta"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "çoğul eki",
    "alt": "plural suffix",
    "yol": "sozluk/ek/cogul.md",
@@ -4455,6 +4544,33 @@
    "anahtar": [
     "lar",
     "sem"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "ilgi hâli eki",
+   "alt": "genitive suffix",
+   "yol": "sozluk/ek/ilgi.md",
+   "ozet": "Ortak dil: nıñ · Ana Türkçe tahmini: nıñ · En çok kişinin anladığı: nın",
+   "anahtar": [
+    "niñ",
+    "nı",
+    "nın",
+    "nıñ",
+    "ăn"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "yönelme hâli eki",
+   "alt": "dative suffix",
+   "yol": "sozluk/ek/yonelme.md",
+   "ozet": "Ortak dil: ğa · Ana Türkçe tahmini: ğa · En çok kişinin anladığı: a",
+   "anahtar": [
+    "a",
+    "ga",
+    "ka",
+    "ğa"
    ]
   },
   {
@@ -11134,12 +11250,68 @@
   },
   {
    "t": "kok",
+   "ad": "ek-da",
+   "alt": "\"bulunma hâli eki -DA\"",
+   "yol": "sozluk/kok/ek-da.md",
+   "ozet": "22 tanık, en eski günümüz",
+   "anahtar": [
+    "-ра",
+    "da",
+    "ra",
+    "ta"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-dan",
+   "alt": "\"ayrılma hâli eki -DAn\"",
+   "yol": "sozluk/kok/ek-dan.md",
+   "ozet": "24 tanık, en eski günümüz",
+   "anahtar": [
+    "-ран",
+    "dan",
+    "din",
+    "ran",
+    "tan",
+    "ttan"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-lar",
    "alt": "\"çoğul eki -lAr\"",
    "yol": "sozluk/kok/ek-lar.md",
    "ozet": "25 tanık, en eski günümüz",
    "anahtar": [
     "lar"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-nı",
+   "alt": "\"belirtme hâli eki -(n)I\"",
+   "yol": "sozluk/kok/ek-nı.md",
+   "ozet": "23 tanık, en eski günümüz",
+   "anahtar": [
+    "dı",
+    "ni",
+    "nı",
+    "ı"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-nıñ",
+   "alt": "\"ilgi hâli eki -nIñ\"",
+   "yol": "sozluk/kok/ek-nıñ.md",
+   "ozet": "22 tanık, en eski günümüz",
+   "anahtar": [
+    "-ӑн",
+    "niñ",
+    "nı",
+    "nın",
+    "nıñ",
+    "ăn"
    ]
   },
   {
@@ -11151,6 +11323,20 @@
    "anahtar": [
     "-сем",
     "sem"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ğa",
+   "alt": "\"yönelme hâli eki -GA\"",
+   "yol": "sozluk/kok/ek-ğa.md",
+   "ozet": "24 tanık, en eski günümüz",
+   "anahtar": [
+    "-а",
+    "a",
+    "ga",
+    "ka",
+    "ğa"
    ]
   },
   {
