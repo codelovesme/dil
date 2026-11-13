@@ -1,0 +1,74 @@
+kavram: kır-
+ingilizce: break
+anlam: Kırmak.
+dogrulandi: false
+kokler:
+- kok: sındır
+  koken: türkçe
+  ana_turkce: '*sïndur-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sındır.yaml).
+  tarihi:
+    qwm: sındur
+  bicimler:
+    aze: sındır
+    bak: hındır
+    crh: sındır
+    krc: sındır
+    kdr: sındır
+    kaa: sındır
+    kaz: sındır
+    kjh: sındır
+    kir: sındır
+    kum: sındır
+    clw: sındır
+    nog: sındır
+    atv: sındır
+    slr: sundur
+    cjs: sındır
+    alt: sındır
+    tat: sındır
+    uig: sundur
+    uzb: sindir
+    sty-baraba: sındır
+- kok: sı
+  koken: türkçe
+  ana_turkce: '*sï-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sı.yaml).
+  tarihi:
+    otk: sı
+  bicimler:
+    klj:
+      bicim: sii
+      miras: true
+    ybe: sı
+    kim: sık
+    tyv: sık
+- kok: kır-fiil
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kır-fiil.yaml).
+  bicimler:
+    gag: kır
+    tur: kır
+- kok: döv
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/döv.yaml).
+  bicimler:
+    tuk: döw
+- kok: tohut
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tohut.yaml).
+  bicimler:
+    sah: tohut
+- kok: şĕmĕr
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şĕmĕr.yaml).
+  bicimler:
+    chv: şĕmĕr
+yok: []
+tarihi_yok: []

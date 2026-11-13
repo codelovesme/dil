@@ -40,7 +40,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kan | kan | kan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kaan | kaan | kaan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kaan | kaan | kaan | kaan |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kan | qan | kan |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kan | kan | kan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | kan | kan | kan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kan | kan | kan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kan | kan | kan | kan |
@@ -52,8 +52,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kan | kan | kan | kan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kan | kan | kan | kan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kan ↑ | kan ↑ | kan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kan ↑ | qan ↑ | kan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kan ↑ | qan ↑ | kan ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kan ↑ | kan ↑ | kan ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kan ↑ | kan ↑ | kan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | gaan | gaan | gaan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | gaan | gaan | gaan | gaan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gaan | gaan | gaan | gaan |
@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kan |  |
 | Sibirya kolu | Kuzey Altayca |  | kan |  |
 
-**Tarihî tanıklar:** Eski Türkçe *kan*; Kuman-Kıpçakça *kan*; Eski Anadolu Türkçesi *qan*.
+**Tarihî tanıklar:** Eski Türkçe *kan*; Kuman-Kıpçakça *kan*; Eski Anadolu Türkçesi *kan*.
 

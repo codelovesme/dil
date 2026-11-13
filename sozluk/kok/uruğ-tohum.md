@@ -33,13 +33,14 @@ Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Azerb
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **uruğ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **urlug** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **uruq** | اوروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **uruk** | اوروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazımlar uru, ourluc.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary aktarımı uruq.
 
 ## Yaşayan diller ve ağızlar
 

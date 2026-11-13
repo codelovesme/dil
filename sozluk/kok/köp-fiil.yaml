@@ -1,0 +1,51 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: köp-fiil
+anlam: '"kabarmak, şişmek"'
+koken: türkçe
+kavramlar:
+- sis
+etimoloji: köp- 'kabarmak, köpürmek' (köpük ile); Karaçay-Malkar ve Orta Çulımda, Codex Cumanicus'ta
+  'şişmek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: köp
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım kob-.
+  - {atif: 'tenisev1989, sujuncev1965', bicim: köp, dil: krc, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: kop, dil: clw, kaynak: savelyev-turkic}
+
+yok:
+  aze: yerine şiş (şiş)
+  bak: yerine şeş (şiş)
+  chv: yerine şış (şiş)
+  crh: yerine şiş (şiş)
+  gag: yerine şiş (şiş)
+  kdr: yerine sis (şiş)
+  kjh: yerine sĕs (şiş)
+  klj: yerine şış (şiş)
+  kir: yerine şiş (şiş)
+  kum: yerine şiş (şiş)
+  nog: yerine sis (şiş)
+  ybe: yerine sız (şiş)
+  cjs: yerine şiş (şiş)
+  tat: yerine şeş (şiş)
+  tur: yerine şiş (şiş)
+  tuk: yerine çiş (şiş)
+  uzb: yerine şiş (şiş)
+  kaa: yerine is (iş-şiş)
+  kaz: yerine is (iş-şiş)
+  kim: yerine ış (iş-şiş)
+  tyv: yerine ış (iş-şiş)
+  uig: yerine işşä (iş-şiş)
+  sah: yerine is (iş-şiş)
+  atv: yerine tiji (tiji)
+  alt: yerine tiji (tiji)
+tarihi_yok: {}

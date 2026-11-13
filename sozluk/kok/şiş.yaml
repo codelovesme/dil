@@ -1,0 +1,48 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: şiş
+anlam: '"şişmek"'
+koken: türkçe
+ana_turkce: '*šiš-'
+kavramlar:
+- sis
+etimoloji: şiş- 'şişmek'. Oğuz, Kıpçak-Bulgar ve Kafkas Kıpçak dillerinde (şiş-, şeş-, çiş-);
+  Eski Uygurca sış-, Hakas sĕs-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: sış
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: şiş, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: şeş, dil: bak, kaynak: savelyev-turkic, yazi: шеш-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şış, dil: chv, kaynak: savelyev-turkic, yazi: шыҫ-}
+  - {atif: useinov2007, bicim: şiş, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: şiş, dil: gag, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: sis, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: sĕs, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: şış, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: şiş, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: şiş, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: sis, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: sız, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: şiş, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: şeş, dil: tat, kaynak: savelyev-turkic, yazi: шеш-}
+  - {atif: 'baskakov1977, iz1992', bicim: şiş, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: çiş, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: şiş, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  kaa: yerine is (iş-şiş)
+  kaz: yerine is (iş-şiş)
+  kim: yerine ış (iş-şiş)
+  tyv: yerine ış (iş-şiş)
+  uig: yerine işşä (iş-şiş)
+  sah: yerine is (iş-şiş)
+  krc: yerine köp (köp-fiil)
+  clw: yerine kop (köp-fiil)
+  atv: yerine tiji (tiji)
+  alt: yerine tiji (tiji)
+tarihi_yok: {}

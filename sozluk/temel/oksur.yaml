@@ -1,0 +1,48 @@
+kavram: öksür-
+ingilizce: cough
+anlam: Öksürmek.
+dogrulandi: false
+kokler:
+- kok: yötel
+  koken: türkçe
+  ana_turkce: '*yötel'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yötel.yaml).
+  bicimler:
+    bak: yütäl
+    dlg: hötölöö
+    krc: cötgür
+    kdr: ötkür
+    kaa: jötel
+    kaz: jötel
+    kjh: çidĕl
+    kir: jötöl
+    kum: yötkür
+    nog: yötkir
+    ybe: yüter
+    cjs: çedir
+    alt: yödülde
+    tat: yötker
+    kim: çödür
+    tyv: çödür
+    uig: yötäl
+    uzb: yötal
+    sah: sötölün
+- kok: öksür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/öksür.yaml).
+  tarihi:
+    qwm: öskür
+  bicimler:
+    aze: öskür
+    chv: üzĕr
+    crh: öksür
+    gag: üüsür
+    klj:
+      bicim: iesür
+      miras: true
+    tur: öksür
+    tuk: üsgür
+yok: []
+tarihi_yok: []

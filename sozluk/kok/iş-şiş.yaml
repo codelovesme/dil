@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: iş-şiş
+anlam: '"şişmek"'
+koken: türkçe
+ana_turkce: '*iš-'
+kavramlar:
+- sis
+etimoloji: iş-/ış- 'şişmek'; Kazak, Karakalpak, Tuva, Tofa, Uygur dillerinde ve Sahada. şiş-
+  ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1958, baskakov1967', bicim: is, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: is, dil: kaz, kaynak: savelyev-turkic, yazi: iс-}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ış, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ış, dil: tyv, kaynak: savelyev-turkic, yazi: ыш-}
+  - {atif: nadzip1968, bicim: işşä, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: is, dil: sah, kaynak: savelyev-turkic, yazi: иһий-}
+
+yok:
+  aze: yerine şiş (şiş)
+  bak: yerine şeş (şiş)
+  chv: yerine şış (şiş)
+  crh: yerine şiş (şiş)
+  gag: yerine şiş (şiş)
+  kdr: yerine sis (şiş)
+  kjh: yerine sĕs (şiş)
+  klj: yerine şış (şiş)
+  kir: yerine şiş (şiş)
+  kum: yerine şiş (şiş)
+  nog: yerine sis (şiş)
+  ybe: yerine sız (şiş)
+  cjs: yerine şiş (şiş)
+  tat: yerine şeş (şiş)
+  tur: yerine şiş (şiş)
+  tuk: yerine çiş (şiş)
+  uzb: yerine şiş (şiş)
+  krc: yerine köp (köp-fiil)
+  clw: yerine kop (köp-fiil)
+  atv: yerine tiji (tiji)
+  alt: yerine tiji (tiji)
+tarihi_yok: {}

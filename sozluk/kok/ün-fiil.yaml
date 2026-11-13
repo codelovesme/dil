@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ün-fiil
+anlam: '"çıkmak, yetişmek"'
+koken: türkçe
+ana_turkce: '*ün-'
+kavramlar:
+- buyu
+etimoloji: ün- 'çıkmak, yükselmek, yetişmek'; Saha, Dolgan ve Sarı Uygur dillerinde 'büyümek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: üün, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: ün, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: üün, dil: sah, kaynak: savelyev-turkic, yazi: үүн-}
+
+yok:
+  sty-baraba: yerine ös (ös)
+  atv: yerine ös (ös)
+  alt: yerine ös (ös)
+  bak: yerine üz (ös)
+  chv: yerine üs (ös)
+  crh: yerine ös (ös)
+  kaa: yerine ös (ös)
+  krc: yerine ös (ös)
+  kdr: yerine ös (ös)
+  kaz: yerine ös (ös)
+  kjh: yerine ös (ös)
+  kir: yerine ös (ös)
+  kum: yerine ös (ös)
+  clw: yerine ös (ös)
+  nog: yerine ös (ös)
+  cjs: yerine ös (ös)
+  tat: yerine üs (ös)
+  kim: yerine ös (ös)
+  tuk: yerine ös (ös)
+  tyv: yerine ös (ös)
+  uig: yerine ös (ös)
+  uzb: yerine ös (ös)
+  aze: yerine böyü (büyü)
+  gag: yerine büü (büyü)
+  klj: yerine bidi (büyü)
+  tur: yerine büyü (büyü)
+tarihi_yok: {}

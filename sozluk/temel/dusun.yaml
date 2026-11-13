@@ -1,0 +1,76 @@
+kavram: düşün-
+ingilizce: think
+anlam: Düşünmek.
+dogrulandi: false
+kokler:
+- kok: oyla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oyla.yaml).
+  bicimler:
+    bak: uyla
+    crh: oyla
+    krc: oyla
+    kaa: oyla
+    kaz: oyla
+    kir: oyla
+    kum: oylaş
+    nog: oyla
+    tat: uyla
+    uig: oyla
+    uzb: öyla
+    sty-baraba: oyla
+- kok: sakın
+  koken: türkçe
+  ana_turkce: '*sakïn-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sakın.yaml).
+  tarihi:
+    qwm: sağın
+    otk: sakın
+  bicimler:
+    kdr: sağın
+    kjh: sağın
+    klj:
+      bicim: san
+      miras: true
+    ybe: sakın
+    kim: sağın
+- kok: düşün
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/düşün.yaml).
+  bicimler:
+    aze: düşün
+    gag: düşün
+    tur: düşün
+- kok: sana
+  koken: türkçe
+  ana_turkce: '*sana-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sana.yaml).
+  bicimler:
+    atv: sana
+    alt: sana
+    sah: sana
+- kok: pögün
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/pögün.yaml).
+  bicimler:
+    clw: pöögün
+    cjs: pögün
+- kok: boda
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/boda.yaml).
+  bicimler:
+    tyv: boda
+- kok: şuxăşla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şuxăşla.yaml).
+  bicimler:
+    chv: şuxăşla
+yok: []
+tarihi_yok: []

@@ -1,0 +1,59 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sekiz
+anlam: '"sekiz (sayı)"'
+koken: türkçe
+ana_turkce: '*säkiŕ'
+kavramlar:
+- sekiz
+etimoloji: Ana Türkçe *säkiz. Bütün kollarda (sekiz, segiz, sigez, ses; Saha ağıs); Çuvaşça
+  sakkăr.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: sekiz
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: سكز
+  - {bicim: säkkiz, dil: aze, kaynak: wiktionary-ana-turkce, yazi: səkkiz}
+  - {bicim: higez, dil: bak, kaynak: wiktionary-ana-turkce, yazi: һигеҙ}
+  - {bicim: sakkăr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: саккӑр}
+  - {bicim: sekiz, dil: crh, kaynak: wiktionary-ana-turkce, yazi: секиз}
+  - {bicim: agıs, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: агыс}
+  - {bicim: sekiz, dil: gag, kaynak: wiktionary-ana-turkce}
+  - {bicim: segiz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: сегиз}
+  - {bicim: segiz, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: сегизь}
+  - {bicim: segiz, dil: kaa, kaynak: wiktionary-ana-turkce}
+  - {bicim: segiz, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: сегіз}
+  - {bicim: sigis, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: сигіс}
+  - {bicim: säkkiz, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: segiz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: сегиз}
+  - {bicim: segiz, dil: kum, kaynak: wiktionary-ana-turkce, yazi: сегиз}
+  - {bicim: seğis, dil: clw, kaynak: wiktionary-ana-turkce, yazi: сеғис}
+  - {bicim: segiz, dil: nog, kaynak: wiktionary-ana-turkce, yazi: сегиз}
+  - {bicim: segis, dil: atv, kaynak: wiktionary-ana-turkce, yazi: сегис}
+  - {bicim: sekis, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: segis, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: сегис}
+  - {bicim: segis, dil: alt, kaynak: wiktionary-ana-turkce, yazi: сегис}
+  - {bicim: sigez, dil: tat, kaynak: wiktionary-ana-turkce, yazi: сигез}
+  - {bicim: sehes, dil: kim, kaynak: wiktionary-ana-turkce, yazi: сеъһес}
+  - {bicim: sekiz, dil: tur, kaynak: wiktionary-ana-turkce}
+  - {bicim: sekiz, dil: tuk, kaynak: wiktionary-ana-turkce}
+  - {bicim: ses, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: сес}
+  - {bicim: säkkiz, dil: uig, kaynak: bilgi, yazi: سەككىز}
+  - {bicim: säkkiz, dil: uig, kaynak: bilgi, yazi: سەككىز}
+  - {bicim: sakkiz, dil: uzb, kaynak: wiktionary-ana-turkce}
+  - {bicim: ağıs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: аҕыс}
+  - {bicim: sekkiz, dil: ili, kaynak: wiktionary-ana-turkce}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: sekiz, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, sekkiz', not: Clauson'a göre aslı sekkiz.}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sekiz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 365 (Clauson, sekkiz)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı sekkiz'in kısaltması der.}
+  - {dil: xqa, yuzyil: 13, bicim: sekiz, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 266 (Clauson, sekkiz)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: sekkiz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 8 (Clauson, sekkiz)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: sekiz, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 22, 8 (Clauson, sekkiz)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: sekiz, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 53 (Clauson, sekkiz)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: sekiz, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 60b 7 (Clauson, sekkiz)'}
+  - {dil: chg, yuzyil: 16-18, bicim: sekiz, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 288, Senglâh 255r (Clauson, sekkiz)'}
+
+yok: {}
+tarihi_yok: {}

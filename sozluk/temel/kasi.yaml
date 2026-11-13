@@ -1,0 +1,45 @@
+kavram: kaşı-
+ingilizce: scratch
+anlam: Kaşımak.
+dogrulandi: false
+kokler:
+- kok: kaşı
+  koken: türkçe
+  ana_turkce: '*kašï-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kaşı.yaml).
+  bicimler:
+    aze: gaşı
+    chv: xıś
+    crh: kaşı
+    gag: kaşı
+    krc: kaşı
+    kdr: kaşı
+    kaa: kası
+    kaz: kasu
+    klj:
+      bicim: kaşu
+      miras: true
+    kir: kaşı
+    kum: xaşı
+    nog: kası
+    tat: kaşu
+    tur: kaşı
+    tuk: gaşa
+    uig: kaşla
+    uzb: kaşı
+- kok: tırma
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tırma.yaml).
+  bicimler:
+    bak: tırna
+    kjh: tırba
+    clw: tırvakta
+    atv: tırba
+    ybe: tırna
+    cjs: tırbakta
+    alt: tırma
+    sah: tarbaa
+yok: []
+tarihi_yok: []

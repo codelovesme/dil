@@ -2,8 +2,7 @@
 kok: kap
 anlam: '"kapmak, ısırmak"'
 koken: türkçe
-kavramlar:
-- isir
+kavramlar: [isir, ort]
 etimoloji: kap- 'kapmak'; Karaçay-Malkar, Kumuk ve Orta Çulımda 'ısırmak'.
 kaynak: savelyev-turkic
 
@@ -11,6 +10,9 @@ taniklar:
   - {atif: 'tenisev1989, sujuncev1965', bicim: kap, dil: krc, kaynak: savelyev-turkic}
   - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: xap, dil: kum, kaynak: savelyev-turkic}
   - {atif: savelyev2015, bicim: kap, dil: clw, kaynak: savelyev-turkic}
+  - {anlam: 'örtmek (kapla-, kapat-)', atif: useinov2007, bicim: kapat, dil: crh, kaynak: savelyev-turkic}
+  - {anlam: 'örtmek (kapla-, kapat-)', atif: 'baskakov1977, iz1992', bicim: kapla, dil: tur, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle; günlük dilde ört- de.}
+  - {anlam: 'örtmek (kapla-, kapat-)', atif: nadzip1968, bicim: kapla, dil: uig, kaynak: savelyev-turkic}
 
 yok:
   dlg: yerine ıtır (ısır)

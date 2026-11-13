@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yegirmi
+anlam: '"yirmi (sayı)"'
+koken: türkçe
+ana_turkce: '*yegirmi'
+kavramlar:
+- yirmi
+etimoloji: Ana Türkçe *yegirmi. Bütün kollarda (yigirmi, yirmi, jıyırma, yegerme, çeerbi;
+  Saha süürbe); Çuvaşça şirĕm.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: yigirmi
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: یگرمی
+  - {bicim: iyirmi, dil: aze, kaynak: wiktionary-ana-turkce}
+  - {bicim: yegerme, dil: bak, kaynak: wiktionary-ana-turkce, yazi: егерме}
+  - {bicim: şirĕm, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫирӗм}
+  - {bicim: yigirmi, dil: crh, kaynak: wiktionary-ana-turkce}
+  - {bicim: hüürbe, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һүүрбэ}
+  - {bicim: yirmi, dil: gag, kaynak: wiktionary-ana-turkce}
+  - {bicim: cıyırma, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джыйырма}
+  - {bicim: yigirmi, dil: kdr, kaynak: wiktionary-ana-turkce}
+  - {bicim: jigirma, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: жигирма}
+  - {bicim: jiırma, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жиырма}
+  - {bicim: çibirge, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чибірге}
+  - {bicim: yigirmi, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: jıyırma, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жыйырма}
+  - {bicim: yigirma, dil: kum, kaynak: wiktionary-ana-turkce, yazi: йигирма}
+  - {bicim: yırma, dil: nog, kaynak: wiktionary-ana-turkce, yazi: йырма}
+  - {bicim: çigirbe, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чигирбе}
+  - {bicim: yiğirme, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: çegirbe, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чегирбе}
+  - {bicim: yegerme, dil: tat, kaynak: wiktionary-ana-turkce, yazi: егерме}
+  - {bicim: yirmi, dil: tur, kaynak: wiktionary-ana-turkce}
+  - {bicim: yigrimi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýigrimi}
+  - {bicim: çeerbi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чээрби}
+  - {bicim: yigirmä, dil: uig, kaynak: bilgi, yazi: يىگىرمە}
+  - {bicim: yigirmä, dil: uig, kaynak: bilgi, yazi: يىگىرمە}
+  - {bicim: yigirma, dil: uzb, kaynak: wiktionary-ana-turkce}
+  - {bicim: süürbe, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүрбэ}
+  - {bicim: yirmi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йирми}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yegirmi, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, yegirmi (Yenisey yazıtları: yeti yegirmi ''on yedi'')', not: 'Eski sayma: yeti yegirmi = ''yirminin yedisi'' = 17.'}
+
+yok: {}
+tarihi_yok: {}

@@ -1,0 +1,45 @@
+kavram: kırk
+ingilizce: forty
+anlam: Kırk (sayı).
+dogrulandi: false
+kokler:
+- kok: kırk
+  koken: türkçe
+  ana_turkce: '*kïrk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kırk.yaml).
+  tarihi:
+    eski-anadolu: kırk
+    otk: kırk
+    xqa: kırk
+    qwm: kırk
+    chg: kırk
+  bicimler:
+    aze: gırx
+    bak: kırk
+    chv:
+      bicim: xĕrĕx
+      miras: true
+    crh: kırk
+    gag: kırk
+    krc: kırk
+    kaa: kırık
+    kaz: kırık
+    kjh: xırıx
+    klj:
+      bicim: kırk
+      miras: true
+    kir: kırk
+    kum: kırk
+    clw: kırık
+    nog: kırk
+    atv: kırık
+    cjs: kırık
+    alt: kırık
+    tat: kırık
+    tur: kırk
+    tuk: kırk
+    uig: kırık
+    uzb: kirk
+yok: []
+tarihi_yok: []

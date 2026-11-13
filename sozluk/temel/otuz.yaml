@@ -1,0 +1,51 @@
+kavram: otuz
+ingilizce: thirty
+anlam: Otuz (sayı).
+dogrulandi: false
+kokler:
+- kok: otuz
+  koken: türkçe
+  ana_turkce: '*otuŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/otuz.yaml).
+  bicimler:
+    aze: otuz
+    bak: utız
+    chv:
+      bicim: vătăr
+      miras: true
+    crh: otuz
+    dlg: otut
+    gag: otuz
+    krc: otuz
+    kdr: otuz
+    kaa: otız
+    kaz: otız
+    kjh: otıs
+    klj:
+      bicim: hottuz
+      miras: true
+    kir: otuz
+    kum: otuz
+    nog: otız
+    atv: otıs
+    slr: ottuz
+    ybe: otus
+    cjs: odus
+    alt: odus
+    tat: utız
+    kim: otıs
+    tur: otuz
+    tuk: otuz
+    tyv: odus
+    uig: ottuz
+    uzb: öttiz
+    sah: otut
+    ili: ottuz
+  tarihi:
+    otk: otuz
+    xqa: ottuz
+    qwm: otuz
+    chg: otuz
+yok: []
+tarihi_yok: []

@@ -1,0 +1,47 @@
+kavram: dokuz
+ingilizce: nine
+anlam: Dokuz (sayı).
+dogrulandi: false
+kokler:
+- kok: tokuz
+  koken: türkçe
+  ana_turkce: '*tokuŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tokuz.yaml).
+  bicimler:
+    aze: dokkuz
+    bak: tuğız
+    chv:
+      bicim: tăxxăr
+      miras: true
+    crh: dokuz
+    dlg: togus
+    gag: dokuz
+    krc: toğuz
+    kdr: toyuz
+    kaa: toğiz
+    kaz: toğız
+    kjh: toğıs
+    klj:
+      bicim: tokkuz
+      miras: true
+    kir: toguz
+    nog: togız
+    atv: togıs
+    slr: dokos
+    cjs: toğus
+    alt: togus
+    tat: tugız
+    kim: toh'os
+    tur: dokuz
+    tuk: dokuz
+    tyv: tos
+    uig: tokkuz
+    uzb: tökkiz
+    sah: toğus
+  tarihi:
+    otk: tokuz
+    xqa: tokuz
+    chg: tokuz
+yok: []
+tarihi_yok: []

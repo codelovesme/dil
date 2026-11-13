@@ -33,13 +33,14 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **kudruk** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kuyruk** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **quyruq** | قویروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **kuyruk** | قویروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım cuyrug.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary aktarımı quyruq.
 
 ## Yaşayan diller ve ağızlar
 

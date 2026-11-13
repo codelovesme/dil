@@ -1,0 +1,62 @@
+kavram: dik- (dikiş)
+ingilizce: sew
+anlam: Dikmek (dikiş).
+dogrulandi: false
+kokler:
+- kok: tik
+  koken: türkçe
+  ana_turkce: '*tik-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tik.yaml).
+  tarihi:
+    qwm: tik
+  bicimler:
+    aze: tik
+    bak: tek
+    crh: tik
+    dlg: tik
+    gag: dik
+    krc: tik
+    kdr: tik
+    kaa: tik
+    kaz: tĭk
+    kjh: tĕk
+    klj:
+      bicim: tik
+      miras: true
+    kir: tik
+    kum: tik
+    clw: tĕk
+    nog: tik
+    atv: tik
+    slr: tix
+    ybe: tek
+    cjs: tik
+    tat: tek
+    tur: dik
+    tuk: tik
+    uig: tik
+    uzb: tik
+    sah: tik
+    sty-baraba: tik
+- kok: köktö
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köktö.yaml).
+  bicimler:
+    alt: köktö
+- kok: daara
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/daara.yaml).
+  bicimler:
+    kim: daara
+    tyv: daara
+- kok: şĕle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şĕle.yaml).
+  bicimler:
+    chv: şĕle
+yok: []
+tarihi_yok: []

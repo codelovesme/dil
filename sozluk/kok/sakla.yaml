@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sakla
+anlam: '"saklamak, korumak"'
+koken: türkçe
+kavramlar:
+- sakla
+etimoloji: sak 'uyanık, dikkatli' + -la-; Türkiye, Gagauz ve Kırım Tatar dillerinde 'gizlemek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: sakla, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sakla, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: sakla, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine yäşär (yaşır)
+  alt: yerine dajır (yaşır)
+  bak: yerine yäşer (yaşır)
+  kaa: yerine jasır (yaşır)
+  krc: yerine caşır (yaşır)
+  kdr: yerine yaşır (yaşır)
+  kjh: yerine çazır (yaşır)
+  kir: yerine jaşır (yaşır)
+  kum: yerine yaşır (yaşır)
+  clw: yerine çaazır (yaşır)
+  nog: yerine yasır (yaşır)
+  slr: yerine yaşir (yaşır)
+  ybe: yerine yaşır (yaşır)
+  cjs: yerine çajır (yaşır)
+  tat: yerine yäşer (yaşır)
+  kim: yerine çaahır (yaşır)
+  tuk: yerine yığşır (yaşır)
+  tyv: yerine çajır (yaşır)
+  uig: yerine yoşur (yaşır)
+  uzb: yerine yaşir (yaşır)
+  aze: yerine gizlän (gizle)
+  kaz: yerine tık (tık)
+  atv: yerine suk (sok)
+  sah: yerine kistee (kistee)
+  dlg: yerine kistee (kistee)
+  klj: yerine küöşü (küöşü)
+  chv: yerine pıtar (pıtar)
+tarihi_yok: {}

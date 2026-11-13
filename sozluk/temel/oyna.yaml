@@ -1,0 +1,52 @@
+kavram: oyna-
+ingilizce: play
+anlam: Oynamak.
+dogrulandi: false
+kokler:
+- kok: oyna
+  koken: türkçe
+  ana_turkce: '*oyna-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oyna.yaml).
+  tarihi:
+    qwm: oyna
+    otk: oyna
+    xqa: oyna
+    chg: oyna
+  bicimler:
+    aze: oyna
+    bak: uyna
+    chv:
+      bicim: vıla
+      miras: true
+    crh: oyna
+    dlg: oonnyoo
+    gag: oyna
+    krc: oyna
+    kdr: oyna
+    kaa: oyna
+    kaz: oyna
+    kjh: oyna
+    klj:
+      bicim: oona
+      miras: true
+    kir: oyna
+    kum: oyna
+    clw: oyna
+    nog: oyna
+    atv: oyna
+    slr: oyna
+    ybe: oyna
+    cjs: oyna
+    alt: oyno
+    tat: uyna
+    kim: oyna
+    tur: oyna
+    tuk: oyna
+    tyv: oyna
+    uig: oyna
+    uzb: oyna
+    sah: oonnyoo
+    sty-baraba: oyna
+yok: []
+tarihi_yok: []

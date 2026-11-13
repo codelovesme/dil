@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kara | kara | kara |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kara | kara | kara |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kara | kara | kara | kara |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kara | qara | kara |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kara | kara | kara |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | kara | kara | kara |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kara | kara | kara |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kara | kara | kara | kara |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kara | kara | kara | kara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kara | kara | kara | kara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kara ↑ | kara ↑ | kara ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kara ↑ | qara ↑ | kara ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kara ↑ | qara ↑ | kara ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kara ↑ | kara ↑ | kara ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kara ↑ | kara ↑ | kara ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | gara | gara | gara |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | gara | gara | gara | gara |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gara | gara | gara | gara |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kara |
 | Sibirya kolu | Kuzey Altayca |  | kara |
 
-**Tarihî tanıklar:** Eski Türkçe *kara*; Kuman-Kıpçakça *kara*; Eski Anadolu Türkçesi *qara*.
+**Tarihî tanıklar:** Eski Türkçe *kara*; Kuman-Kıpçakça *kara*; Eski Anadolu Türkçesi *kara*.
 

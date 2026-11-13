@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: öksür
+anlam: '"öksürmek"'
+koken: türkçe
+kavramlar:
+- oksur
+etimoloji: öksür-/öskür- 'öksürmek'; Oğuz dillerinde, Kuman ve Halaççada; Çuvaşça üzĕr-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: öskür
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım oscur.
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: öskür, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: üzĕr, dil: chv, kaynak: savelyev-turkic, yazi: ӳсӗр-}
+  - {atif: useinov2007, bicim: öksür, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: üüsür, dil: gag, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: iesür, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: öksür, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: üsgür, dil: tuk, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine yödülde (yötel)
+  bak: yerine yütäl (yötel)
+  dlg: yerine hötölöö (yötel)
+  kaa: yerine jötel (yötel)
+  krc: yerine cötgür (yötel)
+  kdr: yerine ötkür (yötel)
+  kaz: yerine jötel (yötel)
+  kjh: yerine çidĕl (yötel)
+  kir: yerine jötöl (yötel)
+  kum: yerine yötkür (yötel)
+  nog: yerine yötkir (yötel)
+  ybe: yerine yüter (yötel)
+  cjs: yerine çedir (yötel)
+  tat: yerine yötker (yötel)
+  kim: yerine çödür (yötel)
+  tyv: yerine çödür (yötel)
+  uig: yerine yötäl (yötel)
+  uzb: yerine yötal (yötel)
+  sah: yerine sötölün (yötel)
+tarihi_yok: {}

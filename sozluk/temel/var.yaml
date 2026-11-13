@@ -1,0 +1,49 @@
+kavram: var
+ingilizce: existent, there is
+anlam: Var (bulunan).
+dogrulandi: false
+kokler:
+- kok: bar-var
+  koken: türkçe
+  ana_turkce: '*bār'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bar-var.yaml).
+  tarihi:
+    eski-anadolu: var, vār
+    otk: bar
+    xqa: baar
+    chg: bar
+  bicimler:
+    aze: var
+    bak: bar
+    chv:
+      bicim: pur
+      miras: true
+    crh: bar
+    dlg: baar
+    gag: var
+    krc: bar
+    kdr: bar
+    kaa: bar
+    kaz: bar
+    kjh: par
+    klj:
+      bicim: vaar
+      miras: true
+    kir: bar
+    kum: bar
+    nog: bar
+    atv: par
+    slr: var
+    ybe: bar
+    alt: bar
+    tat: bar
+    kim: bar
+    tur: var
+    tuk: baar
+    tyv: bar
+    uig: bar
+    uzb: bor
+    sah: baar
+yok: []
+tarihi_yok: []

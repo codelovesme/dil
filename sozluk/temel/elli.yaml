@@ -1,0 +1,46 @@
+kavram: elli
+ingilizce: fifty
+anlam: Elli (sayı).
+dogrulandi: false
+kokler:
+- kok: ellig
+  koken: türkçe
+  ana_turkce: '*ällig'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ellig.yaml).
+  bicimler:
+    aze: älli
+    bak: ille
+    chv:
+      bicim: allă
+      miras: true
+    crh: elli
+    gag: elli
+    krc: elli
+    kaa: eliw
+    kaz: elu
+    kjh: ilig
+    klj:
+      bicim: ällig
+      miras: true
+    kir: elüü
+    kum: elli
+    nog: elli
+    atv: elig
+    slr: elli
+    cjs: elig
+    alt: ölü
+    tat: ille
+    tur: elli
+    tuk: elli
+    uig: ellik
+    uzb: ellik
+    ili: ellik
+    sty: ille
+  tarihi:
+    otk: ellig
+    xqa: ellig
+    chg: ellig
+    qwm: elli
+yok: []
+tarihi_yok: []

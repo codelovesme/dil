@@ -1,0 +1,54 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tokuz
+anlam: '"dokuz (sayı)"'
+koken: türkçe
+ana_turkce: '*tokuŕ'
+kavramlar:
+- dokuz
+etimoloji: Ana Türkçe *tokuz. Bütün kollarda (dokuz, toğız, tuğız, tos; Saha toğus); Çuvaşça
+  tăxxăr.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: dokuz
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: طقوز
+  - {bicim: dokkuz, dil: aze, kaynak: wiktionary-ana-turkce, yazi: doqquz}
+  - {bicim: tuğız, dil: bak, kaynak: wiktionary-ana-turkce, yazi: туғыҙ}
+  - {bicim: tăxxăr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: тӑххӑр}
+  - {bicim: dokuz, dil: crh, kaynak: wiktionary-ana-turkce, yazi: докъуз}
+  - {bicim: togus, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: тогус}
+  - {bicim: dokuz, dil: gag, kaynak: wiktionary-ana-turkce}
+  - {bicim: toğuz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: тогъуз}
+  - {bicim: toyuz, dil: kdr, kaynak: wiktionary-ana-turkce}
+  - {bicim: toğiz, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: тоғиз}
+  - {bicim: toğız, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: тоғыз}
+  - {bicim: toğıs, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: тоғыс}
+  - {bicim: tokkuz, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: toguz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: тогуз}
+  - {bicim: togız, dil: nog, kaynak: wiktionary-ana-turkce, yazi: тогыз}
+  - {bicim: togıs, dil: atv, kaynak: wiktionary-ana-turkce, yazi: тогыс}
+  - {bicim: dokos, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: toğus, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: тоғус}
+  - {bicim: togus, dil: alt, kaynak: wiktionary-ana-turkce, yazi: тогус}
+  - {bicim: tugız, dil: tat, kaynak: wiktionary-ana-turkce, yazi: тугыз}
+  - {bicim: toh'os, dil: kim, kaynak: wiktionary-ana-turkce, yazi: тоъһос}
+  - {bicim: dokuz, dil: tur, kaynak: wiktionary-ana-turkce}
+  - {bicim: dokuz, dil: tuk, kaynak: wiktionary-ana-turkce}
+  - {bicim: tos, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: тос}
+  - {bicim: tokkuz, dil: uig, kaynak: bilgi, yazi: توققۇز}
+  - {bicim: tokkuz, dil: uig, kaynak: bilgi, yazi: توققۇز}
+  - {bicim: tökkiz, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: toʻqqiz}
+  - {bicim: toğus, dil: sah, kaynak: wiktionary-ana-turkce, yazi: тоҕус}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: tokuz, metin: Orhon yazıtları, kaynak: clauson, atif: 'I N 6, 9 (Clauson, tokku:z)'}
+  - {dil: otk, yuzyil: 8-14, bicim: tokuz, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Irk Bitig 55; Şine Usu E 3 (Clauson, tokku:z)'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tokuz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 437; III 127 (Clauson, tokku:z)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yuzyil: 13, bicim: tokuz, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 309 (Clauson, tokku:z)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: dokuz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 8 (Clauson, tokku:z)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yuzyil: 16-18, bicim: tokuz, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 181r (Clauson, tokku:z)'}
+
+yok: {}
+tarihi_yok: {}

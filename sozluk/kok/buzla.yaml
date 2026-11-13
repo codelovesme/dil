@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: buzla
+anlam: '"buzlanmak, donmak"'
+koken: türkçe
+kavramlar:
+- don
+etimoloji: buz + -la-. Kafkas ve Karadeniz Kıpçak dillerinde, Karakalpak ve Özbekçede (buzla-,
+  muzla-); Kazakça muz kat-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: buzla, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: buzla, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: buzla, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: muzla, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: muz kat, dil: kaz, kaynak: savelyev-turkic, not: kat- 'katılaşmak'.}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: buzla, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: buzla, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: muzla, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: pustan, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine toñ (toñ)
+  alt: yerine toñ (toñ)
+  aze: yerine don (toñ)
+  bak: yerine tuñ (toñ)
+  gag: yerine don (toñ)
+  kjh: yerine toñ (toñ)
+  kir: yerine toñ (toñ)
+  clw: yerine toñ (toñ)
+  slr: yerine toñ (toñ)
+  ybe: yerine toñ (toñ)
+  cjs: yerine toñ (toñ)
+  tat: yerine tuñ (toñ)
+  kim: yerine doñ (toñ)
+  tur: yerine don (toñ)
+  tuk: yerine doñ (toñ)
+  tyv: yerine doñ (toñ)
+  uig: yerine toñ (toñ)
+  sah: yerine toñ (toñ)
+  chv: yerine şăn (şăn)
+tarihi_yok: {}

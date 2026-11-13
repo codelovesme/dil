@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: atla
+anlam: '"atlamak"'
+koken: türkçe
+kavramlar:
+- sicra
+etimoloji: at- 'atmak' + -la-/-ıl-; Oğuz dillerinde ve Kumukçada 'atlamak' (atla-, atıl-).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: atıl, dil: aze, kaynak: savelyev-turkic, not: atlan- de.}
+  - {atif: useinov2007, bicim: atla, dil: crh, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: atla, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: atıl, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: atla, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine säkir (sekir)
+  atv: yerine sekir (sekir)
+  alt: yerine sekir (sekir)
+  bak: yerine hiker (sekir)
+  chv: yerine sik (sekir)
+  kaa: yerine sekir (sekir)
+  krc: yerine sekir (sekir)
+  kdr: yerine sekir (sekir)
+  kaz: yerine sekĭr (sekir)
+  kjh: yerine segĕr (sekir)
+  kir: yerine sekir (sekir)
+  slr: yerine seker (sekir)
+  tat: yerine siker (sekir)
+  uig: yerine säkrä (sekir)
+  uzb: yerine sakra (sekir)
+  tuk: yerine bök (bök)
+  nog: yerine karğı (karğı)
+  tyv: yerine xalı (xalı)
+  kim: yerine şura (şura)
+  dlg: yerine oy (oy-sıçra)
+  sah: yerine oy (oy-sıçra)
+tarihi_yok: {}

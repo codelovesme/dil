@@ -16,12 +16,12 @@ aşamasında ele alınacak.
 
 ## 2. Sayılar
 
-- [x] [bir](temel/bir.yaml) · [x] [iki](temel/iki.yaml) · [x] [üç](temel/uc.yaml) · [x] [dört](temel/dort.yaml) · [x] [beş](temel/bes.yaml) · [ ] altı · [ ] yedi · [ ] sekiz · [ ] dokuz · [ ] on
-- [ ] yirmi · [ ] otuz · [ ] kırk · [ ] elli · [ ] yüz · [ ] bin
+- [x] [bir](temel/bir.yaml) · [x] [iki](temel/iki.yaml) · [x] [üç](temel/uc.yaml) · [x] [dört](temel/dort.yaml) · [x] [beş](temel/bes.yaml) · [x] [altı](temel/alti.yaml) · [x] [yedi](temel/yedi.yaml) · [x] [sekiz](temel/sekiz.yaml) · [x] [dokuz](temel/dokuz.yaml) · [x] [on](temel/on.yaml)
+- [x] [yirmi](temel/yirmi.yaml) · [x] [otuz](temel/otuz.yaml) · [x] [kırk](temel/kirk.yaml) · [x] [elli](temel/elli.yaml) · [x] [yüz](temel/yuz-sayi.yaml) · [x] [bin](temel/bin.yaml)
 
 ## 3. Varlık, olumsuzluk, bağlaçlar
 
-- [ ] var · [ ] yok · [ ] değil · [ ] evet · [ ] hayır
+- [x] [var](temel/var.yaml) · [x] [yok](temel/yok.yaml) · [ ] değil · [ ] evet · [ ] hayır
 - [x] [ile](temel/ile.yaml) · [ ] için · [ ] gibi · [ ] kadar · [ ] sonra · [ ] önce · [ ] da/de (dahi)
 
 ## 4. Temel fiiller
@@ -76,6 +76,9 @@ aşamasında ele alınacak.
 - [x] [göğüs](temel/gogus.yaml) · [x] [sırt](temel/sirt.yaml) · [x] [tırnak](temel/tirnak.yaml) · [x] [kabuk](temel/kabuk.yaml) · [x] [dal](temel/dal.yaml) · [x] [yanak](temel/yanak.yaml)
 - [x] [çene](temel/cene.yaml) · [x] [ciğer](temel/ciger.yaml) · [x] [göbek](temel/gobek.yaml) · [x] [omuz](temel/omuz.yaml) · [x] [boğaz](temel/bogaz.yaml)
 - [x] [çek-](temel/cek.yaml) · [x] [it-](temel/it-fiil.yaml) · [x] [çiğne-](temel/cigne.yaml) · [x] [em-](temel/em.yaml) · [x] [yut-](temel/yut.yaml) · [x] [yala-](temel/yala.yaml)
+- [x] [dik-](temel/dik.yaml) · [x] [doku-](temel/doku.yaml) · [x] [oyna-](temel/oyna.yaml) · [x] [sakla-](temel/sakla.yaml) · [x] [kaşı-](temel/kasi.yaml) · [x] [şiş-](temel/sis.yaml)
+- [x] [düşün-](temel/dusun.yaml) · [x] [bul-](temel/bul.yaml) · [x] [ak- (sıvı)](temel/ak-fiil.yaml) · [x] [don-](temel/don.yaml) · [x] [büyü-](temel/buyu.yaml)
+- [x] [kır-](temel/kir-fiil.yaml) · [x] [ört-](temel/ort.yaml) · [x] [öksür-](temel/oksur.yaml) · [x] [çürü-](temel/curu.yaml) · [x] [sıçra-](temel/sicra.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

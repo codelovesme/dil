@@ -3,19 +3,13 @@ kok: sana
 anlam: '"saymak"'
 koken: türkçe
 ana_turkce: '*sana-'
-kavramlar:
-- say
+kavramlar: [say, dusun]
 etimoloji: sana- 'saymak' (*sā- 'saymak' tabanından). Kıpçak, Karluk, Kırgız, Sibirya dillerinde;
   Eski Türkçe sana-; Başkurtça hana-.
 kaynak: savelyev-turkic
 
 taniklar:
-  - dil: otk
-    yuzyil: 8-14
-    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
-    bicim: sana
-    kaynak: savelyev-turkic
-    atif: clauson1972
+  - {atif: clauson1972, bicim: sana, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
   - {atif: 'uraksin1996, uraksin2005', bicim: hana, dil: bak, kaynak: savelyev-turkic, yazi: һана-}
   - {atif: 'tenisev1989, sujuncev1965', bicim: sana, dil: krc, kaynak: savelyev-turkic}
   - {atif: 'baskakov1958, baskakov1967', bicim: sana, dil: kaa, kaynak: savelyev-turkic}
@@ -35,13 +29,16 @@ taniklar:
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: sana, dil: tyv, kaynak: savelyev-turkic}
   - {atif: nadzip1968, bicim: sana, dil: uig, kaynak: savelyev-turkic, not: ağızlarda say-.}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: sana, dil: uzb, kaynak: savelyev-turkic}
-  - {dil: otk, yuzyil: 8-14, bicim: sana, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'USp. 16, 51, 56; TT VII 12 (Clauson, sa:na:-)', not: Alım-satım belgelerinde 'sayıp aldım' kalıbı.}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sana, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 274 (Clauson, sa:na:-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yuzyil: 13, bicim: sana, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 60 (Clauson, sa:na:-)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: sana, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 29, 1 (Clauson, sa:na:-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: sana, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 22, 2; 42, 5 (Clauson, sa:na:-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: sana, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 60 (Clauson, sa:na:-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: chg, yuzyil: 16-18, bicim: sana, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 279-80, Senglâh 234v (Clauson, sa:na:-)'}
+  - {atif: 'USp. 16, 51, 56; TT VII 12 (Clauson, sa:na:-)', bicim: sana, dil: otk, kaynak: clauson, metin: Eski Uygurca metinler, not: Alım-satım belgelerinde 'sayıp aldım' kalıbı., yuzyil: 8-14}
+  - {atif: 'DLT III 274 (Clauson, sa:na:-)', bicim: sana, dil: xqa, kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), kaynak: dlt; clauson, metin: Dîvânu Lugâti't-Türk, yer: Kâşgar, yuzyil: 11}
+  - {atif: 'At. 60 (Clauson, sa:na:-)', bicim: sana, dil: xqa, kaynak: clauson, metin: Atebetü'l-Hakayık, yuzyil: 13}
+  - {atif: 'Melioranskiy 29, 1 (Clauson, sa:na:-)', bicim: sana, dil: aze, kaydeden: İbn Mühennâ (Arapça sözlük), kaynak: ibn-muhenna; clauson, metin: İbn Mühennâ Lügati, yabanci: true, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14}
+  - {atif: 'Houtsma 22, 2; 42, 5 (Clauson, sa:na:-)', bicim: sana, dil: qwm, kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, kaynak: houtsma-leiden; clauson, metin: Leiden yazması Arapça-Türkçe sözlük (1245), yabanci: true, yer: Memlük Mısır'ı, yuzyil: 13}
+  - {atif: 'İdrâk 60 (Clauson, sa:na:-)', bicim: sana, dil: qwm, kaydeden: Ebû Hayyân (Arapça), kaynak: kitab-idrak; clauson, metin: Kitâbü'l-İdrâk, yabanci: true, yer: Kahire, yuzyil: 14}
+  - {atif: 'Abuşka 279-80, Senglâh 234v (Clauson, sa:na:-)', bicim: sana, dil: chg, kaynak: clauson, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', yuzyil: 16-18}
+  - {anlam: düşünmek, atif: baskakov1985, bicim: sana, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: düşünmek, atif: baskakov1947, bicim: sana, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: düşünmek, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sana, dil: sah, kaynak: savelyev-turkic, yazi: санаа-}
 
 yok:
   aze: yerine say (say)

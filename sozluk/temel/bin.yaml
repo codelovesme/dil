@@ -1,0 +1,44 @@
+kavram: bin
+ingilizce: thousand
+anlam: Bin (sayı).
+dogrulandi: false
+kokler:
+- kok: miñ
+  koken: türkçe
+  ana_turkce: '*bïŋ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/miñ.yaml).
+  bicimler:
+    aze: min
+    bak: meñ
+    chv:
+      bicim: pin
+      miras: true
+    crh: miñ
+    gag: bin
+    krc: miñ
+    kdr: min
+    kaz: mıñ
+    kjh: muñ
+    klj:
+      bicim: miñ
+      miras: true
+    kir: miñ
+    kum: miñ
+    nog: mıñ
+    atv: mun
+    slr: miñ
+    cjs: muñ
+    alt: muñ
+    tat: meñ
+    tur: bin
+    tuk: müñ
+    tyv: muñ
+    uig: miñ
+    sah: mıñ
+  tarihi:
+    otk: biñ
+    xqa: miñ
+    chg: miñ
+yok: []
+tarihi_yok: []

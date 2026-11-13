@@ -1,0 +1,48 @@
+kavram: 'on'
+ingilizce: ten
+anlam: On (sayı).
+dogrulandi: false
+kokler:
+- kok: 'on'
+  koken: türkçe
+  ana_turkce: '*ōn'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/on.yaml).
+  bicimler:
+    aze: 'on'
+    bak: un
+    chv:
+      bicim: vunnă
+      miras: true
+    crh: 'on'
+    dlg: uon
+    gag: 'on'
+    krc: 'on'
+    kdr: 'on'
+    kaa: 'on'
+    kaz: 'on'
+    kjh: 'on'
+    klj:
+      bicim: oon
+      miras: true
+    kir: 'on'
+    kum: 'on'
+    nog: 'on'
+    atv: 'on'
+    slr: 'on'
+    ybe: 'on'
+    cjs: 'on'
+    alt: 'on'
+    tat: un
+    kim: 'on'
+    tur: 'on'
+    tuk: 'on'
+    tyv: 'on'
+    uig: 'on'
+    uzb: ön
+    sah: uon
+  tarihi:
+    otk: 'on'
+    xqa: oon
+yok: []
+tarihi_yok: []

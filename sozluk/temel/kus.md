@@ -42,7 +42,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kuş | kuş | kuş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kuş ↑ | kuş ↑ | kuş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kuş ↑ | kuş ↑ | kuş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kuş | quş | kuş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | kuş | kuş | kuş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | kuş | kuş | kuş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kuş | kuş | kuş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kuş | kuş | kuş | kuş |
@@ -54,8 +54,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kuş | kuş | kuş | kuş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kuş | kuş | kuş | kuş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kuş ↑ | kuş ↑ | kuş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kuş ↑ | quş ↑ | kuş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kuş ↑ | quş ↑ | kuş ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | kuş ↑ | kuş ↑ | kuş ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | kuş ↑ | kuş ↑ | kuş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | guş | guş | guş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | guş | guş | guş | guş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | guş | guş | guş | guş |
@@ -162,5 +162,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kus |  |  |  |
 | Sibirya kolu | Kuzey Altayca |  | kuş |  |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *kuş*; Kuman-Kıpçakça *kuş*; Eski Anadolu Türkçesi *quş*.
+**Tarihî tanıklar:** Eski Türkçe *kuş*; Kuman-Kıpçakça *kuş*; Eski Anadolu Türkçesi *kuş*.
 

@@ -29,10 +29,11 @@ taniklar:
     atif: clauson1972
   - dil: tur
     yuzyil: 16-19
-    bicim: uruq
+    bicim: uruk
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: اوروق
+    not: Wiktionary aktarımı uruq.
   - {atif: 'uraksin1996, uraksin2005', bicim: orlok, dil: bak, kaynak: savelyev-turkic, yazi: орлоҡ}
   - {atif: 'asmarin1928, savelyev2011', bicim: văra, dil: chv, kaynak: savelyev-turkic, yazi: вӑрӑ}
   - {atif: useinov2007, bicim: urluk, dil: crh, kaynak: savelyev-turkic}
