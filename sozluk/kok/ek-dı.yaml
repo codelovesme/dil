@@ -1,0 +1,38 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-dı
+anlam: '"görülen geçmiş zaman eki -DI"'
+koken: türkçe
+ana_turkce: '*-DI'
+kavramlar:
+- gecmis
+etimoloji: Ana Türkçe *-DI. Göktürkçeden beri; bütün kollarda (dı, tı, lı, zı; Uygur ve Özbek
+  di); Sahaca -TA (yakın geçmiş), Çuvaşça -rĕ/-tĕ (d > r).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: dı, dil: aze, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü'}
+  - {bicim: dı, dil: bak, kaynak: bilgi, not: 'Biçimler: dı, de; tı, te; lı, le; zı, ze'}
+  - {bicim: rĕ, dil: chv, kaynak: bilgi, not: 'Biçimler: ră, rĕ; tă, tĕ; çĕ (d > r)', yazi: -рӗ}
+  - {bicim: dı, dil: crh, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: dı, dil: gag, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…'}
+  - {bicim: dı, dil: krc, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü'}
+  - {bicim: dı, dil: kdr, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: dı, dil: kaa, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: dı, dil: kaz, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: dı, dil: kjh, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: dı, dil: kir, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…'}
+  - {bicim: dı, dil: kum, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü'}
+  - {bicim: dı, dil: nog, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: tı, dil: cjs, kaynak: bilgi, not: 'Biçimler: tı, ti, dı, di'}
+  - {bicim: dı, dil: alt, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…'}
+  - {bicim: dı, dil: tat, kaynak: bilgi, not: 'Biçimler: dı, de, tı, te'}
+  - {bicim: dı, dil: tur, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…'}
+  - {bicim: dı, dil: tuk, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü'}
+  - {bicim: dı, dil: tyv, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…'}
+  - {bicim: dı, dil: uig, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti'}
+  - {bicim: di, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız di'}
+  - {bicim: da, dil: sah, kaynak: bilgi, not: 'Biçimler: ta, te, to, tö; da…, la…, na… (yakın geçmiş)'}
+  - {bicim: tı, dil: sty, kaynak: bilgi, not: 'Biçimler: tı, dı'}
+
+yok: {}
+tarihi_yok: {}

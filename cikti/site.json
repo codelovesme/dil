@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 232,
-  "kok": 652,
-  "tanik": 7491,
+  "kavram": 235,
+  "kok": 656,
+  "tanik": 7562,
   "kaynak": 169,
   "dil": 40
  },
@@ -95,8 +95,23 @@
    "tur": "dizin"
   },
   {
+   "yol": "sozluk/ek/gecmis.md",
+   "baslik": "görülen geçmiş zaman eki",
+   "tur": "dizin"
+  },
+  {
    "yol": "sozluk/ek/ilgi.md",
    "baslik": "ilgi hâli eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/olumsuzluk.md",
+   "baslik": "olumsuzluk eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/sart.md",
+   "baslik": "şart eki",
    "tur": "dizin"
   },
   {
@@ -640,8 +655,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-dı.md",
+   "baslik": "ek-dı",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-lar.md",
    "baslik": "ek-lar",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ma.md",
+   "baslik": "ek-ma",
    "tur": "kok"
   },
   {
@@ -655,8 +680,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-sa.md",
+   "baslik": "ek-sa",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-sem.md",
    "baslik": "ek-sem",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-tar.md",
+   "baslik": "ek-tar",
    "tur": "kok"
   },
   {
@@ -4548,6 +4583,20 @@
   },
   {
    "t": "kavram",
+   "ad": "görülen geçmiş zaman eki",
+   "alt": "past tense suffix",
+   "yol": "sozluk/ek/gecmis.md",
+   "ozet": "Ortak dil: dı · Ana Türkçe tahmini: dı · En çok kişinin anladığı: dı",
+   "anahtar": [
+    "da",
+    "di",
+    "dı",
+    "rĕ",
+    "tı"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "ilgi hâli eki",
    "alt": "genitive suffix",
    "yol": "sozluk/ek/ilgi.md",
@@ -4558,6 +4607,31 @@
     "nın",
     "nıñ",
     "ăn"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "olumsuzluk eki",
+   "alt": "negative suffix",
+   "yol": "sozluk/ek/olumsuzluk.md",
+   "ozet": "Ortak dil: ma · Ana Türkçe tahmini: ma · En çok kişinin anladığı: ma",
+   "anahtar": [
+    "ba",
+    "ma"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "şart eki",
+   "alt": "conditional suffix",
+   "yol": "sozluk/ek/sart.md",
+   "ozet": "Ortak dil: sa · Ana Türkçe tahmini: sa · En çok kişinin anladığı: sa",
+   "anahtar": [
+    "ha",
+    "sa",
+    "san",
+    "tar",
+    "za"
    ]
   },
   {
@@ -11278,12 +11352,39 @@
   },
   {
    "t": "kok",
+   "ad": "ek-dı",
+   "alt": "\"görülen geçmiş zaman eki -DI\"",
+   "yol": "sozluk/kok/ek-dı.md",
+   "ozet": "23 tanık, en eski günümüz",
+   "anahtar": [
+    "-рӗ",
+    "da",
+    "di",
+    "dı",
+    "rĕ",
+    "tı"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-lar",
    "alt": "\"çoğul eki -lAr\"",
    "yol": "sozluk/kok/ek-lar.md",
    "ozet": "25 tanık, en eski günümüz",
    "anahtar": [
     "lar"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ma",
+   "alt": "\"olumsuzluk eki -mA\"",
+   "yol": "sozluk/kok/ek-ma.md",
+   "ozet": "24 tanık, en eski günümüz",
+   "anahtar": [
+    "-ма-",
+    "ba",
+    "ma"
    ]
   },
   {
@@ -11316,6 +11417,20 @@
   },
   {
    "t": "kok",
+   "ad": "ek-sa",
+   "alt": "\"şart eki -sA\"",
+   "yol": "sozluk/kok/ek-sa.md",
+   "ozet": "22 tanık, en eski günümüz",
+   "anahtar": [
+    "-сан",
+    "ha",
+    "sa",
+    "san",
+    "za"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-sem",
    "alt": "Çuvaşçada \"çoğul eki\"",
    "yol": "sozluk/kok/ek-sem.md",
@@ -11323,6 +11438,16 @@
    "anahtar": [
     "-сем",
     "sem"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-tar",
+   "alt": "Saha ve Dolgancada \"şart eki\"",
+   "yol": "sozluk/kok/ek-tar.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "tar"
    ]
   },
   {

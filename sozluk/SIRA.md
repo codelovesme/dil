@@ -88,7 +88,7 @@ için eki de kelime gibi seçer. Biçim olarak ünlüden ya da akıcı ünsüzde
 kalın sıralı biçim yazılır; öteki biçimler tanığın notundadır.
 
 - **İsim:** [x] [çoğul](ek/cogul.yaml) · [ ] iyelik (1., 2., 3. kişi; tekil, çoğul) · [x] [ilgi hâli](ek/ilgi.yaml) · [x] [yönelme](ek/yonelme.yaml) · [x] [belirtme](ek/belirtme.yaml) · [x] [bulunma](ek/bulunma.yaml) · [x] [ayrılma](ek/ayrilma.yaml) · [ ] vasıta (ile)
-- **Fiil:** [ ] olumsuzluk (-mA) · [ ] geçmiş zaman (-DI) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [ ] şart (-sA) · [ ] emir · [ ] istek
+- **Fiil:** [x] [olumsuzluk (-mA)](ek/olumsuzluk.yaml) · [x] [geçmiş zaman (-DI)](ek/gecmis.yaml) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [x] [şart (-sA)](ek/sart.yaml) · [ ] emir · [ ] istek
 - **Kişi ekleri:** [ ] 1., 2., 3. kişi (tekil, çoğul)
 - **Türetme ve diğer:** [ ] soru eki (mI) · [ ] bildirme · [ ] sıfat-fiil · [ ] zarf-fiil (-p, -A) · [ ] -lI · [ ] -sIz · [ ] -CI · [ ] -lIK
 

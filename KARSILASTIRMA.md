@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 232 kavram, 32 tanesi ayrışıyor.
+Toplam 235 kavram, 32 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -12,7 +12,10 @@ Toplam 232 kavram, 32 tanesi ayrışıyor.
 | belirtme hâli eki | nı *(ek-nı)* | nı *(ek-nı)* | ı *(ek-nı)* | UYUŞUYOR |
 | bulunma hâli eki | da *(ek-da)* | da *(ek-da)* | da *(ek-da)* | UYUŞUYOR |
 | çoğul eki | lar *(ek-lar)* | lar *(ek-lar)* | lar *(ek-lar)* | UYUŞUYOR |
+| görülen geçmiş zaman eki | dı *(ek-dı)* | dı *(ek-dı)* | dı *(ek-dı)* | UYUŞUYOR |
 | ilgi hâli eki | nıñ *(ek-nıñ)* | nıñ *(ek-nıñ)* | nın *(ek-nıñ)* | UYUŞUYOR |
+| olumsuzluk eki | ma *(ek-ma)* | ma *(ek-ma)* | ma *(ek-ma)* | UYUŞUYOR |
+| şart eki | sa *(ek-sa)* | sa *(ek-sa)* | sa *(ek-sa)* | UYUŞUYOR |
 | yönelme hâli eki | ğa *(ek-ğa)* | ğa *(ek-ğa)* | a *(ek-ğa)* | UYUŞUYOR |
 | aç- | aç *(aç)* | aç *(aç)* | aç *(aç)* | UYUŞUYOR |
 | acı | açığ *(açığ)* | açığ *(açığ)* | acı *(açığ)* | UYUŞUYOR |

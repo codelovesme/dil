@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ma
+anlam: '"olumsuzluk eki -mA"'
+koken: türkçe
+ana_turkce: '*-mA'
+kavramlar:
+- olumsuzluk
+etimoloji: Ana Türkçe *-mA. Bütün kollarda; Kıpçak ve Sibirya'da önceki sese göre -ba, -pa.
+  Çuvaşça -ma/-me.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: ma, dil: aze, kaynak: bilgi, not: 'Biçimler: ma, mä'}
+  - {bicim: ma, dil: bak, kaynak: bilgi, not: 'Biçimler: ma, mä; ba, bä; pa, pä'}
+  - {bicim: ma, dil: chv, kaynak: bilgi, not: 'Biçimler: ma, me (fiil kökünden sonra; geniş zamanda mas)', yazi: -ма-}
+  - {bicim: ma, dil: crh, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ma, dil: dlg, kaynak: bilgi, not: 'Biçimler: ma, ba, pa'}
+  - {bicim: ma, dil: gag, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ma, dil: krc, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ma, dil: kdr, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ma, dil: kaa, kaynak: bilgi, not: 'Biçimler: ma, me; ba, be; pa, pe'}
+  - {bicim: ma, dil: kaz, kaynak: bilgi, not: 'Biçimler: ma, me; ba, be; pa, pe'}
+  - {bicim: ba, dil: kjh, kaynak: bilgi, not: 'Biçimler: ba, be; pa, pe; ma, me'}
+  - {bicim: ba, dil: kir, kaynak: bilgi, not: 'Biçimler: ba, be, bo, bö; pa…; ma…'}
+  - {bicim: ma, dil: kum, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ma, dil: nog, kaynak: bilgi, not: 'Biçimler: ma, me; ba, be; pa, pe (önceki sese göre)'}
+  - {bicim: ba, dil: cjs, kaynak: bilgi, not: 'Biçimler: ba, be; pa, pe; ma, me'}
+  - {bicim: ba, dil: alt, kaynak: bilgi, not: 'Biçimler: ba, be, bo, bö; pa…; ma…'}
+  - {bicim: ma, dil: tat, kaynak: bilgi, not: 'Biçimler: ma, mä'}
+  - {bicim: ma, dil: tur, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ma, dil: tuk, kaynak: bilgi, not: 'Biçimler: ma, me'}
+  - {bicim: ba, dil: tyv, kaynak: bilgi, not: 'Biçimler: ba, be; pa, pe; ma, me'}
+  - {bicim: ma, dil: uig, kaynak: bilgi, not: 'Biçimler: ma, mä'}
+  - {bicim: ma, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız ma'}
+  - {bicim: ma, dil: sah, kaynak: bilgi, not: 'Biçimler: ma, me, mo, mö; ba…; pa…'}
+  - {bicim: ma, dil: sty, kaynak: bilgi, not: 'Biçimler: ma, pa'}
+
+yok: {}
+tarihi_yok: {}

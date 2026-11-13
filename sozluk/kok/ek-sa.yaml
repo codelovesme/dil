@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-sa
+anlam: '"şart eki -sA"'
+koken: türkçe
+ana_turkce: '*-sA'
+kavramlar:
+- sart
+etimoloji: Ana Türkçe *-sA (Göktürkçe -sar/-ser). Bütün kollarda; Başkurtça -ha (s > h), Sibirya
+  -za; Çuvaşça -san.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: sa, dil: aze, kaynak: bilgi, not: 'Biçimler: sa, sä'}
+  - {bicim: ha, dil: bak, kaynak: bilgi, not: 'Biçimler: ha, hä (s > h)'}
+  - {bicim: san, dil: chv, kaynak: bilgi, not: 'Biçimler: san, sen (-sA + n)', yazi: -сан}
+  - {bicim: sa, dil: crh, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: gag, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: krc, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: kdr, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: kaa, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: kaz, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: za, dil: kjh, kaynak: bilgi, not: 'Biçimler: za, ze, sa, se'}
+  - {bicim: sa, dil: kir, kaynak: bilgi, not: 'Biçimler: sa, se, so, sö'}
+  - {bicim: sa, dil: kum, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: nog, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: za, dil: cjs, kaynak: bilgi, not: 'Biçimler: za, ze, sa, se'}
+  - {bicim: za, dil: alt, kaynak: bilgi, not: 'Biçimler: za, ze, zo, zö; sa…'}
+  - {bicim: sa, dil: tat, kaynak: bilgi, not: 'Biçimler: sa, sä'}
+  - {bicim: sa, dil: tur, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: sa, dil: tuk, kaynak: bilgi, not: 'Biçimler: sa, se'}
+  - {bicim: za, dil: tyv, kaynak: bilgi, not: 'Biçimler: za, ze; sa, se'}
+  - {bicim: sa, dil: uig, kaynak: bilgi, not: 'Biçimler: sa, sä'}
+  - {bicim: sa, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız sa'}
+  - {bicim: sa, dil: sty, kaynak: bilgi, not: 'Biçimler: sa, za'}
+
+yok:
+  sah: yerine tar (ek-tar)
+  dlg: yerine tar (ek-tar)
+tarihi_yok: {}

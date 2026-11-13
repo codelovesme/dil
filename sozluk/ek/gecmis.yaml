@@ -1,0 +1,38 @@
+kavram: görülen geçmiş zaman eki
+ingilizce: past tense suffix
+anlam: Görülen geçmiş zaman eki (-DI).
+dogrulandi: false
+kokler:
+- kok: ek-dı
+  koken: türkçe
+  ana_turkce: '*-DI'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-dı.yaml).
+  bicimler:
+    aze: dı
+    bak: dı
+    chv:
+      bicim: rĕ
+      miras: true
+    crh: dı
+    gag: dı
+    krc: dı
+    kdr: dı
+    kaa: dı
+    kaz: dı
+    kjh: dı
+    kir: dı
+    kum: dı
+    nog: dı
+    cjs: tı
+    alt: dı
+    tat: dı
+    tur: dı
+    tuk: dı
+    tyv: dı
+    uig: dı
+    uzb: di
+    sah: da
+    sty: tı
+yok: []
+tarihi_yok: []

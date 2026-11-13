@@ -1,0 +1,39 @@
+kavram: olumsuzluk eki
+ingilizce: negative suffix
+anlam: Fiil olumsuzluk eki.
+dogrulandi: false
+kokler:
+- kok: ek-ma
+  koken: türkçe
+  ana_turkce: '*-mA'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ma.yaml).
+  bicimler:
+    aze: ma
+    bak: ma
+    chv:
+      bicim: ma
+      miras: true
+    crh: ma
+    dlg: ma
+    gag: ma
+    krc: ma
+    kdr: ma
+    kaa: ma
+    kaz: ma
+    kjh: ba
+    kir: ba
+    kum: ma
+    nog: ma
+    cjs: ba
+    alt: ba
+    tat: ma
+    tur: ma
+    tuk: ma
+    tyv: ba
+    uig: ma
+    uzb: ma
+    sah: ma
+    sty: ma
+yok: []
+tarihi_yok: []

@@ -1,0 +1,37 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-tar
+anlam: Saha ve Dolgancada "şart eki"
+koken: türkçe
+kavramlar:
+- sart
+etimoloji: Sahaca -TAr; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: tar, dil: dlg, kaynak: bilgi, not: 'Biçimler: tar, ter, tor, tör; dar…, lar…, nar… Sahaca ve Dolgancada şart eki.'}
+  - {bicim: tar, dil: sah, kaynak: bilgi, not: 'Biçimler: tar, ter, tor, tör; dar…, lar…, nar… Sahaca ve Dolgancada şart eki.'}
+
+yok:
+  tur: yerine sa (ek-sa)
+  aze: yerine sa (ek-sa)
+  gag: yerine sa (ek-sa)
+  tuk: yerine sa (ek-sa)
+  crh: yerine sa (ek-sa)
+  kum: yerine sa (ek-sa)
+  krc: yerine sa (ek-sa)
+  kdr: yerine sa (ek-sa)
+  nog: yerine sa (ek-sa)
+  kaz: yerine sa (ek-sa)
+  kaa: yerine sa (ek-sa)
+  kir: yerine sa (ek-sa)
+  tat: yerine sa (ek-sa)
+  bak: yerine ha (ek-sa)
+  sty: yerine sa (ek-sa)
+  alt: yerine za (ek-sa)
+  kjh: yerine za (ek-sa)
+  cjs: yerine za (ek-sa)
+  tyv: yerine za (ek-sa)
+  uig: yerine sa (ek-sa)
+  uzb: yerine sa (ek-sa)
+  chv: yerine san (ek-sa)
+tarihi_yok: {}
