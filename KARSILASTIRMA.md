@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 146 kavram, 17 tanesi ayrışıyor.
+Toplam 151 kavram, 18 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@ Toplam 146 kavram, 17 tanesi ayrışıyor.
 | beş | beş *(beş)* | beş *(beş)* | beş *(beş)* | UYUŞUYOR |
 | bil- | bil *(bil)* | bil *(bil)* | bil *(bil)* | UYUŞUYOR |
 | bir | bir *(bir)* | bir *(bir)* | bir *(bir)* | UYUŞUYOR |
+| bit | bit *(bit)* | bit *(bit)* | bit *(bit)* | UYUŞUYOR |
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
 | boynuz | müyüz *(müñüz)* | müyüz *(müñüz)* | müyüz *(müñüz)* | UYUŞUYOR |
 | boyun | boyun *(boyun)* | boyın *(boyun)* | boyun *(boyun)* | UYUŞUYOR |
@@ -88,6 +89,7 @@ Toplam 146 kavram, 17 tanesi ayrışıyor.
 | kar | kar *(kar)* | kar *(kar)* | kar *(kar)* | UYUŞUYOR |
 | kara | kara *(kara-ad)* | kara *(kara-ad)* | kara *(kara-ad)* | UYUŞUYOR |
 | karın | iç *(iç-ad)* | karın *(karın)* | karın *(karın)* | AYRIŞIYOR |
+| karınca | kumurska *(kumursga)* | kumursğa *(kumursga)* | kumurska *(kumursga)* | UYUŞUYOR |
 | kemik | sümük *(süñük)* | süñük *(süñük)* | sümük *(süñük)* | UYUŞUYOR |
 | kenar | kıdığ *(kıdığ)* | kıdığ *(kıdığ)* | çet *(çet)* | AYRIŞIYOR |
 | kes- | kes *(kes)* | kes *(kes)* | kes *(kes)* | UYUŞUYOR |
@@ -102,6 +104,7 @@ Toplam 146 kavram, 17 tanesi ayrışıyor.
 | kül | kül *(kül-ad)* | kül *(kül-ad)* | kül *(kül-ad)* | UYUŞUYOR |
 | kulak | kulak *(kulkak)* | kulkak *(kulkak)* | kulak *(kulkak)* | UYUŞUYOR |
 | kum | kum *(kum)* | kum *(kum)* | kum *(kum)* | UYUŞUYOR |
+| kurt (böcek) | kurt *(kurt)* | kurt *(kurt)* | kurt *(kurt)* | UYUŞUYOR |
 | kuş | kuş *(kuş)* | kuş *(kuş)* | kuş *(kuş)* | UYUŞUYOR |
 | kuyruk | kuyruk *(kudruk)* | kudruk *(kudruk)* | kuyruk *(kudruk)* | UYUŞUYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
@@ -121,6 +124,7 @@ Toplam 146 kavram, 17 tanesi ayrışıyor.
 | sarı | sarığ *(sarığ)* | sarığ *(sarığ)* | sarı *(sarığ)* | UYUŞUYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | sıcak | isig *(isig)* | isig *(isig)* | issik *(isig)* | UYUŞUYOR |
+| sinek | çibin *(çıbın)* | çibin *(çıbın)* | sinek *(siñek)* | AYRIŞIYOR |
 | siz | siz *(siz)* | siz *(siz)* | siz *(siz)* | UYUŞUYOR |
 | soğuk | soğuk *(soğık)* | soğık *(soğık)* | soğuk *(soğık)* | UYUŞUYOR |
 | sor- | sora *(sora)* | sora *(sora)* | sor *(sora)* | UYUŞUYOR |
@@ -150,6 +154,7 @@ Toplam 146 kavram, 17 tanesi ayrışıyor.
 | yeşil | yaşıl *(yaşıl)* | yaşıl *(yaşıl)* | yaşıl *(yaşıl)* | UYUŞUYOR |
 | yıka- | yu *(yu)* | yu *(yu)* | yu *(yu)* | UYUŞUYOR |
 | yıl | yıl *(yıl)* | yıl *(yıl)* | yıl *(yıl)* | UYUŞUYOR |
+| yılan | yılan *(yılan)* | yılan *(yılan)* | yılan *(yılan)* | UYUŞUYOR |
 | yıldız | yultuz *(yultuz)* | yultuz *(yultuz)* | yulduz *(yultuz)* | UYUŞUYOR |
 | yumurta | yumurtğa *(yumurtga)* | yumurtğa *(yumurtga)* | yumurta *(yumurtga)* | UYUŞUYOR |
 | yürek | yürek *(yürek)* | yürek *(yürek)* | yürek *(yürek)* | UYUŞUYOR |

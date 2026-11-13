@@ -67,6 +67,7 @@ aşamasında ele alınacak.
 - [x] [burun](temel/burun.yaml) · [x] [alın](temel/alin.yaml) · [x] [boyun](temel/boyun.yaml) · [x] [karın](temel/karin.yaml) · [x] [diz](temel/diz.yaml) · [x] [saç](temel/sac.yaml) · [x] [boynuz](temel/boynuz.yaml) · [x] [kuyruk](temel/kuyruk.yaml)
 - [x] [yaprak](temel/yaprak.yaml) · [x] [kök (bitki)](temel/kok-bitki.yaml) · [x] [tohum](temel/tohum.yaml) · [x] [çiçek](temel/cicek.yaml) · [x] [ot](temel/ot.yaml) · [x] [yumurta](temel/yumurta.yaml) · [x] [tüy](temel/tuy.yaml) · [x] [kanat](temel/kanat.yaml)
 - [x] [kenar](temel/kenar.yaml) · [x] [delik](temel/delik.yaml) · [x] [ip](temel/ip.yaml) · [x] [değnek](temel/degnek.yaml) · [x] [odun](temel/odun.yaml) · [x] [orman](temel/orman.yaml) · [x] [deri](temel/deri.yaml) · [x] [yağ](temel/yag.yaml)
+- [x] [yılan](temel/yilan.yaml) · [x] [kurt (böcek)](temel/kurt-bocek.yaml) · [x] [bit](temel/bit.yaml) · [x] [sinek](temel/sinek.yaml) · [x] [karınca](temel/karinca.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

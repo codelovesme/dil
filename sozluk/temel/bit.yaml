@@ -1,0 +1,47 @@
+kavram: bit
+ingilizce: louse
+anlam: Bit.
+dogrulandi: false
+kokler:
+- kok: bit
+  koken: türkçe
+  ana_turkce: '*bït'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bit.yaml).
+  tarihi:
+    qwm: bit
+    otk: bit
+  bicimler:
+    aze: bit
+    bak: bet
+    chv:
+      bicim: pıytă
+      miras: true
+    crh: bit
+    krc: bit
+    kdr: bit
+    kaa: biyt
+    kaz: bit
+    kjh: pit
+    klj:
+      bicim: bit
+      miras: true
+    kir: bit
+    kum: bit
+    clw: pit
+    nog: biyt
+    atv: piyt
+    slr: piçt
+    ybe: pışt
+    cjs: pit
+    alt: biyt
+    tat: bet
+    kim: bıt
+    tur: bit
+    tuk: bit
+    tyv: bıt
+    uig: pit
+    uzb: bit
+    sah: bıt
+yok: []
+tarihi_yok: []

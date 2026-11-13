@@ -28,6 +28,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [beş](temel/bes.md) | five | **beş** | **beş** | **beş** | uyuşuyor |
 | [bil-](temel/bil.md) | know | **bil** | **bil** | **bil** | uyuşuyor |
 | [bir](temel/bir.md) | one | **bir** | **bir** | **bir** | uyuşuyor |
+| [bit](temel/bit.md) | louse | **bit** | **bit** | **bit** | uyuşuyor |
 | [biz](temel/biz.md) | we | **biz** | **biz** | **biz** | uyuşuyor |
 | [boynuz](temel/boynuz.md) | horn | **müyüz** | **müyüz** | **müyüz** | uyuşuyor |
 | [boyun](temel/boyun.md) | neck | **boyun** | **boyın** | **boyun** | uyuşuyor |
@@ -86,6 +87,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [kar](temel/kar.md) | snow | **kar** | **kar** | **kar** | uyuşuyor |
 | [kara](temel/kara.md) | black | **kara** | **kara** | **kara** | uyuşuyor |
 | [karın](temel/karin.md) | belly | **iç** | **karın** | **karın** | ayrişiyor |
+| [karınca](temel/karinca.md) | ant | **kumurska** | **kumursğa** | **kumurska** | uyuşuyor |
 | [kemik](temel/kemik.md) | bone | **sümük** | **süñük** | **sümük** | uyuşuyor |
 | [kenar](temel/kenar.md) | edge | **kıdığ** | **kıdığ** | **çet** | ayrişiyor |
 | [kes-](temel/kes.md) | cut | **kes** | **kes** | **kes** | uyuşuyor |
@@ -100,6 +102,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [kül](temel/kul.md) | ash | **kül** | **kül** | **kül** | uyuşuyor |
 | [kulak](temel/kulak.md) | ear | **kulak** | **kulkak** | **kulak** | uyuşuyor |
 | [kum](temel/kum.md) | sand | **kum** | **kum** | **kum** | uyuşuyor |
+| [kurt (böcek)](temel/kurt-bocek.md) | worm | **kurt** | **kurt** | **kurt** | uyuşuyor |
 | [kuş](temel/kus.md) | bird | **kuş** | **kuş** | **kuş** | uyuşuyor |
 | [kuyruk](temel/kuyruk.md) | tail | **kuyruk** | **kudruk** | **kuyruk** | uyuşuyor |
 | [nasıl](temel/nasil.md) | how | **neçuk** | **neçük** | **necä** | uyuşuyor |
@@ -119,6 +122,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [sarı](temel/sari.md) | yellow | **sarığ** | **sarığ** | **sarı** | uyuşuyor |
 | [sen](temel/sen.md) | you (singular) | **sen** | **sän** | **sen** | uyuşuyor |
 | [sıcak](temel/sicak.md) | hot | **isig** | **isig** | **issik** | uyuşuyor |
+| [sinek](temel/sinek.md) | fly (insect) | **çibin** | **çibin** | **sinek** | ayrişiyor |
 | [siz](temel/siz.md) | you (plural; polite) | **siz** | **siz** | **siz** | uyuşuyor |
 | [soğuk](temel/soguk.md) | cold | **soğuk** | **soğık** | **soğuk** | uyuşuyor |
 | [sor-](temel/sor.md) | ask | **sora** | **sora** | **sor** | uyuşuyor |
@@ -148,6 +152,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [yeşil](temel/yesil.md) | green | **yaşıl** | **yaşıl** | **yaşıl** | uyuşuyor |
 | [yıka-](temel/yika.md) | wash | **yu** | **yu** | **yu** | uyuşuyor |
 | [yıl](temel/yil.md) | year | **yıl** | **yıl** | **yıl** | uyuşuyor |
+| [yılan](temel/yilan.md) | snake | **yılan** | **yılan** | **yılan** | uyuşuyor |
 | [yıldız](temel/yildiz.md) | star | **yultuz** | **yultuz** | **yulduz** | uyuşuyor |
 | [yumurta](temel/yumurta.md) | egg | **yumurtğa** | **yumurtğa** | **yumurta** | uyuşuyor |
 | [yürek](temel/yurek.md) | heart | **yürek** | **yürek** | **yürek** | uyuşuyor |
