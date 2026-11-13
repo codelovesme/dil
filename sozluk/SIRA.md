@@ -11,7 +11,7 @@ aşamasında ele alınacak.
 
 - [x] [ben](temel/ben.yaml) · [x] [sen](temel/sen.yaml) · [x] [o](temel/o.yaml) · [x] [biz](temel/biz.yaml) · [x] [siz](temel/siz.yaml) · [x] [onlar](temel/onlar.yaml)
 - [x] [bu](temel/bu.yaml) · [ ] şu/o (işaret) · [ ] kendi
-- [ ] kim · [ ] ne · [ ] nere · [ ] nasıl · [ ] kaç · [ ] niçin
+- [x] [kim](temel/kim.yaml) · [x] [ne](temel/ne.yaml) · [ ] nere · [ ] nasıl · [ ] kaç · [ ] niçin
 - [ ] hep/bütün · [ ] her · [ ] bazı · [ ] hiç
 
 ## 2. Sayılar

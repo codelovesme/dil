@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 12 kavram, 1 tanesi ayrışıyor.
+Toplam 13 kavram, 1 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@ Toplam 12 kavram, 1 tanesi ayrışıyor.
 | büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
+| ne | ne *(ne)* | ne *(ne)* | ne *(ne)* | UYUŞUYOR |
 | o | ol *(ol)* | ol *(ol)* | o *(ol)* | UYUŞUYOR |
 | onlar | olar *(olar)* | olar *(olar)* | olar *(olar)* | UYUŞUYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |

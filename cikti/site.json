@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 12,
-  "kok": 8,
-  "tanik": 321,
+  "kavram": 13,
+  "kok": 12,
+  "tanik": 365,
   "kaynak": 168,
   "dil": 40
  },
@@ -80,6 +80,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/mĕn.md",
+   "baslik": "mĕn",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ne.md",
+   "baslik": "ne",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/olar.md",
    "baslik": "olar",
    "tur": "kok"
@@ -87,6 +97,16 @@
   {
    "yol": "sozluk/kok/siz.md",
    "baslik": "siz",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/tuoh.md",
+   "baslik": "tuoh",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/çü.md",
+   "baslik": "çü",
    "tur": "kok"
   },
   {
@@ -117,6 +137,11 @@
   {
    "yol": "sozluk/temel/kim.md",
    "baslik": "kim",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/ne.md",
+   "baslik": "ne",
    "tur": "kavram"
   },
   {
@@ -259,6 +284,32 @@
     "käm",
     "kĭm",
     "kım"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "ne",
+   "alt": "what",
+   "yol": "sozluk/temel/ne.md",
+   "ozet": "Ortak dil: ne · Ana Türkçe tahmini: ne · En çok kişinin anladığı: ne",
+   "anahtar": [
+    "emne",
+    "mĕn",
+    "ne",
+    "neme",
+    "nemä",
+    "ni",
+    "nima",
+    "nime",
+    "nimä",
+    "no:",
+    "nä",
+    "näme",
+    "nääsä",
+    "nöme",
+    "tuoh",
+    "çü",
+    "çüü"
    ]
   },
   {
@@ -492,6 +543,44 @@
   },
   {
    "t": "kok",
+   "ad": "mĕn",
+   "alt": "Çuvaşçada \"ne\"",
+   "yol": "sozluk/kok/mĕn.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "mĕn",
+    "мӗн"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ne",
+   "alt": "nesneyi soran soru zamiri (\"ne\"); eski dilde \"nasıl, niçin\" anlamlarında da",
+   "yol": "sozluk/kok/ne.md",
+   "ozet": "40 tanık, en eski 8. yy",
+   "anahtar": [
+    "emne",
+    "ne",
+    "neme",
+    "nemä",
+    "ni",
+    "nima",
+    "nime",
+    "nimä",
+    "no:",
+    "nä",
+    "näme",
+    "nääsä",
+    "nöme",
+    "неме",
+    "ни",
+    "ниме",
+    "эмне",
+    "نېمە"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "olar",
    "alt": "üçüncü çoğul şahıs zamiri (\"onlar\"); ol + çokluk eki",
    "yol": "sozluk/kok/olar.md",
@@ -548,6 +637,29 @@
     "سىز",
     "سیز",
     "𐰾𐰃𐰕"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "tuoh",
+   "alt": "Sahacada \"ne\"",
+   "yol": "sozluk/kok/tuoh.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "tuoh",
+    "туох"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "çü",
+   "alt": "Tuvaca ve Tofacada \"ne\"",
+   "yol": "sozluk/kok/çü.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "çü",
+    "çüü",
+    "чүү"
    ]
   },
   {

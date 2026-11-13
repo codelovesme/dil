@@ -1,0 +1,72 @@
+kavram: ne
+ingilizce: what
+anlam: Nesneyi ya da durumu soran soru zamiri.
+dogrulandi: false
+kokler:
+- kok: ne
+  koken: türkçe
+  ana_turkce: '*nē'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ne.yaml). nemä/nime/näme/nima/emne ne + -mä
+    genişlemesi olarak aynı kökte. Çuvaşça mĕn, Tuvaca ve Tofaca çüü, Sahaca tuoh ayrı kökler.
+  tarihi:
+    otk: ne
+    xqa: ne
+    qwm: ne
+    chg: ne
+  bicimler:
+    aze: nä
+    bak: ni
+    crh: ne
+    gag: ne
+    krc: ne
+    kdr: ne
+    kaa: ne
+    kaz: ne
+    kjh: nime
+    klj:
+      bicim: nääsä
+      miras: true
+    kir: emne
+    kum: ne
+    clw: nöme
+    nog: ne
+    atv: nime
+    slr: nä
+    ybe: ni
+    cjs: 'no:'
+    alt: neme
+    tat: ni
+    tur: ne
+    tur-ahiska: ne
+    tur-bkaradeniz: ne
+    tur-brumeli: ne
+    tur-dkaradeniz: ne
+    tur-drumeli: ne
+    tur-ege: ne
+    tur-erzurum: ne
+    tur-kibris: ne
+    tur-orta: ne
+    tur-teke: ne
+    tuk: näme
+    uig: nimä
+    uzb: nima
+    sty-baraba: nemä
+- kok: mĕn
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    chv: mĕn
+- kok: çü
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    kim: çü
+    tyv: çüü
+- kok: tuoh
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    sah: tuoh
+yok: []
+tarihi_yok: []
