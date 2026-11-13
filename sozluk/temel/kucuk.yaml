@@ -1,0 +1,53 @@
+kavram: küçük
+ingilizce: small
+anlam: Küçük, ufak.
+dogrulandi: false
+kokler:
+- kok: kiçig
+  koken: türkçe
+  ana_turkce: '*kičig'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kiçig.yaml).
+  tarihi:
+    qwm: kiçi
+    otk: kiçig
+  bicimler:
+    aze: kiçik
+    chv: pĕçĕk
+    dlg: küççügüy
+    gag: küçücük
+    krc: gitçe
+    kdr: kiçi
+    kaa: kişkene
+    kaz: kişkene
+    kjh: kiçicek
+    kir: kiçine
+    kum: giççi
+    clw: kiçeeç
+    nog: kişkey
+    atv: kiçig
+    slr: kiçi
+    ybe: kiçig
+    cjs: kiçig
+    alt: kiçik
+    tat: keçkenä
+    tur: küçük
+    tuk: kiçi
+    uig: kiçik
+    uzb: kiçkina
+    sah: küççüguy
+    sty-baraba: kiçü
+- kok: bäläkäy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bäläkäy.yaml).
+  bicimler:
+    bak: bäläkäy
+- kok: ufak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ufak.yaml).
+  bicimler:
+    crh: ufaçık
+yok: []
+tarihi_yok: []

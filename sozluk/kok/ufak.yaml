@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ufak
+anlam: '"ufak"'
+koken: türkçe
+kavramlar:
+- kucuk
+etimoloji: ufak 'ufak'; Kırım Tatarcasında ufaçık 'küçük'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: ufaçık, dil: crh, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kiçü (kiçig)
+  atv: yerine kiçig (kiçig)
+  alt: yerine kiçik (kiçig)
+  aze: yerine kiçik (kiçig)
+  dlg: yerine küççügüy (kiçig)
+  gag: yerine küçücük (kiçig)
+  kaa: yerine kişkene (kiçig)
+  krc: yerine gitçe (kiçig)
+  kdr: yerine kiçi (kiçig)
+  kaz: yerine kişkene (kiçig)
+  kjh: yerine kiçicek (kiçig)
+  kir: yerine kiçine (kiçig)
+  kum: yerine giççi (kiçig)
+  clw: yerine kiçeeç (kiçig)
+  nog: yerine kişkey (kiçig)
+  slr: yerine kiçi (kiçig)
+  ybe: yerine kiçig (kiçig)
+  cjs: yerine kiçig (kiçig)
+  tat: yerine keçkenä (kiçig)
+  tur: yerine küçük (kiçig)
+  tuk: yerine kiçi (kiçig)
+  uig: yerine kiçik (kiçig)
+  uzb: yerine kiçkina (kiçig)
+  sah: yerine küççüguy (kiçig)
+  chv: yerine pĕçĕk (kiçig)
+  bak: yerine bäläkäy (bäläkäy)
+tarihi_yok: {}

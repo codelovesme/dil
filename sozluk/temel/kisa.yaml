@@ -1,0 +1,56 @@
+kavram: kısa
+ingilizce: short
+anlam: Kısa.
+dogrulandi: false
+kokler:
+- kok: kısga
+  koken: türkçe
+  ana_turkce: '*kïsga'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kısga.yaml).
+  tarihi:
+    qwm: kısga
+    otk: kısga
+  bicimler:
+    aze: kısa
+    bak: kıska
+    chv:
+      bicim: kĕske
+      miras: true
+    crh: kıska
+    gag: kısa
+    krc: kısxa
+    kdr: kıska
+    kaa: kıska
+    kaz: kışka
+    kjh: xısxa
+    kir: kıska
+    kum: kısğa
+    clw: käska
+    nog: kıska
+    atv: kıska
+    slr: xısxa
+    ybe: kıska
+    cjs: kıska
+    alt: kısxa
+    tat: kıska
+    kim: kıˁska
+    tur: kısa
+    tuk: gısga
+    tyv: kıska
+    uig: kiska
+- kok: kılgas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kılgas.yaml).
+  bicimler:
+    dlg: kılgas
+    sah: kılgas
+- kok: karsak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/karsak.yaml).
+  bicimler:
+    sty-baraba: karsak
+yok: []
+tarihi_yok: []

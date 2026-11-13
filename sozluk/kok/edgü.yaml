@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: edgü
+anlam: '"iyi"'
+koken: türkçe
+ana_turkce: '*edgü'
+kavramlar:
+- iyi
+etimoloji: Ana Türkçe *edgü; Eski Türkçe edgü. Türkiye Türkçesi ve Gagavuzca iyi, Sayan eki/ekki
+  bu kökten.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: edgü
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {bicim: eyi, dil: aze, kaynak: bilgi}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: iyi, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ekki, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: iyi, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: eki, dil: tyv, kaynak: savelyev-turkic, yazi: эки}
+
+yok:
+  sty-baraba: yerine yakşı (yakşı)
+  atv: yerine takşı (yakşı)
+  alt: yerine daxşı (yakşı)
+  bak: yerine yakşı (yakşı)
+  crh: yerine yaxşı (yakşı)
+  kaa: yerine jakşı (yakşı)
+  krc: yerine aşxı (yakşı)
+  kdr: yerine yaxşı (yakşı)
+  kaz: yerine jakşı (yakşı)
+  kjh: yerine çaxsı (yakşı)
+  kir: yerine jakşı (yakşı)
+  kum: yerine yaxşı (yakşı)
+  clw: yerine çaksı (yakşı)
+  nog: yerine yaxşı (yakşı)
+  slr: yerine yaxşi (yakşı)
+  ybe: yerine yaxşı (yakşı)
+  cjs: yerine çakşı (yakşı)
+  tat: yerine yaxşı (yakşı)
+  tuk: yerine yağşı (yakşı)
+  uig: yerine yaxşi (yakşı)
+  uzb: yerine yaxşi (yakşı)
+  dlg: yerine üçügey (üçügey)
+  sah: yerine üçügey (üçügey)
+tarihi_yok: {}

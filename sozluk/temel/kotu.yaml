@@ -1,0 +1,90 @@
+kavram: kötü
+ingilizce: bad
+anlam: Kötü.
+dogrulandi: false
+kokler:
+- kok: yaman
+  koken: türkçe
+  ana_turkce: '*yaman'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yaman.yaml).
+  tarihi:
+    qwm: yaman
+    otk: yaman
+  bicimler:
+    aze: yaman
+    krc: aman
+    kdr: yaman
+    kaa: jaman
+    kaz: jaman
+    kir: jaman
+    kum: yaman
+    nog: yaman
+    atv: daman
+    slr: yaman
+    alt: daman
+    tat: '? yaman'
+    tur:
+      bicim: yaman
+      tercih: 0.25
+    tuk: '? yaman'
+    uig: yaman
+    uzb: yomon
+    sty-baraba: yaman
+- kok: kötü
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kötü.yaml).
+  bicimler:
+    tur: kötü
+- kok: yaramay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yaramay.yaml).
+  bicimler:
+    crh: yaramay
+- kok: alama
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/alama.yaml).
+  bicimler:
+    bak: alama
+- kok: kuhağan
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kuhağan.yaml).
+  bicimler:
+    dlg: kuhağan
+    sah: kuhağan
+- kok: çabal
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çabal.yaml).
+  bicimler:
+    cjs: çabal
+- kok: çüvür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çüvür.yaml).
+  bicimler:
+    clw: çüvür
+- kok: yus
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yus.yaml).
+  bicimler:
+    ybe: yus
+- kok: çoraanda
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çoraanda.yaml).
+  bicimler:
+    kim: çoraanda
+- kok: bagay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bagay.yaml).
+  bicimler:
+    tyv: bagay
+yok: []
+tarihi_yok: []

@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: üçügey
+anlam: Sahacada "iyi"
+koken: türkçe
+kavramlar:
+- iyi
+etimoloji: Sahaca ve Dolganca üçügey; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: üçügey, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: üçügey, dil: sah, kaynak: savelyev-turkic, yazi: үчүгэй}
+
+yok:
+  sty-baraba: yerine yakşı (yakşı)
+  atv: yerine takşı (yakşı)
+  alt: yerine daxşı (yakşı)
+  aze: yerine eyi (edgü)
+  bak: yerine yakşı (yakşı)
+  crh: yerine yaxşı (yakşı)
+  kaa: yerine jakşı (yakşı)
+  krc: yerine aşxı (yakşı)
+  kdr: yerine yaxşı (yakşı)
+  kaz: yerine jakşı (yakşı)
+  kjh: yerine çaxsı (yakşı)
+  kir: yerine jakşı (yakşı)
+  kum: yerine yaxşı (yakşı)
+  clw: yerine çaksı (yakşı)
+  nog: yerine yaxşı (yakşı)
+  slr: yerine yaxşi (yakşı)
+  ybe: yerine yaxşı (yakşı)
+  cjs: yerine çakşı (yakşı)
+  tat: yerine yaxşı (yakşı)
+  tuk: yerine yağşı (yakşı)
+  uig: yerine yaxşi (yakşı)
+  uzb: yerine yaxşi (yakşı)
+  tur: yerine iyi (edgü)
+  gag: yerine iyi (edgü)
+  kim: yerine ekki (edgü)
+  tyv: yerine eki (edgü)
+tarihi_yok: {}
