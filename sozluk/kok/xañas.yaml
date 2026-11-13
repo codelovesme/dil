@@ -1,0 +1,35 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: xañas
+anlam: Saha ve Dolgancada "sol"
+koken: türkçe
+kavramlar:
+- sol
+etimoloji: Sahaca xañas; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: kañas, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xañas, dil: sah, kaynak: savelyev-turkic, yazi: хаҥас}
+
+yok:
+  sty-baraba: yerine sol (sol)
+  atv: yerine sol (sol)
+  alt: yerine sol (sol)
+  aze: yerine sol (sol)
+  bak: yerine hul (sol)
+  crh: yerine sol (sol)
+  gag: yerine sol taraf (sol)
+  krc: yerine sol (sol)
+  kaz: yerine sol (sol)
+  kjh: yerine sol (sol)
+  kir: yerine sol (sol)
+  kum: yerine sol (sol)
+  clw: yerine sol (sol)
+  nog: yerine sol (sol)
+  ybe: yerine sol (sol)
+  cjs: yerine sol (sol)
+  tat: yerine sul (sol)
+  tur: yerine sol (sol)
+  uig: yerine sol (sol)
+  kdr: yerine sol (sol)
+tarihi_yok: {}

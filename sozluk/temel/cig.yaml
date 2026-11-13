@@ -1,0 +1,56 @@
+kavram: çiğ
+ingilizce: raw
+anlam: Çiğ (pişmemiş).
+dogrulandi: false
+kokler:
+- kok: çiğ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çiğ.yaml).
+  tarihi:
+    qwm: çiyg
+    chg: çık
+  bicimler:
+    aze: çiy
+    bak: sey
+    crh: çiy
+    dlg: hiikey
+    gag: çii
+    krc: çiy
+    kdr: çiy
+    kaa: şiyki
+    kaz: şiki
+    kjh: çig
+    kir: çiyki
+    kum: çiy
+    nog: şiy
+    atv: çig
+    cjs: çığ
+    alt: çiy
+    tat: çi
+    kim: çiğ
+    tur: çiğ
+    tuk: çiğ
+    tyv: çig
+    sah: siikey
+- kok: yig
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yig.yaml).
+  tarihi:
+    otk: yig
+  bicimler: {}
+- kok: yäş-taze
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yäş-taze.yaml).
+  bicimler:
+    sty-baraba: yäş
+- kok: çĕrĕ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çĕrĕ.yaml).
+  bicimler:
+    chv: çĕrĕ
+yok: []
+tarihi_yok: []

@@ -1,0 +1,53 @@
+kavram: derin
+ingilizce: deep
+anlam: Derin.
+dogrulandi: false
+kokler:
+- kok: teriñ
+  koken: türkçe
+  ana_turkce: '*teriŋ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teriñ.yaml).
+  tarihi:
+    qwm: tereñ
+    otk: teriñ
+    xqa: teriñ
+    chg: deren
+  bicimler:
+    aze: därin
+    bak: tärän
+    chv:
+      bicim: tarăn
+      miras: true
+    crh: teren
+    dlg: diriñ
+    gag: derin
+    krc: teren
+    kdr: teren
+    kaa: tereñ
+    kaz: tereñ
+    kjh: tireñ
+    kir: tereñ
+    kum: teren
+    clw: täräñ
+    nog: teren
+    atv: tereñ
+    slr: tiroñ
+    cjs: tereñ
+    alt: tereñ
+    tat: tirän
+    kim: dereñ
+    tur: derin
+    tyv: tereñ
+    sah: diriñ
+    sty-baraba: täräñ
+- kok: çuñkur
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çuñkur.yaml).
+  bicimler:
+    tuk: çuñ
+    uig: çoñkur
+    uzb: çukur
+yok: []
+tarihi_yok: []
