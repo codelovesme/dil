@@ -1,0 +1,62 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yüz
+anlam: '"yüzmek"'
+koken: türkçe
+ana_turkce: '*yüŕ-'
+kavramlar:
+- yuz-fiil
+etimoloji: Ana Türkçe *yüz- 'yüzmek'. Bütün kollarda (üz-, yöz-, jüz-, çüs-, düs-); Kırgızca
+  ve Özbekçe süz-/suz-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: yüz
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: yüz
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: üz, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: yöz, dil: bak, kaynak: savelyev-turkic, yazi: йөҙ-}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: üz, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: cüz, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: yüz, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: jüz, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jüz, dil: kaz, kaynak: savelyev-turkic, yazi: жүз-}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çüs, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: süz, dil: kir, kaynak: savelyev-turkic, yazi: сүз-}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yüz, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: çüs, dil: clw, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: yüs, dil: atv, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: çüs, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: düs, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: yöz, dil: tat, kaynak: savelyev-turkic, yazi: йөз-}
+  - {atif: 'baskakov1977, iz1992', bicim: yüz, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yüz, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: üz, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: suz, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: yüs, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yüz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 59 (Clauson, 1 yüz-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: yüz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 34, 14 (Clauson, 1 yüz-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: yüz, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 89; Nehcü''l-Feradis 287 (Clauson, 1 yüz-)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: yüz, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 35, 18 (Clauson, 1 yüz-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: yüz, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 93 (Clauson, 1 yüz-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: yüz, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 25b 12 (Clauson, 1 yüz-)'}
+
+yok:
+  crh: yerine yalda (yalda)
+  nog: yerine yalda (yalda)
+  slr: yerine çum (çom)
+  kim: yerine eşt (eşt)
+  tyv: yerine eşt (eşt)
+  klj: yerine kirun (kirun)
+tarihi_yok: {}

@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 157,
-  "kok": 437,
-  "tanik": 4982,
+  "kavram": 162,
+  "kok": 453,
+  "tanik": 5159,
   "kaynak": 168,
   "dil": 40
  },
@@ -232,6 +232,11 @@
   {
    "yol": "sozluk/kok/bağ.md",
    "baslik": "bağ",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bağla.md",
+   "baslik": "bağla",
    "tur": "kok"
   },
   {
@@ -467,6 +472,11 @@
   {
    "yol": "sozluk/kok/eşit.md",
    "baslik": "eşit",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/eşt.md",
+   "baslik": "eşt",
    "tur": "kok"
   },
   {
@@ -760,6 +770,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kirun.md",
+   "baslik": "kirun",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kivĕ.md",
    "baslik": "kivĕ",
    "tur": "kok"
@@ -792,6 +807,11 @@
   {
    "yol": "sozluk/kok/kol.md",
    "baslik": "kol",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kork.md",
+   "baslik": "kork",
    "tur": "kok"
   },
   {
@@ -847,6 +867,16 @@
   {
    "yol": "sozluk/kok/kurăk.md",
    "baslik": "kurăk",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kus.md",
+   "baslik": "kus",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kuttan.md",
+   "baslik": "kuttan",
    "tur": "kok"
   },
   {
@@ -1200,6 +1230,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/sillee.md",
+   "baslik": "sillee",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/simĕs.md",
    "baslik": "simĕs",
    "tur": "kok"
@@ -1217,6 +1252,11 @@
   {
    "yol": "sozluk/kok/siñek.md",
    "baslik": "siñek",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/sod.md",
+   "baslik": "sod",
    "tur": "kok"
   },
   {
@@ -1252,6 +1292,11 @@
   {
    "yol": "sozluk/kok/sun.md",
    "baslik": "sun",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/sur.md",
+   "baslik": "sur",
    "tur": "kok"
   },
   {
@@ -1475,8 +1520,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/tüdeste.md",
+   "baslik": "tüdeste",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/tük.md",
    "baslik": "tük",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/tükür.md",
+   "baslik": "tükür",
    "tur": "kok"
   },
   {
@@ -1645,6 +1700,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/xotuolaa.md",
+   "baslik": "xotuolaa",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/xöy.md",
    "baslik": "xöy",
    "tur": "kok"
@@ -1662,6 +1722,11 @@
   {
    "yol": "sozluk/kok/yakşı.md",
    "baslik": "yakşı",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/yalda.md",
+   "baslik": "yalda",
    "tur": "kok"
   },
   {
@@ -1835,6 +1900,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/yüz.md",
+   "baslik": "yüz",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/yüñ.md",
    "baslik": "yüñ",
    "tur": "kok"
@@ -1967,6 +2037,11 @@
   {
    "yol": "sozluk/kok/çok.md",
    "baslik": "çok",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/çom.md",
+   "baslik": "çom",
    "tur": "kok"
   },
   {
@@ -2235,6 +2310,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/şıx.md",
+   "baslik": "şıx",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/temel/ac.md",
    "baslik": "aç-",
    "tur": "kavram"
@@ -2302,6 +2382,11 @@
   {
    "yol": "sozluk/temel/ayak.md",
    "baslik": "ayak",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/bagla.md",
+   "baslik": "bağla-",
    "tur": "kavram"
   },
   {
@@ -2695,6 +2780,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/kork.md",
+   "baslik": "kork-",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/kos.md",
    "baslik": "koş-",
    "tur": "kavram"
@@ -2727,6 +2817,11 @@
   {
    "yol": "sozluk/temel/kurt-bocek.md",
    "baslik": "kurt (böcek)",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/kus-fiil.md",
+   "baslik": "kus-",
    "tur": "kavram"
   },
   {
@@ -2867,6 +2962,11 @@
   {
    "yol": "sozluk/temel/toz.md",
    "baslik": "toz",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/tukur.md",
+   "baslik": "tükür-",
    "tur": "kavram"
   },
   {
@@ -3017,6 +3117,11 @@
   {
    "yol": "sozluk/temel/yuru.md",
    "baslik": "yürü-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/yuz-fiil.md",
+   "baslik": "yüz-",
    "tur": "kavram"
   }
  ],
@@ -3303,6 +3408,29 @@
     "hadak",
     "oyok",
     "ura"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "bağla-",
+   "alt": "tie",
+   "yol": "sozluk/temel/bagla.md",
+   "ozet": "Ortak dil: bağla · Ana Türkçe tahmini: ba · En çok kişinin anladığı: bağla",
+   "anahtar": [
+    "ba",
+    "baala",
+    "baay",
+    "bavla",
+    "bayla",
+    "bağla",
+    "boğla",
+    "bula",
+    "bäylä",
+    "palğa",
+    "pawla",
+    "pağla",
+    "vaa",
+    "şıx"
    ]
   },
   {
@@ -4957,6 +5085,29 @@
   },
   {
    "t": "kavram",
+   "ad": "kork-",
+   "alt": "fear",
+   "yol": "sozluk/temel/kork.md",
+   "ozet": "Ortak dil: kork · Ana Türkçe tahmini: kork · En çok kişinin anladığı: kork",
+   "anahtar": [
+    "gork",
+    "kooruk",
+    "kork",
+    "korkı",
+    "kort",
+    "koruk",
+    "korx",
+    "kurk",
+    "kurku",
+    "kuttan",
+    "kọrk",
+    "xorğa",
+    "xorıx",
+    "xăra"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "koş-",
    "alt": "run",
    "yol": "sozluk/temel/kos.md",
@@ -5119,6 +5270,24 @@
     "sugulcıñ",
     "xurt",
     "çuvalçañ"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "kus-",
+   "alt": "vomit",
+   "yol": "sozluk/temel/kus-fiil.md",
+   "ozet": "Ortak dil: kus · Ana Türkçe tahmini: kus · En çok kişinin anladığı: kus",
+   "anahtar": [
+    "cus",
+    "gus",
+    "kos",
+    "kus",
+    "kuˁs",
+    "kŭs",
+    "xotuolaa",
+    "xus",
+    "xăs"
    ]
   },
   {
@@ -5746,6 +5915,30 @@
     "çam",
     "çañ",
     "şañ"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "tükür-",
+   "alt": "spit",
+   "yol": "sozluk/temel/tukur.md",
+   "ozet": "Ortak dil: tükür · Ana Türkçe tahmini: tükür · En çok kişinin anladığı: tükür",
+   "anahtar": [
+    "sillee",
+    "sod",
+    "sur",
+    "tikir",
+    "tupur",
+    "töker",
+    "tökör",
+    "tökür",
+    "tüdeste",
+    "tükir",
+    "tükkür",
+    "tükür",
+    "tüpür",
+    "tüxor",
+    "tüykür"
    ]
   },
   {
@@ -6445,6 +6638,29 @@
    ]
   },
   {
+   "t": "kavram",
+   "ad": "yüz-",
+   "alt": "swim",
+   "yol": "sozluk/temel/yuz-fiil.md",
+   "ozet": "Ortak dil: yüz · Ana Türkçe tahmini: yüz · En çok kişinin anladığı: yüz",
+   "anahtar": [
+    "cüz",
+    "düs",
+    "eşt",
+    "jüz",
+    "kirun",
+    "suz",
+    "süz",
+    "yalda",
+    "yöz",
+    "yüs",
+    "yüz",
+    "çum",
+    "çüs",
+    "üz"
+   ]
+  },
+  {
    "t": "kok",
    "ad": "aağ",
    "alt": "Sahacada \"saymak, okumak\"",
@@ -6977,6 +7193,30 @@
     "бау",
     "быа",
     "пӑяв"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bağla",
+   "alt": "\"bağlamak\"",
+   "yol": "sozluk/kok/bağla.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "ba",
+    "baala",
+    "baay",
+    "bavla",
+    "bayla",
+    "bağla",
+    "boğla",
+    "bula",
+    "bäylä",
+    "palğa",
+    "pawla",
+    "pağla",
+    "vaa",
+    "баай-",
+    "бәйлә-"
    ]
   },
   {
@@ -7821,6 +8061,17 @@
     "илт-",
     "ишет-",
     "иһит-"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "eşt",
+   "alt": "Tuva ve Tofacada \"yüzmek\"",
+   "yol": "sozluk/kok/eşt.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "eşt",
+    "эшт-"
    ]
   },
   {
@@ -8682,6 +8933,16 @@
   },
   {
    "t": "kok",
+   "ad": "kirun",
+   "alt": "Halaççada \"yüzmek\"",
+   "yol": "sozluk/kok/kirun.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "kirun"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kivĕ",
    "alt": "Çuvaşçada \"eski\"",
    "yol": "sozluk/kok/kivĕ.md",
@@ -8796,6 +9057,32 @@
    "ozet": "2 tanık, en eski 14. yy",
    "anahtar": [
     "kol"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kork",
+   "alt": "\"korkmak\"",
+   "yol": "sozluk/kok/kork.md",
+   "ozet": "40 tanık, en eski 8. yy",
+   "anahtar": [
+    "gork",
+    "kooruk",
+    "kork",
+    "korkı",
+    "kort",
+    "koruk",
+    "korx",
+    "kurk",
+    "kurku",
+    "kọrk",
+    "xorğa",
+    "xorıx",
+    "xăra",
+    "корт-",
+    "курык-",
+    "хӑра-",
+    "ҡурҡ-"
    ]
   },
   {
@@ -8999,6 +9286,37 @@
    "anahtar": [
     "kurăk",
     "курӑк"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kus",
+   "alt": "\"kusmak\"",
+   "yol": "sozluk/kok/kus.md",
+   "ozet": "35 tanık, en eski 8. yy",
+   "anahtar": [
+    "cus",
+    "gus",
+    "kos",
+    "kus",
+    "kuˁs",
+    "kŭs",
+    "xus",
+    "xăs",
+    "кос-",
+    "хӑс-",
+    "ҡоҫ-"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kuttan",
+   "alt": "Saha ve Dolgancada \"korkmak\"",
+   "yol": "sozluk/kok/kuttan.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "kuttan",
+    "куттан-"
    ]
   },
   {
@@ -10002,6 +10320,17 @@
   },
   {
    "t": "kok",
+   "ad": "sillee",
+   "alt": "Sahacada \"tükürmek\"",
+   "yol": "sozluk/kok/sillee.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "sillee",
+    "силлээ-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "simĕs",
    "alt": "Çuvaşçada \"yeşil\"",
    "yol": "sozluk/kok/simĕs.md",
@@ -10067,6 +10396,16 @@
     "sinek",
     "siñek",
     "сээк"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "sod",
+   "alt": "\"tükürmek\" (Eski Türkçe)",
+   "yol": "sozluk/kok/sod.md",
+   "ozet": "3 tanık, en eski 8. yy",
+   "anahtar": [
+    "sod"
    ]
   },
   {
@@ -10185,6 +10524,17 @@
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "sun"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "sur",
+   "alt": "Çuvaşçada \"tükürmek\"",
+   "yol": "sozluk/kok/sur.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "sur",
+    "сур-"
    ]
   },
   {
@@ -10873,6 +11223,16 @@
   },
   {
    "t": "kok",
+   "ad": "tüdeste",
+   "alt": "Sarı Uygurcada \"tükürmek\"",
+   "yol": "sozluk/kok/tüdeste.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "tüdeste"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "tük",
    "alt": "\"kıl, tüy\"",
    "yol": "sozluk/kok/tük.md",
@@ -10887,6 +11247,29 @@
     "tĕk",
     "түү",
     "тӗк"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "tükür",
+   "alt": "\"tükürmek\"",
+   "yol": "sozluk/kok/tükür.md",
+   "ozet": "24 tanık, en eski günümüz",
+   "anahtar": [
+    "tikir",
+    "tupur",
+    "töker",
+    "tökör",
+    "tökür",
+    "tükir",
+    "tükkür",
+    "tükür",
+    "tüpür",
+    "tüxor",
+    "tüykür",
+    "түкiр-",
+    "төкер-",
+    "төкөр-"
    ]
   },
   {
@@ -11371,6 +11754,17 @@
   },
   {
    "t": "kok",
+   "ad": "xotuolaa",
+   "alt": "Sahacada \"kusmak\"",
+   "yol": "sozluk/kok/xotuolaa.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "xotuolaa",
+    "хотуолаа-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "xöy",
    "alt": "Tuvacada \"çok\"",
    "yol": "sozluk/kok/xöy.md",
@@ -11428,6 +11822,16 @@
     "яхшы",
     "яҡшы",
     "یخشی"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "yalda",
+   "alt": "Kırım Tatarcası ve Nogaycada \"yüzmek\"",
+   "yol": "sozluk/kok/yalda.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "yalda"
    ]
   },
   {
@@ -12108,6 +12512,29 @@
   },
   {
    "t": "kok",
+   "ad": "yüz",
+   "alt": "\"yüzmek\"",
+   "yol": "sozluk/kok/yüz.md",
+   "ozet": "28 tanık, en eski 8. yy",
+   "anahtar": [
+    "cüz",
+    "düs",
+    "jüz",
+    "suz",
+    "süz",
+    "yöz",
+    "yüs",
+    "yüz",
+    "çüs",
+    "üz",
+    "жүз-",
+    "йөз-",
+    "йөҙ-",
+    "сүз-"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "yüñ",
    "alt": "\"yün, ince tüy\"",
    "yol": "sozluk/kok/yüñ.md",
@@ -12461,6 +12888,16 @@
    "anahtar": [
     "çok",
     "çox"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "çom",
+   "alt": "\"dalmak, yüzmek\"",
+   "yol": "sozluk/kok/çom.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "çum"
    ]
   },
   {
@@ -13152,6 +13589,17 @@
    "anahtar": [
     "şıvăr",
     "ҫывӑр-"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "şıx",
+   "alt": "Çuvaşçada \"bağlamak\"",
+   "yol": "sozluk/kok/şıx.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "şıx",
+    "ҫых-"
    ]
   },
   {

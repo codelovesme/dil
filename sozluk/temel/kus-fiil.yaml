@@ -1,0 +1,53 @@
+kavram: kus-
+ingilizce: vomit
+anlam: Kusmak.
+dogrulandi: false
+kokler:
+- kok: kus
+  koken: türkçe
+  ana_turkce: '*kus-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kus.yaml).
+  tarihi:
+    qwm: cus
+    otk: kus
+    xqa: kus
+    chg: kus
+  bicimler:
+    aze: kus
+    bak: kos
+    chv:
+      bicim: xăs
+      miras: true
+    crh: kus
+    gag: kus
+    krc: kus
+    kdr: kus
+    kaa: kus
+    kaz: kŭs
+    kjh: xus
+    klj:
+      bicim: kus
+      miras: true
+    kir: kus
+    kum: kus
+    clw: kus
+    nog: kus
+    atv: kus
+    ybe: kus
+    alt: kus
+    tat: kos
+    kim: kuˁs
+    tur: kus
+    tuk: gus
+    tyv: kus
+    uig: kus
+    uzb: kus
+- kok: xotuolaa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xotuolaa.yaml).
+  bicimler:
+    sah: xotuolaa
+yok: []
+tarihi_yok: []

@@ -1,0 +1,62 @@
+kavram: tükür-
+ingilizce: spit
+anlam: Tükürmek.
+dogrulandi: false
+kokler:
+- kok: tükür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tükür.yaml).
+  bicimler:
+    aze: tüpür
+    bak: tökör
+    crh: tükür
+    gag: tükür
+    krc: tükür
+    kdr: tikir
+    kaa: tükir
+    kaz: tükir
+    kjh: tükür
+    kir: tükür
+    kum: tükür
+    clw: tükür
+    nog: tükir
+    atv: tükür
+    slr: tüxor
+    cjs: tükkür
+    alt: tükür
+    tat: töker
+    kim: tükkür
+    tur: tükür
+    tuk: tüykür
+    uig: tükür
+    uzb: tupur
+    sty-baraba: tökür
+- kok: sod
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sod.yaml).
+  tarihi:
+    otk: sod
+    xqa: sod
+  bicimler: {}
+- kok: sur
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sur.yaml).
+  bicimler:
+    chv: sur
+- kok: tüdeste
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tüdeste.yaml).
+  bicimler:
+    ybe: tüdeste
+- kok: sillee
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sillee.yaml).
+  bicimler:
+    sah: sillee
+yok: []
+tarihi_yok: []

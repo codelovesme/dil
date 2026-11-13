@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yalda
+anlam: Kırım Tatarcası ve Nogaycada "yüzmek"
+koken: türkçe
+kavramlar:
+- yuz-fiil
+etimoloji: yalda- ; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: yalda, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yalda, dil: nog, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine yüs (yüz)
+  atv: yerine yüs (yüz)
+  alt: yerine düs (yüz)
+  aze: yerine üz (yüz)
+  bak: yerine yöz (yüz)
+  gag: yerine üz (yüz)
+  kaa: yerine jüz (yüz)
+  krc: yerine cüz (yüz)
+  kdr: yerine yüz (yüz)
+  kaz: yerine jüz (yüz)
+  kjh: yerine çüs (yüz)
+  kir: yerine süz (yüz)
+  kum: yerine yüz (yüz)
+  clw: yerine çüs (yüz)
+  cjs: yerine çüs (yüz)
+  tat: yerine yöz (yüz)
+  tur: yerine yüz (yüz)
+  tuk: yerine yüz (yüz)
+  uig: yerine üz (yüz)
+  uzb: yerine suz (yüz)
+  slr: yerine çum (çom)
+  kim: yerine eşt (eşt)
+  tyv: yerine eşt (eşt)
+  klj: yerine kirun (kirun)
+tarihi_yok: {}

@@ -1,0 +1,66 @@
+kavram: yüz-
+ingilizce: swim
+anlam: Yüzmek (suda).
+dogrulandi: false
+kokler:
+- kok: yüz
+  koken: türkçe
+  ana_turkce: '*yüŕ-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yüz.yaml).
+  tarihi:
+    qwm: yüz
+    otk: yüz
+    xqa: yüz
+    chg: yüz
+  bicimler:
+    aze: üz
+    bak: yöz
+    gag: üz
+    krc: cüz
+    kdr: yüz
+    kaa: jüz
+    kaz: jüz
+    kjh: çüs
+    kir: süz
+    kum: yüz
+    clw: çüs
+    atv: yüs
+    cjs: çüs
+    alt: düs
+    tat: yöz
+    tur: yüz
+    tuk: yüz
+    uig: üz
+    uzb: suz
+    sty-baraba: yüs
+- kok: yalda
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yalda.yaml).
+  bicimler:
+    crh: yalda
+    nog: yalda
+- kok: çom
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çom.yaml).
+  bicimler:
+    slr: çum
+- kok: eşt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/eşt.yaml).
+  bicimler:
+    kim: eşt
+    tyv: eşt
+- kok: kirun
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kirun.yaml).
+  bicimler:
+    klj:
+      bicim: kirun
+      miras: true
+yok: []
+tarihi_yok: []

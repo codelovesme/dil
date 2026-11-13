@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 157 kavram, 19 tanesi ayrışıyor.
+Toplam 162 kavram, 19 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@ Toplam 157 kavram, 19 tanesi ayrışıyor.
 | ateş | ot *(ot)* | ot *(ot)* | ot *(ot)* | UYUŞUYOR |
 | ay | ay *(ay)* | ay *(ay)* | ay *(ay)* | UYUŞUYOR |
 | ayak | ayak *(adak)* | adak *(adak)* | ayak *(adak)* | UYUŞUYOR |
+| bağla- | bağla *(bağla)* | ba *(bağla)* | bağla *(bağla)* | UYUŞUYOR |
 | bak- | kara *(kara)* | bak *(bak)* | bak *(bak)* | AYRIŞIYOR |
 | balık | balık *(balık)* | balık *(balık)* | balık *(balık)* | UYUŞUYOR |
 | baş | baş *(baş)* | baş *(baş)* | baş *(baş)* | UYUŞUYOR |
@@ -100,6 +101,7 @@ Toplam 157 kavram, 19 tanesi ayrışıyor.
 | kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
 | kızıl | kızıl *(kızıl)* | kızıl *(kızıl)* | kızıl *(kızıl)* | UYUŞUYOR |
 | kök | tamır *(tamır)* | tamır *(tamır)* | kök *(kök-bitki)* | AYRIŞIYOR |
+| kork- | kork *(kork)* | kork *(kork)* | kork *(kork)* | UYUŞUYOR |
 | koş- | yügür *(yügür)* | çap *(çap)* | yügür *(yügür)* | AYRIŞIYOR |
 | kötü | yaman *(yaman)* | yaman *(yaman)* | yaman *(yaman)* | UYUŞUYOR |
 | küçük | kiçig *(kiçig)* | kiçig *(kiçig)* | kiçik *(kiçig)* | UYUŞUYOR |
@@ -107,6 +109,7 @@ Toplam 157 kavram, 19 tanesi ayrışıyor.
 | kulak | kulak *(kulkak)* | kulkak *(kulkak)* | kulak *(kulkak)* | UYUŞUYOR |
 | kum | kum *(kum)* | kum *(kum)* | kum *(kum)* | UYUŞUYOR |
 | kurt (böcek) | kurt *(kurt)* | kurt *(kurt)* | kurt *(kurt)* | UYUŞUYOR |
+| kus- | kus *(kus)* | kus *(kus)* | kus *(kus)* | UYUŞUYOR |
 | kuş | kuş *(kuş)* | kuş *(kuş)* | kuş *(kuş)* | UYUŞUYOR |
 | kuyruk | kuyruk *(kudruk)* | kudruk *(kudruk)* | kuyruk *(kudruk)* | UYUŞUYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
@@ -135,6 +138,7 @@ Toplam 157 kavram, 19 tanesi ayrışıyor.
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
 | tohum | uruk *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | UYUŞUYOR |
 | toz | toz *(toz)* | toz *(toz)* | toz *(toz)* | UYUŞUYOR |
+| tükür- | tükür *(tükür)* | tükür *(tükür)* | tükür *(tükür)* | UYUŞUYOR |
 | dur-/tur- | tur *(tur)* | tur *(tur)* | tur *(tur)* | UYUŞUYOR |
 | tut- | tut *(tut)* | tut *(tut)* | tut *(tut)* | UYUŞUYOR |
 | tüy | tük *(tük)* | tü *(tük)* | tüy *(tük)* | UYUŞUYOR |
@@ -165,3 +169,4 @@ Toplam 157 kavram, 19 tanesi ayrışıyor.
 | yumurta | yumurtğa *(yumurtga)* | yumurtğa *(yumurtga)* | yumurta *(yumurtga)* | UYUŞUYOR |
 | yürek | yürek *(yürek)* | yürek *(yürek)* | yürek *(yürek)* | UYUŞUYOR |
 | yürü- | yorı *(yorı)* | yorı *(yorı)* | yürü *(yorı)* | UYUŞUYOR |
+| yüz- | yüz *(yüz)* | yüz *(yüz)* | yüz *(yüz)* | UYUŞUYOR |
