@@ -11,14 +11,14 @@
 
 ## Kapsam
 
-**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 6/7 · tanık 65 (kaynaklı %75) · kaynak 11 · yabancı kayıt 4**
+**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %76) · kaynak 11 · yabancı kayıt 4**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (5 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
 - ✓ Volga Bulgarcası, 10-14. yy (1 tanık)
 - ✓ Harezm ve Altın Orda Türkçesi, 13-14. yy (2 tanık)
 - ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (4 tanık)
-- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✓ Eski Anadolu Türkçesi, 13-15. yy (1 tanık)
 - ✓ Çağatayca, 15-19. yy (1 tanık)
 - ✓ Osmanlıca, 16-19. yy (1 tanık)
 - ✓ 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy (1 tanık)
@@ -43,6 +43,7 @@ Tanığı olmayan diller: İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyo
 | 13. yy | Karahanlıca |  | **män** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **män** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 50, 9 |
 | 13. yy | Harezm Türkçesi ve Çağatayca | Harezm | **bän / män** |  | Harezm Türkçesi metinleri |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 |
+| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **bän** | بن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **men** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [gronbech-kuman](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Grønbech s. 163 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **män** |  | Kitâbü'l-İdrâk, Bulgatü'l-Müştâk, et-Tuhfetü'z-Zekiyye | Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça) 🌍 | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **män** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [najip-xiv](../../kaynaklar/KAYNAKLAR.md#najip-xiv) — s. 346 |
@@ -67,6 +68,7 @@ Notlar:
 - 11. yy, Kıpçak kolu (Kıpçak): Kâşgarlı Kıpçakları da b-'li söyleyenler arasında sayar; sonraki Kıpçak kaynakları m-'lidir.
 - 13. yy, Karahanlıca: Zaman zaman mėn yazımı.
 - 13. yy, Harezm Türkçesi ve Çağatayca: İki biçim yan yana kullanılır.
+- 13.–15. yy, Eski Anadolu Türkçesi: Eki -vän biçiminde de görülür.
 - 14. yy, Kuman-Kıpçakça: Kıpçak kaynaklarında b-/m- yer yer değişir; Bulgat'ta benim de geçer.
 - 14. yy, Oğuz kolu (Türkmen): Ebû Hayyân Kıpçakça män'e karşılık Türkmenlerin bän dediğini not eder.
 - 14. yy, Azerbaycan Türkçesi: Azerbaycan Türklerinin söz başındaki m-'yi b- yaptığını kaydeder; bugün Azerbaycan Türkçesinde mən.
@@ -124,7 +126,7 @@ Notlar:
 
 ## Kaynakça
 
-- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 29 tanık
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 30 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 21 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 4 tanık
 - [Mirza Mehdi Han — Senglâh (1759-60; Clauson 1960 tıpkıbasım)](../../kaynaklar/KAYNAKLAR.md#senglah) — 2 tanık

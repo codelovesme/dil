@@ -171,6 +171,14 @@ taniklar:
     atif: Melioranskiy 8, 2
     kaydeden: İbn Mühennâ (Arapça sözlük)
     not: Azerbaycan Türklerinin söz başındaki m-'yi b- yaptığını kaydeder; bugün Azerbaycan Türkçesinde mən.
+  - dil: eski-anadolu
+    yer: Anadolu
+    yuzyil: 13-15
+    bicim: bän
+    yazi: بن
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    not: Eki -vän biçiminde de görülür.
   - dil: chg
     yuzyil: 15-18
     bicim: män

@@ -1,0 +1,74 @@
+kavram: biz
+ingilizce: we
+anlam: Birinci çoğul şahıs zamiri; konuşan ve onunla birlikte olanlar.
+dogrulandi: false
+kokler:
+  - kok: biz
+    koken: türkçe
+    ana_turkce: "*biŕ"
+    kaynak: wiktionary-ana-turkce; clauson
+    not: >-
+      Tanıklar ve kaynaklar sözlük maddesinde (sozluk/kok/biz.yaml). Düzenli ses
+      denklikleri: Çuvaşça -r (epir), Sayan ve Altay -s (bis), Hakas, Şor ve Kuzey Altay
+      p- (pis), Sahaca ve Dolganca genişlemiş biçim (bihigi), Tatarca ve Başkurtça i > e
+      (bez). Salarca piser biz'e çokluk eki almış türevdir. Sibirya Tatarcası, İli
+      Türkçesi, Çulımca, Fuyu Kırgızcası, Duhaca ve Soyotça bilinçli olarak boş bırakıldı.
+    tarihi:
+      otk: biz            # Orhon 𐰋𐰃𐰕; Eski Uygurca biz
+      xqa: biz            # DLT I 325
+      eski-anadolu: biz
+      qwm: biz            # Houtsma, Codex Cumanicus, İdrâk
+      chg: biz
+    bicimler:
+      # --- Oğur
+      chv: { bicim: epir, miras: true }     # эпир
+      # --- Halaç
+      klj: { bicim: biz, miras: true }   # temel zamir; Wiktionary Argu kolunun doğrudan devamı sayar
+      # --- Oğuz
+      tur: biz
+      tur-ege: biz
+      tur-teke: biz
+      tur-orta: biz
+      tur-bkaradeniz: biz
+      tur-dkaradeniz: biz
+      tur-erzurum: biz
+      tur-ahiska: biz
+      tur-drumeli: biz
+      tur-brumeli: biz
+      tur-kibris: biz
+      gag: biz
+      bgx: biz
+      aze: biz
+      kerkuk: biz
+      qxq: biz
+      tuk: biz
+      kmz: biz
+      slr: piser                         # biz + -er
+      # --- Kıpçak
+      tat: bez                           # без
+      bak: bez                           # беҙ
+      crh: biz
+      kum: biz
+      krc: biz
+      kdr: biz
+      jct: biz
+      uum: biz
+      kaz: biz                           # біз
+      kaa: biz
+      nog: biz
+      kir: biz
+      alt: bis                           # бис
+      # --- Karluk
+      uzb: biz
+      uig: biz                           # بىز
+      # --- Sibirya
+      sah: bihigi                        # биһиги
+      dlg: bihigi
+      ybe: pız
+      tyv: bis
+      kim: bis
+      kjh: pis
+      cjs: pis
+      atv: pis
+yok: []
+tarihi_yok: []

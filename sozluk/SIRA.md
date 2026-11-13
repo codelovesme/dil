@@ -9,7 +9,7 @@ aşamasında ele alınacak.
 
 ## 1. Zamirler ve soru sözleri
 
-- [x] [ben](temel/ben.yaml) · [x] [sen](temel/sen.yaml) · [x] [o](temel/o.yaml) · [ ] biz · [ ] siz · [ ] onlar
+- [x] [ben](temel/ben.yaml) · [x] [sen](temel/sen.yaml) · [x] [o](temel/o.yaml) · [x] [biz](temel/biz.yaml) · [ ] siz · [ ] onlar
 - [ ] bu · [ ] şu/o (işaret) · [ ] kendi
 - [ ] kim · [ ] ne · [ ] nere · [ ] nasıl · [ ] kaç · [ ] niçin
 - [ ] hep/bütün · [ ] her · [ ] bazı · [ ] hiç

@@ -6,4 +6,5 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 
 | Kök | Anlam | Seviye | Diller | Ağızlar | Duraklar | Tanık | Kaynaklı | Kaynak | En eski | Eksik duraklar |
 |---|---|---|---|---|---|---|---|---|---|---|
-| [ben](kok/ben.md) | birinci tekil şahıs zamiri ("ben") | 0 | 35/40 | 10/89 | 6/7 | 65 | %75 | 11 | 8. yy | Eski Anadolu Türkçesi |
+| [ben](kok/ben.md) | birinci tekil şahıs zamiri ("ben") | 0 | 35/40 | 10/89 | 7/7 | 66 | %76 | 11 | 8. yy | — |
+| [biz](kok/biz.md) | birinci çoğul şahıs zamiri ("biz") | 0 | 34/40 | 10/89 | 7/7 | 57 | %70 | 9 | 8. yy | — |

@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 7,
-  "kok": 1,
-  "tanik": 65,
+  "kavram": 8,
+  "kok": 2,
+  "tanik": 123,
   "kaynak": 168,
   "dil": 40
  },
@@ -55,8 +55,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/biz.md",
+   "baslik": "biz",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/temel/ben.md",
    "baslik": "ben",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/biz.md",
+   "baslik": "biz",
    "tur": "kavram"
   },
   {
@@ -104,6 +114,23 @@
     "men",
     "min",
     "män"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "biz",
+   "alt": "we",
+   "yol": "sozluk/temel/biz.md",
+   "ozet": "Ortak dil: biz · Ana Türkçe tahmini: biz · En çok kişinin anladığı: biz",
+   "anahtar": [
+    "bez",
+    "bihigi",
+    "bis",
+    "biz",
+    "epir",
+    "pis",
+    "piser",
+    "pız"
    ]
   },
   {
@@ -222,7 +249,7 @@
    "ad": "ben",
    "alt": "birinci tekil şahıs zamiri (\"ben\")",
    "yol": "sozluk/kok/ben.md",
-   "ozet": "65 tanık, en eski 8. yy",
+   "ozet": "66 tanık, en eski 8. yy",
    "anahtar": [
     "ben",
     "bän",
@@ -236,12 +263,46 @@
     "мин",
     "мэн",
     "эпӗ",
+    "بن",
     "بَنْ",
     "من",
     "مَنْ",
     "مەن",
     "𐰋𐰤",
     "𐽹𐽺"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "biz",
+   "alt": "birinci çoğul şahıs zamiri (\"biz\")",
+   "yol": "sozluk/kok/biz.md",
+   "ozet": "57 tanık, en eski 8. yy",
+   "anahtar": [
+    "bez",
+    "bihigi",
+    "bis",
+    "biz",
+    "bīz",
+    "epir",
+    "pis",
+    "piser",
+    "pız",
+    "без",
+    "беҙ",
+    "биз",
+    "бис",
+    "биъс",
+    "биһиги",
+    "біз",
+    "пiс",
+    "пис",
+    "эпир",
+    "بز",
+    "بىز",
+    "بِزْ",
+    "بیز",
+    "𐰋𐰃𐰕"
    ]
   },
   {
