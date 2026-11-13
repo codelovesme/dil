@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 13,
-  "kok": 12,
-  "tanik": 365,
+  "kavram": 14,
+  "kok": 17,
+  "tanik": 402,
   "kaynak": 168,
   "dil": 40
  },
@@ -65,6 +65,21 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/hara.md",
+   "baslik": "hara",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kanda.md",
+   "baslik": "kanda",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kayda.md",
+   "baslik": "kayda",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kim.md",
    "baslik": "kim",
    "tur": "kok"
@@ -90,6 +105,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/nerede.md",
+   "baslik": "nerede",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/olar.md",
    "baslik": "olar",
    "tur": "kok"
@@ -107,6 +127,11 @@
   {
    "yol": "sozluk/kok/çü.md",
    "baslik": "çü",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ăşta.md",
+   "baslik": "ăşta",
    "tur": "kok"
   },
   {
@@ -142,6 +167,11 @@
   {
    "yol": "sozluk/temel/ne.md",
    "baslik": "ne",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/nere.md",
+   "baslik": "nere",
    "tur": "kavram"
   },
   {
@@ -310,6 +340,36 @@
     "tuoh",
     "çü",
     "çüü"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "nere",
+   "alt": "where",
+   "yol": "sozluk/temel/nere.md",
+   "ozet": "Ortak dil: kayda · Ana Türkçe tahmini: kayuda · En çok kişinin anladığı: kayda",
+   "anahtar": [
+    "? kayda",
+    "hanna",
+    "harada",
+    "kaa",
+    "kajda",
+    "kanda",
+    "kani",
+    "kanna",
+    "kayda",
+    "kayerda",
+    "kayt",
+    "kayta",
+    "kayuda",
+    "kayza",
+    "ne yerde",
+    "nerde",
+    "nerede",
+    "neredi",
+    "nirede",
+    "xayda",
+    "ăşta"
    ]
   },
   {
@@ -500,6 +560,53 @@
   },
   {
    "t": "kok",
+   "ad": "hara",
+   "alt": "Azerbaycan Türkçesinde \"nere\"",
+   "yol": "sozluk/kok/hara.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "harada"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kanda",
+   "alt": "\"nerede?\"; kanı \"hani, nerede\" gövdesinden",
+   "yol": "sozluk/kok/kanda.md",
+   "ozet": "5 tanık, en eski 8. yy",
+   "anahtar": [
+    "hanna",
+    "kaa",
+    "kanda",
+    "kani",
+    "kanna",
+    "ханна",
+    "قېنى"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kayda",
+   "alt": "\"nerede?\"; kayu \"hangi\" gövdesine bulunma eki",
+   "yol": "sozluk/kok/kayda.md",
+   "ozet": "23 tanık, en eski 8. yy",
+   "anahtar": [
+    "? kayda",
+    "kajda",
+    "kayda",
+    "kayerda",
+    "kayt",
+    "kayta",
+    "kayuda",
+    "kayza",
+    "qayerda",
+    "xayda",
+    "хайда",
+    "ҡайҙа"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kim",
    "alt": "kişiyi soran soru zamiri (\"kim\"); eski dilde ilgi zamiri ve bağlaç da",
    "yol": "sozluk/kok/kim.md",
@@ -577,6 +684,20 @@
     "ниме",
     "эмне",
     "نېمە"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "nerede",
+   "alt": "\"nerede?\"; ne + yer + bulunma eki",
+   "yol": "sozluk/kok/nerede.md",
+   "ozet": "7 tanık, en eski günümüz",
+   "anahtar": [
+    "ne yerde",
+    "nerde",
+    "nerede",
+    "neredi",
+    "nirede"
    ]
   },
   {
@@ -660,6 +781,17 @@
     "çü",
     "çüü",
     "чүү"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ăşta",
+   "alt": "Çuvaşçada \"nerede\"",
+   "yol": "sozluk/kok/ăşta.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "ăşta",
+    "ӑҫта"
    ]
   },
   {

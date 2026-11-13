@@ -1,0 +1,75 @@
+kavram: nere
+ingilizce: where
+anlam: Yeri soran soru sözü (nerede?).
+dogrulandi: false
+kokler:
+- kok: kayda
+  koken: türkçe
+  ana_turkce: '*kayu-da'
+  kaynak: savelyev-turkic; clauson
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kayda.yaml).
+  tarihi:
+    otk: kayuda
+    qwm: kayda
+  bicimler:
+    bak: kayza
+    crh: kayda
+    krc: kayda
+    kdr: kayda
+    kaa: '? kayda'
+    kaz: kayda
+    kjh: xayda
+    kir: kayda
+    kum: kayda
+    clw: kayda
+    nog: kajda
+    atv: kayt
+    slr: kayda
+    ybe: kayta
+    cjs: kayda
+    alt: kayda
+    tat: kayda
+    kim: kayda
+    tyv: kayda
+    uzb: kayerda
+    sty-baraba: kayda
+- kok: nerede
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Oğuz dillerinin soru sözü.
+  bicimler:
+    crh:
+      bicim: ne yerde
+      tercih: 0.5
+    gag: neredi
+    kum:
+      bicim: ne yerde
+      tercih: 0.5
+    tur: nerede
+    tur-ege: nerede
+    tur-orta: nerde
+    tuk: nirede
+- kok: kanda
+  koken: türkçe
+  kaynak: savelyev-turkic; clauson
+  tarihi:
+    otk: kanda
+  bicimler:
+    dlg: kanna
+    klj:
+      bicim: kaa
+      miras: true
+    uig: kani
+    sah: hanna
+- kok: hara
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    aze: harada
+- kok: ăşta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    chv: ăşta
+yok: []
+tarihi_yok: []
