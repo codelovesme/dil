@@ -200,6 +200,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [uyu-](temel/uyu.md) | sleep | **udu** | **udı** | **uyu** | uyuşuyor |
 | [uzak](temel/uzak.md) | far | **ırak** | **ırak** | **uzak** | ayrişiyor |
 | [uzun](temel/uzun.md) | long | **uzun** | **uzun** | **uzun** | uyuşuyor |
+| [var](temel/var.md) | existent, there is | **bar** | **bar** | **bar** | uyuşuyor |
 | [ver-](temel/ver.md) | give | **ber** | **ber** | **ber** | uyuşuyor |
 | [vur-](temel/vur.md) | hit, beat | **ur** | **şap** | **ur** | ayrişiyor |
 | [yağ](temel/yag.md) | fat, grease | **yağ** | **yağ** | **yağ** | uyuşuyor |
@@ -223,6 +224,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [yılan](temel/yilan.md) | snake | **yılan** | **yılan** | **yılan** | uyuşuyor |
 | [yıldız](temel/yildiz.md) | star | **yultuz** | **yultuz** | **yulduz** | uyuşuyor |
 | [yirmi](temel/yirmi.md) | twenty | **yigirmi** | **yegirmi** | **yigirmi** | uyuşuyor |
+| [yok](temel/yok.md) | nonexistent, there is not | **yok** | **yok** | **yok** | uyuşuyor |
 | [yumurta](temel/yumurta.md) | egg | **yumurtğa** | **yumurtğa** | **yumurta** | uyuşuyor |
 | [yumuşak](temel/yumusak.md) | soft | **yumşak** | **yumşak** | **yumşak** | uyuşuyor |
 | [yürek](temel/yurek.md) | heart | **yürek** | **yürek** | **yürek** | uyuşuyor |

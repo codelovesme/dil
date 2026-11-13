@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 224 kavram, 32 tanesi ayrışıyor.
+Toplam 226 kavram, 32 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -202,6 +202,7 @@ Toplam 224 kavram, 32 tanesi ayrışıyor.
 | uyu- | udu *(udı)* | udı *(udı)* | uyu *(udı)* | UYUŞUYOR |
 | uzak | ırak *(ırak)* | ırak *(ırak)* | uzak *(uzak)* | AYRIŞIYOR |
 | uzun | uzun *(uzun)* | uzun *(uzun)* | uzun *(uzun)* | UYUŞUYOR |
+| var | bar *(bar-var)* | bar *(bar-var)* | bar *(bar-var)* | UYUŞUYOR |
 | ver- | ber *(ber)* | ber *(ber)* | ber *(ber)* | UYUŞUYOR |
 | vur- | ur *(ur)* | şap *(çap)* | ur *(ur)* | AYRIŞIYOR |
 | yağ | yağ *(yağ)* | yağ *(yağ)* | yağ *(yağ)* | UYUŞUYOR |
@@ -225,6 +226,7 @@ Toplam 224 kavram, 32 tanesi ayrışıyor.
 | yılan | yılan *(yılan)* | yılan *(yılan)* | yılan *(yılan)* | UYUŞUYOR |
 | yıldız | yultuz *(yultuz)* | yultuz *(yultuz)* | yulduz *(yultuz)* | UYUŞUYOR |
 | yirmi | yigirmi *(yegirmi)* | yegirmi *(yegirmi)* | yigirmi *(yegirmi)* | UYUŞUYOR |
+| yok | yok *(yok)* | yok *(yok)* | yok *(yok)* | UYUŞUYOR |
 | yumurta | yumurtğa *(yumurtga)* | yumurtğa *(yumurtga)* | yumurta *(yumurtga)* | UYUŞUYOR |
 | yumuşak | yumşak *(yımşak)* | yumşak *(yımşak)* | yumşak *(yımşak)* | UYUŞUYOR |
 | yürek | yürek *(yürek)* | yürek *(yürek)* | yürek *(yürek)* | UYUŞUYOR |

@@ -1,0 +1,50 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yok
+anlam: '"yok (bulunmayan)"'
+koken: türkçe
+ana_turkce: '*yōk'
+kavramlar:
+- yok
+etimoloji: Ana Türkçe *yōk 'yok'. Bütün kollarda (yok, yox, jok, yuk, çok; Saha suox); Çuvaşça
+  şuk.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: yok
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: یوق
+  - {bicim: yox, dil: aze, kaynak: wiktionary-ana-turkce}
+  - {bicim: yuk, dil: bak, kaynak: wiktionary-ana-turkce, yazi: юҡ}
+  - {bicim: şuk, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫук}
+  - {bicim: yok, dil: crh, kaynak: wiktionary-ana-turkce, yazi: yoq}
+  - {bicim: huok, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һуок}
+  - {bicim: yok, dil: gag, kaynak: bilgi}
+  - {bicim: cok, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джокъ}
+  - {bicim: jok, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: joq}
+  - {bicim: jok, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жоқ}
+  - {bicim: çox, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чох}
+  - {bicim: yook, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: jok, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жок}
+  - {bicim: yok, dil: kum, kaynak: wiktionary-ana-turkce, yazi: ёкъ}
+  - {bicim: yok, dil: nog, kaynak: wiktionary-ana-turkce, yazi: йок}
+  - {bicim: çok, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чок}
+  - {bicim: yox, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: cok, dil: ybe, kaynak: wiktionary-ana-turkce}
+  - {bicim: çok, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чок}
+  - {bicim: yok, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јок}
+  - {bicim: yuk, dil: tat, kaynak: wiktionary-ana-turkce, yazi: юк}
+  - {bicim: çok, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чоӄ}
+  - {bicim: yok, dil: tur, kaynak: bilgi}
+  - {bicim: yook, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýōk}
+  - {bicim: çok, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чок}
+  - {bicim: yok, dil: uig, kaynak: bilgi, yazi: يوق}
+  - {bicim: yok, dil: uig, kaynak: bilgi, yazi: يوق}
+  - {bicim: yök, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: yoʻq}
+  - {bicim: suox, dil: sah, kaynak: wiktionary-ana-turkce, yazi: суох}
+  - {bicim: yox, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йох}
+
+yok: {}
+tarihi_yok: {}

@@ -1,0 +1,45 @@
+kavram: yok
+ingilizce: nonexistent, there is not
+anlam: Yok (bulunmayan).
+dogrulandi: false
+kokler:
+- kok: yok
+  koken: türkçe
+  ana_turkce: '*yōk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yok.yaml).
+  bicimler:
+    aze: yox
+    bak: yuk
+    chv:
+      bicim: şuk
+      miras: true
+    crh: yok
+    dlg: huok
+    gag: yok
+    krc: cok
+    kaa: jok
+    kaz: jok
+    kjh: çox
+    klj:
+      bicim: yook
+      miras: true
+    kir: jok
+    kum: yok
+    nog: yok
+    atv: çok
+    slr: yox
+    ybe: cok
+    cjs: çok
+    alt: yok
+    tat: yuk
+    kim: çok
+    tur: yok
+    tuk: yook
+    tyv: çok
+    uig: yok
+    uzb: yök
+    sah: suox
+    uum: yox
+yok: []
+tarihi_yok: []

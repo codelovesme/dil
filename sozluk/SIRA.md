@@ -21,7 +21,7 @@ aşamasında ele alınacak.
 
 ## 3. Varlık, olumsuzluk, bağlaçlar
 
-- [ ] var · [ ] yok · [ ] değil · [ ] evet · [ ] hayır
+- [x] [var](temel/var.yaml) · [x] [yok](temel/yok.yaml) · [ ] değil · [ ] evet · [ ] hayır
 - [x] [ile](temel/ile.yaml) · [ ] için · [ ] gibi · [ ] kadar · [ ] sonra · [ ] önce · [ ] da/de (dahi)
 
 ## 4. Temel fiiller

@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 224,
-  "kok": 643,
-  "tanik": 7283,
+  "kavram": 226,
+  "kok": 645,
+  "tanik": 7350,
   "kaynak": 168,
   "dil": 40
  },
@@ -277,6 +277,11 @@
   {
    "yol": "sozluk/kok/balık.md",
    "baslik": "balık",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bar-var.md",
+   "baslik": "bar-var",
    "tur": "kok"
   },
   {
@@ -2590,6 +2595,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/yok.md",
+   "baslik": "yok",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/yorı.md",
    "baslik": "yorı",
    "tur": "kok"
@@ -4245,6 +4255,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/var.md",
+   "baslik": "var",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/ver.md",
    "baslik": "ver-",
    "tur": "kavram"
@@ -4357,6 +4372,11 @@
   {
    "yol": "sozluk/temel/yirmi.md",
    "baslik": "yirmi",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/yok.md",
+   "baslik": "yok",
    "tur": "kavram"
   },
   {
@@ -8620,6 +8640,23 @@
   },
   {
    "t": "kavram",
+   "ad": "var",
+   "alt": "existent, there is",
+   "yol": "sozluk/temel/var.md",
+   "ozet": "Ortak dil: bar · Ana Türkçe tahmini: bar · En çok kişinin anladığı: bar",
+   "anahtar": [
+    "baar",
+    "bar",
+    "bor",
+    "par",
+    "pur",
+    "vaar",
+    "var",
+    "var, vār"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "ver-",
    "alt": "give",
    "yol": "sozluk/temel/ver.md",
@@ -9182,6 +9219,27 @@
     "çibirge",
     "çigirbe",
     "şirĕm"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "yok",
+   "alt": "nonexistent, there is not",
+   "yol": "sozluk/temel/yok.md",
+   "ozet": "Ortak dil: yok · Ana Türkçe tahmini: yok · En çok kişinin anladığı: yok",
+   "anahtar": [
+    "cok",
+    "huok",
+    "jok",
+    "suox",
+    "yok",
+    "yook",
+    "yox",
+    "yuk",
+    "yök",
+    "çok",
+    "çox",
+    "şuk"
    ]
   },
   {
@@ -10025,6 +10083,30 @@
     "pulă",
     "палых",
     "пулӑ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bar-var",
+   "alt": "\"var (bulunan)\"",
+   "yol": "sozluk/kok/bar-var.md",
+   "ozet": "37 tanık, en eski 8. yy",
+   "anahtar": [
+    "baar",
+    "bar",
+    "bor",
+    "bār",
+    "par",
+    "pur",
+    "vaar",
+    "var",
+    "var, vār",
+    "баар",
+    "бар",
+    "пар",
+    "пур",
+    "بار",
+    "وار"
    ]
   },
   {
@@ -17296,6 +17378,48 @@
     "сытыы",
     "чидиг",
     "ҫивӗч"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "yok",
+   "alt": "\"yok (bulunmayan)\"",
+   "yol": "sozluk/kok/yok.md",
+   "ozet": "30 tanık, en eski 16. yy",
+   "anahtar": [
+    "cok",
+    "huok",
+    "jok",
+    "joq",
+    "suox",
+    "yok",
+    "yook",
+    "yoq",
+    "yox",
+    "yoʻq",
+    "yuk",
+    "yök",
+    "çok",
+    "çox",
+    "ýōk",
+    "şuk",
+    "джокъ",
+    "жок",
+    "жоқ",
+    "йок",
+    "йох",
+    "суох",
+    "чок",
+    "чох",
+    "чоӄ",
+    "юк",
+    "юҡ",
+    "ёкъ",
+    "јок",
+    "ҫук",
+    "һуок",
+    "يوق",
+    "یوق"
    ]
   },
   {
