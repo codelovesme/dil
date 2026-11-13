@@ -1,0 +1,58 @@
+kavram: uç-
+ingilizce: fly
+anlam: Uçmak.
+dogrulandi: false
+kokler:
+- kok: uç
+  koken: türkçe
+  ana_turkce: '*uč-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uç.yaml).
+  tarihi:
+    qwm: uç
+    otk: uç
+    eski-anadolu: uçmak
+    xqa: uç
+    chg: uç
+  bicimler:
+    aze: uç
+    bak: os
+    chv:
+      bicim: vĕş
+      miras: true
+    crh: uç
+    gag: uç
+    krc: uç
+    kdr: uç
+    kaa: uş
+    kaz: uş
+    kjh: uçux
+    klj:
+      bicim: uç
+      miras: true
+    kir: uç
+    kum: uç
+    clw: uç
+    nog: uş
+    atv: uç
+    slr: uç
+    ybe: uş
+    cjs: uçuk
+    alt: uç
+    tat: oç
+    kim: uş
+    tur: uç
+    tuk: uç
+    tyv: uş
+    uig: uç
+    uzb: uç
+    sty-baraba: oç
+- kok: köt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köt.yaml).
+  bicimler:
+    dlg: köt
+    sah: köt
+yok: []
+tarihi_yok: []

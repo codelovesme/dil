@@ -5,19 +5,19 @@
 - **Anlam:** "vurmak, çarpmak"
 - **Ana Türkçe:** *sok-
 - **Köken:** türkçe
-- **Kavramlar:** [vur](../temel/vur.yaml)
+- **Kavramlar:** [vur](../temel/vur.yaml), [ufle](../temel/ufle.yaml)
 - **Etimoloji:** sok- 'vurmak, çarpmak' (Türkiye Türkçesinde 'sokmak'); Kıpçak, Kırgız, Altay ve Sibirya dillerinde asıl 'vurmak' fiili.
-- **En eski tanık:** günümüz
+- **En eski tanık:** 14. yy
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 10 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 12 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
 - · Volga Bulgarcası, 10-14. yy
 - ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
-- ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
+- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (1 tanık)
 - ✗ Eski Anadolu Türkçesi, 13-15. yy
 - ✗ Çağatayca, 15-19. yy
 - ✗ Osmanlıca, 16-19. yy
@@ -26,6 +26,14 @@
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **sok** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
@@ -37,6 +45,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Kıpçak kolu | Nogayca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **sok** | сок- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kıpçak kolu | Kırgızca |  | **sok** |  | esmek (rüzgâr) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Güney Altayca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Tuvaca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle. |
 | Sibirya kolu | Çulımca |  | **sok** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -64,4 +73,4 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 10 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 12 tanık

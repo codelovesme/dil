@@ -1,0 +1,72 @@
+kavram: ısır-
+ingilizce: bite
+anlam: Isırmak.
+dogrulandi: false
+kokler:
+- kok: ısır
+  koken: türkçe
+  ana_turkce: '*ïsïr-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ısır.yaml).
+  bicimler:
+    dlg: ıtır
+    kjh: ızır
+    cjs: ızır
+    kim: ısır
+    tur: ısır
+    tyv: ızır
+    sah: ıtır
+  tarihi:
+    xqa: ısır
+    qwm: ısır
+    chg: ısur
+- kok: tişle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tişle.yaml).
+  tarihi:
+    qwm: tisla
+    otk: tişle
+    xqa: tişle
+    chg: tişle
+  bicimler:
+    aze: dişlä
+    bak: teşlä
+    crh: tişle
+    kdr: tişle
+    kaa: tisle
+    kaz: tiste
+    kir: tiştö
+    nog: tisle
+    atv: tişte
+    slr: çişle
+    ybe: teste
+    alt: tişte
+    tat: teşlä
+    tuk: dişle
+    uig: çişlä
+    uzb: tişla
+- kok: kap
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kap.yaml).
+  bicimler:
+    krc: kap
+    kum: xap
+    clw: kap
+- kok: tala
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tala.yaml).
+  bicimler:
+    gag: dala
+- kok: şırt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şırt.yaml).
+  bicimler:
+    chv:
+      bicim: şırt
+      miras: true
+yok: []
+tarihi_yok: []

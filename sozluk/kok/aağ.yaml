@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: aağ
+anlam: Sahacada "saymak, okumak"
+koken: türkçe
+kavramlar:
+- say
+etimoloji: Sahaca aax-, Dolganca ak-; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: ak, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: aağ, dil: sah, kaynak: savelyev-turkic, yazi: аах-}
+
+yok:
+  atv: yerine sana (sana)
+  bak: yerine hana (sana)
+  kaa: yerine sana (sana)
+  krc: yerine sana (sana)
+  kaz: yerine sana (sana)
+  kjh: yerine sana (sana)
+  klj: yerine saana (sana)
+  kir: yerine sana (sana)
+  kum: yerine sana (sana)
+  clw: yerine sana (sana)
+  nog: yerine sana (sana)
+  slr: yerine sana (sana)
+  ybe: yerine sana (sana)
+  tat: yerine sana (sana)
+  kim: yerine sana (sana)
+  tuk: yerine sana (sana)
+  tyv: yerine sana (sana)
+  uig: yerine sana (sana)
+  uzb: yerine sana (sana)
+  aze: yerine say (say)
+  crh: yerine say (say)
+  gag: yerine say (say)
+  kdr: yerine say (say)
+  tur: yerine say (say)
+tarihi_yok: {}

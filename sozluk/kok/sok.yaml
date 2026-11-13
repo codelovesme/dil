@@ -3,8 +3,7 @@ kok: sok
 anlam: '"vurmak, çarpmak"'
 koken: türkçe
 ana_turkce: '*sok-'
-kavramlar:
-- vur
+kavramlar: [vur, ufle]
 etimoloji: sok- 'vurmak, çarpmak' (Türkiye Türkçesinde 'sokmak'); Kıpçak, Kırgız, Altay ve
   Sibirya dillerinde asıl 'vurmak' fiili.
 kaynak: savelyev-turkic
@@ -20,6 +19,8 @@ taniklar:
   - {atif: 'dmitrijev1955, osmanov1966', bicim: suk, dil: tat, kaynak: savelyev-turkic, yazi: сук-}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: sok, dil: tyv, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
   - {atif: dmitrijeva1981, bicim: sok, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: esmek (rüzgâr), atif: noauthor1880, bicim: sok, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {anlam: esmek (rüzgâr), atif: 'judakhin1985, judakhin1957', bicim: sok, dil: kir, kaynak: savelyev-turkic}
 
 yok:
   aze: yerine vur (ur)

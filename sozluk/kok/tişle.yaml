@@ -1,0 +1,64 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tişle
+anlam: '"dişlemek"'
+koken: türkçe
+kavramlar:
+- isir
+etimoloji: tiş 'diş' + -le-. Kıpçak, Karluk, Kırgız, Altay ve Türkmen-Azerbaycan dillerinde
+  asıl 'ısırmak' fiili.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tisla
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tişle
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: dişlä, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: teşlä, dil: bak, kaynak: savelyev-turkic, yazi: тешлә-}
+  - {atif: useinov2007, bicim: tişle, dil: crh, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: tişle, dil: kdr, kaynak: savelyev-turkic, not: çişle de.}
+  - {atif: 'baskakov1958, baskakov1967', bicim: tisle, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tiste, dil: kaz, kaynak: savelyev-turkic, yazi: тiсте-}
+  - {atif: 'judakhin1985, judakhin1957', bicim: tiştö, dil: kir, kaynak: savelyev-turkic, yazi: тиштө-}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: tisle, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: tişte, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: çişle, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: teste, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: tişte, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: teşlä, dil: tat, kaynak: savelyev-turkic, yazi: тешлә-}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: dişle, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: çişlä, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: tişla, dil: uzb, kaynak: savelyev-turkic}
+  - {dil: otk, yuzyil: 8-14, bicim: tişle, anlam: dişle kesmek, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'H I 152 (Clauson, tişle-)', not: Hekimlik metni.}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tişle, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 294 (Clauson, tişle-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: tişle, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 4601 (Clauson, tişle-)'}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: tişle, metin: 'Kutb, Hüsrev ü Şirin', kaynak: clauson, atif: 'Kutb 180 (Clauson, tişle-)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: tişle, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 42, 9 (Clauson, tişle-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: tişle, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 39 (Clauson, tişle-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: chg, yuzyil: 16-18, bicim: tişle, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 194v (Clauson, tişle-)'}
+
+yok:
+  dlg: yerine ıtır (ısır)
+  kjh: yerine ızır (ısır)
+  cjs: yerine ızır (ısır)
+  kim: yerine ısır (ısır)
+  tur: yerine ısır (ısır)
+  tyv: yerine ızır (ısır)
+  sah: yerine ıtır (ısır)
+  krc: yerine kap (kap)
+  kum: yerine xap (kap)
+  clw: yerine kap (kap)
+  gag: yerine dala (tala)
+  chv: yerine şırt (şırt)
+tarihi_yok: {}

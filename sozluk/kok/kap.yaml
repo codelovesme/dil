@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kap
+anlam: '"kapmak, ısırmak"'
+koken: türkçe
+kavramlar:
+- isir
+etimoloji: kap- 'kapmak'; Karaçay-Malkar, Kumuk ve Orta Çulımda 'ısırmak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kap, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: xap, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: kap, dil: clw, kaynak: savelyev-turkic}
+
+yok:
+  dlg: yerine ıtır (ısır)
+  kjh: yerine ızır (ısır)
+  cjs: yerine ızır (ısır)
+  kim: yerine ısır (ısır)
+  tur: yerine ısır (ısır)
+  tyv: yerine ızır (ısır)
+  sah: yerine ıtır (ısır)
+  atv: yerine tişte (tişle)
+  alt: yerine tişte (tişle)
+  aze: yerine dişlä (tişle)
+  bak: yerine teşlä (tişle)
+  crh: yerine tişle (tişle)
+  kaa: yerine tisle (tişle)
+  kdr: yerine tişle (tişle)
+  kaz: yerine tiste (tişle)
+  kir: yerine tiştö (tişle)
+  nog: yerine tisle (tişle)
+  slr: yerine çişle (tişle)
+  ybe: yerine teste (tişle)
+  tat: yerine teşlä (tişle)
+  tuk: yerine dişle (tişle)
+  uig: yerine çişlä (tişle)
+  uzb: yerine tişla (tişle)
+  gag: yerine dala (tala)
+  chv: yerine şırt (şırt)
+tarihi_yok: {}

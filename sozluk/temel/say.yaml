@@ -1,0 +1,61 @@
+kavram: say-
+ingilizce: count
+anlam: Saymak.
+dogrulandi: false
+kokler:
+- kok: sana
+  koken: türkçe
+  ana_turkce: '*sana-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sana.yaml).
+  tarihi:
+    otk: sana
+    xqa: sana
+    qwm: sana
+    chg: sana
+  bicimler:
+    bak: hana
+    krc: sana
+    kaa: sana
+    kaz: sana
+    kjh: sana
+    klj:
+      bicim: saana
+      miras: true
+    kir: sana
+    kum: sana
+    clw: sana
+    nog: sana
+    atv: sana
+    slr: sana
+    ybe: sana
+    tat: sana
+    kim: sana
+    tuk: sana
+    tyv: sana
+    uig: sana
+    uzb: sana
+- kok: say
+  koken: türkçe
+  ana_turkce: '*sā-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/say.yaml).
+  bicimler:
+    aze: say
+    crh: say
+    gag: say
+    kdr: say
+    tur: say
+  tarihi:
+    xqa: sa
+    chg: say
+    qwm: sa
+- kok: aağ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aağ.yaml).
+  bicimler:
+    dlg: ak
+    sah: aağ
+yok: []
+tarihi_yok: []

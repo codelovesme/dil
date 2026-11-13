@@ -6,6 +6,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 
 | Kök | Anlam | Seviye | Diller | Ağızlar | Duraklar | Tanık | Kaynaklı | Kaynak | En eski | Eksik duraklar |
 |---|---|---|---|---|---|---|---|---|---|---|
+| [aağ](kok/aağ.md) | Sahacada "saymak, okumak" | 0 | 26/40 | 0/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [adak](kok/adak.md) | "ayak" | 0 | 30/40 | 1/89 | 3/7 | 28 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca |
 | [aday](kok/aday.md) | Güney Sibirya dillerinde "köpek" | 0 | 30/40 | 1/89 | 0/7 | 3 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [adın](kok/adın.md) | "başka" | 0 | 29/40 | 1/89 | 1/7 | 3 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -84,10 +85,13 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [er](kok/er.md) | "er, erkek" | 0 | 28/40 | 1/89 | 2/7 | 29 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ergi](kok/ergi.md) | "eski" | 0 | 27/40 | 1/89 | 0/7 | 7 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [erte](kok/erte.md) | "erken, sabah; yarın" | 0 | 28/40 | 1/89 | 0/7 | 12 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [es](kok/es.md) | "esmek, üflemek" | 0 | 29/40 | 1/89 | 6/7 | 23 | %100 | 6 | 11. yy | Eski Türkçe |
 | [eski](kok/eski.md) | "eski" | 0 | 27/40 | 1/89 | 2/7 | 21 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [et-ad](kok/et-ad.md) | "et" | 0 | 29/40 | 1/89 | 2/7 | 32 | %88 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [et](kok/et.md) | "etmek, yapmak" | 0 | 30/40 | 1/89 | 1/7 | 13 | %100 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [eşit](kok/eşit.md) | "işitmek" | 0 | 30/40 | 1/89 | 2/7 | 25 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [für](kok/für.md) | Salarcada "üflemek" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [güdeeriy](kok/güdeeriy.md) | Dolgancada "yanmak" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [haamp](kok/haamp.md) | Sahacada "yürümek" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [haay](kok/haay.md) | Halaççada "söylemek" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [hara](kok/hara.md) | Azerbaycan Türkçesinde "nere" | 0 | 30/40 | 3/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -109,6 +113,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [kanat](kok/kanat.md) | "kanat; kanatlı" | 0 | 29/40 | 1/89 | 2/7 | 34 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kanda](kok/kanda.md) | "nerede?"; kanı "hani, nerede" gövdesinden | 0 | 30/40 | 3/89 | 1/7 | 5 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kanday](kok/kanday.md) | "nasıl, ne tür?"; kan- soru gövdesinden | 0 | 29/40 | 1/89 | 0/7 | 7 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [kap](kok/kap.md) | "kapmak, ısırmak" | 0 | 28/40 | 0/89 | 0/7 | 3 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kar](kok/kar.md) | "kar" | 0 | 30/40 | 1/89 | 3/7 | 32 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca |
 | [kara-ad](kok/kara-ad.md) | "kara" | 0 | 30/40 | 1/89 | 4/7 | 34 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Çağatayca |
 | [kara](kok/kara.md) | "bakmak" | 0 | 30/40 | 1/89 | 0/7 | 12 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -124,6 +129,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [kaydı](kok/kaydı.md) | "nasıl?"; kay- soru gövdesinden | 0 | 29/40 | 1/89 | 0/7 | 5 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kayu](kok/kayu.md) | "hangi" | 0 | 28/40 | 1/89 | 1/7 | 27 | %100 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kayăk](kok/kayăk.md) | Çuvaşçada "kuş" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [kaz](kok/kaz.md) | "kazmak" | 0 | 30/40 | 1/89 | 5/7 | 40 | %100 | 6 | 8. yy | Eski Anadolu Türkçesi, Osmanlıca |
 | [kaç](kok/kaç.md) | "kaçmak, koşmak" | 0 | 29/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kaçan](kok/kaçan.md) | "ne zaman" | 0 | 30/40 | 1/89 | 2/7 | 31 | %97 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kañ](kok/kañ.md) | "baba" (Eski Türkçe) | 0 | 30/40 | 1/89 | 1/7 | 1 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -141,6 +147,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [keş](kok/keş.md) | "deri, post" | 0 | 29/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kim](kok/kim.md) | kişiyi soran soru zamiri ("kim"); eski dilde ilgi zamiri ve bağlaç da | 0 | 30/40 | 11/89 | 6/7 | 51 | %80 | 7 | 8. yy | Osmanlıca |
 | [kini](kok/kini.md) | Sahaca ve Dolgancada "o" kişi zamiri; çoğulu kiniler | 0 | 29/40 | 0/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [kir-üfle](kok/kir-üfle.md) | Kuzey Altaycada "üflemek" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kivĕ](kok/kivĕ.md) | Çuvaşçada "eski" | 0 | 27/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kiçig](kok/kiçig.md) | "küçük" | 0 | 27/40 | 1/89 | 2/7 | 27 | %96 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kişi](kok/kişi.md) | "kişi, insan" | 0 | 24/40 | 1/89 | 2/7 | 25 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -169,6 +176,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [köpek](kok/köpek.md) | "köpek" | 0 | 30/40 | 1/89 | 0/7 | 3 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kör](kok/kör.md) | "görmek" | 0 | 30/40 | 1/89 | 4/7 | 44 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Çağatayca |
 | [kördöö](kok/kördöö.md) | "aramak, istemek" (Sahaca) | 0 | 28/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [köt](kok/köt.md) | Saha ve Dolgancada "uçmak" | 0 | 30/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kötör](kok/kötör.md) | "kuş" (Sahaca) | 0 | 29/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kötü](kok/kötü.md) | "kötü" | 0 | 26/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kötür](kok/kötür.md) | "kaldırmak, alıp götürmek" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -177,9 +185,11 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [kül](kok/kül.md) | "gülmek" | 0 | 30/40 | 1/89 | 1/7 | 27 | %100 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kün](kok/kün.md) | "gün; güneş" | 0 | 30/40 | 1/89 | 4/7 | 55 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Çağatayca |
 | [küneş](kok/küneş.md) | "güneş" | 0 | 29/40 | 1/89 | 0/7 | 4 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [küy](kok/küy.md) | "yanmak, kavrulmak" | 0 | 29/40 | 1/89 | 5/7 | 18 | %100 | 5 | 8. yy | Eski Anadolu Türkçesi, Osmanlıca |
 | [kıdığ](kok/kıdığ.md) | "kenar, kıyı" | 0 | 28/40 | 1/89 | 1/7 | 17 | %94 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kıl](kok/kıl.md) | "kılmak, yapmak" | 0 | 30/40 | 1/89 | 1/7 | 3 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kılgas](kok/kılgas.md) | Sahacada "kısa" | 0 | 28/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [kıp](kok/kıp.md) | Tuva ve Tofacada "yanmak" | 0 | 29/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kır](kok/kır.md) | "kır, sırt" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kırağ](kok/kırağ.md) | "kenar" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kısga](kok/kısga.md) | "kısa" | 0 | 28/40 | 1/89 | 2/7 | 27 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -218,9 +228,11 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [per](kok/per.md) | Sarı Uygurcada "vurmak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [pohçüin](kok/pohçüin.md) | Salarcada "sinek" | 0 | 26/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [purăn](kok/purăn.md) | Çuvaşçada "yaşamak" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [sana](kok/sana.md) | "saymak" | 0 | 26/40 | 0/89 | 4/7 | 27 | %100 | 6 | 8. yy | Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Osmanlıca |
 | [sarsın](kok/sarsın.md) | Sahacada "yarın" | 0 | 28/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sarığ](kok/sarığ.md) | "sarı" | 0 | 29/40 | 1/89 | 3/7 | 30 | %97 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca |
 | [saxsırga](kok/saxsırga.md) | Sahacada "sinek" | 0 | 26/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [say](kok/say.md) | "saymak" | 0 | 26/40 | 0/89 | 4/7 | 11 | %100 | 4 | 11. yy | Eski Türkçe, Eski Anadolu Türkçesi, Osmanlıca |
 | [saç](kok/saç.md) | "saç" | 0 | 30/40 | 1/89 | 2/7 | 31 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sebirdek](kok/sebirdek.md) | Sahacada "yaprak" | 0 | 27/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [seläwsen](kok/seläwsen.md) | Başkurtçada "solucan" | 0 | 27/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -228,7 +240,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [sivĕ](kok/sivĕ.md) | Çuvaşçada "soğuk" | 0 | 28/40 | 0/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [siz](kok/siz.md) | ikinci çoğul şahıs zamiri ("siz"); birçok dilde saygı için tekil de | 0 | 32/40 | 10/89 | 7/7 | 56 | %70 | 9 | 8. yy | — |
 | [siñek](kok/siñek.md) | "sinek" | 0 | 26/40 | 1/89 | 0/7 | 6 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
-| [sok](kok/sok.md) | "vurmak, çarpmak" | 0 | 30/40 | 1/89 | 0/7 | 10 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [sok](kok/sok.md) | "vurmak, çarpmak" | 0 | 30/40 | 1/89 | 1/7 | 12 | %100 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sopa](kok/sopa.md) | "sopa" | 0 | 25/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sora](kok/sora.md) | "sormak" | 0 | 28/40 | 1/89 | 0/7 | 18 | %94 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [soğık](kok/soğık.md) | "soğuk" | 0 | 28/40 | 0/89 | 2/7 | 27 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -241,6 +253,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [sıcak](kok/sıcak.md) | "sıcak" | 0 | 29/40 | 1/89 | 0/7 | 3 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sıkta](kok/sıkta.md) | "hıçkırarak ağlamak" | 0 | 30/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [taarıx](kok/taarıx.md) | Salarcada "toz" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [tala](kok/tala.md) | "dalamak, ısırmak" | 0 | 28/40 | 0/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tamır](kok/tamır.md) | "damar; kök" | 0 | 27/40 | 1/89 | 0/7 | 13 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tarda](kok/tarda.md) | Sarı Uygurcada "atmak" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tayak](kok/tayak.md) | "değnek, asa" | 0 | 25/40 | 1/89 | 0/7 | 20 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -261,6 +274,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [tiz](kok/tiz.md) | "diz" | 0 | 30/40 | 1/89 | 2/7 | 27 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tiş](kok/tiş.md) | "diş" | 0 | 28/40 | 0/89 | 2/7 | 30 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tişi](kok/tişi.md) | "dişi, kadın" | 0 | 23/40 | 1/89 | 1/7 | 3 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [tişle](kok/tişle.md) | "dişlemek" | 0 | 28/40 | 0/89 | 5/7 | 25 | %100 | 5 | 8. yy | Eski Anadolu Türkçesi, Osmanlıca |
 | [tobık](kok/tobık.md) | "aşık kemiği; diz" | 0 | 30/40 | 1/89 | 0/7 | 5 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tokı](kok/tokı.md) | "vurmak, dövmek" | 0 | 30/40 | 1/89 | 1/7 | 1 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [tolu](kok/tolu.md) | "dolu" | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -292,6 +306,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [ufak](kok/ufak.md) | "ufak" | 0 | 27/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [uk](kok/uk.md) | "işitmek, anlamak" | 0 | 30/40 | 1/89 | 0/7 | 4 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [uluğ](kok/uluğ.md) | "büyük, ulu" | 0 | 29/40 | 1/89 | 2/7 | 21 | %71 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [umay](kok/umay.md) | Sahacada "yanmak" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ur](kok/ur.md) | "vurmak" | 0 | 30/40 | 1/89 | 1/7 | 11 | %100 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ura](kok/ura.md) | Çuvaşçada "ayak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [uruk](kok/uruk.md) | "ip" (Eski Türkçe) | 0 | 26/40 | 1/89 | 1/7 | 1 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -301,6 +316,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [usta](kok/usta.md) | "tutmak, yakalamak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [uzan](kok/uzan.md) | "uzanmak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [uzun](kok/uzun.md) | "uzun" | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [uç](kok/uç.md) | "uçmak" | 0 | 30/40 | 1/89 | 6/7 | 41 | %100 | 7 | 8. yy | Osmanlıca |
 | [uşak](kok/uşak.md) | "küçük; çocuk" | 0 | 28/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [vĕri](kok/vĕri.md) | Çuvaşçada "sıcak" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [vırt](kok/vırt.md) | Çuvaşçada "yatmak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -314,6 +330,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [xĕrarăm](kok/xĕrarăm.md) | Çuvaşçada "kadın" | 0 | 23/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [yakşı](kok/yakşı.md) | "iyi, güzel" | 0 | 28/40 | 1/89 | 2/7 | 25 | %96 | 2 | 13. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Çağatayca, Osmanlıca |
 | [yaman](kok/yaman.md) | "kötü" | 0 | 26/40 | 1/89 | 3/7 | 20 | %95 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca |
+| [yan](kok/yan.md) | "yanmak" | 0 | 29/40 | 1/89 | 0/7 | 17 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [yanç](kok/yanç.md) | "ezmek, vurmak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [yap](kok/yap.md) | "yapmak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [yaprak](kok/yaprak.md) | "yaprak" | 0 | 27/40 | 1/89 | 2/7 | 21 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -363,6 +380,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [çakır](kok/çakır.md) | "çakır, açık renkli" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [çalgın](kok/çalgın.md) | Tuvacada "kanat" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [çap](kok/çap.md) | "koşmak, dörtnala gitmek" | 0 | 29/40 | 1/89 | 0/7 | 12 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [çav](kok/çav.md) | Çuvaşçada "kazmak" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [çay](kok/çay.md) | "çay, dere" | 0 | 26/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [çañ](kok/çañ.md) | "toz" | 0 | 28/40 | 1/89 | 0/7 | 8 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [çeke](kok/çeke.md) | "şakak; alın" | 0 | 17/40 | 0/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -395,8 +413,10 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [öskin](kok/öskin.md) | Tofacada "yağmur" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [özen](kok/özen.md) | "ırmak, dere" | 0 | 26/40 | 1/89 | 0/7 | 6 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [özge](kok/özge.md) | "başka" | 0 | 29/40 | 1/89 | 1/7 | 3 | %100 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [übür](kok/übür.md) | Şorcada "üflemek" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ük](kok/ük.md) | Çuvaşçada "düşmek" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [üküş](kok/üküş.md) | "çok" | 0 | 28/40 | 1/89 | 1/7 | 3 | %67 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [ür](kok/ür.md) | "üflemek" | 0 | 29/40 | 1/89 | 2/7 | 16 | %100 | 4 | 8. yy | Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ürüñ](kok/ürüñ.md) | "beyaz" | 0 | 29/40 | 1/89 | 1/7 | 3 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [üs](kok/üs.md) | Tuvacada "yağ" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [üt](kok/üt.md) | "delik" | 0 | 28/40 | 1/89 | 1/7 | 4 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -408,6 +428,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [ılga](kok/ılga.md) | Türkmencede "koşmak" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ırmak](kok/ırmak.md) | "ırmak" | 0 | 26/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ıs](kok/ıs.md) | "is, duman" | 0 | 30/40 | 1/89 | 0/7 | 5 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [ısır](kok/ısır.md) | "ısırmak" | 0 | 28/40 | 0/89 | 4/7 | 12 | %100 | 6 | 11. yy | Eski Türkçe, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi |
 | [ıt](kok/ıt.md) | "it, köpek" | 0 | 30/40 | 1/89 | 3/7 | 27 | %96 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca |
 | [ıtaa](kok/ıtaa.md) | Sahacada "ağlamak" | 0 | 30/40 | 1/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ıyt](kok/ıyt.md) | Çuvaşçada "sormak" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -420,4 +441,5 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [şătăk](kok/şătăk.md) | Çuvaşçada "delik" | 0 | 28/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [şĕr](kok/şĕr.md) | Çuvaşçada "gece" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [şın](kok/şın.md) | Çuvaşçada "insan" | 0 | 23/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [şırt](kok/şırt.md) | Çuvaşçada "ısırmak" | 0 | 28/40 | 0/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [şıvăr](kok/şıvăr.md) | Çuvaşçada "uyumak" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |

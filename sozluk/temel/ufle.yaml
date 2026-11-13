@@ -1,0 +1,83 @@
+kavram: üfle-
+ingilizce: blow
+anlam: Üflemek, esmek.
+dogrulandi: false
+kokler:
+- kok: es
+  koken: türkçe
+  ana_turkce: '*ēs-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/es.yaml).
+  tarihi:
+    eski-anadolu: ürmek
+    xqa: es
+    chg: es
+    qwm: es
+  bicimler:
+    aze: äs
+    bak: iz
+    crh: es
+    gag: es
+    kaa: es
+    klj:
+      bicim: häs
+      miras: true
+    kum: eş
+    nog: es
+    tat: is
+    tur: es
+    tuk: ös
+    uig: äs
+    uzb: es
+    sty-baraba: ĕs
+- kok: ür
+  koken: türkçe
+  ana_turkce: '*ür-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ür.yaml).
+  tarihi:
+    otk: ür
+    xqa: ür
+  bicimler:
+    chv:
+      bicim: vĕr
+      miras: true
+    dlg: ür
+    krc: ür
+    kdr: ür
+    kaz: ürle
+    kjh: ür
+    clw: ür
+    alt: ür
+    kim: ür
+    tyv: ür
+    sah: ür
+- kok: sok
+  koken: türkçe
+  ana_turkce: '*sok-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sok.yaml).
+  tarihi:
+    qwm: sok
+  bicimler:
+    kir: sok
+- kok: für
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/für.yaml).
+  bicimler:
+    slr: für
+- kok: übür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/übür.yaml).
+  bicimler:
+    cjs: übür
+- kok: kir-üfle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kir-üfle.yaml).
+  bicimler:
+    atv: kir
+yok: []
+tarihi_yok: []
