@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 15,
-  "kok": 23,
-  "tanik": 437,
+  "kavram": 20,
+  "kok": 28,
+  "tanik": 596,
   "kaynak": 168,
   "dil": 40
  },
@@ -55,6 +55,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/beş.md",
+   "baslik": "beş",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bir.md",
+   "baslik": "bir",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/biz.md",
    "baslik": "biz",
    "tur": "kok"
@@ -65,8 +75,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/dört.md",
+   "baslik": "dört",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/hara.md",
    "baslik": "hara",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/iki.md",
+   "baslik": "iki",
    "tur": "kok"
   },
   {
@@ -160,6 +180,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/üç.md",
+   "baslik": "üç",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ăşta.md",
    "baslik": "ăşta",
    "tur": "kok"
@@ -167,6 +192,16 @@
   {
    "yol": "sozluk/temel/ben.md",
    "baslik": "ben",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/bes.md",
+   "baslik": "beş",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/bir.md",
+   "baslik": "bir",
    "tur": "kavram"
   },
   {
@@ -187,6 +222,16 @@
   {
    "yol": "sozluk/temel/dag.md",
    "baslik": "dağ",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/dort.md",
+   "baslik": "dört",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/iki.md",
+   "baslik": "iki",
    "tur": "kavram"
   },
   {
@@ -238,6 +283,11 @@
    "yol": "sozluk/temel/tas.md",
    "baslik": "taş",
    "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/uc.md",
+   "baslik": "üç",
+   "tur": "kavram"
   }
  ],
  "arama": [
@@ -254,6 +304,43 @@
     "men",
     "min",
     "män"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "beş",
+   "alt": "five",
+   "yol": "sozluk/temel/bes.md",
+   "ozet": "Ortak dil: beş · Ana Türkçe tahmini: beş · En çok kişinin anladığı: beş",
+   "anahtar": [
+    "bes",
+    "beş",
+    "bies",
+    "bieş",
+    "biş",
+    "bäş",
+    "peş",
+    "pilĕk",
+    "pis",
+    "päs",
+    "päş"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "bir",
+   "alt": "one",
+   "yol": "sozluk/temel/bir.md",
+   "ozet": "Ortak dil: bir · Ana Türkçe tahmini: bir · En çok kişinin anladığı: bir",
+   "anahtar": [
+    "ber",
+    "bi:",
+    "bi:r",
+    "bir",
+    "bĭr",
+    "per",
+    "pir",
+    "pĕrre"
    ]
   },
   {
@@ -333,6 +420,46 @@
     "tu",
     "tuu",
     "xaya"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "dört",
+   "alt": "four",
+   "yol": "sozluk/temel/dort.md",
+   "ozet": "Ortak dil: dört · Ana Türkçe tahmini: dört · En çok kişinin anladığı: dört",
+   "anahtar": [
+    "dörd",
+    "dört",
+    "dürt",
+    "tört",
+    "tööört",
+    "tüört",
+    "tăvattă"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "iki",
+   "alt": "two",
+   "yol": "sozluk/temel/iki.md",
+   "ozet": "Ortak dil: iki · Ana Türkçe tahmini: iki · En çok kişinin anladığı: iki",
+   "anahtar": [
+    "eki",
+    "eki ~ ekki",
+    "ekĭ",
+    "igä",
+    "ihi",
+    "ike",
+    "iki",
+    "ikki",
+    "ikkĕ",
+    "iygi",
+    "iyi",
+    "işke",
+    "işki",
+    "äkki",
+    "ĕki"
    ]
   },
   {
@@ -548,6 +675,24 @@
    ]
   },
   {
+   "t": "kavram",
+   "ad": "üç",
+   "alt": "three",
+   "yol": "sozluk/temel/uc.md",
+   "ozet": "Ortak dil: üç · Ana Türkçe tahmini: üç · En çok kişinin anladığı: üç",
+   "anahtar": [
+    "uç",
+    "uş",
+    "viśśĕ",
+    "ös",
+    "öç",
+    "üs",
+    "üç",
+    "üüç",
+    "üş"
+   ]
+  },
+  {
    "t": "kok",
    "ad": "ben",
    "alt": "birinci tekil şahıs zamiri (\"ben\")",
@@ -573,6 +718,52 @@
     "مەن",
     "𐰋𐰤",
     "𐽹𐽺"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "beş",
+   "alt": "beş sayısı (beş)",
+   "yol": "sozluk/kok/beş.md",
+   "ozet": "32 tanık, en eski 8. yy",
+   "anahtar": [
+    "bes",
+    "beş",
+    "bies",
+    "bieş",
+    "biş",
+    "bäş",
+    "peş",
+    "pilĕk",
+    "pis",
+    "päs",
+    "päş",
+    "бес",
+    "биш",
+    "биэс",
+    "пилӗк",
+    "пис"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bir",
+   "alt": "bir sayısı (bir)",
+   "yol": "sozluk/kok/bir.md",
+   "ozet": "32 tanık, en eski 8. yy",
+   "anahtar": [
+    "ber",
+    "bi:",
+    "bi:r",
+    "bir",
+    "bĭr",
+    "per",
+    "pir",
+    "pĕrre",
+    "бер",
+    "бір",
+    "пир",
+    "пӗрре"
    ]
   },
   {
@@ -627,12 +818,62 @@
   },
   {
    "t": "kok",
+   "ad": "dört",
+   "alt": "dört sayısı (dört)",
+   "yol": "sozluk/kok/dört.md",
+   "ozet": "31 tanık, en eski 8. yy",
+   "anahtar": [
+    "dörd",
+    "dört",
+    "dürt",
+    "to'rt",
+    "tört",
+    "tööört",
+    "tüört",
+    "tăvattă",
+    "дүрт",
+    "түөрт",
+    "тӑваттӑ",
+    "төрт"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "hara",
    "alt": "Azerbaycan Türkçesinde \"nere\"",
    "yol": "sozluk/kok/hara.md",
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "harada"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "iki",
+   "alt": "i̇ki sayısı (iki)",
+   "yol": "sozluk/kok/iki.md",
+   "ozet": "32 tanık, en eski 8. yy",
+   "anahtar": [
+    "eki",
+    "eki ~ ekki",
+    "ekĭ",
+    "igä",
+    "ihi",
+    "ike",
+    "iki",
+    "ikki",
+    "ikkĕ",
+    "iygi",
+    "iyi",
+    "işke",
+    "işki",
+    "äkki",
+    "ĕki",
+    "екі",
+    "ийи",
+    "ике",
+    "иккӗ",
+    "ікі"
    ]
   },
   {
@@ -935,6 +1176,29 @@
     "çü",
     "çüü",
     "чүү"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "üç",
+   "alt": "üç sayısı (üç)",
+   "yol": "sozluk/kok/üç.md",
+   "ozet": "32 tanık, en eski 8. yy",
+   "anahtar": [
+    "uç",
+    "uş",
+    "viśśĕ",
+    "ös",
+    "öç",
+    "üs",
+    "üç",
+    "üüç",
+    "üş",
+    "виҫҫӗ",
+    "үс",
+    "үш",
+    "өс",
+    "өч"
    ]
   },
   {

@@ -16,7 +16,7 @@ aşamasında ele alınacak.
 
 ## 2. Sayılar
 
-- [ ] bir · [ ] iki · [ ] üç · [ ] dört · [ ] beş · [ ] altı · [ ] yedi · [ ] sekiz · [ ] dokuz · [ ] on
+- [x] [bir](temel/bir.yaml) · [x] [iki](temel/iki.yaml) · [x] [üç](temel/uc.yaml) · [x] [dört](temel/dort.yaml) · [x] [beş](temel/bes.yaml) · [ ] altı · [ ] yedi · [ ] sekiz · [ ] dokuz · [ ] on
 - [ ] yirmi · [ ] otuz · [ ] kırk · [ ] elli · [ ] yüz · [ ] bin
 
 ## 3. Varlık, olumsuzluk, bağlaçlar

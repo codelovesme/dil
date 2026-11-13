@@ -4,15 +4,19 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 15 kavram, 1 tanesi ayrışıyor.
+Toplam 20 kavram, 1 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
 | ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
+| beş | beş *(beş)* | beş *(beş)* | beş *(beş)* | UYUŞUYOR |
+| bir | bir *(bir)* | bir *(bir)* | bir *(bir)* | UYUŞUYOR |
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
+| dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
+| iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
 | ne | ne *(ne)* | ne *(ne)* | ne *(ne)* | UYUŞUYOR |
@@ -23,3 +27,4 @@ Toplam 15 kavram, 1 tanesi ayrışıyor.
 | siz | siz *(siz)* | siz *(siz)* | siz *(siz)* | UYUŞUYOR |
 | su | suw *(sub)* | sub *(sub)* | su *(sub)* | UYUŞUYOR |
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
+| üç | üç *(üç)* | üç *(üç)* | üç *(üç)* | UYUŞUYOR |

@@ -1,0 +1,49 @@
+kavram: dört
+ingilizce: four
+anlam: Dört sayısı.
+dogrulandi: false
+kokler:
+- kok: dört
+  koken: türkçe
+  ana_turkce: '*tȫrt'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/dört.yaml).
+  tarihi:
+    otk: dört
+    qwm: tört
+  bicimler:
+    aze: dörd
+    bak: dürt
+    chv:
+      bicim: tăvattă
+      miras: true
+    crh: dört
+    dlg: tüört
+    gag: dört
+    krc: tört
+    kdr: dört
+    kaa: tört
+    kaz: tört
+    kjh: tört
+    klj:
+      bicim: tööört
+      miras: true
+    kir: tört
+    kum: dört
+    clw: tört
+    nog: dört
+    atv: tört
+    ybe: dürt
+    cjs: tört
+    alt: tört
+    tat: dürt
+    kim: dört
+    tur: dört
+    tuk: dört
+    tyv: dört
+    uig: tört
+    uzb: tört
+    sah: tüört
+    sty-baraba: tört
+yok: []
+tarihi_yok: []

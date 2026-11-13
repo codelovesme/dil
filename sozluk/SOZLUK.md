@@ -7,9 +7,13 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | Kök | Anlam | Seviye | Diller | Ağızlar | Duraklar | Tanık | Kaynaklı | Kaynak | En eski | Eksik duraklar |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [ben](kok/ben.md) | birinci tekil şahıs zamiri ("ben") | 0 | 35/40 | 10/89 | 7/7 | 66 | %76 | 11 | 8. yy | — |
+| [beş](kok/beş.md) | beş sayısı (beş) | 0 | 30/40 | 1/89 | 2/7 | 32 | %97 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [bir](kok/bir.md) | bir sayısı (bir) | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [biz](kok/biz.md) | birinci çoğul şahıs zamiri ("biz") | 0 | 34/40 | 10/89 | 7/7 | 57 | %70 | 9 | 8. yy | — |
 | [bu](kok/bu.md) | yakındakini gösteren işaret zamiri ("bu") | 0 | 30/40 | 11/89 | 5/7 | 50 | %80 | 8 | 8. yy | Eski Anadolu Türkçesi, Osmanlıca |
+| [dört](kok/dört.md) | dört sayısı (dört) | 0 | 29/40 | 1/89 | 2/7 | 31 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [hara](kok/hara.md) | Azerbaycan Türkçesinde "nere" | 0 | 30/40 | 3/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [iki](kok/iki.md) | i̇ki sayısı (iki) | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kalay](kok/kalay.md) | "nasıl?"; *ka- soru gövdesinden | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kanda](kok/kanda.md) | "nerede?"; kanı "hani, nerede" gövdesinden | 0 | 30/40 | 3/89 | 1/7 | 5 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [kanday](kok/kanday.md) | "nasıl, ne tür?"; kan- soru gövdesinden | 0 | 29/40 | 1/89 | 0/7 | 7 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -28,4 +32,5 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [siz](kok/siz.md) | ikinci çoğul şahıs zamiri ("siz"); birçok dilde saygı için tekil de | 0 | 32/40 | 10/89 | 7/7 | 56 | %70 | 9 | 8. yy | — |
 | [tuoh](kok/tuoh.md) | Sahacada "ne" | 0 | 29/40 | 11/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [çü](kok/çü.md) | Tuvaca ve Tofacada "ne" | 0 | 29/40 | 11/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [üç](kok/üç.md) | üç sayısı (üç) | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ăşta](kok/ăşta.md) | Çuvaşçada "nerede" | 0 | 30/40 | 3/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |

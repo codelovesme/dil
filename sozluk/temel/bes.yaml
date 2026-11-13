@@ -1,0 +1,50 @@
+kavram: beş
+ingilizce: five
+anlam: Beş sayısı.
+dogrulandi: false
+kokler:
+- kok: beş
+  koken: türkçe
+  ana_turkce: '*bēš'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/beş.yaml).
+  tarihi:
+    otk: beş
+    qwm: beş
+  bicimler:
+    aze: beş
+    bak: beş
+    chv:
+      bicim: pilĕk
+      miras: true
+    crh: beş
+    dlg: bies
+    gag: beş
+    krc: beş
+    kdr: beş
+    kaa: bes
+    kaz: bes
+    kjh: pis
+    klj:
+      bicim: bieş
+      miras: true
+    kir: beş
+    kum: beş
+    clw: päs
+    nog: bes
+    atv: peş
+    slr: peş
+    ybe: pis
+    cjs: peş
+    alt: beş
+    tat: biş
+    kim: beş
+    tur: beş
+    tuk: bäş
+    tyv: beş
+    uig: bäş
+    uzb: beş
+    sah: bies
+    sty-baraba: päş
+yok: []
+tarihi_yok: []

@@ -1,0 +1,50 @@
+kavram: iki
+ingilizce: two
+anlam: İki sayısı.
+dogrulandi: false
+kokler:
+- kok: iki
+  koken: türkçe
+  ana_turkce: '*ẹki'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iki.yaml).
+  tarihi:
+    otk: iki
+    qwm: eki
+  bicimler:
+    aze: iki
+    bak: ike
+    chv:
+      bicim: ikkĕ
+      miras: true
+    crh: eki
+    dlg: ikki
+    gag: iki
+    krc: eki
+    kdr: eki
+    kaa: eki
+    kaz: ekĭ
+    kjh: ikki
+    klj:
+      bicim: äkki
+      miras: true
+    kir: eki
+    kum: eki
+    clw: igä
+    nog: eki
+    atv: eki ~ ekki
+    slr: işki
+    ybe: işke
+    cjs: iygi
+    alt: eki
+    tat: ike
+    kim: ihi
+    tur: iki
+    tuk: iki
+    tyv: iyi
+    uig: ikki
+    uzb: ikki
+    sah: ikki
+    sty-baraba: ĕki
+yok: []
+tarihi_yok: []
