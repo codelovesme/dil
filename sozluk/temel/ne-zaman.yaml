@@ -1,0 +1,59 @@
+kavram: ne zaman
+ingilizce: when
+anlam: Zamanı soran soru sözü.
+dogrulandi: false
+kokler:
+- kok: kaçan
+  koken: türkçe
+  ana_turkce: '*kačan'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kaçan.yaml).
+  tarihi:
+    qwm: kaçan
+    otk: kaçan
+  bicimler:
+    aze: haçan
+    bak: kasan
+    chv:
+      bicim: xăşan
+      miras: true
+    dlg: kahan
+    gag: açan
+    krc: kaçan
+    kdr: kacan
+    kaa: kaşan
+    kaz: kaşan
+    kjh: xacan
+    klj:
+      bicim: kaçaan
+      miras: true
+    kir: kaçan
+    kum: kaçan
+    clw: kacan
+    nog: kaşan
+    atv: kacan
+    slr: kacan
+    ybe: kaçan
+    cjs: kaçan
+    alt: kaçan
+    tat: kayçan
+    kim: kahın
+    tur:
+      bicim: haçan
+      tercih: 0.25
+    tuk: haçan
+    tyv: kajan
+    uig: kaçan
+    uzb: kaçon
+    sah: xahan
+    sty-baraba: kaçan
+- kok: ne zaman
+  koken: alıntı:fa
+  kaynak: savelyev-turkic
+  not: ne + Farsça zamān; Türkiye Türkçesi (Kırım Tatarcasında ne vakıt, Arapça vaqt). Yarı
+    alıntı olduğu için seçilmez.
+  bicimler:
+    crh: ne vakıt
+    tur: ne zaman
+yok: []
+tarihi_yok: []

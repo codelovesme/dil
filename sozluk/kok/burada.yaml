@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: burada
+anlam: '"burada"'
+koken: türkçe
+kavramlar:
+- burada
+etimoloji: bu + -ra (yön eki) + -da; Oğuz dillerinde (burada, bırda).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: burada, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: bırda, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: burada, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine mında (bunda)
+  atv: yerine mında (bunda)
+  alt: yerine mında (bunda)
+  bak: yerine bında (bunda)
+  crh: yerine mında (bunda)
+  dlg: yerine manna (bunda)
+  kaa: yerine bunda (bunda)
+  krc: yerine mında (bunda)
+  kdr: yerine muna (bunda)
+  kaz: yerine munda (bunda)
+  kjh: yerine mında (bunda)
+  klj: yerine buoda (bunda)
+  kir: yerine mında (bunda)
+  kum: yerine munda (bunda)
+  clw: yerine mında (bunda)
+  nog: yerine munda (bunda)
+  slr: yerine mınta (bunda)
+  ybe: yerine mında (bunda)
+  cjs: yerine mında (bunda)
+  tat: yerine monda (bunda)
+  kim: yerine mında (bunda)
+  tyv: yerine mında (bunda)
+  sah: yerine manna (bunda)
+  chv: yerine kunta (bunda)
+  tuk: yerine bu yerde (bu yerde)
+  uig: yerine bu yärdä (bu yerde)
+  uzb: yerine bu yerda (bu yerde)
+tarihi_yok: {}

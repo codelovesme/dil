@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kañı
+anlam: '"hangi"'
+koken: türkçe
+ana_turkce: '*kaŋu'
+kavramlar:
+- hangi
+etimoloji: kañı/kañu 'hangi'; Eski Türkçe kañ, Türkiye Türkçesi hangi (< kangı), Gagavuzca
+  angısı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: kañı
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: angısı, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: hangi, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kaysı? (kayu)
+  atv: yerine kayazı (kayu)
+  alt: yerine kajı (kayu)
+  aze: yerine hansı (kayu)
+  bak: yerine kayhı (kayu)
+  chv: yerine xăşĕ (kayu)
+  crh: yerine kaysı (kayu)
+  dlg: yerine kahıs (kayu)
+  kaa: yerine kaysısı (kayu)
+  krc: yerine kaysı (kayu)
+  kdr: yerine kaysı (kayu)
+  kaz: yerine kaysı (kayu)
+  kjh: yerine xayzı (kayu)
+  kir: yerine kaysı (kayu)
+  kum: yerine kaysı (kayu)
+  nog: yerine kaysı (kayu)
+  slr: yerine kaysı (kayu)
+  ybe: yerine kaysı (kayu)
+  cjs: yerine kayzı (kayu)
+  tat: yerine kaysı (kayu)
+  kim: yerine kaysı (kayu)
+  tuk: yerine haysı (kayu)
+  tyv: yerine kayı (kayu)
+  uig: yerine kaysi (kayu)
+  uzb: yerine kaysi (kayu)
+  sah: yerine xaya (kayu)
+tarihi_yok: {}

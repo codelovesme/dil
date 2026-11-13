@@ -1,0 +1,74 @@
+kavram: başka
+ingilizce: other
+anlam: Başka, diğer.
+dogrulandi: false
+kokler:
+- kok: başka
+  koken: türkçe
+  ana_turkce: '*baĺka'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/başka.yaml).
+  bicimler:
+    aze: başga
+    bak: başka
+    crh: başka
+    gag: başka
+    krc: başxa
+    kdr: baska
+    kaa: baska
+    kaz: baska
+    kjh: pasxa
+    kir: başka
+    kum: başğa
+    clw: paska
+    nog: baska
+    cjs: paşka
+    tat: başka
+    kim: baˁşka
+    tur: başka
+    tuk: başga
+    uig: başka
+    uzb: boşka
+    sty-baraba: paşka
+- kok: adın
+  koken: türkçe
+  ana_turkce: '*adïn'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/adın.yaml).
+  tarihi:
+    otk: adın
+  bicimler:
+    dlg: atın
+    sah: atın
+- kok: özge
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/özge.yaml).
+  tarihi:
+    qwm: özge
+  bicimler:
+    alt: öskö
+    tyv: öske
+- kok: art
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/art.yaml).
+  bicimler:
+    atv: artan
+    slr: artı
+- kok: urăx
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/urăx.yaml).
+  bicimler:
+    chv: urăx
+- kok: iieza
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iieza.yaml).
+  bicimler:
+    klj:
+      bicim: iieza
+      miras: true
+yok: []
+tarihi_yok: []

@@ -1,0 +1,50 @@
+kavram: dolu
+ingilizce: full
+anlam: Dolu.
+dogrulandi: false
+kokler:
+- kok: tolu
+  koken: türkçe
+  ana_turkce: '*tolu'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tolu.yaml).
+  tarihi:
+    qwm: tolu
+    otk: tolu
+  bicimler:
+    aze: dolu
+    bak: tulı
+    chv:
+      bicim: tulli
+      miras: true
+    crh: tolu
+    dlg: toloru
+    gag: dolu
+    krc: tolu
+    kdr: tolu
+    kaa: tolğan
+    kaz: tolı
+    kjh: toldıra
+    klj:
+      bicim: tuola
+      miras: true
+    kir: toltura
+    kum: tolu
+    clw: toldıra
+    nog: tolı
+    atv: toltıra
+    slr: tolu
+    ybe: tolo
+    cjs: toldura
+    alt: tolo
+    tat: tulı
+    kim: dolu
+    tur: dolu
+    tuk: dolı
+    tyv: dolu
+    uig: toluk
+    uzb: töla
+    sah: toloru
+    sty-baraba: tolu
+yok: []
+tarihi_yok: []

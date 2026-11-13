@@ -1,0 +1,51 @@
+kavram: hangi
+ingilizce: which
+anlam: Birkaçı arasından seçmeyi soran söz.
+dogrulandi: false
+kokler:
+- kok: kayu
+  koken: türkçe
+  ana_turkce: '*kayu'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kayu.yaml).
+  tarihi:
+    qwm: kayım
+  bicimler:
+    aze: hansı
+    bak: kayhı
+    chv: xăşĕ
+    crh: kaysı
+    dlg: kahıs
+    krc: kaysı
+    kdr: kaysı
+    kaa: kaysısı
+    kaz: kaysı
+    kjh: xayzı
+    kir: kaysı
+    kum: kaysı
+    nog: kaysı
+    atv: kayazı
+    slr: kaysı
+    ybe: kaysı
+    cjs: kayzı
+    alt: kajı
+    tat: kaysı
+    kim: kaysı
+    tuk: haysı
+    tyv: kayı
+    uig: kaysi
+    uzb: kaysi
+    sah: xaya
+    sty-baraba: kaysı?
+- kok: kañı
+  koken: türkçe
+  ana_turkce: '*kaŋu'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kañı.yaml).
+  tarihi:
+    otk: kañı
+  bicimler:
+    gag: angısı
+    tur: hangi
+yok: []
+tarihi_yok: []

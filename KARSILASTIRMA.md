@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 98 kavram, 10 tanesi ayrışıyor.
+Toplam 106 kavram, 10 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -21,12 +21,14 @@ Toplam 98 kavram, 10 tanesi ayrışıyor.
 | bak- | kara *(kara)* | bak *(bak)* | bak *(bak)* | AYRIŞIYOR |
 | balık | balık *(balık)* | balık *(balık)* | balık *(balık)* | UYUŞUYOR |
 | baş | baş *(baş)* | baş *(baş)* | baş *(baş)* | UYUŞUYOR |
+| başka | başka *(başka)* | başka *(başka)* | başka *(başka)* | UYUŞUYOR |
 | ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
 | beş | beş *(beş)* | beş *(beş)* | beş *(beş)* | UYUŞUYOR |
 | bil- | bil *(bil)* | bil *(bil)* | bil *(bil)* | UYUŞUYOR |
 | bir | bir *(bir)* | bir *(bir)* | bir *(bir)* | UYUŞUYOR |
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
+| burada | munda *(bunda)* | bunta *(bunda)* | bunda *(bunda)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | büyük *(bedük)* | uluğ *(uluğ)* | AYRIŞIYOR |
 | çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
 | çok | köp *(köp)* | köp *(köp)* | köp *(köp)* | UYUŞUYOR |
@@ -35,6 +37,7 @@ Toplam 98 kavram, 10 tanesi ayrışıyor.
 | deniz | teñiz *(teñiz)* | teñiz *(teñiz)* | deñiz *(teñiz)* | UYUŞUYOR |
 | dil | til *(tıl)* | tıl *(tıl)* | til *(tıl)* | UYUŞUYOR |
 | diş | tiş *(tiş)* | tiş *(tiş)* | tiş *(tiş)* | UYUŞUYOR |
+| dolu | tolu *(tolu)* | tolu *(tolu)* | tolu *(tolu)* | UYUŞUYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
 | dün | tünegün *(tünegün)* | tünekün *(tünegün)* | tünegün *(tünegün)* | UYUŞUYOR |
 | düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
@@ -53,8 +56,10 @@ Toplam 98 kavram, 10 tanesi ayrışıyor.
 | göz | köz *(köz)* | köz *(köz)* | köz *(köz)* | UYUŞUYOR |
 | gün | kün *(kün)* | kün *(kün)* | kün *(kün)* | UYUŞUYOR |
 | güneş | kün *(kün)* | koyaş *(koyaş)* | kün *(kün)* | AYRIŞIYOR |
+| hangi | kaysı *(kayu)* | kayım *(kayu)* | kaysı *(kayu)* | UYUŞUYOR |
 | iç- | iç *(iç)* | iç *(iç)* | iç *(iç)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
+| ile | bile *(birle)* | birle *(birle)* | bile *(birle)* | UYUŞUYOR |
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
 | it | it *(ıt)* | ıt *(ıt)* | it *(ıt)* | UYUŞUYOR |
 | iyi | yakşı *(yakşı)* | yakşı *(yakşı)* | yaxşı *(yakşı)* | UYUŞUYOR |
@@ -74,11 +79,13 @@ Toplam 98 kavram, 10 tanesi ayrışıyor.
 | kulak | kulak *(kulkak)* | kulkak *(kulkak)* | kulak *(kulkak)* | UYUŞUYOR |
 | kuş | kuş *(kuş)* | kuş *(kuş)* | kuş *(kuş)* | UYUŞUYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
+| ne zaman | kaçan *(kaçan)* | kaçan *(kaçan)* | kaçan *(kaçan)* | UYUŞUYOR |
 | ne | ne *(ne)* | ne *(ne)* | ne *(ne)* | UYUŞUYOR |
 | nere | kayda *(kayda)* | kayuda *(kayda)* | kayda *(kayda)* | UYUŞUYOR |
 | o | ol *(ol)* | ol *(ol)* | o *(ol)* | UYUŞUYOR |
 | öl- | öl *(öl)* | öl *(öl)* | öl *(öl)* | UYUŞUYOR |
 | onlar | olar *(olar)* | olar *(olar)* | olar *(olar)* | UYUŞUYOR |
+| orada | anda *(anda)* | anta *(anda)* | anda *(anda)* | UYUŞUYOR |
 | otur- | olur *(olur)* | olur *(olur)* | otur *(olur)* | UYUŞUYOR |
 | sarı | sarığ *(sarığ)* | sarığ *(sarığ)* | sarı *(sarığ)* | UYUŞUYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
@@ -89,6 +96,7 @@ Toplam 98 kavram, 10 tanesi ayrışıyor.
 | su | suw *(sub)* | sub *(sub)* | su *(sub)* | UYUŞUYOR |
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
 | dur-/tur- | tur *(tur)* | tur *(tur)* | tur *(tur)* | UYUŞUYOR |
+| tut- | tut *(tut)* | tut *(tut)* | tut *(tut)* | UYUŞUYOR |
 | üç | üç *(üç)* | üç *(üç)* | üç *(üç)* | UYUŞUYOR |
 | uyu- | udu *(udı)* | udı *(udı)* | uyu *(udı)* | UYUŞUYOR |
 | uzun | uzun *(uzun)* | uzun *(uzun)* | uzun *(uzun)* | UYUŞUYOR |

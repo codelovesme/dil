@@ -1,0 +1,58 @@
+kavram: burada
+ingilizce: here
+anlam: Bu yerde.
+dogrulandi: false
+kokler:
+- kok: bunda
+  koken: türkçe
+  ana_turkce: '*bunda'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bunda.yaml).
+  tarihi:
+    qwm: monda
+    otk: bunta
+  bicimler:
+    bak: bında
+    chv: kunta
+    crh: mında
+    dlg: manna
+    krc: mında
+    kdr: muna
+    kaa: bunda
+    kaz: munda
+    kjh: mında
+    klj:
+      bicim: buoda
+      miras: true
+    kir: mında
+    kum: munda
+    clw: mında
+    nog: munda
+    atv: mında
+    slr: mınta
+    ybe: mında
+    cjs: mında
+    alt: mında
+    tat: monda
+    kim: mında
+    tyv: mında
+    sah: manna
+    sty-baraba: mında
+- kok: burada
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/burada.yaml).
+  bicimler:
+    aze: burada
+    gag: bırda
+    tur: burada
+- kok: bu yerde
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bu yerde.yaml).
+  bicimler:
+    tuk: bu yerde
+    uig: bu yärdä
+    uzb: bu yerda
+yok: []
+tarihi_yok: []

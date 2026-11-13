@@ -5,13 +5,13 @@
 - **Anlam:** "artmak, artakalmak"
 - **Ana Türkçe:** *art-
 - **Köken:** türkçe
-- **Kavramlar:** [kal](../temel/kal.yaml)
+- **Kavramlar:** [kal](../temel/kal.yaml), [baska](../temel/baska.yaml)
 - **Etimoloji:** art- 'artmak, fazla kalmak'; Kuman ve Güney Altaycada 'kalmak'.
 - **En eski tanık:** 14. yy
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -39,7 +39,9 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
+| Oğuz kolu | Salarca |  | **artı** |  | başka (artan, artı) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Güney Altayca |  | **art** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Kuzey Altayca |  | **artan** |  | başka (artan, artı) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Baraba ağzı | | — | | | | kök yok: yerine kal (kal) |
 | | Kuzey Altayca | | — | | | | kök yok: yerine kal (kal) |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kal (kal) |
@@ -72,4 +74,4 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 4 tanık

@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: o yerde
+anlam: '"o yerde"'
+koken: türkçe
+kavramlar:
+- orada
+etimoloji: o(l) + yer + -de; Türkmence, Uygurca ve Özbekçede 'orada'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ol yerde, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: u yärdä, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: u yerda, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine anda (anda)
+  atv: yerine anda (anda)
+  alt: yerine anda (anda)
+  bak: yerine unda (anda)
+  chv: yerine unta (anda)
+  crh: yerine anda (anda)
+  dlg: yerine onno (anda)
+  kaa: yerine anda (anda)
+  krc: yerine anda (anda)
+  kdr: yerine anda (anda)
+  kaz: yerine onda (anda)
+  kjh: yerine anda (anda)
+  kir: yerine anda (anda)
+  kum: yerine onda (anda)
+  clw: yerine anda (anda)
+  nog: yerine onda (anda)
+  slr: yerine anta (anda)
+  ybe: yerine anda (anda)
+  cjs: yerine anda (anda)
+  tat: yerine anda (anda)
+  kim: yerine ında (anda)
+  tyv: yerine ında (anda)
+  sah: yerine onno (anda)
+  aze: yerine orada (orada)
+  gag: yerine orada (orada)
+  klj: yerine uora (orada)
+  tur: yerine orada (orada)
+tarihi_yok: {}

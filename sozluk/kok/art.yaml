@@ -3,22 +3,15 @@ kok: art
 anlam: '"artmak, artakalmak"'
 koken: türkçe
 ana_turkce: '*art-'
-kavramlar:
-- kal
+kavramlar: [kal, baska]
 etimoloji: art- 'artmak, fazla kalmak'; Kuman ve Güney Altaycada 'kalmak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - dil: qwm
-    yer: Kırım ve Deşt-i Kıpçak
-    yuzyil: 14
-    metin: Codex Cumanicus
-    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
-    yabanci: true
-    bicim: art
-    kaynak: savelyev-turkic
-    atif: noauthor1880
+  - {atif: noauthor1880, bicim: art, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
   - {atif: baskakov1947, bicim: art, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: 'başka (artan, artı)', atif: baskakov1985, bicim: artan, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: 'başka (artan, artı)', atif: tenisev1976, bicim: artı, dil: slr, kaynak: savelyev-turkic}
 
 yok:
   sty-baraba: yerine kal (kal)
