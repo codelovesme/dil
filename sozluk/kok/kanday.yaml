@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kanday
+anlam: '"nasıl, ne tür?"; kan- soru gövdesinden'
+koken: türkçe
+kavramlar:
+- nasil
+etimoloji: Soru gövdesi kan- (*ka-) ile kurulan kanday, kandak, kançap; Kırgız, Altay, Sayan,
+  Özbek ve Uygur dillerinde.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'judakhin1985, judakhin1957', bicim: kanday, dil: kir, kaynak: savelyev-turkic, yazi: кандай}
+  - {atif: baskakov1985, bicim: kanayıp, dil: atv, kaynak: savelyev-turkic, not: Ayrıca kayıp.}
+  - {atif: baskakov1947, bicim: kandıy, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kançap, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kançap, dil: tyv, kaynak: savelyev-turkic, yazi: канчап}
+  - {atif: nadzip1968, bicim: kandak, dil: uig, kaynak: savelyev-turkic, yazi: قانداق}
+  - {atif: 'awde2002, kary-nijazov1941', bicim: kanday, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  kaa: yerine kalay (neçük)
+  krc: yerine kalay (neçük)
+  kaz: yerine kalay (neçük)
+  nog: yerine kalay (neçük)
+  sty-baraba: yerine näçik (neçük)
+  aze: yerine necä (neçük)
+  kdr: yerine neçik (neçük)
+  kum: yerine neçik (neçük)
+  slr: yerine neçux (neçük)
+  tat: yerine niçek (neçük)
+  bak: yerine kalay (kalay)
+  dlg: yerine kaytak (kaydı)
+  kjh: yerine xaydı (kaydı)
+  clw: yerine kaynar (kaydı)
+  cjs: yerine kayde (kaydı)
+  sah: yerine haydah (kaydı)
+  crh: yerine nasıl (nasıl, alıntı:ar)
+  gag: yerine nasıl (nasıl, alıntı:ar)
+  tur: yerine nasıl (nasıl, alıntı:ar)
+  tuk: yerine nähili (nähili, belirsiz)
+  klj: yerine nätäydä (netäg)
+  chv: yerine mĕnle (mĕnle)
+tarihi_yok: {}

@@ -12,6 +12,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [büyük](temel/buyuk.md) | big | **uluğ** | **bedük** | **büyük** | ayrişiyor |
 | [dağ](temel/dag.md) | mountain | **tağ** | **tağ** | **tağ** | uyuşuyor |
 | [kim](temel/kim.md) | who | **kim** | **kim** | **kim** | uyuşuyor |
+| [nasıl](temel/nasil.md) | how | **neçuk** | **neçük** | **necä** | uyuşuyor |
 | [ne](temel/ne.md) | what | **ne** | **ne** | **ne** | uyuşuyor |
 | [nere](temel/nere.md) | where | **kayda** | **kayuda** | **kayda** | uyuşuyor |
 | [o](temel/o.md) | he / she / it | **ol** | **ol** | **o** | uyuşuyor |

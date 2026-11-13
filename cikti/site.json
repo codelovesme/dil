@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 14,
-  "kok": 17,
-  "tanik": 402,
+  "kavram": 15,
+  "kok": 23,
+  "tanik": 437,
   "kaynak": 168,
   "dil": 40
  },
@@ -70,13 +70,28 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kalay.md",
+   "baslik": "kalay",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kanda.md",
    "baslik": "kanda",
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kanday.md",
+   "baslik": "kanday",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kayda.md",
    "baslik": "kayda",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kaydı.md",
+   "baslik": "kaydı",
    "tur": "kok"
   },
   {
@@ -100,6 +115,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/mĕnle.md",
+   "baslik": "mĕnle",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ne.md",
    "baslik": "ne",
    "tur": "kok"
@@ -107,6 +127,16 @@
   {
    "yol": "sozluk/kok/nerede.md",
    "baslik": "nerede",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/netäg.md",
+   "baslik": "netäg",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/neçük.md",
+   "baslik": "neçük",
    "tur": "kok"
   },
   {
@@ -162,6 +192,11 @@
   {
    "yol": "sozluk/temel/kim.md",
    "baslik": "kim",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/nasil.md",
+   "baslik": "nasıl",
    "tur": "kavram"
   },
   {
@@ -314,6 +349,38 @@
     "käm",
     "kĭm",
     "kım"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "nasıl",
+   "alt": "how",
+   "yol": "sozluk/temel/nasil.md",
+   "ozet": "Ortak dil: neçuk · Ana Türkçe tahmini: neçük · En çok kişinin anladığı: necä",
+   "anahtar": [
+    "haydah",
+    "kalay",
+    "kanayıp",
+    "kandak",
+    "kanday",
+    "kandıy",
+    "kançap",
+    "kayde",
+    "kaynar",
+    "kaytak",
+    "mĕnle",
+    "nasıl",
+    "necä",
+    "neçik",
+    "neçuk",
+    "neçux",
+    "neçük",
+    "nisek",
+    "niçek",
+    "nähili",
+    "nätäydä",
+    "näçik",
+    "xaydı"
    ]
   },
   {
@@ -570,6 +637,17 @@
   },
   {
    "t": "kok",
+   "ad": "kalay",
+   "alt": "\"nasıl?\"; *ka- soru gövdesinden",
+   "yol": "sozluk/kok/kalay.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "kalay",
+    "ҡалай"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kanda",
    "alt": "\"nerede?\"; kanı \"hani, nerede\" gövdesinden",
    "yol": "sozluk/kok/kanda.md",
@@ -582,6 +660,23 @@
     "kanna",
     "ханна",
     "قېنى"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kanday",
+   "alt": "\"nasıl, ne tür?\"; kan- soru gövdesinden",
+   "yol": "sozluk/kok/kanday.md",
+   "ozet": "7 tanık, en eski günümüz",
+   "anahtar": [
+    "kanayıp",
+    "kandak",
+    "kanday",
+    "kandıy",
+    "kançap",
+    "кандай",
+    "канчап",
+    "قانداق"
    ]
   },
   {
@@ -603,6 +698,22 @@
     "xayda",
     "хайда",
     "ҡайҙа"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kaydı",
+   "alt": "\"nasıl?\"; kay- soru gövdesinden",
+   "yol": "sozluk/kok/kaydı.md",
+   "ozet": "5 tanık, en eski günümüz",
+   "anahtar": [
+    "haydah",
+    "kayde",
+    "kaynar",
+    "kaytak",
+    "xaydı",
+    "хайдах",
+    "хайди"
    ]
   },
   {
@@ -661,6 +772,17 @@
   },
   {
    "t": "kok",
+   "ad": "mĕnle",
+   "alt": "Çuvaşçada \"nasıl\"",
+   "yol": "sozluk/kok/mĕnle.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "mĕnle",
+    "мӗнле"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ne",
    "alt": "nesneyi soran soru zamiri (\"ne\"); eski dilde \"nasıl, niçin\" anlamlarında da",
    "yol": "sozluk/kok/ne.md",
@@ -698,6 +820,38 @@
     "nerede",
     "neredi",
     "nirede"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "netäg",
+   "alt": "Halaççada \"nasıl\"",
+   "yol": "sozluk/kok/netäg.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "nätäydä"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "neçük",
+   "alt": "\"nasıl?\"; ne + küçültme/benzerlik eki",
+   "yol": "sozluk/kok/neçük.md",
+   "ozet": "20 tanık, en eski 8. yy",
+   "anahtar": [
+    "kalay",
+    "kanday",
+    "necä",
+    "neçik",
+    "neçuk",
+    "neçux",
+    "neçük",
+    "nisek",
+    "niçek",
+    "näçik",
+    "нисек",
+    "ничек",
+    "қалай"
    ]
   },
   {

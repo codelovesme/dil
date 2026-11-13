@@ -1,0 +1,84 @@
+kavram: nasıl
+ingilizce: how
+anlam: Durumu, biçimi soran soru sözü.
+dogrulandi: false
+kokler:
+- kok: neçük
+  koken: türkçe
+  ana_turkce: '*ne-čük'
+  kaynak: savelyev-turkic; clauson
+  not: Tanıklar sözlük maddesinde (sozluk/kok/neçük.yaml).
+  tarihi:
+    otk: neçük
+    xqa: neçük
+    qwm: neçik
+    chg: neçük
+  bicimler:
+    aze: necä
+    bak:
+      bicim: nisek
+      tercih: 0.5
+    krc: kalay
+    kdr: neçik
+    kaa: kalay
+    kaz: kalay
+    kum: neçik
+    nog: kalay
+    slr: neçux
+    tat: niçek
+    uig:
+      bicim: neçuk
+      tercih: 0.5
+    uzb: kanday
+    sty-baraba: näçik
+- kok: kalay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    bak: kalay
+- kok: kanday
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    kir: kanday
+    atv: kanayıp
+    alt: kandıy
+    kim: kançap
+    tyv: kançap
+    uig:
+      bicim: kandak
+      tercih: 1
+    uzb: kanday
+- kok: kaydı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    dlg: kaytak
+    kjh: xaydı
+    clw: kaynar
+    cjs: kayde
+    sah: haydah
+- kok: nasıl
+  koken: alıntı:ar
+  kaynak: savelyev-turkic; nisanyan
+  bicimler:
+    crh: nasıl
+    gag: nasıl
+    tur: nasıl
+- kok: nähili
+  koken: belirsiz
+  kaynak: savelyev-turkic
+  bicimler:
+    tuk: nähili
+- kok: netäg
+  koken: türkçe
+  kaynak: savelyev-turkic; clauson
+  bicimler:
+    klj: nätäydä
+- kok: mĕnle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    chv: mĕnle
+yok: []
+tarihi_yok: []

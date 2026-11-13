@@ -1,0 +1,94 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: neçük
+anlam: '"nasıl?"; ne + küçültme/benzerlik eki'
+koken: türkçe
+ana_turkce: '*ne-čük'
+kavramlar:
+- nasil
+etimoloji: ne soru zamirinin -çük ekli türevi. Eski Türkçeden beri "nasıl" ve "niçin" anlamında;
+  Kâşgarlı'da Yabaku ağzında "niçin". Kıpçak-Bulgar (niçek, nisek), Kuman (neçik), Kumuk,
+  Karay, Salar ve Uygurca biçimler bu kökten.
+kaynak: savelyev-turkic; clauson
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    bicim: neçük
+    metin: Irk Bitig; Maniheist ve Budist Uygur metinleri
+    kaynak: clauson
+    not: Araç durumu neçükin 'nasıl' de geçer.
+  - dil: xqa
+    yer: Kâşgar
+    yuzyil: 11
+    bicim: neçük
+    metin: Dîvânu Lugâti't-Türk
+    kaynak: dlt; clauson
+    atif: DLT I 392
+    kaydeden: Kâşgarlı Mahmud
+    anlam: '"niçin" (Yabaku ağzında)'
+  - dil: xqa
+    yuzyil: 13
+    bicim: neçük
+    metin: Karahanlıca Kur'an tefsiri
+    kaynak: clauson
+  - dil: chg
+    yer: Harezm
+    yuzyil: 13-14
+    bicim: neçük
+    metin: Harezm metinleri; Kutb; Nehcü'l-Feradis
+    kaynak: clauson; najip-xiv
+  - dil: qwm
+    yer: Memlük Mısır'ı
+    yuzyil: 13
+    bicim: neçük
+    metin: Leiden yazması Arapça-Türkçe sözlük (1245)
+    kaynak: houtsma-leiden; clauson
+    atif: Houtsma 55, 16
+    kaydeden: Memlük sarayında Arapça yazan bir sözlükçü
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    bicim: neçik
+    metin: Codex Cumanicus
+    kaynak: gronbech-kuman; clauson; savelyev-turkic
+    atif: Grønbech s. 169-171
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    anlam: '"nasıl; gibi"'
+  - dil: chg
+    yuzyil: 15-18
+    bicim: neçük
+    metin: Çağatay edebî dili; Senglâh
+    kaynak: clauson; senglah
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: necä, dil: aze, kaynak: savelyev-turkic, not: Savelyev'e göre 'nasıl'; günlük dilde necə.}
+  - {atif: 'uraksin1996, uraksin2005', bicim: nisek, dil: bak, kaynak: savelyev-turkic, yazi: нисек}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kalay, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: neçik, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kalay, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kalay, dil: kaz, kaynak: savelyev-turkic, yazi: қалай}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: neçik, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kalay, dil: nog, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: neçux, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: niçek, dil: tat, kaynak: savelyev-turkic, yazi: ничек}
+  - {atif: nadzip1968, bicim: neçuk, dil: uig, kaynak: savelyev-turkic, not: Asıl biçim kandak (kanday kökü); neçuk ikincil.}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kanday, dil: uzb, kaynak: savelyev-turkic, not: Ayrıca kalay.}
+  - {atif: dmitrijeva1981, bicim: näçik, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine kanayıp (kanday)
+  alt: yerine kandıy (kanday)
+  kir: yerine kanday (kanday)
+  kim: yerine kançap (kanday)
+  tyv: yerine kançap (kanday)
+  dlg: yerine kaytak (kaydı)
+  kjh: yerine xaydı (kaydı)
+  clw: yerine kaynar (kaydı)
+  cjs: yerine kayde (kaydı)
+  sah: yerine haydah (kaydı)
+  crh: yerine nasıl (nasıl, alıntı:ar)
+  gag: yerine nasıl (nasıl, alıntı:ar)
+  tur: yerine nasıl (nasıl, alıntı:ar)
+  tuk: yerine nähili (nähili, belirsiz)
+  klj: yerine nätäydä (netäg)
+  chv: yerine mĕnle (mĕnle)
+tarihi_yok: {}
