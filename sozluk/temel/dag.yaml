@@ -1,34 +1,66 @@
 kavram: dağ
 ingilizce: mountain
-dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+anlam: Dağ.
+dogrulandi: false
 kokler:
-  - kok: tağ
-    tarihi: { otk: tağ }
-    koken: türkçe
-    kaynak: Orhon yazıtları; DLT; Clauson 1972
-    bicimler:
-      chv: tu
-      tur: dağ
-      aze: dağ
-      tuk: dag
-      tat: taw
-      bak: taw
-      crh: dağ
-      kum: taw
-      krc: taw
-      kaz: taw
-      kaa: taw
-      nog: taw
-      kir: too
-      uzb: toğ
-      uig: tağ
-      tyv: dağ
-      kjh: tağ
-      alt: tuu
-  - kok: kaya
-    tarihi: { otk: kaya }
-    koken: türkçe
-    kaynak: DLT
-    not: Eski Türkçede ve çoğu dilde "kaya" anlamında; "dağ" anlamında Sahacada.
-    bicimler:
-      sah: xaya
+- kok: tağ
+  koken: türkçe
+  ana_turkce: '*tāg'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tağ.yaml).
+  tarihi:
+    qwm: tağ
+    otk: tağ
+  bicimler:
+    aze: dağ
+    bak: taw
+    chv:
+      bicim: tu
+      miras: true
+    crh: dağ
+    krc: taw
+    kdr: tav
+    kaa: taw
+    kaz: taw
+    kjh: tağ
+    klj:
+      bicim: taağ
+      miras: true
+    kir: too
+    kum: taw
+    clw: tağ
+    nog: taw
+    atv: tağ
+    slr: tağ
+    ybe: tağ
+    cjs: tağ
+    tat: taw
+    kim: dağ
+    tur: dağ
+    tuk: dağ
+    tyv: dağ
+    uig: tağ
+    uzb: toğ
+    sty-baraba: taw
+- kok: kaya
+  koken: türkçe
+  ana_turkce: '*kaya'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kaya.yaml).
+  bicimler:
+    dlg: kaya
+    sah: xaya
+- kok: bayır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bayır.yaml).
+  bicimler:
+    gag: bayır
+- kok: kır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kır.yaml).
+  bicimler:
+    alt: kır
+yok: []
+tarihi_yok: []

@@ -27,7 +27,7 @@ Toplam 98 kavram, 10 tanesi ayrışıyor.
 | bir | bir *(bir)* | bir *(bir)* | bir *(bir)* | UYUŞUYOR |
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
-| büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
+| büyük | uluğ *(uluğ)* | büyük *(bedük)* | uluğ *(uluğ)* | AYRIŞIYOR |
 | çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
 | çok | köp *(köp)* | köp *(köp)* | köp *(köp)* | UYUŞUYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |

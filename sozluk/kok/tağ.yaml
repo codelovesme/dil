@@ -1,0 +1,67 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tağ
+anlam: '"dağ"'
+koken: türkçe
+ana_turkce: '*tāg'
+kavramlar:
+- dag
+etimoloji: 'Ana Türkçe *tāg (uzun a: Halaççada iz). Oğuz''da dağ, Kıpçak''ta taw, Kırgızca
+  too, Güney Sibirya''da tağ; Çuvaşça tu.'
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tağ
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazımlar tag, tav.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tağ
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: tur
+    yuzyil: 16-19
+    bicim: dağ
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: داغ
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: dağ, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: taw, dil: bak, kaynak: savelyev-turkic, yazi: тау}
+  - {atif: 'asmarin1928, savelyev2011', bicim: tu, dil: chv, kaynak: savelyev-turkic, yazi: ту}
+  - {atif: useinov2007, bicim: dağ, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: taw, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: tav, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: taw, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: taw, dil: kaz, kaynak: savelyev-turkic, yazi: тау}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tağ, dil: kjh, kaynak: savelyev-turkic, yazi: тағ}
+  - {atif: doerfer1980, bicim: taağ, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: too, dil: kir, kaynak: savelyev-turkic, yazi: тоо}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: taw, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: tağ, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: taw, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: tağ, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: tağ, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: tağ, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: tağ, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: taw, dil: tat, kaynak: savelyev-turkic, yazi: тау}
+  - {atif: 'rassadin1971, rassadin2005', bicim: dağ, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: dağ, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: dağ, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dağ, dil: tyv, kaynak: savelyev-turkic, yazi: даг}
+  - {atif: nadzip1968, bicim: tağ, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: toğ, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: taw, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  dlg: yerine kaya (kaya)
+  sah: yerine xaya (kaya)
+  gag: yerine bayır (bayır)
+  alt: yerine kır (kır)
+tarihi_yok: {}

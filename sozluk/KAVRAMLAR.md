@@ -25,7 +25,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [bir](temel/bir.md) | one | **bir** | **bir** | **bir** | uyuşuyor |
 | [biz](temel/biz.md) | we | **biz** | **biz** | **biz** | uyuşuyor |
 | [bu](temel/bu.md) | this | **bu** | **bu** | **bu** | uyuşuyor |
-| [büyük](temel/buyuk.md) | big | **uluğ** | **bedük** | **büyük** | ayrişiyor |
+| [büyük](temel/buyuk.md) | big | **uluğ** | **büyük** | **uluğ** | ayrişiyor |
 | [çocuk](temel/cocuk.md) | child | **bala** | **bala** | **bala** | uyuşuyor |
 | [çok](temel/cok.md) | many, much | **köp** | **köp** | **köp** | uyuşuyor |
 | [dağ](temel/dag.md) | mountain | **tağ** | **tağ** | **tağ** | uyuşuyor |

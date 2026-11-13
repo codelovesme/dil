@@ -1,30 +1,50 @@
 kavram: taş
 ingilizce: stone
-dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+anlam: Taş.
+dogrulandi: false
 kokler:
-  - kok: taş
-    tarihi: { otk: taş }
-    koken: türkçe
-    kaynak: Orhon yazıtları; DLT; Clauson 1972
-    not: Çuvaşça çul, Oğur kolundaki ş > l denkliğiyle aynı kökten.
-    bicimler:
-      chv: çul
-      tur: taş
-      gag: taş
-      aze: daş
-      tuk: daş
-      tat: taş
-      bak: taş
-      crh: taş
-      kum: taş
-      krc: taş
-      kaz: tas
-      kaa: tas
-      nog: tas
-      kir: taş
-      uzb: toş
-      uig: taş
-      sah: taas
-      tyv: daş
-      kjh: tas
-      alt: taş
+- kok: taş
+  koken: türkçe
+  ana_turkce: '*tāĺ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/taş.yaml).
+  tarihi:
+    qwm: taş
+    otk: taş
+  bicimler:
+    aze: daş
+    bak: taş
+    chv:
+      bicim: çul
+      miras: true
+    crh: taş
+    dlg: taas
+    gag: taş
+    krc: taş
+    kdr: taş
+    kaa: tas
+    kaz: tas
+    kjh: tas
+    klj:
+      bicim: taaş
+      miras: true
+    kir: taş
+    kum: taş
+    clw: tas
+    nog: tas
+    atv: taş
+    slr: taş
+    ybe: tas
+    cjs: taş
+    alt: taş
+    tat: taş
+    kim: daş
+    tur: taş
+    tuk: daş
+    tyv: daş
+    uig: taş
+    uzb: toş
+    sah: taas
+    sty-baraba: taş
+yok: []
+tarihi_yok: []

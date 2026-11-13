@@ -1,29 +1,51 @@
 kavram: su
 ingilizce: water
-dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+anlam: Su.
+dogrulandi: false
 kokler:
-  - kok: sub
-    tarihi: { otk: sub }
-    koken: türkçe
-    kaynak: Orhon yazıtları; DLT; Clauson 1972
-    bicimler:
-      chv: şıv
-      tur: su
-      gag: su
-      aze: su
-      tuk: suw
-      tat: su
-      bak: hıw
-      crh: suv
-      kum: suw
-      krc: suw
-      kaz: su
-      kaa: suw
-      nog: suw
-      kir: suu
-      uzb: suv
-      uig: su
-      sah: uu
-      tyv: suğ
-      kjh: suğ
-      alt: suu
+- kok: sub
+  koken: türkçe
+  ana_turkce: '*sub'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sub.yaml).
+  tarihi:
+    qwm: su
+    otk: sub
+    eski-anadolu: su
+  bicimler:
+    aze: su
+    bak: hıw
+    chv:
+      bicim: şıv
+      miras: true
+    crh: suw
+    dlg: uu
+    gag: su
+    krc: suw
+    kdr: suv
+    kaa: suw
+    kaz: su
+    kjh: suğ
+    klj:
+      bicim: suw
+      miras: true
+    kir: suu
+    kum: suw
+    clw: suğ
+    nog: suw
+    atv: suğ
+    slr: su
+    ybe: su
+    cjs: suğ
+    alt: suu
+    tat: su
+    kim: suğ
+    tur: su
+    tuk: suw
+    tyv: suğ
+    uig: su
+    uzb: suv
+    sah: uu
+    sty-baraba: su
+yok: []
+tarihi_yok: []

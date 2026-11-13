@@ -3,8 +3,8 @@
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
   "kavram": 98,
-  "kok": 243,
-  "tanik": 3035,
+  "kok": 251,
+  "tanik": 3163,
   "kaynak": 168,
   "dil": 40
  },
@@ -175,8 +175,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/bayır.md",
+   "baslik": "bayır",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/baş.md",
    "baslik": "baş",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bedük.md",
+   "baslik": "bedük",
    "tur": "kok"
   },
   {
@@ -415,6 +425,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kaya.md",
+   "baslik": "kaya",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kayda.md",
    "baslik": "kayda",
    "tur": "kok"
@@ -610,6 +625,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kır.md",
+   "baslik": "kır",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kısga.md",
    "baslik": "kısga",
    "tur": "kok"
@@ -745,6 +765,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/sub.md",
+   "baslik": "sub",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/sun.md",
    "baslik": "sun",
    "tur": "kok"
@@ -767,6 +792,16 @@
   {
    "yol": "sozluk/kok/tañ.md",
    "baslik": "tañ",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/tağ.md",
+   "baslik": "tağ",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/taş.md",
+   "baslik": "taş",
    "tur": "kok"
   },
   {
@@ -892,6 +927,11 @@
   {
    "yol": "sozluk/kok/uk.md",
    "baslik": "uk",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/uluğ.md",
+   "baslik": "uluğ",
    "tur": "kok"
   },
   {
@@ -2106,26 +2146,29 @@
    "ad": "büyük",
    "alt": "big",
    "yol": "sozluk/temel/buyuk.md",
-   "ozet": "Ortak dil: uluğ · Ana Türkçe tahmini: bedük · En çok kişinin anladığı: büyük",
+   "ozet": "Ortak dil: uluğ · Ana Türkçe tahmini: büyük · En çok kişinin anladığı: uluğ",
    "anahtar": [
-    "bedük",
     "böyük",
+    "büdük",
     "büyük",
     "büük",
     "katta",
     "olo",
     "olı",
+    "pezik",
     "pısăk",
+    "ulakan",
     "ulaxan",
     "ullu",
     "ullı",
     "ulu",
     "uluu",
     "uluğ",
-    "uly",
+    "ulı",
     "zur",
     "çoñ",
-    "ülken"
+    "ülken",
+    "üyken"
    ]
   },
   {
@@ -2177,15 +2220,17 @@
    "yol": "sozluk/temel/dag.md",
    "ozet": "Ortak dil: tağ · Ana Türkçe tahmini: tağ · En çok kişinin anladığı: tağ",
    "anahtar": [
-    "dag",
+    "bayır",
     "dağ",
     "kaya",
+    "kır",
+    "taağ",
+    "tav",
     "taw",
     "tağ",
     "too",
     "toğ",
     "tu",
-    "tuu",
     "xaya"
    ]
   },
@@ -3371,6 +3416,7 @@
    "anahtar": [
     "daş",
     "taas",
+    "taaş",
     "tas",
     "taş",
     "toş",
@@ -4175,6 +4221,16 @@
   },
   {
    "t": "kok",
+   "ad": "bayır",
+   "alt": "\"bayır, yamaç\"",
+   "yol": "sozluk/kok/bayır.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "bayır"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "baş",
    "alt": "\"baş\"",
    "yol": "sozluk/kok/baş.md",
@@ -4190,6 +4246,22 @@
     "бас",
     "пас",
     "пуҫ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bedük",
+   "alt": "\"büyük\"",
+   "yol": "sozluk/kok/bedük.md",
+   "ozet": "7 tanık, en eski günümüz",
+   "anahtar": [
+    "böyük",
+    "büdük",
+    "büyük",
+    "büük",
+    "pezik",
+    "pısăk",
+    "пысӑк"
    ]
   },
   {
@@ -4983,6 +5055,18 @@
   },
   {
    "t": "kok",
+   "ad": "kaya",
+   "alt": "\"kaya; dağ\"",
+   "yol": "sozluk/kok/kaya.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "kaya",
+    "xaya",
+    "хайа"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kayda",
    "alt": "\"nerede?\"; kayu \"hangi\" gövdesine bulunma eki",
    "yol": "sozluk/kok/kayda.md",
@@ -5574,6 +5658,16 @@
   },
   {
    "t": "kok",
+   "ad": "kır",
+   "alt": "\"kır, sırt\"",
+   "yol": "sozluk/kok/kır.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "kır"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kısga",
    "alt": "\"kısa\"",
    "yol": "sozluk/kok/kısga.md",
@@ -6017,6 +6111,32 @@
   },
   {
    "t": "kok",
+   "ad": "sub",
+   "alt": "\"su\"",
+   "yol": "sozluk/kok/sub.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "hıw",
+    "su",
+    "sub",
+    "suu",
+    "suv",
+    "suw",
+    "suğ",
+    "uu",
+    "şıv",
+    "суг",
+    "суу",
+    "суғ",
+    "уу",
+    "шыв",
+    "һыу",
+    "صو",
+    "صُو"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "sun",
    "alt": "Tofacada \"koşmak\"",
    "yol": "sozluk/kok/sun.md",
@@ -6088,6 +6208,49 @@
     "tañda",
     "tañna",
     "tağın"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "tağ",
+   "alt": "\"dağ\"",
+   "yol": "sozluk/kok/tağ.md",
+   "ozet": "29 tanık, en eski 8. yy",
+   "anahtar": [
+    "dağ",
+    "taağ",
+    "tav",
+    "taw",
+    "tağ",
+    "too",
+    "toğ",
+    "tu",
+    "даг",
+    "тау",
+    "тағ",
+    "тоо",
+    "ту",
+    "داغ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "taş",
+   "alt": "\"taş\"",
+   "yol": "sozluk/kok/taş.md",
+   "ozet": "33 tanık, en eski 8. yy",
+   "anahtar": [
+    "daş",
+    "taas",
+    "taaş",
+    "tas",
+    "taş",
+    "toş",
+    "çul",
+    "даш",
+    "таас",
+    "чул",
+    "طاش"
    ]
   },
   {
@@ -6460,6 +6623,28 @@
    "anahtar": [
     "uk",
     "ук-"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "uluğ",
+   "alt": "\"büyük, ulu\"",
+   "yol": "sozluk/kok/uluğ.md",
+   "ozet": "21 tanık, en eski 8. yy",
+   "anahtar": [
+    "olo",
+    "olı",
+    "ulakan",
+    "ulaxan",
+    "ullu",
+    "ullı",
+    "ulu",
+    "uluu",
+    "uluğ",
+    "ulı",
+    "улахан",
+    "улуг",
+    "улуғ"
    ]
   },
   {
