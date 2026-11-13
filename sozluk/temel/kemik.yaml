@@ -1,0 +1,50 @@
+kavram: kemik
+ingilizce: bone
+anlam: Kemik.
+dogrulandi: false
+kokler:
+- kok: süñük
+  koken: türkçe
+  ana_turkce: '*süŋük'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/süñük.yaml).
+  tarihi:
+    otk: süñük
+    eski-anadolu: süŋük
+  bicimler:
+    aze: sümük
+    bak: höyäk
+    chv: şămă
+    dlg: oñuok
+    krc: süyek
+    kdr: süyek
+    kaa: süyek
+    kaz: süyek
+    kjh: söök
+    kir: söök
+    kum: süyek
+    clw: söök
+    nog: süyek
+    atv: söök
+    slr: senix
+    ybe: sımık
+    cjs: söök
+    alt: söök
+    tat: söyäk
+    kim: söök
+    tuk: süñk
+    tyv: söök
+    uig: söñäk
+    uzb: suyak
+    sah: uñuox
+    sty-baraba: söök
+- kok: kemik
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kemik.yaml).
+  bicimler:
+    crh: kemik
+    gag: kemik
+    tur: kemik
+yok: []
+tarihi_yok: []

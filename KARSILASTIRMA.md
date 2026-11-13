@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 62 kavram, 8 tanesi ayrışıyor.
+Toplam 68 kavram, 9 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@ Toplam 62 kavram, 8 tanesi ayrışıyor.
 | ana | ana *(ana)* | ana *(ana)* | ana *(ana)* | UYUŞUYOR |
 | ata | ata *(ata)* | ata *(ata)* | ata *(ata)* | UYUŞUYOR |
 | ay | ay *(ay)* | ay *(ay)* | ay *(ay)* | UYUŞUYOR |
+| ayak | ayak *(adak)* | adak *(adak)* | ayak *(adak)* | UYUŞUYOR |
 | bak- | kara *(kara)* | bak *(bak)* | bak *(bak)* | AYRIŞIYOR |
 | baş | baş *(baş)* | baş *(baş)* | baş *(baş)* | UYUŞUYOR |
 | ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
@@ -31,7 +32,9 @@ Toplam 62 kavram, 8 tanesi ayrışıyor.
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
 | dün | tünegün *(tünegün)* | tünekün *(tünegün)* | tünegün *(tünegün)* | UYUŞUYOR |
 | düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
+| el | kol *(kol-ad)* | el *(elig)* | kol *(kol-ad)* | AYRIŞIYOR |
 | er (erkek) | er *(er)* | er *(er)* | erkek *(er)* | UYUŞUYOR |
+| et | et *(et-ad)* | et *(et-ad)* | et *(et-ad)* | UYUŞUYOR |
 | et-/kıl- | et *(et)* | et *(et)* | et *(et)* | UYUŞUYOR |
 | gece | tün *(tün)* | gece *(keçe)* | gece *(keçe)* | AYRIŞIYOR |
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
@@ -44,6 +47,8 @@ Toplam 62 kavram, 8 tanesi ayrışıyor.
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
 | kadın | tişiriw *(tişi)* | tişi *(tişi)* | karı *(karı)* | AYRIŞIYOR |
 | kal- | kal *(kal)* | kal *(kal)* | kal *(kal)* | UYUŞUYOR |
+| kan | kan *(kan)* | kan *(kan)* | kan *(kan)* | UYUŞUYOR |
+| kemik | sümük *(süñük)* | süñük *(süñük)* | sümük *(süñük)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
 | koş- | yügür *(yügür)* | çap *(çap)* | yügür *(yügür)* | AYRIŞIYOR |
@@ -69,4 +74,5 @@ Toplam 62 kavram, 8 tanesi ayrışıyor.
 | yat- | yat *(yat)* | yat *(yat)* | yat *(yat)* | UYUŞUYOR |
 | ye- | ye *(ye)* | ye *(ye)* | ye *(ye)* | UYUŞUYOR |
 | yıl | yıl *(yıl)* | yıl *(yıl)* | yıl *(yıl)* | UYUŞUYOR |
+| yürek | yürek *(yürek)* | yürek *(yürek)* | yürek *(yürek)* | UYUŞUYOR |
 | yürü- | yorı *(yorı)* | yorı *(yorı)* | yürü *(yorı)* | UYUŞUYOR |

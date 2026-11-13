@@ -1,0 +1,54 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: elig
+anlam: '"el"'
+koken: türkçe
+ana_turkce: '*ẹlig'
+kavramlar:
+- el
+etimoloji: Ana Türkçe *ẹlig 'el'; Eski Türkçe elig. Oğuz dillerinde el, Kuman el, Sahaca ve
+  Dolganca ilii, Çuvaşça ală.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: el
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - {bicim: äl, dil: aze, kaynak: bilgi, yazi: əl}
+  - {bicim: ală, dil: chv, kaynak: bilgi, yazi: алӑ}
+  - {atif: 'aksenova1992, stachowski1993', bicim: ilii, dil: dlg, kaynak: savelyev-turkic}
+  - {bicim: el, dil: gag, kaynak: bilgi}
+  - {bicim: el, dil: tur, kaynak: bilgi}
+  - {bicim: el, dil: tuk, kaynak: bilgi}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ilii, dil: sah, kaynak: savelyev-turkic, yazi: илии}
+
+yok:
+  sty-baraba: yerine kol (kol-ad)
+  atv: yerine kol (kol-ad)
+  alt: yerine kol (kol-ad)
+  bak: yerine kul (kol-ad)
+  crh: yerine kol (kol-ad)
+  kaa: yerine kol (kol-ad)
+  krc: yerine kol (kol-ad)
+  kdr: yerine kol (kol-ad)
+  kaz: yerine kol (kol-ad)
+  kjh: yerine xol (kol-ad)
+  klj: yerine kol (kol-ad)
+  kir: yerine kol (kol-ad)
+  kum: yerine kol (kol-ad)
+  clw: yerine kol (kol-ad)
+  nog: yerine kol (kol-ad)
+  slr: yerine kol (kol-ad)
+  ybe: yerine kol (kol-ad)
+  cjs: yerine kol (kol-ad)
+  tat: yerine kul (kol-ad)
+  kim: yerine kol (kol-ad)
+  tyv: yerine xol (kol-ad)
+  uig: yerine kol (kol-ad)
+  uzb: yerine kol (kol-ad)
+tarihi_yok: {}

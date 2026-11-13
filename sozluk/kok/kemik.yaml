@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kemik
+anlam: '"kemik"'
+koken: türkçe
+kavramlar:
+- kemik
+etimoloji: kemik; Türkiye Türkçesi, Gagavuzca ve Kırım Tatarcasında 'kemik'. Kökeni bu çalışmada
+  araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: kemik, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kemik, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: kemik, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine söök (süñük)
+  atv: yerine söök (süñük)
+  alt: yerine söök (süñük)
+  aze: yerine sümük (süñük)
+  bak: yerine höyäk (süñük)
+  chv: yerine şămă (süñük)
+  dlg: yerine oñuok (süñük)
+  kaa: yerine süyek (süñük)
+  krc: yerine süyek (süñük)
+  kdr: yerine süyek (süñük)
+  kaz: yerine süyek (süñük)
+  kjh: yerine söök (süñük)
+  kir: yerine söök (süñük)
+  kum: yerine süyek (süñük)
+  clw: yerine söök (süñük)
+  nog: yerine süyek (süñük)
+  slr: yerine senix (süñük)
+  ybe: yerine sımık (süñük)
+  cjs: yerine söök (süñük)
+  tat: yerine söyäk (süñük)
+  kim: yerine söök (süñük)
+  tuk: yerine süñk (süñük)
+  tyv: yerine söök (süñük)
+  uig: yerine söñäk (süñük)
+  uzb: yerine suyak (süñük)
+  sah: yerine uñuox (süñük)
+tarihi_yok: {}

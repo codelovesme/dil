@@ -1,0 +1,47 @@
+kavram: et
+ingilizce: meat, flesh
+anlam: Et.
+dogrulandi: false
+kokler:
+- kok: et-ad
+  koken: türkçe
+  ana_turkce: '*ẹt'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/et-ad.yaml).
+  tarihi:
+    qwm: et
+    otk: et
+  bicimler:
+    aze: ät
+    bak: it
+    chv: ăş
+    crh: et
+    dlg: et
+    krc: et
+    kdr: et
+    kaa: et
+    kaz: et
+    kjh: it
+    klj:
+      bicim: ät
+      miras: true
+    kir: et
+    kum: et
+    clw: ät
+    nog: et
+    atv: et
+    slr: et
+    ybe: et
+    cjs: et
+    alt: et
+    tat: it
+    kim: et
+    tur: et
+    tuk: et
+    tyv: et
+    uig: gösh
+    uzb: et
+    sah: et
+    sty-baraba: et
+yok: []
+tarihi_yok: []

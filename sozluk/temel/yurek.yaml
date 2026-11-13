@@ -1,0 +1,50 @@
+kavram: yürek
+ingilizce: heart
+anlam: Yürek, kalp.
+dogrulandi: false
+kokler:
+- kok: yürek
+  koken: türkçe
+  ana_turkce: '*yürek'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yürek.yaml).
+  tarihi:
+    otk: yürek
+    eski-anadolu: yüräk
+  bicimler:
+    aze: üräk
+    bak: yöräk
+    chv:
+      bicim: çĕre
+      miras: true
+    crh: yürek
+    dlg: hürek
+    gag: ürek
+    krc: cürek
+    kdr: yirek
+    kaa: jürek
+    kaz: jürek
+    kjh: çürek
+    klj:
+      bicim: yiräk
+      miras: true
+    kir: jürek
+    kum: yürek
+    clw: çürek
+    nog: yürek
+    atv: dürek
+    slr: yirig
+    ybe: yürek
+    cjs: çürek
+    alt: dürek
+    tat: yöräk
+    kim: çürek
+    tur: yürek
+    tuk: yürek
+    tyv: çürek
+    uig: yüräk
+    uzb: yurak
+    sah: sürex
+    sty-baraba: yöräk
+yok: []
+tarihi_yok: []

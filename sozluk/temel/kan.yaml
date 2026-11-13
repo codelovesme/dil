@@ -1,0 +1,54 @@
+kavram: kan
+ingilizce: blood
+anlam: Kan.
+dogrulandi: false
+kokler:
+- kok: kan
+  koken: türkçe
+  ana_turkce: '*kān'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kan.yaml).
+  tarihi:
+    qwm: kan
+    otk: kan
+    eski-anadolu: qan
+  bicimler:
+    aze: kan
+    bak: kan
+    crh: kan
+    dlg: kaan
+    gag: kan
+    krc: kan
+    kdr: kan
+    kaa: kan
+    kaz: kan
+    kjh: xan
+    klj:
+      bicim: kaan
+      miras: true
+    kir: kan
+    kum: kan
+    clw: kan
+    nog: kan
+    atv: kan
+    slr: kan
+    ybe: kan
+    cjs: kan
+    alt: kan
+    tat: kan
+    kim: kan
+    tur: kan
+    tuk: gaan
+    tyv: xan
+    uig: kan
+    uzb: kon
+    sah: xaan
+    sty-baraba: kan
+- kok: yun
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yun.yaml).
+  bicimler:
+    chv: yun
+yok: []
+tarihi_yok: []

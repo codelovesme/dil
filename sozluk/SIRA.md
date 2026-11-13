@@ -43,7 +43,7 @@ aşamasında ele alınacak.
 
 ## 7. Beden
 
-- [x] [baş](temel/bas.yaml) · [x] [göz](temel/goz.yaml) · [x] [kulak](temel/kulak.yaml) · [x] [ağız](temel/agiz.yaml) · [x] [dil](temel/dil.yaml) · [x] [diş](temel/dis.yaml) · [ ] el · [ ] ayak · [ ] yürek · [ ] kan · [ ] et · [ ] kemik
+- [x] [baş](temel/bas.yaml) · [x] [göz](temel/goz.yaml) · [x] [kulak](temel/kulak.yaml) · [x] [ağız](temel/agiz.yaml) · [x] [dil](temel/dil.yaml) · [x] [diş](temel/dis.yaml) · [x] [el](temel/el.yaml) · [x] [ayak](temel/ayak.yaml) · [x] [yürek](temel/yurek.yaml) · [x] [kan](temel/kan.yaml) · [x] [et](temel/et-ad.yaml) · [x] [kemik](temel/kemik.yaml)
 
 ## 8. Doğa
 

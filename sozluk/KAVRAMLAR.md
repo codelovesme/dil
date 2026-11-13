@@ -12,6 +12,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [ana](temel/ana.md) | mother | **ana** | **ana** | **ana** | uyuşuyor |
 | [ata](temel/ata.md) | father | **ata** | **ata** | **ata** | uyuşuyor |
 | [ay](temel/ay.md) | moon; month | **ay** | **ay** | **ay** | uyuşuyor |
+| [ayak](temel/ayak.md) | leg, foot | **ayak** | **adak** | **ayak** | uyuşuyor |
 | [bak-](temel/bak.md) | look | **kara** | **bak** | **bak** | ayrişiyor |
 | [baş](temel/bas.md) | head | **baş** | **baş** | **baş** | uyuşuyor |
 | [ben](temel/ben.md) | I | **män** | **bän** | **ben** | uyuşuyor |
@@ -29,7 +30,9 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [dört](temel/dort.md) | four | **dört** | **dört** | **dört** | uyuşuyor |
 | [dün](temel/dun.md) | yesterday | **tünegün** | **tünekün** | **tünegün** | uyuşuyor |
 | [düş-](temel/dus.md) | fall | **yığıl** | **tüş** | **düş** | ayrişiyor |
+| [el](temel/el.md) | hand, arm | **kol** | **el** | **kol** | ayrişiyor |
 | [er (erkek)](temel/er.md) | man (male) | **er** | **er** | **erkek** | uyuşuyor |
+| [et](temel/et-ad.md) | meat, flesh | **et** | **et** | **et** | uyuşuyor |
 | [et-/kıl-](temel/et.md) | do, make | **et** | **et** | **et** | uyuşuyor |
 | [gece](temel/gece.md) | night | **tün** | **gece** | **gece** | ayrişiyor |
 | [gel-](temel/gel.md) | come | **kel** | **kel** | **kel** | uyuşuyor |
@@ -42,6 +45,8 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [işit-/duy-](temel/isit.md) | hear | **eşit** | **eşit** | **eşit** | uyuşuyor |
 | [kadın](temel/kadin.md) | woman | **tişiriw** | **tişi** | **karı** | ayrişiyor |
 | [kal-](temel/kal.md) | remain | **kal** | **kal** | **kal** | uyuşuyor |
+| [kan](temel/kan.md) | blood | **kan** | **kan** | **kan** | uyuşuyor |
+| [kemik](temel/kemik.md) | bone | **sümük** | **süñük** | **sümük** | uyuşuyor |
 | [kim](temel/kim.md) | who | **kim** | **kim** | **kim** | uyuşuyor |
 | [kişi](temel/kisi.md) | person | **kişi** | **kişi** | **kişi** | uyuşuyor |
 | [koş-](temel/kos.md) | run | **yügür** | **çap** | **yügür** | ayrişiyor |
@@ -67,4 +72,5 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [yat-](temel/yat.md) | lie down | **yat** | **yat** | **yat** | uyuşuyor |
 | [ye-](temel/ye.md) | eat | **ye** | **ye** | **ye** | uyuşuyor |
 | [yıl](temel/yil.md) | year | **yıl** | **yıl** | **yıl** | uyuşuyor |
+| [yürek](temel/yurek.md) | heart | **yürek** | **yürek** | **yürek** | uyuşuyor |
 | [yürü-](temel/yuru.md) | walk | **yorı** | **yorı** | **yürü** | uyuşuyor |

@@ -1,0 +1,63 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yürek
+anlam: '"yürek"'
+koken: türkçe
+ana_turkce: '*yürek'
+kavramlar:
+- yurek
+etimoloji: Ana Türkçe *yürek. Baştaki y- dillere göre j-, c-, ç-, d-, Sahacada s-, Dolgancada
+  h-, Çuvaşçada ç- olur; Oğuz'da (Azerbaycan, Gagavuz) düşer.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: yürek
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: yüräk
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: یُورَكْ
+  - dil: tur
+    yuzyil: 16-19
+    bicim: yürek
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: یورك
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: üräk, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: yöräk, dil: bak, kaynak: savelyev-turkic, yazi: йөрәк}
+  - {atif: 'asmarin1928, savelyev2011', bicim: çĕre, dil: chv, kaynak: savelyev-turkic, yazi: чӗре}
+  - {atif: useinov2007, bicim: yürek, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hürek, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: ürek, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: cürek, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: yirek, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: jürek, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jürek, dil: kaz, kaynak: savelyev-turkic, yazi: жүрек}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çürek, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: yiräk, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: jürek, dil: kir, kaynak: savelyev-turkic, yazi: жүрөк}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yürek, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: çürek, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yürek, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: dürek, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: yirig, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: yürek, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: çürek, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: dürek, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: yöräk, dil: tat, kaynak: savelyev-turkic, yazi: йөрәк}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çürek, dil: kim, kaynak: savelyev-turkic}
+  - {bicim: yürek, dil: tur, kaynak: bilgi, not: '''Kalp'' anlamında Arapça kalp de yaygın.'}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yürek, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çürek, dil: tyv, kaynak: savelyev-turkic, yazi: чүрек}
+  - {atif: nadzip1968, bicim: yüräk, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yurak, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sürex, dil: sah, kaynak: savelyev-turkic, yazi: сүрэх}
+  - {atif: dmitrijeva1981, bicim: yöräk, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok: {}
+tarihi_yok: {}
