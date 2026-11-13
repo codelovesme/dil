@@ -1,0 +1,56 @@
+kavram: saç
+ingilizce: hair (head)
+anlam: Saç.
+dogrulandi: false
+kokler:
+- kok: saç
+  koken: türkçe
+  ana_turkce: '*sāč'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/saç.yaml).
+  tarihi:
+    qwm: saç
+    otk: saç
+  bicimler:
+    aze: saç
+    bak: säs
+    chv:
+      bicim: şüş
+      miras: true
+    crh: saç
+    dlg: as
+    gag: saç
+    krc: çaç
+    kdr: saç
+    kaa: şaş
+    kaz: şaş
+    kjh: sas
+    klj:
+      bicim: '? saç'
+      miras: true
+    kir: çaç
+    kum: çaç
+    clw: çaç
+    nog: şaş
+    atv: çaç
+    slr: saç
+    ybe: saç
+    cjs: şaş
+    alt: çaç
+    tat: çäç
+    kim: çeş
+    tur: saç
+    tuk: saç
+    uig: çaç
+    uzb: soç
+    sah: as
+    sty-baraba: caç
+- kok: dük
+  koken: türkçe
+  ana_turkce: '*tük'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/dük.yaml).
+  bicimler:
+    tyv: dük
+yok: []
+tarihi_yok: []

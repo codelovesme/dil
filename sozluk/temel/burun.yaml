@@ -1,0 +1,63 @@
+kavram: burun
+ingilizce: nose
+anlam: Burun.
+dogrulandi: false
+kokler:
+- kok: burun
+  koken: türkçe
+  ana_turkce: '*burun'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/burun.yaml).
+  tarihi:
+    qwm: burun
+    otk: burun
+  bicimler:
+    aze: burun
+    bak: moron
+    chv: sămsa
+    crh: burun
+    dlg: munnu
+    gag: burnu
+    krc: burun
+    kdr: burun
+    kaa: murın
+    kaz: murın
+    kjh: purun
+    klj:
+      bicim: burın
+      miras: true
+    kir: murun
+    kum: burun
+    clw: purun
+    nog: burın
+    atv: burun
+    slr: purnı
+    cjs: purnu
+    tat: borın
+    tur: burun
+    tuk: burun
+    uig: burun
+    uzb: burun
+    sah: murun
+    sty-baraba: murın
+- kok: kañrık
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kañrık.yaml).
+  bicimler:
+    ybe: kañrık
+- kok: tumçuk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tumçuk.yaml).
+  bicimler:
+    alt: tumçuk
+- kok: xaay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xaay.yaml).
+  bicimler:
+    kim: haay
+    tyv: xaay
+yok: []
+tarihi_yok: []

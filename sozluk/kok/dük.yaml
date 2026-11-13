@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: dük
+anlam: '"kıl, tüy"'
+koken: türkçe
+ana_turkce: '*tük'
+kavramlar:
+- sac
+etimoloji: tük 'kıl, tüy'; Tuvacada saç için de kullanılır.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dük, dil: tyv, kaynak: savelyev-turkic, not: '''kıl, tüy''; saç için baş dükü.', yazi: дүк}
+
+yok:
+  sty-baraba: yerine caç (saç)
+  atv: yerine çaç (saç)
+  alt: yerine çaç (saç)
+  aze: yerine saç (saç)
+  bak: yerine säs (saç)
+  chv: yerine şüş (saç)
+  crh: yerine saç (saç)
+  dlg: yerine as (saç)
+  gag: yerine saç (saç)
+  kaa: yerine şaş (saç)
+  krc: yerine çaç (saç)
+  kdr: yerine saç (saç)
+  kaz: yerine şaş (saç)
+  kjh: yerine sas (saç)
+  klj: yerine ? saç (saç)
+  kir: yerine çaç (saç)
+  kum: yerine çaç (saç)
+  clw: yerine çaç (saç)
+  nog: yerine şaş (saç)
+  slr: yerine saç (saç)
+  ybe: yerine saç (saç)
+  cjs: yerine şaş (saç)
+  tat: yerine çäç (saç)
+  kim: yerine çeş (saç)
+  tur: yerine saç (saç)
+  tuk: yerine saç (saç)
+  uig: yerine çaç (saç)
+  uzb: yerine soç (saç)
+  sah: yerine as (saç)
+tarihi_yok: {}

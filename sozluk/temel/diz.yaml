@@ -1,0 +1,56 @@
+kavram: diz
+ingilizce: knee
+anlam: Diz.
+dogrulandi: false
+kokler:
+- kok: tiz
+  koken: türkçe
+  ana_turkce: '*tiŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tiz.yaml).
+  tarihi:
+    qwm: tizgi
+    otk: tiz
+  bicimler:
+    aze: diz
+    chv:
+      bicim: çĕrkuşşi
+      miras: true
+    crh: tiz
+    gag: diz
+    kdr: tüz
+    kaa: dize
+    kaz: tize
+    kjh: tizek
+    klj:
+      bicim: tiiz
+      miras: true
+    kir: tize
+    clw: tizvaazı
+    nog: tiz
+    atv: tize
+    slr: tizex
+    ybe: tiz
+    cjs: tize
+    alt: tize
+    tat: tez
+    kim: tiskek
+    tur: diz
+    tuk: dız
+    tyv: diskek
+    uig: tiz
+    uzb: tiz
+    sty-baraba: tiz
+- kok: tobık
+  koken: türkçe
+  ana_turkce: '*tobïk'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tobık.yaml).
+  bicimler:
+    bak: tubık
+    dlg: tobuk
+    krc: tobuk
+    kum: tobuk
+    sah: tobuk
+yok: []
+tarihi_yok: []

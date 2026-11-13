@@ -1,0 +1,67 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: karın
+anlam: '"karın"'
+koken: türkçe
+ana_turkce: '*karïn'
+kavramlar:
+- karin
+etimoloji: Ana Türkçe *karïn; Eski Türkçe karın. Oğuz dillerinde, Kuman, Halaç ve Özbekçede
+  'karın'; Çuvaşça xırăm.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: karın
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazımlar caren, karin.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: karın
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: tur
+    yuzyil: 16-19
+    bicim: karn, karın
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: قارن
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ġarın, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: xırăm, dil: chv, kaynak: savelyev-turkic, yazi: хырӑм}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: karnı, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: karın, dil: krc, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: karın, dil: klj, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: kaarın, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: karın, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: korin, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine eç (iç-ad)
+  atv: yerine iç (iç-ad)
+  alt: yerine iç (iç-ad)
+  bak: yerine es (iç-ad)
+  dlg: yerine is (iç-ad)
+  kaa: yerine iş (iç-ad)
+  kaz: yerine is (iç-ad)
+  kjh: yerine iste (iç-ad)
+  kir: yerine iç (iç-ad)
+  nog: yerine iş (iç-ad)
+  ybe: yerine içige (iç-ad)
+  kim: yerine ıştı (iç-ad)
+  tuk: yerine iç (iç-ad)
+  tyv: yerine ijin (iç-ad)
+  uig: yerine iç (iç-ad)
+  sah: yerine is (iç-ad)
+  crh: yerine kursak (kursak)
+  kdr: yerine kursax (kursak)
+  kum: yerine kursak (kursak)
+  slr: yerine xusax (kursak)
+  cjs: yerine kursak (kursak)
+  tat: yerine korsak (kursak)
+tarihi_yok: {}

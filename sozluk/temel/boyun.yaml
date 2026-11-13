@@ -1,0 +1,50 @@
+kavram: boyun
+ingilizce: neck
+anlam: Boyun.
+dogrulandi: false
+kokler:
+- kok: boyun
+  koken: türkçe
+  ana_turkce: '*boyun'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/boyun.yaml).
+  tarihi:
+    qwm: boyun
+    otk: boyın
+  bicimler:
+    aze: boyun
+    bak: muyın
+    chv:
+      bicim: măy
+      miras: true
+    crh: boyun
+    dlg: muoy
+    gag: boyun
+    krc: boyun
+    kdr: boyun
+    kaa: moyın
+    kaz: moyın
+    kjh: moyın
+    klj:
+      bicim: buun
+      miras: true
+    kir: moyun
+    kum: boyun
+    clw: pooyun
+    nog: moyın
+    atv: moyın
+    slr: poinı
+    ybe: moin
+    cjs: moyun
+    alt: moyın
+    tat: muyın
+    kim: möen
+    tur: boyun
+    tuk: boyun
+    tyv: moyun
+    uig: boyun
+    uzb: böyın
+    sah: mooy
+    sty-baraba: moyun
+yok: []
+tarihi_yok: []

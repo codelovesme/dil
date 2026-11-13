@@ -1,0 +1,59 @@
+kavram: karın
+ingilizce: belly
+anlam: Karın.
+dogrulandi: false
+kokler:
+- kok: karın
+  koken: türkçe
+  ana_turkce: '*karïn'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/karın.yaml).
+  tarihi:
+    qwm: karın
+    otk: karın
+  bicimler:
+    aze: ġarın
+    chv: xırăm
+    gag: karnı
+    krc: karın
+    klj:
+      bicim: karın
+      miras: true
+    clw: kaarın
+    tur: karın
+    uzb: korin
+- kok: iç-ad
+  koken: türkçe
+  ana_turkce: '*ič'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iç-ad.yaml).
+  bicimler:
+    bak: es
+    dlg: is
+    kaa: iş
+    kaz: is
+    kjh: iste
+    kir: iç
+    nog: iş
+    atv: iç
+    ybe: içige
+    alt: iç
+    kim: ıştı
+    tuk: iç
+    tyv: ijin
+    uig: iç
+    sah: is
+    sty-baraba: eç
+- kok: kursak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kursak.yaml).
+  bicimler:
+    crh: kursak
+    kdr: kursax
+    kum: kursak
+    slr: xusax
+    cjs: kursak
+    tat: korsak
+yok: []
+tarihi_yok: []
