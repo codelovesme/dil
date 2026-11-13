@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 9,
-  "kok": 3,
-  "tanik": 179,
+  "kavram": 10,
+  "kok": 5,
+  "tanik": 219,
   "kaynak": 168,
   "dil": 40
  },
@@ -60,6 +60,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kini.md",
+   "baslik": "kini",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/olar.md",
+   "baslik": "olar",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/siz.md",
    "baslik": "siz",
    "tur": "kok"
@@ -87,6 +97,11 @@
   {
    "yol": "sozluk/temel/o.md",
    "baslik": "o",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/onlar.md",
+   "baslik": "onlar",
    "tur": "kavram"
   },
   {
@@ -204,6 +219,31 @@
     "ul",
     "văl",
     "wal"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "onlar",
+   "alt": "they",
+   "yol": "sozluk/temel/onlar.md",
+   "ozet": "Ortak dil: olar · Ana Türkçe tahmini: olar · En çok kişinin anladığı: olar",
+   "anahtar": [
+    "ala",
+    "alar",
+    "anlar",
+    "giniler",
+    "kiniler",
+    "kolar",
+    "olar",
+    "olarıñ",
+    "ollar",
+    "olor",
+    "onlar",
+    "onnar",
+    "ular",
+    "vular",
+    "vĕsem",
+    "ılar"
    ]
   },
   {
@@ -331,6 +371,43 @@
     "بِزْ",
     "بیز",
     "𐰋𐰃𐰕"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kini",
+   "alt": "Sahaca ve Dolgancada \"o\" kişi zamiri; çoğulu kiniler",
+   "yol": "sozluk/kok/kini.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "giniler",
+    "kiniler"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "olar",
+   "alt": "üçüncü çoğul şahıs zamiri (\"onlar\"); ol + çokluk eki",
+   "yol": "sozluk/kok/olar.md",
+   "ozet": "38 tanık, en eski 8. yy",
+   "anahtar": [
+    "ala",
+    "alar",
+    "anlar",
+    "anlar / alar",
+    "kolar",
+    "olar",
+    "olar / anlar",
+    "olarıñ",
+    "ollar",
+    "olor",
+    "onlar",
+    "onnar",
+    "ular",
+    "vular",
+    "vĕsem",
+    "ılar",
+    "вӗсем"
    ]
   },
   {
