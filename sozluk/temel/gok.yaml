@@ -1,0 +1,55 @@
+kavram: gök
+ingilizce: sky
+anlam: Gök, gökyüzü.
+dogrulandi: false
+kokler:
+- kok: kök
+  koken: türkçe
+  ana_turkce: '*kȫk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kök.yaml).
+  tarihi:
+    qwm: kök
+    otk: kök
+    eski-anadolu: gök
+  bicimler:
+    aze: göy
+    bak: kük
+    crh: kök
+    gag: gök
+    krc: kök
+    kdr: kök
+    kir: kök
+    kum: kök
+    nog: kök
+    atv: kök
+    tat: kük
+    tur: gök
+    sty-baraba: kök
+- kok: teñri
+  koken: türkçe
+  ana_turkce: '*teŋri'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teñri.yaml).
+  bicimler:
+    kjh: tiger
+    ybe: teñir
+    cjs: tegri
+    alt: teñeri
+    kim: deere
+    tyv: deer
+- kok: xallaan
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xallaan.yaml).
+  bicimler:
+    dlg: kallaan
+    sah: xallaan
+- kok: tüpe
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tüpe.yaml).
+  bicimler:
+    chv: tüpe
+yok: []
+tarihi_yok: []

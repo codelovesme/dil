@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: küneş
+anlam: '"güneş"'
+koken: türkçe
+kavramlar:
+- gunes
+etimoloji: kün 'güneş, gün' adının -eş ekli türevi; Oğuz dillerinde, Kırım Tatarcasında ve
+  Kumukçada 'güneş'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: günäş, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: küneş, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: güneş, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: güneş, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine koyaş (koyaş)
+  bak: yerine koyaş (koyaş)
+  chv: yerine xĕvel (koyaş)
+  kdr: yerine kuyaş (koyaş)
+  tat: yerine koyaş (koyaş)
+  uzb: yerine kuyoş (koyaş)
+  atv: yerine kün (kün)
+  alt: yerine kün (kün)
+  dlg: yerine kün (kün)
+  gag: yerine gün (kün)
+  kaa: yerine kün (kün)
+  krc: yerine kün (kün)
+  kaz: yerine kün (kün)
+  kjh: yerine kün (kün)
+  klj: yerine kün (kün)
+  kir: yerine kün (kün)
+  nog: yerine kün (kün)
+  slr: yerine kun (kün)
+  ybe: yerine kün (kün)
+  cjs: yerine kün (kün)
+  kim: yerine hün (kün)
+  tuk: yerine gün (kün)
+  tyv: yerine xün (kün)
+  uig: yerine kün (kün)
+  sah: yerine kün (kün)
+tarihi_yok: {}

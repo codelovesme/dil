@@ -7,10 +7,12 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | Kavram | İngilizce | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|---|
 | [ad](temel/ad.md) | name | **at** | **at** | **at** | uyuşuyor |
+| [ağaç](temel/agac.md) | tree | **ağaç** | **ığaç** | **ağaç** | uyuşuyor |
 | [ağız](temel/agiz.md) | mouth | **ağız** | **ağız** | **ağız** | uyuşuyor |
 | [al-](temel/al.md) | take | **al** | **al** | **al** | uyuşuyor |
 | [ana](temel/ana.md) | mother | **ana** | **ana** | **ana** | uyuşuyor |
 | [ata](temel/ata.md) | father | **ata** | **ata** | **ata** | uyuşuyor |
+| [ateş](temel/ates.md) | fire | **ot** | **ot** | **ot** | uyuşuyor |
 | [ay](temel/ay.md) | moon; month | **ay** | **ay** | **ay** | uyuşuyor |
 | [ayak](temel/ayak.md) | leg, foot | **ayak** | **adak** | **ayak** | uyuşuyor |
 | [bak-](temel/bak.md) | look | **kara** | **bak** | **bak** | ayrişiyor |
@@ -34,12 +36,15 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [er (erkek)](temel/er.md) | man (male) | **er** | **er** | **erkek** | uyuşuyor |
 | [et](temel/et-ad.md) | meat, flesh | **et** | **et** | **et** | uyuşuyor |
 | [et-/kıl-](temel/et.md) | do, make | **et** | **et** | **et** | uyuşuyor |
+| [ev](temel/ev.md) | house | **ev** | **ev** | **ev** | uyuşuyor |
 | [gece](temel/gece.md) | night | **tün** | **gece** | **gece** | ayrişiyor |
 | [gel-](temel/gel.md) | come | **kel** | **kel** | **kel** | uyuşuyor |
 | [git-/bar-](temel/git.md) | go | **bar** | **bar** | **bar** | uyuşuyor |
+| [gök](temel/gok.md) | sky | **kök** | **kök** | **kök** | uyuşuyor |
 | [gör-](temel/gor.md) | see | **kör** | **kör** | **kör** | uyuşuyor |
 | [göz](temel/goz.md) | eye | **köz** | **köz** | **köz** | uyuşuyor |
 | [gün](temel/gun.md) | day; sun | **kün** | **kün** | **kün** | uyuşuyor |
+| [güneş](temel/gunes.md) | sun | **kün** | **koyaş** | **kün** | ayrişiyor |
 | [iç-](temel/ic.md) | drink | **iç** | **iç** | **iç** | uyuşuyor |
 | [iki](temel/iki.md) | two | **iki** | **iki** | **iki** | uyuşuyor |
 | [işit-/duy-](temel/isit.md) | hear | **eşit** | **eşit** | **eşit** | uyuşuyor |
@@ -71,6 +76,8 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [yaşa-](temel/yasa.md) | live | **yaşa** | **yaşa** | **yaşa** | uyuşuyor |
 | [yat-](temel/yat.md) | lie down | **yat** | **yat** | **yat** | uyuşuyor |
 | [ye-](temel/ye.md) | eat | **ye** | **ye** | **ye** | uyuşuyor |
+| [yer](temel/yer.md) | earth, ground, place | **yer** | **yer** | **yer** | uyuşuyor |
 | [yıl](temel/yil.md) | year | **yıl** | **yıl** | **yıl** | uyuşuyor |
+| [yıldız](temel/yildiz.md) | star | **yultuz** | **yultuz** | **yulduz** | uyuşuyor |
 | [yürek](temel/yurek.md) | heart | **yürek** | **yürek** | **yürek** | uyuşuyor |
 | [yürü-](temel/yuru.md) | walk | **yorı** | **yorı** | **yürü** | uyuşuyor |

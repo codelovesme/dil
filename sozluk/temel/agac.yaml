@@ -1,0 +1,66 @@
+kavram: ağaç
+ingilizce: tree
+anlam: Ağaç.
+dogrulandi: false
+kokler:
+- kok: ığaç
+  koken: türkçe
+  ana_turkce: '*ïgač'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ığaç.yaml).
+  tarihi:
+    otk: ığaç
+  bicimler:
+    aze: ağac
+    bak: ağas
+    chv:
+      bicim: yıvăş
+      miras: true
+    gag: aaç
+    kaa: ağaş
+    kaz: ağaş
+    kjh: ağas
+    klj:
+      bicim: hağaç
+      miras: true
+    kir: jığaç
+    clw: aaç
+    atv: ağaş
+    slr: ağaç
+    cjs: ağaş
+    alt: ağaş
+    tat: ağaç
+    tur: ağaç
+    tuk: ağaç
+    tyv: ıyaş
+    uig: yağaç
+    sty-baraba: ağac
+- kok: terek
+  koken: türkçe
+  ana_turkce: '*terek'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/terek.yaml).
+  tarihi:
+    qwm: terek
+  bicimler:
+    crh: terek
+    krc: terek
+    kdr: töräk
+    kum: terek
+    nog: terek
+    ybe: terek
+- kok: mas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mas.yaml).
+  bicimler:
+    dlg: mas
+    sah: mas
+- kok: neş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/neş.yaml).
+  bicimler:
+    kim: neş
+yok: []
+tarihi_yok: []

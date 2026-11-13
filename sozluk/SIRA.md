@@ -47,8 +47,8 @@ aşamasında ele alınacak.
 
 ## 8. Doğa
 
-- [x] [su](temel/su.yaml) · [ ] ateş · [x] [taş](temel/tas.yaml) · [ ] yer · [ ] gök · [ ] güneş · [ ] yıldız
-- [x] [dağ](temel/dag.yaml) · [ ] ağaç · [ ] yol · [ ] ev · [ ] kar · [ ] yağmur · [ ] yel · [ ] göl · [ ] deniz
+- [x] [su](temel/su.yaml) · [x] [ateş](temel/ates.yaml) · [x] [taş](temel/tas.yaml) · [x] [yer](temel/yer.yaml) · [x] [gök](temel/gok.yaml) · [x] [güneş](temel/gunes.yaml) · [x] [yıldız](temel/yildiz.yaml)
+- [x] [dağ](temel/dag.yaml) · [x] [ağaç](temel/agac.yaml) · [ ] yol · [x] [ev](temel/ev.yaml) · [ ] kar · [ ] yağmur · [ ] yel · [ ] göl · [ ] deniz
 
 ## 9. Hayvanlar
 

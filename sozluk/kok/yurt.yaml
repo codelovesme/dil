@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yurt
+anlam: '"yurt; ev"'
+koken: türkçe
+kavramlar:
+- ev
+etimoloji: yurt 'yurt, ev'; Çuvaşçada şurt 'ev'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'asmarin1928, savelyev2011', bicim: şurt, dil: chv, kaynak: savelyev-turkic, yazi: ҫурт}
+
+yok:
+  sty-baraba: yerine ü (eb)
+  atv: yerine üy (eb)
+  aze: yerine ev (eb)
+  bak: yerine öy (eb)
+  crh: yerine ev (eb)
+  gag: yerine ev (eb)
+  kaa: yerine üy (eb)
+  krc: yerine üy (eb)
+  kdr: yerine üv (eb)
+  kaz: yerine üy (eb)
+  klj: yerine häv (eb)
+  kir: yerine üy (eb)
+  kum: yerine üy (eb)
+  clw: yerine äp (eb)
+  nog: yerine üy (eb)
+  slr: yerine öy (eb)
+  ybe: yerine üy (eb)
+  cjs: yerine em (eb)
+  tat: yerine öy (eb)
+  kim: yerine öğ (eb)
+  tur: yerine ev (eb)
+  uig: yerine öy (eb)
+  uzb: yerine uy (eb)
+  tyv: yerine ög (eb)
+  alt: yerine tura (tura)
+  kjh: yerine tura (tura)
+tarihi_yok: {}

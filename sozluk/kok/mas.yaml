@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: mas
+anlam: Sahacada "ağaç"
+koken: türkçe
+kavramlar:
+- agac
+etimoloji: Sahaca ve Dolganca mas; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: mas, dil: sah, kaynak: savelyev-turkic, yazi: мас}
+
+yok:
+  sty-baraba: yerine ağac (ığaç)
+  atv: yerine ağaş (ığaç)
+  alt: yerine ağaş (ığaç)
+  aze: yerine ağac (ığaç)
+  bak: yerine ağas (ığaç)
+  chv: yerine yıvăş (ığaç)
+  gag: yerine aaç (ığaç)
+  kaa: yerine ağaş (ığaç)
+  kaz: yerine ağaş (ığaç)
+  kjh: yerine ağas (ığaç)
+  klj: yerine hağaç (ığaç)
+  kir: yerine jığaç (ığaç)
+  clw: yerine aaç (ığaç)
+  slr: yerine ağaç (ığaç)
+  cjs: yerine ağaş (ığaç)
+  tat: yerine ağaç (ığaç)
+  tur: yerine ağaç (ığaç)
+  tuk: yerine ağaç (ığaç)
+  tyv: yerine ıyaş (ığaç)
+  uig: yerine yağaç (ığaç)
+  crh: yerine terek (terek)
+  krc: yerine terek (terek)
+  kdr: yerine töräk (terek)
+  kum: yerine terek (terek)
+  nog: yerine terek (terek)
+  ybe: yerine terek (terek)
+  kim: yerine neş (neş)
+tarihi_yok: {}

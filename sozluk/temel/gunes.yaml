@@ -1,0 +1,57 @@
+kavram: güneş
+ingilizce: sun
+anlam: Güneş.
+dogrulandi: false
+kokler:
+- kok: koyaş
+  koken: türkçe
+  ana_turkce: '*kujaĺ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/koyaş.yaml).
+  bicimler:
+    bak: koyaş
+    chv: xĕvel
+    kdr: kuyaş
+    tat: koyaş
+    uzb: kuyoş
+    sty-baraba: koyaş
+- kok: küneş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/küneş.yaml).
+  bicimler:
+    aze: günäş
+    crh: küneş
+    kum: güneş
+    tur: güneş
+- kok: kün
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kün.yaml).
+  tarihi:
+    qwm: kün
+    otk: kün
+  bicimler:
+    dlg: kün
+    gag: gün
+    krc: kün
+    kaa: kün
+    kaz: kün
+    kjh: kün
+    klj:
+      bicim: kün
+      miras: true
+    kir: kün
+    nog: kün
+    atv: kün
+    slr: kun
+    ybe: kün
+    cjs: kün
+    alt: kün
+    kim: hün
+    tuk: gün
+    tyv: xün
+    uig: kün
+    sah: kün
+yok: []
+tarihi_yok: []

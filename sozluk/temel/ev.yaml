@@ -1,0 +1,55 @@
+kavram: ev
+ingilizce: house
+anlam: Ev.
+dogrulandi: false
+kokler:
+- kok: eb
+  koken: türkçe
+  ana_turkce: '*eb'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/eb.yaml).
+  tarihi:
+    qwm: öw
+    otk: ev
+  bicimler:
+    aze: ev
+    bak: öy
+    crh: ev
+    gag: ev
+    krc: üy
+    kdr: üv
+    kaa: üy
+    kaz: üy
+    klj:
+      bicim: häv
+      miras: true
+    kir: üy
+    kum: üy
+    clw: äp
+    nog: üy
+    atv: üy
+    slr: öy
+    ybe: üy
+    cjs: em
+    tat: öy
+    kim: öğ
+    tur: ev
+    tyv: ög
+    uig: öy
+    uzb: uy
+    sty-baraba: ü
+- kok: tura
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tura.yaml).
+  bicimler:
+    kjh: tura
+    alt: tura
+- kok: yurt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yurt.yaml).
+  bicimler:
+    chv: şurt
+yok: []
+tarihi_yok: []

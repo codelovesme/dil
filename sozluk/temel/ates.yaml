@@ -1,0 +1,57 @@
+kavram: ateş
+ingilizce: fire
+anlam: Ateş.
+dogrulandi: false
+kokler:
+- kok: ot
+  koken: türkçe
+  ana_turkce: '*ōt'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ot.yaml).
+  tarihi:
+    qwm: ot
+    otk: ot
+  bicimler:
+    aze: od
+    bak: ut
+    chv:
+      bicim: vut
+      miras: true
+    dlg: uot
+    krc: ot
+    kdr: ot
+    kaa: ot
+    kaz: ot
+    kjh: ot
+    klj:
+      bicim: huot
+      miras: true
+    kir: ot
+    kum: ot
+    clw: ot
+    nog: ot
+    atv: ot
+    slr: ot
+    ybe: ot
+    cjs: ot
+    alt: ot
+    tat: ut
+    kim: ot
+    tur:
+      bicim: od
+      tercih: 0.25
+    tuk: oot
+    tyv: ot
+    uig: ot
+    sah: uot
+    sty-baraba: ot
+- kok: ateş
+  koken: alıntı:fa
+  kaynak: savelyev-turkic
+  not: Farsça ātaş'tan alıntı; seçilmez.
+  bicimler:
+    crh: ateş
+    gag: ateş
+    tur: ateş
+yok: []
+tarihi_yok: []

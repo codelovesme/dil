@@ -1,0 +1,49 @@
+kavram: yıldız
+ingilizce: star
+anlam: Yıldız.
+dogrulandi: false
+kokler:
+- kok: yultuz
+  koken: türkçe
+  ana_turkce: '*yultuŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yultuz.yaml).
+  tarihi:
+    qwm: yulduz
+    otk: yultuz
+  bicimler:
+    aze: ulduz
+    bak: yondoz
+    chv:
+      bicim: şăltăr
+      miras: true
+    crh: yıldız
+    dlg: hulus
+    gag: yıldız
+    krc: julduz
+    kdr: yulduz
+    kaa: julduz
+    kaz: juldız
+    kjh: çıltıs
+    klj:
+      bicim: yulduz
+      miras: true
+    kir: jıldız
+    kum: yulduz
+    clw: çıltıs
+    nog: yuldız
+    atv: yıldıs
+    slr: yultus
+    ybe: yultıs
+    cjs: çıltıs
+    alt: dıldıs
+    tat: yoldız
+    kim: sıltıs
+    tur: yıldız
+    tuk: yıldız
+    tyv: sıldıs
+    uig: yultuz
+    uzb: yulduz
+    sah: sulus
+yok: []
+tarihi_yok: []

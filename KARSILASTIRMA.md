@@ -4,15 +4,17 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 68 kavram, 9 tanesi ayrışıyor.
+Toplam 75 kavram, 10 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
 | ad | at *(at)* | at *(at)* | at *(at)* | UYUŞUYOR |
+| ağaç | ağaç *(ığaç)* | ığaç *(ığaç)* | ağaç *(ığaç)* | UYUŞUYOR |
 | ağız | ağız *(ağız)* | ağız *(ağız)* | ağız *(ağız)* | UYUŞUYOR |
 | al- | al *(al)* | al *(al)* | al *(al)* | UYUŞUYOR |
 | ana | ana *(ana)* | ana *(ana)* | ana *(ana)* | UYUŞUYOR |
 | ata | ata *(ata)* | ata *(ata)* | ata *(ata)* | UYUŞUYOR |
+| ateş | ot *(ot)* | ot *(ot)* | ot *(ot)* | UYUŞUYOR |
 | ay | ay *(ay)* | ay *(ay)* | ay *(ay)* | UYUŞUYOR |
 | ayak | ayak *(adak)* | adak *(adak)* | ayak *(adak)* | UYUŞUYOR |
 | bak- | kara *(kara)* | bak *(bak)* | bak *(bak)* | AYRIŞIYOR |
@@ -36,12 +38,15 @@ Toplam 68 kavram, 9 tanesi ayrışıyor.
 | er (erkek) | er *(er)* | er *(er)* | erkek *(er)* | UYUŞUYOR |
 | et | et *(et-ad)* | et *(et-ad)* | et *(et-ad)* | UYUŞUYOR |
 | et-/kıl- | et *(et)* | et *(et)* | et *(et)* | UYUŞUYOR |
+| ev | ev *(eb)* | ev *(eb)* | ev *(eb)* | UYUŞUYOR |
 | gece | tün *(tün)* | gece *(keçe)* | gece *(keçe)* | AYRIŞIYOR |
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
+| gök | kök *(kök)* | kök *(kök)* | kök *(kök)* | UYUŞUYOR |
 | gör- | kör *(kör)* | kör *(kör)* | kör *(kör)* | UYUŞUYOR |
 | göz | köz *(köz)* | köz *(köz)* | köz *(köz)* | UYUŞUYOR |
 | gün | kün *(kün)* | kün *(kün)* | kün *(kün)* | UYUŞUYOR |
+| güneş | kün *(kün)* | koyaş *(koyaş)* | kün *(kün)* | AYRIŞIYOR |
 | iç- | iç *(iç)* | iç *(iç)* | iç *(iç)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
@@ -73,6 +78,8 @@ Toplam 68 kavram, 9 tanesi ayrışıyor.
 | yaşa- | yaşa *(yaşa)* | yaşa *(yaşa)* | yaşa *(yaşa)* | UYUŞUYOR |
 | yat- | yat *(yat)* | yat *(yat)* | yat *(yat)* | UYUŞUYOR |
 | ye- | ye *(ye)* | ye *(ye)* | ye *(ye)* | UYUŞUYOR |
+| yer | yer *(yer)* | yer *(yer)* | yer *(yer)* | UYUŞUYOR |
 | yıl | yıl *(yıl)* | yıl *(yıl)* | yıl *(yıl)* | UYUŞUYOR |
+| yıldız | yultuz *(yultuz)* | yultuz *(yultuz)* | yulduz *(yultuz)* | UYUŞUYOR |
 | yürek | yürek *(yürek)* | yürek *(yürek)* | yürek *(yürek)* | UYUŞUYOR |
 | yürü- | yorı *(yorı)* | yorı *(yorı)* | yürü *(yorı)* | UYUŞUYOR |
