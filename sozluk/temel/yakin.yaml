@@ -9,7 +9,6 @@ kokler:
   kaynak: savelyev-turkic; wiktionary-ana-turkce
   not: Tanıklar sözlük maddesinde (sozluk/kok/yakın.yaml).
   tarihi:
-    qwm: yaoh
     otk: yakın
     xqa: yakın
     chg: yakın
@@ -41,7 +40,7 @@ kokler:
     otk: yağuk
     xqa: yağuk
     chg: yavuk
-    qwm: yawuk
+    qwm: yavuk
   bicimler:
     chv:
       bicim: şıvăx

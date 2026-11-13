@@ -62,7 +62,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sarı | sarı | sarı | sarı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | sarı ↑ | sarı ↑ | sarı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | sarı | sarı | sarı | sarı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | sarı | sari | sarı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | sarı | sarı | sarı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | sarı | sarı | sarı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | sarı | sarı | sarı | sarı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sarı | sarı | sarı | sarı |
@@ -163,5 +163,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | saarığ |  |  |
 | Sibirya kolu | Kuzey Altayca |  | sarı |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *sarığ*; Kuman-Kıpçakça *sari*.
+**Tarihî tanıklar:** Eski Türkçe *sarığ*; Kuman-Kıpçakça *sarı*.
 

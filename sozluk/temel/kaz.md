@@ -59,7 +59,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gaz | gaz | gaz | gaz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | gaz ↑ | gaz ↑ | gaz ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | kazı | kazı | kazı | kazı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kaz | kas | kaz |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kaz | kaz | kaz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kaz | kaz | kaz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kaz | kaz | kaz | kaz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaz | kaz | kaz | kaz |
@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kas |  |
 | Sibirya kolu | Kuzey Altayca |  | kas |  |
 
-**Tarihî tanıklar:** Eski Türkçe *kaz*; Karahanlıca *kaz*; Kuman-Kıpçakça *kas*; Harezm Türkçesi ve Çağatayca *kaz*.
+**Tarihî tanıklar:** Eski Türkçe *kaz*; Karahanlıca *kaz*; Kuman-Kıpçakça *kaz*; Harezm Türkçesi ve Çağatayca *kaz*.
 

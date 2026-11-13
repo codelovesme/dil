@@ -62,7 +62,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dişle | dişle | dişle | dişle |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | dişle ↑ | dişle ↑ | dişle ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | çişle | çişle | *çişle* (tişle) | çişle |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tişle | tisla | tişte |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tişle | tişla | tişte |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | teşlä | teşlä | teşlä |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | teşlä | teşlä | teşlä | teşlä |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | teşlä | teşlä | teşlä | teşlä |
@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  |  |  | kap |  |  |
 | Sibirya kolu | Kuzey Altayca |  |  | tişte |  |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *tişle*; Karahanlıca *ısır*; Karahanlıca *tişle*; Kuman-Kıpçakça *ısır*; Kuman-Kıpçakça *tisla*; Harezm Türkçesi ve Çağatayca *ısur*; Harezm Türkçesi ve Çağatayca *tişle*.
+**Tarihî tanıklar:** Eski Türkçe *tişle*; Karahanlıca *ısır*; Karahanlıca *tişle*; Kuman-Kıpçakça *ısır*; Kuman-Kıpçakça *tişla*; Harezm Türkçesi ve Çağatayca *ısur*; Harezm Türkçesi ve Çağatayca *tişle*.
 

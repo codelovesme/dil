@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yağış | yağış | yağış | yağış |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yağış ↑ | yağmır ↑ | yağış ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yağmur | yağmur | yağmur | yağmur |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yañur | yamgur | jañbır |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yañur | yağmur | jañbır |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yamğır | yañgır | yañgır |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yañgır | yañgır | yañgır | yañgır |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yañgır | yañgır | yañgır | yañgır |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Şorca |  | nağbur |  |  |
 | Sibirya kolu | Kuzey Altayca |  | ñañmır |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *yağmur*; Kuman-Kıpçakça *yamgur*.
+**Tarihî tanıklar:** Eski Türkçe *yağmur*; Kuman-Kıpçakça *yağmur*.
 

@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yakın](../kok/yakın.md) | türkçe | 0.64 (*yakın*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~186 milyon (%96, *yakın*) | *yakïn |
+| [yakın](../kok/yakın.md) | türkçe | 0.61 (*yakın*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~186 milyon (%96, *yakın*) | *yakïn |
 | [yağuk](../kok/yağuk.md) | türkçe | 0.15 (*yuwuk*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~18 milyon (%10, *yuwuk*) |  |
 
 **Büyük topluluklarda *yakın* biçiminin anlaşılırlığı:** Çuvaşça %0, Kumukça %0, Karaçay-Malkarca %0, Sibirya Tatarcası %0, Sahaca %0, Tuvaca %0, Uygurca %90, Kırım Tatarcası %93, Kazakça %95, Özbekçe %95, Azerbaycan Türkçesi %95, Karakalpakça %95, Kırgızca %95, Türkiye Türkçesi %100, Gagavuzca %100, Türkmence %100, Tatarca %100, Başkurtça %100.
@@ -59,13 +59,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yakın | yakın | yakın | yakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yakın ↑ | yakın ↑ | yakın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yaxın | yaxın | yaxın | yaxın |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yakın | yaoh | jakın |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yakın | yakın | yakın |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yakın | *yavuk* (yağuk) | jakın |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yakın | *yakın* (yakın) | yakın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yakın | yakın | yakın | yakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yakın | yakın | yakın | yakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | yakın | yakın | yakın | yakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yakın | yakın | yakın | yakın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *yuwuk* (yağuk) | yakın | *yuwuk* (yağuk) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | *yuwuk* (yağuk) | *yakın* (yakın) | *yuwuk* (yağuk) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | *yakun* (yakın) | yakın | *yakun* (yakın) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | yakun | yakun | yakun | yakun |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yakun | yakun | yakun | yakun |
@@ -78,7 +78,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yuwuk | yuwuk | yuwuk | yuwuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | cuwuk | cuwuk | cuwuk | cuwuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | cuwuk | cuwuk | cuwuk | cuwuk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | jakın | jakın | jakın |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | jakın | *jakın* (yakın) | jakın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | jakın | jakın | jakın | jakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jakın | jakın | jakın | jakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | jakın | jakın | jakın | jakın |
@@ -88,7 +88,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | *yavık* (yağuk) | *yavık* (yağuk) | *yavık* (yağuk) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yavık ↑ | yavık ↑ | yavık ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | yavık | yavık | yavık | yavık |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | jakın | jakın | jakın |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | jakın | *jakın* (yakın) | jakın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | jakın | jakın | jakın | jakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | jakın | jakın | jakın | jakın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | *yuuk* (yağuk) | *yuuk* (yağuk) | *yuuk* (yağuk) | yuuk |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | çaağın |  |
 | Sibirya kolu | Kuzey Altayca |  | tağın |  |
 
-**Tarihî tanıklar:** Eski Türkçe *yakın*; Eski Türkçe *yağuk*; Karahanlıca *yakın*; Karahanlıca *yağuk*; Kuman-Kıpçakça *yaoh*; Kuman-Kıpçakça *yawuk*; Harezm Türkçesi ve Çağatayca *yakın*; Harezm Türkçesi ve Çağatayca *yavuk*.
+**Tarihî tanıklar:** Eski Türkçe *yakın*; Eski Türkçe *yağuk*; Karahanlıca *yakın*; Karahanlıca *yağuk*; Kuman-Kıpçakça *yavuk*; Harezm Türkçesi ve Çağatayca *yakın*; Harezm Türkçesi ve Çağatayca *yavuk*.
 

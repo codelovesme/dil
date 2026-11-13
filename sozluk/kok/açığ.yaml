@@ -9,7 +9,7 @@ etimoloji: Ana Türkçe *ačïg 'acı' (*ač- 'acımak' fiilinden). Bütün koll
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: noauthor1880, bicim: açi, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {atif: noauthor1880, bicim: açı, dil: qwm, not: Latin harfli yazım açi., kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
   - {atif: clauson1972, bicim: açığ, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: acı, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: äse, dil: bak, kaynak: savelyev-turkic, not: ası da., yazi: әсе}

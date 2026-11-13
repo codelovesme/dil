@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: xatırık
+anlam: Saha ve Dolgancada "ağaç kabuğu"
+koken: türkçe
+kavramlar:
+- kabuk
+etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: katırık, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xatırık, dil: sah, kaynak: savelyev-turkic, yazi: хатырык}
+
+yok:
+  sty-baraba: yerine kabık (kabuk)
+  aze: yerine gabığ (kabuk)
+  bak: yerine kabık (kabuk)
+  chv: yerine xupă (kabuk)
+  crh: yerine kabuk (kabuk)
+  gag: yerine kabuk (kabuk)
+  kaa: yerine kabık (kabuk)
+  krc: yerine kabuk (kabuk)
+  kdr: yerine kabuk (kabuk)
+  kaz: yerine kabık (kabuk)
+  kir: yerine kabık (kabuk)
+  kum: yerine kabuk (kabuk)
+  nog: yerine kabık (kabuk)
+  tat: yerine kabık (kabuk)
+  tur: yerine kabuk (kabuk)
+  tuk: yerine gabık (kabuk)
+  atv: yerine kağaş (kakpaş)
+  kjh: yerine xaxpas (kakpaş)
+  clw: yerine kakvaç (kakpaş)
+  cjs: yerine kakpaş (kakpaş)
+  klj: yerine kaas (kakpaş)
+  ybe: yerine kazdık (kadız)
+  alt: yerine çobra (çobra)
+  kim: yerine çöpree (çobra)
+  tyv: yerine çövüree (çobra)
+  uig: yerine kovzak (kovzak)
+tarihi_yok: {}

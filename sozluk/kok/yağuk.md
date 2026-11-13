@@ -10,13 +10,13 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 20 (kaynaklı %100) · kaynak 5 · yabancı kayıt 2**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 5 · yabancı kayıt 3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
 - · Volga Bulgarcası, 10-14. yy
 - ✓ Harezm ve Altın Orda Türkçesi, 13-14. yy (1 tanık)
-- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (1 tanık)
+- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (2 tanık)
 - ✗ Eski Anadolu Türkçesi, 13-15. yy
 - ✓ Çağatayca, 15-19. yy (1 tanık)
 - ✗ Osmanlıca, 16-19. yy
@@ -37,6 +37,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **yağuk** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 653 (Clauson, yağu:k) |
 | 13. yy | Karahanlıca |  | **yavuk** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 132-6 (Clauson, yağu:k) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **yawuk** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 25, 12 (Clauson, yağu:k) |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yavuk** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **yavuk** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 75; Nehcü'l-Feradis 39 (Clauson, yağu:k) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **yawuk** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 49, 2 (Clauson, yağu:k) |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **yawuk** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 402, Senglâh 340r (Clauson, yağu:k) |
@@ -46,6 +47,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 Notlar:
 
 - 11. yy, Karahanlıca: yak yağuk 'komşular, akrabalar'.
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım yaoh (ya'ox); Clauson'a göre yağuk'un Kuman biçimi.
 
 ## Yaşayan diller ve ağızlar
 
@@ -83,7 +85,7 @@ Notlar:
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 11 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 12 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 9 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

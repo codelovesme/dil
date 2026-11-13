@@ -36,7 +36,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | 11. yy | Karahanlıca | Kâşgar | **tatlığ** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 45, 495, 529 (Clauson, tatığlığ) |
 | 13. yy | Karahanlıca |  | **tatlığ** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 289 (Clauson, tatığlığ) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **tatlu** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 27, 9 (Clauson, tatığlığ) |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tatli** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tatlı** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **tatlığ** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 173; Nehcü'l-Feradis 163 (Clauson, tatığlığ) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **tatlığ** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 54, 7; 66, 3 (Clauson, tatığlığ) |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **tatlığ** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 167, Senglâh 152 (Clauson, tatığlığ) |
@@ -46,6 +46,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 Notlar:
 
 - 13. yy, Karahanlıca: tatluğ, tatlu da.
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım tatli.
 - 16.–18. yy, Harezm Türkçesi ve Çağatayca: Senglâh: Rumca (Osmanlıca) tatlu.
 
 ## Yaşayan diller ve ağızlar

@@ -60,7 +60,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eşit | eşit | eşit | eşit |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | eşit ↑ | eşit ↑ | eşit ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | işti | işti | işti | işti |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | eşit | esit | esit |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | eşit | eşit | esit |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | işet | işet | işet |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | işet | işet | işet | işet |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | işet | işet | işet | işet |
@@ -162,5 +162,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | äs |  |  |
 | Sibirya kolu | Kuzey Altayca |  |  | uk |  |
 
-**Tarihî tanıklar:** Eski Türkçe *eşit*; Kuman-Kıpçakça *esit*.
+**Tarihî tanıklar:** Eski Türkçe *eşit*; Kuman-Kıpçakça *eşit*.
 

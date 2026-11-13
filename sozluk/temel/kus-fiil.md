@@ -59,7 +59,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gus | gus | gus | gus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | gus ↑ | gus ↑ | gus ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | kus ↑ | kus ↑ | kus ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kus | cus | kus |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kus | kus | kus |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | kos | kos | kos |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | kos | kos | kos | kos |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kos | kos | kos | kos |
@@ -156,5 +156,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kus |  |
 | Sibirya kolu | Kuzey Altayca |  | kus |  |
 
-**Tarihî tanıklar:** Eski Türkçe *kus*; Karahanlıca *kus*; Kuman-Kıpçakça *cus*; Harezm Türkçesi ve Çağatayca *kus*.
+**Tarihî tanıklar:** Eski Türkçe *kus*; Karahanlıca *kus*; Kuman-Kıpçakça *kus*; Harezm Türkçesi ve Çağatayca *kus*.
 

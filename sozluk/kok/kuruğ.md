@@ -37,7 +37,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **kuruğ** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 467 (Clauson, 1 kuruğ) |
 | 13. yy | Karahanlıca |  | **kuruğ** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 219 (Clauson, 1 kuruğ) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **kuru** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 6, 1; 27, 1 (Clauson, 1 kuruğ) |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **churu** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kuru** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **kuru** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 69 (Clauson, 1 kuruğ) |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **kuru** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 145; Nehcü'l-Feradis 8 (Clauson, 1 kuruğ) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **kurı** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 54, 13 (Clauson, 1 kuruğ) |
@@ -49,6 +49,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 Notlar:
 
 - 8.–14. yy, Eski Türkçe: Budist metinlerde 'boş, gerçek dışı' mecazı da.
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım churu.
 - 14. yy, Harezm Türkçesi ve Çağatayca: kurı, kuruğ da.
 - 14. yy, Azerbaycan Türkçesi: kuru da.
 

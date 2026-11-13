@@ -16,9 +16,10 @@ taniklar:
     metin: Codex Cumanicus
     kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
     yabanci: true
-    bicim: kas
+    bicim: kaz
     kaynak: savelyev-turkic
     atif: noauthor1880
+    not: Latin harfli yazım kas.
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)

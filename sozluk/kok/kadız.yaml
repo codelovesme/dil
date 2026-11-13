@@ -1,0 +1,47 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kadız
+anlam: '"ağaç kabuğu"'
+koken: türkçe
+kavramlar:
+- kabuk
+etimoloji: Eski Uygurca kadız 'ağaç kabuğu (özellikle huş)'; Sarı Uygurca kazdık.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: kadız
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'malov1957, tenisev1966', bicim: kazdık, dil: ybe, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kabık (kabuk)
+  aze: yerine gabığ (kabuk)
+  bak: yerine kabık (kabuk)
+  chv: yerine xupă (kabuk)
+  crh: yerine kabuk (kabuk)
+  gag: yerine kabuk (kabuk)
+  kaa: yerine kabık (kabuk)
+  krc: yerine kabuk (kabuk)
+  kdr: yerine kabuk (kabuk)
+  kaz: yerine kabık (kabuk)
+  kir: yerine kabık (kabuk)
+  kum: yerine kabuk (kabuk)
+  nog: yerine kabık (kabuk)
+  tat: yerine kabık (kabuk)
+  tur: yerine kabuk (kabuk)
+  tuk: yerine gabık (kabuk)
+  atv: yerine kağaş (kakpaş)
+  kjh: yerine xaxpas (kakpaş)
+  clw: yerine kakvaç (kakpaş)
+  cjs: yerine kakpaş (kakpaş)
+  klj: yerine kaas (kakpaş)
+  alt: yerine çobra (çobra)
+  kim: yerine çöpree (çobra)
+  tyv: yerine çövüree (çobra)
+  dlg: yerine katırık (xatırık)
+  sah: yerine xatırık (xatırık)
+  uig: yerine kovzak (kovzak)
+tarihi_yok: {}

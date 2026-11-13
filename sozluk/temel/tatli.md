@@ -62,7 +62,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | süyci | süyci | süyci | süyci |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | süyci ↑ | süyci ↑ | süyci ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | tälli | tälli | tälli | tälli |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tatlı | tatli | tätti |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | tatlı | tatlı | tätti |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | tatlı | tatlı | tatlı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | tatlı | tatlı | tatlı | tatlı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tatlı | tatlı | tatlı | tatlı |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | taadlığ |  |  |  |  |
 | Sibirya kolu | Kuzey Altayca |  | taattu |  |  |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *tatığlığ*; Karahanlıca *tatlığ*; Kuman-Kıpçakça *tatli*; Harezm Türkçesi ve Çağatayca *tatlığ*.
+**Tarihî tanıklar:** Eski Türkçe *tatığlığ*; Karahanlıca *tatlığ*; Kuman-Kıpçakça *tatlı*; Harezm Türkçesi ve Çağatayca *tatlığ*.
 

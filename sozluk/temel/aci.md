@@ -59,7 +59,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | acı | acı | acı | acı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | acı ↑ | acı ↑ | acı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | aacı | aacı | aacı | aacı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | açı | açi | açı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | açı | açı | açı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | açı | açı | açı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | açı | açı | açı | açı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | açı | açı | açı | açı |
@@ -159,5 +159,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | açığ |  |
 | Sibirya kolu | Kuzey Altayca |  | acığ |  |
 
-**Tarihî tanıklar:** Eski Türkçe *açığ*; Karahanlıca *açığ*; Kuman-Kıpçakça *açi*; Harezm Türkçesi ve Çağatayca *açığ*.
+**Tarihî tanıklar:** Eski Türkçe *açığ*; Karahanlıca *açığ*; Kuman-Kıpçakça *açı*; Harezm Türkçesi ve Çağatayca *açığ*.
 

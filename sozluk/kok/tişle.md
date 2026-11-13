@@ -35,7 +35,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | 11. yy | Karahanlıca | Kâşgar | **tişle** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 294 (Clauson, tişle-) |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **tişle** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 4601 (Clauson, tişle-) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **tişle** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 42, 9 (Clauson, tişle-) |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tisla** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tişla** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **tişle** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 39 (Clauson, tişle-) |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **tişle** |  | Kutb, Hüsrev ü Şirin |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 180 (Clauson, tişle-) |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **tişle** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 194v (Clauson, tişle-) |
@@ -45,6 +45,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 Notlar:
 
 - 8.–14. yy, Eski Türkçe: Hekimlik metni.
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım tisla.
 
 ## Yaşayan diller ve ağızlar
 

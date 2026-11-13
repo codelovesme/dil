@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 180 kavram, 22 tanesi ayrışıyor.
+Toplam 186 kavram, 23 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@ Toplam 180 kavram, 22 tanesi ayrışıyor.
 | çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
 | çok | köp *(köp)* | köp *(köp)* | köp *(köp)* | UYUŞUYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
+| dal | butak *(butık)* | butık *(butık)* | butak *(butık)* | UYUŞUYOR |
 | dar | tar *(tar)* | tar *(tar)* | tar *(tar)* | UYUŞUYOR |
 | de-/ayt- | ayt *(ayt)* | te *(te)* | de *(te)* | AYRIŞIYOR |
 | değnek | tayak *(tayak)* | tayak *(tayak)* | tayak *(tayak)* | UYUŞUYOR |
@@ -74,6 +75,7 @@ Toplam 180 kavram, 22 tanesi ayrışıyor.
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
 | geniş | keñ *(keñ)* | keñ *(keñ)* | keñ *(keñ)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
+| göğüs | kökräk *(kökrek)* | kökräk *(kökrek)* | kögüs *(kögüz)* | AYRIŞIYOR |
 | gök | kök *(kök)* | kök *(kök)* | kök *(kök)* | UYUŞUYOR |
 | göl | köl *(köl)* | köl *(köl)* | köl *(köl)* | UYUŞUYOR |
 | gör- | kör *(kör)* | kör *(kör)* | kör *(kör)* | UYUŞUYOR |
@@ -92,6 +94,7 @@ Toplam 180 kavram, 22 tanesi ayrışıyor.
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
 | it | it *(ıt)* | ıt *(ıt)* | it *(ıt)* | UYUŞUYOR |
 | iyi | yakşı *(yakşı)* | yakşı *(yakşı)* | yaxşı *(yakşı)* | UYUŞUYOR |
+| kabuk | kabuk *(kabuk)* | kabuk *(kabuk)* | kabuk *(kabuk)* | UYUŞUYOR |
 | kadın | tişiriw *(tişi)* | tişi *(tişi)* | karı *(karı)* | AYRIŞIYOR |
 | kal- | kal *(kal)* | kal *(kal)* | kal *(kal)* | UYUŞUYOR |
 | kalın | kalın *(kalın)* | kalın *(kalın)* | kalın *(kalın)* | UYUŞUYOR |
@@ -144,6 +147,7 @@ Toplam 180 kavram, 22 tanesi ayrışıyor.
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | sıcak | isig *(isig)* | isig *(isig)* | issik *(isig)* | UYUŞUYOR |
 | sinek | çibin *(çıbın)* | çibin *(çıbın)* | sinek *(siñek)* | AYRIŞIYOR |
+| sırt | arka *(arka)* | arka *(arka)* | arka *(arka)* | UYUŞUYOR |
 | siz | siz *(siz)* | siz *(siz)* | siz *(siz)* | UYUŞUYOR |
 | soğuk | soğuk *(soğık)* | soğık *(soğık)* | soğuk *(soğık)* | UYUŞUYOR |
 | sol | sol *(sol)* | sol *(sol)* | sol *(sol)* | UYUŞUYOR |
@@ -151,6 +155,7 @@ Toplam 180 kavram, 22 tanesi ayrışıyor.
 | su | suw *(sub)* | sub *(sub)* | su *(sub)* | UYUŞUYOR |
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
 | tatlı | tatlı *(tatlı)* | tatığlığ *(tatlı)* | tatlı *(tatlı)* | UYUŞUYOR |
+| tırnak | tırnak *(tırnak)* | tırñak *(tırnak)* | tırnak *(tırnak)* | UYUŞUYOR |
 | tohum | uruk *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | uruğ *(uruğ-tohum)* | UYUŞUYOR |
 | toz | toz *(toz)* | toz *(toz)* | toz *(toz)* | UYUŞUYOR |
 | tükür- | tükür *(tükür)* | tükür *(tükür)* | tükür *(tükür)* | UYUŞUYOR |
@@ -170,6 +175,7 @@ Toplam 180 kavram, 22 tanesi ayrışıyor.
 | yağmur | yağmır *(yağmur)* | yağmur *(yağmur)* | yağmur *(yağmur)* | UYUŞUYOR |
 | yakın | yakın *(yakın)* | yağuk *(yağuk)* | yakın *(yakın)* | AYRIŞIYOR |
 | yan- | yan *(yan)* | yan *(yan)* | yan *(yan)* | UYUŞUYOR |
+| yanak | yanak *(yañak)* | yanak *(yañak)* | yanak *(yañak)* | UYUŞUYOR |
 | yaprak | yapırak *(yaprak)* | yapırğak *(yaprak)* | yaprak *(yaprak)* | UYUŞUYOR |
 | yarın | erten *(erte)* | yarın *(yarın)* | yarın *(yarın)* | AYRIŞIYOR |
 | yaşa- | yaşa *(yaşa)* | yaşa *(yaşa)* | yaşa *(yaşa)* | UYUŞUYOR |

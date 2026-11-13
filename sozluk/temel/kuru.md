@@ -61,7 +61,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gurı | gurı | gurı | gurı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | gurı ↑ | gurı ↑ | gurı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | kuru | kuru | kuru | kuru |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kuru | churu | kurğak |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | kuru | kuru | kurğak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | koro | koro | korı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | korı | korı | korı | korı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | korı | korı | korı | korı |
@@ -163,5 +163,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  |  |  | keebiğ |  |
 | Sibirya kolu | Kuzey Altayca |  | kuru |  |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *kuruğ*; Karahanlıca *kuruğ*; Kuman-Kıpçakça *churu*; Harezm Türkçesi ve Çağatayca *kuru*.
+**Tarihî tanıklar:** Eski Türkçe *kuruğ*; Karahanlıca *kuruğ*; Kuman-Kıpçakça *kuru*; Harezm Türkçesi ve Çağatayca *kuru*.
 

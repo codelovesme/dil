@@ -1,0 +1,60 @@
+kavram: yanak
+ingilizce: cheek
+anlam: Yanak.
+dogrulandi: false
+kokler:
+- kok: yañak
+  koken: türkçe
+  ana_turkce: '*yaŋak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yañak.yaml).
+  bicimler:
+    aze: yanağ
+    bak: yañak
+    crh: yanak
+    dlg: hıñaak
+    gag: yanak
+    krc: cayak
+    kdr: yayak
+    kjh: naax
+    kum: yayak
+    clw: çaağ
+    atv: yaak
+    slr: yanax
+    ybe: yañak
+    cjs: naak
+    alt: daak
+    tat: yanak
+    tur: yanak
+    tuk: yanak
+    tyv: çaak
+    sty-baraba: yañak
+- kok: bet
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bet.yaml).
+  bicimler:
+    kaz: bet
+    kir: bet
+    nog: bet
+- kok: yüz-ad
+  koken: türkçe
+  ana_turkce: '*yüŕ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yüz-ad.yaml).
+  bicimler:
+    uzb: yuz
+- kok: mäñiz
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mäñiz.yaml).
+  bicimler:
+    uig: mäñiz
+- kok: iedes
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iedes.yaml).
+  bicimler:
+    sah: iedes
+yok: []
+tarihi_yok: []

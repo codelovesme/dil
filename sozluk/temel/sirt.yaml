@@ -1,0 +1,81 @@
+kavram: sırt
+ingilizce: back
+anlam: Sırt, arka.
+dogrulandi: false
+kokler:
+- kok: arka
+  koken: türkçe
+  ana_turkce: '*arka'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/arka.yaml).
+  tarihi:
+    qwm: arka
+    otk: arka
+    xqa: arka
+    chg: arka
+  bicimler:
+    aze: arxa
+    bak: arka
+    crh: arka
+    gag: arka
+    kdr: arka
+    kaa: arka
+    kaz: arka
+    kjh: arğa
+    klj:
+      bicim: arka
+      miras: true
+    kir: arka
+    kum: arka
+    nog: arka
+    atv: arka
+    slr: arğa
+    ybe: arka
+    tat: arka
+    kim: oorha
+    tur: arka
+    tuk: arka
+    tyv: oorğa
+    uig: arka
+    uzb: orka
+    sty-baraba: arğa
+- kok: sırt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sırt.yaml).
+  bicimler:
+    krc: sırt
+- kok: kögüz
+  koken: türkçe
+  ana_turkce: '*kȫküŕ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kögüz.yaml).
+  bicimler:
+    cjs: köksü
+    sah: köğüs
+- kok: bel
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bel.yaml).
+  bicimler:
+    alt: bel
+- kok: çaarın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çaarın.yaml).
+  bicimler:
+    clw: çaarın
+- kok: his
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/his.yaml).
+  bicimler:
+    dlg: his
+- kok: şurăm
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şurăm.yaml).
+  bicimler:
+    chv: şurăm
+yok: []
+tarihi_yok: []

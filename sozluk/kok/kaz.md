@@ -36,7 +36,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **kaz** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 1734 (Clauson, kaz-) |
 | 13. yy | Karahanlıca |  | **kaz** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 338 (Clauson, kaz-) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **kaz** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 37, 17 (Clauson, kaz-) |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kas** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kaz** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **kaz** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 71 (Clauson, kaz-) |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **kaz** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 137 (Clauson, kaz-) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **kaz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 9, 3 (Clauson, kaz-) |
@@ -44,6 +44,10 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **kaz** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 272v (Clauson, kaz-) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım kas.
 
 ## Yaşayan diller ve ağızlar
 

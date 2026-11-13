@@ -32,10 +32,14 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **yağmur** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yamgur** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yağmur** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 16.–19. yy | Türkiye Türkçesi |  | **yağmur** | یاغمور | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım yamgur.
 
 ## Yaşayan diller ve ağızlar
 

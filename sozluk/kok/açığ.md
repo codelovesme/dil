@@ -38,7 +38,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 13. yy | Karahanlıca |  | **açığ** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 64 (Clauson, 1 açığ) |
 | 13. yy | Karahanlıca |  | **açığ** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 209, 436 (Clauson, 1 açığ) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **açı** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 27, 10 (Clauson, 1 açığ) |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **açi** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **açı** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **acı** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 9 (Clauson, 1 açığ) |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **açığ** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 3; Nehcü'l-Feradis 341 (Clauson, 1 açığ) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **acığ** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 56, 6 (Clauson, 1 açığ) |
@@ -50,6 +50,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 Notlar:
 
 - 8.–14. yy, Eski Türkçe: açığ nara 'acı nar'; 'acı, keder' mecazı da.
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazım açi.
 - 14. yy, Azerbaycan Türkçesi: acı da.
 - 16.–18. yy, Harezm Türkçesi ve Çağatayca: Çağataycada 'öfke' anlamı da.
 

@@ -1,0 +1,47 @@
+kavram: tırnak
+ingilizce: fingernail
+anlam: Tırnak.
+dogrulandi: false
+kokler:
+- kok: tırnak
+  koken: türkçe
+  ana_turkce: '*tïrŋak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tırnak.yaml).
+  tarihi:
+    otk: tırñak
+    qwm: tırnak
+  bicimler:
+    aze: dırnağ
+    bak: tırnak
+    chv: çĕrne
+    crh: tırnak
+    dlg: tıñırak
+    gag: tırnak
+    krc: tırnak
+    kdr: tırnak
+    kaa: tırnak
+    kaz: tırnak
+    kjh: tırğax
+    klj:
+      bicim: tırnak
+      miras: true
+    kir: tırmak
+    kum: tırnak
+    clw: tırğak
+    nog: tırnak
+    atv: tırğak
+    slr: tırnax
+    ybe: tırmak
+    cjs: tırbak
+    alt: tırmax
+    tat: tırnak
+    kim: dırbak
+    tur: tırnak
+    tuk: dırnak
+    tyv: dırgak
+    uig: tirmak
+    uzb: tirnok
+    sah: tıñırax
+yok: []
+tarihi_yok: []

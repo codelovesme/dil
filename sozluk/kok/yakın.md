@@ -11,13 +11,13 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 30 (kaynaklı %100) · kaynak 6 · yabancı kayıt 4**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 29 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
 - · Volga Bulgarcası, 10-14. yy
 - ✓ Harezm ve Altın Orda Türkçesi, 13-14. yy (1 tanık)
-- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (4 tanık)
+- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (3 tanık)
 - ✗ Eski Anadolu Türkçesi, 13-15. yy
 - ✓ Çağatayca, 15-19. yy (1 tanık)
 - ✗ Osmanlıca, 16-19. yy
@@ -36,7 +36,6 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **yakın** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 254, 500, 4546 (Clauson, yakın) |
 | 13. yy | Karahanlıca |  | **yakın** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 174 (Clauson, yakın) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **yakın** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 25, 12 (Clauson, yakın) |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yaoh** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **yakın** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 95 (Clauson, yakın) |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **yakın** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 69; Nehcü'l-Feradis 105 (Clauson, yakın) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **yaxın** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 49, 2 (Clauson, yakın) |
@@ -81,7 +80,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 20 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 19 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 10 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

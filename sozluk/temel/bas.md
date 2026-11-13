@@ -58,7 +58,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | baş ↑ | baş ↑ | baş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | baş ↑ | baş ↑ | baş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | paş | paş | paş | paş |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | baş | bas | baş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | baş | baş | baş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | baş | baş | baş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | baş | baş | baş | baş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | baş | baş | baş | baş |
@@ -158,5 +158,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | pas |
 | Sibirya kolu | Kuzey Altayca |  | baş |
 
-**Tarihî tanıklar:** Eski Türkçe *baş*; Kuman-Kıpçakça *bas*.
+**Tarihî tanıklar:** Eski Türkçe *baş*; Kuman-Kıpçakça *baş*.
 

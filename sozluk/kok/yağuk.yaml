@@ -9,6 +9,16 @@ etimoloji: yağuk 'yakın; komşu, akraba' (yağu- 'yaklaşmak' fiilinden). Gök
 kaynak: savelyev-turkic
 
 taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: yavuk
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım yaoh (ya'ox); Clauson'a göre yağuk'un Kuman biçimi.
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)

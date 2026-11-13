@@ -59,7 +59,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yer | yer | yer | yer |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yer ↑ | yer ↑ | yer ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yer ↑ | yer ↑ | yer ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yer | ier | jer |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yer | yer | jer |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yer | yer | cir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | cir | cir | cir | cir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | cir | cir | cir | cir |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | çär |  |
 | Sibirya kolu | Kuzey Altayca |  | ter |  |
 
-**Tarihî tanıklar:** Eski Türkçe *yer*; Kuman-Kıpçakça *ier*.
+**Tarihî tanıklar:** Eski Türkçe *yer*; Kuman-Kıpçakça *yer*.
 

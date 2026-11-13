@@ -1,0 +1,72 @@
+kavram: kabuk
+ingilizce: bark
+anlam: Kabuk (ağaç).
+dogrulandi: false
+kokler:
+- kok: kabuk
+  koken: türkçe
+  ana_turkce: '*kabïk'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kabuk.yaml).
+  tarihi:
+    qwm: kabuk
+  bicimler:
+    aze: gabığ
+    bak: kabık
+    chv: xupă
+    crh: kabuk
+    gag: kabuk
+    krc: kabuk
+    kdr: kabuk
+    kaa: kabık
+    kaz: kabık
+    kir: kabık
+    kum: kabuk
+    nog: kabık
+    tat: kabık
+    tur: kabuk
+    tuk: gabık
+    sty-baraba: kabık
+- kok: kakpaş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kakpaş.yaml).
+  bicimler:
+    kjh: xaxpas
+    klj:
+      bicim: kaas
+      miras: true
+    clw: kakvaç
+    atv: kağaş
+    cjs: kakpaş
+- kok: kadız
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kadız.yaml).
+  tarihi:
+    otk: kadız
+  bicimler:
+    ybe: kazdık
+- kok: çobra
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çobra.yaml).
+  bicimler:
+    alt: çobra
+    kim: çöpree
+    tyv: çövüree
+- kok: xatırık
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xatırık.yaml).
+  bicimler:
+    dlg: katırık
+    sah: xatırık
+- kok: kovzak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kovzak.yaml).
+  bicimler:
+    uig: kovzak
+yok: []
+tarihi_yok: []
