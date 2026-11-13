@@ -1,0 +1,53 @@
+kavram: kar
+ingilizce: snow
+anlam: Kar.
+dogrulandi: false
+kokler:
+- kok: kar
+  koken: türkçe
+  ana_turkce: '*kār'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kar.yaml).
+  tarihi:
+    qwm: kar
+    otk: kar
+  bicimler:
+    aze: kar
+    bak: kar
+    crh: kar
+    dlg: kaar
+    gag: kaar
+    krc: kar
+    kdr: kar
+    kaa: kar
+    kaz: kar
+    kjh: xar
+    klj:
+      bicim: kaar
+      miras: true
+    kir: kar
+    kum: kar
+    clw: kar
+    nog: kar
+    atv: kar
+    slr: kar
+    ybe: kar
+    cjs: kar
+    alt: kar
+    tat: kar
+    kim: kar
+    tur: kar
+    tuk: gar
+    tyv: xar
+    uig: kar
+    uzb: kor
+    sah: xaar
+    sty-baraba: kar
+- kok: yur
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yur.yaml).
+  bicimler:
+    chv: yur
+yok: []
+tarihi_yok: []

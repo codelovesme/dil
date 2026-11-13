@@ -48,11 +48,11 @@ aşamasında ele alınacak.
 ## 8. Doğa
 
 - [x] [su](temel/su.yaml) · [x] [ateş](temel/ates.yaml) · [x] [taş](temel/tas.yaml) · [x] [yer](temel/yer.yaml) · [x] [gök](temel/gok.yaml) · [x] [güneş](temel/gunes.yaml) · [x] [yıldız](temel/yildiz.yaml)
-- [x] [dağ](temel/dag.yaml) · [x] [ağaç](temel/agac.yaml) · [ ] yol · [x] [ev](temel/ev.yaml) · [ ] kar · [ ] yağmur · [ ] yel · [ ] göl · [ ] deniz
+- [x] [dağ](temel/dag.yaml) · [x] [ağaç](temel/agac.yaml) · [ ] yol · [x] [ev](temel/ev.yaml) · [x] [kar](temel/kar.yaml) · [x] [yağmur](temel/yagmur.yaml) · [x] [yel](temel/yel.yaml) · [x] [göl](temel/gol.yaml) · [x] [deniz](temel/deniz.yaml)
 
 ## 9. Hayvanlar
 
-- [ ] at · [ ] it · [ ] koyun · [ ] inek/sığır · [ ] kuş · [ ] balık · [ ] kurt
+- [ ] at · [x] [it](temel/it.yaml) · [ ] koyun · [ ] inek/sığır · [x] [kuş](temel/kus.yaml) · [x] [balık](temel/balik.yaml) · [ ] kurt
 
 ## 10. Sıfatlar
 

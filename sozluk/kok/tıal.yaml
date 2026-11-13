@@ -1,0 +1,36 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tıal
+anlam: Sahacada "rüzgâr"
+koken: türkçe
+kavramlar:
+- yel
+etimoloji: Sahaca ve Dolganca tıal; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: tıal, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tıal, dil: sah, kaynak: savelyev-turkic, yazi: тыал}
+
+yok:
+  sty-baraba: yerine yel (yel)
+  aze: yerine yel (yel)
+  bak: yerine yel (yel)
+  chv: yerine şil (yel)
+  crh: yerine yel (yel)
+  kaa: yerine jel (yel)
+  krc: yerine cel (yel)
+  kdr: yerine yel (yel)
+  kaz: yerine jel (yel)
+  kjh: yerine çil (yel)
+  klj: yerine yel (yel)
+  kum: yerine yel (yel)
+  clw: yerine çäl (yel)
+  nog: yerine yel (yel)
+  slr: yerine yel (yel)
+  ybe: yerine yil (yel)
+  tat: yerine cil (yel)
+  tuk: yerine yel (yel)
+  tur: yerine yel (yel)
+  kim: yerine kat (kat)
+  tyv: yerine xat (kat)
+tarihi_yok: {}

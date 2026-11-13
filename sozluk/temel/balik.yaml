@@ -1,0 +1,51 @@
+kavram: balık
+ingilizce: fish
+anlam: Balık.
+dogrulandi: false
+kokler:
+- kok: balık
+  koken: türkçe
+  ana_turkce: '*balïk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/balık.yaml).
+  tarihi:
+    qwm: balık
+    otk: balık
+  bicimler:
+    aze: balık
+    bak: balık
+    chv:
+      bicim: pulă
+      miras: true
+    crh: balık
+    dlg: balık
+    gag: balık
+    kdr: balık
+    kaa: balık
+    kaz: balık
+    kjh: palıx
+    kir: balık
+    kum: balık
+    clw: paalık
+    nog: balık
+    atv: balıq
+    slr: balux
+    cjs: palık
+    alt: balık
+    tat: balık
+    kim: balık
+    tur: balık
+    tuk: balık
+    tyv: balık
+    uig: belik
+    uzb: balik
+    sah: balık
+    sty-baraba: balık
+- kok: çabak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çabak.yaml).
+  bicimler:
+    krc: çabak
+yok: []
+tarihi_yok: []

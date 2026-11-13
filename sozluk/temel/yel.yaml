@@ -1,0 +1,55 @@
+kavram: yel
+ingilizce: wind
+anlam: Yel, rüzgâr.
+dogrulandi: false
+kokler:
+- kok: yel
+  koken: türkçe
+  ana_turkce: '*yẹl'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yel.yaml).
+  tarihi:
+    qwm: yel
+    otk: yel
+  bicimler:
+    aze: yel
+    bak: yel
+    chv:
+      bicim: şil
+      miras: true
+    crh: yel
+    krc: cel
+    kdr: yel
+    kaa: jel
+    kaz: jel
+    kjh: çil
+    klj:
+      bicim: yel
+      miras: true
+    kum: yel
+    clw: çäl
+    nog: yel
+    slr: yel
+    ybe: yil
+    tat: cil
+    tur:
+      bicim: yel
+      tercih: 0.5
+    tuk: yel
+    sty-baraba: yel
+- kok: tıal
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tıal.yaml).
+  bicimler:
+    dlg: tıal
+    sah: tıal
+- kok: kat
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kat.yaml).
+  bicimler:
+    kim: kat
+    tyv: xat
+yok: []
+tarihi_yok: []

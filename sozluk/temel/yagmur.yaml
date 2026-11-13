@@ -1,0 +1,59 @@
+kavram: yağmur
+ingilizce: rain
+anlam: Yağmur.
+dogrulandi: false
+kokler:
+- kok: yağmur
+  koken: türkçe
+  ana_turkce: '*yagmur'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yağmur.yaml).
+  tarihi:
+    qwm: yamgur
+    otk: yağmur
+  bicimler:
+    bak: yamğır
+    chv: şumăr
+    dlg: hamıır
+    gag: yaamur
+    krc: jañur
+    kdr: yamğur
+    kaa: jamğır
+    kaz: jañbır
+    kjh: nañmır
+    kir: jamğır
+    kum: yañur
+    nog: yamğır
+    atv: ñañmır
+    slr: yağmur
+    ybe: yağmır
+    cjs: nağbur
+    alt: dañmır
+    tat: yañgır
+    tur: yağmur
+    tuk:
+      bicim: yağmır
+      tercih: 0.5
+    uig: yamğur
+    uzb: yomğir
+    sah: samıır
+    sty-baraba: yañgır
+- kok: yağış
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yağış.yaml).
+  bicimler:
+    aze: yağış
+    crh: yağış
+    klj:
+      bicim: yağış
+      miras: true
+    tuk: yağış
+- kok: öskin
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/öskin.yaml).
+  bicimler:
+    kim: öskin
+yok: []
+tarihi_yok: []

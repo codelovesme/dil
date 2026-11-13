@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kanat
+anlam: '"kanat; kanatlı"'
+koken: türkçe
+ana_turkce: '*kanat'
+kavramlar:
+- kus
+etimoloji: kanat 'kanat'tan kanatlı 'kuş'; Karaçay-Malkarca ve Kırgızcada 'kuş'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kanatlı, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kanattuu, dil: kir, kaynak: savelyev-turkic, yazi: канаттуу}
+
+yok:
+  sty-baraba: yerine kuş (kuş)
+  atv: yerine kuş (kuş)
+  alt: yerine kuş (kuş)
+  aze: yerine kuş (kuş)
+  bak: yerine koş (kuş)
+  crh: yerine kuş (kuş)
+  gag: yerine kuş (kuş)
+  kaa: yerine kus (kuş)
+  kdr: yerine kuş (kuş)
+  kaz: yerine kus (kuş)
+  kjh: yerine xus (kuş)
+  kum: yerine kuş (kuş)
+  clw: yerine kus (kuş)
+  nog: yerine kus (kuş)
+  slr: yerine kuş (kuş)
+  ybe: yerine kus (kuş)
+  cjs: yerine kuş (kuş)
+  tat: yerine koş (kuş)
+  kim: yerine kuşkaş (kuş)
+  tur: yerine kuş (kuş)
+  tuk: yerine guş (kuş)
+  tyv: yerine kuş (kuş)
+  uig: yerine kuş (kuş)
+  uzb: yerine kuş (kuş)
+  dlg: yerine kötör (kötör)
+  sah: yerine kötör (kötör)
+  chv: yerine kayăk (kayăk)
+tarihi_yok: {}

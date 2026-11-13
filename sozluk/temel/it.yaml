@@ -1,0 +1,68 @@
+kavram: it
+ingilizce: dog
+anlam: Köpek, it.
+dogrulandi: false
+kokler:
+- kok: ıt
+  koken: türkçe
+  ana_turkce: '*ït'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıt.yaml).
+  tarihi:
+    qwm: it
+    otk: ıt
+  bicimler:
+    aze: it
+    bak: et
+    chv:
+      bicim: yıtă
+      miras: true
+    dlg: ıt
+    krc: it
+    kdr: it
+    kaa: iyt
+    kaz: it
+    klj:
+      bicim: it
+      miras: true
+    kir: it
+    kum: it
+    nog: iyt
+    atv: iyt
+    slr: işt
+    ybe: ışt
+    alt: iyt
+    tat: et
+    tur:
+      bicim: it
+      tercih: 0.5
+    tuk: it
+    tyv: ıt
+    uig: işt
+    uzb: it
+    sah: ıt
+    sty-baraba: it
+- kok: köpek
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köpek.yaml).
+  bicimler:
+    crh: köpek
+    gag: köpek
+    tur: köpek
+- kok: aday
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aday.yaml).
+  bicimler:
+    kjh: aday
+    clw: aday
+    cjs: aday
+- kok: çıdığ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çıdığ.yaml).
+  bicimler:
+    kim: çıdığ
+yok: []
+tarihi_yok: []
