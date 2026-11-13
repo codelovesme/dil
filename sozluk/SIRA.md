@@ -26,12 +26,12 @@ aşamasında ele alınacak.
 
 ## 4. Temel fiiller
 
-- [ ] ol- (bol-) · [ ] et-/kıl- · [ ] de-/ayt- · [x] [gel-](temel/gel.yaml) · [x] [git-/bar-](temel/git.yaml)
+- [ ] ol- (bol-) · [x] [et-/kıl-](temel/et.yaml) · [x] [de-/ayt-](temel/de.yaml) · [x] [gel-](temel/gel.yaml) · [x] [git-/bar-](temel/git.yaml)
 - [x] [ver-](temel/ver.yaml) · [x] [al-](temel/al.yaml) · [x] [gör-](temel/gor.yaml) · [x] [bil-](temel/bil.yaml) · [ ] iste-
 - [x] [ye-](temel/ye.yaml) · [x] [iç-](temel/ic.yaml) · [x] [otur-](temel/otur.yaml) · [x] [dur-/tur-](temel/tur.yaml) · [x] [yat-](temel/yat.yaml) · [x] [uyu-](temel/uyu.yaml)
 - [x] [bak-](temel/bak.yaml) · [ ] çık- · [ ] gir- · [ ] tut- · [ ] koy-/sal- · [ ] yap-/kıl-
-- [ ] sev- · [x] [öl-](temel/ol.yaml) · [x] [yaşa-](temel/yasa.yaml) · [ ] duy- · [ ] söyle-/sözle- · [ ] sor-
-- [x] [işit-](temel/isit.yaml) · [x] [yürü-](temel/yuru.yaml) · [x] [koş-](temel/kos.yaml) · [ ] düş- · [ ] kal- · [ ] bekle-
+- [ ] sev- · [x] [öl-](temel/ol.yaml) · [x] [yaşa-](temel/yasa.yaml) · [ ] duy- · [ ] söyle-/sözle- · [x] [sor-](temel/sor.yaml)
+- [x] [işit-](temel/isit.yaml) · [x] [yürü-](temel/yuru.yaml) · [x] [koş-](temel/kos.yaml) · [x] [düş-](temel/dus.yaml) · [x] [kal-](temel/kal.yaml) · [ ] bekle-
 
 ## 5. Zaman
 

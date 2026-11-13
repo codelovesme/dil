@@ -1,0 +1,70 @@
+kavram: de-/ayt-
+ingilizce: say
+anlam: Söylemek, demek.
+dogrulandi: false
+kokler:
+- kok: ayt
+  koken: türkçe
+  ana_turkce: '*ayt-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ayt.yaml).
+  tarihi:
+    qwm: ayt
+  bicimler:
+    bak: äyt
+    crh: ayt
+    krc: ayt
+    kdr: ayt
+    kaa: ayt
+    kaz: ayt
+    kir: ayt
+    clw: ayt
+    nog: ayt
+    atv: ayt
+    cjs: ayt
+    alt: ayt
+    tat: äyt
+    tuk: ayt
+    uig: eyt
+    uzb: ayt
+    sty-baraba: äyt
+- kok: te
+  koken: türkçe
+  ana_turkce: '*tē-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/te.yaml).
+  tarihi:
+    otk: te
+  bicimler:
+    aze: de
+    chv:
+      bicim: te
+      miras: true
+    dlg: die
+    gag: de
+    kum: de
+    kim: de
+    tur: de
+    sah: die
+- kok: çooxta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çooxta.yaml).
+  bicimler:
+    kjh: çooxta
+- kok: çugaala
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çugaala.yaml).
+  bicimler:
+    tyv: çugaala
+- kok: haay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/haay.yaml).
+  bicimler:
+    klj:
+      bicim: haay
+      miras: true
+yok: []
+tarihi_yok: []

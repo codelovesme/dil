@@ -1,0 +1,51 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kıl
+anlam: '"kılmak, yapmak"'
+koken: türkçe
+ana_turkce: '*kïl-'
+kavramlar:
+- et
+etimoloji: Ana Türkçe *kïl-; Eski Türkçenin asıl 'yapmak' fiili. Bugün Özbekçe ve Tuvacada
+  asıl, öteki dillerde yardımcı fiil.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: kıl
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kıl, dil: tyv, kaynak: savelyev-turkic, yazi: кыл-}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kil, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine et (et)
+  alt: yerine et (et)
+  aze: yerine et (et)
+  gag: yerine et (et)
+  krc: yerine et (et)
+  kjh: yerine it (et)
+  kum: yerine et (et)
+  clw: yerine ät (et)
+  ybe: yerine et (et)
+  cjs: yerine et (et)
+  tur: yerine et (et)
+  uig: yerine ät (et)
+  atv: yerine taza (yasa)
+  kaa: yerine jasa (yasa)
+  kdr: yerine yasa (yasa)
+  kaz: yerine jasa (yasa)
+  kir: yerine jasa (yasa)
+  nog: yerine yasa (yasa)
+  slr: yerine yasa (yasa)
+  tat: yerine yasa (yasa)
+  kim: yerine çaasa (yasa)
+  tuk: yerine yasa (yasa)
+  bak: yerine eşlä (işle)
+  dlg: yerine oñor (oñor)
+  sah: yerine oñor (oñor)
+  crh: yerine yap (yap)
+  chv: yerine tu (tu)
+  klj: yerine şa (şa)
+tarihi_yok: {}

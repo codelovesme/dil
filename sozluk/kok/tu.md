@@ -1,0 +1,66 @@
+# tu
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`tu.yaml`](tu.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** Çuvaşçada "yapmak"
+- **Köken:** türkçe
+- **Kavramlar:** [et](../temel/et.yaml)
+- **Etimoloji:** Çuvaşça tu-; kökeni bu çalışmada araştırılmadı.
+- **En eski tanık:** günümüz
+
+## Kapsam
+
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+
+- ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
+- ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
+- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✗ Çağatayca, 15-19. yy
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **tu** | ту- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| | Baraba ağzı | | — | | | | kök yok: yerine et (et) |
+| | Güney Altayca | | — | | | | kök yok: yerine et (et) |
+| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine et (et) |
+| | Gagavuzca | | — | | | | kök yok: yerine et (et) |
+| | Karaçay-Malkarca | | — | | | | kök yok: yerine et (et) |
+| | Hakasça | | — | | | | kök yok: yerine it (et) |
+| | Kumukça | | — | | | | kök yok: yerine et (et) |
+| | Çulımca | | — | | | | kök yok: yerine ät (et) |
+| | Sarı Uygurca | | — | | | | kök yok: yerine et (et) |
+| | Şorca | | — | | | | kök yok: yerine et (et) |
+| | Türkiye Türkçesi | | — | | | | kök yok: yerine et (et) |
+| | Uygurca | | — | | | | kök yok: yerine ät (et) |
+| | Tuvaca | | — | | | | kök yok: yerine kıl (kıl) |
+| | Özbekçe | | — | | | | kök yok: yerine kil (kıl) |
+| | Kuzey Altayca | | — | | | | kök yok: yerine taza (yasa) |
+| | Karakalpakça | | — | | | | kök yok: yerine jasa (yasa) |
+| | Karayca | | — | | | | kök yok: yerine yasa (yasa) |
+| | Kazakça | | — | | | | kök yok: yerine jasa (yasa) |
+| | Kırgızca | | — | | | | kök yok: yerine jasa (yasa) |
+| | Nogayca | | — | | | | kök yok: yerine yasa (yasa) |
+| | Salarca | | — | | | | kök yok: yerine yasa (yasa) |
+| | Tatarca | | — | | | | kök yok: yerine yasa (yasa) |
+| | Tofaca | | — | | | | kök yok: yerine çaasa (yasa) |
+| | Türkmence | | — | | | | kök yok: yerine yasa (yasa) |
+| | Başkurtça | | — | | | | kök yok: yerine eşlä (işle) |
+| | Dolganca | | — | | | | kök yok: yerine oñor (oñor) |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine oñor (oñor) |
+| | Kırım Tatarcası | | — | | | | kök yok: yerine yap (yap) |
+| | Halaçça | | — | | | | kök yok: yerine şa (şa) |
+
+## Kaynakça
+
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık

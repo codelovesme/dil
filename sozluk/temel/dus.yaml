@@ -1,0 +1,72 @@
+kavram: düş-
+ingilizce: fall
+anlam: Yukarıdan aşağıya inmek, düşmek.
+dogrulandi: false
+kokler:
+- kok: tüş
+  koken: türkçe
+  ana_turkce: '*tüš-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tüş.yaml).
+  tarihi:
+    qwm: tüş
+    otk: tüş
+  bicimler:
+    aze: düş
+    dlg: tüs
+    gag: düş
+    kaz:
+      bicim: tüs
+      tercih: 0.5
+    kjh: tüs
+    klj:
+      bicim: tiş
+      miras: true
+    kir:
+      bicim: tüş
+      tercih: 0.5
+    atv: tüş
+    alt: tüş
+    tat:
+      bicim: töş
+      tercih: 0.5
+    kim: tüş
+    tur: düş
+    tyv: düş
+    sah: tüs
+- kok: yıkıl
+  koken: türkçe
+  ana_turkce: '*yïkïl-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yıkıl.yaml).
+  bicimler:
+    bak: yığıl
+    crh: yıkıl
+    krc: cığıl
+    kdr: yığıl
+    kaa: jığıl
+    kaz: jığıl
+    kir: jığıl
+    kum: yığıl
+    nog: yığıl
+    slr: yıxıl
+    cjs: çığıl
+    tat: yığıl
+    tuk: yıkıl
+    uig: jikil
+    uzb: yikil
+    sty-baraba: yığıl
+- kok: ük
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ük.yaml).
+  bicimler:
+    chv: ük
+- kok: añnal
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/añnal.yaml).
+  bicimler:
+    clw: añnal
+yok: []
+tarihi_yok: []

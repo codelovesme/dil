@@ -1,0 +1,75 @@
+kavram: sor-
+ingilizce: ask
+anlam: Bir şeyi öğrenmek için soru yöneltmek.
+dogrulandi: false
+kokler:
+- kok: sora
+  koken: türkçe
+  ana_turkce: '*sora-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sora.yaml).
+  bicimler:
+    aze:
+      bicim: soruş
+      tercih: 0.5
+    bak: hora
+    crh: sora
+    kaa: sora
+    kaz: sura
+    kjh: sur
+    kir: sura
+    clw: sur
+    nog: sora
+    atv: sura
+    cjs: sura
+    alt: sura
+    tat: sora
+    tur: sor
+    tuk: sora
+    uig: sora
+    uzb: sora
+    sty-baraba: sora
+- kok: tile
+  koken: türkçe
+  ana_turkce: '*tile-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tile.yaml).
+  tarihi:
+    otk: tile
+  bicimler:
+    aze: dilä
+    krc: tile
+    kum: tile
+    ybe: tele
+    kim: tile
+    tyv: dile
+- kok: iste
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iste.yaml).
+  bicimler:
+    gag: iste
+- kok: kol
+  koken: türkçe
+  ana_turkce: '*kōl-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kol.yaml).
+  tarihi:
+    qwm: kol
+  bicimler:
+    kdr: kol
+- kok: kördöö
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kördöö.yaml).
+  bicimler:
+    dlg: kördöö
+    sah: kördöö
+- kok: ıyt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıyt.yaml).
+  bicimler:
+    chv: ıyt
+yok: []
+tarihi_yok: []

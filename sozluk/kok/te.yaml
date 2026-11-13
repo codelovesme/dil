@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: te
+anlam: '"demek"'
+koken: türkçe
+ana_turkce: '*tē-'
+kavramlar:
+- de
+etimoloji: 'Ana Türkçe *tē- ''demek'' (uzun ē: Sahaca die-). Oğuz''da t- > d- (de-); Çuvaşça
+  te-. Eski Türkçede söz aktarma fiili.'
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: te
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: de, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: te, dil: chv, kaynak: savelyev-turkic, yazi: те-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: die, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: de, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: de, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: de, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: de, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: die, dil: sah, kaynak: savelyev-turkic, not: Uzun ē'nin izi., yazi: диэ-}
+
+yok:
+  sty-baraba: yerine äyt (ayt)
+  atv: yerine ayt (ayt)
+  alt: yerine ayt (ayt)
+  bak: yerine äyt (ayt)
+  crh: yerine ayt (ayt)
+  kaa: yerine ayt (ayt)
+  krc: yerine ayt (ayt)
+  kdr: yerine ayt (ayt)
+  kaz: yerine ayt (ayt)
+  kir: yerine ayt (ayt)
+  clw: yerine ayt (ayt)
+  nog: yerine ayt (ayt)
+  cjs: yerine ayt (ayt)
+  tat: yerine äyt (ayt)
+  tuk: yerine ayt (ayt)
+  uig: yerine eyt (ayt)
+  uzb: yerine ayt (ayt)
+  kjh: yerine çooxta (çooxta)
+  tyv: yerine çugaala (çugaala)
+  klj: yerine haay (haay)
+tarihi_yok: {}

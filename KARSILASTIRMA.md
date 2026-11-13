@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 38 kavram, 3 tanesi ayrışıyor.
+Toplam 43 kavram, 5 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -18,13 +18,17 @@ Toplam 38 kavram, 3 tanesi ayrışıyor.
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
+| de-/ayt- | ayt *(ayt)* | te *(te)* | de *(te)* | AYRIŞIYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
+| düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
+| et-/kıl- | et *(et)* | et *(et)* | et *(et)* | UYUŞUYOR |
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
 | gör- | kör *(kör)* | kör *(kör)* | kör *(kör)* | UYUŞUYOR |
 | iç- | iç *(iç)* | iç *(iç)* | iç *(iç)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
+| kal- | kal *(kal)* | kal *(kal)* | kal *(kal)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | koş- | yügür *(yügür)* | çap *(çap)* | yügür *(yügür)* | AYRIŞIYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
@@ -36,6 +40,7 @@ Toplam 38 kavram, 3 tanesi ayrışıyor.
 | otur- | olur *(olur)* | olur *(olur)* | otur *(olur)* | UYUŞUYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | siz | siz *(siz)* | siz *(siz)* | siz *(siz)* | UYUŞUYOR |
+| sor- | sora *(sora)* | sora *(sora)* | sor *(sora)* | UYUŞUYOR |
 | su | suw *(sub)* | sub *(sub)* | su *(sub)* | UYUŞUYOR |
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
 | dur-/tur- | tur *(tur)* | tur *(tur)* | tur *(tur)* | UYUŞUYOR |

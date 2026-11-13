@@ -1,0 +1,86 @@
+kavram: et-/kıl-
+ingilizce: do, make
+anlam: Yapmak, etmek.
+dogrulandi: false
+kokler:
+- kok: et
+  koken: türkçe
+  ana_turkce: '*ẹt-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/et.yaml).
+  tarihi:
+    qwm: et
+  bicimler:
+    aze: et
+    gag: et
+    krc: et
+    kjh: it
+    kum: et
+    clw: ät
+    ybe: et
+    cjs: et
+    alt: et
+    tur: et
+    uig: ät
+    sty-baraba: et
+- kok: kıl
+  koken: türkçe
+  ana_turkce: '*kïl-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kıl.yaml).
+  tarihi:
+    otk: kıl
+  bicimler:
+    tyv: kıl
+    uzb: kil
+- kok: yasa
+  koken: türkçe
+  ana_turkce: '*yasa-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yasa.yaml).
+  bicimler:
+    kdr: yasa
+    kaa: jasa
+    kaz: jasa
+    kir: jasa
+    nog: yasa
+    atv: taza
+    slr: yasa
+    tat: yasa
+    kim: çaasa
+    tuk: yasa
+- kok: işle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/işle.yaml).
+  bicimler:
+    bak: eşlä
+- kok: oñor
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oñor.yaml).
+  bicimler:
+    dlg: oñor
+    sah: oñor
+- kok: yap
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yap.yaml).
+  bicimler:
+    crh: yap
+- kok: tu
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tu.yaml).
+  bicimler:
+    chv: tu
+- kok: şa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şa.yaml).
+  bicimler:
+    klj:
+      bicim: şa
+      miras: true
+yok: []
+tarihi_yok: []
