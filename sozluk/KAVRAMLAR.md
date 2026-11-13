@@ -7,6 +7,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | Kavram | İngilizce | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|---|
 | [al-](temel/al.md) | take | **al** | **al** | **al** | uyuşuyor |
+| [ay](temel/ay.md) | moon; month | **ay** | **ay** | **ay** | uyuşuyor |
 | [bak-](temel/bak.md) | look | **kara** | **bak** | **bak** | ayrişiyor |
 | [ben](temel/ben.md) | I | **män** | **bän** | **ben** | uyuşuyor |
 | [beş](temel/bes.md) | five | **beş** | **beş** | **beş** | uyuşuyor |
@@ -18,11 +19,14 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [dağ](temel/dag.md) | mountain | **tağ** | **tağ** | **tağ** | uyuşuyor |
 | [de-/ayt-](temel/de.md) | say | **ayt** | **te** | **de** | ayrişiyor |
 | [dört](temel/dort.md) | four | **dört** | **dört** | **dört** | uyuşuyor |
+| [dün](temel/dun.md) | yesterday | **tünegün** | **tünekün** | **tünegün** | uyuşuyor |
 | [düş-](temel/dus.md) | fall | **yığıl** | **tüş** | **düş** | ayrişiyor |
 | [et-/kıl-](temel/et.md) | do, make | **et** | **et** | **et** | uyuşuyor |
+| [gece](temel/gece.md) | night | **tün** | **gece** | **gece** | ayrişiyor |
 | [gel-](temel/gel.md) | come | **kel** | **kel** | **kel** | uyuşuyor |
 | [git-/bar-](temel/git.md) | go | **bar** | **bar** | **bar** | uyuşuyor |
 | [gör-](temel/gor.md) | see | **kör** | **kör** | **kör** | uyuşuyor |
+| [gün](temel/gun.md) | day; sun | **kün** | **kün** | **kün** | uyuşuyor |
 | [iç-](temel/ic.md) | drink | **iç** | **iç** | **iç** | uyuşuyor |
 | [iki](temel/iki.md) | two | **iki** | **iki** | **iki** | uyuşuyor |
 | [işit-/duy-](temel/isit.md) | hear | **eşit** | **eşit** | **eşit** | uyuşuyor |
@@ -45,7 +49,9 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [üç](temel/uc.md) | three | **üç** | **üç** | **üç** | uyuşuyor |
 | [uyu-](temel/uyu.md) | sleep | **udu** | **udı** | **uyu** | uyuşuyor |
 | [ver-](temel/ver.md) | give | **ber** | **ber** | **ber** | uyuşuyor |
+| [yarın](temel/yarin.md) | tomorrow | **erten** | **yarın** | **yarın** | ayrişiyor |
 | [yaşa-](temel/yasa.md) | live | **yaşa** | **yaşa** | **yaşa** | uyuşuyor |
 | [yat-](temel/yat.md) | lie down | **yat** | **yat** | **yat** | uyuşuyor |
 | [ye-](temel/ye.md) | eat | **ye** | **ye** | **ye** | uyuşuyor |
+| [yıl](temel/yil.md) | year | **yıl** | **yıl** | **yıl** | uyuşuyor |
 | [yürü-](temel/yuru.md) | walk | **yorı** | **yorı** | **yürü** | uyuşuyor |

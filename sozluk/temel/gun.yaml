@@ -1,0 +1,51 @@
+kavram: gün
+ingilizce: day; sun
+anlam: Gün (24 saat; gündüz).
+dogrulandi: false
+kokler:
+- kok: kün
+  koken: türkçe
+  ana_turkce: '*kün'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kün.yaml).
+  tarihi:
+    qwm: kun
+    otk: kün
+    eski-anadolu: gün
+  bicimler:
+    aze: gün
+    bak: kön
+    chv:
+      bicim: kun
+      miras: true
+    crh: kün
+    dlg: kün
+    gag: gün
+    krc: kün
+    kdr: kün
+    kaa: kün
+    kaz: kün
+    kjh: kün
+    klj:
+      bicim: kün
+      miras: true
+    kir: kün
+    kum: gün
+    clw: kün
+    nog: kün
+    atv: kün
+    slr: kun
+    ybe: kün
+    cjs: kün
+    alt: '? kün'
+    tat: kön
+    kim: hün
+    tur: gün
+    tuk: gün
+    tyv: xün
+    uig: kün
+    uzb: kun
+    sah: kün
+    sty-baraba: kön
+yok: []
+tarihi_yok: []

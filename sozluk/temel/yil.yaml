@@ -1,0 +1,48 @@
+kavram: yıl
+ingilizce: year
+anlam: Yıl.
+dogrulandi: false
+kokler:
+- kok: yıl
+  koken: türkçe
+  ana_turkce: '*yïl'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yıl.yaml).
+  tarihi:
+    qwm: yıl
+    otk: yıl
+    eski-anadolu: yıl
+  bicimler:
+    aze: il
+    bak: yıl
+    chv:
+      bicim: şul
+      miras: true
+    crh: yıl
+    gag: yıl
+    krc: cıl
+    kdr: yıl
+    kaa: jıl
+    kaz: jıl
+    klj:
+      bicim: yil
+      miras: true
+    kir: jıl
+    kum: yıl
+    clw: çıl
+    nog: yıl
+    atv: tıl
+    slr: yıl
+    ybe: yıl
+    cjs: çıl
+    alt: dıl
+    kim: çıl
+    tur: yıl
+    tuk: yıl
+    tyv: çıl
+    uig: jil
+    uzb: yil
+    sah: sıl
+    sty-baraba: yıl
+yok: []
+tarihi_yok: []

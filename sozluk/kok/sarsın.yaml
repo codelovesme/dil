@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sarsın
+anlam: Sahacada "yarın"
+koken: türkçe
+kavramlar:
+- yarin
+etimoloji: Sahaca sarsın, Dolganca harsın; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: harsın, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sarsın, dil: sah, kaynak: savelyev-turkic, yazi: сарсын}
+
+yok:
+  chv: yerine ıran (yarın)
+  crh: yerine yarın (yarın)
+  gag: yerine yarın (yarın)
+  tur: yerine yarın (yarın)
+  sty-baraba: yerine ärtän (erte)
+  alt: yerine erten (erte)
+  bak: yerine irtägä (erte)
+  kaa: yerine erteñ (erte)
+  kaz: yerine erteñ (erte)
+  kir: yerine erteñ (erte)
+  nog: yerine erten (erte)
+  slr: yerine eetä (erte)
+  tat: yerine irtägä (erte)
+  tuk: yerine ertir (erte)
+  uig: yerine ätä (erte)
+  uzb: yerine erta (erte)
+  atv: yerine tañda (tañ)
+  krc: yerine tambla (tañ)
+  kdr: yerine tañda (tañ)
+  kjh: yerine tañda (tañ)
+  kum: yerine tañala (tañ)
+  clw: yerine tañna (tañ)
+  cjs: yerine tañda (tañ)
+  ybe: yerine tağın (tañ)
+  kim: yerine turay (turay)
+  tyv: yerine daarta (daarta)
+tarihi_yok: {}

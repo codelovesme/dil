@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: erte
+anlam: '"erken, sabah; yarın"'
+koken: türkçe
+ana_turkce: '*ẹrte'
+kavramlar:
+- yarin
+etimoloji: ẹrte 'erken, sabah'; Kıpçak ve Karluk dillerinde ve Türkmencede 'yarın' (erteñ,
+  irtägä, ertir, ätä).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'uraksin1996, uraksin2005', bicim: irtägä, dil: bak, kaynak: savelyev-turkic, yazi: иртәгә}
+  - {atif: 'baskakov1958, baskakov1967', bicim: erteñ, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: erteñ, dil: kaz, kaynak: savelyev-turkic, yazi: ертең}
+  - {atif: 'judakhin1985, judakhin1957', bicim: erteñ, dil: kir, kaynak: savelyev-turkic, yazi: эртең}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: erten, dil: nog, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: eetä, dil: slr, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: erten, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: irtägä, dil: tat, kaynak: savelyev-turkic, yazi: иртәгә}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ertir, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: ätä, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: erta, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: ärtän, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  chv: yerine ıran (yarın)
+  crh: yerine yarın (yarın)
+  gag: yerine yarın (yarın)
+  tur: yerine yarın (yarın)
+  atv: yerine tañda (tañ)
+  krc: yerine tambla (tañ)
+  kdr: yerine tañda (tañ)
+  kjh: yerine tañda (tañ)
+  kum: yerine tañala (tañ)
+  clw: yerine tañna (tañ)
+  cjs: yerine tañda (tañ)
+  ybe: yerine tağın (tañ)
+  dlg: yerine harsın (sarsın)
+  sah: yerine sarsın (sarsın)
+  kim: yerine turay (turay)
+  tyv: yerine daarta (daarta)
+tarihi_yok: {}

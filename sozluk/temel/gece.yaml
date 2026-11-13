@@ -1,0 +1,59 @@
+kavram: gece
+ingilizce: night
+anlam: Gece, karanlık vakit.
+dogrulandi: false
+kokler:
+- kok: tün
+  koken: türkçe
+  ana_turkce: '*tün'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tün.yaml).
+  tarihi:
+    qwm: tün
+    otk: tün
+  bicimler:
+    bak: tön
+    dlg: tüün
+    kaa: tün
+    kaz: tün
+    kjh: tün
+    kir: tün
+    clw: tün
+    nog: tün
+    atv: tün
+    ybe: tün
+    cjs: tün
+    alt: tün
+    tat: tön
+    kim: dünne
+    tyv: dün
+    uig: tün
+    sah: tüün
+    sty-baraba: tön
+- kok: keçe
+  koken: türkçe
+  ana_turkce: '*kēčä'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/keçe.yaml).
+  bicimler:
+    aze: gecä
+    crh: gece
+    gag: gecä
+    krc: keçe
+    kdr: keçä
+    klj:
+      bicim: kieçä
+      miras: true
+    kum: geçe
+    slr: gece
+    tur: gece
+    tuk: giçe
+    uzb: keça
+- kok: şĕr
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şĕr.yaml).
+  bicimler:
+    chv: şĕr
+yok: []
+tarihi_yok: []

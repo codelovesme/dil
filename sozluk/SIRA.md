@@ -35,7 +35,7 @@ aşamasında ele alınacak.
 
 ## 5. Zaman
 
-- [ ] gün · [ ] gece · [ ] ay · [ ] yıl · [ ] şimdi · [ ] bugün · [ ] dün · [ ] yarın · [ ] sabah · [ ] akşam
+- [x] [gün](temel/gun.yaml) · [x] [gece](temel/gece.yaml) · [x] [ay](temel/ay.yaml) · [x] [yıl](temel/yil.yaml) · [ ] şimdi · [ ] bugün · [x] [dün](temel/dun.yaml) · [x] [yarın](temel/yarin.yaml) · [ ] sabah · [ ] akşam
 
 ## 6. İnsan ve aile
 

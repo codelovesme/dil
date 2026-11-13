@@ -1,0 +1,70 @@
+kavram: dün
+ingilizce: yesterday
+anlam: Bugünden önceki gün.
+dogrulandi: false
+kokler:
+- kok: tünegün
+  koken: türkçe
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tünegün.yaml).
+  tarihi:
+    qwm: tünekün
+  bicimler:
+    aze: dünän
+    crh: tünevin
+    gag: dün
+    krc: tünene
+    kdr: tünegün
+    kum: tünegün
+    nog: tünegün
+    kim: düün
+    tur: dün
+    tuk: düyn
+    tyv: düün
+    uig: tünügün
+- kok: keçe
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/keçe.yaml).
+  bicimler:
+    bak: kisä
+    kaa: keşe
+    kaz: keşe
+    kjh: kicee
+    kir: keçee
+    clw: käcee
+    atv: kece
+    slr: keece
+    cjs: keçe
+    alt: keçe
+    tat: kiçä
+    uzb: keça
+- kok: begehee
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/begehee.yaml).
+  bicimler:
+    dlg: begehee
+    sah: begehee
+- kok: äñgür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/äñgür.yaml).
+  bicimler:
+    klj:
+      bicim: äñgür
+      miras: true
+- kok: ĕner
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ĕner.yaml).
+  bicimler:
+    chv: ĕner
+- kok: tuğın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tuğın.yaml).
+  bicimler:
+    ybe: tuğın
+yok: []
+tarihi_yok: []

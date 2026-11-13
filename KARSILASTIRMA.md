@@ -4,11 +4,12 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 43 kavram, 5 tanesi ayrışıyor.
+Toplam 49 kavram, 7 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
 | al- | al *(al)* | al *(al)* | al *(al)* | UYUŞUYOR |
+| ay | ay *(ay)* | ay *(ay)* | ay *(ay)* | UYUŞUYOR |
 | bak- | kara *(kara)* | bak *(bak)* | bak *(bak)* | AYRIŞIYOR |
 | ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
 | beş | beş *(beş)* | beş *(beş)* | beş *(beş)* | UYUŞUYOR |
@@ -20,11 +21,14 @@ Toplam 43 kavram, 5 tanesi ayrışıyor.
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | de-/ayt- | ayt *(ayt)* | te *(te)* | de *(te)* | AYRIŞIYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
+| dün | tünegün *(tünegün)* | tünekün *(tünegün)* | tünegün *(tünegün)* | UYUŞUYOR |
 | düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
 | et-/kıl- | et *(et)* | et *(et)* | et *(et)* | UYUŞUYOR |
+| gece | tün *(tün)* | gece *(keçe)* | gece *(keçe)* | AYRIŞIYOR |
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
 | gör- | kör *(kör)* | kör *(kör)* | kör *(kör)* | UYUŞUYOR |
+| gün | kün *(kün)* | kün *(kün)* | kün *(kün)* | UYUŞUYOR |
 | iç- | iç *(iç)* | iç *(iç)* | iç *(iç)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
@@ -47,7 +51,9 @@ Toplam 43 kavram, 5 tanesi ayrışıyor.
 | üç | üç *(üç)* | üç *(üç)* | üç *(üç)* | UYUŞUYOR |
 | uyu- | udu *(udı)* | udı *(udı)* | uyu *(udı)* | UYUŞUYOR |
 | ver- | ber *(ber)* | ber *(ber)* | ber *(ber)* | UYUŞUYOR |
+| yarın | erten *(erte)* | yarın *(yarın)* | yarın *(yarın)* | AYRIŞIYOR |
 | yaşa- | yaşa *(yaşa)* | yaşa *(yaşa)* | yaşa *(yaşa)* | UYUŞUYOR |
 | yat- | yat *(yat)* | yat *(yat)* | yat *(yat)* | UYUŞUYOR |
 | ye- | ye *(ye)* | ye *(ye)* | ye *(ye)* | UYUŞUYOR |
+| yıl | yıl *(yıl)* | yıl *(yıl)* | yıl *(yıl)* | UYUŞUYOR |
 | yürü- | yorı *(yorı)* | yorı *(yorı)* | yürü *(yorı)* | UYUŞUYOR |
