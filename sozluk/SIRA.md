@@ -43,7 +43,7 @@ aşamasında ele alınacak.
 
 ## 7. Beden
 
-- [ ] baş · [ ] göz · [ ] kulak · [ ] ağız · [ ] dil · [ ] diş · [ ] el · [ ] ayak · [ ] yürek · [ ] kan · [ ] et · [ ] kemik
+- [x] [baş](temel/bas.yaml) · [x] [göz](temel/goz.yaml) · [x] [kulak](temel/kulak.yaml) · [x] [ağız](temel/agiz.yaml) · [x] [dil](temel/dil.yaml) · [x] [diş](temel/dis.yaml) · [ ] el · [ ] ayak · [ ] yürek · [ ] kan · [ ] et · [ ] kemik
 
 ## 8. Doğa
 

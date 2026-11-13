@@ -1,0 +1,49 @@
+kavram: ağız
+ingilizce: mouth
+anlam: Ağız.
+dogrulandi: false
+kokler:
+- kok: ağız
+  koken: türkçe
+  ana_turkce: '*āgïŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ağız.yaml).
+  tarihi:
+    qwm: ağız
+    otk: ağız
+    eski-anadolu: āġız, aġız
+  bicimler:
+    aze: ağız
+    bak: awız
+    chv: şăvar
+    crh: ağız
+    dlg: añak
+    gag: aaz
+    krc: awuz
+    kdr: avuz
+    kaa: awız
+    kaz: awız
+    kjh: aas
+    klj:
+      bicim: aağız
+      miras: true
+    kir: ooz
+    kum: awuz
+    clw: aağıs
+    nog: awız
+    atv: ağıs
+    slr: ağız
+    ybe: ağıs
+    cjs: aksı
+    alt: oos
+    tat: awız
+    kim: aas
+    tur: ağız
+    tuk: ağız
+    tyv: aas
+    uig: eğiz
+    uzb: oğiz
+    sah: ayax
+    sty-baraba: awıs
+yok: []
+tarihi_yok: []

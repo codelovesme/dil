@@ -1,0 +1,51 @@
+kavram: kulak
+ingilizce: ear
+anlam: İşitme organı.
+dogrulandi: false
+kokler:
+- kok: kulkak
+  koken: türkçe
+  ana_turkce: '*kulkak'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kulkak.yaml).
+  tarihi:
+    qwm: kulak
+    otk: kulkak
+    eski-anadolu: qulaq
+  bicimler:
+    aze: kulak
+    bak: kolak
+    chv:
+      bicim: xălxa
+      miras: true
+    crh: kulak
+    dlg: kulgaak
+    gag: kulak
+    krc: kulak
+    kdr: kulak
+    kaa: kulak
+    kaz: kulak
+    kjh: xulax
+    klj:
+      bicim: kulaak
+      miras: true
+    kir: kulak
+    kum: kulak
+    clw: kulak
+    nog: kulak
+    atv: kulak
+    slr: kulax
+    ybe: kulak
+    cjs: kulak
+    alt: kulak
+    tat: kolak
+    kim: kulak
+    tur: kulak
+    tuk: gulak
+    tyv: kulak
+    uig: kulak
+    uzb: kulok
+    sah: kulgaax
+    sty-baraba: kolak
+yok: []
+tarihi_yok: []

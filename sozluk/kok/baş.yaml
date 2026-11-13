@@ -1,0 +1,58 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: baş
+anlam: '"baş"'
+koken: türkçe
+ana_turkce: '*baĺ'
+kavramlar:
+- bas
+etimoloji: Ana Türkçe *baĺ. Ortak Türkçe baş; Kıpçak (Kazak, Nogay) ve Sahaca bas, Güney Sibirya'da
+  paş/pas, Çuvaşça puş (Oğur ĺ > ş).
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: bas
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: baş
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: baş, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: baş, dil: bak, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: puş, dil: chv, kaynak: savelyev-turkic, not: 'Oğur: *baĺ > puş.', yazi: пуҫ}
+  - {atif: useinov2007, bicim: baş, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: bas, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: baş, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: baş, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: baş, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: bas, dil: kaz, kaynak: savelyev-turkic, yazi: бас}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: pas, dil: kjh, kaynak: savelyev-turkic, yazi: пас}
+  - {atif: doerfer1980, bicim: baaş, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: baş, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: baş, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: pas, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bas, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: baş, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: paş, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: paş, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: paş, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: baş, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: baş, dil: tat, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: baş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: baş, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: baş, dil: tyv, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: baş, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: boş, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bas, dil: sah, kaynak: savelyev-turkic, yazi: бас}
+  - {atif: dmitrijeva1981, bicim: paş, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok: {}
+tarihi_yok: {}

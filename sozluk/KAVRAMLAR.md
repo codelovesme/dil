@@ -7,11 +7,13 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | Kavram | İngilizce | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|---|
 | [ad](temel/ad.md) | name | **at** | **at** | **at** | uyuşuyor |
+| [ağız](temel/agiz.md) | mouth | **ağız** | **ağız** | **ağız** | uyuşuyor |
 | [al-](temel/al.md) | take | **al** | **al** | **al** | uyuşuyor |
 | [ana](temel/ana.md) | mother | **ana** | **ana** | **ana** | uyuşuyor |
 | [ata](temel/ata.md) | father | **ata** | **ata** | **ata** | uyuşuyor |
 | [ay](temel/ay.md) | moon; month | **ay** | **ay** | **ay** | uyuşuyor |
 | [bak-](temel/bak.md) | look | **kara** | **bak** | **bak** | ayrişiyor |
+| [baş](temel/bas.md) | head | **baş** | **baş** | **baş** | uyuşuyor |
 | [ben](temel/ben.md) | I | **män** | **bän** | **ben** | uyuşuyor |
 | [beş](temel/bes.md) | five | **beş** | **beş** | **beş** | uyuşuyor |
 | [bil-](temel/bil.md) | know | **bil** | **bil** | **bil** | uyuşuyor |
@@ -22,6 +24,8 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [çocuk](temel/cocuk.md) | child | **bala** | **bala** | **bala** | uyuşuyor |
 | [dağ](temel/dag.md) | mountain | **tağ** | **tağ** | **tağ** | uyuşuyor |
 | [de-/ayt-](temel/de.md) | say | **ayt** | **te** | **de** | ayrişiyor |
+| [dil](temel/dil.md) | tongue | **til** | **tıl** | **til** | uyuşuyor |
+| [diş](temel/dis.md) | tooth | **tiş** | **tiş** | **tiş** | uyuşuyor |
 | [dört](temel/dort.md) | four | **dört** | **dört** | **dört** | uyuşuyor |
 | [dün](temel/dun.md) | yesterday | **tünegün** | **tünekün** | **tünegün** | uyuşuyor |
 | [düş-](temel/dus.md) | fall | **yığıl** | **tüş** | **düş** | ayrişiyor |
@@ -31,6 +35,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [gel-](temel/gel.md) | come | **kel** | **kel** | **kel** | uyuşuyor |
 | [git-/bar-](temel/git.md) | go | **bar** | **bar** | **bar** | uyuşuyor |
 | [gör-](temel/gor.md) | see | **kör** | **kör** | **kör** | uyuşuyor |
+| [göz](temel/goz.md) | eye | **köz** | **köz** | **köz** | uyuşuyor |
 | [gün](temel/gun.md) | day; sun | **kün** | **kün** | **kün** | uyuşuyor |
 | [iç-](temel/ic.md) | drink | **iç** | **iç** | **iç** | uyuşuyor |
 | [iki](temel/iki.md) | two | **iki** | **iki** | **iki** | uyuşuyor |
@@ -40,6 +45,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [kim](temel/kim.md) | who | **kim** | **kim** | **kim** | uyuşuyor |
 | [kişi](temel/kisi.md) | person | **kişi** | **kişi** | **kişi** | uyuşuyor |
 | [koş-](temel/kos.md) | run | **yügür** | **çap** | **yügür** | ayrişiyor |
+| [kulak](temel/kulak.md) | ear | **kulak** | **kulkak** | **kulak** | uyuşuyor |
 | [nasıl](temel/nasil.md) | how | **neçuk** | **neçük** | **necä** | uyuşuyor |
 | [ne](temel/ne.md) | what | **ne** | **ne** | **ne** | uyuşuyor |
 | [nere](temel/nere.md) | where | **kayda** | **kayuda** | **kayda** | uyuşuyor |
