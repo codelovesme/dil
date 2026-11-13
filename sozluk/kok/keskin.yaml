@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: keskin
+anlam: '"keskin"'
+koken: türkçe
+kavramlar:
+- keskin
+etimoloji: kes- 'kesmek' + -kin. Türkiye, Gagauz ve Kırım Tatar dillerinde.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: keskin, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: keskin, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: keskin, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  aze: yerine iti (yitig)
+  chv: yerine şivĕç (yitig)
+  dlg: yerine hıtıı (yitig)
+  krc: yerine citi (yitig)
+  kdr: yerine iti (yitig)
+  kjh: yerine çitig (yitig)
+  klj: yerine yitdi (yitig)
+  kum: yerine itti (yitig)
+  clw: yerine çidiğ (yitig)
+  ybe: yerine ıştığ (yitig)
+  cjs: yerine çidig (yitig)
+  kim: yerine çiiti (yitig)
+  tuk: yerine yiti (yitig)
+  tyv: yerine çidig (yitig)
+  sah: yerine sıtıı (yitig)
+  atv: yerine ötkür (ötkür)
+  alt: yerine ötkür (ötkür)
+  bak: yerine ütker (ötkür)
+  kaa: yerine ötkir (ötkür)
+  kaz: yerine ötkir (ötkür)
+  kir: yerine ötkür (ötkür)
+  nog: yerine ötkir (ötkür)
+  tat: yerine ütken (ötkür)
+  uig: yerine ötkür (ötkür)
+  uzb: yerine ötkir (ötkür)
+tarihi_yok: {}

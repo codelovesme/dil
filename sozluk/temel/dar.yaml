@@ -1,0 +1,62 @@
+kavram: dar
+ingilizce: narrow
+anlam: Dar.
+dogrulandi: false
+kokler:
+- kok: tar
+  koken: türkçe
+  ana_turkce: '*tar'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tar.yaml).
+  tarihi:
+    otk: tar
+    xqa: tar
+    chg: tar
+    qwm: tar
+  bicimler:
+    aze: dar
+    bak: tar
+    crh: tar
+    gag: dar
+    krc: tar
+    kdr: tar
+    kaa: tar
+    kaz: tar
+    kjh: tar
+    klj:
+      bicim: taar
+      miras: true
+    kir: tar
+    kum: tar
+    nog: tar
+    ybe: tar
+    cjs: tar
+    alt: tar
+    tat: tar
+    kim: tar
+    tur: dar
+    tuk: dar
+    tyv: tar
+    uig: tar
+    uzb: tor
+- kok: ıkçam
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıkçam.yaml).
+  bicimler:
+    atv: ıkçam
+- kok: kıarağas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kıarağas.yaml).
+  bicimler:
+    dlg: kıaragas
+    sah: kıarağas
+- kok: anzĕr
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/anzĕr.yaml).
+  bicimler:
+    chv: anzĕr
+yok: []
+tarihi_yok: []

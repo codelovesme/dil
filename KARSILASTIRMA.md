@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 168 kavram, 20 tanesi ayrışıyor.
+Toplam 174 kavram, 22 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -47,6 +47,7 @@ Toplam 168 kavram, 20 tanesi ayrışıyor.
 | çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
 | çok | köp *(köp)* | köp *(köp)* | köp *(köp)* | UYUŞUYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
+| dar | tar *(tar)* | tar *(tar)* | tar *(tar)* | UYUŞUYOR |
 | de-/ayt- | ayt *(ayt)* | te *(te)* | de *(te)* | AYRIŞIYOR |
 | değnek | tayak *(tayak)* | tayak *(tayak)* | tayak *(tayak)* | UYUŞUYOR |
 | delik | teşik *(teşik)* | teşik *(teşik)* | deşik *(teşik)* | UYUŞUYOR |
@@ -69,6 +70,7 @@ Toplam 168 kavram, 20 tanesi ayrışıyor.
 | ev | ev *(eb)* | ev *(eb)* | ev *(eb)* | UYUŞUYOR |
 | gece | tün *(tün)* | gece *(keçe)* | gece *(keçe)* | AYRIŞIYOR |
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
+| geniş | keñ *(keñ)* | keñ *(keñ)* | keñ *(keñ)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
 | gök | kök *(kök)* | kök *(kök)* | kök *(kök)* | UYUŞUYOR |
 | göl | köl *(köl)* | köl *(köl)* | köl *(köl)* | UYUŞUYOR |
@@ -101,6 +103,7 @@ Toplam 168 kavram, 20 tanesi ayrışıyor.
 | kemik | sümük *(süñük)* | süñük *(süñük)* | sümük *(süñük)* | UYUŞUYOR |
 | kenar | kıdığ *(kıdığ)* | kıdığ *(kıdığ)* | çet *(çet)* | AYRIŞIYOR |
 | kes- | kes *(kes)* | kes *(kes)* | kes *(kes)* | UYUŞUYOR |
+| keskin | yiti *(yitig)* | yiti *(yitig)* | yiti *(yitig)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | kısa | kıska *(kısga)* | kısga *(kısga)* | kısa *(kısga)* | UYUŞUYOR |
 | kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
@@ -114,6 +117,7 @@ Toplam 168 kavram, 20 tanesi ayrışıyor.
 | kulak | kulak *(kulkak)* | kulkak *(kulkak)* | kulak *(kulkak)* | UYUŞUYOR |
 | kum | kum *(kum)* | kum *(kum)* | kum *(kum)* | UYUŞUYOR |
 | kurt (böcek) | kurt *(kurt)* | kurt *(kurt)* | kurt *(kurt)* | UYUŞUYOR |
+| kuru | kuruğ *(kuruğ)* | kuruğ *(kuruğ)* | kuru *(kuruğ)* | UYUŞUYOR |
 | kus- | kus *(kus)* | kus *(kus)* | kus *(kus)* | UYUŞUYOR |
 | kuş | kuş *(kuş)* | kuş *(kuş)* | kuş *(kuş)* | UYUŞUYOR |
 | kuyruk | kuyruk *(kudruk)* | kudruk *(kudruk)* | kuyruk *(kudruk)* | UYUŞUYOR |
@@ -153,11 +157,13 @@ Toplam 168 kavram, 20 tanesi ayrışıyor.
 | üç | üç *(üç)* | üç *(üç)* | üç *(üç)* | UYUŞUYOR |
 | üfle- | es *(es)* | ür *(ür)* | es *(es)* | AYRIŞIYOR |
 | uyu- | udu *(udı)* | udı *(udı)* | uyu *(udı)* | UYUŞUYOR |
+| uzak | ırak *(ırak)* | ırak *(ırak)* | uzak *(uzak)* | AYRIŞIYOR |
 | uzun | uzun *(uzun)* | uzun *(uzun)* | uzun *(uzun)* | UYUŞUYOR |
 | ver- | ber *(ber)* | ber *(ber)* | ber *(ber)* | UYUŞUYOR |
 | vur- | ur *(ur)* | şap *(çap)* | ur *(ur)* | AYRIŞIYOR |
 | yağ | yağ *(yağ)* | yağ *(yağ)* | yağ *(yağ)* | UYUŞUYOR |
 | yağmur | yağmır *(yağmur)* | yağmur *(yağmur)* | yağmur *(yağmur)* | UYUŞUYOR |
+| yakın | yakın *(yakın)* | yağuk *(yağuk)* | yakın *(yakın)* | AYRIŞIYOR |
 | yan- | yan *(yan)* | yan *(yan)* | yan *(yan)* | UYUŞUYOR |
 | yaprak | yapırak *(yaprak)* | yapırğak *(yaprak)* | yaprak *(yaprak)* | UYUŞUYOR |
 | yarın | erten *(erte)* | yarın *(yarın)* | yarın *(yarın)* | AYRIŞIYOR |

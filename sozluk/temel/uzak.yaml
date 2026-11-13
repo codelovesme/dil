@@ -1,0 +1,67 @@
+kavram: uzak
+ingilizce: far
+anlam: Uzak.
+dogrulandi: false
+kokler:
+- kok: uzak
+  koken: türkçe
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uzak.yaml).
+  tarihi:
+    eski-anadolu: ırak
+  bicimler:
+    aze: uzağ
+    crh: uzak
+    gag: uzak
+    krc: uzak
+    kaa: uzak
+    nog: uzak
+    atv: uzak
+    ybe: uzak
+    alt: uzak
+    tur: uzak
+    tuk: uzak
+    uig: uzak
+    uzb: uzok
+- kok: ırak
+  koken: türkçe
+  ana_turkce: '*ïrak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ırak.yaml).
+  tarihi:
+    qwm: ırak
+    otk: ırak
+    xqa: yırak
+    chg: yırak
+  bicimler:
+    bak: ırak
+    dlg: ıraak
+    kdr: ırak
+    kjh: ırax
+    klj:
+      bicim: hıraak
+      miras: true
+    kir: ıraak
+    kum: ırak
+    clw: ırak
+    slr: ıraxar
+    cjs: ırak
+    tat: ırak
+    kim: ırak
+    tyv: ırak
+    sah: ıraax
+    sty-baraba: ırak
+- kok: kaşık-uzak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kaşık-uzak.yaml).
+  bicimler:
+    kaz: kaşık
+- kok: inşe
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/inşe.yaml).
+  bicimler:
+    chv: inşe
+yok: []
+tarihi_yok: []

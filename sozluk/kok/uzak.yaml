@@ -1,0 +1,50 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: uzak
+anlam: '"uzak"'
+koken: türkçe
+kavramlar:
+- uzak
+etimoloji: uzak (uza- 'uzamak' + -k; uzun ile aynı kökten). Oğuz, Karluk, Kıpçak ve Altay
+  dillerinde.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: ırak
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: ایراق
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: uzağ, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: uzak, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: uzak, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: uzak, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: uzak, dil: kaa, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: uzak, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: uzak, dil: atv, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: uzak, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: uzak, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: uzak, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: uzak, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: uzak, dil: uig, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: uzok, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine ırak (ırak)
+  bak: yerine ırak (ırak)
+  dlg: yerine ıraak (ırak)
+  kdr: yerine ırak (ırak)
+  kjh: yerine ırax (ırak)
+  klj: yerine hıraak (ırak)
+  kir: yerine ıraak (ırak)
+  kum: yerine ırak (ırak)
+  clw: yerine ırak (ırak)
+  slr: yerine ıraxar (ırak)
+  cjs: yerine ırak (ırak)
+  tat: yerine ırak (ırak)
+  kim: yerine ırak (ırak)
+  tyv: yerine ırak (ırak)
+  sah: yerine ıraax (ırak)
+  kaz: yerine kaşık (kaşık-uzak)
+  chv: yerine inşe (inşe)
+tarihi_yok: {}

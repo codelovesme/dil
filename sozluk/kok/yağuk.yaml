@@ -1,0 +1,58 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yağuk
+anlam: '"yakın"'
+koken: türkçe
+kavramlar:
+- yakin
+etimoloji: yağuk 'yakın; komşu, akraba' (yağu- 'yaklaşmak' fiilinden). Göktürkçeden beri;
+  bugün Kumuk, Nogay, Karaçay, Güney Altay, Tuva ve Sahada (yuwuk, çook, çugas); Çuvaşça şıvăx.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: yağuk
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'asmarin1928, savelyev2011', bicim: şıvăx, dil: chv, kaynak: savelyev-turkic, yazi: ҫывӑх}
+  - {atif: 'aksenova1992, stachowski1993', bicim: çugas, dil: dlg, kaynak: savelyev-turkic, not: hugas de.}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: cuwuk, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yuwuk, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yuwık, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: yuuk, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çoogaş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çook, dil: tyv, kaynak: savelyev-turkic, yazi: чоок}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: çugas, dil: sah, kaynak: savelyev-turkic, yazi: чугас}
+  - {atif: dmitrijeva1981, bicim: yavık, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yağuk, metin: Kül Tigin ve Bilge Kağan yazıtları, kaynak: clauson, atif: 'I S 7, II N 5 (Clauson, yağu:k)'}
+  - {dil: otk, yuzyil: 8-14, bicim: yağuk, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'U II 80; TT I 140 (Clauson, yağu:k)'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yağuk, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 29 (Clauson, yağu:k)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: 'yak yağuk ''komşular, akrabalar''.'}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: yağuk, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 653 (Clauson, yağu:k)'}
+  - {dil: xqa, yuzyil: 13, bicim: yavuk, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 132-6 (Clauson, yağu:k)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: yawuk, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 49, 2 (Clauson, yağu:k)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: yavuk, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 75; Nehcü''l-Feradis 39 (Clauson, yağu:k)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: yawuk, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 25, 12 (Clauson, yağu:k)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: chg, yuzyil: 16-18, bicim: yawuk, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 402, Senglâh 340r (Clauson, yağu:k)'}
+
+yok:
+  atv: yerine tağın (yakın)
+  aze: yerine yaxın (yakın)
+  bak: yerine yakın (yakın)
+  crh: yerine yakun (yakın)
+  gag: yerine yakın (yakın)
+  kaa: yerine jakın (yakın)
+  kdr: yerine yakın (yakın)
+  kaz: yerine jakın (yakın)
+  kjh: yerine çağın (yakın)
+  kir: yerine jakın (yakın)
+  clw: yerine çaağın (yakın)
+  slr: yerine yaxın (yakın)
+  ybe: yerine yakın (yakın)
+  cjs: yerine çağın (yakın)
+  tat: yerine yakın (yakın)
+  tur: yerine yakın (yakın)
+  tuk: yerine yakın (yakın)
+  uig: yerine yekin (yakın)
+  uzb: yerine yakin (yakın)
+tarihi_yok: {}

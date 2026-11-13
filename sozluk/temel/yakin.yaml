@@ -1,0 +1,59 @@
+kavram: yakın
+ingilizce: near
+anlam: Yakın.
+dogrulandi: false
+kokler:
+- kok: yakın
+  koken: türkçe
+  ana_turkce: '*yakïn'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yakın.yaml).
+  tarihi:
+    qwm: yaoh
+    otk: yakın
+    xqa: yakın
+    chg: yakın
+  bicimler:
+    aze: yaxın
+    bak: yakın
+    crh: yakun
+    gag: yakın
+    kdr: yakın
+    kaa: jakın
+    kaz: jakın
+    kjh: çağın
+    kir: jakın
+    clw: çaağın
+    atv: tağın
+    slr: yaxın
+    ybe: yakın
+    cjs: çağın
+    tat: yakın
+    tur: yakın
+    tuk: yakın
+    uig: yekin
+    uzb: yakin
+- kok: yağuk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yağuk.yaml).
+  tarihi:
+    otk: yağuk
+    xqa: yağuk
+    chg: yavuk
+    qwm: yawuk
+  bicimler:
+    chv:
+      bicim: şıvăx
+      miras: true
+    dlg: çugas
+    krc: cuwuk
+    kum: yuwuk
+    nog: yuwık
+    alt: yuuk
+    kim: çoogaş
+    tyv: çook
+    sah: çugas
+    sty-baraba: yavık
+yok: []
+tarihi_yok: []
