@@ -1,0 +1,60 @@
+kavram: kalın
+ingilizce: thick
+anlam: Kalın.
+dogrulandi: false
+kokler:
+- kok: kalın
+  koken: türkçe
+  ana_turkce: '*kalïŋ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kalın.yaml).
+  tarihi:
+    otk: kalın
+    xqa: kalın
+    chg: kalıñ
+    qwm: kalın
+  bicimler:
+    aze: galın
+    bak: kalın
+    chv:
+      bicim: xulăn
+      miras: true
+    crh: kalın
+    gag: kalın
+    krc: kalın
+    kdr: kalın
+    kaa: kalın
+    kaz: kalıñ
+    kjh: xalın
+    kir: kalın
+    kum: kalın
+    clw: kaalıñ
+    ybe: kalın
+    cjs: kalın
+    alt: kalın
+    tat: kalın
+    kim: hılın
+    tur: kalın
+    tuk: galıñ
+    tyv: kılın
+    uig: kelin
+    uzb: kalin
+    sah: xalıñ
+- kok: yoğun
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yoğun.yaml).
+  bicimler:
+    klj:
+      bicim: yoğun
+      miras: true
+    slr: yoğan
+    sty-baraba: yuwan
+- kok: dombay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/dombay.yaml).
+  bicimler:
+    nog: dombay
+yok: []
+tarihi_yok: []

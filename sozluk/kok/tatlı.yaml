@@ -1,0 +1,63 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tatlı
+anlam: '"tatlı"'
+koken: türkçe
+ana_turkce: '*tātlïg'
+kavramlar:
+- tatli
+etimoloji: tat 'tat' + -lığ. Eski Uygurca tatığlığ, DLT tatlığ; bugün Oğuz, Kıpçak, Kırgız
+  ve Sibirya dillerinde (tatlı, tätti, tattuu, tadılığ).
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tatli
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tatığlığ
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'uraksin1996, uraksin2005', bicim: tatlı, dil: bak, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: tatlı, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tatlı, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tatlı, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: tatlı, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tätti, dil: kaz, kaynak: savelyev-turkic, yazi: тәттi}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tadılığ, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: tattuu, dil: kir, kaynak: savelyev-turkic, yazi: таттуу}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tatli, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: taadlığ, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: tätli, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: taattu, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: tälli, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: tatığ, dil: ybe, kaynak: savelyev-turkic, not: tattığ de.}
+  - {atif: baskakov1947, bicim: tatu, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: tatlı, dil: tat, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tadığlığ, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: tatlı, dil: tur, kaynak: savelyev-turkic}
+  - {bicim: tatlik, dil: uig, kaynak: bilgi, yazi: تاتلىق}
+  - {atif: dmitrijeva1981, bicim: tatlı, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {dil: otk, yuzyil: 8-14, bicim: tatığlığ, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 46, 71; Suv. 647 (Clauson, tatığlığ)'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tatlığ, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 45, 495, 529 (Clauson, tatığlığ)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yuzyil: 13, bicim: tatlığ, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 289 (Clauson, tatığlığ)', not: 'tatluğ, tatlu da.'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: tatlığ, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 7; 66, 3 (Clauson, tatığlığ)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: tatlığ, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 173; Nehcü''l-Feradis 163 (Clauson, tatığlığ)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: tatlu, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 9 (Clauson, tatığlığ)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: chg, yuzyil: 16-18, bicim: tatlığ, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 167, Senglâh 152 (Clauson, tatığlığ)', not: 'Senglâh: Rumca (Osmanlıca) tatlu.'}
+
+yok:
+  tuk: yerine süyci (süçig)
+  dlg: yerine minnyiges (minnyiges)
+  sah: yerine minnyiges (minnyiges)
+  chv: yerine pılak (pılak)
+  aze: yerine şirin (şirin, alıntı:fa)
+  uzb: yerine şirin (şirin, alıntı:fa)
+tarihi_yok: {}

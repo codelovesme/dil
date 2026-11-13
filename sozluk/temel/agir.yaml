@@ -1,0 +1,52 @@
+kavram: ağır
+ingilizce: heavy
+anlam: Ağır.
+dogrulandi: false
+kokler:
+- kok: ağır
+  koken: türkçe
+  ana_turkce: '*agïr'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ağır.yaml).
+  tarihi:
+    qwm: ağır
+    otk: ağır
+    xqa: ağır
+    chg: ağır
+  bicimler:
+    aze: ağır
+    bak: awır
+    chv:
+      bicim: yıvăr
+      miras: true
+    crh: ağır
+    dlg: ıar
+    gag: aar
+    krc: awur
+    kdr: avur
+    kaa: awır
+    kaz: awır
+    kjh: aar
+    klj:
+      bicim: ağir
+      miras: true
+    kir: oor
+    kum: awur
+    clw: aar
+    nog: awır
+    atv: aar
+    slr: ağır
+    ybe: ağır
+    cjs: aar
+    alt: uur
+    tat: awır
+    kim: aar
+    tur: ağır
+    tuk: ağır
+    tyv: aar
+    uig: eğir
+    uzb: oğir
+    sah: ıarahan
+    sty-baraba: awır
+yok: []
+tarihi_yok: []

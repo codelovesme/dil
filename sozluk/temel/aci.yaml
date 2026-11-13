@@ -1,0 +1,54 @@
+kavram: acı
+ingilizce: bitter
+anlam: Acı (tat).
+dogrulandi: false
+kokler:
+- kok: açığ
+  koken: türkçe
+  ana_turkce: '*ačïg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/açığ.yaml).
+  tarihi:
+    qwm: açi
+    otk: açığ
+    xqa: açığ
+    chg: açığ
+  bicimler:
+    aze: acı
+    bak: äse
+    crh: accı
+    dlg: ahıı
+    gag: acı
+    krc: açı
+    kdr: açı
+    kaa: aşşı
+    kaz: aşşı
+    kjh: açığ
+    klj:
+      bicim: haaçuğ
+      miras: true
+    kir: açuu
+    kum: aççı
+    clw: açığ
+    nog: aşşı
+    atv: acığ
+    slr: aacı
+    ybe: açığ
+    cjs: açığ
+    alt: açu
+    tat: açı
+    kim: acığ
+    tur: acı
+    tuk: acı
+    tyv: ajığ
+    uig: aççik
+    uzb: aççik
+    sah: ahıı
+- kok: yüşĕ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yüşĕ.yaml).
+  bicimler:
+    chv: yüşĕ
+yok: []
+tarihi_yok: []

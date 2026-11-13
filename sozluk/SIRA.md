@@ -70,6 +70,7 @@ aşamasında ele alınacak.
 - [x] [yılan](temel/yilan.yaml) · [x] [kurt (böcek)](temel/kurt-bocek.yaml) · [x] [bit](temel/bit.yaml) · [x] [sinek](temel/sinek.yaml) · [x] [karınca](temel/karinca.yaml)
 - [x] [ısır-](temel/isir.yaml) · [x] [üfle-](temel/ufle.yaml) · [x] [yan-](temel/yan.yaml) · [x] [kaz-](temel/kaz.yaml) · [x] [say-](temel/say.yaml) · [x] [uç-](temel/uc-fiil.yaml)
 - [x] [kork-](temel/kork.yaml) · [x] [yüz- (suda)](temel/yuz-fiil.yaml) · [x] [bağla-](temel/bagla.yaml) · [x] [kus-](temel/kus-fiil.yaml) · [x] [tükür-](temel/tukur.yaml)
+- [x] [acı](temel/aci.yaml) · [x] [ekşi](temel/eksi.yaml) · [x] [tatlı](temel/tatli.yaml) · [x] [ağır](temel/agir.yaml) · [x] [kalın](temel/kalin.yaml) · [x] [ince](temel/ince.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

@@ -1,0 +1,66 @@
+kavram: ekşi
+ingilizce: sour
+anlam: Ekşi.
+dogrulandi: false
+kokler:
+- kok: açığ
+  koken: türkçe
+  ana_turkce: '*ačïg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/açığ.yaml).
+  bicimler:
+    bak: äse
+    dlg: ahıı
+    kjh: açaan
+    kum: aççı
+    clw: açığ
+    nog: aşşı
+    atv: acığ
+    ybe: açığ
+    cjs: açığ
+    alt: açu
+    tat: äçe
+    kim: acığ
+    tyv: ajığ
+    uig: aççik
+    sah: ahıı
+- kok: ekşi
+  koken: türkçe
+  ana_turkce: '*ekšig'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ekşi.yaml).
+  bicimler:
+    crh: ekşi
+    gag: iişi
+    tur: ekşi
+  tarihi:
+    xqa: ekşig
+    qwm: ekşi
+    chg: ekşi
+- kok: yüşĕ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yüşĕ.yaml).
+  bicimler:
+    chv: yüşĕ
+- kok: kıçkıl
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kıçkıl.yaml).
+  bicimler:
+    kaz: kışkıl
+    kir: kıçkıl
+- kok: mıstı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mıstı.yaml).
+  bicimler:
+    krc: mıstı
+- kok: kucur
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kucur.yaml).
+  bicimler:
+    kdr: kucur
+yok: []
+tarihi_yok: []
