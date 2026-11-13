@@ -1,0 +1,60 @@
+kavram: ana
+ingilizce: mother
+anlam: Anne.
+dogrulandi: false
+kokler:
+- kok: ana
+  koken: türkçe
+  ana_turkce: '*ana'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ana.yaml).
+  tarihi:
+    qwm: ana
+  bicimler:
+    aze: ana
+    bak: inä
+    chv:
+      bicim: anne
+      miras: true
+    crh: ana
+    gag: ana
+    krc: ana
+    kdr: ana
+    kaa: ana
+    kaz: ana
+    kir: ene
+    kum: ana
+    nog: ana
+    atv: ene
+    ybe: ana
+    cjs: ene
+    alt: ene
+    tat: ana
+    tur: anne
+    tuk: ene
+    uig: ana
+    uzb: ona
+    sty-baraba: inä
+- kok: içe
+  koken: türkçe
+  ana_turkce: '*ẹčä'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/içe.yaml).
+  bicimler:
+    dlg: inye
+    kjh: ice
+    clw: icä
+    slr: icä
+    kim: ihe
+    tyv: iye
+    sah: iye
+- kok: ög
+  koken: türkçe
+  ana_turkce: '*ȫg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ög.yaml).
+  tarihi:
+    otk: ög
+  bicimler: {}
+yok: []
+tarihi_yok: []

@@ -1,0 +1,50 @@
+kavram: ad
+ingilizce: name
+anlam: Ad, isim.
+dogrulandi: false
+kokler:
+- kok: at
+  koken: türkçe
+  ana_turkce: '*āt'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/at.yaml).
+  tarihi:
+    qwm: at
+    otk: at
+    eski-anadolu: ād, ad
+  bicimler:
+    aze: ad
+    chv:
+      bicim: yat
+      miras: true
+    crh: ad
+    dlg: aat
+    gag: ad
+    krc: at
+    kdr: at
+    kaa: at
+    kaz: at
+    kjh: at
+    klj:
+      bicim: aat
+      miras: true
+    kir: at
+    kum: at
+    clw: at
+    nog: at
+    atv: at
+    slr: at
+    ybe: at
+    cjs: at
+    alt: at
+    tat: at
+    kim: at
+    tur: ad
+    tuk: at
+    tyv: at
+    uig: at
+    uzb: ot
+    sah: aat
+    sty-baraba: at
+yok: []
+tarihi_yok: []

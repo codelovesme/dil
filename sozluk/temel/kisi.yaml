@@ -1,0 +1,44 @@
+kavram: kişi
+ingilizce: person
+anlam: İnsan, kişi.
+dogrulandi: false
+kokler:
+- kok: kişi
+  koken: türkçe
+  ana_turkce: '*kiĺi'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kişi.yaml).
+  tarihi:
+    qwm: kişi
+    otk: kişi
+  bicimler:
+    bak: keşe
+    dlg: kihi
+    kdr: kişi
+    kaz: kĭsĭ
+    kjh: kizi
+    kir: kişi
+    kum: gişi
+    clw: kizi
+    nog: kisi
+    atv: kiji
+    slr: kiş
+    ybe: kise
+    cjs: kiji
+    alt: kiji
+    tat: keşe
+    kim: kişi
+    tur: kişi
+    tyv: kiji
+    uig: kişi
+    uzb: kişi
+    sah: kihi
+    sty-baraba: kişi
+- kok: şın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şın.yaml).
+  bicimler:
+    chv: şın
+yok: []
+tarihi_yok: []

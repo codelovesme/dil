@@ -1,0 +1,60 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ata
+anlam: '"baba"'
+koken: türkçe
+ana_turkce: '*ata'
+kavramlar:
+- ata
+etimoloji: Ana Türkçe *ata. Kıpçak, Karluk, Oğuz (Azerbaycan, Türkmen) ve Altay dillerinde
+  'baba'; Güney Sibirya'da ada, Çuvaşça atte. Türkiye Türkçesinde 'ata, cet' anlamında.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: ata
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: tur
+    yuzyil: 16-19
+    bicim: ata
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: آتا
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ata, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: ata, dil: bak, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: atte, dil: chv, kaynak: savelyev-turkic, yazi: атте}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: ata, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: ata, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: ata, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: ata, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ata, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: ada, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ata, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: ada, dil: atv, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: ada, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: ada, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: ata, dil: tat, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ata, dil: kim, kaynak: savelyev-turkic}
+  - {bicim: ata, dil: tur, kaynak: bilgi}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ata, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ada, dil: tyv, kaynak: savelyev-turkic, yazi: ада}
+  - {atif: nadzip1968, bicim: ata, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ota, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: ata, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  crh: yerine baba (baba, belirsiz)
+  gag: yerine boba (baba, belirsiz)
+  kjh: yerine paba (baba, belirsiz)
+  klj: yerine baaba (baba, belirsiz)
+  dlg: yerine aga (aga)
+  sah: yerine aga (aga)
+  kaz: yerine äke (äke)
+  slr: yerine apa (apa)
+  ybe: yerine aça (ača)
+tarihi_yok: {}

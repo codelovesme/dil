@@ -1,0 +1,88 @@
+kavram: çocuk
+ingilizce: child
+anlam: Çocuk.
+dogrulandi: false
+kokler:
+- kok: bala
+  koken: türkçe
+  ana_turkce: '*bāla'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bala.yaml).
+  bicimler:
+    bak: bala
+    crh: bala
+    krc: bala
+    kdr: bala
+    kaa: bala
+    kaz: bala
+    kjh: pala
+    klj:
+      bicim: bala
+      miras: true
+    kir: bala
+    kum: bala
+    nog: bala
+    atv: bala
+    slr: pala
+    cjs: pala
+    alt: bala
+    tat: bala
+    uig: bala
+    uzb: bola
+    sty-baraba: pala
+- kok: uşak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uşak.yaml).
+  bicimler:
+    aze: uşak
+    gag: uşak
+- kok: çocuk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çocuk.yaml).
+  bicimler:
+    tur: çocuk
+- kok: çaga
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çaga.yaml).
+  bicimler:
+    tuk: çaga
+- kok: oğul
+  koken: türkçe
+  ana_turkce: '*ogul'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oğul.yaml).
+  tarihi:
+    qwm: ogul
+    otk: oğlan
+  bicimler: {}
+- kok: uruğ
+  koken: türkçe
+  ana_turkce: '*urug'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uruğ.yaml).
+  bicimler:
+    kim: uruğ
+    tyv: çaş uruğ
+- kok: aça
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aça.yaml).
+  bicimler:
+    chv: aça
+- kok: käç
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/käç.yaml).
+  bicimler:
+    clw: käç
+- kok: mula
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mula.yaml).
+  bicimler:
+    ybe: mula
+yok: []
+tarihi_yok: []

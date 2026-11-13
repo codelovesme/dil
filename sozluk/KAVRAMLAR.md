@@ -6,7 +6,10 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 
 | Kavram | İngilizce | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|---|
+| [ad](temel/ad.md) | name | **at** | **at** | **at** | uyuşuyor |
 | [al-](temel/al.md) | take | **al** | **al** | **al** | uyuşuyor |
+| [ana](temel/ana.md) | mother | **ana** | **ana** | **ana** | uyuşuyor |
+| [ata](temel/ata.md) | father | **ata** | **ata** | **ata** | uyuşuyor |
 | [ay](temel/ay.md) | moon; month | **ay** | **ay** | **ay** | uyuşuyor |
 | [bak-](temel/bak.md) | look | **kara** | **bak** | **bak** | ayrişiyor |
 | [ben](temel/ben.md) | I | **män** | **bän** | **ben** | uyuşuyor |
@@ -16,11 +19,13 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [biz](temel/biz.md) | we | **biz** | **biz** | **biz** | uyuşuyor |
 | [bu](temel/bu.md) | this | **bu** | **bu** | **bu** | uyuşuyor |
 | [büyük](temel/buyuk.md) | big | **uluğ** | **bedük** | **büyük** | ayrişiyor |
+| [çocuk](temel/cocuk.md) | child | **bala** | **bala** | **bala** | uyuşuyor |
 | [dağ](temel/dag.md) | mountain | **tağ** | **tağ** | **tağ** | uyuşuyor |
 | [de-/ayt-](temel/de.md) | say | **ayt** | **te** | **de** | ayrişiyor |
 | [dört](temel/dort.md) | four | **dört** | **dört** | **dört** | uyuşuyor |
 | [dün](temel/dun.md) | yesterday | **tünegün** | **tünekün** | **tünegün** | uyuşuyor |
 | [düş-](temel/dus.md) | fall | **yığıl** | **tüş** | **düş** | ayrişiyor |
+| [er (erkek)](temel/er.md) | man (male) | **er** | **er** | **erkek** | uyuşuyor |
 | [et-/kıl-](temel/et.md) | do, make | **et** | **et** | **et** | uyuşuyor |
 | [gece](temel/gece.md) | night | **tün** | **gece** | **gece** | ayrişiyor |
 | [gel-](temel/gel.md) | come | **kel** | **kel** | **kel** | uyuşuyor |
@@ -30,8 +35,10 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [iç-](temel/ic.md) | drink | **iç** | **iç** | **iç** | uyuşuyor |
 | [iki](temel/iki.md) | two | **iki** | **iki** | **iki** | uyuşuyor |
 | [işit-/duy-](temel/isit.md) | hear | **eşit** | **eşit** | **eşit** | uyuşuyor |
+| [kadın](temel/kadin.md) | woman | **tişiriw** | **tişi** | **karı** | ayrişiyor |
 | [kal-](temel/kal.md) | remain | **kal** | **kal** | **kal** | uyuşuyor |
 | [kim](temel/kim.md) | who | **kim** | **kim** | **kim** | uyuşuyor |
+| [kişi](temel/kisi.md) | person | **kişi** | **kişi** | **kişi** | uyuşuyor |
 | [koş-](temel/kos.md) | run | **yügür** | **çap** | **yügür** | ayrişiyor |
 | [nasıl](temel/nasil.md) | how | **neçuk** | **neçük** | **necä** | uyuşuyor |
 | [ne](temel/ne.md) | what | **ne** | **ne** | **ne** | uyuşuyor |

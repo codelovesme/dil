@@ -1,0 +1,53 @@
+kavram: er (erkek)
+ingilizce: man (male)
+anlam: Erkek, er kişi.
+dogrulandi: false
+kokler:
+- kok: er
+  koken: türkçe
+  ana_turkce: '*ẹr'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/er.yaml).
+  tarihi:
+    qwm: er
+    otk: er
+  bicimler:
+    bak: ir
+    chv:
+      bicim: arşın
+      miras: true
+    crh: erkek
+    dlg: er kihi
+    krc: erkişi
+    kdr: erkek
+    kaa: erkek
+    kaz: erkek
+    kjh: ir kizi
+    klj:
+      bicim: här
+      miras: true
+    kir: erkek
+    kum: erkek
+    clw: är
+    nog: erkek
+    atv: er
+    slr: är kiş
+    cjs: er kiji
+    alt: erkiji
+    tat: ir
+    kim: er
+    tur: erkek
+    tuk: erkek
+    tyv: er kiji
+    uig: ärkäk
+    uzb: erkak
+    sah: er kihi
+    sty-baraba: er
+- kok: kişi
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kişi.yaml).
+  bicimler:
+    aze: kişi
+yok: []
+tarihi_yok: []

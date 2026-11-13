@@ -39,7 +39,7 @@ aşamasında ele alınacak.
 
 ## 6. İnsan ve aile
 
-- [ ] kişi · [ ] er (erkek) · [ ] kadın/kız · [ ] ata · [ ] ana · [ ] oğul · [ ] kız · [ ] kardeş · [ ] çocuk · [ ] ad
+- [x] [kişi](temel/kisi.yaml) · [x] [er (erkek)](temel/er.yaml) · [x] [kadın/kız](temel/kadin.yaml) · [x] [ata](temel/ata.yaml) · [x] [ana](temel/ana.yaml) · [ ] oğul · [ ] kız · [ ] kardeş · [x] [çocuk](temel/cocuk.yaml) · [x] [ad](temel/ad.yaml)
 
 ## 7. Beden
 

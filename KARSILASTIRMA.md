@@ -4,11 +4,14 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 49 kavram, 7 tanesi ayrışıyor.
+Toplam 56 kavram, 8 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
+| ad | at *(at)* | at *(at)* | at *(at)* | UYUŞUYOR |
 | al- | al *(al)* | al *(al)* | al *(al)* | UYUŞUYOR |
+| ana | ana *(ana)* | ana *(ana)* | ana *(ana)* | UYUŞUYOR |
+| ata | ata *(ata)* | ata *(ata)* | ata *(ata)* | UYUŞUYOR |
 | ay | ay *(ay)* | ay *(ay)* | ay *(ay)* | UYUŞUYOR |
 | bak- | kara *(kara)* | bak *(bak)* | bak *(bak)* | AYRIŞIYOR |
 | ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
@@ -18,11 +21,13 @@ Toplam 49 kavram, 7 tanesi ayrışıyor.
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
+| çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | de-/ayt- | ayt *(ayt)* | te *(te)* | de *(te)* | AYRIŞIYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
 | dün | tünegün *(tünegün)* | tünekün *(tünegün)* | tünegün *(tünegün)* | UYUŞUYOR |
 | düş- | yığıl *(yıkıl)* | tüş *(tüş)* | düş *(tüş)* | AYRIŞIYOR |
+| er (erkek) | er *(er)* | er *(er)* | erkek *(er)* | UYUŞUYOR |
 | et-/kıl- | et *(et)* | et *(et)* | et *(et)* | UYUŞUYOR |
 | gece | tün *(tün)* | gece *(keçe)* | gece *(keçe)* | AYRIŞIYOR |
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
@@ -32,8 +37,10 @@ Toplam 49 kavram, 7 tanesi ayrışıyor.
 | iç- | iç *(iç)* | iç *(iç)* | iç *(iç)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | işit-/duy- | eşit *(eşit)* | eşit *(eşit)* | eşit *(eşit)* | UYUŞUYOR |
+| kadın | tişiriw *(tişi)* | tişi *(tişi)* | karı *(karı)* | AYRIŞIYOR |
 | kal- | kal *(kal)* | kal *(kal)* | kal *(kal)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
+| kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
 | koş- | yügür *(yügür)* | çap *(çap)* | yügür *(yügür)* | AYRIŞIYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
 | ne | ne *(ne)* | ne *(ne)* | ne *(ne)* | UYUŞUYOR |
