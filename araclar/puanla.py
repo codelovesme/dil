@@ -265,7 +265,7 @@ def hedefleri_yukle(taniklar, agac, ag) -> dict[str, Hedef]:
     araclar/sozluk.py işler."""
     with open(HEDEF_DOSYASI, encoding="utf-8") as f:
         return {h.kod: h for h in (Hedef(v, taniklar, agac, ag) for v in yaml.safe_load(f)
-                                   if v["yontem"] != "derleme")}
+                                   if v["yontem"] not in ("derleme", "ceviri"))}
 
 
 # ========================================================= ses yakınlığı

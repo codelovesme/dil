@@ -6,6 +6,10 @@
 > yayınlar. Arama tarayıcıda, `site.json`'dan. Aşağıdaki Euglena planı (worker, API,
 > Mongo, Azurite) etkileşimli hesap ya da Mike bağlantısı istendiğinde aynı çıktıların
 > üstüne kurulacak; Aşama 0 tamamlandı.
+>
+> **2026-11-13:** Hedef 5 (çeviri) eklendi; Euglena uygulamalarına geçişin sebebi
+> artık çeviri hizmeti. Plan: [CEVIRI.md](CEVIRI.md). Python araçları derleyici
+> olarak kalır.
 
 Projeyi (ortak Türk dili, dört hedef, kaynak sözlüğü, tanıklı sözlük) herkese açık
 bir web sitesi olarak yayınlama planı. Henüz kod yok; aşamalar en altta.
