@@ -78,6 +78,7 @@ aşamasında ele alınacak.
 - [x] [çek-](temel/cek.yaml) · [x] [it-](temel/it-fiil.yaml) · [x] [çiğne-](temel/cigne.yaml) · [x] [em-](temel/em.yaml) · [x] [yut-](temel/yut.yaml) · [x] [yala-](temel/yala.yaml)
 - [x] [dik-](temel/dik.yaml) · [x] [doku-](temel/doku.yaml) · [x] [oyna-](temel/oyna.yaml) · [x] [sakla-](temel/sakla.yaml) · [x] [kaşı-](temel/kasi.yaml) · [x] [şiş-](temel/sis.yaml)
 - [x] [düşün-](temel/dusun.yaml) · [x] [bul-](temel/bul.yaml) · [x] [ak- (sıvı)](temel/ak-fiil.yaml) · [x] [don-](temel/don.yaml) · [x] [büyü-](temel/buyu.yaml)
+- [x] [kır-](temel/kir-fiil.yaml) · [x] [ört-](temel/ort.yaml) · [x] [öksür-](temel/oksur.yaml) · [x] [çürü-](temel/curu.yaml) · [x] [sıçra-](temel/sicra.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

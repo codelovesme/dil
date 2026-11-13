@@ -1,0 +1,74 @@
+kavram: sıçra-
+ingilizce: jump
+anlam: Sıçramak, atlamak.
+dogrulandi: false
+kokler:
+- kok: sekir
+  koken: türkçe
+  ana_turkce: '*sekir-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sekir.yaml).
+  tarihi:
+    qwm: sekir
+    otk: sekri
+  bicimler:
+    bak: hiker
+    chv:
+      bicim: sik
+      miras: true
+    krc: sekir
+    kdr: sekir
+    kaa: sekir
+    kaz: sekĭr
+    kjh: segĕr
+    kir: sekir
+    atv: sekir
+    slr: seker
+    alt: sekir
+    tat: siker
+    uig: säkrä
+    uzb: sakra
+    sty-baraba: säkir
+- kok: atla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/atla.yaml).
+  bicimler:
+    aze: atıl
+    crh: atla
+    gag: atla
+    kum: atıl
+    tur: atla
+- kok: bök
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bök.yaml).
+  bicimler:
+    tuk: bök
+- kok: karğı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/karğı.yaml).
+  bicimler:
+    nog: karğı
+- kok: xalı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xalı.yaml).
+  bicimler:
+    tyv: xalı
+- kok: şura
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şura.yaml).
+  bicimler:
+    kim: şura
+- kok: oy-sıçra
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oy-sıçra.yaml).
+  bicimler:
+    dlg: oy
+    sah: oy
+yok: []
+tarihi_yok: []

@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sas
+anlam: '"kokmak, çürümek"'
+koken: türkçe
+kavramlar:
+- curu
+etimoloji: sası- 'kokmak'; Özbekçe ve Orta Çulımca 'çürümek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: savelyev2015, bicim: saas, dil: clw, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: sas, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine çiri (çürü)
+  aze: yerine çürü (çürü)
+  bak: yerine seri (çürü)
+  chv: yerine şĕr (çürü)
+  crh: yerine çürü (çürü)
+  gag: yerine çürü (çürü)
+  kaa: yerine şir (çürü)
+  krc: yerine çir (çürü)
+  kdr: yerine çiri (çürü)
+  kaz: yerine şir (çürü)
+  klj: yerine çirrü (çürü)
+  kir: yerine çir (çürü)
+  kum: yerine çiri (çürü)
+  nog: yerine şiri (çürü)
+  slr: yerine çür (çürü)
+  tat: yerine çer (çürü)
+  tur: yerine çürü (çürü)
+  tuk: yerine çüyre (çürü)
+  uig: yerine çiri (çürü)
+  atv: yerine iri (iri)
+  kjh: yerine ĕr (iri)
+  cjs: yerine irikte (iri)
+  tyv: yerine iri (iri)
+  dlg: yerine hıtıy (sıtıy)
+  kim: yerine çıdı (sıtıy)
+  sah: yerine sıtıy (sıtıy)
+tarihi_yok: {}

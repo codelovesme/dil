@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ört
+anlam: '"örtmek"'
+koken: türkçe
+ana_turkce: '*ört-'
+kavramlar:
+- ort
+etimoloji: ört- 'örtmek'; Oğuz dillerinde.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ört, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: ört, dil: gag, kaynak: savelyev-turkic}
+  - {bicim: ört, dil: tur, kaynak: bilgi}
+
+yok:
+  sty-baraba: yerine yap (yap)
+  atv: yerine yap (yap)
+  alt: yerine dap (yap)
+  bak: yerine yap (yap)
+  dlg: yerine hap (yap)
+  kaa: yerine jap (yap)
+  krc: yerine cap (yap)
+  kdr: yerine yap (yap)
+  kaz: yerine jap (yap)
+  kjh: yerine çap (yap)
+  kir: yerine jap (yap)
+  kum: yerine yap (yap)
+  clw: yerine çap (yap)
+  nog: yerine yap (yap)
+  cjs: yerine çap (yap)
+  tat: yerine yap (yap)
+  kim: yerine çıp (yap)
+  tuk: yerine yap (yap)
+  tyv: yerine şıp (yap)
+  uzb: yerine yop (yap)
+  sah: yerine sap (yap)
+  crh: yerine kapat (kap)
+  uig: yerine kapla (kap)
+  chv: yerine vit (vit)
+tarihi_yok: {}

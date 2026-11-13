@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 208 kavram, 31 tanesi ayrışıyor.
+Toplam 213 kavram, 32 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@ Toplam 208 kavram, 31 tanesi ayrışıyor.
 | çiğne- | çayna *(çayna)* | çayna *(çayna)* | çiyne *(çayna)* | UYUŞUYOR |
 | çocuk | bala *(bala)* | bala *(bala)* | çocuk *(çocuk)* | AYRIŞIYOR |
 | çok | köp *(köp)* | köp *(köp)* | çok *(çok)* | AYRIŞIYOR |
+| çürü- | çiri *(çürü)* | çürü *(çürü)* | çürü *(çürü)* | UYUŞUYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | dal | butak *(butık)* | butık *(butık)* | butak *(butık)* | UYUŞUYOR |
 | dar | tar *(tar)* | tar *(tar)* | tar *(tar)* | UYUŞUYOR |
@@ -127,6 +128,7 @@ Toplam 208 kavram, 31 tanesi ayrışıyor.
 | kes- | kes *(kes)* | kes *(kes)* | kes *(kes)* | UYUŞUYOR |
 | keskin | yiti *(yitig)* | yiti *(yitig)* | iti *(yitig)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
+| kır- | sındır *(sındır)* | sındur *(sındır)* | sındır *(sındır)* | UYUŞUYOR |
 | kısa | kıska *(kısga)* | kısga *(kısga)* | kısa *(kısga)* | UYUŞUYOR |
 | kişi | kişi *(kişi)* | kişi *(kişi)* | kişi *(kişi)* | UYUŞUYOR |
 | kızıl | kızıl *(kızıl)* | kızıl *(kızıl)* | kızıl *(kızıl)* | UYUŞUYOR |
@@ -149,12 +151,14 @@ Toplam 208 kavram, 31 tanesi ayrışıyor.
 | nere | kayda *(kayda)* | kayuda *(kayda)* | kayda *(kayda)* | UYUŞUYOR |
 | o | ol *(ol)* | ol *(ol)* | o *(ol)* | UYUŞUYOR |
 | odun | ağaç *(ığaç)* | ığaç *(ığaç)* | ağaç *(ığaç)* | UYUŞUYOR |
+| öksür- | yötäl *(yötel)* | öskür *(öksür)* | öksür *(öksür)* | AYRIŞIYOR |
 | öl- | öl *(öl)* | öl *(öl)* | öl *(öl)* | UYUŞUYOR |
 | öldür- | ölür *(ölür)* | ölür *(ölür)* | öldür *(ölür)* | UYUŞUYOR |
 | omuz | egin *(egin)* | egin *(egin)* | omuz *(omuz)* | AYRIŞIYOR |
 | onlar | olar *(olar)* | olar *(olar)* | olar *(olar)* | UYUŞUYOR |
 | orada | anta *(anda)* | anta *(anda)* | anda *(anda)* | UYUŞUYOR |
 | orman | orman *(orman)* | orman *(orman)* | orman *(orman)* | UYUŞUYOR |
+| ört- | yap *(yap)* | yap *(yap)* | yap *(yap)* | UYUŞUYOR |
 | ot | ot *(ot-bitki)* | ot *(ot-bitki)* | ot *(ot-bitki)* | UYUŞUYOR |
 | otur- | olur *(olur)* | olur *(olur)* | otur *(olur)* | UYUŞUYOR |
 | oyna- | oyna *(oyna)* | oyna *(oyna)* | oyna *(oyna)* | UYUŞUYOR |
@@ -165,6 +169,7 @@ Toplam 208 kavram, 31 tanesi ayrışıyor.
 | say- | sana *(sana)* | sana *(sana)* | say *(say)* | AYRIŞIYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | sıcak | isig *(isig)* | isig *(isig)* | issik *(isig)* | UYUŞUYOR |
+| sıçra- | sekir *(sekir)* | sekri *(sekir)* | säkrä *(sekir)* | UYUŞUYOR |
 | sinek | çibin *(çıbın)* | çibin *(çıbın)* | sinek *(siñek)* | AYRIŞIYOR |
 | sırt | arka *(arka)* | arka *(arka)* | arka *(arka)* | UYUŞUYOR |
 | şiş- | şış *(şiş)* | sış *(şiş)* | şiş *(şiş)* | UYUŞUYOR |

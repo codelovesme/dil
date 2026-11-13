@@ -2,13 +2,13 @@
 kok: döv
 anlam: '"dövmek"'
 koken: türkçe
-kavramlar:
-- vur
+kavramlar: [vur, kir-fiil]
 etimoloji: döv- 'dövmek'; Gagavuzcada 'vurmak'.
 kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: döv, dil: gag, kaynak: savelyev-turkic}
+  - {anlam: kırmak, atif: 'baskakov1968, khamzajev1968', bicim: döw, dil: tuk, kaynak: savelyev-turkic}
 
 yok:
   aze: yerine vur (ur)

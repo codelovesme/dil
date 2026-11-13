@@ -1,0 +1,50 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sı
+anlam: '"kırmak"'
+koken: türkçe
+ana_turkce: '*sï-'
+kavramlar:
+- kir-fiil
+etimoloji: Eski Türkçe sı- 'kırmak' (sın- ve sındır- bundan). Eski Uygurca, Sarı Uygur ve
+  Halaççada; Tuva ve Tofa sık-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: sı
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: doerfer1980, bicim: sii, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: sı, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sık, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: sık, dil: tyv, kaynak: savelyev-turkic, not: sıy- de., yazi: сык-}
+
+yok:
+  sty-baraba: yerine sındır (sındır)
+  atv: yerine sındır (sındır)
+  alt: yerine sındır (sındır)
+  aze: yerine sındır (sındır)
+  bak: yerine hındır (sındır)
+  crh: yerine sındır (sındır)
+  kaa: yerine sındır (sındır)
+  krc: yerine sındır (sındır)
+  kdr: yerine sındır (sındır)
+  kaz: yerine sındır (sındır)
+  kjh: yerine sındır (sındır)
+  kir: yerine sındır (sındır)
+  kum: yerine sındır (sındır)
+  clw: yerine sındır (sındır)
+  nog: yerine sındır (sındır)
+  slr: yerine sundur (sındır)
+  cjs: yerine sındır (sındır)
+  tat: yerine sındır (sındır)
+  uig: yerine sundur (sındır)
+  uzb: yerine sindir (sındır)
+  gag: yerine kır (kır-fiil)
+  tur: yerine kır (kır-fiil)
+  tuk: yerine döw (döv)
+  sah: yerine tohut (tohut)
+  chv: yerine şĕmĕr (şĕmĕr)
+tarihi_yok: {}

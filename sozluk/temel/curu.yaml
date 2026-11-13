@@ -1,0 +1,62 @@
+kavram: çürü-
+ingilizce: rot
+anlam: Çürümek.
+dogrulandi: false
+kokler:
+- kok: çürü
+  koken: türkçe
+  ana_turkce: '*čïrï-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çürü.yaml).
+  bicimler:
+    aze: çürü
+    bak: seri
+    chv:
+      bicim: şĕr
+      miras: true
+    crh: çürü
+    gag: çürü
+    krc: çir
+    kdr: çiri
+    kaa: şir
+    kaz: şir
+    klj:
+      bicim: çirrü
+      miras: true
+    kir: çir
+    kum: çiri
+    nog: şiri
+    slr: çür
+    alt: çiri
+    tat: çer
+    tur: çürü
+    tuk: çüyre
+    uig: çiri
+- kok: iri
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iri.yaml).
+  tarihi:
+    otk: yirü
+  bicimler:
+    kjh: ĕr
+    atv: iri
+    cjs: irikte
+    tyv: iri
+- kok: sas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sas.yaml).
+  bicimler:
+    clw: saas
+    uzb: sas
+- kok: sıtıy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sıtıy.yaml).
+  bicimler:
+    dlg: hıtıy
+    kim: çıdı
+    sah: sıtıy
+yok: []
+tarihi_yok: []

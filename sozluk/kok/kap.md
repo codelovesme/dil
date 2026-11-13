@@ -4,13 +4,13 @@
 
 - **Anlam:** "kapmak, ısırmak"
 - **Köken:** türkçe
-- **Kavramlar:** [isir](../temel/isir.yaml)
+- **Kavramlar:** [isir](../temel/isir.yaml), [ort](../temel/ort.yaml)
 - **Etimoloji:** kap- 'kapmak'; Karaçay-Malkar, Kumuk ve Orta Çulımda 'ısırmak'.
 - **En eski tanık:** günümüz
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 6 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -30,8 +30,11 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **kapla** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle; günlük dilde ört- de. |
+| Kıpçak kolu | Kırım Tatarcası |  | **kapat** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kumukça |  | **xap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **kap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Karluk kolu | Uygurca |  | **kapla** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Çulımca |  | **kap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Dolganca | | — | | | | kök yok: yerine ıtır (ısır) |
 | | Hakasça | | — | | | | kök yok: yerine ızır (ısır) |
@@ -61,4 +64,4 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 6 tanık

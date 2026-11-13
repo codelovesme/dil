@@ -1,0 +1,61 @@
+kavram: ört-
+ingilizce: cover
+anlam: Örtmek, kapamak.
+dogrulandi: false
+kokler:
+- kok: yap
+  koken: türkçe
+  ana_turkce: '*yap-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yap.yaml).
+  tarihi:
+    qwm: yap
+    otk: yap
+    eski-anadolu: yapın
+  bicimler:
+    bak: yap
+    dlg: hap
+    krc: cap
+    kdr: yap
+    kaa: jap
+    kaz: jap
+    kjh: çap
+    kir: jap
+    kum: yap
+    clw: çap
+    nog: yap
+    atv: yap
+    cjs: çap
+    alt: dap
+    tat: yap
+    kim: çıp
+    tuk: yap
+    tyv: şıp
+    uzb: yop
+    sah: sap
+    sty-baraba: yap
+- kok: ört
+  koken: türkçe
+  ana_turkce: '*ört-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ört.yaml).
+  bicimler:
+    aze: ört
+    gag: ört
+    tur: ört
+- kok: kap
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kap.yaml).
+  bicimler:
+    crh: kapat
+    tur: kapla
+    uig: kapla
+- kok: vit
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/vit.yaml).
+  bicimler:
+    chv: vit
+yok: []
+tarihi_yok: []

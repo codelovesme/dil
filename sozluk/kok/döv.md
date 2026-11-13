@@ -4,13 +4,13 @@
 
 - **Anlam:** "dövmek"
 - **Köken:** türkçe
-- **Kavramlar:** [vur](../temel/vur.yaml)
+- **Kavramlar:** [vur](../temel/vur.yaml), [kir-fiil](../temel/kir-fiil.yaml)
 - **Etimoloji:** döv- 'dövmek'; Gagavuzcada 'vurmak'.
 - **En eski tanık:** günümüz
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,6 +31,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Oğuz kolu | Gagavuzca |  | **döv** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Türkmence |  | **döw** |  | kırmak | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine vur (ur) |
 | | Kırım Tatarcası | | — | | | | kök yok: yerine ur (ur) |
 | | Karakalpakça | | — | | | | kök yok: yerine ur (ur) |
@@ -63,4 +64,4 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
