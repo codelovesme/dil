@@ -1,0 +1,69 @@
+kavram: ip
+ingilizce: rope
+anlam: İp, urgan.
+dogrulandi: false
+kokler:
+- kok: yip
+  koken: türkçe
+  ana_turkce: '*yip'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yip.yaml).
+  bicimler:
+    aze: ip
+    kdr: yip
+    kir: jip
+    tur: ip
+    tuk: yüp
+    sty-baraba: yip
+- kok: bağ
+  koken: türkçe
+  ana_turkce: '*bāg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bağ.yaml).
+  bicimler:
+    bak: bav
+    chv: păyav
+    dlg: bıa
+    kaa: baw
+    kaz: baw
+    kjh: pağ
+    clw: pağ
+    nog: baw
+    atv: pağ
+    ybe: pağ
+    cjs: pağ
+    alt: buu
+    tat: bav
+    kim: bağ
+    sah: bıa
+- kok: arkan
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/arkan.yaml).
+  bicimler:
+    crh: arkan
+    kum: arkan
+    slr: uruxan
+    uzb: arkon
+- kok: uruk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uruk.yaml).
+  tarihi:
+    otk: uruk
+  bicimler: {}
+- kok: örken
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/örken.yaml).
+  tarihi:
+    qwm: örken
+  bicimler: {}
+- kok: xendir
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xendir.yaml).
+  bicimler:
+    tyv: xendir
+yok: []
+tarihi_yok: []

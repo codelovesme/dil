@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yip
+anlam: '"ip"'
+koken: türkçe
+ana_turkce: '*yip'
+kavramlar:
+- ip
+etimoloji: Ana Türkçe *yip. Oğuz'da ip, Türkmence yüp, Kırgızca jip.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ip, dil: aze, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: yip, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: jip, dil: kir, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {atif: 'baskakov1977, iz1992', bicim: ip, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yüp, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: yip, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine pağ (bağ)
+  alt: yerine buu (bağ)
+  bak: yerine bav (bağ)
+  chv: yerine păyav (bağ)
+  dlg: yerine bıa (bağ)
+  kaa: yerine baw (bağ)
+  kaz: yerine baw (bağ)
+  kjh: yerine pağ (bağ)
+  clw: yerine pağ (bağ)
+  nog: yerine baw (bağ)
+  ybe: yerine pağ (bağ)
+  cjs: yerine pağ (bağ)
+  tat: yerine bav (bağ)
+  kim: yerine bağ (bağ)
+  sah: yerine bıa (bağ)
+  crh: yerine arkan (arkan)
+  kum: yerine arkan (arkan)
+  uzb: yerine arkon (arkan)
+  slr: yerine uruxan (arkan)
+  tyv: yerine xendir (xendir)
+tarihi_yok: {}

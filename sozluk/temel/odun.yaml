@@ -1,0 +1,62 @@
+kavram: odun
+ingilizce: wood (firewood)
+anlam: Odun, yakacak ağaç.
+dogrulandi: false
+kokler:
+- kok: odun
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/odun.yaml).
+  bicimler:
+    tur: odun
+- kok: ığaç
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ığaç.yaml).
+  tarihi:
+    qwm: ağaç
+    otk: ığaç
+  bicimler:
+    aze: ağac
+    bak: ağas
+    chv: yıvăş
+    crh: ağaç
+    gag: aaç
+    krc: ağaç
+    kdr: ağaç
+    kaa: ağaş
+    kaz: ağaş
+    kjh: ağas
+    klj:
+      bicim: hağaç
+      miras: true
+    kir: jığaç
+    kum: ağaç
+    clw: aaç
+    nog: ağaş
+    atv: ağaş
+    slr: ağaç
+    ybe: yığaş
+    cjs: ağaş
+    alt: ağaş
+    tat: ağaç
+    tuk: ağaç
+    tyv: ıyaş
+    uig: yağaç
+    uzb: yoğoç
+    sty-baraba: ağaç
+- kok: mas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mas.yaml).
+  bicimler:
+    dlg: mas
+    sah: mas
+- kok: neş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/neş.yaml).
+  bicimler:
+    kim: neş
+yok: []
+tarihi_yok: []

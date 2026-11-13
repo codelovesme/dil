@@ -3,35 +3,15 @@ kok: tağ
 anlam: '"dağ"'
 koken: türkçe
 ana_turkce: '*tāg'
-kavramlar:
-- dag
+kavramlar: [dag, orman]
 etimoloji: 'Ana Türkçe *tāg (uzun a: Halaççada iz). Oğuz''da dağ, Kıpçak''ta taw, Kırgızca
   too, Güney Sibirya''da tağ; Çuvaşça tu.'
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - dil: qwm
-    yer: Kırım ve Deşt-i Kıpçak
-    yuzyil: 14
-    metin: Codex Cumanicus
-    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
-    yabanci: true
-    bicim: tağ
-    kaynak: savelyev-turkic
-    atif: noauthor1880
-    not: Latin harfli yazımlar tag, tav.
-  - dil: otk
-    yuzyil: 8-14
-    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
-    bicim: tağ
-    kaynak: savelyev-turkic
-    atif: clauson1972
-  - dil: tur
-    yuzyil: 16-19
-    bicim: dağ
-    metin: Osmanlı Türkçesi
-    kaynak: wiktionary-ana-turkce
-    yazi: داغ
+  - {atif: noauthor1880, bicim: tağ, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, not: 'Latin harfli yazımlar tag, tav.', yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {atif: clauson1972, bicim: tağ, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
+  - {bicim: dağ, dil: tur, kaynak: wiktionary-ana-turkce, metin: Osmanlı Türkçesi, yazi: داغ, yuzyil: 16-19}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: dağ, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: taw, dil: bak, kaynak: savelyev-turkic, yazi: тау}
   - {atif: 'asmarin1928, savelyev2011', bicim: tu, dil: chv, kaynak: savelyev-turkic, yazi: ту}
@@ -58,6 +38,7 @@ taniklar:
   - {atif: nadzip1968, bicim: tağ, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: toğ, dil: uzb, kaynak: savelyev-turkic}
   - {atif: dmitrijeva1981, bicim: taw, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: 'baskakov1973, radova-karanastas2016', bicim: daa, dil: gag, kaynak: savelyev-turkic}
 
 yok:
   dlg: yerine kaya (kaya)

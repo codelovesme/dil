@@ -5,13 +5,13 @@
 - **Anlam:** "dağ"
 - **Ana Türkçe:** *tāg
 - **Köken:** türkçe
-- **Kavramlar:** [dag](../temel/dag.yaml)
+- **Kavramlar:** [dag](../temel/dag.yaml), [orman](../temel/orman.yaml)
 - **Etimoloji:** Ana Türkçe *tāg (uzun a: Halaççada iz). Oğuz'da dağ, Kıpçak'ta taw, Kırgızca too, Güney Sibirya'da tağ; Çuvaşça tu.
 - **En eski tanık:** 8. yy
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 29 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 30 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -48,6 +48,7 @@ Notlar:
 | Oğur kolu | Çuvaşça |  | **tu** | ту |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Halaç kolu | Halaçça |  | **taağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **dağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Oğuz kolu | Gagavuzca |  | **daa** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **dağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkmence |  | **dağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Salarca |  | **tağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -78,5 +79,5 @@ Notlar:
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 28 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 29 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık

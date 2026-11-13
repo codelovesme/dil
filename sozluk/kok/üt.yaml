@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: üt
+anlam: '"delik"'
+koken: türkçe
+ana_turkce: '*üt'
+kavramlar:
+- delik
+etimoloji: Ana Türkçe *üt 'delik'; Eski Türkçe üt. Dolganca üüt, Güney Altayca üyt, Çulımca
+  üdük.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: üt
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'aksenova1992, stachowski1993', bicim: üüt, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: üdük, dil: clw, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: üyt, dil: alt, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine teşik (teşik)
+  atv: yerine tejik (teşik)
+  aze: yerine deşik (teşik)
+  bak: yerine tişek (teşik)
+  crh: yerine teşik (teşik)
+  kaa: yerine tesik (teşik)
+  krc: yerine teşik (teşik)
+  kdr: yerine teşik (teşik)
+  kaz: yerine tesik (teşik)
+  kjh: yerine tizek (teşik)
+  kir: yerine teşik (teşik)
+  kum: yerine teşik (teşik)
+  nog: yerine tesik (teşik)
+  cjs: yerine tejik (teşik)
+  tat: yerine tişek (teşik)
+  tuk: yerine deşik (teşik)
+  tyv: yerine dejik (teşik)
+  uig: yerine töşük (teşik)
+  uzb: yerine teşik (teşik)
+  gag: yerine delik (delik)
+  ybe: yerine telık (delik)
+  tur: yerine delik (delik)
+  klj: yerine teplük (teplük)
+  sah: yerine xayağas (xayağas)
+  chv: yerine şătăk (şătăk)
+tarihi_yok: {}

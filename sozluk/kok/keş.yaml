@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: keş
+anlam: '"deri, post"'
+koken: türkçe
+ana_turkce: '*kä̂ĺ'
+kavramlar:
+- deri
+etimoloji: keş 'işlenmiş deri, post'; Sayan dillerinde 'deri'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'rassadin1971, rassadin2005', bicim: keş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: keş, dil: tyv, kaynak: savelyev-turkic, yazi: кеш}
+
+yok:
+  sty-baraba: yerine täri (teri)
+  atv: yerine tere (teri)
+  alt: yerine tere (teri)
+  aze: yerine däri (teri)
+  bak: yerine tire (teri)
+  chv: yerine tire (teri)
+  crh: yerine teri (teri)
+  dlg: yerine tirii (teri)
+  gag: yerine deri (teri)
+  kaa: yerine teri (teri)
+  krc: yerine teri (teri)
+  kdr: yerine teri (teri)
+  kaz: yerine terĭ (teri)
+  kjh: yerine teer (teri)
+  klj: yerine täri (teri)
+  kir: yerine teri (teri)
+  kum: yerine teri (teri)
+  nog: yerine teri (teri)
+  slr: yerine tir (teri)
+  ybe: yerine teri (teri)
+  cjs: yerine tere (teri)
+  tat: yerine tire (teri)
+  tur: yerine deri (teri)
+  tuk: yerine deri (teri)
+  uig: yerine terä (teri)
+  uzb: yerine teri (teri)
+  sah: yerine tirii (teri)
+tarihi_yok: {}

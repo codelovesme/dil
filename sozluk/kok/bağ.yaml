@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: bağ
+anlam: '"bağ, ip"'
+koken: türkçe
+ana_turkce: '*bāg'
+kavramlar:
+- ip
+etimoloji: Ana Türkçe *bāg 'bağ' (bā- 'bağlamak'); Kıpçak-Bulgar, Kıpçak ve Sibirya dillerinde
+  'ip' (baw, pağ, bıa); Çuvaşça păyav.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'uraksin1996, uraksin2005', bicim: bav, dil: bak, kaynak: savelyev-turkic, yazi: бау}
+  - {atif: 'asmarin1928, savelyev2011', bicim: păyav, dil: chv, kaynak: savelyev-turkic, yazi: пӑяв}
+  - {atif: 'aksenova1992, stachowski1993', bicim: bıa, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: baw, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: baw, dil: kaz, kaynak: savelyev-turkic, yazi: бау}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: pağ, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: pağ, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: baw, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: pağ, dil: atv, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: pağ, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: pağ, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: buu, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: bav, dil: tat, kaynak: savelyev-turkic, yazi: бау}
+  - {atif: 'rassadin1971, rassadin2005', bicim: bağ, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bıa, dil: sah, kaynak: savelyev-turkic, yazi: быа}
+
+yok:
+  sty-baraba: yerine yip (yip)
+  aze: yerine ip (yip)
+  kdr: yerine yip (yip)
+  kir: yerine jip (yip)
+  tur: yerine ip (yip)
+  tuk: yerine yüp (yip)
+  crh: yerine arkan (arkan)
+  kum: yerine arkan (arkan)
+  uzb: yerine arkon (arkan)
+  slr: yerine uruxan (arkan)
+  tyv: yerine xendir (xendir)
+tarihi_yok: {}

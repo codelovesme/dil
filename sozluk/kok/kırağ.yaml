@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kırağ
+anlam: '"kenar"'
+koken: türkçe
+kavramlar:
+- kenar
+etimoloji: Azerbaycan Türkçesi kırağ; kıdığ ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kırağ, dil: aze, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine kırı (kıdığ)
+  dlg: yerine kırıı (kıdığ)
+  kdr: yerine kırıy (kıdığ)
+  kjh: yerine xırı (kıdığ)
+  kum: yerine kırıy (kıdığ)
+  slr: yerine kırğı (kıdığ)
+  cjs: yerine kırıy (kıdığ)
+  chv: yerine xĕrĕ (kıdığ)
+  clw: yerine kır (kıdığ)
+  atv: yerine kıy (kıdığ)
+  krc: yerine kıyır (kıdığ)
+  ybe: yerine kızığ (kıdığ)
+  kim: yerine kıdığ (kıdığ)
+  tyv: yerine kıdığ (kıdığ)
+  sah: yerine kıtıı (kıdığ)
+  tur: yerine kenar (kenar, alıntı:fa)
+  sty-baraba: yerine çit (çet)
+  bak: yerine sit (çet)
+  crh: yerine çet (çet)
+  kaa: yerine şet (çet)
+  kaz: yerine şet (çet)
+  kir: yerine çet (çet)
+  nog: yerine şet (çet)
+  tat: yerine çit (çet)
+  tuk: yerine çet (çet)
+  uig: yerine çät (çet)
+  uzb: yerine çet (çet)
+tarihi_yok: {}

@@ -1,0 +1,47 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: orman
+anlam: '"orman"'
+koken: türkçe
+kavramlar:
+- orman
+etimoloji: orman 'orman'; Oğuz, Kıpçak ve Karluk dillerinde; Çuvaşça vărman. Kökeni tartışmalı,
+  bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: orman
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - {atif: 'uraksin1996, uraksin2005', bicim: urman, dil: bak, kaynak: savelyev-turkic, yazi: урман}
+  - {atif: 'asmarin1928, savelyev2011', bicim: vărman, dil: chv, kaynak: savelyev-turkic, yazi: вӑрман}
+  - {atif: useinov2007, bicim: orman, dil: crh, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: orman, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: orman, dil: kaz, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: orman, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: orman, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: urman, dil: tat, kaynak: savelyev-turkic, yazi: урман}
+  - {atif: 'baskakov1977, iz1992', bicim: orman, dil: tur, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: orman, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: örmon, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: orman, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine ağaş (ığaç)
+  alt: yerine ağaş (ığaç)
+  krc: yerine ağaç (ığaç)
+  kjh: yerine ağas (ığaç)
+  clw: yerine aaç (ığaç)
+  cjs: yerine ağaş (ığaç)
+  tyv: yerine ıyaş (ığaç)
+  slr: yerine arığ (arığ)
+  gag: yerine daa (tağ)
+  dlg: yerine mas (mas)
+  kim: yerine neş (neş)
+  sah: yerine tıa (tıa)
+tarihi_yok: {}

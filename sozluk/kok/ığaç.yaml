@@ -3,25 +3,14 @@ kok: ığaç
 anlam: '"ağaç"'
 koken: türkçe
 ana_turkce: '*ïgač'
-kavramlar:
-- agac
+kavramlar: [agac, odun, orman]
 etimoloji: Ana Türkçe *ïgač (Halaççada h- ön sesiyle hağaç). Oğuz ve Karluk'ta ağaç, Kıpçak'ta
   ağaş, ağas; Kırgızca jığaç, Tuvaca ıyaş, Çuvaşça yıvăş.
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - dil: otk
-    yuzyil: 8-14
-    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
-    bicim: ığaç
-    kaynak: savelyev-turkic
-    atif: clauson1972
-  - dil: tur
-    yuzyil: 16-19
-    bicim: ağaç
-    metin: Osmanlı Türkçesi
-    kaynak: wiktionary-ana-turkce
-    yazi: آغاج
+  - {atif: clauson1972, bicim: ığaç, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
+  - {bicim: ağaç, dil: tur, kaynak: wiktionary-ana-turkce, metin: Osmanlı Türkçesi, yazi: آغاج, yuzyil: 16-19}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ağac, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: ağas, dil: bak, kaynak: savelyev-turkic, yazi: ағас}
   - {atif: 'asmarin1928, savelyev2011', bicim: yıvăş, dil: chv, kaynak: savelyev-turkic, yazi: йывӑҫ}
@@ -42,6 +31,41 @@ taniklar:
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ıyaş, dil: tyv, kaynak: savelyev-turkic, yazi: ыяш}
   - {atif: nadzip1968, bicim: yağaç, dil: uig, kaynak: savelyev-turkic}
   - {atif: dmitrijeva1981, bicim: ağac, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: noauthor1880, bicim: ağaç, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {anlam: 'odun, ağaç (malzeme)', atif: clauson1972, bicim: ığaç, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ağac, dil: aze, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'uraksin1996, uraksin2005', bicim: ağas, dil: bak, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'asmarin1928, savelyev2011', bicim: yıvăş, dil: chv, kaynak: savelyev-turkic, yazi: йывӑҫ}
+  - {anlam: 'odun, ağaç (malzeme)', atif: useinov2007, bicim: ağaç, dil: crh, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'baskakov1973, radova-karanastas2016', bicim: aaç, dil: gag, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'tenisev1989, sujuncev1965', bicim: ağaç, dil: krc, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: baskakov1974, bicim: ağaç, dil: kdr, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'baskakov1958, baskakov1967', bicim: ağaş, dil: kaa, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: ağaş, dil: kaz, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ağas, dil: kjh, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: doerfer1980, bicim: hağaç, dil: klj, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'judakhin1985, judakhin1957', bicim: jığaç, dil: kir, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ağaç, dil: kum, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: savelyev2015, bicim: aaç, dil: clw, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ağaş, dil: nog, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: baskakov1985, bicim: ağaş, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: tenisev1976, bicim: ağaç, dil: slr, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'malov1957, tenisev1966', bicim: yığaş, dil: ybe, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: kurpesko-tannagaseva1993, bicim: ağaş, dil: cjs, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: baskakov1947, bicim: ağaş, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'dmitrijev1955, osmanov1966', bicim: ağaç, dil: tat, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'baskakov1968, khamzajev1968', bicim: ağaç, dil: tuk, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'harrison2002, mongus1988, tenisev1968', bicim: ıyaş, dil: tyv, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: nadzip1968, bicim: yağaç, dil: uig, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yoğoç, dil: uzb, kaynak: savelyev-turkic}
+  - {anlam: 'odun, ağaç (malzeme)', atif: dmitrijeva1981, bicim: ağaç, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: 'tenisev1989, sujuncev1965', bicim: ağaç, dil: krc, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ağas, dil: kjh, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: savelyev2015, bicim: aaç, dil: clw, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: baskakov1985, bicim: ağaş, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: kurpesko-tannagaseva1993, bicim: ağaş, dil: cjs, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: baskakov1947, bicim: ağaş, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: 'harrison2002, mongus1988, tenisev1968', bicim: ıyaş, dil: tyv, kaynak: savelyev-turkic}
 
 yok:
   crh: yerine terek (terek)

@@ -1,0 +1,70 @@
+kavram: orman
+ingilizce: forest
+anlam: Orman.
+dogrulandi: false
+kokler:
+- kok: orman
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/orman.yaml).
+  tarihi:
+    qwm: orman
+  bicimler:
+    bak: urman
+    chv: vărman
+    crh: orman
+    kdr: orman
+    kaz: orman
+    kum: orman
+    nog: orman
+    tat: urman
+    tur: orman
+    uig: orman
+    uzb: örmon
+    sty-baraba: orman
+- kok: ığaç
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ığaç.yaml).
+  bicimler:
+    krc: ağaç
+    kjh: ağas
+    clw: aaç
+    atv: ağaş
+    cjs: ağaş
+    alt: ağaş
+    tyv: ıyaş
+- kok: arığ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/arığ.yaml).
+  tarihi:
+    otk: arığ
+  bicimler:
+    slr: arığ
+- kok: tağ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tağ.yaml).
+  bicimler:
+    gag: daa
+- kok: mas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mas.yaml).
+  bicimler:
+    dlg: mas
+- kok: neş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/neş.yaml).
+  bicimler:
+    kim: neş
+- kok: tıa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tıa.yaml).
+  bicimler:
+    sah: tıa
+yok: []
+tarihi_yok: []

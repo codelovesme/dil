@@ -1,0 +1,72 @@
+kavram: delik
+ingilizce: hole
+anlam: Delik.
+dogrulandi: false
+kokler:
+- kok: teşik
+  koken: türkçe
+  ana_turkce: '*teĺik'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teşik.yaml).
+  bicimler:
+    aze: deşik
+    bak: tişek
+    crh: teşik
+    krc: teşik
+    kdr: teşik
+    kaa: tesik
+    kaz: tesik
+    kjh: tizek
+    kir: teşik
+    kum: teşik
+    nog: tesik
+    atv: tejik
+    cjs: tejik
+    tat: tişek
+    tuk: deşik
+    tyv: dejik
+    uig: töşük
+    uzb: teşik
+    sty-baraba: teşik
+- kok: delik
+  koken: türkçe
+  ana_turkce: '*tel-ik'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/delik.yaml).
+  bicimler:
+    gag: delik
+    ybe: telık
+    tur: delik
+- kok: üt
+  koken: türkçe
+  ana_turkce: '*üt'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/üt.yaml).
+  tarihi:
+    otk: üt
+  bicimler:
+    dlg: üüt
+    clw: üdük
+    alt: üyt
+- kok: teplük
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teplük.yaml).
+  bicimler:
+    klj:
+      bicim: teplük
+      miras: true
+- kok: xayağas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xayağas.yaml).
+  bicimler:
+    sah: xayağas
+- kok: şătăk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şătăk.yaml).
+  bicimler:
+    chv: şătăk
+yok: []
+tarihi_yok: []

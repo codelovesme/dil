@@ -1,0 +1,55 @@
+kavram: deri
+ingilizce: skin, hide
+anlam: Deri.
+dogrulandi: false
+kokler:
+- kok: teri
+  koken: türkçe
+  ana_turkce: '*tẹri'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teri.yaml).
+  tarihi:
+    otk: teri
+    eski-anadolu: däri
+  bicimler:
+    aze: däri
+    bak: tire
+    chv:
+      bicim: tire
+      miras: true
+    crh: teri
+    dlg: tirii
+    gag: deri
+    krc: teri
+    kdr: teri
+    kaa: teri
+    kaz: terĭ
+    kjh: teer
+    klj:
+      bicim: täri
+      miras: true
+    kir: teri
+    kum: teri
+    nog: teri
+    atv: tere
+    slr: tir
+    ybe: teri
+    cjs: tere
+    alt: tere
+    tat: tire
+    tur: deri
+    tuk: deri
+    uig: terä
+    uzb: teri
+    sah: tirii
+    sty-baraba: täri
+- kok: keş
+  koken: türkçe
+  ana_turkce: '*kä̂ĺ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/keş.yaml).
+  bicimler:
+    kim: keş
+    tyv: keş
+yok: []
+tarihi_yok: []

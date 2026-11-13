@@ -4,13 +4,13 @@
 
 - **Anlam:** Sahacada "ağaç"
 - **Köken:** türkçe
-- **Kavramlar:** [agac](../temel/agac.yaml)
+- **Kavramlar:** [agac](../temel/agac.yaml), [degnek](../temel/degnek.yaml), [odun](../temel/odun.yaml), [orman](../temel/orman.yaml)
 - **Etimoloji:** Sahaca ve Dolganca mas; kökeni bu çalışmada araştırılmadı.
 - **En eski tanık:** günümüz
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 6 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,7 +31,11 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Sibirya kolu | Sahaca (Yakutça) |  | **mas** | мас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | **mas** |  | odun | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Dolganca |  | **mas** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Dolganca |  | **mas** |  | değnek | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Dolganca |  | **mas** |  | odun | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Dolganca |  | **mas** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Baraba ağzı | | — | | | | kök yok: yerine ağac (ığaç) |
 | | Kuzey Altayca | | — | | | | kök yok: yerine ağaş (ığaç) |
 | | Güney Altayca | | — | | | | kök yok: yerine ağaş (ığaç) |
@@ -62,4 +66,4 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
-- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 6 tanık

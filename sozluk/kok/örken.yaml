@@ -1,0 +1,48 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: örken
+anlam: '"ip" (Kuman)'
+koken: türkçe
+kavramlar:
+- ip
+etimoloji: Kuman örken 'ip'; ör- 'örmek' fiilinden olabilir.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: örken
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+
+yok:
+  sty-baraba: yerine yip (yip)
+  aze: yerine ip (yip)
+  kdr: yerine yip (yip)
+  kir: yerine jip (yip)
+  tur: yerine ip (yip)
+  tuk: yerine yüp (yip)
+  atv: yerine pağ (bağ)
+  alt: yerine buu (bağ)
+  bak: yerine bav (bağ)
+  chv: yerine păyav (bağ)
+  dlg: yerine bıa (bağ)
+  kaa: yerine baw (bağ)
+  kaz: yerine baw (bağ)
+  kjh: yerine pağ (bağ)
+  clw: yerine pağ (bağ)
+  nog: yerine baw (bağ)
+  ybe: yerine pağ (bağ)
+  cjs: yerine pağ (bağ)
+  tat: yerine bav (bağ)
+  kim: yerine bağ (bağ)
+  sah: yerine bıa (bağ)
+  crh: yerine arkan (arkan)
+  kum: yerine arkan (arkan)
+  uzb: yerine arkon (arkan)
+  slr: yerine uruxan (arkan)
+  tyv: yerine xendir (xendir)
+tarihi_yok: {}

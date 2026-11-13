@@ -2,14 +2,17 @@
 kok: mas
 anlam: Sahacada "ağaç"
 koken: türkçe
-kavramlar:
-- agac
+kavramlar: [agac, degnek, odun, orman]
 etimoloji: Sahaca ve Dolganca mas; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: mas, dil: sah, kaynak: savelyev-turkic, yazi: мас}
+  - {anlam: değnek, atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic}
+  - {anlam: odun, atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic}
+  - {anlam: odun, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: mas, dil: sah, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic}
 
 yok:
   sty-baraba: yerine ağac (ığaç)

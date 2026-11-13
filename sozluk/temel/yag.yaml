@@ -1,0 +1,60 @@
+kavram: yağ
+ingilizce: fat, grease
+anlam: Yağ.
+dogrulandi: false
+kokler:
+- kok: yağ
+  koken: türkçe
+  ana_turkce: '*yāg'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yağ.yaml).
+  tarihi:
+    qwm: yav
+    otk: yağ
+  bicimler:
+    aze: yağ
+    chv:
+      bicim: şu
+      miras: true
+    crh: yağ
+    dlg: hıa
+    gag: yaa
+    krc: jaw
+    kdr: yav
+    kjh: çağ
+    klj:
+      bicim: yaağ
+      miras: true
+    clw: çağ
+    atv: yığ
+    slr: yağ
+    cjs: çağ
+    alt: juu
+    kim: çağ
+    tur: yağ
+    tuk: yağ
+    uzb: yoğ
+    sah: sıa
+- kok: may
+  koken: türkçe
+  ana_turkce: '*may'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/may.yaml).
+  bicimler:
+    bak: may
+    kaa: may
+    kaz: may
+    kir: may
+    kum: may
+    nog: may
+    tat: may
+    uig: may
+    sty-baraba: may
+- kok: üs
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/üs.yaml).
+  bicimler:
+    tyv: üs
+yok: []
+tarihi_yok: []

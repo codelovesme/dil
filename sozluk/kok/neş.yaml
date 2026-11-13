@@ -2,13 +2,14 @@
 kok: neş
 anlam: Tofacada "ağaç"
 koken: türkçe
-kavramlar:
-- agac
+kavramlar: [agac, odun, orman]
 etimoloji: Tofaca neş; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic}
+  - {anlam: odun, atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic}
+  - {anlam: orman, atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic}
 
 yok:
   sty-baraba: yerine ağac (ığaç)
