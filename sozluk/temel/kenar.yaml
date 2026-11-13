@@ -1,0 +1,63 @@
+kavram: kenar
+ingilizce: edge
+anlam: Kenar, kıyı.
+dogrulandi: false
+kokler:
+- kok: kıdığ
+  koken: türkçe
+  ana_turkce: '*kïdïg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kıdığ.yaml).
+  tarihi:
+    otk: kıdığ
+  bicimler:
+    chv: xĕrĕ
+    dlg: kırıı
+    krc: kıyır
+    kdr: kırıy
+    kjh: xırı
+    kum: kırıy
+    clw: kır
+    atv: kıy
+    slr: kırğı
+    ybe: kızığ
+    cjs: kırıy
+    alt: kırı
+    kim: kıdığ
+    tur:
+      bicim: kıyı
+      tercih: 0.5
+    tyv: kıdığ
+    sah: kıtıı
+- kok: çet
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çet.yaml).
+  tarihi:
+    qwm: çete
+  bicimler:
+    bak: sit
+    crh: çet
+    kaa: şet
+    kaz: şet
+    kir: çet
+    nog: şet
+    tat: çit
+    tuk: çet
+    uig: çät
+    uzb: çet
+    sty-baraba: çit
+- kok: kırağ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kırağ.yaml).
+  bicimler:
+    aze: kırağ
+- kok: kenar
+  koken: alıntı:fa
+  kaynak: savelyev-turkic
+  not: Farsça kanār'dan alıntı; seçilmez.
+  bicimler:
+    tur: kenar
+yok: []
+tarihi_yok: []

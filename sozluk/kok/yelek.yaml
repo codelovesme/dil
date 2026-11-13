@@ -1,0 +1,32 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yelek
+anlam: '"tüy" (Türkmence)'
+koken: türkçe
+kavramlar:
+- tuy
+etimoloji: Türkmence yelek; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yelek, dil: tuk, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine tük (tük)
+  aze: yerine tük (tük)
+  chv: yerine tĕk (tük)
+  dlg: yerine tüü (tük)
+  gag: yerine tüy (tük)
+  krc: yerine kanatlı tük (tük)
+  kdr: yerine tik (tük)
+  kum: yerine tük (tük)
+  clw: yerine tük (tük)
+  kim: yerine tük (tük)
+  tur: yerine tüy (tük)
+  sah: yerine tüü (tük)
+  kjh: yerine çüg (yüñ)
+  cjs: yerine çüg (yüñ)
+  tyv: yerine çüg (yüñ)
+  alt: yerine kanat (kanat)
+  crh: yerine kanat (kanat)
+  slr: yerine mimilux (mimilux)
+tarihi_yok: {}

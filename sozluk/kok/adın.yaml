@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: adın
+anlam: '"başka"'
+koken: türkçe
+ana_turkce: '*adïn'
+kavramlar:
+- baska
+etimoloji: Ana Türkçe *adïn 'başka'; Eski Türkçe adın, Sahaca ve Dolganca atın.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: adın
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'aksenova1992, stachowski1993', bicim: atın, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: atın, dil: sah, kaynak: savelyev-turkic, yazi: атын}
+
+yok:
+  sty-baraba: yerine paşka (başka)
+  aze: yerine başga (başka)
+  bak: yerine başka (başka)
+  crh: yerine başka (başka)
+  gag: yerine başka (başka)
+  kaa: yerine baska (başka)
+  krc: yerine başxa (başka)
+  kdr: yerine baska (başka)
+  kaz: yerine baska (başka)
+  kjh: yerine pasxa (başka)
+  kir: yerine başka (başka)
+  kum: yerine başğa (başka)
+  clw: yerine paska (başka)
+  nog: yerine baska (başka)
+  cjs: yerine paşka (başka)
+  tat: yerine başka (başka)
+  kim: yerine baˁşka (başka)
+  tur: yerine başka (başka)
+  tuk: yerine başga (başka)
+  uig: yerine başka (başka)
+  uzb: yerine boşka (başka)
+  alt: yerine öskö (özge)
+  tyv: yerine öske (özge)
+  atv: yerine artan (art)
+  slr: yerine artı (art)
+  chv: yerine urăx (urăx)
+  klj: yerine iieza (iieza)
+tarihi_yok: {}

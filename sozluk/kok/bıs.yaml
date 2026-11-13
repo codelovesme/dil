@@ -1,0 +1,45 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: bıs
+anlam: Sahacada "kesmek"
+koken: türkçe
+ana_turkce: '*bïč-'
+kavramlar:
+- kes
+etimoloji: Sahaca ve Dolganca bıs-; Ana Türkçe *bïč- 'kesmek, biçmek' (Türkiye Türkçesi biç-)
+  ile denk.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: bıs, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bıs, dil: sah, kaynak: savelyev-turkic, yazi: быс-}
+
+yok:
+  sty-baraba: yerine kes (kes)
+  atv: yerine kes (kes)
+  alt: yerine kes (kes)
+  aze: yerine käs (kes)
+  bak: yerine kis (kes)
+  chv: yerine kas (kes)
+  crh: yerine kes (kes)
+  gag: yerine kes (kes)
+  kaa: yerine kes (kes)
+  krc: yerine kes (kes)
+  kdr: yerine kes (kes)
+  kaz: yerine kes (kes)
+  kjh: yerine kis (kes)
+  klj: yerine käs (kes)
+  kir: yerine kes (kes)
+  kum: yerine ges (kes)
+  clw: yerine käs (kes)
+  nog: yerine kes (kes)
+  slr: yerine kes (kes)
+  ybe: yerine kes (kes)
+  cjs: yerine kes (kes)
+  tat: yerine kis (kes)
+  kim: yerine kes (kes)
+  tur: yerine kes (kes)
+  tuk: yerine kes (kes)
+  tyv: yerine kes (kes)
+  uig: yerine käs (kes)
+  uzb: yerine kes (kes)
+tarihi_yok: {}

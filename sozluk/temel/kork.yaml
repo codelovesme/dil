@@ -1,0 +1,56 @@
+kavram: kork-
+ingilizce: fear
+anlam: Korkmak.
+dogrulandi: false
+kokler:
+- kok: kork
+  koken: türkçe
+  ana_turkce: '*kork-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kork.yaml).
+  tarihi:
+    qwm: kork
+    otk: kork
+    xqa: kork
+    chg: kork
+  bicimler:
+    aze: korx
+    bak: kurk
+    chv:
+      bicim: xăra
+      miras: true
+    crh: kork
+    krc: kork
+    kdr: kork
+    kaa: kork
+    kaz: kork
+    kjh: xorıx
+    klj:
+      bicim: kork
+      miras: true
+    kir: kork
+    kum: kork
+    clw: kooruk
+    nog: kork
+    atv: koruk
+    slr: xorğa
+    ybe: kork
+    cjs: koruk
+    alt: korkı
+    tat: kurku
+    kim: kort
+    tur: kork
+    tuk: gork
+    tyv: kort
+    uig: kork
+    uzb: kọrk
+    sty-baraba: kork
+- kok: kuttan
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kuttan.yaml).
+  bicimler:
+    dlg: kuttan
+    sah: kuttan
+yok: []
+tarihi_yok: []

@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: oñor
+anlam: '"yapmak" (Sahaca)'
+koken: türkçe
+kavramlar:
+- et
+etimoloji: Sahaca ve Dolganca oñor-; oñ 'doğru, düzgün' gövdesinden olabilir, bu çalışmada
+  araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: oñor, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: oñor, dil: sah, kaynak: savelyev-turkic, yazi: оҥор-}
+
+yok:
+  sty-baraba: yerine et (et)
+  alt: yerine et (et)
+  aze: yerine et (et)
+  gag: yerine et (et)
+  krc: yerine et (et)
+  kjh: yerine it (et)
+  kum: yerine et (et)
+  clw: yerine ät (et)
+  ybe: yerine et (et)
+  cjs: yerine et (et)
+  tur: yerine et (et)
+  uig: yerine ät (et)
+  tyv: yerine kıl (kıl)
+  uzb: yerine kil (kıl)
+  atv: yerine taza (yasa)
+  kaa: yerine jasa (yasa)
+  kdr: yerine yasa (yasa)
+  kaz: yerine jasa (yasa)
+  kir: yerine jasa (yasa)
+  nog: yerine yasa (yasa)
+  slr: yerine yasa (yasa)
+  tat: yerine yasa (yasa)
+  kim: yerine çaasa (yasa)
+  tuk: yerine yasa (yasa)
+  bak: yerine eşlä (işle)
+  crh: yerine yap (yap)
+  chv: yerine tu (tu)
+  klj: yerine şa (şa)
+tarihi_yok: {}

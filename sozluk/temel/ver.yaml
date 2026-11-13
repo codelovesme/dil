@@ -1,0 +1,49 @@
+kavram: ver-
+ingilizce: give
+anlam: Bir şeyi başkasına geçirmek.
+dogrulandi: false
+kokler:
+- kok: ber
+  koken: türkçe
+  ana_turkce: '*bēr-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ber.yaml).
+  tarihi:
+    qwm: ber
+    otk: ber
+    eski-anadolu: ver
+  bicimler:
+    aze: ver
+    bak: bir
+    chv: par
+    crh: ber
+    dlg: bier
+    gag: ver
+    krc: ber
+    kdr: ber
+    kaa: ber
+    kaz: ber
+    kjh: pir
+    klj:
+      bicim: vier
+      miras: true
+    kir: ber
+    kum: ber
+    clw: pär
+    nog: ber
+    atv: per
+    slr: per
+    ybe: per
+    cjs: per
+    alt: ber
+    tat: bir
+    kim: ber
+    tur: ver
+    tuk: ber
+    tyv: ber
+    uig: bär
+    uzb: ber
+    sah: bier
+    sty-baraba: ber
+yok: []
+tarihi_yok: []

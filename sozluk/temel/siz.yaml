@@ -1,0 +1,65 @@
+kavram: siz
+ingilizce: you (plural; polite)
+anlam: İkinci çoğul şahıs zamiri; birçok dilde saygı için tekil de.
+dogrulandi: false
+kokler:
+  - kok: siz
+    koken: türkçe
+    ana_turkce: "*siŕ"
+    kaynak: wiktionary-ana-turkce; clauson
+    not: >-
+      Tanıklar ve kaynaklar sözlük maddesinde (sozluk/kok/siz.yaml). Sibirya, Kırgız ve
+      Altay dillerinde -lAr eklenmiş türev (siler) aynı kökte toplandı. Kazakçada düz çoğul
+      sender (sen kökü) ayrıca kullanılır. Salarca, Sarı Uygurca, Sibirya Tatarcası, İli
+      Türkçesi, Çulımca, Fuyu Kırgızcası, Duhaca ve Soyotça boş bırakıldı.
+    tarihi:
+      otk: siz
+      xqa: siz
+      eski-anadolu: siz
+      qwm: siz
+      chg: siz
+    bicimler:
+      chv: { bicim: esir, miras: true }
+      klj: { bicim: siz, miras: true }
+      tur: siz
+      tur-ege: siz
+      tur-teke: siz
+      tur-orta: siz
+      tur-bkaradeniz: siz
+      tur-dkaradeniz: siz
+      tur-erzurum: siz
+      tur-ahiska: siz
+      tur-drumeli: siz
+      tur-brumeli: siz
+      tur-kibris: siz
+      gag: siz
+      bgx: siz
+      aze: siz
+      kerkuk: siz
+      qxq: siz
+      tuk: siz
+      kmz: siz
+      tat: sez
+      bak: hez
+      crh: siz
+      kum: siz
+      krc: siz
+      kdr: siz
+      jct: siz
+      uum: siz
+      kaz: siz
+      kaa: siz
+      nog: siz
+      kir: siler
+      alt: sler
+      uzb: siz
+      uig: siz
+      sah: ehigi
+      dlg: ehigi
+      tyv: siler
+      kim: siler
+      kjh: sirer
+      cjs: siler
+      atv: sner
+yok: []
+tarihi_yok: []

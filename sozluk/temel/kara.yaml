@@ -1,0 +1,51 @@
+kavram: kara
+ingilizce: black
+anlam: Kara, siyah.
+dogrulandi: false
+kokler:
+- kok: kara-ad
+  koken: türkçe
+  ana_turkce: '*kara'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kara-ad.yaml).
+  tarihi:
+    qwm: kara
+    otk: kara
+    eski-anadolu: qara
+  bicimler:
+    aze: kara
+    bak: kara
+    chv:
+      bicim: xura
+      miras: true
+    crh: kara
+    dlg: kara
+    gag: kara
+    krc: kara
+    kdr: kara
+    kaa: kara
+    kaz: kara
+    kjh: xara
+    klj:
+      bicim: kara
+      miras: true
+    kir: kara
+    kum: kara
+    clw: kara
+    nog: kara
+    atv: kara
+    slr: kara
+    ybe: kara
+    cjs: kara
+    alt: kara
+    tat: kara
+    kim: kara
+    tur: kara
+    tuk: gara
+    tyv: kara
+    uig: kara
+    uzb: kora
+    sah: xara
+    sty-baraba: kara
+yok: []
+tarihi_yok: []

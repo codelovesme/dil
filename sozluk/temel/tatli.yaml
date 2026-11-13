@@ -1,0 +1,71 @@
+kavram: tatlı
+ingilizce: sweet
+anlam: Tatlı.
+dogrulandi: false
+kokler:
+- kok: tatlı
+  koken: türkçe
+  ana_turkce: '*tātlïg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tatlı.yaml).
+  tarihi:
+    qwm: tatlı
+    otk: tatığlığ
+    xqa: tatlığ
+    chg: tatlığ
+  bicimler:
+    bak: tatlı
+    crh: tatlı
+    gag: tatlı
+    krc: tatlı
+    kdr: tatlı
+    kaz: tätti
+    kjh: tadılığ
+    kir: tattuu
+    kum: tatli
+    clw: taadlığ
+    nog: tätli
+    atv: taattu
+    slr: tälli
+    ybe: tatığ
+    alt: tatu
+    tat: tatlı
+    kim: tadığlığ
+    tur: tatlı
+    uig:
+      bicim: tatlik
+      tercih: 0.5
+    sty-baraba: tatlı
+- kok: süçig
+  koken: türkçe
+  ana_turkce: '*süčig'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/süçig.yaml).
+  bicimler:
+    tuk: süyci
+- kok: minnyiges
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/minnyiges.yaml).
+  bicimler:
+    dlg: minnyiges
+    sah: minnyiges
+- kok: pılak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/pılak.yaml).
+  bicimler:
+    chv:
+      bicim: pılak
+      miras: true
+- kok: şirin
+  koken: alıntı:fa
+  kaynak: savelyev-turkic
+  not: Farsça şīrīn 'tatlı'. Azerbaycan, Özbek ve Uygur dillerinde günlük kelime;
+    seçilmez.
+  bicimler:
+    aze: şirin
+    uig: şirin
+    uzb: şirin
+yok: []
+tarihi_yok: []

@@ -1,0 +1,52 @@
+kavram: ile
+ingilizce: with
+anlam: Birlikte olma, araç (ile, -la).
+dogrulandi: false
+kokler:
+- kok: birle
+  koken: türkçe
+  ana_turkce: '*birle'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/birle.yaml).
+  tarihi:
+    qwm: birlä
+    otk: birle
+  bicimler:
+    aze: ilä
+    bak: menän
+    chv: -pala
+    crh: ile
+    krc: bla
+    kdr: bıla
+    kaa: menen
+    kaz: men
+    klj:
+      bicim: -la
+      miras: true
+    kir: menen
+    kum: bulan
+    nog: man
+    atv: bla
+    slr: -la
+    cjs: pıla
+    alt: -la
+    tat: belän
+    kim: bile
+    tur: ile
+    tuk: bilen
+    tyv: bile
+    uig: bilän
+    uzb: bilan
+    sty-baraba: pilen
+- kok: nan
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/nan.yaml).
+  bicimler:
+    dlg: nan
+    gag: -nan
+    kjh: -nañ
+    clw: -nañ
+    sah: nan
+yok: []
+tarihi_yok: []

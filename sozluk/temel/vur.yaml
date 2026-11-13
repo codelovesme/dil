@@ -1,0 +1,91 @@
+kavram: vur-
+ingilizce: hit, beat
+anlam: Vurmak, dövmek.
+dogrulandi: false
+kokler:
+- kok: ur
+  koken: türkçe
+  ana_turkce: '*ur-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ur.yaml).
+  tarihi:
+    qwm: ur
+  bicimler:
+    aze: vur
+    crh: ur
+    krc: ur
+    kaa: ur
+    klj:
+      bicim: vur
+      miras: true
+    kum: ur
+    tur: vur
+    tuk: ur
+    uig: ur
+    uzb: ur
+- kok: sok
+  koken: türkçe
+  ana_turkce: '*sok-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sok.yaml).
+  bicimler:
+    bak: huğ
+    kaz: sok
+    kir: sok
+    clw: sok
+    nog: sok
+    atv: sok
+    alt: sok
+    tat: suk
+    tyv: sok
+    sty-baraba: sok
+- kok: çap
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çap.yaml).
+  bicimler:
+    chv: şap
+    kjh: sap
+    slr: çap
+    cjs: şap
+- kok: tokı
+  koken: türkçe
+  ana_turkce: '*tokï-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tokı.yaml).
+  tarihi:
+    otk: tokı
+  bicimler: {}
+- kok: oğus
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oğus.yaml).
+  bicimler:
+    dlg: oğus
+    sah: oğus
+- kok: yanç
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yanç.yaml).
+  bicimler:
+    kdr: yanç
+- kok: döv
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/döv.yaml).
+  bicimler:
+    gag: döv
+- kok: per
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/per.yaml).
+  bicimler:
+    ybe: per
+- kok: kak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kak.yaml).
+  bicimler:
+    kim: kak
+yok: []
+tarihi_yok: []

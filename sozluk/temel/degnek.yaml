@@ -1,0 +1,65 @@
+kavram: değnek
+ingilizce: stick
+anlam: Değnek, sopa.
+dogrulandi: false
+kokler:
+- kok: tayak
+  koken: türkçe
+  ana_turkce: '*tayak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tayak.yaml).
+  bicimler:
+    bak: tayak
+    crh: tayak
+    krc: tayak
+    kdr: tayak
+    kaa: tayak
+    kaz: tayak
+    kjh: tayax
+    kir: tayak
+    kum: tayak
+    nog: tayak
+    atv: tayak
+    cjs: '? tayak'
+    alt: tayak
+    tat: tayak
+    kim: tayak
+    tuk: tayak
+    tyv: dayañgıış
+    uig: tayak
+    uzb: toyok
+    sty-baraba: tayak
+- kok: sopa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sopa.yaml).
+  bicimler:
+    gag: sopa
+    tur: sopa
+- kok: çıbık
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çıbık.yaml).
+  tarihi:
+    qwm: çıbık
+  bicimler: {}
+- kok: çomak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çomak.yaml).
+  bicimler:
+    ybe: çomak
+- kok: mas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mas.yaml).
+  bicimler:
+    dlg: mas
+- kok: patak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/patak.yaml).
+  bicimler:
+    chv: patak
+yok: []
+tarihi_yok: []

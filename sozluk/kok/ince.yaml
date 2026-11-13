@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ince
+anlam: '"ince (uzun şey)"'
+koken: türkçe
+ana_turkce: '*inčge'
+kavramlar:
+- ince
+etimoloji: ince < inçge 'ince (ip, değnek gibi)'. Oğuz dillerinde ve Karaycada; Kuzey Altay
+  çiçke.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: incä, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: incä, dil: gag, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: inçke, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: çiçke, dil: atv, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: ince, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine duka (yuka)
+  bak: yerine yoka (yuka)
+  chv: yerine şuğa (yuka)
+  crh: yerine yufka (yuka)
+  kaa: yerine juka (yuka)
+  krc: yerine cuka (yuka)
+  kaz: yerine juka (yuka)
+  kjh: yerine çuğa (yuka)
+  kir: yerine juka (yuka)
+  clw: yerine çuğacaak (yuka)
+  nog: yerine yuka (yuka)
+  slr: yerine yoxpa (yuka)
+  ybe: yerine yuka (yuka)
+  cjs: yerine çuğa (yuka)
+  tat: yerine yuka (yuka)
+  kim: yerine çuğa (yuka)
+  tuk: yerine yuka (yuka)
+  tyv: yerine çuğa (yuka)
+  uig: yerine yupka (yuka)
+  uzb: yerine yupka (yuka)
+  dlg: yerine hinnyiges (sinnyiges)
+  sah: yerine sinnyiges (sinnyiges)
+tarihi_yok: {}

@@ -1,0 +1,51 @@
+kavram: dur-/tur-
+ingilizce: stand
+anlam: Ayakta durmak, kalmak.
+dogrulandi: false
+kokler:
+- kok: tur
+  koken: türkçe
+  ana_turkce: '*tur-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tur.yaml).
+  tarihi:
+    qwm: tur
+    otk: tur
+    eski-anadolu: dur
+  bicimler:
+    aze: dur
+    bak: tor
+    chv:
+      bicim: tăr
+      miras: true
+    crh: tur
+    dlg: tur
+    gag: dur
+    krc: tur
+    kdr: tur
+    kaa: tur
+    kaz: tur
+    kjh: tur
+    klj:
+      bicim: tur
+      miras: true
+    kir: tur
+    kum: tur
+    clw: tur
+    nog: tur
+    atv: tur
+    slr: dır
+    ybe: tur
+    cjs: tur
+    alt: tur
+    tat: tor
+    kim: tur
+    tur: dur
+    tuk: dur
+    tyv: tur
+    uig: tur
+    uzb: tur
+    sah: tur
+    sty-baraba: tor
+yok: []
+tarihi_yok: []

@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kaya
+anlam: '"kaya; dağ"'
+koken: türkçe
+ana_turkce: '*kaya'
+kavramlar:
+- dag
+etimoloji: kaya 'kaya'; Sahaca ve Dolgancada 'dağ'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: kaya, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xaya, dil: sah, kaynak: savelyev-turkic, yazi: хайа}
+
+yok:
+  sty-baraba: yerine taw (tağ)
+  atv: yerine tağ (tağ)
+  aze: yerine dağ (tağ)
+  bak: yerine taw (tağ)
+  chv: yerine tu (tağ)
+  crh: yerine dağ (tağ)
+  kaa: yerine taw (tağ)
+  krc: yerine taw (tağ)
+  kdr: yerine tav (tağ)
+  kaz: yerine taw (tağ)
+  kjh: yerine tağ (tağ)
+  klj: yerine taağ (tağ)
+  kir: yerine too (tağ)
+  kum: yerine taw (tağ)
+  clw: yerine tağ (tağ)
+  nog: yerine taw (tağ)
+  slr: yerine tağ (tağ)
+  ybe: yerine tağ (tağ)
+  cjs: yerine tağ (tağ)
+  tat: yerine taw (tağ)
+  kim: yerine dağ (tağ)
+  tur: yerine dağ (tağ)
+  tuk: yerine dağ (tağ)
+  tyv: yerine dağ (tağ)
+  uig: yerine tağ (tağ)
+  uzb: yerine toğ (tağ)
+  gag: yerine bayır (bayır)
+  alt: yerine kır (kır)
+tarihi_yok: {}

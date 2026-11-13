@@ -1,0 +1,62 @@
+kavram: bak-
+ingilizce: look
+anlam: Gözünü bir yere çevirmek, bakmak.
+dogrulandi: false
+kokler:
+- kok: bak
+  koken: türkçe
+  ana_turkce: '*bak-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bak.yaml).
+  tarihi:
+    qwm: bak
+  bicimler:
+    aze: bax
+    chv:
+      bicim: păx
+      miras: true
+    crh: bak
+    gag: bak
+    kdr: bak
+    klj:
+      bicim: vak
+      miras: true
+    slr: pax
+    tur: bak
+    tuk: bak
+- kok: kara
+  koken: türkçe
+  ana_turkce: '*kara-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kara.yaml).
+  bicimler:
+    bak: kara
+    krc: kara
+    kaa: kara
+    kaz: kara
+    kir: kara
+    kum: kara
+    nog: kara
+    ybe: kara
+    tat: kara
+    uig: kara
+    uzb: kara
+    sty-baraba: kara
+- kok: kör
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kör.yaml).
+  tarihi:
+    otk: kör
+  bicimler:
+    dlg: kör
+    kjh: kör
+    clw: kör
+    atv: kör
+    cjs: kör
+    alt: kör
+    kim: kör
+    tyv: kör
+    sah: kör
+yok: []
+tarihi_yok: []

@@ -1,0 +1,59 @@
+kavram: ayak
+ingilizce: leg, foot
+anlam: Ayak, bacak.
+dogrulandi: false
+kokler:
+- kok: adak
+  koken: türkçe
+  ana_turkce: '*adak'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/adak.yaml).
+  tarihi:
+    qwm: ayak
+    otk: adak
+  bicimler:
+    aze: ayak
+    bak: ayak
+    crh: ayak
+    dlg: atak
+    gag: ayak
+    krc: ayak 1
+    kdr: ayak
+    kaa: ayak
+    kaz: ayak
+    kjh: azax
+    klj:
+      bicim: hadak
+      miras: true
+    kir: ayak
+    kum: ayak
+    clw: azak
+    nog: ayak
+    slr: ayax
+    ybe: azak
+    cjs: azak
+    tat: ayak
+    tur: ayak
+    tuk: ayak
+    uig: ayak
+    uzb: oyok
+    sah: atax
+    sty-baraba: ayak
+- kok: but
+  koken: türkçe
+  ana_turkce: '*but'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/but.yaml).
+  bicimler:
+    atv: but
+    alt: but
+    kim: but
+    tyv: but
+- kok: ura
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ura.yaml).
+  bicimler:
+    chv: ura
+yok: []
+tarihi_yok: []

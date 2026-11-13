@@ -1,0 +1,57 @@
+kavram: em-
+ingilizce: suck
+anlam: Emmek.
+dogrulandi: false
+kokler:
+- kok: sor
+  koken: türkçe
+  ana_turkce: '*sor-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sor.yaml).
+  tarihi:
+    otk: sor
+  bicimler:
+    aze: sor
+    bak: hur
+    kaa: sor
+    kaz: sor
+    kjh: sor
+    klj:
+      bicim: suor
+      miras: true
+    kir: sor
+    kum: sor
+    clw: sor
+    nog: sor
+    atv: sor
+    cjs: sor
+    alt: soor
+    tat: suır
+    kim: sor
+    tuk: sor
+    tyv: sor
+    uig: şora
+    uzb: sọr
+- kok: em
+  koken: türkçe
+  ana_turkce: '*em-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/em.yaml).
+  bicimler:
+    chv:
+      bicim: ĕm
+      miras: true
+    crh: em
+    dlg: em
+    gag: em
+    krc: em
+    kdr: em
+    ybe: em
+    tur: em
+    sah: em
+  tarihi:
+    xqa: em
+    chg: im
+    qwm: em
+yok: []
+tarihi_yok: []

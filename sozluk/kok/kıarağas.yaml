@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kıarağas
+anlam: Saha ve Dolgancada "dar"
+koken: türkçe
+kavramlar:
+- dar
+etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: kıaragas, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kıarağas, dil: sah, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., yazi: кыарағас}
+
+yok:
+  alt: yerine tar (tar)
+  aze: yerine dar (tar)
+  bak: yerine tar (tar)
+  crh: yerine tar (tar)
+  gag: yerine dar (tar)
+  kaa: yerine tar (tar)
+  krc: yerine tar (tar)
+  kdr: yerine tar (tar)
+  kaz: yerine tar (tar)
+  kjh: yerine tar (tar)
+  klj: yerine taar (tar)
+  kir: yerine tar (tar)
+  kum: yerine tar (tar)
+  nog: yerine tar (tar)
+  ybe: yerine tar (tar)
+  cjs: yerine tar (tar)
+  tat: yerine tar (tar)
+  kim: yerine tar (tar)
+  tur: yerine dar (tar)
+  tuk: yerine dar (tar)
+  tyv: yerine tar (tar)
+  uig: yerine tar (tar)
+  uzb: yerine tor (tar)
+  atv: yerine ıkçam (ıkçam)
+  chv: yerine anzĕr (anzĕr)
+tarihi_yok: {}

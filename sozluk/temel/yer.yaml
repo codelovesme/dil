@@ -1,0 +1,57 @@
+kavram: yer
+ingilizce: earth, ground, place
+anlam: Yer, toprak; yer, mekân.
+dogrulandi: false
+kokler:
+- kok: yer
+  koken: türkçe
+  ana_turkce: '*yẹr'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yer.yaml).
+  tarihi:
+    qwm: yer
+    otk: yer
+  bicimler:
+    aze: yer
+    bak: yer
+    chv:
+      bicim: şĕr
+      miras: true
+    crh: yer
+    dlg: hir
+    gag: yer
+    krc: cer
+    kdr: yer
+    kaa: jer
+    kaz: jer
+    kjh: çir
+    klj:
+      bicim: yer
+      miras: true
+    kir: jer
+    kum: yer
+    clw: çär
+    nog: yer
+    atv: ter
+    ybe: '? yer'
+    cjs: çer
+    alt: der
+    tat: cir
+    kim: çer
+    tur: yer
+    tuk: yer
+    tyv:
+      bicim: çer
+      tercih: 0.5
+    uig: yär
+    uzb: yer
+    sah: sir
+    sty-baraba: yer
+- kok: dovurak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/dovurak.yaml).
+  bicimler:
+    tyv: dovurak
+yok: []
+tarihi_yok: []

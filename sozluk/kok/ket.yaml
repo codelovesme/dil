@@ -1,0 +1,45 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ket
+anlam: '"gitmek, ayrılmak"'
+koken: türkçe
+ana_turkce: '*ket-'
+kavramlar:
+- git
+etimoloji: 'Ana Türkçe *ket- ''gitmek, uzaklaşmak''; Oğuz dillerinde k- > g- ve ünlü daralması:
+  git-, get-. Öteki dillerde ''ayrılmak, gitmek'' anlamında yan kelime.'
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: get, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: git, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: git, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine bar (bar)
+  atv: yerine par- ~ bar (bar)
+  alt: yerine bar (bar)
+  bak: yerine bar (bar)
+  chv: yerine pır (bar)
+  crh: yerine bar (bar)
+  dlg: yerine bar (bar)
+  kaa: yerine ? bar (bar)
+  krc: yerine bar (bar)
+  kdr: yerine bar (bar)
+  kaz: yerine bar (bar)
+  kjh: yerine par (bar)
+  klj: yerine var (bar)
+  kir: yerine bar (bar)
+  kum: yerine bar (bar)
+  clw: yerine par (bar)
+  nog: yerine bar (bar)
+  slr: yerine bar (bar)
+  ybe: yerine par (bar)
+  cjs: yerine par (bar)
+  tat: yerine bar (bar)
+  kim: yerine bar (bar)
+  tuk: yerine bar (bar)
+  tyv: yerine bar (bar)
+  uig: yerine bar (bar)
+  uzb: yerine bor (bar)
+  sah: yerine bar (bar)
+tarihi_yok: {}

@@ -1,0 +1,50 @@
+kavram: dil
+ingilizce: tongue
+anlam: Dil (organ).
+dogrulandi: false
+kokler:
+- kok: tıl
+  koken: türkçe
+  ana_turkce: '*tïl'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tıl.yaml).
+  tarihi:
+    qwm: til
+    otk: tıl
+  bicimler:
+    aze: dil
+    bak: tel
+    chv:
+      bicim: çĕlxe
+      miras: true
+    crh: til
+    dlg: tıl
+    gag: dil
+    krc: til
+    kdr: til
+    kaa: til
+    kaz: tĭl
+    kjh: til
+    klj:
+      bicim: til
+      miras: true
+    kir: til
+    kum: til
+    clw: til
+    nog: til
+    atv: til
+    slr: cil
+    ybe: tel
+    cjs: til
+    alt: til
+    tat: tel
+    kim: dıl
+    tur: dil
+    tuk: dil
+    tyv: dıl
+    uig: til
+    uzb: til
+    sah: tıl
+    sty-baraba: til
+yok: []
+tarihi_yok: []

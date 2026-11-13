@@ -1,0 +1,62 @@
+kavram: çok
+ingilizce: many, much
+anlam: Çok.
+dogrulandi: false
+kokler:
+- kok: köp
+  koken: türkçe
+  ana_turkce: '*köp'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köp.yaml).
+  tarihi:
+    qwm: köp
+    eski-anadolu: köp
+  bicimler:
+    bak: küp
+    krc: köb
+    kdr: köp
+    kaa: köp
+    kaz: köp
+    kjh: köp
+    kir: köp
+    kum: köp
+    clw: köp
+    nog: köp
+    atv: köp
+    slr: kop
+    ybe: kep
+    cjs: köp
+    alt: köp
+    tat: küp
+    kim: köp
+    tuk: köp
+    uig: köp
+    uzb: köp
+    sty-baraba: köp
+- kok: çok
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çok.yaml).
+  bicimler:
+    aze: çox
+    crh: çok
+    gag: çok
+    tur: çok
+- kok: üküş
+  koken: türkçe
+  ana_turkce: '*üküš'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/üküş.yaml).
+  tarihi:
+    otk: üküş
+  bicimler:
+    dlg: ügüs
+    sah: elbex
+- kok: xöy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xöy.yaml).
+  bicimler:
+    tyv: xöy
+yok: []
+tarihi_yok: []

@@ -1,0 +1,52 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ye
+anlam: '"yemek"'
+koken: türkçe
+ana_turkce: '*yē-'
+kavramlar:
+- ye
+etimoloji: 'Ana Türkçe *yē- (uzun ē: Halaççada iz). Baştaki y- dillere göre j-, c-, ç-, t-
+  ve Çuvaşçada ş- olur (je-, çi-, ti-, şi-).'
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: ye, yi
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: یمك
+    not: Wiktionary'de mastar biçimiyle yemek, yimek.
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ye, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şi, dil: chv, kaynak: savelyev-turkic, not: Oğur ş- (Ortak Türkçe y-)., yazi: ҫи-}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: i, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: je, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: je, dil: kaz, kaynak: savelyev-turkic, yazi: же-}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çi, dil: kjh, kaynak: savelyev-turkic, yazi: чi-}
+  - {atif: doerfer1980, bicim: yee, dil: klj, kaynak: savelyev-turkic, not: Uzun ünlü.}
+  - {atif: 'judakhin1985, judakhin1957', bicim: je, dil: kir, kaynak: savelyev-turkic, yazi: же-}
+  - {atif: savelyev2015, bicim: çi, dil: clw, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: ti, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: ye, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: ye, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: çi, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çi, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: ye, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: iy, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çi, dil: tyv, kaynak: savelyev-turkic, not: Ayrıca çemne- 'yemek yemek'., yazi: чи-}
+  - {atif: nadzip1968, bicim: yi, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ye, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine aşa (aşa)
+  alt: yerine ajan (aşa)
+  bak: yerine aşa (aşa)
+  crh: yerine aşa (aşa)
+  dlg: yerine ahaa (aşa)
+  krc: yerine aşa (aşa)
+  kdr: yerine asa (aşa)
+  kum: yerine aşa (aşa)
+  nog: yerine aşa (aşa)
+  tat: yerine aşa (aşa)
+  sah: yerine ahaa (aşa)
+tarihi_yok: {}

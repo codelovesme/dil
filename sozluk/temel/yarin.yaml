@@ -1,0 +1,73 @@
+kavram: yarın
+ingilizce: tomorrow
+anlam: Bugünden sonraki gün.
+dogrulandi: false
+kokler:
+- kok: yarın
+  koken: türkçe
+  ana_turkce: '*yārïn'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yarın.yaml).
+  tarihi:
+    otk: yarın
+    eski-anadolu: yarïn
+  bicimler:
+    chv: ıran
+    crh: yarın
+    gag: yarın
+    tur: yarın
+- kok: erte
+  koken: türkçe
+  ana_turkce: '*ẹrte'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/erte.yaml).
+  bicimler:
+    bak: irtägä
+    kaa: erteñ
+    kaz: erteñ
+    kir: erteñ
+    nog: erten
+    slr: eetä
+    alt: erten
+    tat: irtägä
+    tuk: ertir
+    uig: ätä
+    uzb: erta
+    sty-baraba: ärtän
+- kok: tañ
+  koken: türkçe
+  ana_turkce: '*tāŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tañ.yaml).
+  tarihi:
+    qwm: tañda
+  bicimler:
+    krc: tambla
+    kdr: tañda
+    kjh: tañda
+    kum: tañala
+    clw: tañna
+    atv: tañda
+    ybe: tağın
+    cjs: tañda
+- kok: sarsın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sarsın.yaml).
+  bicimler:
+    dlg: harsın
+    sah: sarsın
+- kok: turay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/turay.yaml).
+  bicimler:
+    kim: turay
+- kok: daarta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/daarta.yaml).
+  bicimler:
+    tyv: daarta
+yok: []
+tarihi_yok: []

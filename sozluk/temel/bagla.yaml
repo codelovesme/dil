@@ -1,0 +1,55 @@
+kavram: bağla-
+ingilizce: tie
+anlam: Bağlamak.
+dogrulandi: false
+kokler:
+- kok: bağla
+  koken: türkçe
+  ana_turkce: '*bā-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bağla.yaml).
+  tarihi:
+    otk: ba
+    xqa: ba
+  bicimler:
+    aze: bağla
+    bak: bäylä
+    crh: bağla
+    dlg: baay
+    gag: baala
+    krc: bayla
+    kdr: bavla
+    kaa: bayla
+    kaz: bayla
+    kjh: palğa
+    klj:
+      bicim: vaa
+      miras: true
+    kir: bayla
+    kum: bayla
+    clw: pağla
+    nog: bayla
+    atv: pağla
+    slr: pağla
+    ybe: pağla
+    cjs: pağla
+    alt: bula
+    tat: bäylä
+    kim: bağla
+    tur: bağla
+    tuk: bağla
+    tyv: bağla
+    uig: bağla
+    uzb: boğla
+    sah: baay
+    sty-baraba: pawla
+- kok: şıx
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şıx.yaml).
+  bicimler:
+    chv:
+      bicim: şıx
+      miras: true
+yok: []
+tarihi_yok: []

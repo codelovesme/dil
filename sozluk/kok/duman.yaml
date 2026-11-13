@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: duman
+anlam: '"sis, duman"'
+koken: türkçe
+ana_turkce: '*tuman'
+kavramlar:
+- duman
+etimoloji: tuman 'sis'; Türkiye Türkçesinde duman 'duman'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1977, iz1992', bicim: duman, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine tötin (tütün)
+  atv: yerine tüdök (tütün)
+  aze: yerine tüstü (tütün)
+  bak: yerine tötön (tütün)
+  chv: yerine tĕtĕm (tütün)
+  crh: yerine tütün (tütün)
+  gag: yerine tütün (tütün)
+  kaa: yerine tütin (tütün)
+  krc: yerine tütün (tütün)
+  kdr: yerine tütün (tütün)
+  kaz: yerine tütin (tütün)
+  kjh: yerine tüdün (tütün)
+  klj: yerine titün (tütün)
+  kir: yerine tütün (tütün)
+  kum: yerine tütün (tütün)
+  clw: yerine tüdün (tütün)
+  nog: yerine tütin (tütün)
+  slr: yerine cücün (tütün)
+  cjs: yerine tüdün (tütün)
+  tat: yerine töten (tütün)
+  tuk: yerine tüsse (tütün)
+  uzb: yerine tutun (tütün)
+  alt: yerine ış (ıs)
+  ybe: yerine ıs (ıs)
+  kim: yerine ış (ıs)
+  tyv: yerine ış (ıs)
+  uig: yerine is (ıs)
+  dlg: yerine buruo (buruo)
+  sah: yerine buruo (buruo)
+tarihi_yok: {}

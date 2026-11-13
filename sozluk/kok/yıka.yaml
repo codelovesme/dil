@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yıka
+anlam: '"yıkamak"'
+koken: türkçe
+kavramlar:
+- yika
+etimoloji: yık- 'yıkmak' ile ilişkisi tartışmalı; Türkiye Türkçesi ve Gagavuzcada 'yıkamak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: yıka, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: yıka, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine yu (yu)
+  alt: yerine dun (yu)
+  aze: yerine yu (yu)
+  bak: yerine yıw (yu)
+  chv: yerine şu (yu)
+  crh: yerine yuv (yu)
+  dlg: yerine huuy (yu)
+  kaa: yerine juw (yu)
+  krc: yerine juw (yu)
+  kdr: yerine yuv (yu)
+  kaz: yerine ju (yu)
+  kjh: yerine çuğ (yu)
+  klj: yerine yuu (yu)
+  kir: yerine juu (yu)
+  kum: yerine juw (yu)
+  clw: yerine çun (yu)
+  nog: yerine yuw (yu)
+  slr: yerine yu (yu)
+  ybe: yerine yu (yu)
+  cjs: yerine çun (yu)
+  tat: yerine yuw (yu)
+  kim: yerine çu (yu)
+  tuk: yerine yuv (yu)
+  tyv: yerine çuğ (yu)
+  uig: yerine juy (yu)
+  uzb: yerine yuv (yu)
+  sah: yerine suuy (yu)
+  atv: yerine yayka (yayka)
+tarihi_yok: {}

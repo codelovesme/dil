@@ -1,0 +1,36 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kat
+anlam: Sayan dillerinde "rüzgâr"
+koken: türkçe
+kavramlar:
+- yel
+etimoloji: Tofaca kat, Tuvaca xat; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'rassadin1971, rassadin2005', bicim: kat, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xat, dil: tyv, kaynak: savelyev-turkic, yazi: хат}
+
+yok:
+  sty-baraba: yerine yel (yel)
+  aze: yerine yel (yel)
+  bak: yerine yel (yel)
+  chv: yerine şil (yel)
+  crh: yerine yel (yel)
+  kaa: yerine jel (yel)
+  krc: yerine cel (yel)
+  kdr: yerine yel (yel)
+  kaz: yerine jel (yel)
+  kjh: yerine çil (yel)
+  klj: yerine yel (yel)
+  kum: yerine yel (yel)
+  clw: yerine çäl (yel)
+  nog: yerine yel (yel)
+  slr: yerine yel (yel)
+  ybe: yerine yil (yel)
+  tat: yerine cil (yel)
+  tuk: yerine yel (yel)
+  tur: yerine yel (yel)
+  dlg: yerine tıal (tıal)
+  sah: yerine tıal (tıal)
+tarihi_yok: {}

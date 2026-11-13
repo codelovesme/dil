@@ -1,0 +1,59 @@
+kavram: boğaz
+ingilizce: throat
+anlam: Boğaz, gırtlak.
+dogrulandi: false
+kokler:
+- kok: tamak
+  koken: türkçe
+  ana_turkce: '*tamgak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tamak.yaml).
+  tarihi:
+    qwm: tamak
+    otk: tamğak
+  bicimler:
+    bak: tamak
+    krc: tamak
+    kdr: tamak
+    kaa: tamak
+    kaz: tamak
+    kjh: tamax
+    kir: tamak
+    kum: tamak
+    clw: tamak
+    nog: tamak
+    cjs: tabak
+    alt: tamak
+    tat: tamak
+    uig: tamak
+    uzb: tomok
+    sah: tamax
+- kok: boğaz
+  koken: türkçe
+  ana_turkce: '*bogaŕ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/boğaz.yaml).
+  bicimler:
+    aze: boğaz
+    crh: boğaz
+    gag: buaz
+    klj:
+      bicim: boğız
+      miras: true
+    slr: poğtax
+    ybe: poğıs
+    kim: boos
+    tur: boğaz
+    tuk: boğaz
+    tyv: boostaa
+  tarihi:
+    otk: boğuz
+    xqa: boğuz
+- kok: pır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/pır.yaml).
+  bicimler:
+    chv: pır
+yok: []
+tarihi_yok: []

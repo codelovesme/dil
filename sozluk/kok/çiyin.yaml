@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çiyin
+anlam: Azerbaycan Türkçesinde "omuz"
+koken: türkçe
+kavramlar:
+- omuz
+etimoloji: çiyin; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: çiyin, dil: aze, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine iyin (egin)
+  kaa: yerine iyin (egin)
+  kdr: yerine iin (egin)
+  kaz: yerine iyin (egin)
+  kir: yerine iyin (egin)
+  nog: yerine iyin (egin)
+  ybe: yerine igen (egin)
+  tuk: yerine egin (egin)
+  tyv: yerine egin (egin)
+  bak: yerine iñbaş (iñ)
+  krc: yerine imbaş (iñ)
+  kjh: yerine iñnĕ (iñ)
+  kum: yerine inbaş (iñ)
+  clw: yerine äñ (iñ)
+  tat: yerine iñbaş (iñ)
+  sty-baraba: yerine yawrın (yağrın)
+  atv: yerine carın (yağrın)
+  dlg: yerine hannı (yağrın)
+  slr: yerine yağrı (yağrın)
+  sah: yerine sarın (yağrın)
+  crh: yerine omuz (omuz)
+  gag: yerine omuz (omuz)
+  tur: yerine omuz (omuz)
+  uzb: yerine yelka (yelka)
+  cjs: yerine öştü (öştü)
+  kim: yerine öhün (öştü)
+  chv: yerine xulpuşşi (xulpuşşi)
+tarihi_yok: {}

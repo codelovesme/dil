@@ -1,0 +1,62 @@
+kavram: geniş
+ingilizce: wide
+anlam: Geniş, enli.
+dogrulandi: false
+kokler:
+- kok: keñ
+  koken: türkçe
+  ana_turkce: '*käŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/keñ.yaml).
+  tarihi:
+    otk: keñ
+    xqa: keñ
+    chg: keñ
+    qwm: keñ
+  bicimler:
+    aze: geniş
+    bak: kiñ
+    crh: keñ
+    gag: geniş
+    krc: keñ
+    kdr: keñ
+    kaa: keñ
+    kaz: keñ
+    klj:
+      bicim: kieñ
+      miras: true
+    kir: keñ
+    kum: geñ
+    nog: keñ
+    atv: keñ
+    ybe: keñ
+    alt: keñ
+    tat: kiñ
+    tur: geniş
+    tuk: giñ
+    uig: käñ
+    uzb: keñ
+    sah: kieñ
+    sty-baraba: käñ
+- kok: çalbak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çalbak.yaml).
+  bicimler:
+    kjh: çalbax
+    clw: çalbak
+    cjs: çalbak
+- kok: aalhığ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aalhığ.yaml).
+  bicimler:
+    kim: aalhığ
+- kok: sarlaga
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sarlaga.yaml).
+  bicimler:
+    chv: sarlaga
+yok: []
+tarihi_yok: []

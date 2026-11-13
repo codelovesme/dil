@@ -1,0 +1,57 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: oğul
+anlam: '"oğul, çocuk"'
+koken: türkçe
+ana_turkce: '*ogul'
+kavramlar:
+- cocuk
+etimoloji: oğul 'oğul, çocuk'; Kuman ve Eski Türkçede 'çocuk'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: ogul
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: oğlan
+    kaynak: savelyev-turkic
+    atif: clauson1972
+
+yok:
+  sty-baraba: yerine pala (bala)
+  atv: yerine bala (bala)
+  alt: yerine bala (bala)
+  bak: yerine bala (bala)
+  crh: yerine bala (bala)
+  kaa: yerine bala (bala)
+  krc: yerine bala (bala)
+  kdr: yerine bala (bala)
+  kaz: yerine bala (bala)
+  kjh: yerine pala (bala)
+  klj: yerine bala (bala)
+  kir: yerine bala (bala)
+  kum: yerine bala (bala)
+  nog: yerine bala (bala)
+  slr: yerine pala (bala)
+  cjs: yerine pala (bala)
+  tat: yerine bala (bala)
+  uig: yerine bala (bala)
+  uzb: yerine bola (bala)
+  aze: yerine uşak (uşak)
+  gag: yerine uşak (uşak)
+  tur: yerine çocuk (çocuk)
+  tuk: yerine çaga (çaga)
+  tyv: yerine çaş uruğ (uruğ)
+  kim: yerine uruğ (uruğ)
+  chv: yerine aça (aça)
+  clw: yerine käç (käç)
+  ybe: yerine mula (mula)
+tarihi_yok: {}

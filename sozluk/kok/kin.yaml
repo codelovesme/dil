@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kin
+anlam: '"göbek"'
+koken: türkçe
+ana_turkce: '*kīn'
+kavramlar:
+- gobek
+etimoloji: Ana Türkçe *kīn 'göbek'. Güney Altay kın, Tuva xin, Tofa hin, Saha kiin.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: baskakov1947, bicim: kın, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: hin, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xin, dil: tyv, kaynak: savelyev-turkic, not: xindik de., yazi: хин}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kiin, dil: sah, kaynak: savelyev-turkic, yazi: киин}
+
+yok:
+  sty-baraba: yerine kändik (kindik)
+  atv: yerine kindig (kindik)
+  bak: yerine kendek (kindik)
+  kaa: yerine kindik (kindik)
+  krc: yerine kindik (kindik)
+  kdr: yerine kindik (kindik)
+  kaz: yerine kĭndĭk (kindik)
+  kjh: yerine kĕndĕk (kindik)
+  klj: yerine kündik (kindik)
+  kir: yerine kindik (kindik)
+  kum: yerine gindik (kindik)
+  clw: yerine kĕndĕk (kindik)
+  nog: yerine kindik (kindik)
+  slr: yerine kintix (kindik)
+  ybe: yerine kındık (kindik)
+  cjs: yerine kindik (kindik)
+  tat: yerine kendek (kindik)
+  uig: yerine kindik (kindik)
+  uzb: yerine kindik (kindik)
+  aze: yerine göbäk (göbek)
+  crh: yerine köbek (göbek)
+  gag: yerine göbek (göbek)
+  tur: yerine göbek (göbek)
+  tuk: yerine göbek (göbek)
+  chv: yerine kăvapa (kăvapa)
+tarihi_yok: {}

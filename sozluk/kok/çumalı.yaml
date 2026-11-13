@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çumalı
+anlam: '"karınca"'
+koken: türkçe
+kavramlar:
+- karinca
+etimoloji: çumalı 'karınca'; Uygur, Özbek ve Altay dillerinde.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: baskakov1985, bicim: çubala, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: çımalı, dil: alt, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: çömüli, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çumoli, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  bak: yerine kırmıska (kumursga)
+  crh: yerine kımırska (kumursga)
+  kaa: yerine kumırska (kumursga)
+  krc: yerine kumursxa (kumursga)
+  kdr: yerine kumurska (kumursga)
+  kaz: yerine kumırska (kumursga)
+  kjh: yerine xımısxa (kumursga)
+  klj: yerine gumurğaaç (kumursga)
+  kir: yerine kumurska (kumursga)
+  kum: yerine xomursğa (kumursga)
+  clw: yerine kumurska (kumursga)
+  nog: yerine kumırska (kumursga)
+  slr: yerine kumuska (kumursga)
+  cjs: yerine kımıskaş (kumursga)
+  tat: yerine kırmıska (kumursga)
+  kim: yerine hımıska (kumursga)
+  tyv: yerine kımıskayak (kumursga)
+  sah: yerine kımırdağas (kumursga)
+  aze: yerine karışka (karınca)
+  gag: yerine karımca (karınca)
+  tur: yerine karınca (karınca)
+  tuk: yerine garınca (karınca)
+tarihi_yok: {}

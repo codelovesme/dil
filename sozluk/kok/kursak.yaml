@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kursak
+anlam: '"mide, karın"'
+koken: türkçe
+kavramlar:
+- karin
+etimoloji: kursak 'mide, kursak'; Kırım, Kafkas Kıpçak, Tatar, Şor dillerinde ve Salarcada
+  'karın'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: kursak, dil: crh, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: kursax, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kursak, dil: kum, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: xusax, dil: slr, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: kursak, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: korsak, dil: tat, kaynak: savelyev-turkic, yazi: корсак}
+
+yok:
+  aze: yerine ġarın (karın)
+  chv: yerine xırăm (karın)
+  gag: yerine karnı (karın)
+  krc: yerine karın (karın)
+  klj: yerine karın (karın)
+  clw: yerine kaarın (karın)
+  tur: yerine karın (karın)
+  uzb: yerine korin (karın)
+  sty-baraba: yerine eç (iç-ad)
+  atv: yerine iç (iç-ad)
+  alt: yerine iç (iç-ad)
+  bak: yerine es (iç-ad)
+  dlg: yerine is (iç-ad)
+  kaa: yerine iş (iç-ad)
+  kaz: yerine is (iç-ad)
+  kjh: yerine iste (iç-ad)
+  kir: yerine iç (iç-ad)
+  nog: yerine iş (iç-ad)
+  ybe: yerine içige (iç-ad)
+  kim: yerine ıştı (iç-ad)
+  tuk: yerine iç (iç-ad)
+  tyv: yerine ijin (iç-ad)
+  uig: yerine iç (iç-ad)
+  sah: yerine is (iç-ad)
+tarihi_yok: {}

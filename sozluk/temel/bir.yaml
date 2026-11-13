@@ -1,0 +1,50 @@
+kavram: bir
+ingilizce: one
+anlam: Bir sayısı.
+dogrulandi: false
+kokler:
+- kok: bir
+  koken: türkçe
+  ana_turkce: '*bīr'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bir.yaml).
+  tarihi:
+    otk: bir
+    qwm: bir
+  bicimler:
+    aze: bir
+    bak: ber
+    chv:
+      bicim: pĕrre
+      miras: true
+    crh: bir
+    dlg: bi:r
+    gag: bir
+    krc: bir
+    kdr: bir
+    kaa: bir
+    kaz: bĭr
+    kjh: pir
+    klj:
+      bicim: 'bi:'
+      miras: true
+    kir: bir
+    kum: bir
+    clw: pir
+    nog: bir
+    atv: pir
+    slr: bir
+    ybe: per
+    cjs: pir
+    alt: bir
+    tat: ber
+    kim: bĭr
+    tur: bir
+    tuk: bir
+    tyv: bir
+    uig: bir
+    uzb: bir
+    sah: bi:r
+    sty-baraba: pir
+yok: []
+tarihi_yok: []

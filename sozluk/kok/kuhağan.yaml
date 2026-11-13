@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kuhağan
+anlam: Sahacada "kötü"
+koken: türkçe
+kavramlar:
+- kotu
+etimoloji: Sahaca ve Dolganca kuhağan; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: kuhağan, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kuhağan, dil: sah, kaynak: savelyev-turkic, yazi: куһаҕан}
+
+yok:
+  sty-baraba: yerine yaman (yaman)
+  atv: yerine daman (yaman)
+  alt: yerine daman (yaman)
+  aze: yerine yaman (yaman)
+  kaa: yerine jaman (yaman)
+  krc: yerine aman (yaman)
+  kdr: yerine yaman (yaman)
+  kaz: yerine jaman (yaman)
+  kir: yerine jaman (yaman)
+  kum: yerine yaman (yaman)
+  nog: yerine yaman (yaman)
+  slr: yerine yaman (yaman)
+  tat: yerine ? yaman (yaman)
+  tuk: yerine ? yaman (yaman)
+  uig: yerine yaman (yaman)
+  uzb: yerine yomon (yaman)
+  tur: yerine kötü (kötü)
+  crh: yerine yaramay (yaramay)
+  bak: yerine alama (alama)
+  cjs: yerine çabal (çabal)
+  clw: yerine çüvür (çüvür)
+  ybe: yerine yus (yus)
+  kim: yerine çoraanda (çoraanda)
+  tyv: yerine bagay (bagay)
+tarihi_yok: {}

@@ -1,0 +1,56 @@
+kavram: kes-
+ingilizce: cut
+anlam: Kesmek.
+dogrulandi: false
+kokler:
+- kok: kes
+  koken: türkçe
+  ana_turkce: '*kẹs-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kes.yaml).
+  tarihi:
+    qwm: kes
+    otk: kes
+  bicimler:
+    aze: käs
+    bak: kis
+    chv:
+      bicim: kas
+      miras: true
+    crh: kes
+    gag: kes
+    krc: kes
+    kdr: kes
+    kaa: kes
+    kaz: kes
+    kjh: kis
+    klj:
+      bicim: käs
+      miras: true
+    kir: kes
+    kum: ges
+    clw: käs
+    nog: kes
+    atv: kes
+    slr: kes
+    ybe: kes
+    cjs: kes
+    alt: kes
+    tat: kis
+    kim: kes
+    tur: kes
+    tuk: kes
+    tyv: kes
+    uig: käs
+    uzb: kes
+    sty-baraba: kes
+- kok: bıs
+  koken: türkçe
+  ana_turkce: '*bïč-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bıs.yaml).
+  bicimler:
+    dlg: bıs
+    sah: bıs
+yok: []
+tarihi_yok: []

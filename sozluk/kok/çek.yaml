@@ -1,0 +1,50 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çek
+anlam: '"çekmek"'
+koken: türkçe
+ana_turkce: '*ček-'
+kavramlar:
+- cek
+etimoloji: çek- 'çekmek'; DLT'den beri. Oğuz dillerinde ve Halaççada asıl 'çekmek' fiili.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: çäk, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çek, dil: gag, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: çäk, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: çek, dil: tur, kaynak: savelyev-turkic}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: çek, anlam: (yazıya) nokta koymak; (ata) kan aldırmak, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT II 21 (Clauson, çek-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Clauson'a göre asıl anlamı belirsiz; 'çekmek' sonradan yaygınlaşır.}
+  - {dil: xqa, yuzyil: 13, bicim: çek, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. (Clauson, çek-)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: çek, anlam: yolmak, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Rifat 121 (Clauson, çek-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: çek, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 44 (Clauson, çek-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: çek, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 12a 4 (Clauson, çek-)'}
+  - {dil: chg, yuzyil: 16-18, bicim: çek, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 241, Senglâh 219v (Clauson, çek-)'}
+
+yok:
+  sty-baraba: yerine tart (tart)
+  atv: yerine tart (tart)
+  alt: yerine tart (tart)
+  bak: yerine tart (tart)
+  chv: yerine turt (tart)
+  crh: yerine tart (tart)
+  dlg: yerine tart (tart)
+  kaa: yerine tart (tart)
+  krc: yerine tart (tart)
+  kdr: yerine tart (tart)
+  kaz: yerine tart (tart)
+  kjh: yerine tart (tart)
+  kir: yerine tart (tart)
+  kum: yerine tart (tart)
+  clw: yerine tart (tart)
+  nog: yerine tart (tart)
+  slr: yerine taat (tart)
+  ybe: yerine tart (tart)
+  cjs: yerine tart (tart)
+  tat: yerine tart (tart)
+  kim: yerine tırt (tart)
+  tuk: yerine dart (tart)
+  tyv: yerine tırt (tart)
+  uig: yerine tart (tart)
+  uzb: yerine tort (tart)
+  sah: yerine tart (tart)
+tarihi_yok: {}

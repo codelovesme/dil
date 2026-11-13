@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: köt
+anlam: Saha ve Dolgancada "uçmak"
+koken: türkçe
+kavramlar:
+- uc-fiil
+etimoloji: Sahaca ve Dolganca köt-; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: köt, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: köt, dil: sah, kaynak: savelyev-turkic, yazi: көт-}
+
+yok:
+  sty-baraba: yerine oç (uç)
+  atv: yerine uç (uç)
+  alt: yerine uç (uç)
+  aze: yerine uç (uç)
+  bak: yerine os (uç)
+  chv: yerine vĕş (uç)
+  crh: yerine uç (uç)
+  gag: yerine uç (uç)
+  kaa: yerine uş (uç)
+  krc: yerine uç (uç)
+  kdr: yerine uç (uç)
+  kaz: yerine uş (uç)
+  kjh: yerine uçux (uç)
+  klj: yerine uç (uç)
+  kir: yerine uç (uç)
+  kum: yerine uç (uç)
+  clw: yerine uç (uç)
+  nog: yerine uş (uç)
+  slr: yerine uç (uç)
+  ybe: yerine uş (uç)
+  cjs: yerine uçuk (uç)
+  tat: yerine oç (uç)
+  kim: yerine uş (uç)
+  tur: yerine uç (uç)
+  tuk: yerine uç (uç)
+  tyv: yerine uş (uç)
+  uig: yerine uç (uç)
+  uzb: yerine uç (uç)
+tarihi_yok: {}

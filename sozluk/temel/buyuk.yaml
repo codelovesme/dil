@@ -1,52 +1,89 @@
 kavram: büyük
 ingilizce: big
-dogrulandi: false   # örnek veri — kaynaklarla kontrol edilmedi
+anlam: Büyük.
+dogrulandi: false
 kokler:
-  - kok: uluğ
-    tarihi: { otk: uluğ }
-    koken: türkçe
-    kaynak: Orhon yazıtları; DLT
-    bicimler:
-      tuk: uly
-      tat: { bicim: olı, tercih: 0.5 }
-      bak: { bicim: olo, tercih: 0.5 }
-      kum: ullu
-      krc: ullu
-      nog: ullı
-      kir: { bicim: uluu, tercih: 0.5 }
-      uzb: { bicim: uluğ, tercih: 0.5 }
-      uig: { bicim: uluğ, tercih: 0.25 }
-      sah: ulaxan
-      tyv: uluğ
-      kjh: uluğ
-      alt: ulu
-  - kok: bedük
-    tarihi: { otk: bedük }
-    koken: türkçe
-    kaynak: Eski Uygurca; DLT
-    bicimler:
-      chv: pısăk
-      tur: büyük
-      gag: büük
-      aze: böyük
-      crh: büyük
-  - kok: ülken
-    koken: belirsiz
-    not: uluğ ile bağlantısı araştırılmalı.
-    bicimler:
-      kaz: ülken
-      kaa: ülken
-  - kok: çoñ
-    koken: belirsiz
-    bicimler:
-      kir: çoñ
-      uig: çoñ
-  - kok: zur
-    koken: belirsiz
-    bicimler:
-      tat: zur
-      bak: zur
-  - kok: katta
-    koken: belirsiz
-    bicimler:
-      uzb: katta
+- kok: uluğ
+  koken: türkçe
+  ana_turkce: '*uluɣ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uluğ.yaml).
+  tarihi:
+    qwm: ulu
+    otk: uluğ
+  bicimler:
+    bak:
+      bicim: olo
+      tercih: 0.5
+    dlg: ulakan
+    krc: ullu
+    kdr: ullu
+    kjh: uluğ
+    kir:
+      bicim: uluu
+      tercih: 0.5
+    kum: ullu
+    clw: uluğ
+    slr: ullı
+    cjs: uluğ
+    alt: ulu
+    tat:
+      bicim: olı
+      tercih: 0.5
+    kim: uluğ
+    tuk: ulı
+    tyv: uluğ
+    uig:
+      bicim: uluğ
+      tercih: 0.5
+    uzb:
+      bicim: uluğ
+      tercih: 0.5
+    sah: ulaxan
+    sty-baraba: ulı
+- kok: bedük
+  koken: türkçe
+  ana_turkce: '*bedük'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bedük.yaml).
+  bicimler:
+    aze: böyük
+    chv: pısăk
+    crh: büyük
+    gag: büük
+    klj:
+      bicim: büdük
+      miras: true
+    ybe: pezik
+    tur: büyük
+- kok: ülken
+  koken: belirsiz
+  kaynak: savelyev-turkic
+  not: Kazakça, Karakalpakça ve Nogayca ülken; uluğ ile ilişkisi tartışmalı, bu çalışmada
+    araştırılmadı.
+  bicimler:
+    kaa: ülken
+    kaz: ülken
+    nog: üyken
+- kok: çoñ
+  koken: belirsiz
+  kaynak: savelyev-turkic
+  not: Kırgızca ve Uygurca çoñ; kökeni bu çalışmada araştırılmadı.
+  bicimler:
+    kir: çoñ
+    uig: çoñ
+- kok: zur
+  koken: belirsiz
+  kaynak: savelyev-turkic
+  not: Tatarca ve Başkurtça zur; kökeni tartışmalı (Farsça zūr 'güç' ile ilişkilendirilir).
+  bicimler:
+    bak: zur
+    tat: zur
+- kok: katta
+  koken: belirsiz
+  kaynak: savelyev-turkic
+  not: Özbekçe katta; kökeni bu çalışmada araştırılmadı.
+  bicimler:
+    uzb: katta
+yok: []
+tarihi_yok: []

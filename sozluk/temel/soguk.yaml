@@ -1,0 +1,56 @@
+kavram: soğuk
+ingilizce: cold
+anlam: Soğuk.
+dogrulandi: false
+kokler:
+- kok: soğık
+  koken: türkçe
+  ana_turkce: '*sōgïk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/soğık.yaml).
+  tarihi:
+    qwm: sovuk
+    otk: soğık
+  bicimler:
+    aze: soyuk
+    bak: hıwık
+    crh: suvuk
+    gag: suuk
+    krc: suwuk
+    kdr: suvuk
+    kaa: suwık
+    kaz: suık
+    kjh: soox
+    klj:
+      bicim: '? sovuk'
+      miras: true
+    kir: suuk
+    kum: suwuk
+    clw: sook
+    nog: suwık
+    atv: sook
+    slr: sox
+    cjs: sook
+    alt: sook
+    tat: suık
+    kim: sook
+    tur: soğuk
+    tuk: sovuk
+    tyv: sook
+    uig: soğuk
+    uzb: sovuk
+- kok: tımnıı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tımnıı.yaml).
+  bicimler:
+    dlg: tımnıı
+    sah: tımnıı
+- kok: sivĕ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sivĕ.yaml).
+  bicimler:
+    chv: sivĕ
+yok: []
+tarihi_yok: []

@@ -1,0 +1,44 @@
+kavram: boynuz
+ingilizce: horn
+anlam: Boynuz.
+dogrulandi: false
+kokler:
+- kok: müñüz
+  koken: türkçe
+  ana_turkce: '*müŋüŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/müñüz.yaml).
+  tarihi:
+    qwm: müñüz
+    otk: müyüz
+  bicimler:
+    aze: buynuz
+    bak: mögöz
+    chv:
+      bicim: măyraka
+      miras: true
+    crh: boynuz
+    dlg: muos
+    gag: buynuz
+    krc: müyüz
+    kdr: müñüz
+    kaa: müyiz
+    kaz: müyiz
+    kjh: müüs
+    kir: müyüz
+    kum: müyüz
+    clw: müüs
+    nog: müyiz
+    atv: müüs
+    slr: moñus
+    ybe: moñus
+    cjs: müüs
+    alt: müüs
+    tat: mögez
+    kim: miis
+    tur: boynuz
+    tyv: mıyıs
+    uig: müñgüz
+    sah: muos
+yok: []
+tarihi_yok: []

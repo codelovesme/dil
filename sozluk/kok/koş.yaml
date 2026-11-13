@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: koş
+anlam: '"koşmak"'
+koken: türkçe
+kavramlar:
+- kos
+etimoloji: koş- 'koşmak'; Türkiye Türkçesinin asıl 'koşmak' fiili. 'Koşmak, eklemek' anlamlı
+  koş- ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: koş, dil: aze, kaynak: bilgi}
+  - {atif: 'baskakov1977, iz1992', bicim: koş, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine yögir (yügür)
+  atv: yerine tügür (yügür)
+  alt: yerine dügür (yügür)
+  bak: yerine yüger (yügür)
+  dlg: yerine hüür (yügür)
+  kaa: yerine juwır (yügür)
+  kaz: yerine jügir (yügür)
+  kjh: yerine çügür (yügür)
+  klj: yerine yiiir (yügür)
+  kir: yerine jügür (yügür)
+  clw: yerine çügür (yügür)
+  slr: yerine yükür (yügür)
+  cjs: yerine çügür (yügür)
+  tat: yerine yöger (yügür)
+  sah: yerine süür (yügür)
+  chv: yerine çup (çap)
+  crh: yerine çap (çap)
+  krc: yerine çap (çap)
+  kdr: yerine çap (çap)
+  kum: yerine çap (çap)
+  nog: yerine şap (çap)
+  uig: yerine çap (çap)
+  uzb: yerine çop (çap)
+  gag: yerine kaç (kaç)
+  tuk: yerine ılga (ılga)
+  kim: yerine sun (sun)
+  tyv: yerine mañna (mañna)
+tarihi_yok: {}

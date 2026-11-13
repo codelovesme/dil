@@ -1,0 +1,68 @@
+kavram: el
+ingilizce: hand, arm
+anlam: El (ve kol); birçok dilde aynı kelime ikisini karşılar.
+dogrulandi: false
+kokler:
+- kok: kol-ad
+  koken: türkçe
+  ana_turkce: '*kol'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kol-ad.yaml).
+  tarihi:
+    otk: kol
+  bicimler:
+    aze:
+      bicim: kol
+      tercih: 0.5
+    bak: kul
+    chv: xul
+    crh: kol
+    gag:
+      bicim: kol
+      tercih: 0.5
+    krc: kol
+    kdr: kol
+    kaa: kol
+    kaz: kol
+    kjh: xol
+    klj:
+      bicim: kol
+      miras: true
+    kir: kol
+    kum: kol
+    clw: kol
+    nog: kol
+    atv: kol
+    slr: kol
+    ybe: kol
+    cjs: kol
+    alt: kol
+    tat: kul
+    kim: kol
+    tur:
+      bicim: kol
+      tercih: 0.5
+    tuk:
+      bicim: gol
+      tercih: 0.5
+    tyv: xol
+    uig: kol
+    uzb: kol
+    sty-baraba: kol
+- kok: elig
+  koken: türkçe
+  ana_turkce: '*ẹlig'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/elig.yaml).
+  tarihi:
+    qwm: el
+  bicimler:
+    aze: äl
+    chv: ală
+    dlg: ilii
+    gag: el
+    tur: el
+    tuk: el
+    sah: ilii
+yok: []
+tarihi_yok: []

@@ -1,0 +1,58 @@
+kavram: göğüs
+ingilizce: breast, chest
+anlam: Göğüs.
+dogrulandi: false
+kokler:
+- kok: kögüz
+  koken: türkçe
+  ana_turkce: '*kȫküŕ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kögüz.yaml).
+  tarihi:
+    qwm: kögis
+    otk: kögüz
+  bicimler:
+    aze: köks
+    crh: köküs
+    gag: güüs
+    kjh: kögĕs
+    klj:
+      bicim: kies
+      miras: true
+    atv: kögüs
+    ybe: gös
+    alt: kögüs
+    tur: göğüs
+- kok: kökrek
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kökrek.yaml).
+  bicimler:
+    bak: kükräk
+    chv: kăkăr
+    krc: kökürek
+    kdr: kökräk
+    kaa: kökürek
+    kaz: kökirek
+    kir: kökürök
+    kum: kökürek
+    nog: kökirek
+    slr: küpräx
+    tat: kükräk
+    tuk: kükrek
+    uig: kökräk
+    uzb: kökrak
+    sty-baraba: kökräk
+- kok: töş
+  koken: türkçe
+  ana_turkce: '*töš'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/töş.yaml).
+  bicimler:
+    dlg: tüös
+    clw: tös
+    cjs: töş
+    kim: töş
+    sah: tüös
+yok: []
+tarihi_yok: []

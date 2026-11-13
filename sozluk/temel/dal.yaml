@@ -1,0 +1,56 @@
+kavram: dal
+ingilizce: branch
+anlam: Dal (ağaç).
+dogrulandi: false
+kokler:
+- kok: butık
+  koken: türkçe
+  ana_turkce: '*butak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/butık.yaml).
+  tarihi:
+    qwm: butak
+    otk: butık
+    xqa: butık
+    chg: butak
+  bicimler:
+    aze: budağ
+    bak: botak
+    crh: pıtak
+    gag: budak
+    krc: butak
+    kdr: butak
+    kaa: putak
+    kaz: bŭtak
+    kir: butak
+    kum: butak
+    nog: butak
+    atv: pudak
+    slr: putax
+    alt: budak
+    tat: botak
+    kim: butuk
+    tur: budak
+    tyv: buduk
+    uig: putak
+    sty-baraba: botak
+- kok: talak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/talak.yaml).
+  bicimler:
+    dlg: talak
+- kok: çukko
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çukko.yaml).
+  bicimler:
+    ybe: çukko
+- kok: turat
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/turat.yaml).
+  bicimler:
+    chv: turat
+yok: []
+tarihi_yok: []

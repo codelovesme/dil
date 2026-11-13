@@ -1,0 +1,58 @@
+kavram: yumuşak
+ingilizce: soft
+anlam: Yumuşak.
+dogrulandi: false
+kokler:
+- kok: yımşak
+  koken: türkçe
+  ana_turkce: '*yïmšak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yımşak.yaml).
+  tarihi:
+    qwm: yumsak
+    otk: yumşak
+  bicimler:
+    aze: yumşağ
+    bak: yomşak
+    chv: şemşe
+    crh: yımşak
+    gag: yımışak
+    krc: cumuşak
+    kdr: imşax
+    kaa: jumsak
+    kaz: jumsak
+    kjh: nımzax
+    kir: jumşak
+    kum: yımışak
+    clw: çımçak
+    nog: yumsak
+    ybe: yumsak
+    cjs: çımçak
+    alt: dımşax
+    tat: yomşak
+    kim: çımcak
+    tur: yumuşak
+    tuk: yumşak
+    tyv: çımçak
+    uig: yumşak
+    uzb: yumşok
+- kok: sımnağas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sımnağas.yaml).
+  bicimler:
+    sah: sımnağas
+- kok: imiges
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/imiges.yaml).
+  bicimler:
+    dlg: imiges
+- kok: miçex
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/miçex.yaml).
+  bicimler:
+    slr: miçex
+yok: []
+tarihi_yok: []

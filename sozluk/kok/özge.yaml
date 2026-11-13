@@ -1,0 +1,53 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: özge
+anlam: '"başka"'
+koken: türkçe
+kavramlar:
+- baska
+etimoloji: öz 'kendi' gövdesinden özge 'başka'; Kuman, Tuvaca ve Güney Altaycada (öske, öskö).
+  Türkiye Türkçesinde özge 'başka' eskimiş.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: özge
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazımlar oxga, osge.
+  - {atif: baskakov1947, bicim: öskö, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: öske, dil: tyv, kaynak: savelyev-turkic, yazi: өске}
+
+yok:
+  sty-baraba: yerine paşka (başka)
+  aze: yerine başga (başka)
+  bak: yerine başka (başka)
+  crh: yerine başka (başka)
+  gag: yerine başka (başka)
+  kaa: yerine baska (başka)
+  krc: yerine başxa (başka)
+  kdr: yerine baska (başka)
+  kaz: yerine baska (başka)
+  kjh: yerine pasxa (başka)
+  kir: yerine başka (başka)
+  kum: yerine başğa (başka)
+  clw: yerine paska (başka)
+  nog: yerine baska (başka)
+  cjs: yerine paşka (başka)
+  tat: yerine başka (başka)
+  kim: yerine baˁşka (başka)
+  tur: yerine başka (başka)
+  tuk: yerine başga (başka)
+  uig: yerine başka (başka)
+  uzb: yerine boşka (başka)
+  dlg: yerine atın (adın)
+  sah: yerine atın (adın)
+  atv: yerine artan (art)
+  slr: yerine artı (art)
+  chv: yerine urăx (urăx)
+  klj: yerine iieza (iieza)
+tarihi_yok: {}

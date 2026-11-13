@@ -1,0 +1,51 @@
+kavram: ay
+ingilizce: moon; month
+anlam: Ay (gök cismi ve zaman birimi).
+dogrulandi: false
+kokler:
+- kok: ay
+  koken: türkçe
+  ana_turkce: '*āy'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ay.yaml).
+  tarihi:
+    qwm: ay
+    otk: ay
+    eski-anadolu: ay
+  bicimler:
+    aze: ay
+    bak: ay
+    chv:
+      bicim: uyăx
+      miras: true
+    crh: ay
+    dlg: ıy
+    gag: ay
+    krc: ay
+    kdr: ay
+    kaa: ay
+    kaz: ay
+    kjh: ay
+    klj:
+      bicim: haay
+      miras: true
+    kir: ay
+    kum: ay
+    clw: ay
+    nog: ay
+    atv: ay
+    slr: ay
+    ybe: ay
+    cjs: ay
+    alt: ay
+    tat: ay
+    kim: ay
+    tur: ay
+    tuk: ay
+    tyv: ay
+    uig: ay
+    uzb: oy
+    sah: ıy
+    sty-baraba: ay
+yok: []
+tarihi_yok: []

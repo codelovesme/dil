@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: nan
+anlam: '"ile" (ek)'
+koken: türkçe
+kavramlar:
+- ile
+etimoloji: -nan/-nañ eki; Sahaca, Dolganca, Gagavuzca, Hakasça ve Çulımcada. Kökeni ve birle
+  ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: nan, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: -nan, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: -nañ, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: -nañ, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: nan, dil: sah, kaynak: savelyev-turkic, yazi: нан}
+
+yok:
+  atv: yerine bla (birle)
+  krc: yerine bla (birle)
+  kdr: yerine bıla (birle)
+  kum: yerine bulan (birle)
+  cjs: yerine pıla (birle)
+  kaz: yerine men (birle)
+  bak: yerine menän (birle)
+  kaa: yerine menen (birle)
+  kir: yerine menen (birle)
+  chv: yerine -pala (birle)
+  nog: yerine man (birle)
+  alt: yerine -la (birle)
+  aze: yerine ilä (birle)
+  crh: yerine ile (birle)
+  klj: yerine -la (birle)
+  slr: yerine -la (birle)
+  tur: yerine ile (birle)
+  sty-baraba: yerine pilen (birle)
+  tat: yerine belän (birle)
+  tuk: yerine bilen (birle)
+  uig: yerine bilän (birle)
+  uzb: yerine bilan (birle)
+  kim: yerine bile (birle)
+  tyv: yerine bile (birle)
+tarihi_yok: {}

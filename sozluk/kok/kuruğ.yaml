@@ -1,0 +1,71 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kuruğ
+anlam: '"kuru"'
+koken: türkçe
+ana_turkce: '*kurïg'
+kavramlar:
+- kuru
+etimoloji: Ana Türkçe kur- 'kurumak' + -ïg. Bütün kollarda (kuru, koro, xuruğ, kuruk); Kıpçak
+  ve Sayan dillerinde kur- + -gak > kurğak; Saha kuraanax.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: kuru
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım churu.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: kuruğ
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: guru, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: koro, dil: bak, kaynak: savelyev-turkic, yazi: ҡоро}
+  - {atif: useinov2007, bicim: kuru, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kuraanak, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kuru, dil: gag, kaynak: savelyev-turkic, not: kurak da.}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kurğak, dil: krc, kaynak: savelyev-turkic, not: kuru da.}
+  - {atif: baskakov1974, bicim: kurğak, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kurğak, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kurğak, dil: kaz, kaynak: savelyev-turkic, yazi: құрғақ}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xuruğ, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: kurruğ, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kurğak, dil: kir, kaynak: savelyev-turkic, yazi: кургак}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kuru, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kurı, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: kuru, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: kuru, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: kurlüğ, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: kuruğ, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: kurğax, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: korı, dil: tat, kaynak: savelyev-turkic, yazi: коры}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kurğağ, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: kuru, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: gurı, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kurğağ, dil: tyv, kaynak: savelyev-turkic, yazi: кургаг}
+  - {atif: nadzip1968, bicim: kuruk, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kuruk, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kuraanax, dil: sah, kaynak: savelyev-turkic, yazi: кураанах}
+  - {dil: otk, yuzyil: 8-14, bicim: kuruğ, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'M I 17; PP 1 (Clauson, 1 kuruğ)', not: 'Budist metinlerde ''boş, gerçek dışı'' mecazı da.'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: kuruğ, anlam: kuru; boş, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 375, 383 (Clauson, 1 kuruğ)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: kuruğ, anlam: boş yere, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 467 (Clauson, 1 kuruğ)'}
+  - {dil: xqa, yuzyil: 13, bicim: kuruğ, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 219 (Clauson, 1 kuruğ)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: kurı, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 13 (Clauson, 1 kuruğ)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, not: kuru da.}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: kuru, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 145; Nehcü''l-Feradis 8 (Clauson, 1 kuruğ)', not: 'kurı, kuruğ da.'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: kuru, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 6, 1; 27, 1 (Clauson, 1 kuruğ)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: kuru, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 69 (Clauson, 1 kuruğ)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: kuru, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 12a 3 (Clauson, 1 kuruğ)'}
+  - {dil: chg, yuzyil: 16-18, bicim: kuruğ, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 339, Senglâh 286r (Clauson, 1 kuruğ)'}
+
+yok:
+  sty-baraba: yerine kak (kak-kuru)
+  clw: yerine keebiğ (keebiğ)
+  chv: yerine tipĕ (tipĕ)
+tarihi_yok: {}

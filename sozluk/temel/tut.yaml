@@ -1,0 +1,59 @@
+kavram: tut-
+ingilizce: hold, grasp
+anlam: Tutmak, yakalamak.
+dogrulandi: false
+kokler:
+- kok: tut
+  koken: türkçe
+  ana_turkce: '*tut-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tut.yaml).
+  tarihi:
+    qwm: tut
+    otk: tut
+    eski-anadolu: dut, tut
+  bicimler:
+    aze: tut
+    bak: tot
+    chv:
+      bicim: tıt
+      miras: true
+    crh: tut
+    dlg: tut
+    gag: tut
+    krc: tut
+    kdr: tut
+    kaa: tut
+    kaz:
+      bicim: tut
+      tercih: 0.5
+    kjh: '? tut'
+    klj:
+      bicim: tut
+      miras: true
+    kir: '? tut'
+    kum: tut
+    clw: tut
+    nog: tut
+    atv: tut
+    slr: tut
+    ybe: ?? tut
+    cjs: tut
+    alt: tut
+    tat: tot
+    kim: tuˁt
+    tur: tut
+    tuk: tut
+    tyv: tut
+    uig: tut
+    uzb: tut
+    sah: tut
+    sty-baraba: tot
+- kok: usta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/usta.yaml).
+  bicimler:
+    kaz: usta
+yok: []
+tarihi_yok: []

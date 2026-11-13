@@ -130,11 +130,19 @@ Anlaşılırlık ile ikinci dil bilinçli olarak ayrıdır. Halaçlar Azerbaycan
 Türkçesini iyi bilir, ama iki dil birbirinden uzaktır. Hedef 1 kelimenin insanın
 kendi dilinde nasıl duyulduğuyla ilgilendiği için ikinci dil bilgisini saymaz.
 
-**Değerler şimdilik tahminidir.** Yalnızca önemli bağlar girilir, yazılmayan
-çiftler 0 sayılır. Yaklaşık 100 kavram toplandığında bağlar kendi verimizden
-(iki dilin ortak kök oranı ve biçim benzerliği) yeniden hesaplanacak ve
-tahminlerle karşılaştırılacak. Böylece proje ilerledikçe örgü kendi kendini
-düzeltir.
+**Değerler iki kaynaktan gelir.** Elle yazılan değerler alan bilgisine dayanan
+tahminlerdir. [`araclar/orgu.py`](araclar/orgu.py) aynı bağları kendi verimizden
+ölçer: iki dilin asıl biçimlerinin aynı kökten olma oranı × o biçimlerin yazım
+benzerliği. Ölçü elle verilen tahminlere doğrusal olarak uydurulur. Tahmini
+olmayan çiftler bu "beklenen" değerle doldurulur (`ag.yaml`'daki `veriden`
+bölümü). Veriden çok sapan tahminler gerekçesiyle düzeltilir ya da korunur;
+ayrıntı [`ORGU.md`](ORGU.md)'dedir. Yazılmayan çiftler yine 0 sayılır.
+
+Ölçü ses düzenini ve dilbilgisini görmez. Çalışma yazımı da farkları sildiği
+için yakınlığı olduğundan yüksek gösterir. Bu yüzden elle verilen değerin
+yerine kendiliğinden geçmez; yalnız boşlukları doldurur ve denetim sağlar.
+Örgü her kelimede değil, yalnız büyük gözden geçirmelerde yeniden hesaplanır
+(§15). Böylece sonuçlar kelime ekledikçe kendi kendine kaymaz.
 
 ## 3. Hedef 1: Ortak dil
 
@@ -537,3 +545,22 @@ eski tanığın yüzyılı gösterilir. Dizin: [`sozluk/SOZLUK.md`](sozluk/SOZLU
   kelime ilk kez Moğol döneminde ve yalnız Moğolca temaslı dillerde görünüyorsa
   şüphelidir.
 
+## 15. Yöntem sürümü
+
+**Sürüm 1 — 2026-11-13** (197 kavramda yapılan ilk büyük gözden geçirmeden
+sonra; bkz. [`GOZDEN-GECIRME.md`](GOZDEN-GECIRME.md)).
+
+Kurallar ve ayarlar (bu dosya, `hedefler.yaml`, `ag.yaml`) bu sürümde
+dondurulmuştur. Yeni kelimeler bu yöntemle eklenir. Değişiklik ancak iki
+durumda yapılır:
+
+1. **Veride gerçek bir sorun görülürse.** Örneğin bir kural açıkça yanlış
+   sonuç veriyorsa ya da bir veri kaynağı sistemli olarak yanlış okunuyorsa.
+   Bu tür düzeltmeler (yazım aktarımı, tanığın yanlış köke düşmesi gibi)
+   yöntemi değiştirmez, veriyi düzeltir.
+2. **Bir sonraki büyük gözden geçirmede** (~300 kavram). O noktada örgü
+   `araclar/orgu.py --yaz` ile yeniden hesaplanır, ses düzeni ve ayrışan
+   kavramlar yeniden incelenir, açık sorular karara bağlanır ve sürüm
+   numarası artar.
+
+Kural değişiklikleri burada sürüm numarası ve tarihle kaydedilir.

@@ -1,0 +1,54 @@
+kavram: gül-
+ingilizce: laugh
+anlam: Gülmek.
+dogrulandi: false
+kokler:
+- kok: kül
+  koken: türkçe
+  ana_turkce: '*kül-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kül.yaml).
+  tarihi:
+    qwm: kül
+  bicimler:
+    aze: gül
+    bak: köl
+    chv:
+      bicim: kul
+      miras: true
+    crh: kül
+    dlg: kül
+    gag: gül
+    krc: kül
+    kdr: kül
+    kaa: kül
+    kaz: kül
+    kjh: kül
+    klj:
+      bicim: kil
+      miras: true
+    kir: kül
+    kum: küle
+    clw: kül
+    nog: kül
+    atv: kül
+    slr: kul
+    ybe: kül
+    tat: köl
+    tur: gül
+    tuk: gül
+    uig: kül
+    uzb: kul
+    sah: kül
+    sty-baraba: köl
+- kok: katkır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/katkır.yaml).
+  bicimler:
+    cjs: katkır
+    alt: katxır
+    kim: kakkır
+    tyv: kattır
+yok: []
+tarihi_yok: []

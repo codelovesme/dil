@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sağ
+anlam: '"sağ (yön); sağlam"'
+koken: türkçe
+ana_turkce: '*sāg'
+kavramlar:
+- sag
+etimoloji: sağ 'sağlam, iyi; sağ (yön)'. Oğuz dillerinde ve Salarcada asıl 'sağ (yön)' kelimesi.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: sağ, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: saa, dil: gag, kaynak: savelyev-turkic, not: saa taraf.}
+  - {atif: tenisev1976, bicim: sıx, dil: slr, kaynak: savelyev-turkic, not: ağızlarda sax.}
+  - {atif: 'baskakov1977, iz1992', bicim: sağ, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: sağ, dil: tuk, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine oñ (oñ)
+  atv: yerine oñ (oñ)
+  alt: yerine oñ (oñ)
+  bak: yerine uñ (oñ)
+  crh: yerine oñ (oñ)
+  dlg: yerine uña (oñ)
+  kaa: yerine oñ (oñ)
+  krc: yerine oñ (oñ)
+  kdr: yerine oñ (oñ)
+  kaz: yerine oñ (oñ)
+  kjh: yerine oñ (oñ)
+  kir: yerine oñ (oñ)
+  kum: yerine oñ (oñ)
+  clw: yerine oñ (oñ)
+  nog: yerine oñ (oñ)
+  ybe: yerine oñ (oñ)
+  cjs: yerine oñ (oñ)
+  tat: yerine uñ (oñ)
+  kim: yerine oñ (oñ)
+  tyv: yerine oñ (oñ)
+  uig: yerine oñ (oñ)
+  uzb: yerine oñ (oñ)
+  sah: yerine uña (oñ)
+  klj: yerine bod (bod)
+  chv: yerine sıltăm (sıltăm)
+tarihi_yok: {}

@@ -1,0 +1,82 @@
+kavram: kadın
+ingilizce: woman
+anlam: Kadın.
+dogrulandi: false
+kokler:
+- kok: tişi
+  koken: türkçe
+  ana_turkce: '*tiĺi'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tişi.yaml).
+  tarihi:
+    otk: tişi
+  bicimler:
+    krc: tişiriw
+    cjs: tiji kiji
+- kok: katun
+  koken: alıntı:sogd
+  kaynak: savelyev-turkic
+  not: Soğdca xwatēn 'hükümdar eşi, hanım'dan (Clauson). Eski Türkçede 'kraliçe, hanım'; bugün
+    birçok dilde 'kadın, eş'. Alıntı olduğu için seçilmez.
+  tarihi:
+    qwm: katun
+  bicimler:
+    aze: kadın
+    bak: katın
+    crh: kadın
+    kdr: katın
+    kaa: katın
+    kum: katın giši
+    clw: katkizi
+    nog: xatınkız
+    atv: kat
+    slr: katın kiş
+    tat: xatınkız
+    tur: kadın
+    uzb: xotin
+    sty-baraba: katın
+- kok: karı
+  koken: türkçe
+  ana_turkce: '*karï'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/karı.yaml).
+  bicimler:
+    gag: karı
+- kok: ipçi
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ipçi.yaml).
+  bicimler:
+    kjh: ipçi kizi
+- kok: üy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/üy.yaml).
+  bicimler:
+    alt: üy kiji
+- kok: xĕrarăm
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xĕrarăm.yaml).
+  bicimler:
+    chv: xĕrarăm
+- kok: xereejen
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xereejen.yaml).
+  bicimler:
+    tyv: xereejen
+- kok: kohrhınak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kohrhınak.yaml).
+  bicimler:
+    kim: kohrhınak
+- kok: säjdığ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/säjdığ.yaml).
+  bicimler:
+    ybe: säjdığ
+yok: []
+tarihi_yok: []

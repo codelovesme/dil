@@ -1,0 +1,46 @@
+kavram: yılan
+ingilizce: snake
+anlam: Yılan.
+dogrulandi: false
+kokler:
+- kok: yılan
+  koken: türkçe
+  ana_turkce: '*yïlan'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yılan.yaml).
+  tarihi:
+    qwm: yılan
+    otk: yılan
+  bicimler:
+    aze: ilan
+    bak: yılan
+    chv:
+      bicim: şĕlen
+      miras: true
+    crh: yılan
+    gag: yılan
+    krc: jılan
+    kdr: yılan
+    kaa: jılan
+    kaz: jılan
+    kjh: çılan
+    klj:
+      bicim: yilaan
+      miras: true
+    kir: jılan
+    kum: yılan
+    nog: jılan
+    atv: tılan
+    slr: yilan
+    ybe: yılan
+    cjs: çılan
+    alt: dılan
+    tat: yılan
+    tur: yılan
+    tuk: yılan
+    tyv: çılan
+    uig: ilan
+    uzb: ilon
+    sty-baraba: yılan
+yok: []
+tarihi_yok: []

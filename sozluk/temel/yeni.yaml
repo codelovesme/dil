@@ -1,0 +1,47 @@
+kavram: yeni
+ingilizce: new
+anlam: Yeni.
+dogrulandi: false
+kokler:
+- kok: yañı
+  koken: türkçe
+  ana_turkce: '*yaŋï'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yañı.yaml).
+  tarihi:
+    qwm: yañı
+    otk: yañı
+  bicimler:
+    aze: yeni
+    bak: yañı
+    chv:
+      bicim: şĕnĕ
+      miras: true
+    crh: yañı
+    dlg: haña
+    gag: yeni
+    krc: jañı
+    kdr: yañğı
+    kaa: jaña
+    kaz: jaña
+    kjh: naa
+    klj:
+      bicim: yäñgi
+      miras: true
+    kir: jañı
+    kum: yañı
+    clw: ñaa
+    nog: yañı
+    atv: ñañı
+    slr: yañı
+    ybe: yañı
+    cjs: naa
+    alt: dañı
+    tat: yaña
+    kim: ñaa
+    tur: yeni
+    uig: yeñi
+    sah: saña
+    sty-baraba: yaña
+yok: []
+tarihi_yok: []

@@ -1,0 +1,60 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tüş
+anlam: '"düşmek, inmek"'
+koken: türkçe
+ana_turkce: '*tüš-'
+kavramlar:
+- dus
+etimoloji: Ana Türkçe *tüš-. Oğuz'da t- > d- (düş-), Sibirya'da ş > s (tüs-). Kıpçak dillerinde
+  'inmek' anlamına kaymış, 'düşmek' için yıkıl- kullanılır.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tüş
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım tuz-.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tüş
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: düş, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tüs, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: düş, dil: gag, kaynak: savelyev-turkic}
+  - {bicim: tüs, dil: kaz, kaynak: bilgi, yazi: түс-}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tüs, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: tiş, dil: klj, kaynak: savelyev-turkic}
+  - {bicim: tüş, dil: kir, kaynak: bilgi, yazi: түш-}
+  - {atif: baskakov1985, bicim: tüş, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: tüş, dil: alt, kaynak: savelyev-turkic}
+  - {bicim: töş, dil: tat, kaynak: bilgi, yazi: төш-}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tüş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: düş, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: düş, dil: tyv, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tüs, dil: sah, kaynak: savelyev-turkic, yazi: түс-}
+
+yok:
+  sty-baraba: yerine yığıl (yıkıl)
+  bak: yerine yığıl (yıkıl)
+  crh: yerine yıkıl (yıkıl)
+  kaa: yerine jığıl (yıkıl)
+  krc: yerine cığıl (yıkıl)
+  kdr: yerine yığıl (yıkıl)
+  kum: yerine yığıl (yıkıl)
+  nog: yerine yığıl (yıkıl)
+  slr: yerine yıxıl (yıkıl)
+  cjs: yerine çığıl (yıkıl)
+  tuk: yerine yıkıl (yıkıl)
+  uig: yerine jikil (yıkıl)
+  uzb: yerine yikil (yıkıl)
+  chv: yerine ük (ük)
+  clw: yerine añnal (añnal)
+tarihi_yok: {}

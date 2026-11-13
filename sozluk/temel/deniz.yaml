@@ -1,0 +1,35 @@
+kavram: deniz
+ingilizce: sea
+anlam: Deniz.
+dogrulandi: false
+kokler:
+- kok: teñiz
+  koken: türkçe
+  ana_turkce: '*teŋiŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teñiz.yaml).
+  tarihi:
+    qwm: teñiz
+    eski-anadolu: däŋiz
+  bicimler:
+    aze: däniz
+    bak: diñgez
+    crh: deñiz
+    gag: deniz
+    krc: teñiz
+    kdr: teñiz
+    kaa: teñiz
+    kaz: teñiz
+    kir: deñiz
+    kum: deñiz
+    nog: teñiz
+    atv: teñis
+    alt: teñis
+    tat: diñgez
+    tur: deniz
+    tuk: deñiz
+    uig: deñiz
+    uzb: deñiz
+    sty-baraba: täñgis
+yok: []
+tarihi_yok: []

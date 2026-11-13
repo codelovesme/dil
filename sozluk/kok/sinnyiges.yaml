@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sinnyiges
+anlam: Saha ve Dolgancada "ince"
+koken: türkçe
+kavramlar:
+- ince
+etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: hinnyiges, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sinnyiges, dil: sah, kaynak: savelyev-turkic, yazi: синньигэс}
+
+yok:
+  alt: yerine duka (yuka)
+  bak: yerine yoka (yuka)
+  chv: yerine şuğa (yuka)
+  crh: yerine yufka (yuka)
+  kaa: yerine juka (yuka)
+  krc: yerine cuka (yuka)
+  kaz: yerine juka (yuka)
+  kjh: yerine çuğa (yuka)
+  kir: yerine juka (yuka)
+  clw: yerine çuğacaak (yuka)
+  nog: yerine yuka (yuka)
+  slr: yerine yoxpa (yuka)
+  ybe: yerine yuka (yuka)
+  cjs: yerine çuğa (yuka)
+  tat: yerine yuka (yuka)
+  kim: yerine çuğa (yuka)
+  tuk: yerine yuka (yuka)
+  tyv: yerine çuğa (yuka)
+  uig: yerine yupka (yuka)
+  uzb: yerine yupka (yuka)
+  atv: yerine çiçke (ince)
+  aze: yerine incä (ince)
+  gag: yerine incä (ince)
+  kdr: yerine inçke (ince)
+  tur: yerine ince (ince)
+tarihi_yok: {}

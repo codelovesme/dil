@@ -1,0 +1,51 @@
+kavram: bulut
+ingilizce: cloud
+anlam: Bulut.
+dogrulandi: false
+kokler:
+- kok: bulıt
+  koken: türkçe
+  ana_turkce: '*bulït'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bulıt.yaml).
+  tarihi:
+    qwm: bulut
+    otk: bulıt
+    eski-anadolu: bulut
+  bicimler:
+    aze: bulut
+    bak: bolot
+    chv:
+      bicim: pĕlĕt
+      miras: true
+    crh: bulut
+    dlg: bılıt
+    gag: bulut
+    krc: bulut
+    kdr: bulut
+    kaa: bult
+    kaz: bult
+    kjh: pulut
+    klj:
+      bicim: bulıt
+      miras: true
+    kir: bulut
+    kum: bulut
+    clw: pulut
+    nog: bulıt
+    atv: pulut
+    slr: pulut
+    ybe: pulut
+    cjs: pulut
+    alt: bulut
+    tat: bolıt
+    kim: bulut
+    tur: bulut
+    tuk: bulut
+    tyv: bulut
+    uig: bulut
+    uzb: bulut
+    sah: bılıt
+    sty-baraba: polot
+yok: []
+tarihi_yok: []

@@ -1,0 +1,76 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: uç
+anlam: '"uçmak"'
+koken: türkçe
+ana_turkce: '*uč-'
+kavramlar:
+- uc-fiil
+etimoloji: Ana Türkçe *uč-. Bütün kollarda (uç-, uş-, oç-, os-); Çuvaşça vĕş- (ön ses v- ile).
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: uç
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: uç
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: uç
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: اوچمق
+    not: Wiktionary'de mastar biçimiyle uçmak.
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: uç, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: os, dil: bak, kaynak: savelyev-turkic, yazi: оҫ-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: vĕş, dil: chv, kaynak: savelyev-turkic, yazi: вӗҫ-}
+  - {atif: useinov2007, bicim: uç, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: uç, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: uç, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: uç, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: uş, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: uş, dil: kaz, kaynak: savelyev-turkic, yazi: ұш-}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: uçux, dil: kjh, kaynak: savelyev-turkic, not: uç- + -uk.}
+  - {atif: doerfer1980, bicim: uç, dil: klj, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
+  - {atif: 'judakhin1985, judakhin1957', bicim: uç, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: uç, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: uç, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: uş, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: uç, dil: atv, kaynak: savelyev-turkic, not: uş- de.}
+  - {atif: tenisev1976, bicim: uç, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: uş, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: uçuk, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: uç, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: oç, dil: tat, kaynak: savelyev-turkic, yazi: оч-}
+  - {atif: 'rassadin1971, rassadin2005', bicim: uş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: uç, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: uç, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: uş, dil: tyv, kaynak: savelyev-turkic, yazi: уш-}
+  - {atif: nadzip1968, bicim: uç, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: uç, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: oç, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: uç, anlam: ölmek (hükümdar için), metin: Kül Tigin yazıtı, kaynak: clauson, atif: 'Kül Tigin K 1 (Clauson, uç-)'}
+  - {dil: otk, yuzyil: 8-14, bicim: uç, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT I 23, 215 (Clauson, uç-)'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: uç, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 163 (Clauson, uç-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: uç, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 23, 74, 231 (Clauson, uç-)'}
+  - {dil: xqa, yuzyil: 13, bicim: uç, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 6 (Clauson, uç-)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: uç, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 28, 12 (Clauson, uç-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: uç, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 194; Nehcü''l-Feradis 351 (Clauson, uç-)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: uç, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 41, 20 (Clauson, uç-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: uç, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 8 (Clauson, uç-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: chg, yuzyil: 16-18, bicim: uç, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 94-6, Senglâh 62v (Clauson, uç-)'}
+
+yok:
+  dlg: yerine köt (köt)
+  sah: yerine köt (köt)
+tarihi_yok: {}

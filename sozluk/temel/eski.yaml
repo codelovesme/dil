@@ -1,0 +1,53 @@
+kavram: eski
+ingilizce: old (thing)
+anlam: Eski (nesne için).
+dogrulandi: false
+kokler:
+- kok: eski
+  koken: türkçe
+  ana_turkce: '*eski'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/eski.yaml).
+  tarihi:
+    qwm: eski
+    otk: eski
+  bicimler:
+    bak: iske
+    crh: eski
+    gag: eski
+    krc: eski
+    kdr: eski
+    kaa: eski
+    kaz: eskĭ
+    kir: eski
+    kum: esgi
+    nog: eski
+    atv: eski
+    slr: eski
+    cjs: eski
+    alt: eski
+    tat: iske
+    tur: eski
+    uig: äski
+    uzb: eski
+    sty-baraba: eski
+- kok: ergi
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ergi.yaml).
+  bicimler:
+    dlg: erge
+    kjh: irge
+    clw: ärge
+    ybe: erke
+    kim: erhi
+    tyv: ergi
+    sah: erge
+- kok: kivĕ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kivĕ.yaml).
+  bicimler:
+    chv: kivĕ
+yok: []
+tarihi_yok: []

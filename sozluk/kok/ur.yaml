@@ -1,0 +1,53 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ur
+anlam: '"vurmak"'
+koken: türkçe
+ana_turkce: '*ur-'
+kavramlar:
+- vur
+etimoloji: Ana Türkçe *ur-. Oğuz'da v- ön sesiyle vur-, Kıpçak ve Karluk'ta ur-.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: ur
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: vur, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: ur, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: ur, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: ur, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: vur, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ur, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: vur, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ur, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: ur, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ur, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine sok (sok)
+  atv: yerine sok (sok)
+  alt: yerine sok (sok)
+  bak: yerine huğ (sok)
+  kaz: yerine sok (sok)
+  kir: yerine sok (sok)
+  clw: yerine sok (sok)
+  nog: yerine sok (sok)
+  tat: yerine suk (sok)
+  tyv: yerine sok (sok)
+  chv: yerine şap (çap)
+  kjh: yerine sap (çap)
+  slr: yerine çap (çap)
+  cjs: yerine şap (çap)
+  dlg: yerine oğus (oğus)
+  sah: yerine oğus (oğus)
+  kdr: yerine yanç (yanç)
+  gag: yerine döv (döv)
+  ybe: yerine per (per)
+  kim: yerine kak (kak)
+tarihi_yok: {}

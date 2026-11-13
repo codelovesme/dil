@@ -1,0 +1,50 @@
+kavram: uzun
+ingilizce: long
+anlam: Uzun.
+dogrulandi: false
+kokler:
+- kok: uzun
+  koken: türkçe
+  ana_turkce: '*uŕun'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uzun.yaml).
+  tarihi:
+    qwm: uzun
+    otk: uzun
+  bicimler:
+    aze: uzun
+    bak: ozon
+    chv:
+      bicim: vărăm
+      miras: true
+    crh: uzun
+    dlg: uhun
+    gag: uzun
+    krc: uzun
+    kdr: uzun
+    kaa: uzın
+    kaz: uzın
+    kjh: uzun
+    klj:
+      bicim: uzuun
+      miras: true
+    kir: uzun
+    kum: uzun
+    clw: uzun
+    nog: uzın
+    atv: uzun
+    slr: uzun
+    ybe: uzun
+    cjs: uzun
+    alt: uzun
+    tat: ozın
+    kim: uzun
+    tur: uzun
+    tuk: uzın
+    tyv: uzun
+    uig: uzun
+    uzb: uzun
+    sah: uhun
+    sty-baraba: uzın
+yok: []
+tarihi_yok: []

@@ -1,0 +1,63 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: bağır
+anlam: '"karaciğer"'
+koken: türkçe
+ana_turkce: '*bagïr'
+kavramlar:
+- ciger
+etimoloji: Ana Türkçe *bagïr 'karaciğer'. Neredeyse bütün dillerde (bawır, boor, paar, bıar;
+  Çuvaşça pĕvĕr). Türkiye Türkçesinde anlamı 'göğüs'e kaymış.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: bağır
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: tur
+    yuzyil: 16-19
+    bicim: bağır
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: باغر
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: bağır, dil: aze, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle; günlük dilde qara ciyər.}
+  - {atif: 'uraksin1996, uraksin2005', bicim: bawır, dil: bak, kaynak: savelyev-turkic, yazi: бауыр}
+  - {atif: 'asmarin1928, savelyev2011', bicim: pĕvĕr, dil: chv, kaynak: savelyev-turkic, yazi: пӗвӗр}
+  - {atif: 'aksenova1992, stachowski1993', bicim: bıar, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: bawur, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: bavur, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: bawır, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: bawır, dil: kaz, kaynak: savelyev-turkic, yazi: бауыр}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: paar, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: boor, dil: kir, kaynak: savelyev-turkic, yazi: боор}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: bawur, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: paar, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bawır, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: bağır, dil: atv, kaynak: savelyev-turkic, not: paar de.}
+  - {atif: tenisev1976, bicim: pağır, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: pağır, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: paar, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: buur, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: bawır, dil: tat, kaynak: savelyev-turkic, yazi: бавыр}
+  - {atif: 'rassadin1971, rassadin2005', bicim: baar, dil: kim, kaynak: savelyev-turkic}
+  - {anlam: 'göğüs, bağır', bicim: bağır, dil: tur, kaynak: bilgi, not: Türkiye Türkçesinde anlamı 'göğüs'e kaymış; 'karaciğer' için ciğer.}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: bağır, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: baar, dil: tyv, kaynak: savelyev-turkic, yazi: баар}
+  - {atif: nadzip1968, bicim: beğir, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bıar, dil: sah, kaynak: savelyev-turkic, yazi: быар}
+  - {atif: dmitrijeva1981, bicim: bawır, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {dil: otk, yuzyil: 8-14, bicim: bağır, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'U III 79; TT I 221; H I 142 (Clauson, bağır)'}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: bağır, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 360 (Clauson, bağır)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: bedük bağırlığ 'kimseyi dinlemeyen'; duyguların yeri olarak da.}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: bağır, anlam: ciğer; sevgi, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 1482, 2609 (Clauson, bağır)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: bağır, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 47, 15 (Clauson, bağır)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: bağır, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 24; Nehcü''l-Feradis 279 (Clauson, bağır)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: bağır, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 21, 13 (Clauson, bağır)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: bağır, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 33 (Clauson, bağır)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: bawur, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 30b 9 (Clauson, bağır)', not: Türkmencesi bağır diye.}
+  - {dil: chg, yuzyil: 16-18, bicim: bağır, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 125 (Clauson, bağır)'}
+
+yok:
+  uzb: yerine jigar (ciğer, alıntı:fa)
+tarihi_yok: {}

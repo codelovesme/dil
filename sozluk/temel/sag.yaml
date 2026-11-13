@@ -1,0 +1,64 @@
+kavram: sağ (yön)
+ingilizce: right (side)
+anlam: Sağ (yön, el).
+dogrulandi: false
+kokler:
+- kok: oñ
+  koken: türkçe
+  ana_turkce: '*oŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oñ.yaml).
+  tarihi:
+    qwm: oñ
+    otk: oñ
+  bicimler:
+    bak: uñ
+    crh: oñ
+    dlg: uña
+    krc: oñ
+    kdr: oñ
+    kaa: oñ
+    kaz: oñ
+    kjh: oñ
+    kir: oñ
+    kum: oñ
+    clw: oñ
+    nog: oñ
+    atv: oñ
+    ybe: oñ
+    cjs: oñ
+    alt: oñ
+    tat: uñ
+    kim: oñ
+    tyv: oñ
+    uig: oñ
+    uzb: oñ
+    sah: uña
+    sty-baraba: oñ
+- kok: sağ
+  koken: türkçe
+  ana_turkce: '*sāg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sağ.yaml).
+  bicimler:
+    aze: sağ
+    gag: saa
+    slr: sıx
+    tur: sağ
+    tuk: sağ
+- kok: bod
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bod.yaml).
+  bicimler:
+    klj:
+      bicim: bod
+      miras: true
+- kok: sıltăm
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sıltăm.yaml).
+  bicimler:
+    chv: sıltăm
+yok: []
+tarihi_yok: []

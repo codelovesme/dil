@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tük
+anlam: '"kıl, tüy"'
+koken: türkçe
+ana_turkce: '*tüŕ'
+kavramlar:
+- tuy
+etimoloji: tük/tü 'kıl, tüy'. Oğuz'da tüy, öteki dillerde tük; Sahaca tüü, Çuvaşça tĕk.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: tü
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: tük, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: tĕk, dil: chv, kaynak: savelyev-turkic, yazi: тӗк}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tüü, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tüy, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kanatlı tük, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: tik, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tük, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: tük, dil: clw, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: tük, dil: atv, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tük, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: tüy, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tüü, dil: sah, kaynak: savelyev-turkic, yazi: түү}
+
+yok:
+  kjh: yerine çüg (yüñ)
+  cjs: yerine çüg (yüñ)
+  tyv: yerine çüg (yüñ)
+  alt: yerine kanat (kanat)
+  crh: yerine kanat (kanat)
+  tuk: yerine yelek (yelek)
+  slr: yerine mimilux (mimilux)
+tarihi_yok: {}

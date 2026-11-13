@@ -1,0 +1,55 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yarın
+anlam: '"yarın; sabah"'
+koken: türkçe
+ana_turkce: '*yārïn'
+kavramlar:
+- yarin
+etimoloji: Ana Türkçe *yārïn 'sabah, yarın'. Oğuz dillerinde ve Kırım Tatarcasında 'yarın';
+  Çuvaşça ıran.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: yarın
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: yarïn
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: یارین
+  - {atif: 'asmarin1928, savelyev2011', bicim: ıran, dil: chv, kaynak: savelyev-turkic, not: yarın ile denk (Oğur)., yazi: ыран}
+  - {atif: useinov2007, bicim: yarın, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: yarın, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: yarın, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine ärtän (erte)
+  alt: yerine erten (erte)
+  bak: yerine irtägä (erte)
+  kaa: yerine erteñ (erte)
+  kaz: yerine erteñ (erte)
+  kir: yerine erteñ (erte)
+  nog: yerine erten (erte)
+  slr: yerine eetä (erte)
+  tat: yerine irtägä (erte)
+  tuk: yerine ertir (erte)
+  uig: yerine ätä (erte)
+  uzb: yerine erta (erte)
+  atv: yerine tañda (tañ)
+  krc: yerine tambla (tañ)
+  kdr: yerine tañda (tañ)
+  kjh: yerine tañda (tañ)
+  kum: yerine tañala (tañ)
+  clw: yerine tañna (tañ)
+  cjs: yerine tañda (tañ)
+  ybe: yerine tağın (tañ)
+  dlg: yerine harsın (sarsın)
+  sah: yerine sarsın (sarsın)
+  kim: yerine turay (turay)
+  tyv: yerine daarta (daarta)
+tarihi_yok: {}

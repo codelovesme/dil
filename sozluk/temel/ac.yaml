@@ -1,0 +1,54 @@
+kavram: aç-
+ingilizce: open
+anlam: Açmak.
+dogrulandi: false
+kokler:
+- kok: aç
+  koken: türkçe
+  ana_turkce: '*āč-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aç.yaml).
+  tarihi:
+    qwm: aç
+    otk: aç
+  bicimler:
+    aze: aç
+    bak: as
+    chv:
+      bicim: uş
+      miras: true
+    crh: aç
+    gag: aç
+    krc: aç
+    kdr: aç
+    kaa: aş
+    kaz: aş
+    kjh: as
+    klj:
+      bicim: haç
+      miras: true
+    kir: aç
+    kum: aç
+    clw: aç
+    nog: aş
+    atv: aç
+    slr: aç
+    ybe: aş
+    cjs: aş
+    tat: aç
+    kim: aş
+    tur: aç
+    tuk: aç
+    tyv: ajıt
+    uig: aç
+    uzb: oç
+    sah: as
+    sty-baraba: ac
+- kok: arıy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/arıy.yaml).
+  bicimler:
+    dlg: arıy
+yok: []
+tarihi_yok: []

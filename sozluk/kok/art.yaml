@@ -1,0 +1,46 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: art
+anlam: '"artmak, artakalmak"'
+koken: türkçe
+ana_turkce: '*art-'
+kavramlar: [kal, baska]
+etimoloji: art- 'artmak, fazla kalmak'; Kuman ve Güney Altaycada 'kalmak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: noauthor1880, bicim: art, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {atif: baskakov1947, bicim: art, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: 'başka (artan, artı)', atif: baskakov1985, bicim: artan, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: 'başka (artan, artı)', atif: tenisev1976, bicim: artı, dil: slr, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kal (kal)
+  atv: yerine kal (kal)
+  aze: yerine kal (kal)
+  bak: yerine kal (kal)
+  crh: yerine kal (kal)
+  dlg: yerine kaal (kal)
+  gag: yerine kal (kal)
+  kaa: yerine kal (kal)
+  krc: yerine kal (kal)
+  kdr: yerine kal (kal)
+  kaz: yerine kal (kal)
+  kjh: yerine xal (kal)
+  klj: yerine kaal (kal)
+  kir: yerine kal (kal)
+  kum: yerine kal (kal)
+  clw: yerine kal (kal)
+  nog: yerine kal (kal)
+  slr: yerine kal (kal)
+  ybe: yerine kal (kal)
+  cjs: yerine kal (kal)
+  tat: yerine kal (kal)
+  kim: yerine kal (kal)
+  tur: yerine kal (kal)
+  tuk: yerine gal (kal)
+  tyv: yerine kal (kal)
+  uig: yerine kal (kal)
+  uzb: yerine kol (kal)
+  sah: yerine haal (kal)
+  chv: yerine yul (yul)
+tarihi_yok: {}

@@ -1,0 +1,47 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: nerede
+anlam: '"nerede?"; ne + yer + bulunma eki'
+koken: türkçe
+kavramlar:
+- nere
+etimoloji: 'ne "ne" ile yer "yer" birleşiminin bulunma durumu: ne yerde > nerede (Türkiye
+  Türkçesi), nirede (Türkmence), neredi (Gagavuzca). Kırım Tatarcası ve Kumukçada birleşmemiş
+  ne yerde.'
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: useinov2007, bicim: ne yerde, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: neredi, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960', bicim: ne yerde, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: nerede, dil: tur, kaynak: savelyev-turkic}
+  - {bicim: nerede, dil: tur-ege, kaynak: bilgi}
+  - {bicim: nerde, dil: tur-orta, kaynak: bilgi}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: nirede, dil: tuk, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kayda (kayda)
+  atv: yerine kayt (kayda)
+  alt: yerine kayda (kayda)
+  bak: yerine kayza (kayda)
+  kaa: yerine ? kayda (kayda)
+  krc: yerine kayda (kayda)
+  kdr: yerine kayda (kayda)
+  kaz: yerine kayda (kayda)
+  kjh: yerine xayda (kayda)
+  kir: yerine kayda (kayda)
+  clw: yerine kayda (kayda)
+  nog: yerine kajda (kayda)
+  slr: yerine kayda (kayda)
+  ybe: yerine kayta (kayda)
+  cjs: yerine kayda (kayda)
+  tat: yerine kayda (kayda)
+  kim: yerine kayda (kayda)
+  tyv: yerine kayda (kayda)
+  uzb: yerine kayerda (kayda)
+  dlg: yerine kanna (kanda)
+  klj: yerine kaa (kanda)
+  uig: yerine kani (kanda)
+  sah: yerine hanna (kanda)
+  aze: yerine harada (hara)
+  chv: yerine ăşta (ăşta)
+tarihi_yok: {}

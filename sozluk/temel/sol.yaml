@@ -1,0 +1,43 @@
+kavram: sol
+ingilizce: left (side)
+anlam: Sol (yön, el).
+dogrulandi: false
+kokler:
+- kok: sol
+  koken: türkçe
+  ana_turkce: '*sol'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sol.yaml).
+  tarihi:
+    qwm: sol
+    otk: sol
+  bicimler:
+    aze: sol
+    bak: hul
+    crh: sol
+    gag: sol taraf
+    krc: sol
+    kdr: sol
+    kaz: sol
+    kjh: sol
+    kir: sol
+    kum: sol
+    clw: sol
+    nog: sol
+    atv: sol
+    ybe: sol
+    cjs: sol
+    alt: sol
+    tat: sul
+    tur: sol
+    uig: sol
+    sty-baraba: sol
+- kok: xañas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xañas.yaml).
+  bicimler:
+    dlg: kañas
+    sah: xañas
+yok: []
+tarihi_yok: []

@@ -1,0 +1,78 @@
+kavram: yut-
+ingilizce: swallow
+anlam: Yutmak.
+dogrulandi: false
+kokler:
+- kok: yut
+  koken: türkçe
+  ana_turkce: '*yut-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yut.yaml).
+  bicimler:
+    aze: ud
+    bak: yot
+    chv:
+      bicim: şăt
+      miras: true
+    crh: yut
+    gag: yut
+    krc: cut
+    kdr: yut
+    kaa: jut
+    kaz: jut
+    klj:
+      bicim: yuut
+      miras: true
+    kir: jut
+    kum: yut
+    nog: yut
+    atv: yüt
+    alt: dut
+    tat: yot
+    tur: yut
+    tuk: yuwut
+    uig: jut
+    uzb: yut
+    sty-baraba: yut
+- kok: azır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/azır.yaml).
+  bicimler:
+    kjh: azır
+    clw: azır
+    tyv: ajır
+- kok: siñir
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/siñir.yaml).
+  tarihi:
+    otk: siñir
+  bicimler: {}
+- kok: ıyıhın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıyıhın.yaml).
+  bicimler:
+    dlg: ınır
+    sah: ıyıhın
+- kok: batır
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/batır.yaml).
+  bicimler:
+    kim: batır
+- kok: ux-yut
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ux-yut.yaml).
+  bicimler:
+    slr: ux
+- kok: oorta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oorta.yaml).
+  bicimler:
+    cjs: oorta
+yok: []
+tarihi_yok: []

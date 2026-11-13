@@ -1,0 +1,49 @@
+kavram: tuz
+ingilizce: salt
+anlam: Tuz.
+dogrulandi: false
+kokler:
+- kok: tuz
+  koken: türkçe
+  ana_turkce: '*tuŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tuz.yaml).
+  tarihi:
+    qwm: tuz
+    otk: tuz
+  bicimler:
+    aze: duz
+    bak: toz
+    chv:
+      bicim: tăvar
+      miras: true
+    crh: tuz
+    dlg: tüüs
+    gag: tuz
+    krc: tuz
+    kdr: tuz
+    kaa: duz
+    kaz: tŭz
+    kjh: tus
+    klj:
+      bicim: tuuz
+      miras: true
+    kir: tuz
+    kum: tuz
+    clw: tus
+    nog: tuz
+    atv: tus
+    slr: duz
+    ybe: tuz
+    cjs: tus
+    alt: tus
+    tat: toz
+    kim: tus
+    tur: tuz
+    tuk: duz
+    tyv: dus
+    uig: tuz
+    uzb: tuz
+    sah: tuus
+yok: []
+tarihi_yok: []

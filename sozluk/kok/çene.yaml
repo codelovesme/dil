@@ -1,0 +1,36 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çene
+anlam: '"çene"'
+koken: türkçe
+kavramlar:
+- cene
+etimoloji: çene; Oğuz dillerinde (çene, çänä).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: çänä, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çenä, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: çene, dil: tur, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine inäk (eñek)
+  atv: yerine eek (eñek)
+  alt: yerine eek (eñek)
+  bak: yerine eyäk (eñek)
+  kaa: yerine iyek (eñek)
+  kaz: yerine iyek (eñek)
+  kjh: yerine eek (eñek)
+  kir: yerine eek (eñek)
+  clw: yerine eeg (eñek)
+  nog: yerine iyek (eñek)
+  slr: yerine enix (eñek)
+  cjs: yerine eek (eñek)
+  tat: yerine iyäk (eñek)
+  tuk: yerine eñek (eñek)
+  uig: yerine eñäk (eñek)
+  uzb: yerine iyak (eñek)
+  dlg: yerine häñiyä (eñek)
+  sah: yerine señiye (eñek)
+  kim: yerine erin (erin)
+  tyv: yerine segel (segel)
+tarihi_yok: {}

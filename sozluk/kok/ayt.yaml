@@ -1,0 +1,52 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ayt
+anlam: '"söylemek"'
+koken: türkçe
+ana_turkce: '*ayt-'
+kavramlar:
+- de
+etimoloji: Ana Türkçe *ay- 'söylemek' ve ettirgeni *ayt-; Kıpçak, Karluk ve Altay dillerinde
+  asıl 'söylemek' fiili.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: ayt
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - {atif: 'uraksin1996, uraksin2005', bicim: äyt, dil: bak, kaynak: savelyev-turkic, yazi: әйт-}
+  - {atif: useinov2007, bicim: ayt, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: ayt, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: ayt, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: ayt, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: ayt, dil: kaz, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: ayt, dil: kir, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: ayt, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ayt, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: ayt, dil: atv, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: ayt, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: ayt, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: äyt, dil: tat, kaynak: savelyev-turkic, yazi: әйт-}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ayt, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: eyt, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ayt, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: äyt, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  aze: yerine de (te)
+  chv: yerine te (te)
+  dlg: yerine die (te)
+  gag: yerine de (te)
+  kum: yerine de (te)
+  kim: yerine de (te)
+  tur: yerine de (te)
+  sah: yerine die (te)
+  kjh: yerine çooxta (çooxta)
+  tyv: yerine çugaala (çugaala)
+  klj: yerine haay (haay)
+tarihi_yok: {}

@@ -1,0 +1,58 @@
+kavram: onlar
+ingilizce: they
+anlam: Üçüncü çoğul şahıs zamiri.
+dogrulandi: false
+kokler:
+- kok: olar
+  koken: türkçe
+  ana_turkce: '*ol + *-lAr (eğik gövde *an-)'
+  kaynak: savelyev-turkic; clauson
+  not: Tanıklar sözlük maddesinde (sozluk/kok/olar.yaml). Bütün biçimler ol zamirinin çokluğudur;
+    olar ~ anlar/onlar ~ alar ayrımı gövde farkıdır, ayrı kök değildir.
+  tarihi:
+    otk: olar
+    xqa: olar
+    qwm: anlar
+    chg: anlar
+    eski-anadolu: olar
+  bicimler:
+    aze: onlar
+    bak: ular
+    chv:
+      bicim: vĕsem
+      miras: true
+    crh: olar
+    gag: onnar
+    krc: ala
+    kdr: alar
+    kaa: olar
+    kaz: olar
+    kjh: olar
+    klj:
+      bicim: ollar
+      miras: true
+    kir: alar
+    kum: olar
+    clw: olar
+    nog: olar
+    atv: ılar
+    slr: vular
+    ybe: kolar
+    cjs: ılar
+    alt: olor
+    tat: alar
+    kim: olarıñ
+    tur: onlar
+    tuk: olar
+    tyv: olar
+    uig: ular
+    uzb: ular
+- kok: kini
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Yalnız Sahaca ve Dolgancada.
+  bicimler:
+    dlg: giniler
+    sah: kiniler
+yok: []
+tarihi_yok: []

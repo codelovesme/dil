@@ -1,0 +1,57 @@
+kavram: orada
+ingilizce: there
+anlam: O yerde.
+dogrulandi: false
+kokler:
+- kok: anda
+  koken: türkçe
+  ana_turkce: '*anda'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/anda.yaml).
+  tarihi:
+    otk: anta
+  bicimler:
+    bak: unda
+    chv: unta
+    crh: anda
+    dlg: onno
+    krc: anda
+    kdr: anda
+    kaa: anda
+    kaz: onda
+    kjh: anda
+    kir: anda
+    kum: onda
+    clw: anda
+    nog: onda
+    atv: anda
+    slr: anta
+    ybe: anda
+    cjs: anda
+    alt: anda
+    tat: anda
+    kim: ında
+    tyv: ında
+    sah: onno
+    sty-baraba: anda
+- kok: orada
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/orada.yaml).
+  bicimler:
+    aze: orada
+    gag: orada
+    klj:
+      bicim: uora
+      miras: true
+    tur: orada
+- kok: o yerde
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/o yerde.yaml).
+  bicimler:
+    tuk: ol yerde
+    uig: u yärdä
+    uzb: u yerda
+yok: []
+tarihi_yok: []

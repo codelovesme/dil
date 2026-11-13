@@ -1,0 +1,50 @@
+kavram: gel-
+ingilizce: come
+anlam: Konuşanın bulunduğu yere doğru hareket etmek.
+dogrulandi: false
+kokler:
+- kok: kel
+  koken: türkçe
+  ana_turkce: '*kel-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kel.yaml).
+  tarihi:
+    qwm: kel
+    otk: kel
+  bicimler:
+    aze: gäl
+    bak: kil
+    chv:
+      bicim: kil
+      miras: true
+    crh: kel
+    dlg: kel
+    gag: gel
+    krc: kel
+    kdr: kel
+    kaa: kel
+    kaz: kel
+    kjh: kil
+    klj:
+      bicim: käl
+      miras: true
+    kir: kel
+    kum: gel
+    clw: käl
+    nog: kel
+    atv: kel
+    slr: gel
+    ybe: kel
+    cjs: kel
+    alt: kel
+    tat: kil
+    kim: kel
+    tur: gel
+    tuk: gel
+    tyv: kel
+    uig: käl
+    uzb: kel
+    sah: kel
+    sty-baraba: kĕl
+yok: []
+tarihi_yok: []

@@ -1,0 +1,76 @@
+kavram: sinek
+ingilizce: fly (insect)
+anlam: Sinek.
+dogrulandi: false
+kokler:
+- kok: çıbın
+  koken: türkçe
+  ana_turkce: '*čïbïn'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çıbın.yaml).
+  tarihi:
+    qwm: çibin
+  bicimler:
+    bak: seben
+    chv: şăna
+    crh: çibin
+    krc: çibin
+    kdr: cibin
+    kaa: şıbın
+    kaz: şıbın
+    kir: çımın
+    kum: cibin
+    nog: şıbın
+    ybe: çivin
+    alt: çımın
+    tat: çeben
+    uig: çivin
+- kok: siñek
+  koken: türkçe
+  ana_turkce: '*siŋek'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/siñek.yaml).
+  bicimler:
+    gag: sinek
+    kjh: seek
+    kim: seek
+    tur: sinek
+    tuk: siñek
+    tyv: seek
+- kok: kodğu
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kodğu.yaml).
+  tarihi:
+    otk: kodğu
+  bicimler:
+    klj:
+      bicim: gudğu
+      miras: true
+- kok: saxsırga
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/saxsırga.yaml).
+  bicimler:
+    dlg: haksırga
+    sah: saxsırga
+- kok: kögen
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kögen.yaml).
+  bicimler:
+    atv: kögen
+- kok: pohçüin
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/pohçüin.yaml).
+  bicimler:
+    slr: pohçüin
+- kok: çergäy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çergäy.yaml).
+  bicimler:
+    sty-baraba: çergäy
+yok: []
+tarihi_yok: []

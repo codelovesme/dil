@@ -1,0 +1,75 @@
+# sod
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`sod.yaml`](sod.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** "tükürmek" (Eski Türkçe)
+- **Köken:** türkçe
+- **Kavramlar:** [tukur](../temel/tukur.yaml)
+- **Etimoloji:** Eski Türkçe so:d- 'tükürmek' (Uygurca, DLT); bugün kullanılmıyor (Clauson).
+- **En eski tanık:** 8. yy
+
+## Kapsam
+
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 2/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0**
+
+- ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
+- ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
+- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✗ Çağatayca, 15-19. yy
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+
+Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Tuvaca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **sod** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
+| 8.–14. yy | Eski Türkçe |  | **sod** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT III 112 (Clauson, so:d-) |
+| 11. yy | Karahanlıca | Kâşgar | **sod** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT II 295; III 439 (Clauson, so:d-) |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| | Baraba ağzı | | — | | | | kök yok: yerine tökür (tükür) |
+| | Kuzey Altayca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Güney Altayca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine tüpür (tükür) |
+| | Başkurtça | | — | | | | kök yok: yerine tökör (tükür) |
+| | Kırım Tatarcası | | — | | | | kök yok: yerine tükür (tükür) |
+| | Gagavuzca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Karakalpakça | | — | | | | kök yok: yerine tükir (tükür) |
+| | Karaçay-Malkarca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Karayca | | — | | | | kök yok: yerine tikir (tükür) |
+| | Kazakça | | — | | | | kök yok: yerine tükir (tükür) |
+| | Hakasça | | — | | | | kök yok: yerine tükür (tükür) |
+| | Kırgızca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Kumukça | | — | | | | kök yok: yerine tükür (tükür) |
+| | Çulımca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Nogayca | | — | | | | kök yok: yerine tükir (tükür) |
+| | Salarca | | — | | | | kök yok: yerine tüxor (tükür) |
+| | Şorca | | — | | | | kök yok: yerine tükkür (tükür) |
+| | Tatarca | | — | | | | kök yok: yerine töker (tükür) |
+| | Tofaca | | — | | | | kök yok: yerine tükkür (tükür) |
+| | Türkiye Türkçesi | | — | | | | kök yok: yerine tükür (tükür) |
+| | Türkmence | | — | | | | kök yok: yerine tüykür (tükür) |
+| | Uygurca | | — | | | | kök yok: yerine tükür (tükür) |
+| | Özbekçe | | — | | | | kök yok: yerine tupur (tükür) |
+| | Çuvaşça | | — | | | | kök yok: yerine sur (sur) |
+| | Sarı Uygurca | | — | | | | kök yok: yerine tüdeste (tüdeste) |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sillee (sillee) |
+
+## Kaynakça
+
+- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 2 tanık
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

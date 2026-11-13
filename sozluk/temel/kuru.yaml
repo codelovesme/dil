@@ -1,0 +1,67 @@
+kavram: kuru
+ingilizce: dry
+anlam: Kuru.
+dogrulandi: false
+kokler:
+- kok: kuruğ
+  koken: türkçe
+  ana_turkce: '*kurïg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kuruğ.yaml).
+  tarihi:
+    qwm: kuru
+    otk: kuruğ
+    xqa: kuruğ
+    chg: kuru
+  bicimler:
+    aze: guru
+    bak: koro
+    crh: kuru
+    dlg: kuraanak
+    gag: kuru
+    krc: kurğak
+    kdr: kurğak
+    kaa: kurğak
+    kaz: kurğak
+    kjh: xuruğ
+    klj:
+      bicim: kurruğ
+      miras: true
+    kir: kurğak
+    kum: kuru
+    nog: kurı
+    atv: kuru
+    slr: kuru
+    ybe: kurlüğ
+    cjs: kuruğ
+    alt: kurğax
+    tat: korı
+    kim: kurğağ
+    tur: kuru
+    tuk: gurı
+    tyv: kurğağ
+    uig: kuruk
+    uzb: kuruk
+    sah: kuraanax
+- kok: kak-kuru
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kak-kuru.yaml).
+  bicimler:
+    sty-baraba: kak
+- kok: keebiğ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/keebiğ.yaml).
+  bicimler:
+    clw: keebiğ
+- kok: tipĕ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tipĕ.yaml).
+  bicimler:
+    chv:
+      bicim: tipĕ
+      miras: true
+yok: []
+tarihi_yok: []

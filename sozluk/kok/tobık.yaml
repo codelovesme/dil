@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tobık
+anlam: '"aşık kemiği; diz"'
+koken: türkçe
+ana_turkce: '*tobïk'
+kavramlar:
+- diz
+etimoloji: tobık 'aşık kemiği, diz'; Başkurt, Karaçay-Malkar, Kumuk ve Sahacada 'diz'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'uraksin1996, uraksin2005', bicim: tubık, dil: bak, kaynak: savelyev-turkic, yazi: тубыҡ}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tobuk, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tobuk, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tobuk, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tobuk, dil: sah, kaynak: savelyev-turkic, yazi: тобук}
+
+yok:
+  sty-baraba: yerine tiz (tiz)
+  atv: yerine tize (tiz)
+  alt: yerine tize (tiz)
+  aze: yerine diz (tiz)
+  chv: yerine çĕrkuşşi (tiz)
+  crh: yerine tiz (tiz)
+  gag: yerine diz (tiz)
+  kaa: yerine dize (tiz)
+  kdr: yerine tüz (tiz)
+  kaz: yerine tize (tiz)
+  kjh: yerine tizek (tiz)
+  klj: yerine tiiz (tiz)
+  kir: yerine tize (tiz)
+  clw: yerine tizvaazı (tiz)
+  nog: yerine tiz (tiz)
+  slr: yerine tizex (tiz)
+  ybe: yerine tiz (tiz)
+  cjs: yerine tize (tiz)
+  tat: yerine tez (tiz)
+  kim: yerine tiskek (tiz)
+  tur: yerine diz (tiz)
+  tuk: yerine dız (tiz)
+  tyv: yerine diskek (tiz)
+  uig: yerine tiz (tiz)
+  uzb: yerine tiz (tiz)
+tarihi_yok: {}

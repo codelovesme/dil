@@ -1,0 +1,59 @@
+kavram: kök
+ingilizce: root
+anlam: Bitkinin kökü.
+dogrulandi: false
+kokler:
+- kok: kök-bitki
+  koken: türkçe
+  ana_turkce: '*kȫk'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kök-bitki.yaml).
+  bicimler:
+    aze: kök
+    gag: kök
+    tur: kök
+    tuk: kök
+- kok: tamır
+  koken: türkçe
+  ana_turkce: '*tamïr'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tamır.yaml).
+  bicimler:
+    bak: tamır
+    chv: tımar
+    crh: tamır
+    krc: tamır
+    kdr: tamur
+    kaa: tamır
+    kaz: tamır
+    kir: tamır
+    kum: tamur
+    nog: tamır
+    tat: tamır
+    uig: tomur
+    sty-baraba: tamır
+- kok: yıltız
+  koken: türkçe
+  ana_turkce: '*yïltïz'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yıltız.yaml).
+  tarihi:
+    otk: yıltız
+  bicimler:
+    dlg: hilis
+    clw: çıltıs
+    ybe: yıltıs
+    cjs: çıltıs
+    kim: sıldıs
+    uzb: ildiz
+    sah: silis
+- kok: tazıl
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tazıl.yaml).
+  bicimler:
+    atv: tazıl
+    alt: tazıl
+    tyv: dazıl
+yok: []
+tarihi_yok: []

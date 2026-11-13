@@ -1,0 +1,62 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: bak
+anlam: '"bakmak"'
+koken: türkçe
+ana_turkce: '*bak-'
+kavramlar:
+- bak
+etimoloji: Ana Türkçe *bak-. Oğuz dillerinde ve Kuman'da asıl 'bakmak' fiili; Halaçça vak-,
+  Salarca pax-, Çuvaşça păx-.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: bak
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım bag-.
+  - dil: tur
+    yuzyil: 16-19
+    bicim: baq
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: باقمق
+    not: Wiktionary'de mastar biçimiyle baqmaq.
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: bax, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'asmarin1928, savelyev2011', bicim: păx, dil: chv, kaynak: savelyev-turkic, yazi: пӑх-}
+  - {atif: useinov2007, bicim: bak, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: bak, dil: gag, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: bak, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: vak, dil: klj, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: pax, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: bak, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: bak, dil: tuk, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kara (kara)
+  bak: yerine kara (kara)
+  kaa: yerine kara (kara)
+  krc: yerine kara (kara)
+  kaz: yerine kara (kara)
+  kir: yerine kara (kara)
+  kum: yerine kara (kara)
+  nog: yerine kara (kara)
+  ybe: yerine kara (kara)
+  tat: yerine kara (kara)
+  uig: yerine kara (kara)
+  uzb: yerine kara (kara)
+  atv: yerine kör (kör)
+  alt: yerine kör (kör)
+  dlg: yerine kör (kör)
+  kjh: yerine kör (kör)
+  clw: yerine kör (kör)
+  cjs: yerine kör (kör)
+  kim: yerine kör (kör)
+  tyv: yerine kör (kör)
+  sah: yerine kör (kör)
+tarihi_yok: {}

@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çuñkur
+anlam: '"derin; çukur"'
+koken: türkçe
+kavramlar:
+- derin
+etimoloji: çuñ/çuñkur 'derin, çukur'; Türkmen, Uygur ve Özbek dillerinde 'derin'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1968, khamzajev1968', bicim: çuñ, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: çoñkur, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çukur, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine täräñ (teriñ)
+  atv: yerine tereñ (teriñ)
+  alt: yerine tereñ (teriñ)
+  aze: yerine därin (teriñ)
+  bak: yerine tärän (teriñ)
+  chv: yerine tarăn (teriñ)
+  crh: yerine teren (teriñ)
+  dlg: yerine diriñ (teriñ)
+  gag: yerine derin (teriñ)
+  kaa: yerine tereñ (teriñ)
+  krc: yerine teren (teriñ)
+  kdr: yerine teren (teriñ)
+  kaz: yerine tereñ (teriñ)
+  kjh: yerine tireñ (teriñ)
+  kir: yerine tereñ (teriñ)
+  kum: yerine teren (teriñ)
+  clw: yerine täräñ (teriñ)
+  nog: yerine teren (teriñ)
+  slr: yerine tiroñ (teriñ)
+  cjs: yerine tereñ (teriñ)
+  tat: yerine tirän (teriñ)
+  kim: yerine dereñ (teriñ)
+  tur: yerine derin (teriñ)
+  tyv: yerine tereñ (teriñ)
+  sah: yerine diriñ (teriñ)
+tarihi_yok: {}

@@ -1,0 +1,57 @@
+kavram: göz
+ingilizce: eye
+anlam: Görme organı.
+dogrulandi: false
+kokler:
+- kok: köz
+  koken: türkçe
+  ana_turkce: '*köŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köz.yaml).
+  tarihi:
+    qwm: köz
+    otk: köz
+    eski-anadolu: göz
+  bicimler:
+    aze: köz
+    bak: küz
+    chv:
+      bicim: kuş
+      miras: true
+    crh: köz
+    gag: göz
+    krc: köz
+    kdr: köz
+    kaa: köz
+    kaz: köz
+    klj:
+      bicim: köz
+      miras: true
+    kir: köz
+    kum: göz
+    nog: köz
+    atv: kös
+    slr: goz
+    ybe: küz
+    alt: kös
+    tat: küz
+    tur: göz
+    tuk: göz
+    uig: köz
+    uzb: köz
+    sty-baraba: köz
+- kok: karak
+  koken: türkçe
+  ana_turkce: '*karak'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/karak.yaml).
+  bicimler:
+    dlg: karak
+    kjh: xarax
+    clw: karak
+    cjs: karak
+    kim: karak
+    tyv: karak
+    sah: xarax
+yok: []
+tarihi_yok: []

@@ -1,0 +1,49 @@
+kavram: öldür-
+ingilizce: kill
+anlam: Öldürmek.
+dogrulandi: false
+kokler:
+- kok: ölür
+  koken: türkçe
+  ana_turkce: '*ölür-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ölür.yaml).
+  tarihi:
+    otk: ölür
+  bicimler:
+    aze: öldür
+    bak: ülter
+    chv:
+      bicim: vĕler
+      miras: true
+    crh: öldür
+    dlg: ölör
+    gag: öldür
+    krc: öltür
+    kdr: öldir
+    kaa: öltir
+    kaz: öltĭr
+    kjh: öder
+    klj:
+      bicim: hiläär
+      miras: true
+    kir: öltür
+    kum: öltür
+    clw: öölür
+    nog: öltir
+    atv: öltör
+    slr: ölter
+    ybe: yulur
+    cjs: ödür
+    alt: öltür
+    tat: üter
+    kim: ölür
+    tur: öldür
+    tuk: öldür
+    tyv: ölür
+    uig: öltür
+    uzb: öldir
+    sah: ölör
+    sty-baraba: öytir
+yok: []
+tarihi_yok: []

@@ -1,0 +1,66 @@
+kavram: yürü-
+ingilizce: walk
+anlam: Adım atarak ilerlemek.
+dogrulandi: false
+kokler:
+- kok: yorı
+  koken: türkçe
+  ana_turkce: '*yorï-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yorı.yaml).
+  tarihi:
+    qwm: yür
+    otk: yorı
+  bicimler:
+    aze: yeri
+    bak: yörö
+    chv:
+      bicim: şüre
+      miras: true
+    crh: yür
+    gag:
+      bicim: yürü
+      tercih: 0.5
+    krc: cürü
+    kdr: yürü
+    kaa: jür
+    kaz: jür
+    kjh: çör
+    klj:
+      bicim: yorı
+      miras: true
+    kir: jür
+    kum: yürü
+    clw: çör
+    nog: yür
+    atv: tor
+    slr: yür
+    cjs: çör
+    tat: yör
+    kim: çoru
+    tur: yürü
+    tuk: yöre
+    tyv: çoru
+    uig: jür
+    uzb: yur
+    sty-baraba: yör
+- kok: kez
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kez.yaml).
+  bicimler:
+    gag: gez
+- kok: bas
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bas.yaml).
+  bicimler:
+    alt: bas
+- kok: haamp
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/haamp.yaml).
+  bicimler:
+    sah: haamp
+yok: []
+tarihi_yok: []

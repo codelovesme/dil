@@ -1,0 +1,53 @@
+kavram: bil-
+ingilizce: know
+anlam: Bir şeyden haberi olmak, tanımak.
+dogrulandi: false
+kokler:
+- kok: bil
+  koken: türkçe
+  ana_turkce: '*bil-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bil.yaml).
+  tarihi:
+    qwm: bil
+    otk: bil
+  bicimler:
+    aze: bil
+    bak: bel
+    chv: pĕl
+    crh: bil
+    dlg: bil
+    gag: bil
+    krc: bil
+    kdr: bil
+    kaa: bil
+    kaz: bĭl
+    kjh: pil
+    klj:
+      bicim: bil
+      miras: true
+    kir: bil
+    kum: bil
+    clw: pil
+    nog: bil
+    slr: bel
+    ybe: pil
+    cjs: pil
+    alt: bil
+    tat: bel
+    kim: bil
+    tur: bil
+    tuk: bil
+    tyv: bil
+    uig: bil
+    uzb: bil
+    sah: bil
+    sty-baraba: pil
+- kok: oñna
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/oñna.yaml).
+  bicimler:
+    atv: oñna
+yok: []
+tarihi_yok: []

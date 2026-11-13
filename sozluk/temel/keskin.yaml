@@ -1,0 +1,59 @@
+kavram: keskin
+ingilizce: sharp
+anlam: Keskin.
+dogrulandi: false
+kokler:
+- kok: yitig
+  koken: türkçe
+  ana_turkce: '*yitig'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yitig.yaml).
+  tarihi:
+    qwm: iti
+    otk: yiti
+    chg: yitig
+  bicimler:
+    aze: iti
+    chv:
+      bicim: şivĕç
+      miras: true
+    dlg: hıtıı
+    krc: citi
+    kdr: iti
+    kjh: çitig
+    klj:
+      bicim: yitdi
+      miras: true
+    kum: itti
+    clw: çidiğ
+    ybe: ıştığ
+    cjs: çidig
+    kim: çiiti
+    tuk: yiti
+    tyv: çidig
+    sah: sıtıı
+- kok: ötkür
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ötkür.yaml).
+  bicimler:
+    bak: ütker
+    kaa: ötkir
+    kaz: ötkir
+    kir: ötkür
+    nog: ötkir
+    atv: ötkür
+    alt: ötkür
+    tat: ütken
+    uig: ötkür
+    uzb: ötkir
+- kok: keskin
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/keskin.yaml).
+  bicimler:
+    crh: keskin
+    gag: keskin
+    tur: keskin
+yok: []
+tarihi_yok: []

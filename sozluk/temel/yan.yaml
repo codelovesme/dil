@@ -1,0 +1,70 @@
+kavram: yan-
+ingilizce: burn (intr.)
+anlam: Yanmak.
+dogrulandi: false
+kokler:
+- kok: yan
+  koken: türkçe
+  ana_turkce: '*yan-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yan.yaml).
+  bicimler:
+    aze: yan
+    bak: yan
+    chv:
+      bicim: şun
+      miras: true
+    crh: yan
+    gag: yan
+    kdr: yan
+    kaa: jan
+    kaz: jan
+    kir: can
+    kum: yan
+    nog: yan
+    tat: yan
+    tur: yan
+    tuk: yan
+    uig: yan
+    uzb: yon
+    sty-baraba: yan
+- kok: küy
+  koken: türkçe
+  ana_turkce: '*küy-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/küy.yaml).
+  tarihi:
+    qwm: küy
+    otk: küy
+    xqa: küy
+    chg: küy
+  bicimler:
+    krc: küy
+    kjh: köy
+    clw: koy
+    atv: küy
+    slr: köy
+    ybe: küy
+    cjs: köy
+    alt: küy
+- kok: kıp
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kıp.yaml).
+  bicimler:
+    kim: kıp
+    tyv: kıp
+- kok: umay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/umay.yaml).
+  bicimler:
+    sah: umay
+- kok: güdeeriy
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/güdeeriy.yaml).
+  bicimler:
+    dlg: güdeeriy
+yok: []
+tarihi_yok: []

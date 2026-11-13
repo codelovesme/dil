@@ -1,0 +1,65 @@
+kavram: alın
+ingilizce: forehead
+anlam: Alın.
+dogrulandi: false
+kokler:
+- kok: alın
+  koken: türkçe
+  ana_turkce: '*alïn'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/alın.yaml).
+  tarihi:
+    qwm: alın
+    otk: alın
+  bicimler:
+    aze: alın
+    gag: annı
+    klj:
+      bicim: haanlı
+      miras: true
+    ybe: alın
+    tur: alın
+    tuk: alın
+- kok: kabak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kabak.yaml).
+  bicimler:
+    kjh: xamax
+    clw: kamak
+    atv: kabak
+    cjs: kabak
+    tyv: xavak
+- kok: süüs
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/süüs.yaml).
+  bicimler:
+    dlg: hüüs
+    sah: süüs
+- kok: çeke
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çeke.yaml).
+  bicimler:
+    kir: çeke
+- kok: şamka
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şamka.yaml).
+  bicimler:
+    chv: şamka
+- kok: dostak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/dostak.yaml).
+  bicimler:
+    kim: dostak
+- kok: menzi
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/menzi.yaml).
+  bicimler:
+    slr: menzi
+yok: []
+tarihi_yok: []

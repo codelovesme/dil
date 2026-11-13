@@ -1,0 +1,59 @@
+kavram: yaprak
+ingilizce: leaf
+anlam: Yaprak.
+dogrulandi: false
+kokler:
+- kok: yaprak
+  koken: türkçe
+  ana_turkce: '*yapïrgak'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yaprak.yaml).
+  tarihi:
+    qwm: yaprak
+    otk: yapırğak
+  bicimler:
+    aze: yarpak
+    bak: yaprak
+    crh: yaprak
+    gag: yaprak
+    krc: çaprak
+    kdr: yaprak
+    kaa: japırak
+    kaz: japırak
+    kir: jalbırak
+    kum: yapırak
+    nog: yapırak
+    atv: talbırak
+    slr: yarfak
+    alt: dalbrax
+    tat: yafrak
+    tur: yaprak
+    tuk: yaprak
+    uig: yopurmak
+    sty-baraba: yaprak
+- kok: bür
+  koken: türkçe
+  ana_turkce: '*bür'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bür.yaml).
+  bicimler:
+    kjh: pür
+    clw: püür
+    cjs: pür
+    kim: bür
+    tyv: bürü
+- kok: sebirdek
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sebirdek.yaml).
+  bicimler:
+    dlg: hebirdek
+    sah: sebirdex
+- kok: şulşă
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şulşă.yaml).
+  bicimler:
+    chv: şulşă
+yok: []
+tarihi_yok: []

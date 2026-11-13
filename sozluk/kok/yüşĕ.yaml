@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yüşĕ
+anlam: Çuvaşçada "acı, ekşi"
+koken: türkçe
+kavramlar: [aci, eksi]
+etimoloji: Çuvaşça yüşĕ; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'asmarin1928, savelyev2011', bicim: yüşĕ, dil: chv, kaynak: savelyev-turkic, yazi: йӳҫӗ}
+  - {anlam: ekşi, atif: 'asmarin1928, savelyev2011', bicim: yüşĕ, dil: chv, kaynak: savelyev-turkic, yazi: йӳҫӗ}
+
+yok:
+  atv: yerine acığ (açığ)
+  alt: yerine açu (açığ)
+  aze: yerine acı (açığ)
+  bak: yerine äse (açığ)
+  crh: yerine accı (açığ)
+  dlg: yerine ahıı (açığ)
+  gag: yerine acı (açığ)
+  kaa: yerine aşşı (açığ)
+  krc: yerine açı (açığ)
+  kdr: yerine açı (açığ)
+  kaz: yerine aşşı (açığ)
+  kjh: yerine açığ (açığ)
+  klj: yerine haaçuğ (açığ)
+  kir: yerine açuu (açığ)
+  kum: yerine aççı (açığ)
+  clw: yerine açığ (açığ)
+  nog: yerine aşşı (açığ)
+  slr: yerine aacı (açığ)
+  ybe: yerine açığ (açığ)
+  cjs: yerine açığ (açığ)
+  tat: yerine açı (açığ)
+  kim: yerine acığ (açığ)
+  tur: yerine acı (açığ)
+  tuk: yerine acı (açığ)
+  tyv: yerine ajığ (açığ)
+  uig: yerine aççik (açığ)
+  uzb: yerine aççik (açığ)
+  sah: yerine ahıı (açığ)
+tarihi_yok: {}

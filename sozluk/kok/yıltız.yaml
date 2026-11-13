@@ -1,0 +1,48 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yıltız
+anlam: '"kök"'
+koken: türkçe
+ana_turkce: '*yïltïz'
+kavramlar:
+- kok-bitki
+etimoloji: Ana Türkçe *yïltïz; Eski Türkçe yıltız. Özbekçe ildiz, Güney Sibirya çıltıs, Sahaca
+  silis.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: yıltız
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'aksenova1992, stachowski1993', bicim: hilis, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: çıltıs, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: yıltıs, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: çıltıs, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sıldıs, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ildiz, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: silis, dil: sah, kaynak: savelyev-turkic, yazi: силис}
+
+yok:
+  aze: yerine kök (kök-bitki)
+  gag: yerine kök (kök-bitki)
+  tur: yerine kök (kök-bitki)
+  tuk: yerine kök (kök-bitki)
+  sty-baraba: yerine tamır (tamır)
+  bak: yerine tamır (tamır)
+  chv: yerine tımar (tamır)
+  crh: yerine tamır (tamır)
+  kaa: yerine tamır (tamır)
+  krc: yerine tamır (tamır)
+  kdr: yerine tamur (tamır)
+  kaz: yerine tamır (tamır)
+  kir: yerine tamır (tamır)
+  kum: yerine tamur (tamır)
+  nog: yerine tamır (tamır)
+  tat: yerine tamır (tamır)
+  uig: yerine tomur (tamır)
+  atv: yerine tazıl (tazıl)
+  alt: yerine tazıl (tazıl)
+  tyv: yerine dazıl (tazıl)
+tarihi_yok: {}

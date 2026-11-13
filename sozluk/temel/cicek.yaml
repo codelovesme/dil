@@ -1,0 +1,45 @@
+kavram: çiçek
+ingilizce: flower
+anlam: Çiçek.
+dogrulandi: false
+kokler:
+- kok: çeçek
+  koken: türkçe
+  ana_turkce: '*čečäk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çeçek.yaml).
+  tarihi:
+    qwm: çiçek
+    otk: çeçek
+  bicimler:
+    aze: çiçäk
+    bak: säskä
+    crh: çiçek
+    gag: çiçek
+    kdr: çeçägi
+    kum: çeçek
+    nog: şeşekey
+    atv: çejek
+    slr: çiçex
+    ybe: çüçüg
+    alt: çeçek
+    tat: çäçäk
+    tur: çiçek
+    tyv: çeçek
+    uig: çeçäk
+    sty-baraba: çiçäk
+- kok: çakayak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çakayak.yaml).
+  bicimler:
+    kjh: çaxayax
+    cjs: çakkiyek
+- kok: akkaş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/akkaş.yaml).
+  bicimler:
+    kim: akkaş
+yok: []
+tarihi_yok: []

@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ög
+anlam: '"anne" (Eski Türkçe)'
+koken: türkçe
+ana_turkce: '*ȫg'
+kavramlar:
+- ana
+etimoloji: Eski Türkçe ög 'anne'; yaşayan dillerde 'anne' anlamında kalmamış.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: ög
+    kaynak: savelyev-turkic
+    atif: clauson1972
+
+yok:
+  sty-baraba: yerine inä (ana)
+  atv: yerine ene (ana)
+  alt: yerine ene (ana)
+  aze: yerine ana (ana)
+  bak: yerine inä (ana)
+  chv: yerine anne (ana)
+  crh: yerine ana (ana)
+  gag: yerine ana (ana)
+  kaa: yerine ana (ana)
+  krc: yerine ana (ana)
+  kdr: yerine ana (ana)
+  kaz: yerine ana (ana)
+  kir: yerine ene (ana)
+  kum: yerine ana (ana)
+  nog: yerine ana (ana)
+  ybe: yerine ana (ana)
+  cjs: yerine ene (ana)
+  tat: yerine ana (ana)
+  tur: yerine anne (ana)
+  tuk: yerine ene (ana)
+  uig: yerine ana (ana)
+  uzb: yerine ona (ana)
+  dlg: yerine inye (içe)
+  kjh: yerine ice (içe)
+  clw: yerine icä (içe)
+  slr: yerine icä (içe)
+  kim: yerine ihe (içe)
+  tyv: yerine iye (içe)
+  sah: yerine iye (içe)
+tarihi_yok: {}

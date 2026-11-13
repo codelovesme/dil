@@ -5,7 +5,7 @@
 - **Anlam:** Birinci tekil şahıs zamiri; konuşan kişinin kendisi.
 - **İngilizce:** I
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %94 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
+- **Veri kapsaması:** %93 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 5/6
 
 ## Dört hedef
 
@@ -36,7 +36,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Oğur kolu** | epĕ | epĕ | epĕ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | epĕ | epĕ | epĕ | epĕ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | epĕ | epĕ | epĕ | epĕ |
-| &nbsp;&nbsp;**Ortak Türkçe** | men | bän | ben |  |
+| &nbsp;&nbsp;**Ortak Türkçe** | män | bän | ben |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | män | män | män |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | män | män | män | män |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | men | bän | ben |  |
@@ -113,7 +113,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | män | män | män | män |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | män | män | män | män |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | män ↑ | män ↑ | män ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | män | men | min |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | men | men | min |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | min | min | min |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | min | min | min | min |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | min | min | min | min |

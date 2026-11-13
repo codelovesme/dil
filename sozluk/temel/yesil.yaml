@@ -1,0 +1,58 @@
+kavram: yeşil
+ingilizce: green
+anlam: Yeşil.
+dogrulandi: false
+kokler:
+- kok: yaşıl
+  koken: türkçe
+  ana_turkce: '*yāĺïl'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yaşıl.yaml).
+  tarihi:
+    qwm: yaş
+    otk: yaşıl
+    eski-anadolu: yaşıl
+  bicimler:
+    aze: yaşıl
+    bak: yäşel
+    crh: yeşil
+    gag: yeşil
+    krc: jaşıl
+    kdr: yesil
+    kaz: jasıl
+    kir: jaşıl
+    kum: yaşıl
+    nog: yasıl
+    atv: tajıl
+    slr: yaaşıl
+    ybe: yasıl
+    cjs: çajıl
+    alt: dajıl
+    tat: yäşel
+    tur: yeşil
+    tuk: yaşıl
+    uig: yeşil
+    uzb: yaşil
+    sty-baraba: yişil
+- kok: kök
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kök.yaml).
+  bicimler:
+    dlg: küök
+    kaa: kök
+    kjh: kök
+    klj:
+      bicim: küök
+      miras: true
+    clw: kök
+    kim: kök
+    sah: küöx
+- kok: simĕs
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/simĕs.yaml).
+  bicimler:
+    chv: simĕs
+yok: []
+tarihi_yok: []

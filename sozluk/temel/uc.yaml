@@ -1,0 +1,50 @@
+kavram: üç
+ingilizce: three
+anlam: Üç sayısı.
+dogrulandi: false
+kokler:
+- kok: üç
+  koken: türkçe
+  ana_turkce: '*üč'
+  kaynak: savelyev-turkic; clauson; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/üç.yaml).
+  tarihi:
+    otk: üç
+    qwm: üç
+  bicimler:
+    aze: üç
+    bak: ös
+    chv:
+      bicim: viśśĕ
+      miras: true
+    crh: üç
+    dlg: üs
+    gag: üç
+    krc: üç
+    kdr: üç
+    kaa: üş
+    kaz: üş
+    kjh: üs
+    klj:
+      bicim: üüç
+      miras: true
+    kir: üç
+    kum: üç
+    clw: üç
+    nog: üş
+    atv: üç
+    slr: uş
+    ybe: üş
+    cjs: üş
+    alt: üç
+    tat: öç
+    kim: üş
+    tur: üç
+    tuk: üç
+    tyv: üş
+    uig: üç
+    uzb: uç
+    sah: üs
+    sty-baraba: öç
+yok: []
+tarihi_yok: []

@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: teber
+anlam: '"itmek"'
+koken: türkçe
+kavramlar:
+- it-fiil
+etimoloji: tep- 'tekmelemek' + -er; Karaçay-Malkar ve Kumukçada 'itmek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'tenisev1989, sujuncev1965', bicim: teber, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: teber, dil: kum, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine it (it)
+  alt: yerine iyt (it)
+  aze: yerine itälä (it)
+  bak: yerine et (it)
+  crh: yerine ite (it)
+  dlg: yerine üt (it)
+  gag: yerine itir (it)
+  kaa: yerine iyter (it)
+  kdr: yerine iyt (it)
+  kaz: yerine iter (it)
+  kjh: yerine ĕt (it)
+  kir: yerine iter (it)
+  clw: yerine itle (it)
+  nog: yerine iyte (it)
+  slr: yerine işt (it)
+  ybe: yerine işit (it)
+  cjs: yerine it (it)
+  tat: yerine et (it)
+  kim: yerine iˁt (it)
+  tur: yerine it (it)
+  tuk: yerine it (it)
+  tyv: yerine it (it)
+  uig: yerine iştär (it)
+  uzb: yerine itar (it)
+  chv: yerine tĕk (tĕk)
+  sah: yerine as (as-it)
+tarihi_yok: {}

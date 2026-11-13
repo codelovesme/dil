@@ -1,0 +1,45 @@
+kavram: yumurta
+ingilizce: egg
+anlam: Yumurta.
+dogrulandi: false
+kokler:
+- kok: yumurtga
+  koken: türkçe
+  ana_turkce: '*yumurtga'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yumurtga.yaml).
+  tarihi:
+    qwm: yumurtka
+    otk: yumurtğa
+  bicimler:
+    aze: yumurta
+    bak: yomortka
+    chv:
+      bicim: şămarta
+      miras: true
+    crh: yımırta
+    dlg: hımııt
+    gag: yımırta
+    kdr: yumurtxa
+    kaz: jumırtka
+    kjh: nımırxa
+    klj:
+      bicim: yumurka
+      miras: true
+    kir: jumurtka
+    kum: yımırtka
+    clw: çumurtka
+    nog: jumırtka
+    atv: ñımırtka
+    slr: yomurta
+    cjs: nıbırtka
+    alt: dımırtxa
+    tat: yomırka
+    kim: ñumurha
+    tur: yumurta
+    tuk: yumurtğa
+    tyv: çuurğa
+    sah: sımııt
+    sty-baraba: yomırtka
+yok: []
+tarihi_yok: []

@@ -1,0 +1,67 @@
+kavram: ak
+ingilizce: white
+anlam: Ak, beyaz.
+dogrulandi: false
+kokler:
+- kok: ak
+  koken: türkçe
+  ana_turkce: '*āk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ak.yaml).
+  tarihi:
+    qwm: ak
+  bicimler:
+    aze: ağ
+    bak: ak
+    crh: ak
+    gag: ak
+    krc: ak
+    kdr: ak
+    kaa: ak
+    kaz: ak
+    kjh: ax
+    kir: ak
+    kum: ak
+    clw: akvus
+    nog: ak
+    atv: ak
+    slr: ax
+    ybe: ak
+    cjs: ak
+    alt: ak
+    tat: ak
+    kim: ak
+    tur:
+      bicim: ak
+      tercih: 0.5
+    tuk: ak
+    tyv: ak
+    uig: ak
+    uzb: ok
+    sty-baraba: ak
+- kok: ürüñ
+  koken: türkçe
+  ana_turkce: '*ürüŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ürüñ.yaml).
+  tarihi:
+    otk: ürüñ
+  bicimler:
+    klj:
+      bicim: hürün
+      miras: true
+    sah: ürüñ
+- kok: şură
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şură.yaml).
+  bicimler:
+    chv: şură
+- kok: beyaz
+  koken: alıntı:ar
+  kaynak: savelyev-turkic
+  not: Arapça bayāḍ'tan alıntı; seçilmez.
+  bicimler:
+    tur: beyaz
+yok: []
+tarihi_yok: []

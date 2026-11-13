@@ -1,0 +1,90 @@
+kavram: ırmak
+ingilizce: river
+anlam: Irmak, akarsu.
+dogrulandi: false
+kokler:
+- kok: özen
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/özen.yaml).
+  bicimler:
+    crh: özen
+    kdr: özän
+    kaa: özek
+    kaz: özen
+    kum: özen
+    slr: uzen
+- kok: sub
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sub.yaml).
+  bicimler:
+    chv: şıv
+    krc: suw
+    kjh: suğ
+    kir: suu
+    nog: suw
+    atv: suğ
+    ybe: su
+    cjs: suğ
+    alt: suu
+    uig: su
+    sty-baraba: su
+- kok: yılğa
+  koken: türkçe
+  ana_turkce: '*yïlga'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yılğa.yaml).
+  bicimler:
+    bak: yılğa
+    tat: yılğa
+- kok: ögüz
+  koken: türkçe
+  ana_turkce: '*ögüŕ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ögüz.yaml).
+  tarihi:
+    qwm: ögüz
+    otk: ögüz
+  bicimler: {}
+- kok: kem
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kem.yaml).
+  bicimler:
+    kim: hem
+    tyv: xem
+- kok: çay
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çay.yaml).
+  bicimler:
+    aze: çay
+- kok: ırmak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ırmak.yaml).
+  bicimler:
+    tur: ırmak
+- kok: örüs
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/örüs.yaml).
+  bicimler:
+    sah: örüs
+- kok: ebe
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ebe.yaml).
+  bicimler:
+    dlg: ebe
+- kok: çaaban
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çaaban.yaml).
+  bicimler:
+    klj:
+      bicim: çaaban
+      miras: true
+yok: []
+tarihi_yok: []

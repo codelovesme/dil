@@ -1,0 +1,63 @@
+kavram: iyi
+ingilizce: good
+anlam: İyi.
+dogrulandi: false
+kokler:
+- kok: yakşı
+  koken: türkçe
+  ana_turkce: '*yakšï'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yakşı.yaml).
+  tarihi:
+    qwm: yakşı
+    eski-anadolu: yaḫşı
+  bicimler:
+    aze: yaxşı
+    bak: yakşı
+    crh: yaxşı
+    krc: aşxı
+    kdr: yaxşı
+    kaa: jakşı
+    kaz: jakşı
+    kjh: çaxsı
+    kir: jakşı
+    kum: yaxşı
+    clw: çaksı
+    nog: yaxşı
+    atv: takşı
+    slr: yaxşi
+    ybe: yaxşı
+    cjs: çakşı
+    alt: daxşı
+    tat: yaxşı
+    tur:
+      bicim: yahşi
+      tercih: 0.25
+    tuk: yağşı
+    uig: yaxşi
+    uzb: yaxşi
+    sty-baraba: yakşı
+- kok: edgü
+  koken: türkçe
+  ana_turkce: '*edgü'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/edgü.yaml).
+  tarihi:
+    otk: edgü
+  bicimler:
+    aze:
+      bicim: eyi
+      tercih: 0.5
+    gag: iyi
+    kim: ekki
+    tur: iyi
+    tyv: eki
+- kok: üçügey
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/üçügey.yaml).
+  bicimler:
+    dlg: üçügey
+    sah: üçügey
+yok: []
+tarihi_yok: []

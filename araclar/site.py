@@ -158,7 +158,7 @@ def ana_sayfa(site: dict) -> str:
 <section>
   <h2>Kavramlar</h2>
   <ul class="kavram-listesi">{satirlar}</ul>
-  <p><a href="sozluk/SIRA.html">Çalışma sırası</a> · <a href="ILKELER.html">İlkeler</a> ·
+  <p><a href="sozluk/SIRA.html">Çalışma sırası</a> · <a href="ILKELER.html">İlkeler</a> · <a href="GOZDEN-GECIRME.html">Gözden geçirme</a> ·
   <a href="proje.html">Proje</a></p>
 </section>
 """

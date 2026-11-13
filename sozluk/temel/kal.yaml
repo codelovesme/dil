@@ -1,0 +1,60 @@
+kavram: kal-
+ingilizce: remain
+anlam: Bir yerde kalmak, geride kalmak.
+dogrulandi: false
+kokler:
+- kok: kal
+  koken: türkçe
+  ana_turkce: '*kāl-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kal.yaml).
+  tarihi:
+    otk: kal
+  bicimler:
+    aze: kal
+    bak: kal
+    crh: kal
+    dlg: kaal
+    gag: kal
+    krc: kal
+    kdr: kal
+    kaa: kal
+    kaz: kal
+    kjh: xal
+    klj:
+      bicim: kaal
+      miras: true
+    kir: kal
+    kum: kal
+    clw: kal
+    nog: kal
+    atv: kal
+    slr: kal
+    ybe: kal
+    cjs: kal
+    tat: kal
+    kim: kal
+    tur: kal
+    tuk: gal
+    tyv: kal
+    uig: kal
+    uzb: kol
+    sah: haal
+    sty-baraba: kal
+- kok: art
+  koken: türkçe
+  ana_turkce: '*art-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/art.yaml).
+  tarihi:
+    qwm: art
+  bicimler:
+    alt: art
+- kok: yul
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yul.yaml).
+  bicimler:
+    chv: yul
+yok: []
+tarihi_yok: []

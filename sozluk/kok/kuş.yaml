@@ -1,0 +1,65 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kuş
+anlam: '"kuş"'
+koken: türkçe
+ana_turkce: '*kuĺ'
+kavramlar:
+- kus
+etimoloji: Ana Türkçe *kuĺ. Kıpçak'ta kus, Kıpçak-Bulgar koş, Hakasça xus.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: kuş
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım kus.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: kuş
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: quş
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: قوش
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kuş, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: koş, dil: bak, kaynak: savelyev-turkic, yazi: ҡош}
+  - {atif: useinov2007, bicim: kuş, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kuş, dil: gag, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: kuş, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kus, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kus, dil: kaz, kaynak: savelyev-turkic, yazi: құс}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xus, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kuş, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: kus, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kus, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: kuş, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: kuş, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: kus, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: kuş, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: kuş, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: koş, dil: tat, kaynak: savelyev-turkic, yazi: кош}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kuşkaş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: kuş, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: guş, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kuş, dil: tyv, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: kuş, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kuş, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: kuş, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  krc: yerine kanatlı (kanat)
+  kir: yerine kanattuu (kanat)
+  dlg: yerine kötör (kötör)
+  sah: yerine kötör (kötör)
+  chv: yerine kayăk (kayăk)
+tarihi_yok: {}

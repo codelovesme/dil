@@ -1,0 +1,56 @@
+kavram: al-
+ingilizce: take
+anlam: Bir şeyi tutup kendine geçirmek.
+dogrulandi: false
+kokler:
+- kok: al
+  koken: türkçe
+  ana_turkce: '*al-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/al.yaml).
+  tarihi:
+    qwm: al
+    otk: al
+    eski-anadolu: al
+  bicimler:
+    aze: al
+    bak: al
+    chv: il
+    crh: al
+    dlg: ıl
+    gag: al
+    krc: al
+    kdr: al
+    kaa: al
+    kaz: al
+    kjh: al
+    klj:
+      bicim: al
+      miras: true
+    kir: al
+    kum: al
+    clw: al
+    nog: al
+    atv: al
+    slr: al
+    ybe: al
+    cjs: al
+    alt: al
+    tat: al
+    kim: al
+    tur: al
+    tuk: al
+    tyv: al
+    uig: al
+    uzb: ol
+    sah: ıl
+    sty-baraba: al
+- kok: kötür
+  koken: türkçe
+  ana_turkce: '*köt(ü)r-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kötür.yaml).
+  bicimler:
+    aze: götür
+yok: []
+tarihi_yok: []

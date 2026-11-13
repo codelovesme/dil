@@ -1,0 +1,62 @@
+kavram: kuş
+ingilizce: bird
+anlam: Kuş.
+dogrulandi: false
+kokler:
+- kok: kuş
+  koken: türkçe
+  ana_turkce: '*kuĺ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kuş.yaml).
+  tarihi:
+    qwm: kuş
+    otk: kuş
+    eski-anadolu: quş
+  bicimler:
+    aze: kuş
+    bak: koş
+    crh: kuş
+    gag: kuş
+    kdr: kuş
+    kaa: kus
+    kaz: kus
+    kjh: xus
+    kum: kuş
+    clw: kus
+    nog: kus
+    atv: kuş
+    slr: kuş
+    ybe: kus
+    cjs: kuş
+    alt: kuş
+    tat: koş
+    kim: kuşkaş
+    tur: kuş
+    tuk: guş
+    tyv: kuş
+    uig: kuş
+    uzb: kuş
+    sty-baraba: kuş
+- kok: kanat
+  koken: türkçe
+  ana_turkce: '*kanat'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kanat.yaml).
+  bicimler:
+    krc: kanatlı
+    kir: kanattuu
+- kok: kötör
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kötör.yaml).
+  bicimler:
+    dlg: kötör
+    sah: kötör
+- kok: kayăk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kayăk.yaml).
+  bicimler:
+    chv: kayăk
+yok: []
+tarihi_yok: []

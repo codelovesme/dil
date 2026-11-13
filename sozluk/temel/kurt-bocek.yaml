@@ -1,0 +1,62 @@
+kavram: kurt (böcek)
+ingilizce: worm
+anlam: Kurt, solucan.
+dogrulandi: false
+kokler:
+- kok: kurt
+  koken: türkçe
+  ana_turkce: '*kurt'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kurt.yaml).
+  tarihi:
+    qwm: kurt
+    otk: kurt
+  bicimler:
+    aze: kurd
+    chv:
+      bicim: xurt
+      miras: true
+    crh: kurt
+    gag: kurt
+    krc: kurt
+    kdr: kurt
+    kaa: kurt
+    kaz: kŭrt
+    kjh: xurt
+    klj:
+      bicim: kuurt
+      miras: true
+    kir: kurt
+    kum: xurt
+    clw: kurt
+    nog: kurt
+    atv: kurt
+    cjs: kurt
+    alt: kurt 'worm'
+    tat: kort
+    kim: kuˁrt
+    tur: kurt
+    tuk: gurçuk
+    tyv: kurt
+    uig: kurut
+    sty-baraba: kort
+- kok: seläwsen
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/seläwsen.yaml).
+  bicimler:
+    bak: seläwsen
+- kok: sugulcıñ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sugulcıñ.yaml).
+  bicimler:
+    slr: sugulcıñ
+- kok: çuvalçañ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çuvalçañ.yaml).
+  bicimler:
+    uzb: çuvalçañ
+yok: []
+tarihi_yok: []

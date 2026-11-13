@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: sıkta
+anlam: '"hıçkırarak ağlamak"'
+koken: türkçe
+kavramlar:
+- agla
+etimoloji: sıkta- 'hıçkırarak ağlamak'; Baraba ağzında ve Çulımcada 'ağlamak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: savelyev2015, bicim: sıkta, dil: clw, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: sıkta, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine ıla (ığla)
+  alt: yerine ıyla (ığla)
+  bak: yerine ila (ığla)
+  kaa: yerine jıla (ığla)
+  krc: yerine jıla (ığla)
+  kdr: yerine yıla (ığla)
+  kaz: yerine jıla (ığla)
+  kjh: yerine ılğa (ığla)
+  klj: yerine hığla (ığla)
+  kir: yerine ıyla (ığla)
+  kum: yerine yıla (ığla)
+  nog: yerine yıla (ığla)
+  slr: yerine yığla (ığla)
+  ybe: yerine yığla (ığla)
+  cjs: yerine ılğa (ığla)
+  tat: yerine yıla (ığla)
+  kim: yerine ığla (ığla)
+  tyv: yerine ığla (ığla)
+  uig: yerine jiğlä (ığla)
+  uzb: yerine yiğla (ığla)
+  aze: yerine ağla (ığla)
+  crh: yerine ağla (ığla)
+  gag: yerine aala (ığla)
+  tur: yerine ağla (ığla)
+  tuk: yerine ağla (ığla)
+  dlg: yerine ıtaa (ıtaa)
+  sah: yerine ıtaa (ıtaa)
+  chv: yerine măkăr (măkăr)
+tarihi_yok: {}

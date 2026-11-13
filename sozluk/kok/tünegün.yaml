@@ -1,0 +1,53 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tünegün
+anlam: '"dün"; tün "gece" + kün "gün"'
+koken: türkçe
+kavramlar:
+- dun
+etimoloji: tün 'gece' ile kün 'gün' birleşimi (tünegün > tünügün > dün). Oğuz, Kafkas Kıpçak,
+  Kırım, Nogay, Uygur ve Sayan dillerinde 'dün'.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tünekün
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazımlar tunacun, tunachu.
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: dünän, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: tünevin, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: dün, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tünene, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: tünegün, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tünegün, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: tünegün, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: düün, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: dün, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: düyn, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: düün, dil: tyv, kaynak: savelyev-turkic, yazi: дүүн}
+  - {atif: nadzip1968, bicim: tünügün, dil: uig, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine kece (keçe)
+  alt: yerine keçe (keçe)
+  bak: yerine kisä (keçe)
+  kaa: yerine keşe (keçe)
+  kaz: yerine keşe (keçe)
+  kjh: yerine kicee (keçe)
+  kir: yerine keçee (keçe)
+  clw: yerine käcee (keçe)
+  slr: yerine keece (keçe)
+  cjs: yerine keçe (keçe)
+  tat: yerine kiçä (keçe)
+  uzb: yerine keça (keçe)
+  dlg: yerine begehee (begehee)
+  sah: yerine begehee (begehee)
+  klj: yerine äñgür (äñgür)
+  chv: yerine ĕner (ĕner)
+  ybe: yerine tuğın (tuğın)
+tarihi_yok: {}

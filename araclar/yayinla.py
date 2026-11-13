@@ -30,6 +30,20 @@ import puanla as P  # noqa: E402
 import sozluk as S  # noqa: E402
 
 KOK = P.KOK_DIZIN
+
+# Aynı kavramın hedef seçimleri birkaç çıktıda kullanılır; bir kez hesaplanır.
+_secim_onbellek: dict = {}
+_asil_secimler = P.hedef_secimleri
+
+
+def _onbellekli_secimler(kv, agac, hedefler):
+    anahtar = (str(kv.yol), id(hedefler))
+    if anahtar not in _secim_onbellek:
+        _secim_onbellek[anahtar] = _asil_secimler(kv, agac, hedefler)
+    return _secim_onbellek[anahtar]
+
+
+P.hedef_secimleri = _onbellekli_secimler
 URETILDI = "> Bu sayfa `python3 araclar/yayinla.py` ile üretilir; elle düzenlemeyin."
 
 
@@ -192,7 +206,8 @@ def _baslik(metin: str, yedek: str) -> str:
 
 def site_json(ciktilar: dict[Path, str], kavramlar, agac, hedefler, b, maddeler) -> str:
     sabit = [("README.md", "Proje", "proje"), ("ILKELER.md", "İlkeler", "ilke"),
-             ("sozluk/SIRA.md", "Çalışma sırası", "dizin")]
+             ("sozluk/SIRA.md", "Çalışma sırası", "dizin"), ("GOZDEN-GECIRME.md", "Gözden geçirme", "proje"),
+             ("ORGU.md", "Örgü denetimi", "proje")]
     sayfalar = []
     for yol, baslik, tur in sabit:
         sayfalar.append({"yol": yol, "baslik": baslik, "tur": tur})

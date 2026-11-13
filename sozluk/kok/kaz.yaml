@@ -1,0 +1,70 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: kaz
+anlam: '"kazmak"'
+koken: türkçe
+ana_turkce: '*kāz-'
+kavramlar:
+- kaz
+etimoloji: Ana Türkçe *kāz-. Bütün kollarda; Sibirya'da kas-, Saha xas-, Azerbaycan ve Özbek
+  kazı-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: kaz
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+    not: Latin harfli yazım kas.
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: kaz
+    kaynak: savelyev-turkic
+    atif: clauson1972
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kazı, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: kaz, dil: bak, kaynak: savelyev-turkic, yazi: ҡаҙ-}
+  - {atif: useinov2007, bicim: kaz, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kas, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kaz, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kaz, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: kaz, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kaz, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kaz, dil: kaz, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xas, dil: kjh, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: kaz, dil: klj, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kaz, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kaz, dil: kum, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: kas, dil: clw, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kazı, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: kas, dil: atv, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: kazı, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: kaz, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: kas, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: kas, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: kaz, dil: tat, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kaz, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: kaz, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: gaz, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kaz, dil: tyv, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: kaz, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kazi, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xas, dil: sah, kaynak: savelyev-turkic, yazi: хас-}
+  - {atif: dmitrijeva1981, bicim: kas, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: kaz, anlam: kazmak; (at) yeri eşelemek, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT II 10 (Clauson, kaz-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: kaz, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 1734 (Clauson, kaz-)'}
+  - {dil: xqa, yuzyil: 13, bicim: kaz, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 338 (Clauson, kaz-)'}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: kaz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 9, 3 (Clauson, kaz-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: kaz, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 137 (Clauson, kaz-)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: kaz, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 37, 17 (Clauson, kaz-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: kaz, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 71 (Clauson, kaz-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: kaz, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 13b 5 (Clauson, kaz-)'}
+  - {dil: chg, yuzyil: 16-18, bicim: kaz, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 272v (Clauson, kaz-)'}
+
+yok:
+  chv: yerine çav (çav)
+tarihi_yok: {}

@@ -1,0 +1,165 @@
+# git-/bar-
+
+> Bu sayfa `python3 araclar/yayinla.py` ile üretilir; elle düzenlemeyin. Veri: [`git.yaml`](git.yaml).
+
+- **Anlam:** Bir yerden başka bir yere doğru hareket etmek, uzaklaşmak.
+- **İngilizce:** go
+- **Durum:** henüz kaynakla doğrulanmadı
+- **Veri kapsaması:** %84 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 2/6
+
+## Dört hedef
+
+| Hedef | Soru | Seçim | Kök |
+|---|---|---|---|
+| 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **bar** | [bar](../kok/bar.md) |
+| 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **bar** | [bar](../kok/bar.md) |
+| 3. En çok kişinin anladığı | En fazla insan anlasın. | **bar** | [bar](../kok/bar.md) |
+| 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [bar](../kok/bar.md) (seviye 0), [ket](../kok/ket.md) (seviye 0) |
+
+İlk üç hedef **uyuşuyor**.
+
+## Adaylar ve ölçüler
+
+| Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
+|---|---|---|---|---|---|---|
+| [bar](../kok/bar.md) | türkçe | 0.99 (*bar*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~137 milyon (%71, *bar*) | *bar- |
+| [ket](../kok/ket.md) | türkçe | -0.34 (*git*) | Çuvaşça %0 | Batı Oğuz (2 hat) | ~140 milyon (%72, *git*) | *ket- |
+
+**Büyük topluluklarda *bar* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Çuvaşça %79, Karakalpakça %80, Özbekçe %88, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Sahaca %100, Tuvaca %100.
+
+## Ağaç üzerinde seçimler
+
+Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **↑**: bu düğümde Türkçe aday yok, üstten alındı (canlandırma).
+
+| Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
+|---|---|---|---|---|
+| **Türk dilleri** | bar | bar | bar |  |
+| &nbsp;&nbsp;**Oğur kolu** | pır | pır | pır |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | pır | pır | pır | pır |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | pır | pır | pır | pır |
+| &nbsp;&nbsp;**Ortak Türkçe** | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | var | var | var |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | var | var | var | var |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | bar | bar | *git* (ket) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *git* (ket) | *git* (ket) | git |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | git | git | git |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | git | git | git | git |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | git | git | git | git |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | git | git | git | git |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | git | git | git | git |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | git ↑ | git ↑ | git ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | get | get | get |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | get | get | get | get |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | get | get | get | get |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | get ↑ | get ↑ | get ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | bar ↑ | bar ↑ | git ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | bar ↑ | bar ↑ | git ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | bar | bar | *bar* (bar) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | bar | bar | *bar* (bar) | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | ? bar | ? bar | ? bar | ? bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? bar | ? bar | ? bar | ? bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | bar | bar | bor |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | bor | bor | bor | bor |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bor | bor | bor | bor |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | bar | par | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | bar | bar | bar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | bar | bar | bar | bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | bar ↑ | bar ↑ | bar ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | par | par | par |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | par | par | par | par |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | par ↑ | par ↑ | par ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | par- ~ bar | par- ~ bar | par- ~ bar | par- ~ bar |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | par- ~ bar | par- ~ bar | par- ~ bar | par- ~ bar |
+
+## Dillerdeki biçimler
+
+| Kol | Dil | Ağız | bar | ket |
+|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | pır |  |
+| Halaç kolu | Halaçça |  | var |  |
+| Oğuz kolu | Türkiye Türkçesi |  |  | git |
+| Oğuz kolu | Gagavuzca |  |  | git |
+| Oğuz kolu | Azerbaycan Türkçesi |  |  | get |
+| Oğuz kolu | Türkmence |  | bar |  |
+| Oğuz kolu | Salarca |  | bar |  |
+| Kıpçak kolu | Tatarca |  | bar |  |
+| Kıpçak kolu | Başkurtça |  | bar |  |
+| Kıpçak kolu | Kırım Tatarcası |  | bar |  |
+| Kıpçak kolu | Karayca |  | bar |  |
+| Kıpçak kolu | Kumukça |  | bar |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | bar |  |
+| Kıpçak kolu | Kazakça |  | bar |  |
+| Kıpçak kolu | Karakalpakça |  | ? bar |  |
+| Kıpçak kolu | Nogayca |  | bar |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | bar |  |
+| Kıpçak kolu | Kırgızca |  | bar |  |
+| Kıpçak kolu | Güney Altayca |  | bar |  |
+| Karluk kolu | Özbekçe |  | bor |  |
+| Karluk kolu | Uygurca |  | bar |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | bar |  |
+| Sibirya kolu | Dolganca |  | bar |  |
+| Sibirya kolu | Sarı Uygurca |  | par |  |
+| Sibirya kolu | Tuvaca |  | bar |  |
+| Sibirya kolu | Tofaca |  | bar |  |
+| Sibirya kolu | Hakasça |  | par |  |
+| Sibirya kolu | Şorca |  | par |  |
+| Sibirya kolu | Çulımca |  | par |  |
+| Sibirya kolu | Kuzey Altayca |  | par- ~ bar |  |
+
+**Tarihî tanıklar:** Eski Türkçe *bar*; Kuman-Kıpçakça *bar*.
+

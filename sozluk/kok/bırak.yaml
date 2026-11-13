@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: bırak
+anlam: '"bırakmak; atmak"'
+koken: türkçe
+ana_turkce: '*bïrak-'
+kavramlar:
+- at
+etimoloji: bırak- 'bırakmak'; Sahaca, Dolganca ve Çuvaşçada (părax-) 'atmak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'asmarin1928, savelyev2011', bicim: părax, dil: chv, kaynak: savelyev-turkic, yazi: пӑрах-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: bırak, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bırax, dil: sah, kaynak: savelyev-turkic, yazi: быраҕ-}
+
+yok:
+  aze: yerine at (at-fiil)
+  crh: yerine at (at-fiil)
+  gag: yerine at (at-fiil)
+  krc: yerine at (at-fiil)
+  kdr: yerine at (at-fiil)
+  klj: yerine hat (at-fiil)
+  tur: yerine at (at-fiil)
+  sty-baraba: yerine taşla (taşla)
+  alt: yerine taşta (taşla)
+  bak: yerine taşla (taşla)
+  kjh: yerine tasta (taşla)
+  kir: yerine taşta (taşla)
+  kum: yerine taşla (taşla)
+  clw: yerine tasta (taşla)
+  cjs: yerine taşta (taşla)
+  tat: yerine taşla (taşla)
+  tuk: yerine taşla (taşla)
+  tyv: yerine daja (taşla)
+  uig: yerine taşla (taşla)
+  uzb: yerine taşla (taşla)
+  kaa: yerine ılaktır (laktır)
+  kaz: yerine laktır (laktır)
+  nog: yerine bılaktır (laktır)
+  atv: yerine çel (çel)
+  ybe: yerine tarda (tarda)
+  kim: yerine kağ (kağ)
+tarihi_yok: {}

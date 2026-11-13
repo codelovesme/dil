@@ -1,0 +1,56 @@
+kavram: ince
+ingilizce: thin
+anlam: İnce (yassı şey için yuka, uzun şey için ince).
+dogrulandi: false
+kokler:
+- kok: yuka
+  koken: türkçe
+  ana_turkce: '*yuka'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yuka.yaml).
+  tarihi:
+    otk: yuka
+    qwm: yupka
+  bicimler:
+    bak: yoka
+    chv:
+      bicim: şuğa
+      miras: true
+    crh: yufka
+    krc: cuka
+    kaa: juka
+    kaz: juka
+    kjh: çuğa
+    kir: juka
+    clw: çuğacaak
+    nog: yuka
+    slr: yoxpa
+    ybe: yuka
+    cjs: çuğa
+    alt: duka
+    tat: yuka
+    kim: çuğa
+    tuk: yuka
+    tyv: çuğa
+    uig: yupka
+    uzb: yupka
+- kok: ince
+  koken: türkçe
+  ana_turkce: '*inčge'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ince.yaml).
+  bicimler:
+    aze: incä
+    gag: incä
+    kdr: inçke
+    atv: çiçke
+    tur: ince
+- kok: sinnyiges
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sinnyiges.yaml).
+  bicimler:
+    dlg: hinnyiges
+    sah: sinnyiges
+yok: []
+tarihi_yok: []

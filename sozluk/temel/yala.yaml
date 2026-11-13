@@ -1,0 +1,49 @@
+kavram: yala-
+ingilizce: lick
+anlam: Yalamak.
+dogrulandi: false
+kokler:
+- kok: yalğa
+  koken: türkçe
+  ana_turkce: '*yalga-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yalğa.yaml).
+  tarihi:
+    qwm: yala
+    otk: yalğa
+  bicimler:
+    aze: yala
+    bak: yala
+    chv:
+      bicim: şulla
+      miras: true
+    crh: yala
+    dlg: halaa
+    gag: yala
+    krc: cala
+    kdr: yala
+    kaa: jala
+    kaz: jala
+    kjh: çalğa
+    klj:
+      bicim: yalğa
+      miras: true
+    kir: jala
+    kum: yala
+    clw: çalğa
+    nog: yala
+    atv: cala
+    slr: yala
+    ybe: yağla
+    cjs: çalğa
+    alt: dala
+    tat: yala
+    kim: çılğa
+    tur: yala
+    tuk: yala
+    tyv: çılğa
+    uig: yala
+    uzb: yala
+    sah: salaa
+yok: []
+tarihi_yok: []

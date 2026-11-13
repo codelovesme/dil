@@ -41,6 +41,8 @@ ag.yaml             örgü: anlaşılırlık, ikinci dil ve temas bağları (tah
 tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
 AGIRLIKLAR.md       üç hedefin ağırlık tabloları (üretilir)
 KARSILASTIRMA.md    her kavram için üç hedefin seçimi (üretilir)
+ORGU.md             örgünün veriden denetimi (araclar/orgu.py --yaz ile üretilir)
+GOZDEN-GECIRME.md   büyük gözden geçirme raporu (yöntem sürüm 1)
 kaynaklar/          kaynak sözlüğü: ~170 kaynak, ihtiyaca ve dile göre (KAYNAKLAR.md)
 sozluk/SIRA.md      kelimelerin çalışma sırası (sıklığa göre)
 sozluk/temel/       temel söz varlığı: her kavram için bir dosya (seçim)
@@ -48,6 +50,7 @@ sozluk/kok/         tanıklı sözlük: her kök için tanıklar (.yaml) ve okun
 sozluk/SOZLUK.md    sözlük dizini ve kapsam tablosu (üretilir)
 araclar/sozluk.py   sözlük: doğrulama, kapsam, sayfa üretimi
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
+araclar/orgu.py     örgüyü veriden ölçer, ag.yaml'daki boşlukları doldurur (gözden geçirmelerde)
 araclar/yayinla.py  bütün okunur çıktılar: kavram ve kök sayfaları, dizinler, cikti/site.json
 araclar/site.py     statik site (GitHub Pages; .github/workflows/site.yml)
 uygulama/PLAN.md    bitig.codeloves.me: site planı ve ileride Euglena uygulamaları

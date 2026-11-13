@@ -1,0 +1,59 @@
+kavram: katı
+ingilizce: hard
+anlam: Katı, sert.
+dogrulandi: false
+kokler:
+- kok: katığ
+  koken: türkçe
+  ana_turkce: '*katïg'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/katığ.yaml).
+  tarihi:
+    qwm: katı
+    otk: katığ
+    xqa: katığ
+    chg: katığ
+  bicimler:
+    bak: katı
+    chv:
+      bicim: xıtă
+      miras: true
+    crh: kattı
+    dlg: kıtaanak
+    krc: katı
+    kdr: katı
+    kaa: kattı
+    kaz: kattı
+    kjh: xatığ
+    kir: katuu
+    kum: kattı
+    clw: kaadığ
+    nog: katı
+    atv: kaduu
+    slr: xıtti
+    ybe: katığ
+    cjs: kadığ
+    alt: katu
+    tat: katı
+    kim: katığ
+    tur: katı
+    tuk: gatı
+    tyv: kadığ
+    uig: kattik
+    uzb: kattik
+    sah: kıtaanax
+    sty-baraba: kattı
+- kok: berk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/berk.yaml).
+  bicimler:
+    aze: bärk
+- kok: çetin
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çetin.yaml).
+  bicimler:
+    gag: çetin
+yok: []
+tarihi_yok: []

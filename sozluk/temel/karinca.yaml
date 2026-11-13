@@ -1,0 +1,53 @@
+kavram: karınca
+ingilizce: ant
+anlam: Karınca.
+dogrulandi: false
+kokler:
+- kok: kumursga
+  koken: türkçe
+  ana_turkce: '*kumursga'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kumursga.yaml).
+  tarihi:
+    otk: kumursğa
+  bicimler:
+    bak: kırmıska
+    crh: kımırska
+    krc: kumursxa
+    kdr: kumurska
+    kaa: kumırska
+    kaz: kumırska
+    kjh: xımısxa
+    klj:
+      bicim: gumurğaaç
+      miras: true
+    kir: kumurska
+    kum: xomursğa
+    clw: kumurska
+    nog: kumırska
+    slr: kumuska
+    cjs: kımıskaş
+    tat: kırmıska
+    kim: hımıska
+    tyv: kımıskayak
+    sah: kımırdağas
+- kok: karınca
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/karınca.yaml).
+  bicimler:
+    aze: karışka
+    gag: karımca
+    tur: karınca
+    tuk: garınca
+- kok: çumalı
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çumalı.yaml).
+  bicimler:
+    atv: çubala
+    alt: çımalı
+    uig: çömüli
+    uzb: çumoli
+yok: []
+tarihi_yok: []

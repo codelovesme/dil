@@ -1,0 +1,47 @@
+kavram: kuyruk
+ingilizce: tail
+anlam: Kuyruk.
+dogrulandi: false
+kokler:
+- kok: kudruk
+  koken: türkçe
+  ana_turkce: '*kudruk'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kudruk.yaml).
+  tarihi:
+    qwm: kuyruk
+    otk: kudruk
+  bicimler:
+    aze: kuyruk
+    bak: koyrok
+    chv: xüre
+    crh: kuyruk
+    dlg: kuturuk
+    gag: kuyruk
+    krc: kuyruk
+    kdr: kuyruk
+    kaa: kuyrık
+    kaz: kŭyrık
+    kjh: xuzuruk
+    klj:
+      bicim: kurduk
+      miras: true
+    kir: kuyruk
+    kum: kuyruk
+    clw: kuzuruk
+    nog: kuyrık
+    atv: kuyruk
+    slr: kurux
+    ybe: kuzuruk
+    cjs: kuzuruk
+    alt: kuyruk
+    tat: koyrık
+    kim: kuduruk
+    tur: kuyruk
+    tuk: guyruk
+    tyv: kuduruk
+    uig: kuyruk
+    sah: kuturuk
+    sty-baraba: kuyrık
+yok: []
+tarihi_yok: []

@@ -1,0 +1,48 @@
+kavram: baş
+ingilizce: head
+anlam: Baş, kafa.
+dogrulandi: false
+kokler:
+- kok: baş
+  koken: türkçe
+  ana_turkce: '*baĺ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/baş.yaml).
+  tarihi:
+    qwm: baş
+    otk: baş
+  bicimler:
+    aze: baş
+    bak: baş
+    chv:
+      bicim: puş
+      miras: true
+    crh: baş
+    dlg: bas
+    gag: baş
+    krc: baş
+    kdr: baş
+    kaz: bas
+    kjh: pas
+    klj:
+      bicim: baaş
+      miras: true
+    kir: baş
+    kum: baş
+    clw: pas
+    nog: bas
+    atv: baş
+    slr: paş
+    ybe: paş
+    cjs: paş
+    alt: baş
+    tat: baş
+    kim: baş
+    tur: baş
+    tyv: baş
+    uig: baş
+    uzb: boş
+    sah: bas
+    sty-baraba: paş
+yok: []
+tarihi_yok: []

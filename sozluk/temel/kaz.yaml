@@ -1,0 +1,57 @@
+kavram: kaz-
+ingilizce: dig
+anlam: Kazmak.
+dogrulandi: false
+kokler:
+- kok: kaz
+  koken: türkçe
+  ana_turkce: '*kāz-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kaz.yaml).
+  tarihi:
+    qwm: kaz
+    otk: kaz
+    xqa: kaz
+    chg: kaz
+  bicimler:
+    aze: kazı
+    bak: kaz
+    crh: kaz
+    dlg: kas
+    gag: kaz
+    krc: kaz
+    kdr: kaz
+    kaa: kaz
+    kaz: kaz
+    kjh: xas
+    klj:
+      bicim: kaz
+      miras: true
+    kir: kaz
+    kum: kaz
+    clw: kas
+    nog: kazı
+    atv: kas
+    slr: kazı
+    ybe: kaz
+    cjs: kas
+    alt: kas
+    tat: kaz
+    kim: kaz
+    tur: kaz
+    tuk: gaz
+    tyv: kaz
+    uig: kaz
+    uzb: kazi
+    sah: xas
+    sty-baraba: kas
+- kok: çav
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çav.yaml).
+  bicimler:
+    chv:
+      bicim: çav
+      miras: true
+yok: []
+tarihi_yok: []

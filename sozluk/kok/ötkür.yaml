@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ötkür
+anlam: '"keskin"'
+koken: türkçe
+kavramlar:
+- keskin
+etimoloji: öt- 'geçmek' + -kür 'geçen, kesen'. Kıpçak, Karluk, Kırgız ve Altay dillerinde
+  asıl 'keskin' kelimesi.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'uraksin1996, uraksin2005', bicim: ütker, dil: bak, kaynak: savelyev-turkic, yazi: үткер}
+  - {atif: 'baskakov1958, baskakov1967', bicim: ötkir, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: ötkir, dil: kaz, kaynak: savelyev-turkic, yazi: өткiр}
+  - {atif: 'judakhin1985, judakhin1957', bicim: ötkür, dil: kir, kaynak: savelyev-turkic, yazi: өткүр}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ötkir, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: ötkür, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: ötkür, dil: alt, kaynak: savelyev-turkic, not: ödür de.}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: ütken, dil: tat, kaynak: savelyev-turkic, yazi: үткен}
+  - {atif: nadzip1968, bicim: ötkür, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ötkir, dil: uzb, kaynak: savelyev-turkic, yazi: o'tkir}
+
+yok:
+  aze: yerine iti (yitig)
+  chv: yerine şivĕç (yitig)
+  dlg: yerine hıtıı (yitig)
+  krc: yerine citi (yitig)
+  kdr: yerine iti (yitig)
+  kjh: yerine çitig (yitig)
+  klj: yerine yitdi (yitig)
+  kum: yerine itti (yitig)
+  clw: yerine çidiğ (yitig)
+  ybe: yerine ıştığ (yitig)
+  cjs: yerine çidig (yitig)
+  kim: yerine çiiti (yitig)
+  tuk: yerine yiti (yitig)
+  tyv: yerine çidig (yitig)
+  sah: yerine sıtıı (yitig)
+  crh: yerine keskin (keskin)
+  gag: yerine keskin (keskin)
+  tur: yerine keskin (keskin)
+tarihi_yok: {}

@@ -1,0 +1,66 @@
+kavram: bu
+ingilizce: this
+anlam: Yakındakini gösteren işaret zamiri ve sıfatı.
+dogrulandi: false
+kokler:
+- kok: bu
+  koken: türkçe
+  ana_turkce: '*bu (eğik gövde *mun-)'
+  kaynak: savelyev-turkic; clauson
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bu.yaml). Çuvaşça ku ayrı köktür.
+  tarihi:
+    otk: bu
+    xqa: bu
+    qwm: bu
+    chg: bu
+  bicimler:
+    aze: bu
+    bak: bıl
+    crh: bu
+    dlg: bu
+    gag: bu
+    krc: bu
+    kdr: bu
+    kaa: bul
+    kaz: bul
+    kjh: pu
+    klj:
+      bicim: bo
+      miras: true
+    kir: bu
+    kum: bu
+    clw: pu
+    nog: bu
+    atv: po
+    slr: bu
+    ybe: pu
+    cjs: po
+    alt: pu
+    tat: bu
+    kim: bo
+    tur: bu
+    tur-ahiska: bu
+    tur-bkaradeniz: bu
+    tur-brumeli: bu
+    tur-dkaradeniz: bu
+    tur-drumeli: bu
+    tur-ege: bu
+    tur-erzurum: bu
+    tur-kibris: bu
+    tur-orta: bu
+    tur-teke: bu
+    tuk: bu
+    tyv: bo
+    uig: bu
+    uzb: bu
+    sah: bu
+    sty-baraba: bu
+- kok: ku
+  koken: türkçe
+  kaynak: savelyev-turkic
+  bicimler:
+    chv:
+      bicim: ku
+      miras: true
+yok: []
+tarihi_yok: []

@@ -1,0 +1,60 @@
+kavram: buz
+ingilizce: ice
+anlam: Buz.
+dogrulandi: false
+kokler:
+- kok: buz
+  koken: türkçe
+  ana_turkce: '*buŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/buz.yaml).
+  tarihi:
+    qwm: buz
+  bicimler:
+    aze: buz
+    bak: boz
+    chv:
+      bicim: păr
+      miras: true
+    crh: buz
+    dlg: buus
+    gag: buz
+    krc: buz
+    kdr: buz
+    kaa: muz
+    kaz: muz
+    kjh: pus
+    klj:
+      bicim: buzaak
+      miras: true
+    kir: muz
+    kum: buz
+    clw: pus
+    nog: buz
+    atv: bus
+    ybe: pız
+    cjs: mus
+    tat: boz
+    tur: buz
+    tuk: buz
+    uig: muz
+    uzb: muz
+    sah: muus
+    sty-baraba: mös
+- kok: toş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/toş.yaml).
+  bicimler:
+    alt: toş
+    kim: toş
+    tyv: doş
+- kok: toñ
+  koken: türkçe
+  ana_turkce: '*toŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/toñ.yaml).
+  bicimler:
+    slr: toñsı
+yok: []
+tarihi_yok: []

@@ -1,0 +1,77 @@
+# özge
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`özge.yaml`](özge.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** "başka"
+- **Köken:** türkçe
+- **Kavramlar:** [baska](../temel/baska.yaml)
+- **Etimoloji:** öz 'kendi' gövdesinden özge 'başka'; Kuman, Tuvaca ve Güney Altaycada (öske, öskö). Türkiye Türkçesinde özge 'başka' eskimiş.
+- **En eski tanık:** 14. yy
+
+## Kapsam
+
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 1/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+
+- ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
+- ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (1 tanık)
+- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✗ Çağatayca, 15-19. yy
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **özge** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 14. yy, Kuman-Kıpçakça: Latin harfli yazımlar oxga, osge.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Güney Altayca |  | **öskö** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Sibirya kolu | Tuvaca |  | **öske** | өске |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| | Baraba ağzı | | — | | | | kök yok: yerine paşka (başka) |
+| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine başga (başka) |
+| | Başkurtça | | — | | | | kök yok: yerine başka (başka) |
+| | Kırım Tatarcası | | — | | | | kök yok: yerine başka (başka) |
+| | Gagavuzca | | — | | | | kök yok: yerine başka (başka) |
+| | Karakalpakça | | — | | | | kök yok: yerine baska (başka) |
+| | Karaçay-Malkarca | | — | | | | kök yok: yerine başxa (başka) |
+| | Karayca | | — | | | | kök yok: yerine baska (başka) |
+| | Kazakça | | — | | | | kök yok: yerine baska (başka) |
+| | Hakasça | | — | | | | kök yok: yerine pasxa (başka) |
+| | Kırgızca | | — | | | | kök yok: yerine başka (başka) |
+| | Kumukça | | — | | | | kök yok: yerine başğa (başka) |
+| | Çulımca | | — | | | | kök yok: yerine paska (başka) |
+| | Nogayca | | — | | | | kök yok: yerine baska (başka) |
+| | Şorca | | — | | | | kök yok: yerine paşka (başka) |
+| | Tatarca | | — | | | | kök yok: yerine başka (başka) |
+| | Tofaca | | — | | | | kök yok: yerine baˁşka (başka) |
+| | Türkiye Türkçesi | | — | | | | kök yok: yerine başka (başka) |
+| | Türkmence | | — | | | | kök yok: yerine başga (başka) |
+| | Uygurca | | — | | | | kök yok: yerine başka (başka) |
+| | Özbekçe | | — | | | | kök yok: yerine boşka (başka) |
+| | Dolganca | | — | | | | kök yok: yerine atın (adın) |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine atın (adın) |
+| | Kuzey Altayca | | — | | | | kök yok: yerine artan (art) |
+| | Salarca | | — | | | | kök yok: yerine artı (art) |
+| | Çuvaşça | | — | | | | kök yok: yerine urăx (urăx) |
+| | Halaçça | | — | | | | kök yok: yerine iieza (iieza) |
+
+## Kaynakça
+
+- [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık

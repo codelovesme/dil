@@ -1,0 +1,48 @@
+kavram: diş
+ingilizce: tooth
+anlam: Diş.
+dogrulandi: false
+kokler:
+- kok: tiş
+  koken: türkçe
+  ana_turkce: '*tiĺ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tiş.yaml).
+  tarihi:
+    qwm: tiş
+    otk: tiş
+  bicimler:
+    aze: diş
+    bak: teş
+    chv:
+      bicim: şăl
+      miras: true
+    crh: tiş
+    dlg: tiis
+    gag: diş
+    krc: tiş
+    kdr: tis
+    kaa: tis
+    kaz: tĭs
+    kjh: tis
+    klj:
+      bicim: tiiş
+      miras: true
+    kir: tiş
+    kum: tiş
+    clw: tis
+    nog: tis
+    atv: tiş
+    slr: tiç
+    ybe: tıs
+    cjs: tiş
+    alt: tiş
+    tat: teş
+    kim: diş
+    tur: diş
+    tuk: diş
+    uig: çiş
+    uzb: tiş
+    sah: tiis
+yok: []
+tarihi_yok: []

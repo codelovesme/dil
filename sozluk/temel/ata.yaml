@@ -1,0 +1,84 @@
+kavram: ata
+ingilizce: father
+anlam: Baba.
+dogrulandi: false
+kokler:
+- kok: ata
+  koken: türkçe
+  ana_turkce: '*ata'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ata.yaml).
+  tarihi:
+    qwm: ata
+  bicimler:
+    aze: ata
+    bak: ata
+    chv:
+      bicim: atte
+      miras: true
+    krc: ata
+    kdr: ata
+    kaa: ata
+    kir: ata
+    kum: ata
+    clw: ada
+    nog: ata
+    atv: ada
+    cjs: ada
+    alt: ada
+    tat: ata
+    kim: ata
+    tur:
+      bicim: ata
+      tercih: 0.25
+    tuk: ata
+    tyv: ada
+    uig: ata
+    uzb: ota
+    sty-baraba: ata
+- kok: baba
+  koken: belirsiz
+  kaynak: savelyev-turkic
+  not: baba; çocuk dilinden ve Farsça bābā ile ortak. Kökeni belirsiz olduğu için seçilmez.
+  bicimler:
+    crh: baba
+    gag: boba
+    kjh: paba
+    klj: baaba
+    tur: baba
+- kok: aga
+  koken: türkçe
+  ana_turkce: '*aka'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aga.yaml).
+  bicimler:
+    dlg: aga
+    sah: aga
+- kok: äke
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/äke.yaml).
+  bicimler:
+    kaz: äke
+- kok: apa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/apa.yaml).
+  bicimler:
+    slr: apa
+- kok: ača
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ača.yaml).
+  bicimler:
+    ybe: aça
+- kok: kañ
+  koken: türkçe
+  ana_turkce: '*kaŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kañ.yaml).
+  tarihi:
+    otk: kañ
+  bicimler: {}
+yok: []
+tarihi_yok: []

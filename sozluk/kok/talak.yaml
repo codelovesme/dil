@@ -1,0 +1,36 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: talak
+anlam: Dolgancada "dal"
+koken: türkçe
+kavramlar:
+- dal
+etimoloji: Dolganca; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: talak, dil: dlg, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine botak (butık)
+  atv: yerine pudak (butık)
+  alt: yerine budak (butık)
+  aze: yerine budağ (butık)
+  bak: yerine botak (butık)
+  crh: yerine pıtak (butık)
+  gag: yerine budak (butık)
+  kaa: yerine putak (butık)
+  krc: yerine butak (butık)
+  kdr: yerine butak (butık)
+  kaz: yerine bŭtak (butık)
+  kir: yerine butak (butık)
+  kum: yerine butak (butık)
+  nog: yerine butak (butık)
+  slr: yerine putax (butık)
+  tat: yerine botak (butık)
+  kim: yerine butuk (butık)
+  tur: yerine budak (butık)
+  tyv: yerine buduk (butık)
+  uig: yerine putak (butık)
+  ybe: yerine çukko (çukko)
+  chv: yerine turat (turat)
+tarihi_yok: {}

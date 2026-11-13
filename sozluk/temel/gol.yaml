@@ -1,0 +1,45 @@
+kavram: göl
+ingilizce: lake
+anlam: Göl.
+dogrulandi: false
+kokler:
+- kok: köl
+  koken: türkçe
+  ana_turkce: '*kȫl'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/köl.yaml).
+  tarihi:
+    otk: köl
+  bicimler:
+    aze: göl
+    bak: kül
+    chv:
+      bicim: külĕ
+      miras: true
+    crh: göl
+    dlg: küöl
+    gag: göl
+    krc: köl
+    kdr: göl
+    kaa: köl
+    kaz: köl
+    kjh: köl
+    kir: köl
+    kum: köl
+    clw: köl
+    nog: köl
+    atv: köl
+    ybe: köl
+    cjs: köl
+    alt: köl
+    tat: kül
+    kim: höl
+    tur: göl
+    tuk: köl
+    tyv: xöl
+    uig: köl
+    uzb: köl
+    sah: küöl
+    sty-baraba: köl
+yok: []
+tarihi_yok: []

@@ -1,0 +1,66 @@
+kavram: toz
+ingilizce: dust
+anlam: Toz.
+dogrulandi: false
+kokler:
+- kok: toz
+  koken: türkçe
+  ana_turkce: '*tōŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/toz.yaml).
+  tarihi:
+    qwm: toz
+    otk: toz
+  bicimler:
+    aze: toz
+    bak: tuzan
+    chv: tuzan
+    crh: toz
+    gag: tooz
+    kdr: toz
+    kjh: tozın
+    clw: tozan
+    atv: tozun
+    cjs: tozun
+    tat: tuzan
+    tur: toz
+    tuk: tozan
+    tyv: doozun
+    sty-baraba: tos
+- kok: çañ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çañ.yaml).
+  bicimler:
+    kaa: şañ
+    kaz: şañ
+    kir: çañ
+    kum: çañ
+    nog: şañ
+    ybe: çam
+    uig: çañ
+    uzb: çañ
+- kok: toprak
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/toprak.yaml).
+  bicimler:
+    klj:
+      bicim: turpaak
+      miras: true
+    alt: tobrax
+    kim: toprak
+- kok: buku
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/buku.yaml).
+  bicimler:
+    krc: buku
+- kok: taarıx
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/taarıx.yaml).
+  bicimler:
+    slr: taarıx
+yok: []
+tarihi_yok: []
