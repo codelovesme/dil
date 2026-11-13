@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 20,
-  "kok": 28,
-  "tanik": 596,
+  "kavram": 26,
+  "kok": 37,
+  "tanik": 798,
   "kaynak": 168,
   "dil": 40
  },
@@ -50,13 +50,33 @@
    "tur": "dizin"
   },
   {
+   "yol": "sozluk/kok/al.md",
+   "baslik": "al",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bar.md",
+   "baslik": "bar",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ben.md",
    "baslik": "ben",
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ber.md",
+   "baslik": "ber",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/beş.md",
    "baslik": "beş",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/bil.md",
+   "baslik": "bil",
    "tur": "kok"
   },
   {
@@ -115,6 +135,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/kel.md",
+   "baslik": "kel",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ket.md",
+   "baslik": "ket",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/kim.md",
    "baslik": "kim",
    "tur": "kok"
@@ -127,6 +157,16 @@
   {
    "yol": "sozluk/kok/ku.md",
    "baslik": "ku",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kör.md",
+   "baslik": "kör",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/kötür.md",
+   "baslik": "kötür",
    "tur": "kok"
   },
   {
@@ -165,6 +205,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/oñna.md",
+   "baslik": "oñna",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/siz.md",
    "baslik": "siz",
    "tur": "kok"
@@ -190,6 +235,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/temel/al.md",
+   "baslik": "al-",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/ben.md",
    "baslik": "ben",
    "tur": "kavram"
@@ -197,6 +247,11 @@
   {
    "yol": "sozluk/temel/bes.md",
    "baslik": "beş",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/bil.md",
+   "baslik": "bil-",
    "tur": "kavram"
   },
   {
@@ -227,6 +282,21 @@
   {
    "yol": "sozluk/temel/dort.md",
    "baslik": "dört",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/gel.md",
+   "baslik": "gel-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/git.md",
+   "baslik": "git-/bar-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/gor.md",
+   "baslik": "gör-",
    "tur": "kavram"
   },
   {
@@ -288,9 +358,29 @@
    "yol": "sozluk/temel/uc.md",
    "baslik": "üç",
    "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/ver.md",
+   "baslik": "ver-",
+   "tur": "kavram"
   }
  ],
  "arama": [
+  {
+   "t": "kavram",
+   "ad": "al-",
+   "alt": "take",
+   "yol": "sozluk/temel/al.md",
+   "ozet": "Ortak dil: al · Ana Türkçe tahmini: al · En çok kişinin anladığı: al",
+   "anahtar": [
+    "al",
+    "almaq",
+    "götür",
+    "il",
+    "ol",
+    "ıl"
+   ]
+  },
   {
    "t": "kavram",
    "ad": "ben",
@@ -324,6 +414,21 @@
     "pis",
     "päs",
     "päş"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "bil-",
+   "alt": "know",
+   "yol": "sozluk/temel/bil.md",
+   "ozet": "Ortak dil: bil · Ana Türkçe tahmini: bil · En çok kişinin anladığı: bil",
+   "anahtar": [
+    "bel",
+    "bil",
+    "bĭl",
+    "oñna",
+    "pil",
+    "pĕl"
    ]
   },
   {
@@ -436,6 +541,54 @@
     "tööört",
     "tüört",
     "tăvattă"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "gel-",
+   "alt": "come",
+   "yol": "sozluk/temel/gel.md",
+   "ozet": "Ortak dil: kel · Ana Türkçe tahmini: kel · En çok kişinin anladığı: kel",
+   "anahtar": [
+    "gel",
+    "gäl",
+    "kel",
+    "kil",
+    "käl",
+    "kĕl"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "git-/bar-",
+   "alt": "go",
+   "yol": "sozluk/temel/git.md",
+   "ozet": "Ortak dil: bar · Ana Türkçe tahmini: bar · En çok kişinin anladığı: bar",
+   "anahtar": [
+    "? bar",
+    "bar",
+    "bor",
+    "get",
+    "git",
+    "par",
+    "par- ~ bar",
+    "pır",
+    "var"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "gör-",
+   "alt": "see",
+   "yol": "sozluk/temel/gor.md",
+   "ozet": "Ortak dil: kör · Ana Türkçe tahmini: kör · En çok kişinin anladığı: kör",
+   "anahtar": [
+    "gör",
+    "görmäk",
+    "ker",
+    "kur",
+    "kör",
+    "kür"
    ]
   },
   {
@@ -693,6 +846,63 @@
    ]
   },
   {
+   "t": "kavram",
+   "ad": "ver-",
+   "alt": "give",
+   "yol": "sozluk/temel/ver.md",
+   "ozet": "Ortak dil: ber · Ana Türkçe tahmini: ber · En çok kişinin anladığı: ber",
+   "anahtar": [
+    "ber",
+    "bier",
+    "bir",
+    "bär",
+    "par",
+    "per",
+    "pir",
+    "pär",
+    "ver",
+    "vermäk",
+    "vier"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "al",
+   "alt": "\"almak\"",
+   "yol": "sozluk/kok/al.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "al",
+    "almak",
+    "almaq",
+    "il",
+    "ol",
+    "ıl",
+    "ил-",
+    "ыл-",
+    "آلمق"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bar",
+   "alt": "\"gitmek, varmak\"",
+   "yol": "sozluk/kok/bar.md",
+   "ozet": "30 tanık, en eski 8. yy",
+   "anahtar": [
+    "? bar",
+    "bar",
+    "bor",
+    "par",
+    "par- ~ bar",
+    "pır",
+    "var",
+    "varmak",
+    "пыр-",
+    "وارمق"
+   ]
+  },
+  {
    "t": "kok",
    "ad": "ben",
    "alt": "birinci tekil şahıs zamiri (\"ben\")",
@@ -722,6 +932,32 @@
   },
   {
    "t": "kok",
+   "ad": "ber",
+   "alt": "\"vermek\"",
+   "yol": "sozluk/kok/ber.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "ber",
+    "bier",
+    "bir",
+    "bär",
+    "par",
+    "per",
+    "pir",
+    "pär",
+    "ver",
+    "vermek",
+    "vermäk",
+    "vier",
+    "бир-",
+    "биэр-",
+    "пар-",
+    "وِیرْمَكْ",
+    "ویرمك"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "beş",
    "alt": "beş sayısı (beş)",
    "yol": "sozluk/kok/beş.md",
@@ -743,6 +979,25 @@
     "биэс",
     "пилӗк",
     "пис"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "bil",
+   "alt": "\"bilmek\"",
+   "yol": "sozluk/kok/bil.md",
+   "ozet": "32 tanık, en eski 8. yy",
+   "anahtar": [
+    "bel",
+    "bil",
+    "bilmek",
+    "bĭl",
+    "pil",
+    "pĕl",
+    "бел-",
+    "пiл-",
+    "пӗл-",
+    "بلمك"
    ]
   },
   {
@@ -959,6 +1214,34 @@
   },
   {
    "t": "kok",
+   "ad": "kel",
+   "alt": "\"gelmek\"",
+   "yol": "sozluk/kok/kel.md",
+   "ozet": "33 tanık, en eski 8. yy",
+   "anahtar": [
+    "gel",
+    "gäl",
+    "kel",
+    "kil",
+    "käl",
+    "kĕl",
+    "кил-",
+    "گلمك"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ket",
+   "alt": "\"gitmek, ayrılmak\"",
+   "yol": "sozluk/kok/ket.md",
+   "ozet": "3 tanık, en eski günümüz",
+   "anahtar": [
+    "get",
+    "git"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "kim",
    "alt": "kişiyi soran soru zamiri (\"kim\"); eski dilde ilgi zamiri ve bağlaç da",
    "yol": "sozluk/kok/kim.md",
@@ -998,6 +1281,36 @@
    "anahtar": [
     "ku",
     "ку"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kör",
+   "alt": "\"görmek\"",
+   "yol": "sozluk/kok/kör.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "gör",
+    "görmek",
+    "görmäk",
+    "ker",
+    "kur",
+    "kör",
+    "kür",
+    "кур-",
+    "күр-",
+    "كورمك",
+    "كُورْمَكْ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "kötür",
+   "alt": "\"kaldırmak, alıp götürmek\"",
+   "yol": "sozluk/kok/kötür.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "götür"
    ]
   },
   {
@@ -1119,6 +1432,16 @@
     "vĕsem",
     "ılar",
     "вӗсем"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "oñna",
+   "alt": "\"anlamak, bilmek\"",
+   "yol": "sozluk/kok/oñna.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "oñna"
    ]
   },
   {

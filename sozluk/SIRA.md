@@ -26,8 +26,8 @@ aşamasında ele alınacak.
 
 ## 4. Temel fiiller
 
-- [ ] ol- (bol-) · [ ] et-/kıl- · [ ] de-/ayt- · [ ] gel- · [ ] git-/bar-
-- [ ] ver- · [ ] al- · [ ] gör- · [ ] bil- · [ ] iste-
+- [ ] ol- (bol-) · [ ] et-/kıl- · [ ] de-/ayt- · [x] [gel-](temel/gel.yaml) · [x] [git-/bar-](temel/git.yaml)
+- [x] [ver-](temel/ver.yaml) · [x] [al-](temel/al.yaml) · [x] [gör-](temel/gor.yaml) · [x] [bil-](temel/bil.yaml) · [ ] iste-
 - [ ] ye- · [ ] iç- · [ ] otur- · [ ] dur-/tur- · [ ] yat- · [ ] uyu-
 - [ ] bak- · [ ] çık- · [ ] gir- · [ ] tut- · [ ] koy-/sal- · [ ] yap-/kıl-
 - [ ] sev- · [ ] öl- · [ ] yaşa- · [ ] duy- · [ ] söyle-/sözle- · [ ] sor-

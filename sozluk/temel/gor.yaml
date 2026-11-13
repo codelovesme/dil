@@ -1,0 +1,51 @@
+kavram: gör-
+ingilizce: see
+anlam: Gözle algılamak.
+dogrulandi: false
+kokler:
+- kok: kör
+  koken: türkçe
+  ana_turkce: '*kȫr-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kör.yaml).
+  tarihi:
+    qwm: kör
+    otk: kör
+    eski-anadolu: görmäk
+  bicimler:
+    aze: gör
+    bak: kür
+    chv:
+      bicim: kur
+      miras: true
+    crh: kör
+    dlg: kör
+    gag: gör
+    krc: kör
+    kdr: kör
+    kaa: kör
+    kaz: kör
+    kjh: kör
+    klj:
+      bicim: ker
+      miras: true
+    kir: kör
+    kum: gör
+    clw: kör
+    nog: kör
+    atv: kör
+    slr: kör
+    ybe: kör
+    cjs: kör
+    alt: kör
+    tat: kür
+    kim: kör
+    tur: gör
+    tuk: gör
+    tyv: kör
+    uig: kör
+    uzb: kör
+    sah: kör
+    sty-baraba: kör
+yok: []
+tarihi_yok: []

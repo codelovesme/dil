@@ -1,0 +1,54 @@
+kavram: git-/bar-
+ingilizce: go
+anlam: Bir yerden başka bir yere doğru hareket etmek, uzaklaşmak.
+dogrulandi: false
+kokler:
+- kok: bar
+  koken: türkçe
+  ana_turkce: '*bar-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bar.yaml).
+  tarihi:
+    qwm: bar
+    otk: bar
+  bicimler:
+    bak: bar
+    chv: pır
+    crh: bar
+    dlg: bar
+    krc: bar
+    kdr: bar
+    kaa: '? bar'
+    kaz: bar
+    kjh: par
+    klj:
+      bicim: var
+      miras: true
+    kir: bar
+    kum: bar
+    clw: par
+    nog: bar
+    atv: par- ~ bar
+    slr: bar
+    ybe: par
+    cjs: par
+    alt: bar
+    tat: bar
+    kim: bar
+    tuk: bar
+    tyv: bar
+    uig: bar
+    uzb: bor
+    sah: bar
+    sty-baraba: bar
+- kok: ket
+  koken: türkçe
+  ana_turkce: '*ket-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ket.yaml).
+  bicimler:
+    aze: get
+    gag: git
+    tur: git
+yok: []
+tarihi_yok: []

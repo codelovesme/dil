@@ -4,18 +4,23 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 20 kavram, 1 tanesi ayrışıyor.
+Toplam 26 kavram, 1 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
+| al- | al *(al)* | al *(al)* | al *(al)* | UYUŞUYOR |
 | ben | män *(ben)* | bän *(ben)* | ben *(ben)* | UYUŞUYOR |
 | beş | beş *(beş)* | beş *(beş)* | beş *(beş)* | UYUŞUYOR |
+| bil- | bil *(bil)* | bil *(bil)* | bil *(bil)* | UYUŞUYOR |
 | bir | bir *(bir)* | bir *(bir)* | bir *(bir)* | UYUŞUYOR |
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | bedük *(bedük)* | büyük *(bedük)* | AYRIŞIYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
 | dört | dört *(dört)* | dört *(dört)* | dört *(dört)* | UYUŞUYOR |
+| gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
+| git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
+| gör- | kör *(kör)* | kör *(kör)* | kör *(kör)* | UYUŞUYOR |
 | iki | iki *(iki)* | iki *(iki)* | iki *(iki)* | UYUŞUYOR |
 | kim | kim *(kim)* | kim *(kim)* | kim *(kim)* | UYUŞUYOR |
 | nasıl | neçuk *(neçük)* | neçük *(neçük)* | necä *(neçük)* | UYUŞUYOR |
@@ -28,3 +33,4 @@ Toplam 20 kavram, 1 tanesi ayrışıyor.
 | su | suw *(sub)* | sub *(sub)* | su *(sub)* | UYUŞUYOR |
 | taş | taş *(taş)* | taş *(taş)* | taş *(taş)* | UYUŞUYOR |
 | üç | üç *(üç)* | üç *(üç)* | üç *(üç)* | UYUŞUYOR |
+| ver- | ber *(ber)* | ber *(ber)* | ber *(ber)* | UYUŞUYOR |
