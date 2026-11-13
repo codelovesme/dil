@@ -22,10 +22,11 @@ taniklar:
     not: Latin harfli yazım bag-.
   - dil: tur
     yuzyil: 16-19
-    bicim: baqmaq
+    bicim: baq
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: باقمق
+    not: Wiktionary'de mastar biçimiyle baqmaq.
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: bax, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'asmarin1928, savelyev2011', bicim: păx, dil: chv, kaynak: savelyev-turkic, yazi: пӑх-}
   - {atif: useinov2007, bicim: bak, dil: crh, kaynak: savelyev-turkic}

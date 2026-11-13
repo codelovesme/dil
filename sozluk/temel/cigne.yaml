@@ -1,0 +1,53 @@
+kavram: çiğne-
+ingilizce: chew
+anlam: Çiğnemek.
+dogrulandi: false
+kokler:
+- kok: çayna
+  koken: türkçe
+  ana_turkce: '*čaŋna-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çayna.yaml).
+  bicimler:
+    aze: çeynä
+    bak: säynä
+    crh: çayna
+    gag: çiyne
+    krc: çayna
+    kdr: çayna
+    kaa: şayna
+    kaz: şayna
+    kjh: tayna
+    klj:
+      bicim: çäynä
+      miras: true
+    kir: çayna
+    kum: çayna
+    clw: tayna
+    nog: şayna
+    atv: şayna
+    slr: çäynä
+    cjs: tayna
+    alt: çayna
+    tat: çäynä
+    kim: tayna
+    tur: çiğne
+    tuk: çeyne
+    tyv: dayna
+    uig: çayna
+    uzb: çayna
+- kok: ıstaa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ıstaa.yaml).
+  bicimler:
+    dlg: ıştaa
+    sah: ıstaa
+- kok: çămla
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çămla.yaml).
+  bicimler:
+    chv: çămla
+yok: []
+tarihi_yok: []

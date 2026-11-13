@@ -27,16 +27,18 @@ taniklar:
     atif: clauson1972
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: almaq
+    bicim: al
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: آلمق
+    not: Wiktionary'de mastar biçimiyle almaq.
   - dil: tur
     yuzyil: 16-19
-    bicim: almak
+    bicim: al
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: آلمق
+    not: Wiktionary'de mastar biçimiyle almak.
   - {bicim: al, dil: aze, kaynak: bilgi}
   - {atif: 'uraksin1996, uraksin2005', bicim: al, dil: bak, kaynak: savelyev-turkic}
   - {atif: 'asmarin1928, savelyev2011', bicim: il, dil: chv, kaynak: savelyev-turkic, yazi: ил-}

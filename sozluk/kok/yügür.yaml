@@ -27,16 +27,18 @@ taniklar:
     atif: clauson1972
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: yügürmek
+    bicim: yügür
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یوكورمك
+    not: Wiktionary'de mastar biçimiyle yügürmek.
   - dil: tur
     yuzyil: 16-19
-    bicim: yüğürmek
+    bicim: yüğür
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یوكورمك
+    not: Wiktionary'de mastar biçimiyle yüğürmek.
   - {atif: 'uraksin1996, uraksin2005', bicim: yüger, dil: bak, kaynak: savelyev-turkic, yazi: йүгер-}
   - {atif: 'aksenova1992, stachowski1993', bicim: hüür, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'baskakov1958, baskakov1967', bicim: juwır, dil: kaa, kaynak: savelyev-turkic}

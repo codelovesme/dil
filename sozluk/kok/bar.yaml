@@ -27,10 +27,11 @@ taniklar:
     atif: clauson1972
   - dil: tur
     yuzyil: 16-19
-    bicim: varmak
+    bicim: var
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: وارمق
+    not: Wiktionary'de mastar biçimiyle varmak.
   - {atif: 'uraksin1996, uraksin2005', bicim: bar, dil: bak, kaynak: savelyev-turkic}
   - {atif: 'asmarin1928, savelyev2011', bicim: pır, dil: chv, kaynak: savelyev-turkic, yazi: пыр-}
   - {atif: useinov2007, bicim: bar, dil: crh, kaynak: savelyev-turkic}

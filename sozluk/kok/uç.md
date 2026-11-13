@@ -38,7 +38,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **uç** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 23, 74, 231 (Clauson, uç-) |
 | 13. yy | Karahanlıca |  | **uç** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 6 (Clauson, uç-) |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **uç** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 41, 20 (Clauson, uç-) |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **uçmak** | اوچمق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **uç** | اوچمق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **uç** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 14. yy | Kuman-Kıpçakça | Kahire | **uç** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 8 (Clauson, uç-) |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **uç** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 194; Nehcü'l-Feradis 351 (Clauson, uç-) |
@@ -46,6 +46,10 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **uç** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 94-6, Senglâh 62v (Clauson, uç-) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle uçmak.
 
 ## Yaşayan diller ve ağızlar
 

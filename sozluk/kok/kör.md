@@ -33,7 +33,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **kör** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
 | 8.–14. yy | Eski Türkçe |  | **kör** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **görmäk** | كُورْمَكْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **gör** | كُورْمَكْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kör** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
 | 16.–19. yy | Türkiye Türkçesi |  | **görmek** | كورمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
@@ -41,6 +41,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 Notlar:
 
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle görmäk.
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım chor-.
 
 ## Yaşayan diller ve ağızlar

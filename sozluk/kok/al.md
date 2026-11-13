@@ -32,11 +32,16 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **al** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **almaq** | آلمق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **al** | آلمق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **al** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **almak** | آلمق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **al** | آلمق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle almaq.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle almak.
 
 ## Yaşayan diller ve ağızlar
 

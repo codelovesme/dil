@@ -11,7 +11,7 @@ kaynak: savelyev-turkic; wiktionary-ana-turkce
 taniklar:
   - {atif: noauthor1880, bicim: kör, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, not: Latin harfli yazım chor-., yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
   - {atif: clauson1972, bicim: kör, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
-  - {bicim: görmäk, dil: eski-anadolu, kaynak: wiktionary-ana-turkce, metin: Eski Anadolu Türkçesi metinleri, yazi: كُورْمَكْ, yuzyil: 13-15}
+  - {bicim: gör, dil: eski-anadolu, kaynak: wiktionary-ana-turkce, metin: Eski Anadolu Türkçesi metinleri, not: Wiktionary'de mastar biçimiyle görmäk., yazi: كُورْمَكْ, yuzyil: 13-15}
   - {bicim: görmek, dil: tur, kaynak: wiktionary-ana-turkce, metin: Osmanlı Türkçesi, yazi: كورمك, yuzyil: 16-19}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: gör, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: kür, dil: bak, kaynak: savelyev-turkic, yazi: күр-}

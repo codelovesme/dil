@@ -11,17 +11,17 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 2/7 · tanık 16 (kaynaklı %100) · kaynak 4 · yabancı kayıt 1**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 4/7 · tanık 18 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
 - · Volga Bulgarcası, 10-14. yy
 - ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
 - ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
-- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✓ Eski Anadolu Türkçesi, 13-15. yy (1 tanık)
 - ✗ Çağatayca, 15-19. yy
-- ✗ Osmanlıca, 16-19. yy
-- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+- ✓ Osmanlıca, 16-19. yy (1 tanık)
+- ✓ 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy (1 tanık)
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
@@ -35,13 +35,17 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 8.–14. yy | Eski Türkçe |  | **ür** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Uygur hukuk belgeleri ve hekimlik metinleri (Clauson, ür-) |
 | 11. yy | Karahanlıca | Kâşgar | **ür** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 164 (Clauson, ür-) |
 | 13. yy | Karahanlıca |  | **ür** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 338 (Clauson, ür-) |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **ür** | اورمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **ür** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Rifat 116 (Clauson, ür-) |
+| 16.–19. yy | Türkiye Türkçesi |  | **ürü** | اورومك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 8.–14. yy, Eski Türkçe: ayak ürüp 'kâseye üfleyerek' yemin töreni.
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle ürmek.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle ürümek.
 
 ## Yaşayan diller ve ağızlar
 
@@ -81,5 +85,6 @@ Notlar:
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 12 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 4 tanık
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 2 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

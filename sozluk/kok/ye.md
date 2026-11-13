@@ -31,9 +31,13 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
 |---|---|---|---|---|---|---|---|
-| 16.–19. yy | Türkiye Türkçesi |  | **yemek, yimek** | یمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **ye, yi** | یمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle yemek, yimek.
 
 ## Yaşayan diller ve ağızlar
 

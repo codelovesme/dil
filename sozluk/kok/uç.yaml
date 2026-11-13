@@ -26,10 +26,11 @@ taniklar:
     atif: clauson1972
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: uçmak
+    bicim: uç
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: اوچمق
+    not: Wiktionary'de mastar biçimiyle uçmak.
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: uç, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: os, dil: bak, kaynak: savelyev-turkic, yazi: оҫ-}
   - {atif: 'asmarin1928, savelyev2011', bicim: vĕş, dil: chv, kaynak: savelyev-turkic, yazi: вӗҫ-}

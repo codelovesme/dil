@@ -40,7 +40,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | uç | uç | uç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | uç | uç | uç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | uç | uç | uç | uç |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | uç | uçmak | uç |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | uç | uç | uç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | uç | uç | uç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | uç | uç | uç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | uç | uç | uç | uç |
@@ -52,8 +52,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | uç | uç | uç | uç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | uç | uç | uç | uç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | uç ↑ | uç ↑ | uç ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | uç ↑ | uçmak ↑ | uç ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | uç ↑ | uçmak ↑ | uç ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | uç ↑ | uç ↑ | uç ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | uç ↑ | uç ↑ | uç ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | uç | uç | uç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | uç | uç | uç | uç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | uç | uç | uç | uç |
@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | uç |  |
 | Sibirya kolu | Kuzey Altayca |  | uç |  |
 
-**Tarihî tanıklar:** Eski Türkçe *uç*; Karahanlıca *uç*; Kuman-Kıpçakça *uç*; Eski Anadolu Türkçesi *uçmak*; Harezm Türkçesi ve Çağatayca *uç*.
+**Tarihî tanıklar:** Eski Türkçe *uç*; Karahanlıca *uç*; Kuman-Kıpçakça *uç*; Eski Anadolu Türkçesi *uç*; Harezm Türkçesi ve Çağatayca *uç*.
 

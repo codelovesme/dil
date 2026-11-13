@@ -1,0 +1,63 @@
+kavram: it-
+ingilizce: push
+anlam: İtmek.
+dogrulandi: false
+kokler:
+- kok: it
+  koken: türkçe
+  ana_turkce: '*it-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/it.yaml).
+  tarihi:
+    eski-anadolu: it
+    xqa: it
+    qwm: it
+    chg: it
+  bicimler:
+    aze: itälä
+    bak: et
+    crh: ite
+    dlg: üt
+    gag: itir
+    kdr: iyt
+    kaa: iyter
+    kaz: iter
+    kjh: ĕt
+    kir: iter
+    clw: itle
+    nog: iyte
+    atv: it
+    slr: işt
+    ybe: işit
+    cjs: it
+    alt: iyt
+    tat: et
+    kim: iˁt
+    tur: it
+    tuk: it
+    tyv: it
+    uig: iştär
+    uzb: itar
+- kok: teber
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/teber.yaml).
+  bicimler:
+    krc: teber
+    kum: teber
+- kok: tĕk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tĕk.yaml).
+  bicimler:
+    chv:
+      bicim: tĕk
+      miras: true
+- kok: as-it
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/as-it.yaml).
+  bicimler:
+    sah: as
+yok: []
+tarihi_yok: []

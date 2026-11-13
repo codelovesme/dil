@@ -40,7 +40,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | al | al | al |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | al | al | al |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | al | al | al | al |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | al | almaq | al |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | al | al | al |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | al | al | al |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | al | al | al |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | al | al | al | al |
@@ -52,8 +52,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | al | *götür* (kötür) | al | götür |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | al | götür | al | götür |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | al ↑ | al ↑ | al ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | al ↑ | almaq ↑ | al ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | al ↑ | almaq ↑ | al ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | al ↑ | al ↑ | al ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | al ↑ | al ↑ | al ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | al | al | al |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | al | al | al | al |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | al | al | al | al |
@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | al |  |
 | Sibirya kolu | Kuzey Altayca |  | al |  |
 
-**Tarihî tanıklar:** Eski Türkçe *al*; Kuman-Kıpçakça *al*; Eski Anadolu Türkçesi *almaq*.
+**Tarihî tanıklar:** Eski Türkçe *al*; Kuman-Kıpçakça *al*; Eski Anadolu Türkçesi *al*.
 

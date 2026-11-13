@@ -41,7 +41,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | yu | yu | yu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yuu | yuu | yuu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yuu | yuu | yuu | yuu |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yu | yumaq | *yıka* (yıka) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yu | yu | *yıka* (yıka) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *yıka* (yıka) | *yıka* (yıka) | yıka |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | yıka | yıka | yıka |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | yıka | yıka | yıka | yıka |
@@ -53,8 +53,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | yu | yu | yu | yu |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yu | yu | yu | yu |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | yu ↑ | yu ↑ | yu ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yu ↑ | yumaq ↑ | yıka ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yu ↑ | yumaq ↑ | yıka ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yu ↑ | yu ↑ | yıka ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yu ↑ | yu ↑ | yıka ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | yuv | yuv | *yuv* (yu) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | yuv | yuv | yuv | yuv |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yuv | yuv | yuv | yuv |
@@ -162,5 +162,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | çun |  |  |
 | Sibirya kolu | Kuzey Altayca |  |  |  | yayka |
 
-**Tarihî tanıklar:** Eski Türkçe *yu*; Kuman-Kıpçakça *yuu*; Eski Anadolu Türkçesi *yumaq*.
+**Tarihî tanıklar:** Eski Türkçe *yu*; Kuman-Kıpçakça *yuu*; Eski Anadolu Türkçesi *yu*.
 

@@ -33,9 +33,13 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **bil** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **bil** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **bilmek** | بلمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **bil** | بلمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle bilmek.
 
 ## Yaşayan diller ve ağızlar
 

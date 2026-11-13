@@ -35,7 +35,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | 14. yy | Kuman-Kıpçakça | Kahire | **ısır** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 15 (Clauson, ısır-) |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **ısır** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 29, 3 (Clauson, ısır-) |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **ısur** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 59, Senglâh 102v (Clauson, ısır-) |
-| 16.–19. yy | Türkiye Türkçesi |  | **ısırmak** | ایصرمق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| 16.–19. yy | Türkiye Türkçesi |  | **ısır** | ایصرمق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -44,6 +44,7 @@ Notlar:
 - 11. yy, Karahanlıca: ısırğan it 'ısıran köpek' örneği de var.
 - 14. yy, Kuman-Kıpçakça: Türkmence diye; Kıpçakçası tişle-.
 - 16.–18. yy, Harezm Türkçesi ve Çağatayca: Çağataycada daha çok 'yemek' anlamında.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle ısırmak.
 
 ## Yaşayan diller ve ağızlar
 

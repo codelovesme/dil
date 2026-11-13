@@ -10,6 +10,20 @@ etimoloji: Ana Türkçe *ür- 'üflemek'. Eski Türkçe ve Sibirya dillerinde, K
 kaynak: savelyev-turkic
 
 taniklar:
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: ür
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: اورمك
+    not: Wiktionary'de mastar biçimiyle ürmek.
+  - dil: tur
+    yuzyil: 16-19
+    bicim: ürü
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: اورومك
+    not: Wiktionary'de mastar biçimiyle ürümek.
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)

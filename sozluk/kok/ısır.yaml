@@ -12,10 +12,11 @@ kaynak: savelyev-turkic; wiktionary-ana-turkce
 taniklar:
   - dil: tur
     yuzyil: 16-19
-    bicim: ısırmak
+    bicim: ısır
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: ایصرمق
+    not: Wiktionary'de mastar biçimiyle ısırmak.
   - {atif: 'aksenova1992, stachowski1993', bicim: ıtır, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ızır, dil: kjh, kaynak: savelyev-turkic}
   - {atif: kurpesko-tannagaseva1993, bicim: ızır, dil: cjs, kaynak: savelyev-turkic}

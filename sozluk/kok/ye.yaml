@@ -12,10 +12,11 @@ kaynak: savelyev-turkic; wiktionary-ana-turkce
 taniklar:
   - dil: tur
     yuzyil: 16-19
-    bicim: yemek, yimek
+    bicim: ye, yi
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یمك
+    not: Wiktionary'de mastar biçimiyle yemek, yimek.
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ye, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'asmarin1928, savelyev2011', bicim: şi, dil: chv, kaynak: savelyev-turkic, not: Oğur ş- (Ortak Türkçe y-)., yazi: ҫи-}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: i, dil: gag, kaynak: savelyev-turkic}

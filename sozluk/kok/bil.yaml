@@ -27,10 +27,11 @@ taniklar:
     atif: clauson1972
   - dil: tur
     yuzyil: 16-19
-    bicim: bilmek
+    bicim: bil
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: بلمك
+    not: Wiktionary'de mastar biçimiyle bilmek.
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: bil, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: bel, dil: bak, kaynak: savelyev-turkic, yazi: бел-}
   - {atif: 'asmarin1928, savelyev2011', bicim: pĕl, dil: chv, kaynak: savelyev-turkic, yazi: пӗл-}

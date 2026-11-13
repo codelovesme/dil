@@ -27,10 +27,11 @@ taniklar:
     atif: clauson1972
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: yumaq
+    bicim: yu
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یومق
+    not: Wiktionary'de mastar biçimiyle yumaq.
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yu, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: yıw, dil: bak, kaynak: savelyev-turkic, yazi: йыу-}
   - {atif: 'asmarin1928, savelyev2011', bicim: şu, dil: chv, kaynak: savelyev-turkic, yazi: ҫу-}

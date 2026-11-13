@@ -1,0 +1,62 @@
+kavram: çek-
+ingilizce: pull
+anlam: Çekmek.
+dogrulandi: false
+kokler:
+- kok: tart
+  koken: türkçe
+  ana_turkce: '*tart-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tart.yaml).
+  tarihi:
+    qwm: tart
+    otk: tart
+    xqa: tart
+    chg: tart
+  bicimler:
+    bak: tart
+    chv:
+      bicim: turt
+      miras: true
+    crh: tart
+    dlg: tart
+    krc: tart
+    kdr: tart
+    kaa: tart
+    kaz: tart
+    kjh: tart
+    kir: tart
+    kum: tart
+    clw: tart
+    nog: tart
+    atv: tart
+    slr: taat
+    ybe: tart
+    cjs: tart
+    alt: tart
+    tat: tart
+    kim: tırt
+    tuk: dart
+    tyv: tırt
+    uig: tart
+    uzb: tort
+    sah: tart
+    sty-baraba: tart
+- kok: çek
+  koken: türkçe
+  ana_turkce: '*ček-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çek.yaml).
+  bicimler:
+    aze: çäk
+    gag: çek
+    klj:
+      bicim: çäk
+      miras: true
+    tur: çek
+  tarihi:
+    xqa: çek
+    qwm: çek
+    chg: çek
+yok: []
+tarihi_yok: []

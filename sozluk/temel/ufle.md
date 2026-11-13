@@ -22,8 +22,8 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [es](../kok/es.md) | türkçe | 0.40 (*es*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *es*) | *ēs- |
-| [ür](../kok/ür.md) | türkçe | 0.10 (*ür*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~35 milyon (%18, *ür*) | *ür- |
+| [es](../kok/es.md) | türkçe | 0.38 (*es*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *es*) | *ēs- |
+| [ür](../kok/ür.md) | türkçe | 0.12 (*ür*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~35 milyon (%18, *ür*) | *ür- |
 | [sok](../kok/sok.md) | türkçe | -0.43 (*sok*) | Çuvaşça %0 | Kıpçak kolu (2 hat) | ~41 milyon (%21, *sok*) | *sok- |
 | [für](../kok/für.md) | türkçe | -0.45 (*für*) | Çuvaşça %0 | Salarca (1 hat) | ~8 milyon (%4, *für*) |  |
 | [übür](../kok/übür.md) | türkçe | -0.47 (*übür*) | Çuvaşça %0 | Şorca (1 hat) | ~0 milyon (%0, *übür*) |  |
@@ -44,7 +44,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | es | *es* (es) | es |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | häs | häs | häs |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | häs | häs | häs | häs |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | es | ürmek | es |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | es | es | es |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | es | es | es |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | es | es | es |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | es | es | es | es |
@@ -56,8 +56,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | äs | äs | äs | äs |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | äs | äs | äs | äs |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | äs ↑ | äs ↑ | äs ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | es ↑ | ürmek ↑ | es ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | es ↑ | ürmek ↑ | es ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | es ↑ | es ↑ | es ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | es ↑ | es ↑ | es ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | ös | ös | ös |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ös | ös | ös | ös |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ös | ös | ös | ös |
@@ -164,5 +164,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  |  | ür |  |  |  |  |
 | Sibirya kolu | Kuzey Altayca |  |  |  |  |  |  | kir |
 
-**Tarihî tanıklar:** Eski Türkçe *ür*; Karahanlıca *es*; Karahanlıca *ür*; Kuman-Kıpçakça *es*; Kuman-Kıpçakça *sok*; Eski Anadolu Türkçesi *ürmek*; Harezm Türkçesi ve Çağatayca *es*.
+**Tarihî tanıklar:** Eski Türkçe *ür*; Karahanlıca *es*; Karahanlıca *ür*; Kuman-Kıpçakça *es*; Kuman-Kıpçakça *sok*; Eski Anadolu Türkçesi *ür*; Harezm Türkçesi ve Çağatayca *es*.
 

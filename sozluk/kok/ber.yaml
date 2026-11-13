@@ -27,16 +27,18 @@ taniklar:
     atif: clauson1972
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: vermäk
+    bicim: ver
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: وِیرْمَكْ
+    not: Wiktionary'de mastar biçimiyle vermäk.
   - dil: tur
     yuzyil: 16-19
-    bicim: vermek
+    bicim: ver
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: ویرمك
+    not: Wiktionary'de mastar biçimiyle vermek.
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ver, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: bir, dil: bak, kaynak: savelyev-turkic, yazi: бир-}
   - {atif: 'asmarin1928, savelyev2011', bicim: par, dil: chv, kaynak: savelyev-turkic, yazi: пар-}

@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | ber | ber | ber |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | vier | vier | vier |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | vier | vier | vier | vier |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ber | vermäk | ver |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ber | ver | ver |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | ver | ver | ver |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | ver | ver | ver |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | ver | ver | ver | ver |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | ver | ver | ver | ver |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ver | ver | ver | ver |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | ver ↑ | ver ↑ | ver ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | ber ↑ | vermäk ↑ | ver ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | ber ↑ | vermäk ↑ | ver ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | ber ↑ | ver ↑ | ver ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | ber ↑ | ver ↑ | ver ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | ber | ber | ber |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ber | ber | ber | ber |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ber | ber | ber | ber |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | pär |
 | Sibirya kolu | Kuzey Altayca |  | per |
 
-**Tarihî tanıklar:** Eski Türkçe *ber*; Kuman-Kıpçakça *ber*; Eski Anadolu Türkçesi *vermäk*.
+**Tarihî tanıklar:** Eski Türkçe *ber*; Kuman-Kıpçakça *ber*; Eski Anadolu Türkçesi *ver*.
 

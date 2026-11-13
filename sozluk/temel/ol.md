@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | öl | öl | öl |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | öl ↑ | öl ↑ | öl ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | öl ↑ | öl ↑ | öl ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | öl | ölmäk | öl |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | öl | öl | öl |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | öl | öl | öl |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | öl | öl | öl |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | öl | öl | öl | öl |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | öl | öl | öl | öl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öl | öl | öl | öl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | öl ↑ | öl ↑ | öl ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | öl ↑ | ölmäk ↑ | öl ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | öl ↑ | ölmäk ↑ | öl ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | öl ↑ | öl ↑ | öl ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | öl ↑ | öl ↑ | öl ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | öl | öl | öl |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | öl | öl | öl | öl |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öl | öl | öl | öl |
@@ -159,5 +159,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | öl |
 | Sibirya kolu | Kuzey Altayca |  | öl |
 
-**Tarihî tanıklar:** Eski Türkçe *öl*; Kuman-Kıpçakça *öl*; Eski Anadolu Türkçesi *ölmäk*.
+**Tarihî tanıklar:** Eski Türkçe *öl*; Kuman-Kıpçakça *öl*; Eski Anadolu Türkçesi *öl*.
 

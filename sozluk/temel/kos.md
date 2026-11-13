@@ -45,7 +45,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | yügür | *yügür* (yügür) | yügür |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yiiir | yiiir | yiiir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yiiir | yiiir | yiiir | yiiir |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yügür | yügürmek | *koş* (koş) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yügür | yügür | *koş* (koş) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *kaç* (kaç) | *kaç* (kaç) | koş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | *koş* (koş) | kaç | koş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | koş | *koş* (koş) | koş | koş |
@@ -57,8 +57,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | kaç | kaç | kaç | kaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaç | kaç | kaç | kaç |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | kaç ↑ | kaç ↑ | kaç ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yügür ↑ | yügürmek ↑ | koş ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yügür ↑ | yügürmek ↑ | koş ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yügür ↑ | yügür ↑ | koş ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yügür ↑ | yügür ↑ | koş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | *ılga* (ılga) | *ılga* (ılga) | *ılga* (ılga) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ılga | ılga | ılga | ılga |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ılga | ılga | ılga | ılga |
@@ -165,5 +165,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | çügür |  |  |  |  |  |  |
 | Sibirya kolu | Kuzey Altayca |  | tügür |  |  |  |  |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *yügür*; Kuman-Kıpçakça *yügür*; Eski Anadolu Türkçesi *yügürmek*.
+**Tarihî tanıklar:** Eski Türkçe *yügür*; Kuman-Kıpçakça *yügür*; Eski Anadolu Türkçesi *yügür*.
 

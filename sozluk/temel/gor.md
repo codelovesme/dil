@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | kör | kör | kör |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | ker | ker | ker |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | ker | ker | ker | ker |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | gör | görmäk | gör |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | gör | gör | gör |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | gör | gör | gör |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | gör | gör | gör |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | gör | gör | gör | gör |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | gör | gör | gör | gör |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gör | gör | gör | gör |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | gör ↑ | gör ↑ | gör ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | gör ↑ | görmäk ↑ | gör ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | gör ↑ | görmäk ↑ | gör ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | gör ↑ | gör ↑ | gör ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | gör ↑ | gör ↑ | gör ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | gör | gör | gör |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | gör | gör | gör | gör |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gör | gör | gör | gör |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | kör |
 | Sibirya kolu | Kuzey Altayca |  | kör |
 
-**Tarihî tanıklar:** Eski Türkçe *kör*; Kuman-Kıpçakça *kör*; Eski Anadolu Türkçesi *görmäk*.
+**Tarihî tanıklar:** Eski Türkçe *kör*; Kuman-Kıpçakça *kör*; Eski Anadolu Türkçesi *gör*.
 

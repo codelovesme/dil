@@ -40,7 +40,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | tut | tut | tut | tut |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | tut | dutmaq, tutmaq | tut |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | tut | dut, tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | tut | tut | tut | tut |
@@ -52,8 +52,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | tut ↑ | tut ↑ | tut ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | tut ↑ | dutmaq, tutmaq ↑ | tut ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | tut ↑ | dutmaq, tutmaq ↑ | tut ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | tut ↑ | dut, tut ↑ | tut ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | tut ↑ | dut, tut ↑ | tut ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | tut |  |
 | Sibirya kolu | Kuzey Altayca |  | tut |  |
 
-**Tarihî tanıklar:** Eski Türkçe *tut*; Kuman-Kıpçakça *tut*; Eski Anadolu Türkçesi *dutmaq, tutmaq*.
+**Tarihî tanıklar:** Eski Türkçe *tut*; Kuman-Kıpçakça *tut*; Eski Anadolu Türkçesi *dut, tut*.
 

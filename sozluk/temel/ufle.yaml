@@ -9,7 +9,6 @@ kokler:
   kaynak: savelyev-turkic; wiktionary-ana-turkce
   not: Tanıklar sözlük maddesinde (sozluk/kok/es.yaml).
   tarihi:
-    eski-anadolu: ürmek
     xqa: es
     chg: es
     qwm: es
@@ -38,6 +37,7 @@ kokler:
   tarihi:
     otk: ür
     xqa: ür
+    eski-anadolu: ür
   bicimler:
     chv:
       bicim: vĕr

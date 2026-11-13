@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | tur | tur | tur |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | tur | tur | tur |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | tur | tur | tur | tur |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | dur | durmaq | dur |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | dur | dur | dur |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | dur | dur | dur |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | dur | dur | dur |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | dur | dur | dur | dur |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | dur | dur | dur | dur |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dur | dur | dur | dur |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | dur ↑ | dur ↑ | dur ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | dur ↑ | durmaq ↑ | dur ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | dur ↑ | durmaq ↑ | dur ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | dur ↑ | dur ↑ | dur ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | dur ↑ | dur ↑ | dur ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | dur | dur | dur |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | dur | dur | dur | dur |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dur | dur | dur | dur |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | tur |
 | Sibirya kolu | Kuzey Altayca |  | tur |
 
-**Tarihî tanıklar:** Eski Türkçe *tur*; Kuman-Kıpçakça *tur*; Eski Anadolu Türkçesi *durmaq*.
+**Tarihî tanıklar:** Eski Türkçe *tur*; Kuman-Kıpçakça *tur*; Eski Anadolu Türkçesi *dur*.
 
