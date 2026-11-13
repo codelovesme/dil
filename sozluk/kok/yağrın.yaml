@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yağrın
+anlam: '"kürek kemiği, omuz"'
+koken: türkçe
+kavramlar:
+- omuz
+etimoloji: yağrın 'kürek kemiği'; Baraba, Salar, Kuzey Altay ve Sahada 'omuz' (yawrın, carın,
+  sarın).
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'aksenova1992, stachowski1993', bicim: hannı, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: carın, dil: atv, kaynak: savelyev-turkic, not: yarın de.}
+  - {atif: tenisev1976, bicim: yağrı, dil: slr, kaynak: savelyev-turkic, not: yargı de.}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sarın, dil: sah, kaynak: savelyev-turkic, yazi: сарын}
+  - {atif: dmitrijeva1981, bicim: yawrın, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  alt: yerine iyin (egin)
+  kaa: yerine iyin (egin)
+  kdr: yerine iin (egin)
+  kaz: yerine iyin (egin)
+  kir: yerine iyin (egin)
+  nog: yerine iyin (egin)
+  ybe: yerine igen (egin)
+  tuk: yerine egin (egin)
+  tyv: yerine egin (egin)
+  bak: yerine iñbaş (iñ)
+  krc: yerine imbaş (iñ)
+  kjh: yerine iñnĕ (iñ)
+  kum: yerine inbaş (iñ)
+  clw: yerine äñ (iñ)
+  tat: yerine iñbaş (iñ)
+  crh: yerine omuz (omuz)
+  gag: yerine omuz (omuz)
+  tur: yerine omuz (omuz)
+  aze: yerine çiyin (çiyin)
+  uzb: yerine yelka (yelka)
+  cjs: yerine öştü (öştü)
+  kim: yerine öhün (öştü)
+  chv: yerine xulpuşşi (xulpuşşi)
+tarihi_yok: {}

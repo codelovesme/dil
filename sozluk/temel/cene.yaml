@@ -1,0 +1,56 @@
+kavram: çene
+ingilizce: chin
+anlam: Çene.
+dogrulandi: false
+kokler:
+- kok: eñek
+  koken: türkçe
+  ana_turkce: '*eŋek'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/eñek.yaml).
+  tarihi:
+    qwm: iñäk
+    otk: eñek
+    xqa: eñek
+    chg: eñek
+  bicimler:
+    bak: eyäk
+    dlg: häñiyä
+    kaa: iyek
+    kaz: iyek
+    kjh: eek
+    kir: eek
+    clw: eeg
+    nog: iyek
+    atv: eek
+    slr: enix
+    cjs: eek
+    alt: eek
+    tat: iyäk
+    tuk: eñek
+    uig: eñäk
+    uzb: iyak
+    sah: señiye
+    sty-baraba: inäk
+- kok: çene
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çene.yaml).
+  bicimler:
+    aze: çänä
+    gag: çenä
+    tur: çene
+- kok: erin
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/erin.yaml).
+  bicimler:
+    kim: erin
+- kok: segel
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/segel.yaml).
+  bicimler:
+    tyv: segel
+yok: []
+tarihi_yok: []

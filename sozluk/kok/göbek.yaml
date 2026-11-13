@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: göbek
+anlam: '"göbek"'
+koken: türkçe
+kavramlar:
+- gobek
+etimoloji: göbek/köbek; Oğuz dillerinde ve Kırım Tatarcasında.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: göbäk, dil: aze, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: köbek, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: göbek, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: göbek, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: göbek, dil: tuk, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine kändik (kindik)
+  atv: yerine kindig (kindik)
+  bak: yerine kendek (kindik)
+  kaa: yerine kindik (kindik)
+  krc: yerine kindik (kindik)
+  kdr: yerine kindik (kindik)
+  kaz: yerine kĭndĭk (kindik)
+  kjh: yerine kĕndĕk (kindik)
+  klj: yerine kündik (kindik)
+  kir: yerine kindik (kindik)
+  kum: yerine gindik (kindik)
+  clw: yerine kĕndĕk (kindik)
+  nog: yerine kindik (kindik)
+  slr: yerine kintix (kindik)
+  ybe: yerine kındık (kindik)
+  cjs: yerine kindik (kindik)
+  tat: yerine kendek (kindik)
+  uig: yerine kindik (kindik)
+  uzb: yerine kindik (kindik)
+  alt: yerine kın (kin)
+  kim: yerine hin (kin)
+  tyv: yerine xin (kin)
+  sah: yerine kiin (kin)
+  chv: yerine kăvapa (kăvapa)
+tarihi_yok: {}

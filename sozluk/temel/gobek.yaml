@@ -1,0 +1,64 @@
+kavram: göbek
+ingilizce: navel
+anlam: Göbek.
+dogrulandi: false
+kokler:
+- kok: kindik
+  koken: türkçe
+  ana_turkce: '*kindik'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kindik.yaml).
+  tarihi:
+    otk: kindik
+  bicimler:
+    bak: kendek
+    krc: kindik
+    kdr: kindik
+    kaa: kindik
+    kaz: kĭndĭk
+    kjh: kĕndĕk
+    klj:
+      bicim: kündik
+      miras: true
+    kir: kindik
+    kum: gindik
+    clw: kĕndĕk
+    nog: kindik
+    atv: kindig
+    slr:
+      bicim: kintix
+      miras: true
+    ybe: kındık
+    cjs: kindik
+    tat: kendek
+    uig: kindik
+    uzb: kindik
+    sty-baraba: kändik
+- kok: kin
+  koken: türkçe
+  ana_turkce: '*kīn'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kin.yaml).
+  bicimler:
+    alt: kın
+    kim: hin
+    tyv: xin
+    sah: kiin
+- kok: göbek
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/göbek.yaml).
+  bicimler:
+    aze: göbäk
+    crh: köbek
+    gag: göbek
+    tur: göbek
+    tuk: göbek
+- kok: kăvapa
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kăvapa.yaml).
+  bicimler:
+    chv: kăvapa
+yok: []
+tarihi_yok: []

@@ -1,0 +1,84 @@
+kavram: omuz
+ingilizce: shoulder
+anlam: Omuz.
+dogrulandi: false
+kokler:
+- kok: egin
+  koken: türkçe
+  ana_turkce: '*egin'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/egin.yaml).
+  tarihi:
+    otk: egin
+    eski-anadolu: egin
+    xqa: egin
+    chg: egin
+    qwm: eyin
+  bicimler:
+    kdr: iin
+    kaa: iyin
+    kaz: iyin
+    kir: iyin
+    nog: iyin
+    ybe: igen
+    alt: iyin
+    tuk: egin
+    tyv: egin
+- kok: iñ
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iñ.yaml).
+  bicimler:
+    bak: iñbaş
+    krc: imbaş
+    kjh: iñnĕ
+    kum: inbaş
+    clw: äñ
+    tat: iñbaş
+- kok: yağrın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yağrın.yaml).
+  bicimler:
+    dlg: hannı
+    atv: carın
+    slr: yağrı
+    sah: sarın
+    sty-baraba: yawrın
+- kok: omuz
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/omuz.yaml).
+  bicimler:
+    crh: omuz
+    gag: omuz
+    tur: omuz
+- kok: çiyin
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çiyin.yaml).
+  bicimler:
+    aze: çiyin
+- kok: yelka
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yelka.yaml).
+  bicimler:
+    uzb: yelka
+- kok: öştü
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/öştü.yaml).
+  bicimler:
+    cjs: öştü
+    kim: öhün
+  tarihi:
+    xqa: öşün
+- kok: xulpuşşi
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/xulpuşşi.yaml).
+  bicimler:
+    chv: xulpuşşi
+yok: []
+tarihi_yok: []

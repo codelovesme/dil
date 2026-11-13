@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 186 kavram, 23 tanesi ayrışıyor.
+Toplam 191 kavram, 25 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@ Toplam 186 kavram, 23 tanesi ayrışıyor.
 | bir | bir *(bir)* | bir *(bir)* | bir *(bir)* | UYUŞUYOR |
 | bit | bit *(bit)* | bit *(bit)* | bit *(bit)* | UYUŞUYOR |
 | biz | biz *(biz)* | biz *(biz)* | biz *(biz)* | UYUŞUYOR |
+| boğaz | tamak *(tamak)* | boğuz *(boğaz)* | boğaz *(boğaz)* | AYRIŞIYOR |
 | boynuz | müyüz *(müñüz)* | müyüz *(müñüz)* | müyüz *(müñüz)* | UYUŞUYOR |
 | boyun | boyun *(boyun)* | boyın *(boyun)* | boyun *(boyun)* | UYUŞUYOR |
 | bu | bu *(bu)* | bu *(bu)* | bu *(bu)* | UYUŞUYOR |
@@ -43,8 +44,10 @@ Toplam 186 kavram, 23 tanesi ayrışıyor.
 | burun | burun *(burun)* | burun *(burun)* | burun *(burun)* | UYUŞUYOR |
 | büyük | uluğ *(uluğ)* | büyük *(bedük)* | uluğ *(uluğ)* | AYRIŞIYOR |
 | buz | buz *(buz)* | buz *(buz)* | buz *(buz)* | UYUŞUYOR |
+| çene | eñek *(eñek)* | eñek *(eñek)* | eñek *(eñek)* | UYUŞUYOR |
 | çiçek | çeçek *(çeçek)* | çeçek *(çeçek)* | çeçek *(çeçek)* | UYUŞUYOR |
 | çiğ | çiy *(çiğ)* | çiyg *(çiğ)* | çiğ *(çiğ)* | UYUŞUYOR |
+| ciğer (karaciğer) | bağır *(bağır)* | bağır *(bağır)* | bağır *(bağır)* | UYUŞUYOR |
 | çocuk | bala *(bala)* | bala *(bala)* | bala *(bala)* | UYUŞUYOR |
 | çok | köp *(köp)* | köp *(köp)* | köp *(köp)* | UYUŞUYOR |
 | dağ | tağ *(tağ)* | tağ *(tağ)* | tağ *(tağ)* | UYUŞUYOR |
@@ -75,6 +78,7 @@ Toplam 186 kavram, 23 tanesi ayrışıyor.
 | gel- | kel *(kel)* | kel *(kel)* | kel *(kel)* | UYUŞUYOR |
 | geniş | keñ *(keñ)* | keñ *(keñ)* | keñ *(keñ)* | UYUŞUYOR |
 | git-/bar- | bar *(bar)* | bar *(bar)* | bar *(bar)* | UYUŞUYOR |
+| göbek | kindik *(kindik)* | kindik *(kindik)* | göbek *(göbek)* | AYRIŞIYOR |
 | göğüs | kökräk *(kökrek)* | kökräk *(kökrek)* | kögüs *(kögüz)* | AYRIŞIYOR |
 | gök | kök *(kök)* | kök *(kök)* | kök *(kök)* | UYUŞUYOR |
 | göl | köl *(köl)* | köl *(köl)* | köl *(köl)* | UYUŞUYOR |
@@ -135,6 +139,7 @@ Toplam 186 kavram, 23 tanesi ayrışıyor.
 | odun | ağaç *(ığaç)* | ığaç *(ığaç)* | ağaç *(ığaç)* | UYUŞUYOR |
 | öl- | öl *(öl)* | öl *(öl)* | öl *(öl)* | UYUŞUYOR |
 | öldür- | ölür *(ölür)* | ölür *(ölür)* | öldür *(ölür)* | UYUŞUYOR |
+| omuz | egin *(egin)* | egin *(egin)* | egin *(egin)* | UYUŞUYOR |
 | onlar | olar *(olar)* | olar *(olar)* | olar *(olar)* | UYUŞUYOR |
 | orada | anda *(anda)* | anta *(anda)* | anda *(anda)* | UYUŞUYOR |
 | orman | orman *(orman)* | orman *(orman)* | orman *(orman)* | UYUŞUYOR |

@@ -1,0 +1,55 @@
+kavram: ciğer (karaciğer)
+ingilizce: liver
+anlam: Karaciğer.
+dogrulandi: false
+kokler:
+- kok: bağır
+  koken: türkçe
+  ana_turkce: '*bagïr'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/bağır.yaml).
+  tarihi:
+    otk: bağır
+    xqa: bağır
+    chg: bağır
+    qwm: bağır
+  bicimler:
+    aze: bağır
+    bak: bawır
+    chv:
+      bicim: pĕvĕr
+      miras: true
+    dlg: bıar
+    krc: bawur
+    kdr: bavur
+    kaa: bawır
+    kaz: bawır
+    kjh: paar
+    kir: boor
+    kum: bawur
+    clw: paar
+    nog: bawır
+    atv: bağır
+    slr: pağır
+    ybe: pağır
+    cjs: paar
+    alt: buur
+    tat: bawır
+    kim: baar
+    tur:
+      bicim: bağır
+      tercih: 0.25
+    tuk: bağır
+    tyv: baar
+    uig: beğir
+    sah: bıar
+    sty-baraba: bawır
+- kok: ciğer
+  koken: alıntı:fa
+  kaynak: savelyev-turkic
+  not: Farsça ciger 'ciğer'. Türkiye Türkçesi ve Özbekçede günlük kelime; seçilmez.
+  bicimler:
+    tur: ciğer
+    uzb: jigar
+yok: []
+tarihi_yok: []
