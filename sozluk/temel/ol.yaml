@@ -1,0 +1,48 @@
+kavram: öl-
+ingilizce: die
+anlam: Ölmek.
+dogrulandi: false
+kokler:
+- kok: öl
+  koken: türkçe
+  ana_turkce: '*öl-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/öl.yaml).
+  tarihi:
+    qwm: öl
+    otk: öl
+    eski-anadolu: ölmäk
+  bicimler:
+    aze: öl
+    bak: ül
+    chv:
+      bicim: vil
+      miras: true
+    crh: öl
+    dlg: öl
+    gag: öl
+    krc: öl
+    kdr: öl
+    kaa: öl
+    kaz: öl
+    kjh: öl
+    kir: öl
+    kum: öl
+    clw: öl
+    nog: öl
+    atv: öl
+    slr: ul
+    ybe: yul
+    cjs: öl
+    alt: öl
+    tat: ül
+    kim: öl
+    tur: öl
+    tuk: öl
+    tyv: öl
+    uig: öl
+    uzb: öl
+    sah: öl
+    sty-baraba: öl
+yok: []
+tarihi_yok: []

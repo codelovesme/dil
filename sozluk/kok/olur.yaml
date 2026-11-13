@@ -3,28 +3,14 @@ kok: olur
 anlam: '"oturmak"'
 koken: türkçe
 ana_turkce: '*olur-'
-kavramlar:
-- otur
+kavramlar: [otur, yasa]
 etimoloji: Ana Türkçe *olur-; Eski Türkçe olur-. Birçok dilde tur- ile birleşerek oltur-,
   otur- olmuştur. Sayan ve Sahaca olur-/olor- eski biçimi korur; Çuvaşça lar-.
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - dil: qwm
-    yer: Kırım ve Deşt-i Kıpçak
-    yuzyil: 14
-    metin: Codex Cumanicus
-    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
-    yabanci: true
-    bicim: oltur
-    kaynak: savelyev-turkic
-    atif: noauthor1880
-  - dil: otk
-    yuzyil: 8-14
-    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
-    bicim: olur
-    kaynak: savelyev-turkic
-    atif: clauson1972
+  - {atif: noauthor1880, bicim: oltur, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {atif: clauson1972, bicim: olur, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: otur, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: ultır, dil: bak, kaynak: savelyev-turkic, yazi: ултыр-}
   - {atif: 'asmarin1928, savelyev2011', bicim: lar, dil: chv, kaynak: savelyev-turkic, not: '*olur- > lar- (baştaki ünlü düşmüş).', yazi: лар-}
@@ -55,6 +41,8 @@ taniklar:
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: otir, dil: uzb, kaynak: savelyev-turkic}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: olor, dil: sah, kaynak: savelyev-turkic, yazi: олор-}
   - {atif: dmitrijeva1981, bicim: otır, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: yaşamak, atif: 'aksenova1992, stachowski1993', bicim: olor, dil: dlg, kaynak: savelyev-turkic}
+  - {anlam: yaşamak, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: olor, dil: sah, kaynak: savelyev-turkic, yazi: олор-}
 
 yok: {}
 tarihi_yok: {}

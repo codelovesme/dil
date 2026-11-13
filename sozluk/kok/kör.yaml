@@ -3,41 +3,16 @@ kok: kör
 anlam: '"görmek"'
 koken: türkçe
 ana_turkce: '*kȫr-'
-kavramlar:
-- gor
+kavramlar: [gor, bak]
 etimoloji: Ana Türkçe *kȫr- (uzun ö). Oğuz'da k- > g- (gör-), Kıpçak-Bulgar'da ö > ü (kür-),
   Çuvaşça kur-.
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - dil: qwm
-    yer: Kırım ve Deşt-i Kıpçak
-    yuzyil: 14
-    metin: Codex Cumanicus
-    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
-    yabanci: true
-    bicim: kör
-    kaynak: savelyev-turkic
-    atif: noauthor1880
-    not: Latin harfli yazım chor-.
-  - dil: otk
-    yuzyil: 8-14
-    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
-    bicim: kör
-    kaynak: savelyev-turkic
-    atif: clauson1972
-  - dil: eski-anadolu
-    yuzyil: 13-15
-    bicim: görmäk
-    metin: Eski Anadolu Türkçesi metinleri
-    kaynak: wiktionary-ana-turkce
-    yazi: كُورْمَكْ
-  - dil: tur
-    yuzyil: 16-19
-    bicim: görmek
-    metin: Osmanlı Türkçesi
-    kaynak: wiktionary-ana-turkce
-    yazi: كورمك
+  - {atif: noauthor1880, bicim: kör, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, not: Latin harfli yazım chor-., yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {atif: clauson1972, bicim: kör, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
+  - {bicim: görmäk, dil: eski-anadolu, kaynak: wiktionary-ana-turkce, metin: Eski Anadolu Türkçesi metinleri, yazi: كُورْمَكْ, yuzyil: 13-15}
+  - {bicim: görmek, dil: tur, kaynak: wiktionary-ana-turkce, metin: Osmanlı Türkçesi, yazi: كورمك, yuzyil: 16-19}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: gör, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: kür, dil: bak, kaynak: savelyev-turkic, yazi: күр-}
   - {atif: 'asmarin1928, savelyev2011', bicim: kur, dil: chv, kaynak: savelyev-turkic, yazi: кур-}
@@ -68,6 +43,16 @@ taniklar:
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kör, dil: uzb, kaynak: savelyev-turkic}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kör, dil: sah, kaynak: savelyev-turkic}
   - {atif: dmitrijeva1981, bicim: kör, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: clauson1972, bicim: kör, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
+  - {anlam: bakmak, atif: 'aksenova1992, stachowski1993', bicim: kör, dil: dlg, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: 'baskakov1953, cankov1961, subrakova2006', bicim: kör, dil: kjh, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: savelyev2015, bicim: kör, dil: clw, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: baskakov1985, bicim: kör, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: kurpesko-tannagaseva1993, bicim: kör, dil: cjs, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: baskakov1947, bicim: kör, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: 'rassadin1971, rassadin2005', bicim: kör, dil: kim, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: 'harrison2002, mongus1988, tenisev1968', bicim: kör, dil: tyv, kaynak: savelyev-turkic}
+  - {anlam: bakmak, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kör, dil: sah, kaynak: savelyev-turkic}
 
 yok: {}
 tarihi_yok: {}

@@ -1,0 +1,75 @@
+kavram: yaşa-
+ingilizce: live
+anlam: Yaşamak, hayatta olmak.
+dogrulandi: false
+kokler:
+- kok: yaşa
+  koken: türkçe
+  ana_turkce: '*yaša-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yaşa.yaml).
+  tarihi:
+    otk: yaşa
+  bicimler:
+    aze: yaşa
+    bak: yäşä
+    crh: yaşa
+    gag: yaşa
+    krc: caşa
+    kaa: jasa
+    kir: jaşa
+    kum: yaşa
+    nog: yaşa
+    slr: yaşa
+    ybe: yasa
+    tat: yäşä
+    tur: yaşa
+    tuk: yaşa
+    uig: yaşa
+    uzb: yaşa
+    sty-baraba: yeşä
+- kok: yurtta
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yurtta.yaml).
+  bicimler:
+    kjh: çurta
+    clw: çurta
+    tyv: çurtta
+- kok: tiril
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tiril.yaml).
+  tarihi:
+    qwm: tiril
+  bicimler:
+    kdr: tiril
+- kok: yerle
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yerle.yaml).
+  bicimler:
+    kim: çerlä
+- kok: purăn
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/purăn.yaml).
+  bicimler:
+    chv: purăn
+- kok: olur
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/olur.yaml).
+  bicimler:
+    dlg: olor
+    sah: olor
+- kok: yat
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yat.yaml).
+  bicimler:
+    atv: tat
+    cjs: çat
+    alt: dat
+yok: []
+tarihi_yok: []

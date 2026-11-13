@@ -1,0 +1,62 @@
+kavram: işit-/duy-
+ingilizce: hear
+anlam: Kulakla algılamak, işitmek.
+dogrulandi: false
+kokler:
+- kok: eşit
+  koken: türkçe
+  ana_turkce: '*ešit-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/eşit.yaml).
+  tarihi:
+    qwm: esit
+    otk: eşit
+  bicimler:
+    aze: eşit
+    bak: işet
+    chv:
+      bicim: ilt
+      miras: true
+    crh: eşit
+    dlg: ihit
+    gag: işit
+    krc: eşit
+    kdr: esit
+    kaa: esit
+    kaz: esit
+    kjh: is
+    klj:
+      bicim: işüt
+      miras: true
+    kum: eşit
+    clw: äs
+    nog: esit
+    slr: işti
+    tat: işet
+    tur: işit
+    tuk: eşit
+    uig: işit
+    uzb: eşit
+    sah: ihit
+    sty-baraba: işit
+- kok: uk
+  koken: türkçe
+  ana_turkce: '*uk-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uk.yaml).
+  bicimler:
+    kir: uk
+    atv: uk
+    cjs: uk
+    alt: uk
+- kok: tıñla
+  koken: türkçe
+  ana_turkce: '*tıñla-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tıñla.yaml).
+  bicimler:
+    ybe: tıñna
+    kim: tıñna
+    tyv: dıñna
+yok: []
+tarihi_yok: []

@@ -1,0 +1,86 @@
+kavram: koş-
+ingilizce: run
+anlam: Hızla ilerlemek, koşmak.
+dogrulandi: false
+kokler:
+- kok: yügür
+  koken: türkçe
+  ana_turkce: '*yügür-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yügür.yaml).
+  tarihi:
+    qwm: yügür
+    otk: yügür
+    eski-anadolu: yügürmek
+  bicimler:
+    bak: yüger
+    dlg: hüür
+    kaa: juwır
+    kaz: jügir
+    kjh: çügür
+    klj:
+      bicim: yiiir
+      miras: true
+    kir: jügür
+    clw: çügür
+    atv: tügür
+    slr: yükür
+    cjs: çügür
+    alt: dügür
+    tat: yöger
+    tur:
+      bicim: yügür
+      tercih: 0.25
+    sah: süür
+    sty-baraba: yögir
+- kok: çap
+  koken: türkçe
+  ana_turkce: '*čap-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çap.yaml).
+  bicimler:
+    chv: çup
+    crh: çap
+    krc: çap
+    kdr: çap
+    kum: çap
+    nog: şap
+    uig: çap
+    uzb: çop
+- kok: kaç
+  koken: türkçe
+  ana_turkce: '*kač-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kaç.yaml).
+  bicimler:
+    aze: kaç
+    gag: kaç
+- kok: koş
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/koş.yaml).
+  bicimler:
+    aze:
+      bicim: koş
+      tercih: 0.5
+    tur: koş
+- kok: ılga
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ılga.yaml).
+  bicimler:
+    tuk: ılga
+- kok: sun
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sun.yaml).
+  bicimler:
+    kim: sun
+- kok: mañna
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mañna.yaml).
+  bicimler:
+    tyv: mañna
+yok: []
+tarihi_yok: []

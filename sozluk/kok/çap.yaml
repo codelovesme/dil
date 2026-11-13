@@ -1,0 +1,44 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çap
+anlam: '"koşmak, dörtnala gitmek"'
+koken: türkçe
+ana_turkce: '*čap-'
+kavramlar:
+- kos
+etimoloji: çap- 'dörtnala koşmak'; Kırım, Kafkas, Nogay ve Karluk dillerinde 'koşmak'. Çuvaşça
+  çup-.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'asmarin1928, savelyev2011', bicim: çup, dil: chv, kaynak: savelyev-turkic, yazi: чуп-}
+  - {atif: useinov2007, bicim: çap, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: çap, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: çap, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: çap, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şap, dil: nog, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: çap, dil: uig, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çop, dil: uzb, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine yögir (yügür)
+  atv: yerine tügür (yügür)
+  alt: yerine dügür (yügür)
+  bak: yerine yüger (yügür)
+  dlg: yerine hüür (yügür)
+  kaa: yerine juwır (yügür)
+  kaz: yerine jügir (yügür)
+  kjh: yerine çügür (yügür)
+  klj: yerine yiiir (yügür)
+  kir: yerine jügür (yügür)
+  clw: yerine çügür (yügür)
+  slr: yerine yükür (yügür)
+  cjs: yerine çügür (yügür)
+  tat: yerine yöger (yügür)
+  sah: yerine süür (yügür)
+  tur: yerine koş (koş)
+  aze: yerine koş (koş)
+  gag: yerine kaç (kaç)
+  tuk: yerine ılga (ılga)
+  kim: yerine sun (sun)
+  tyv: yerine mañna (mañna)
+tarihi_yok: {}

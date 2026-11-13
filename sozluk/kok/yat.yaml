@@ -3,28 +3,14 @@ kok: yat
 anlam: '"yatmak"'
 koken: türkçe
 ana_turkce: '*yat-'
-kavramlar:
-- yat
+kavramlar: [yat, yasa]
 etimoloji: Ana Türkçe *yat-. Baştaki y- dillere göre j-, c-, ç-, t-, d- ve Sahacada s- olur;
   uzun ünlü Halaççada korunur.
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - dil: qwm
-    yer: Kırım ve Deşt-i Kıpçak
-    yuzyil: 14
-    metin: Codex Cumanicus
-    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
-    yabanci: true
-    bicim: yat
-    kaynak: savelyev-turkic
-    atif: noauthor1880
-  - dil: otk
-    yuzyil: 8-14
-    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
-    bicim: yat
-    kaynak: savelyev-turkic
-    atif: clauson1972
+  - {atif: noauthor1880, bicim: yat, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {atif: clauson1972, bicim: yat, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
   - {bicim: yat, dil: aze, kaynak: bilgi}
   - {atif: 'uraksin1996, uraksin2005', bicim: yat, dil: bak, kaynak: savelyev-turkic}
   - {atif: useinov2007, bicim: yat, dil: crh, kaynak: savelyev-turkic}
@@ -54,6 +40,9 @@ taniklar:
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yot, dil: uzb, kaynak: savelyev-turkic}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sıt, dil: sah, kaynak: savelyev-turkic, not: Sahaca s- (Ortak Türkçe y-)., yazi: сыт-}
   - {atif: dmitrijeva1981, bicim: yat, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {anlam: yaşamak, atif: baskakov1985, bicim: tat, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: yaşamak, atif: kurpesko-tannagaseva1993, bicim: çat, dil: cjs, kaynak: savelyev-turkic}
+  - {anlam: yaşamak, atif: baskakov1947, bicim: dat, dil: alt, kaynak: savelyev-turkic}
 
 yok:
   chv: yerine vırt (vırt)

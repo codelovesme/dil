@@ -1,0 +1,45 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tıñla
+anlam: '"dinlemek, işitmek"'
+koken: türkçe
+ana_turkce: '*tıñla-'
+kavramlar:
+- isit
+etimoloji: tıñ 'ses, nefes' gövdesinden tıñla- 'dinlemek'; Sayan dillerinde ve Sarı Uygurcada
+  'işitmek'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'malov1957, tenisev1966', bicim: tıñna, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tıñna, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dıñna, dil: tyv, kaynak: savelyev-turkic, yazi: дыңна-}
+
+yok:
+  sty-baraba: yerine işit (eşit)
+  aze: yerine eşit (eşit)
+  bak: yerine işet (eşit)
+  chv: yerine ilt (eşit)
+  crh: yerine eşit (eşit)
+  dlg: yerine ihit (eşit)
+  gag: yerine işit (eşit)
+  kaa: yerine esit (eşit)
+  krc: yerine eşit (eşit)
+  kdr: yerine esit (eşit)
+  kaz: yerine esit (eşit)
+  kjh: yerine is (eşit)
+  klj: yerine işüt (eşit)
+  kum: yerine eşit (eşit)
+  clw: yerine äs (eşit)
+  nog: yerine esit (eşit)
+  slr: yerine işti (eşit)
+  tat: yerine işet (eşit)
+  tur: yerine işit (eşit)
+  tuk: yerine eşit (eşit)
+  uig: yerine işit (eşit)
+  uzb: yerine eşit (eşit)
+  sah: yerine ihit (eşit)
+  atv: yerine uk (uk)
+  alt: yerine uk (uk)
+  kir: yerine uk (uk)
+  cjs: yerine uk (uk)
+tarihi_yok: {}

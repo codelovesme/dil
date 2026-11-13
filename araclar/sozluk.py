@@ -272,7 +272,8 @@ def denetle(maddeler: list[Madde], b: Baglam) -> int:
                     print(f"{m.kok} ← {ad}: {kod} biçimi farklı: kavram {bc.bicim}, "
                           f"tanık {', '.join(sorted(gunumuz[kod]))}")
                     sorun += 1
-            for kod in gunumuz:
+            coklu = len(m.v.get("kavramlar") or []) > 1   # kök başka kavramlarda da kullanılıyor
+            for kod in ([] if coklu else gunumuz):
                 if kod not in k.bicimler:
                     print(f"{m.kok} → {ad}: {kod} tanıklı ama kavram dosyasında yok")
                     sorun += 1

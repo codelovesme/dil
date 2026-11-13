@@ -1,0 +1,50 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tiril
+anlam: '"dirilmek, yaşamak"'
+koken: türkçe
+kavramlar:
+- yasa
+etimoloji: tir- 'dirilmek' fiilinin dönüşlüsü; Kuman ve Karaycada 'yaşamak'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: tiril
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - {atif: baskakov1974, bicim: tiril, dil: kdr, kaynak: savelyev-turkic}
+
+yok:
+  sty-baraba: yerine yeşä (yaşa)
+  aze: yerine yaşa (yaşa)
+  bak: yerine yäşä (yaşa)
+  crh: yerine yaşa (yaşa)
+  gag: yerine yaşa (yaşa)
+  kaa: yerine jasa (yaşa)
+  krc: yerine caşa (yaşa)
+  kir: yerine jaşa (yaşa)
+  kum: yerine yaşa (yaşa)
+  nog: yerine yaşa (yaşa)
+  slr: yerine yaşa (yaşa)
+  ybe: yerine yasa (yaşa)
+  tat: yerine yäşä (yaşa)
+  tur: yerine yaşa (yaşa)
+  tuk: yerine yaşa (yaşa)
+  uig: yerine yaşa (yaşa)
+  uzb: yerine yaşa (yaşa)
+  kjh: yerine çurta (yurtta)
+  clw: yerine çurta (yurtta)
+  tyv: yerine çurtta (yurtta)
+  kim: yerine çerlä (yerle)
+  chv: yerine purăn (purăn)
+  dlg: yerine olor (olur)
+  sah: yerine olor (olur)
+  atv: yerine tat (yat)
+  alt: yerine dat (yat)
+  cjs: yerine çat (yat)
+tarihi_yok: {}
