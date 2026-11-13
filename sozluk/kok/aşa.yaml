@@ -1,0 +1,61 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: aşa
+anlam: '"yemek (yemek yemek)"'
+koken: türkçe
+ana_turkce: '*aša-'
+kavramlar:
+- ye
+etimoloji: aş 'yemek, aş' adından türeyen fiil; Kıpçak-Bulgar, Kafkas Kıpçak, Kırım ve Sahaca-Dolgancada
+  asıl 'yemek' fiili (aşa-, aha-).
+kaynak: savelyev-turkic
+
+taniklar:
+  - dil: qwm
+    yer: Kırım ve Deşt-i Kıpçak
+    yuzyil: 14
+    metin: Codex Cumanicus
+    kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
+    yabanci: true
+    bicim: aşa
+    kaynak: savelyev-turkic
+    atif: noauthor1880
+  - dil: otk
+    yuzyil: 8-14
+    metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
+    bicim: '? aşa'
+    kaynak: savelyev-turkic
+    atif: clauson1972
+    not: Clauson'da aşa- 'yemek' (Savelyev soru işaretiyle).
+  - {atif: 'uraksin1996, uraksin2005', bicim: aşa, dil: bak, kaynak: savelyev-turkic, yazi: аша-}
+  - {atif: useinov2007, bicim: aşa, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: ahaa, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: aşa, dil: krc, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: asa, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: aşa, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: aşa, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: ajan, dil: alt, kaynak: savelyev-turkic, not: aşa- kökünden.}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: aşa, dil: tat, kaynak: savelyev-turkic, yazi: аша-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ahaa, dil: sah, kaynak: savelyev-turkic, not: s > h., yazi: аһаа-}
+  - {atif: dmitrijeva1981, bicim: aşa, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  atv: yerine ti (ye)
+  aze: yerine ye (ye)
+  chv: yerine şi (ye)
+  gag: yerine i (ye)
+  kaa: yerine je (ye)
+  kaz: yerine je (ye)
+  kjh: yerine çi (ye)
+  klj: yerine yee (ye)
+  kir: yerine je (ye)
+  clw: yerine çi (ye)
+  slr: yerine ye (ye)
+  ybe: yerine ye (ye)
+  cjs: yerine çi (ye)
+  kim: yerine çi (ye)
+  tur: yerine ye (ye)
+  tuk: yerine iy (ye)
+  tyv: yerine çi (ye)
+  uig: yerine yi (ye)
+  uzb: yerine ye (ye)
+tarihi_yok: {}

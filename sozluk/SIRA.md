@@ -28,7 +28,7 @@ aşamasında ele alınacak.
 
 - [ ] ol- (bol-) · [ ] et-/kıl- · [ ] de-/ayt- · [x] [gel-](temel/gel.yaml) · [x] [git-/bar-](temel/git.yaml)
 - [x] [ver-](temel/ver.yaml) · [x] [al-](temel/al.yaml) · [x] [gör-](temel/gor.yaml) · [x] [bil-](temel/bil.yaml) · [ ] iste-
-- [ ] ye- · [ ] iç- · [ ] otur- · [ ] dur-/tur- · [ ] yat- · [ ] uyu-
+- [x] [ye-](temel/ye.yaml) · [x] [iç-](temel/ic.yaml) · [x] [otur-](temel/otur.yaml) · [x] [dur-/tur-](temel/tur.yaml) · [x] [yat-](temel/yat.yaml) · [x] [uyu-](temel/uyu.yaml)
 - [ ] bak- · [ ] çık- · [ ] gir- · [ ] tut- · [ ] koy-/sal- · [ ] yap-/kıl-
 - [ ] sev- · [ ] öl- · [ ] yaşa- · [ ] duy- · [ ] söyle-/sözle- · [ ] sor-
 - [ ] işit- · [ ] yürü- · [ ] koş- · [ ] düş- · [ ] kal- · [ ] bekle-

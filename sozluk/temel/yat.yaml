@@ -1,0 +1,61 @@
+kavram: yat-
+ingilizce: lie down
+anlam: Yatmak, uzanmak.
+dogrulandi: false
+kokler:
+- kok: yat
+  koken: türkçe
+  ana_turkce: '*yat-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yat.yaml).
+  tarihi:
+    qwm: yat
+    otk: yat
+  bicimler:
+    aze:
+      bicim: yat
+      tercih: 0.5
+    bak: yat
+    crh: yat
+    dlg: hıt
+    gag: yat
+    krc: cat
+    kdr: yat
+    kaa: jat
+    kaz: jat
+    kjh: çat
+    klj:
+      bicim: yaat
+      miras: true
+    kir: jat
+    kum: yat
+    clw: çat
+    nog: yat
+    atv: tat
+    slr: yat
+    ybe: yat
+    cjs: çat
+    alt: dat
+    tat: yat
+    kim: çıtar
+    tur: yat
+    tuk: yat
+    tyv: çıt
+    uig: yat
+    uzb: yot
+    sah: sıt
+    sty-baraba: yat
+- kok: uzan
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uzan.yaml).
+  bicimler:
+    aze: uzan
+- kok: vırt
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/vırt.yaml).
+  bicimler:
+    chv: vırt
+yok: []
+tarihi_yok: []

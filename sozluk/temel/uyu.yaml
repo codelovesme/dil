@@ -1,0 +1,50 @@
+kavram: uyu-
+ingilizce: sleep
+anlam: Uyumak.
+dogrulandi: false
+kokler:
+- kok: udı
+  koken: türkçe
+  ana_turkce: '*udï-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/udı.yaml).
+  tarihi:
+    qwm: uyu
+    otk: udı
+  bicimler:
+    aze: yat
+    bak: yokla
+    crh: yukla
+    dlg: utuy
+    gag: uyu
+    krc: cukla
+    kdr: yukla
+    kaa: uykıla
+    kaz: uyıkta
+    kjh: uzu
+    kir: ukta
+    kum: yuxla
+    clw: uzu
+    nog: uykla
+    atv: uykta
+    slr: uxla
+    ybe: uzu
+    cjs: uzu
+    alt: uyuxta
+    tat: yokla
+    kim: udu
+    tur: uyu
+    tuk: ukla
+    tyv: udu
+    uig: uxla
+    uzb: uxla
+    sah: utuy
+    sty-baraba: yokla
+- kok: şıvăr
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/şıvăr.yaml).
+  bicimler:
+    chv: şıvăr
+yok: []
+tarihi_yok: []

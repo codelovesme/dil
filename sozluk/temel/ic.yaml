@@ -1,0 +1,50 @@
+kavram: iç-
+ingilizce: drink
+anlam: Sıvıyı ağızdan almak.
+dogrulandi: false
+kokler:
+- kok: iç
+  koken: türkçe
+  ana_turkce: '*ič-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/iç.yaml).
+  tarihi:
+    qwm: iç
+    otk: iç
+  bicimler:
+    aze: iç
+    bak: es
+    chv:
+      bicim: ĕş
+      miras: true
+    crh: iç
+    dlg: is
+    gag: iç
+    krc: iç
+    kdr: iç
+    kaa: iş
+    kaz: iş
+    kjh: is
+    klj:
+      bicim: iç
+      miras: true
+    kir: iç
+    kum: iç
+    clw: iç
+    nog: iş
+    atv: iç
+    slr: iç
+    ybe: iç
+    cjs: iş
+    alt: iç
+    tat: eç
+    kim: iş
+    tur: iç
+    tuk: iç
+    tyv: iş
+    uig: iç
+    uzb: iç
+    sah: is
+    sty-baraba: eç
+yok: []
+tarihi_yok: []

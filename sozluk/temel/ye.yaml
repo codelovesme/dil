@@ -1,0 +1,54 @@
+kavram: ye-
+ingilizce: eat
+anlam: Yiyecek yemek.
+dogrulandi: false
+kokler:
+- kok: ye
+  koken: türkçe
+  ana_turkce: '*yē-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ye.yaml).
+  bicimler:
+    aze: ye
+    chv: şi
+    gag: i
+    kaa: je
+    kaz: je
+    kjh: çi
+    klj:
+      bicim: yee
+      miras: true
+    kir: je
+    clw: çi
+    atv: ti
+    slr: ye
+    ybe: ye
+    cjs: çi
+    kim: çi
+    tur: ye
+    tuk: iy
+    tyv: çi
+    uig: yi
+    uzb: ye
+- kok: aşa
+  koken: türkçe
+  ana_turkce: '*aša-'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/aşa.yaml).
+  tarihi:
+    qwm: aşa
+    otk: '? aşa'
+  bicimler:
+    bak: aşa
+    crh: aşa
+    dlg: ahaa
+    krc: aşa
+    kdr: asa
+    kum: aşa
+    nog: aşa
+    alt: ajan
+    tat: aşa
+    sah: ahaa
+    sty-baraba: aşa
+yok: []
+tarihi_yok: []

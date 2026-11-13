@@ -1,0 +1,50 @@
+kavram: otur-
+ingilizce: sit
+anlam: Oturmak, oturur duruma geçmek.
+dogrulandi: false
+kokler:
+- kok: olur
+  koken: türkçe
+  ana_turkce: '*olur-'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/olur.yaml).
+  tarihi:
+    qwm: oltur
+    otk: olur
+  bicimler:
+    aze: otur
+    bak: ultır
+    chv:
+      bicim: lar
+      miras: true
+    crh: otur
+    dlg: olor
+    gag: otur
+    krc: oltur
+    kdr: oltur
+    kaa: otır
+    kaz: otır
+    kjh: odır
+    klj:
+      bicim: yuor
+      miras: true
+    kir: oltur
+    kum: oltur
+    clw: oolur
+    nog: oltır
+    atv: otur
+    slr: otır
+    ybe: oltur
+    cjs: odur
+    alt: otır
+    tat: utır
+    kim: olur
+    tur: otur
+    tuk: otur
+    tyv: olur
+    uig: oltur
+    uzb: otir
+    sah: olor
+    sty-baraba: otır
+yok: []
+tarihi_yok: []

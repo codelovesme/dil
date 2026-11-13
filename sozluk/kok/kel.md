@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 33 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 2/7 · tanık 32 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -20,8 +20,8 @@
 - ✓ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy (1 tanık)
 - ✗ Eski Anadolu Türkçesi, 13-15. yy
 - ✗ Çağatayca, 15-19. yy
-- ✓ Osmanlıca, 16-19. yy (1 tanık)
-- ✓ 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy (1 tanık)
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
@@ -33,7 +33,6 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 |---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **kel** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kel** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **گلمك** |  | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -75,4 +74,3 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 32 tanık
-- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık

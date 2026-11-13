@@ -25,11 +25,6 @@ taniklar:
     bicim: kel
     kaynak: savelyev-turkic
     atif: clauson1972
-  - dil: tur
-    yuzyil: 16-19
-    bicim: گلمك
-    metin: Osmanlı Türkçesi
-    kaynak: wiktionary-ana-turkce
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: gäl, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: kil, dil: bak, kaynak: savelyev-turkic, yazi: кил-}
   - {atif: 'asmarin1928, savelyev2011', bicim: kil, dil: chv, kaynak: savelyev-turkic, yazi: кил-}
