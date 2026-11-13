@@ -80,6 +80,18 @@ aşamasında ele alınacak.
 - [x] [düşün-](temel/dusun.yaml) · [x] [bul-](temel/bul.yaml) · [x] [ak- (sıvı)](temel/ak-fiil.yaml) · [x] [don-](temel/don.yaml) · [x] [büyü-](temel/buyu.yaml)
 - [x] [kır-](temel/kir-fiil.yaml) · [x] [ört-](temel/ort.yaml) · [x] [öksür-](temel/oksur.yaml) · [x] [çürü-](temel/curu.yaml) · [x] [sıçra-](temel/sicra.yaml)
 
+## 12. Ekler (Hedef 5 için öne alındı)
+
+Ekler de kavram gibi tutulur (`sozluk/ek/`): her ekin dillerdeki biçimleri kök
+dosyalarına (`sozluk/kok/ek-*.yaml`) tanık olarak yazılır, üç hedef ortak dil
+için eki de kelime gibi seçer. Biçim olarak ünlüden ya da akıcı ünsüzden sonraki
+kalın sıralı biçim yazılır; öteki biçimler tanığın notundadır.
+
+- **İsim:** [x] [çoğul](ek/cogul.yaml) · [ ] iyelik (1., 2., 3. kişi; tekil, çoğul) · [ ] ilgi hâli · [ ] yönelme · [ ] belirtme · [ ] bulunma · [ ] ayrılma · [ ] vasıta (ile)
+- **Fiil:** [ ] olumsuzluk (-mA) · [ ] geçmiş zaman (-DI) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [ ] şart (-sA) · [ ] emir · [ ] istek
+- **Kişi ekleri:** [ ] 1., 2., 3. kişi (tekil, çoğul)
+- **Türetme ve diğer:** [ ] soru eki (mI) · [ ] bildirme · [ ] sıfat-fiil · [ ] zarf-fiil (-p, -A) · [ ] -lI · [ ] -sIz · [ ] -CI · [ ] -lIK
+
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz
 > kaynakla doğrulanmadı. Kavram dosyalarının hepsi `dogrulandi: false`.

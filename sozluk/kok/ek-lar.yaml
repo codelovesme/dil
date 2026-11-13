@@ -1,0 +1,42 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-lar
+anlam: '"çoğul eki -lAr"'
+koken: türkçe
+ana_turkce: '*-lAr'
+kavramlar:
+- cogul
+etimoloji: Ana Türkçe *-lAr çoğul eki. Göktürkçeden beri (begler 'beyler'); bütün Ortak Türkçe
+  dillerinde. Önceki sese göre l > n, d, t, z olur (Kıpçak, Sibirya); ünlüsü ünlü uyumuna
+  uyar. Çuvaşçada yerini -sem almış.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {bicim: lar, dil: aze, kaynak: bilgi, not: 'Biçimler: lar, lär'}
+  - {bicim: lar, dil: bak, kaynak: bilgi, not: 'Biçimler: lar, lär; dar, där; tar, tär; nar, när; zar, zär'}
+  - {bicim: lar, dil: crh, kaynak: bilgi, not: 'Biçimler: lar, ler'}
+  - {bicim: lar, dil: dlg, kaynak: bilgi, not: 'Biçimler: lar, ler; tar…, dar…, nar…'}
+  - {bicim: lar, dil: gag, kaynak: bilgi, not: 'Biçimler: lar, ler'}
+  - {bicim: lar, dil: krc, kaynak: bilgi, not: 'Biçimler: lar, ler'}
+  - {bicim: lar, dil: kdr, kaynak: bilgi, not: 'Biçimler: lar, lär'}
+  - {bicim: lar, dil: kaa, kaynak: bilgi, not: 'Biçimler: lar, ler; dar, der; tar, ter'}
+  - {bicim: lar, dil: kaz, kaynak: bilgi, not: 'Biçimler: lar, ler; dar, der; tar, ter'}
+  - {bicim: lar, dil: kjh, kaynak: bilgi, not: 'Biçimler: lar, ler; nar, ner; tar, ter'}
+  - {bicim: lar, dil: klj, kaynak: bilgi, not: 'Biçimler: lar, lär'}
+  - {bicim: lar, dil: kir, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; dar…, tar… (dört yönlü ünlü uyumu)'}
+  - {bicim: lar, dil: kum, kaynak: bilgi, not: 'Biçimler: lar, ler'}
+  - {bicim: lar, dil: nog, kaynak: bilgi, not: 'Biçimler: lar, ler; dar, der; tar, ter (önceki sese göre)'}
+  - {bicim: lar, dil: slr, kaynak: bilgi, not: 'Biçimler: lar'}
+  - {bicim: lar, dil: cjs, kaynak: bilgi, not: 'Biçimler: lar, ler; nar, ner; tar, ter'}
+  - {bicim: lar, dil: alt, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; dar…, tar…, nar…'}
+  - {bicim: lar, dil: tat, kaynak: bilgi, not: 'Biçimler: lar, lär; nar, när (genizsilden sonra)'}
+  - {bicim: lar, dil: tur, kaynak: bilgi, not: 'Biçimler: lar, ler (ünlü uyumu)'}
+  - {bicim: lar, dil: tuk, kaynak: bilgi, not: 'Biçimler: lar, ler'}
+  - {bicim: lar, dil: tyv, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; nar…, dar…, tar…'}
+  - {bicim: lar, dil: uig, kaynak: bilgi, not: 'Biçimler: lar, lär'}
+  - {bicim: lar, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız lar (ünlü uyumu yok)'}
+  - {bicim: lar, dil: sah, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; tar…, dar…, nar…'}
+  - {bicim: lar, dil: sty, kaynak: bilgi, not: 'Biçimler: lar, lär; nar; tar'}
+
+yok:
+  chv: yerine sem (ek-sem)
+tarihi_yok: {}

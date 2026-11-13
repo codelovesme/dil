@@ -93,7 +93,7 @@ Motor ölçmeden seçilmez; her dil çiftinin kalitesi açıkça yazılır.
 | Aşama | Nerede | Teslim | Bitti sayılması için |
 |---|---|---|---|
 | **1. Ölçüm seti** | bitig | `ceviri/olcu/`: Tatoeba'dan dil çifti başına test cümleleri, künye ve lisans; `araclar/ceviri_olc.py` (chrF) | 6 ilk dil için her çiftte en az 100 cümle; ölçüm aracı örnek bir çıktıyı puanlıyor |
-| **2. Dilbilgisi verisi** | bitig | `dilbilgisi/`: çoğul, iyelik, hâl, zaman, olumsuzluk ekleri; ilk 6 dil + ortak dilin taslağı | `yayinla.py` dilbilgisi sayfalarını ve JSON'u üretiyor |
+| **2. Dilbilgisi verisi** | bitig | `sozluk/ek/`: ekler kavram gibi tutulur (biçimler kök dosyalarında tanık), üç hedef ortak dilin ekini de seçer; sıra: [SIRA.md §12](../sozluk/SIRA.md) | İsim ve fiil çekiminin temel ekleri 40 dilde; ortak dilin ek taslağı KARSILASTIRMA'da |
 | **3. Terim sözlüğü çıktısı** | bitig | `cikti/sozluk.json`: kavram → dil → biçimler (çekim tabanı) | İşçi bir cümlenin terim listesini çıkarabiliyor |
 | **4. İlk motor** | bitig + my-euglena-apps | bitig-ceviri işçisi (LLM + terim listesi), API `Cevir { kaynak, hedef, metin }` | 6 dil arasında ölçüm seti puanlanıyor; sonuçlar raporda |
 | **5. Arayüz** | my-euglena-apps | bitig-web'de çeviri sayfası, belge yükleme, kalite etiketi | Gerçek tarayıcıda bir sayfalık metin çevriliyor |

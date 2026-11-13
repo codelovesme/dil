@@ -111,6 +111,8 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [ebe](kok/ebe.md) | Dolgancada "ırmak" | 0 | 26/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [edgü](kok/edgü.md) | "iyi" | 0 | 28/40 | 1/89 | 1/7 | 6 | %83 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [egin](kok/egin.md) | "omuz" | 0 | 28/40 | 1/89 | 7/7 | 21 | %100 | 7 | 8. yy | — |
+| [ek-lar](kok/ek-lar.md) | "çoğul eki -lAr" | 0 | 26/40 | 0/89 | 0/7 | 25 | %0 | 0 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
+| [ek-sem](kok/ek-sem.md) | Çuvaşçada "çoğul eki" | 0 | 26/40 | 0/89 | 0/7 | 1 | %0 | 0 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ekşi](kok/ekşi.md) | "ekşi" | 0 | 23/40 | 0/89 | 3/7 | 8 | %100 | 5 | 11. yy | Eski Türkçe, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Osmanlıca |
 | [elig](kok/elig.md) | "el" | 0 | 30/40 | 1/89 | 1/7 | 8 | %38 | 1 | 14. yy | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [ellig](kok/ellig.md) | "elli (sayı)" | 0 | 24/40 | 0/89 | 6/7 | 36 | %94 | 6 | 8. yy | Eski Anadolu Türkçesi |

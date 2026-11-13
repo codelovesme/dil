@@ -6,6 +6,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 
 | Kavram | İngilizce | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|---|
+| [çoğul eki](ek/cogul.md) | plural suffix | **lar** | **lar** | **lar** | uyuşuyor |
 | [aç-](temel/ac.md) | open | **aç** | **aç** | **aç** | uyuşuyor |
 | [acı](temel/aci.md) | bitter | **açığ** | **açığ** | **acı** | uyuşuyor |
 | [ad](temel/ad.md) | name | **at** | **at** | **at** | uyuşuyor |

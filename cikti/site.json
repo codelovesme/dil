@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 226,
-  "kok": 645,
-  "tanik": 7350,
+  "kavram": 227,
+  "kok": 647,
+  "tanik": 7376,
   "kaynak": 169,
   "dil": 40
  },
@@ -72,6 +72,11 @@
   {
    "yol": "sozluk/SOZLUK.md",
    "baslik": "Tanıklı sözlük (Hedef 4)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/cogul.md",
+   "baslik": "çoğul eki",
    "tur": "dizin"
   },
   {
@@ -597,6 +602,16 @@
   {
    "yol": "sozluk/kok/egin.md",
    "baslik": "egin",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-lar.md",
+   "baslik": "ek-lar",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-sem.md",
+   "baslik": "ek-sem",
    "tur": "kok"
   },
   {
@@ -4431,6 +4446,17 @@
   }
  ],
  "arama": [
+  {
+   "t": "kavram",
+   "ad": "çoğul eki",
+   "alt": "plural suffix",
+   "yol": "sozluk/ek/cogul.md",
+   "ozet": "Ortak dil: lar · Ana Türkçe tahmini: lar · En çok kişinin anladığı: lar",
+   "anahtar": [
+    "lar",
+    "sem"
+   ]
+  },
   {
    "t": "kavram",
    "ad": "aç-",
@@ -11104,6 +11130,27 @@
     "эгин",
     "اكن",
     "اگین"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-lar",
+   "alt": "\"çoğul eki -lAr\"",
+   "yol": "sozluk/kok/ek-lar.md",
+   "ozet": "25 tanık, en eski günümüz",
+   "anahtar": [
+    "lar"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-sem",
+   "alt": "Çuvaşçada \"çoğul eki\"",
+   "yol": "sozluk/kok/ek-sem.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "-сем",
+    "sem"
    ]
   },
   {
