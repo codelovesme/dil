@@ -51,6 +51,9 @@ sozluk/kok/         tanıklı sözlük: her kök için tanıklar (.yaml) ve okun
 sozluk/SOZLUK.md    sözlük dizini ve kapsam tablosu (üretilir)
 araclar/sozluk.py   sözlük: doğrulama, kapsam, sayfa üretimi
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
+araclar/ceviri_veri.py  Hedef 5: Tatoeba'dan ölçüm seti seçer (ceviri/olcu/)
+araclar/ceviri_olc.py   Hedef 5: chrF ölçümü; --kopya ile çevirisiz taban çizgisi
+araclar/yazim.py    yazıları çalışma yazımına aktarır (Kiril, Latin, Uygur)
 araclar/orgu.py     örgüyü veriden ölçer, ag.yaml'daki boşlukları doldurur (gözden geçirmelerde)
 araclar/yayinla.py  bütün okunur çıktılar: kavram ve kök sayfaları, dizinler, cikti/site.json
 araclar/site.py     statik site (GitHub Pages; .github/workflows/site.yml)

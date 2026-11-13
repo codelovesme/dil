@@ -73,6 +73,7 @@ ihtiyaclar:
   dilbilgisi: Dilbilgisi (Aşama 3)
   toplu: Toplu, makinece okunabilir veri
   literatur: Makaleler ve bibliyografya
+  ceviri: "Çeviri (Hedef 5): paralel metinler ve ölçüm setleri"
 
 kaynaklar:
 
@@ -355,6 +356,34 @@ kaynaklar:
     not: >-
       Biçimlerin her biri kendi kaynağına bağlı (sources.bib); 32 dilin listesi
       languages.csv'de.
+
+  - kimlik: tatoeba
+    ad: Tatoeba — çok dilli cümle derlemi
+    url: https://tatoeba.org
+    tur: derlem
+    diller: [tur, aze, kaz, uzb, tat, uig, bak, kir, tuk, crh, chv, sah, gag, kum, krc, kaa, nog, alt, tyv, kjh, klj]
+    kullanim: [ceviri, toplu]
+    ne: >-
+      Gönüllülerin yazıp birbirine çevirdiği cümleler; Türk dillerinde toplam
+      yaklaşık 900 bin cümle (Türkiye Türkçesi 750 bin, Tatarca 100 bin, Azerbaycan
+      13 bin, Uygur 10 bin). Cümleler arası çeviri bağları ayrı dosyada. Hedef 5'in
+      ilk ölçüm seti buradan (ceviri/olcu/tatoeba/).
+    nasil: >-
+      Dil başına dışa aktarım: downloads.tatoeba.org/exports/per_language/<kod>/
+      (<kod>_sentences.tsv.bz2, <kod>-<kod2>_links.tsv.bz2). Seçim
+      araclar/ceviri_veri.py ile.
+    erisim: acik
+    bicim: tsv
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-13: downloads.tatoeba.org dil başına dosyalar indirildi (HTTP 200);
+      22 Türk dili için cümle dosyası var.
+    not: >-
+      Lisans CC BY 2.0 FR; cümle kimlikleri test setinde korunur
+      (https://tatoeba.org/sentences/show/<kimlik>). Çeviriler gönüllülerindir;
+      bir kısmı Türkiye Türkçesinden yakın çeviri olduğu için diller arası
+      benzerliği olduğundan yüksek gösterebilir. Tatarca hem Kiril hem Latin harfli.
 
   - kimlik: northeuralex
     ad: NorthEuraLex

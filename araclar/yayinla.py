@@ -207,7 +207,8 @@ def _baslik(metin: str, yedek: str) -> str:
 def site_json(ciktilar: dict[Path, str], kavramlar, agac, hedefler, b, maddeler) -> str:
     sabit = [("README.md", "Proje", "proje"), ("ILKELER.md", "İlkeler", "ilke"),
              ("sozluk/SIRA.md", "Çalışma sırası", "dizin"), ("GOZDEN-GECIRME.md", "Gözden geçirme", "proje"),
-             ("ORGU.md", "Örgü denetimi", "proje"), ("uygulama/CEVIRI.md", "Çeviri planı", "proje")]
+             ("ORGU.md", "Örgü denetimi", "proje"), ("uygulama/CEVIRI.md", "Çeviri planı", "proje"),
+             ("ceviri/README.md", "Çeviri ölçümü", "proje"), ("ceviri/KOPYA.md", "Çevirisiz örtüşme", "proje")]
     sayfalar = []
     for yol, baslik, tur in sabit:
         sayfalar.append({"yol": yol, "baslik": baslik, "tur": tur})

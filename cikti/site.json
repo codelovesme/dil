@@ -5,7 +5,7 @@
   "kavram": 226,
   "kok": 645,
   "tanik": 7350,
-  "kaynak": 168,
+  "kaynak": 169,
   "dil": 40
  },
  "sayfalar": [
@@ -37,6 +37,16 @@
   {
    "yol": "uygulama/CEVIRI.md",
    "baslik": "Çeviri planı",
+   "tur": "proje"
+  },
+  {
+   "yol": "ceviri/README.md",
+   "baslik": "Çeviri ölçümü",
+   "tur": "proje"
+  },
+  {
+   "yol": "ceviri/KOPYA.md",
+   "baslik": "Çevirisiz örtüşme",
    "tur": "proje"
   },
   {
@@ -19536,6 +19546,14 @@
    "alt": "savelyev-turkic",
    "yol": "kaynaklar/KAYNAKLAR.md#savelyev-turkic",
    "ozet": "32 Türk dilinde 254 temel kavram (Leipzig-Jakarta + Jena 200). Her kelimenin akrabalık sınıfı ses denkliklerine göre belirlenmiş; açık ödünçler ayıklanmış. Save",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Tatoeba — çok dilli cümle derlemi",
+   "alt": "tatoeba",
+   "yol": "kaynaklar/KAYNAKLAR.md#tatoeba",
+   "ozet": "Gönüllülerin yazıp birbirine çevirdiği cümleler; Türk dillerinde toplam yaklaşık 900 bin cümle (Türkiye Türkçesi 750 bin, Tatarca 100 bin, Azerbaycan 13 bin, Uy",
    "anahtar": []
   },
   {
