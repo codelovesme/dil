@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 8,
-  "kok": 2,
-  "tanik": 123,
+  "kavram": 9,
+  "kok": 3,
+  "tanik": 179,
   "kaynak": 168,
   "dil": 40
  },
@@ -60,6 +60,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/siz.md",
+   "baslik": "siz",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/temel/ben.md",
    "baslik": "ben",
    "tur": "kavram"
@@ -87,6 +92,11 @@
   {
    "yol": "sozluk/temel/sen.md",
    "baslik": "sen",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/siz.md",
+   "baslik": "siz",
    "tur": "kavram"
   },
   {
@@ -213,6 +223,24 @@
   },
   {
    "t": "kavram",
+   "ad": "siz",
+   "alt": "you (plural; polite)",
+   "yol": "sozluk/temel/siz.md",
+   "ozet": "Ortak dil: siz · Ana Türkçe tahmini: siz · En çok kişinin anladığı: siz",
+   "anahtar": [
+    "ehigi",
+    "esir",
+    "hez",
+    "sez",
+    "siler",
+    "sirer",
+    "siz",
+    "sler",
+    "sner"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "su",
    "alt": "water",
    "yol": "sozluk/temel/su.md",
@@ -303,6 +331,40 @@
     "بِزْ",
     "بیز",
     "𐰋𐰃𐰕"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "siz",
+   "alt": "ikinci çoğul şahıs zamiri (\"siz\"); birçok dilde saygı için tekil de",
+   "yol": "sozluk/kok/siz.md",
+   "ozet": "56 tanık, en eski 8. yy",
+   "anahtar": [
+    "ehigi",
+    "esir",
+    "hez",
+    "sez",
+    "siler",
+    "sirer",
+    "siz",
+    "sler",
+    "sner",
+    "sīz",
+    "сез",
+    "сиз",
+    "силер",
+    "слер",
+    "снер",
+    "сіз",
+    "сілер",
+    "сірер",
+    "эсир",
+    "эһиги",
+    "һеҙ",
+    "سز",
+    "سىز",
+    "سیز",
+    "𐰾𐰃𐰕"
    ]
   },
   {
