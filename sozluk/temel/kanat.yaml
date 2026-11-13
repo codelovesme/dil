@@ -1,0 +1,51 @@
+kavram: kanat
+ingilizce: wing
+anlam: Kanat.
+dogrulandi: false
+kokler:
+- kok: kanat
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kanat.yaml).
+  tarihi:
+    qwm: kanat
+    otk: kanat
+  bicimler:
+    aze: kanad
+    bak: kanat
+    chv:
+      bicim: şunat
+      miras: true
+    crh: kanat
+    dlg: kınat
+    gag: kanat
+    krc: kanat
+    kdr: kanat
+    kaa: kanat
+    kaz: kanat
+    kjh: xanat
+    kir: kanat
+    kum: kanat
+    clw: kanat
+    nog: kanat
+    atv: kanat
+    slr: kanat
+    ybe: kanat
+    cjs: kanat
+    alt: kanat
+    tat: kanat
+    kim: hanat
+    tur: kanat
+    tuk: ganat
+    uig: kanat
+    uzb: kanot
+    sah: kınat
+    sty-baraba: kanat
+- kok: çalgın
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çalgın.yaml).
+  bicimler:
+    tyv: çalgın
+yok: []
+tarihi_yok: []

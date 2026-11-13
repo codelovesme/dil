@@ -1,0 +1,57 @@
+kavram: tüy
+ingilizce: feather
+anlam: Tüy (kuş tüyü).
+dogrulandi: false
+kokler:
+- kok: tük
+  koken: türkçe
+  ana_turkce: '*tüŕ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/tük.yaml).
+  tarihi:
+    otk: tü
+  bicimler:
+    aze: tük
+    chv: tĕk
+    dlg: tüü
+    gag: tüy
+    krc: kanatlı tük
+    kdr: tik
+    kum: tük
+    clw: tük
+    atv: tük
+    kim: tük
+    tur: tüy
+    sah: tüü
+- kok: yüñ
+  koken: türkçe
+  ana_turkce: '*yüŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yüñ.yaml).
+  tarihi:
+    qwm: yüñ
+  bicimler:
+    kjh: çüg
+    cjs: çüg
+    tyv: çüg
+- kok: kanat
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kanat.yaml).
+  bicimler:
+    crh: kanat
+    alt: kanat
+- kok: yelek
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yelek.yaml).
+  bicimler:
+    tuk: yelek
+- kok: mimilux
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/mimilux.yaml).
+  bicimler:
+    slr: mimilux
+yok: []
+tarihi_yok: []

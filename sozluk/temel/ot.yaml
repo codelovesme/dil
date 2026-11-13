@@ -1,0 +1,59 @@
+kavram: ot
+ingilizce: grass
+anlam: Ot, çimen.
+dogrulandi: false
+kokler:
+- kok: ot-bitki
+  koken: türkçe
+  ana_turkce: '*ōt'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ot-bitki.yaml).
+  bicimler:
+    aze: ot
+    dlg: ot
+    gag: ot
+    kdr: ot
+    kjh: ot
+    klj:
+      bicim: oot
+      miras: true
+    kum: ot
+    clw: ot
+    ybe: oht
+    tur: ot
+    tuk: ot
+    tyv: '? oˁt'
+    uig: ot
+    uzb: öt
+    sah: ot
+- kok: ölen
+  koken: türkçe
+  ana_turkce: '*ölä-ŋ'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ölen.yaml).
+  bicimler:
+    bak: ülän
+    crh: ölen
+    nog: ölen
+    atv: ölöñ
+    cjs: öleñ
+    alt: ölöñ
+    tat: ülän
+    sty-baraba: üläñ
+- kok: çöp
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/çöp.yaml).
+  bicimler:
+    kaa: şöp
+    kaz: şöp
+    kir: çöp
+    slr: çöp
+- kok: kurăk
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/kurăk.yaml).
+  bicimler:
+    chv: kurăk
+yok: []
+tarihi_yok: []

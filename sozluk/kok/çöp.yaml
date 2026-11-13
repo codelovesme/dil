@@ -1,0 +1,41 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: çöp
+anlam: '"çöp; ot"'
+koken: türkçe
+kavramlar:
+- ot
+etimoloji: çöp 'ince dal, çöp'; Kazak, Karakalpak, Kırgız dillerinde ve Salarcada 'ot'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'baskakov1958, baskakov1967', bicim: şöp, dil: kaa, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şöp, dil: kaz, kaynak: savelyev-turkic, yazi: шөп}
+  - {atif: 'judakhin1985, judakhin1957', bicim: çöp, dil: kir, kaynak: savelyev-turkic, yazi: чөп}
+  - {atif: tenisev1976, bicim: çöp, dil: slr, kaynak: savelyev-turkic}
+
+yok:
+  aze: yerine ot (ot-bitki)
+  dlg: yerine ot (ot-bitki)
+  gag: yerine ot (ot-bitki)
+  kdr: yerine ot (ot-bitki)
+  kjh: yerine ot (ot-bitki)
+  klj: yerine oot (ot-bitki)
+  kum: yerine ot (ot-bitki)
+  clw: yerine ot (ot-bitki)
+  ybe: yerine oht (ot-bitki)
+  tur: yerine ot (ot-bitki)
+  tuk: yerine ot (ot-bitki)
+  tyv: yerine ? oˁt (ot-bitki)
+  uig: yerine ot (ot-bitki)
+  uzb: yerine öt (ot-bitki)
+  sah: yerine ot (ot-bitki)
+  sty-baraba: yerine üläñ (ölen)
+  atv: yerine ölöñ (ölen)
+  alt: yerine ölöñ (ölen)
+  bak: yerine ülän (ölen)
+  crh: yerine ölen (ölen)
+  nog: yerine ölen (ölen)
+  cjs: yerine öleñ (ölen)
+  tat: yerine ülän (ölen)
+  chv: yerine kurăk (kurăk)
+tarihi_yok: {}

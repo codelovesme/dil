@@ -3,14 +3,45 @@ kok: kanat
 anlam: '"kanat; kanatlı"'
 koken: türkçe
 ana_turkce: '*kanat'
-kavramlar:
-- kus
+kavramlar: [kus, tuy, kanat]
 etimoloji: kanat 'kanat'tan kanatlı 'kuş'; Karaçay-Malkarca ve Kırgızcada 'kuş'.
 kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'tenisev1989, sujuncev1965', bicim: kanatlı, dil: krc, kaynak: savelyev-turkic}
   - {atif: 'judakhin1985, judakhin1957', bicim: kanattuu, dil: kir, kaynak: savelyev-turkic, yazi: канаттуу}
+  - {anlam: tüy, atif: useinov2007, bicim: kanat, dil: crh, kaynak: savelyev-turkic}
+  - {anlam: tüy, atif: baskakov1947, bicim: kanat, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: noauthor1880, bicim: kanat, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, not: Latin harfli yazım hanat., yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
+  - {anlam: kanat, atif: clauson1972, bicim: kanat, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
+  - {anlam: kanat, atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kanad, dil: aze, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'uraksin1996, uraksin2005', bicim: kanat, dil: bak, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'asmarin1928, savelyev2011', bicim: şunat, dil: chv, kaynak: savelyev-turkic, yazi: ҫунат}
+  - {anlam: kanat, atif: useinov2007, bicim: kanat, dil: crh, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'aksenova1992, stachowski1993', bicim: kınat, dil: dlg, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'baskakov1973, radova-karanastas2016', bicim: kanat, dil: gag, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'tenisev1989, sujuncev1965', bicim: kanat, dil: krc, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: baskakov1974, bicim: kanat, dil: kdr, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'baskakov1958, baskakov1967', bicim: kanat, dil: kaa, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kanat, dil: kaz, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xanat, dil: kjh, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'judakhin1985, judakhin1957', bicim: kanat, dil: kir, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kanat, dil: kum, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: savelyev2015, bicim: kanat, dil: clw, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kanat, dil: nog, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: baskakov1985, bicim: kanat, dil: atv, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: tenisev1976, bicim: kanat, dil: slr, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'malov1957, tenisev1966', bicim: kanat, dil: ybe, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: kurpesko-tannagaseva1993, bicim: kanat, dil: cjs, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: baskakov1947, bicim: kanat, dil: alt, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'dmitrijev1955, osmanov1966', bicim: kanat, dil: tat, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'rassadin1971, rassadin2005', bicim: hanat, dil: kim, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'baskakov1977, iz1992', bicim: kanat, dil: tur, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'baskakov1968, khamzajev1968', bicim: ganat, dil: tuk, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: nadzip1968, bicim: kanat, dil: uig, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kanot, dil: uzb, kaynak: savelyev-turkic}
+  - {anlam: kanat, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kınat, dil: sah, kaynak: savelyev-turkic, yazi: кынат}
+  - {anlam: kanat, atif: dmitrijeva1981, bicim: kanat, dil: sty-baraba, kaynak: savelyev-turkic}
 
 yok:
   sty-baraba: yerine kuş (kuş)

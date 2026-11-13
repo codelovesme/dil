@@ -1,0 +1,40 @@
+kavram: tohum
+ingilizce: seed
+anlam: Tohum.
+dogrulandi: false
+kokler:
+- kok: uruğ-tohum
+  koken: türkçe
+  ana_turkce: '*urug'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/uruğ-tohum.yaml).
+  tarihi:
+    qwm: urlug
+    otk: uruğ
+  bicimler:
+    bak: orlok
+    chv:
+      bicim: văra
+      miras: true
+    crh: urluk
+    krc: urluk
+    kdr: urluk
+    kaz: urık
+    kir: uruk
+    kum: urluk
+    nog: urlık
+    slr: urlux
+    tat: orlık
+    tur:
+      bicim: urluk
+      tercih: 0.25
+    uig: uruk
+    uzb: uruğ
+- kok: tohum
+  koken: alıntı:fa
+  kaynak: savelyev-turkic
+  not: Farsça tuxm'dan alıntı; seçilmez.
+  bicimler:
+    tur: tohum
+yok: []
+tarihi_yok: []

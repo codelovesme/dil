@@ -1,0 +1,43 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ölen
+anlam: '"çimen, ot"'
+koken: türkçe
+ana_turkce: '*ölä-ŋ'
+kavramlar:
+- ot
+etimoloji: ölen 'çimen, yeşil ot'; Kıpçak-Bulgar (ülän), Nogay, Kırım Tatarcası ve Altay dillerinde
+  'ot'.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: 'uraksin1996, uraksin2005', bicim: ülän, dil: bak, kaynak: savelyev-turkic, yazi: үлән}
+  - {atif: useinov2007, bicim: ölen, dil: crh, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ölen, dil: nog, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: ölöñ, dil: atv, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: öleñ, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: ölöñ, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: ülän, dil: tat, kaynak: savelyev-turkic, yazi: үлән}
+  - {atif: dmitrijeva1981, bicim: üläñ, dil: sty-baraba, kaynak: savelyev-turkic}
+
+yok:
+  aze: yerine ot (ot-bitki)
+  dlg: yerine ot (ot-bitki)
+  gag: yerine ot (ot-bitki)
+  kdr: yerine ot (ot-bitki)
+  kjh: yerine ot (ot-bitki)
+  klj: yerine oot (ot-bitki)
+  kum: yerine ot (ot-bitki)
+  clw: yerine ot (ot-bitki)
+  ybe: yerine oht (ot-bitki)
+  tur: yerine ot (ot-bitki)
+  tuk: yerine ot (ot-bitki)
+  tyv: yerine ? oˁt (ot-bitki)
+  uig: yerine ot (ot-bitki)
+  uzb: yerine öt (ot-bitki)
+  sah: yerine ot (ot-bitki)
+  kaa: yerine şöp (çöp)
+  kaz: yerine şöp (çöp)
+  kir: yerine çöp (çöp)
+  slr: yerine çöp (çöp)
+  chv: yerine kurăk (kurăk)
+tarihi_yok: {}

@@ -1,0 +1,40 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: tazıl
+anlam: '"kök" (Altay-Sayan)'
+koken: türkçe
+kavramlar:
+- kok-bitki
+etimoloji: Altay ve Tuvacada tazıl, dazıl; kökeni bu çalışmada araştırılmadı.
+kaynak: savelyev-turkic
+
+taniklar:
+  - {atif: baskakov1985, bicim: tazıl, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: tazıl, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dazıl, dil: tyv, kaynak: savelyev-turkic, yazi: дазыл}
+
+yok:
+  aze: yerine kök (kök-bitki)
+  gag: yerine kök (kök-bitki)
+  tur: yerine kök (kök-bitki)
+  tuk: yerine kök (kök-bitki)
+  sty-baraba: yerine tamır (tamır)
+  bak: yerine tamır (tamır)
+  chv: yerine tımar (tamır)
+  crh: yerine tamır (tamır)
+  kaa: yerine tamır (tamır)
+  krc: yerine tamır (tamır)
+  kdr: yerine tamur (tamır)
+  kaz: yerine tamır (tamır)
+  kir: yerine tamır (tamır)
+  kum: yerine tamur (tamır)
+  nog: yerine tamır (tamır)
+  tat: yerine tamır (tamır)
+  uig: yerine tomur (tamır)
+  dlg: yerine hilis (yıltız)
+  clw: yerine çıltıs (yıltız)
+  ybe: yerine yıltıs (yıltız)
+  cjs: yerine çıltıs (yıltız)
+  kim: yerine sıldıs (yıltız)
+  uzb: yerine ildiz (yıltız)
+  sah: yerine silis (yıltız)
+tarihi_yok: {}
