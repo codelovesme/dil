@@ -1,0 +1,87 @@
+# on
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`on.yaml`](on.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** "on (sayı)"
+- **Ana Türkçe:** *ōn
+- **Köken:** türkçe
+- **Kavramlar:** [on](../temel/on.yaml)
+- **Etimoloji:** Ana Türkçe *ōn. Bütün kollarda (on, un; Saha uon); Çuvaşça vunnă.
+- **En eski tanık:** 8. yy
+
+## Kapsam
+
+**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 3/7 · tanık 36 (kaynaklı %94) · kaynak 4 · yabancı kayıt 1**
+
+- ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
+- ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
+- ✗ Eski Anadolu Türkçesi, 13-15. yy
+- ✗ Çağatayca, 15-19. yy
+- ✓ Osmanlıca, 16-19. yy (1 tanık)
+- ✓ 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy (1 tanık)
+
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 8. yy | Eski Türkçe | Orhon | **on** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — I N 7; T 26 (Clauson, o:n) |
+| 8.–14. yy | Eski Türkçe |  | **oon** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Chuas. 42 (Clauson, o:n) |
+| 11. yy | Karahanlıca | Kâşgar | **oon** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 49 (Clauson, o:n) |
+| 11. yy | Karahanlıca | Balasagun / Kâşgar | **on** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 132, 998 (Clauson, o:n) |
+| 13. yy | Karahanlıca |  | **on** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 237 (Clauson, o:n) |
+| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **oon** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 18, 9 (Clauson, o:n) |
+| 16.–19. yy | Türkiye Türkçesi |  | **on** | اون | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 8.–14. yy, Eski Türkçe: Uzun ünlülü yazım.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **vunnă** | вуннӑ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Halaç kolu | Halaçça |  | **oon** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Gagavuzca |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Türkmence |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Salarca |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Tatarca |  | **un** | ун |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Başkurtça |  | **un** | ун |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kırım Tatarcası |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Karayca |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kumukça |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kazakça |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Karakalpakça |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Nogayca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kırgızca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Güney Altayca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Karluk kolu | Özbekçe |  | **ön** | oʻn |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Karluk kolu | Uygurca |  | **on** | ئون |  | bilgi* |  |
+| Karluk kolu | Uygurca |  | **on** | ئون |  | bilgi* |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | **uon** | уон |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Dolganca |  | **uon** | уон |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Sarı Uygurca |  | **on** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Tuvaca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Tofaca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Hakasça |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Şorca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Kuzey Altayca |  | **on** | он |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+
+## Kaynakça
+
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 28 tanık
+- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 6 tanık
+- [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
+- [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

@@ -1,0 +1,89 @@
+# yeti
+
+> Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`yeti.yaml`](yeti.yaml) dosyasından üretilir; elle düzenlemeyin.
+
+- **Anlam:** "yedi (sayı)"
+- **Ana Türkçe:** *yẹt(t)i
+- **Köken:** türkçe
+- **Kavramlar:** [yedi](../temel/yedi.yaml)
+- **Etimoloji:** Ana Türkçe *yẹt(t)i. Bütün kollarda (yedi, yetti, jeti, çedi; Saha sette); Çuvaşça şiççĕ.
+- **En eski tanık:** 8. yy
+
+## Kapsam
+
+**seviye 0 · diller 34/40 · ağızlar 0/89 · duraklar 3/7 · tanık 38 (kaynaklı %87) · kaynak 3 · yabancı kayıt 0**
+
+- ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
+- ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
+- · Volga Bulgarcası, 10-14. yy
+- ✗ Harezm ve Altın Orda Türkçesi, 13-14. yy
+- ✗ Memlük Kıpçakçası ve Codex Cumanicus, 13-15. yy
+- ✓ Eski Anadolu Türkçesi, 13-15. yy (1 tanık)
+- ✗ Çağatayca, 15-19. yy
+- ✗ Osmanlıca, 16-19. yy
+- · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
+
+Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Sarı Uygurca, Soyotça, Fuyu Kırgızcası.
+
+`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+
+## Zaman çizelgesi
+
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
+|---|---|---|---|---|---|---|---|
+| 8. yy | Eski Türkçe | Orhon | **yeti** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Orhon yazıtlarında 12'den çok geçiş (Clauson, yetti:) |
+| 11. yy | Karahanlıca | Kâşgar | **yeti** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT (Clauson, yetti:) |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **yedi** | یدی | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+
+🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 8. yy, Eski Türkçe: yiti de; Clauson'a göre aslı yetti.
+- 11. yy, Karahanlıca: yeti kat kök 'yedi kat gök'.
+
+## Yaşayan diller ve ağızlar
+
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
+|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **şiççĕ** | ҫиччӗ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Halaç kolu | Halaçça |  | **yetti** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **yedi** |  |  | bilgi* |  |
+| Oğuz kolu | Gagavuzca |  | **yedi** |  |  | bilgi* |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **yeddi** |  |  | bilgi* |  |
+| Oğuz kolu | Türkmence |  | **yedi** | ýedi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Horasan Türkçesi |  | **yetdi** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Oğuz kolu | Salarca |  | **yide** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Tatarca |  | **cide** | җиде |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Başkurtça |  | **yete** | ете |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kırım Tatarcası |  | **yedi** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Karayca |  | **yedi** | йэди |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kırımçakça |  | **yedi** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Urumca |  | **yedi** | йеди |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kumukça |  | **yetti** | етти |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **ceti** | джети |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kazakça |  | **jeti** | жеті |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Karakalpakça |  | **jeti** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Nogayca |  | **yeti** | ети |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Sibirya Tatarcası |  | **yete** | йете |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Kırgızca |  | **jeti** | жети |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Kıpçak kolu | Güney Altayca |  | **yeti** | јети |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Karluk kolu | Özbekçe |  | **yetti** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Karluk kolu | Uygurca |  | **yättä** | يەتتە |  | bilgi* |  |
+| Karluk kolu | Uygurca |  | **yättä** | يەتتە |  | bilgi* |  |
+| Karluk kolu | İli Türkçesi |  | **yetti** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | **sette** | сэттэ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Dolganca |  | **hette** | һэттэ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Tuvaca |  | **çedi** | чеди |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Tofaca |  | **çedi** | чеді |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Duhaca (Tsaatan) |  | **cetä** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Hakasça |  | **çiti** | читі |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Şorca |  | **çetti** | четти |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Çulımca |  | **yēde** | йеде |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+| Sibirya kolu | Kuzey Altayca |  | **çeti** | чети |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
+
+## Kaynakça
+
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 31 tanık
+- [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 2 tanık
+- [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

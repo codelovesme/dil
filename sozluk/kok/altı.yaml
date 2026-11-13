@@ -1,0 +1,56 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: altı
+anlam: '"altı (sayı)"'
+koken: türkçe
+ana_turkce: '*altï'
+kavramlar:
+- alti
+etimoloji: Ana Türkçe *altï. Bütün kollarda (altı, alta, aldı); Çuvaşça ulttă.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: altı
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: آلتی
+  - {bicim: altı, dil: aze, kaynak: wiktionary-ana-turkce}
+  - {bicim: altı, dil: bak, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: ulttă, dil: chv, kaynak: wiktionary-ana-turkce, yazi: улттӑ}
+  - {bicim: altı, dil: crh, kaynak: wiktionary-ana-turkce}
+  - {bicim: alta, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: алта}
+  - {bicim: altı, dil: gag, kaynak: bilgi}
+  - {bicim: altı, dil: krc, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: alti, dil: kaa, kaynak: wiktionary-ana-turkce}
+  - {bicim: altı, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: alta, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: altı, dil: kir, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: kum, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: nog, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: atv, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: altı, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: alt, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: tat, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {bicim: altı, dil: kim, kaynak: wiktionary-ana-turkce, yazi: аълты}
+  - {bicim: altı, dil: tur, kaynak: bilgi}
+  - {bicim: altı, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: alty}
+  - {bicim: aldı, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: алды}
+  - {bicim: altä, dil: uig, kaynak: bilgi, yazi: ئالتە}
+  - {bicim: altä, dil: uig, kaynak: bilgi, yazi: ئالتە}
+  - {bicim: olti, dil: uzb, kaynak: wiktionary-ana-turkce}
+  - {bicim: alta, dil: sah, kaynak: wiktionary-ana-turkce, yazi: алта}
+  - {bicim: altı, dil: duha, kaynak: wiktionary-ana-turkce, yazi: аълты}
+  - {bicim: altı, dil: ili, kaynak: wiktionary-ana-turkce}
+  - {bicim: altı, dil: sty, kaynak: wiktionary-ana-turkce, yazi: алты}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: altı, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson s. 130 (altı:)', not: Göktürk yazıtlarında sık.}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: altı, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'Clauson s. 130 (altı:)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: altı, metin: Kutadgu Bilig, kaynak: clauson, atif: 'Clauson s. 130 (altı:)'}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: altı, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb; Nehcü''l-Feradis (Clauson, altı:)'}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: altı, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Clauson s. 130 (altı:)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, not: Kıpçak 13-15. yüzyıl kaynakları.}
+  - {dil: chg, yuzyil: 16-18, bicim: altı, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Clauson s. 130 (altı:)'}
+
+yok: {}
+tarihi_yok: {}

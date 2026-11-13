@@ -1,0 +1,45 @@
+kavram: yüz (sayı)
+ingilizce: hundred
+anlam: Yüz (sayı).
+dogrulandi: false
+kokler:
+- kok: yüz-sayı
+  koken: türkçe
+  ana_turkce: '*yǖŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yüz-sayı.yaml).
+  bicimler:
+    aze: yüz
+    bak: yöz
+    chv:
+      bicim: şĕr
+      miras: true
+    crh: yüz
+    dlg: hüüs
+    gag: üz
+    krc: cüz
+    kaa: jüz
+    kaz: jüz
+    kjh: çüs
+    klj:
+      bicim: yüüz
+      miras: true
+    kir: jüz
+    kum: yüz
+    clw: şçüs
+    nog: yüz
+    atv: çüs
+    slr: yüz
+    ybe: yöz
+    cjs: çüs
+    alt: yüs
+    tat: yöz
+    kim: çüs
+    tur: yüz
+    tuk: yüz
+    tyv: çüs
+    uig: yüz
+    uzb: yuz
+    sah: süüs
+yok: []
+tarihi_yok: []

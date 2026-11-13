@@ -16,8 +16,8 @@ aşamasında ele alınacak.
 
 ## 2. Sayılar
 
-- [x] [bir](temel/bir.yaml) · [x] [iki](temel/iki.yaml) · [x] [üç](temel/uc.yaml) · [x] [dört](temel/dort.yaml) · [x] [beş](temel/bes.yaml) · [ ] altı · [ ] yedi · [ ] sekiz · [ ] dokuz · [ ] on
-- [ ] yirmi · [ ] otuz · [ ] kırk · [ ] elli · [ ] yüz · [ ] bin
+- [x] [bir](temel/bir.yaml) · [x] [iki](temel/iki.yaml) · [x] [üç](temel/uc.yaml) · [x] [dört](temel/dort.yaml) · [x] [beş](temel/bes.yaml) · [x] [altı](temel/alti.yaml) · [x] [yedi](temel/yedi.yaml) · [x] [sekiz](temel/sekiz.yaml) · [x] [dokuz](temel/dokuz.yaml) · [x] [on](temel/on.yaml)
+- [ ] yirmi · [ ] otuz · [ ] kırk · [ ] elli · [x] [yüz](temel/yuz-sayi.yaml) · [x] [bin](temel/bin.yaml)
 
 ## 3. Varlık, olumsuzluk, bağlaçlar
 

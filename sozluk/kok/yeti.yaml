@@ -1,0 +1,58 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yeti
+anlam: '"yedi (sayı)"'
+koken: türkçe
+ana_turkce: '*yẹt(t)i'
+kavramlar:
+- yedi
+etimoloji: Ana Türkçe *yẹt(t)i. Bütün kollarda (yedi, yetti, jeti, çedi; Saha sette); Çuvaşça
+  şiççĕ.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: eski-anadolu
+    yuzyil: 13-15
+    bicim: yedi
+    metin: Eski Anadolu Türkçesi metinleri
+    kaynak: wiktionary-ana-turkce
+    yazi: یدی
+  - {bicim: yeddi, dil: aze, kaynak: bilgi}
+  - {bicim: yete, dil: bak, kaynak: wiktionary-ana-turkce, yazi: ете}
+  - {bicim: şiççĕ, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫиччӗ}
+  - {bicim: yedi, dil: crh, kaynak: wiktionary-ana-turkce}
+  - {bicim: hette, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һэттэ}
+  - {bicim: yedi, dil: gag, kaynak: bilgi}
+  - {bicim: ceti, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джети}
+  - {bicim: yedi, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: йэди}
+  - {bicim: jeti, dil: kaa, kaynak: wiktionary-ana-turkce}
+  - {bicim: jeti, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жеті}
+  - {bicim: çiti, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: читі}
+  - {bicim: yetti, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: jeti, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жети}
+  - {bicim: yetti, dil: kum, kaynak: wiktionary-ana-turkce, yazi: етти}
+  - {bicim: yēde, dil: clw, kaynak: wiktionary-ana-turkce, yazi: йеде}
+  - {bicim: yeti, dil: nog, kaynak: wiktionary-ana-turkce, yazi: ети}
+  - {bicim: çeti, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чети}
+  - {bicim: yide, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: çetti, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: четти}
+  - {bicim: yeti, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јети}
+  - {bicim: cide, dil: tat, kaynak: wiktionary-ana-turkce, yazi: җиде}
+  - {bicim: çedi, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чеді}
+  - {bicim: yedi, dil: tur, kaynak: bilgi}
+  - {bicim: yedi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýedi}
+  - {bicim: çedi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чеди}
+  - {bicim: yättä, dil: uig, kaynak: bilgi, yazi: يەتتە}
+  - {bicim: yättä, dil: uig, kaynak: bilgi, yazi: يەتتە}
+  - {bicim: yetti, dil: uzb, kaynak: wiktionary-ana-turkce}
+  - {bicim: sette, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сэттэ}
+  - {bicim: cetä, dil: duha, kaynak: wiktionary-ana-turkce}
+  - {bicim: yetti, dil: ili, kaynak: wiktionary-ana-turkce}
+  - {bicim: yedi, dil: jct, kaynak: wiktionary-ana-turkce}
+  - {bicim: yetdi, dil: kmz, kaynak: wiktionary-ana-turkce}
+  - {bicim: yete, dil: sty, kaynak: wiktionary-ana-turkce, yazi: йете}
+  - {bicim: yedi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йеди}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yeti, metin: Orhon yazıtları, kaynak: clauson, atif: 'Orhon yazıtlarında 12''den çok geçiş (Clauson, yetti:)', not: yiti de; Clauson'a göre aslı yetti.}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yeti, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT (Clauson, yetti:)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: yeti kat kök 'yedi kat gök'.}
+
+yok: {}
+tarihi_yok: {}

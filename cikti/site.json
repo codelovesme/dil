@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 213,
-  "kok": 632,
-  "tanik": 6898,
+  "kavram": 220,
+  "kok": 639,
+  "tanik": 7144,
   "kaynak": 168,
   "dil": 40
  },
@@ -112,6 +112,11 @@
   {
    "yol": "sozluk/kok/alama.md",
    "baslik": "alama",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/altı.md",
+   "baslik": "altı",
    "tur": "kok"
   },
   {
@@ -1420,6 +1425,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/miñ.md",
+   "baslik": "miñ",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/mula.md",
    "baslik": "mula",
    "tur": "kok"
@@ -1507,6 +1517,11 @@
   {
    "yol": "sozluk/kok/omuz.md",
    "baslik": "omuz",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/on.md",
+   "baslik": "on",
    "tur": "kok"
   },
   {
@@ -1682,6 +1697,11 @@
   {
    "yol": "sozluk/kok/sekir.md",
    "baslik": "sekir",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/sekiz.md",
+   "baslik": "sekiz",
    "tur": "kok"
   },
   {
@@ -2027,6 +2047,11 @@
   {
    "yol": "sozluk/kok/toku.md",
    "baslik": "toku",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/tokuz.md",
+   "baslik": "tokuz",
    "tur": "kok"
   },
   {
@@ -2525,6 +2550,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/yeti.md",
+   "baslik": "yeti",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/yig.md",
    "baslik": "yig",
    "tur": "kok"
@@ -2632,6 +2662,11 @@
   {
    "yol": "sozluk/kok/yüz-ad.md",
    "baslik": "yüz-ad",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/yüz-sayı.md",
+   "baslik": "yüz-sayı",
    "tur": "kok"
   },
   {
@@ -3275,6 +3310,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/alti.md",
+   "baslik": "altı",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/ana.md",
    "baslik": "ana",
    "tur": "kavram"
@@ -3342,6 +3382,11 @@
   {
    "yol": "sozluk/temel/bil.md",
    "baslik": "bil-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/bin.md",
+   "baslik": "bin",
    "tur": "kavram"
   },
   {
@@ -3527,6 +3572,11 @@
   {
    "yol": "sozluk/temel/doku.md",
    "baslik": "doku-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/dokuz.md",
+   "baslik": "dokuz",
    "tur": "kavram"
   },
   {
@@ -3955,6 +4005,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/on.md",
+   "baslik": "on",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/onlar.md",
    "baslik": "onlar",
    "tur": "kavram"
@@ -4012,6 +4067,11 @@
   {
    "yol": "sozluk/temel/say.md",
    "baslik": "say-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/sekiz.md",
+   "baslik": "sekiz",
    "tur": "kavram"
   },
   {
@@ -4215,6 +4275,11 @@
    "tur": "kavram"
   },
   {
+   "yol": "sozluk/temel/yedi.md",
+   "baslik": "yedi",
+   "tur": "kavram"
+  },
+  {
    "yol": "sozluk/temel/yel.md",
    "baslik": "yel",
    "tur": "kavram"
@@ -4282,6 +4347,11 @@
   {
    "yol": "sozluk/temel/yuz-fiil.md",
    "baslik": "yüz-",
+   "tur": "kavram"
+  },
+  {
+   "yol": "sozluk/temel/yuz-sayi.md",
+   "baslik": "yüz (sayı)",
    "tur": "kavram"
   }
  ],
@@ -4510,6 +4580,22 @@
     "xavak",
     "çeke",
     "şamka"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "altı",
+   "alt": "six",
+   "yol": "sozluk/temel/alti.md",
+   "ozet": "Ortak dil: altı · Ana Türkçe tahmini: altı · En çok kişinin anladığı: altı",
+   "anahtar": [
+    "aldı",
+    "alta",
+    "alti",
+    "altä",
+    "altı",
+    "olti",
+    "ulttă"
    ]
   },
   {
@@ -4781,6 +4867,25 @@
     "oñna",
     "pil",
     "pĕl"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "bin",
+   "alt": "thousand",
+   "yol": "sozluk/temel/bin.md",
+   "ozet": "Ortak dil: miñ · Ana Türkçe tahmini: biñ · En çok kişinin anladığı: bin",
+   "anahtar": [
+    "bin",
+    "biñ",
+    "meñ",
+    "min",
+    "miñ",
+    "mun",
+    "muñ",
+    "müñ",
+    "mıñ",
+    "pin"
    ]
   },
   {
@@ -5575,6 +5680,36 @@
     "toxu",
     "tĕrt",
     "ör"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "dokuz",
+   "alt": "nine",
+   "yol": "sozluk/temel/dokuz.md",
+   "ozet": "Ortak dil: toğuz · Ana Türkçe tahmini: tokuz · En çok kişinin anladığı: dokuz",
+   "anahtar": [
+    "dokkuz",
+    "dokos",
+    "dokuz",
+    "togus",
+    "toguz",
+    "togıs",
+    "togız",
+    "toh'os",
+    "tokkuz",
+    "tokuz",
+    "tos",
+    "toyuz",
+    "toğiz",
+    "toğus",
+    "toğuz",
+    "toğıs",
+    "toğız",
+    "tugız",
+    "tuğız",
+    "tökkiz",
+    "tăxxăr"
    ]
   },
   {
@@ -7520,6 +7655,21 @@
   },
   {
    "t": "kavram",
+   "ad": "on",
+   "alt": "ten",
+   "yol": "sozluk/temel/on.md",
+   "ozet": "Ortak dil: on · Ana Türkçe tahmini: on · En çok kişinin anladığı: on",
+   "anahtar": [
+    "on",
+    "oon",
+    "un",
+    "uon",
+    "vunnă",
+    "ön"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "onlar",
    "alt": "they",
    "yol": "sozluk/temel/onlar.md",
@@ -7775,6 +7925,31 @@
     "saana",
     "sana",
     "say"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "sekiz",
+   "alt": "eight",
+   "yol": "sozluk/temel/sekiz.md",
+   "ozet": "Ortak dil: sekiz · Ana Türkçe tahmini: sekiz · En çok kişinin anladığı: sekiz",
+   "anahtar": [
+    "agıs",
+    "ağıs",
+    "higez",
+    "sakkiz",
+    "sakkăr",
+    "segis",
+    "segiz",
+    "sehes",
+    "sekis",
+    "sekiz",
+    "sekkiz",
+    "ses",
+    "seğis",
+    "sigez",
+    "sigis",
+    "säkkiz"
    ]
   },
   {
@@ -8670,6 +8845,35 @@
   },
   {
    "t": "kavram",
+   "ad": "yedi",
+   "alt": "seven",
+   "yol": "sozluk/temel/yedi.md",
+   "ozet": "Ortak dil: yeti · Ana Türkçe tahmini: yeti · En çok kişinin anladığı: yeti",
+   "anahtar": [
+    "ceti",
+    "cetä",
+    "cide",
+    "hette",
+    "jeti",
+    "sette",
+    "yeddi",
+    "yedi",
+    "yetdi",
+    "yete",
+    "yeti",
+    "yetti",
+    "yide",
+    "yättä",
+    "yēde",
+    "çedi",
+    "çeti",
+    "çetti",
+    "çiti",
+    "şiççĕ"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "yel",
    "alt": "wind",
    "yol": "sozluk/temel/yel.md",
@@ -9021,6 +9225,28 @@
    ]
   },
   {
+   "t": "kavram",
+   "ad": "yüz (sayı)",
+   "alt": "hundred",
+   "yol": "sozluk/temel/yuz-sayi.md",
+   "ozet": "Ortak dil: yüz · Ana Türkçe tahmini: yüz · En çok kişinin anladığı: yüz",
+   "anahtar": [
+    "cüz",
+    "hüüs",
+    "jüz",
+    "süüs",
+    "yuz",
+    "yöz",
+    "yüs",
+    "yüz",
+    "yüüz",
+    "çüs",
+    "üz",
+    "şçüs",
+    "şĕr"
+   ]
+  },
+  {
    "t": "kok",
    "ad": "aalhığ",
    "alt": "Tofacada \"geniş\"",
@@ -9162,6 +9388,30 @@
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "alama"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "altı",
+   "alt": "\"altı (sayı)\"",
+   "yol": "sozluk/kok/altı.md",
+   "ozet": "37 tanık, en eski 8. yy",
+   "anahtar": [
+    "aldı",
+    "alta",
+    "alti",
+    "alty",
+    "altä",
+    "altı",
+    "olti",
+    "ulttă",
+    "алды",
+    "алта",
+    "алты",
+    "аълты",
+    "улттӑ",
+    "آلتی",
+    "ئالتە"
    ]
   },
   {
@@ -13191,6 +13441,39 @@
   },
   {
    "t": "kok",
+   "ad": "miñ",
+   "alt": "\"bin (sayı)\"",
+   "yol": "sozluk/kok/miñ.md",
+   "ozet": "32 tanık, en eski 8. yy",
+   "anahtar": [
+    "bin",
+    "biñ",
+    "meñ",
+    "min",
+    "miñ",
+    "mun",
+    "muñ",
+    "müñ",
+    "müň",
+    "mıñ",
+    "pin",
+    "мең",
+    "минг",
+    "минь",
+    "миң",
+    "мунъ",
+    "муң",
+    "муҥ",
+    "мынъ",
+    "мың",
+    "мыҥ",
+    "пин",
+    "بیك",
+    "مىڭ"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "mula",
    "alt": "Sarı Uygurcada \"çocuk\"",
    "yol": "sozluk/kok/mula.md",
@@ -13460,6 +13743,28 @@
    "ozet": "3 tanık, en eski günümüz",
    "anahtar": [
     "omuz"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "on",
+   "alt": "\"on (sayı)\"",
+   "yol": "sozluk/kok/on.md",
+   "ozet": "36 tanık, en eski 8. yy",
+   "anahtar": [
+    "on",
+    "oon",
+    "oʻn",
+    "un",
+    "uon",
+    "vunnă",
+    "ön",
+    "вуннӑ",
+    "он",
+    "ун",
+    "уон",
+    "ئون",
+    "اون"
    ]
   },
   {
@@ -13919,6 +14224,48 @@
     "сик-",
     "сикер-",
     "һикер-"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "sekiz",
+   "alt": "\"sekiz (sayı)\"",
+   "yol": "sozluk/kok/sekiz.md",
+   "ozet": "39 tanık, en eski 8. yy",
+   "anahtar": [
+    "agıs",
+    "ağıs",
+    "higez",
+    "sakkiz",
+    "sakkăr",
+    "segis",
+    "segiz",
+    "sehes",
+    "sekis",
+    "sekiz",
+    "sekkiz",
+    "ses",
+    "seğis",
+    "sigez",
+    "sigis",
+    "säkkiz",
+    "səkkiz",
+    "агыс",
+    "аҕыс",
+    "саккӑр",
+    "сегиз",
+    "сегизь",
+    "сегис",
+    "сегіз",
+    "секиз",
+    "сес",
+    "сеъһес",
+    "сеғис",
+    "сигез",
+    "сигіс",
+    "һигеҙ",
+    "سكز",
+    "سەككىز"
    ]
   },
   {
@@ -14968,6 +15315,56 @@
     "toku",
     "tokı",
     "toxu"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "tokuz",
+   "alt": "\"dokuz (sayı)\"",
+   "yol": "sozluk/kok/tokuz.md",
+   "ozet": "34 tanık, en eski 8. yy",
+   "anahtar": [
+    "dokkuz",
+    "dokos",
+    "dokuz",
+    "doqquz",
+    "togus",
+    "toguz",
+    "togıs",
+    "togız",
+    "toh'os",
+    "tokkuz",
+    "tokuz",
+    "tos",
+    "toyuz",
+    "toğiz",
+    "toğus",
+    "toğuz",
+    "toğıs",
+    "toğız",
+    "toʻqqiz",
+    "tugız",
+    "tuğız",
+    "tökkiz",
+    "tăxxăr",
+    "докъуз",
+    "тогуз",
+    "тогус",
+    "тогъуз",
+    "тогыз",
+    "тогыс",
+    "тос",
+    "тоъһос",
+    "тоғиз",
+    "тоғус",
+    "тоғыз",
+    "тоғыс",
+    "тоҕус",
+    "тугыз",
+    "туғыҙ",
+    "тӑххӑр",
+    "توققۇز",
+    "طقوز"
    ]
   },
   {
@@ -16547,6 +16944,58 @@
   },
   {
    "t": "kok",
+   "ad": "yeti",
+   "alt": "\"yedi (sayı)\"",
+   "yol": "sozluk/kok/yeti.md",
+   "ozet": "38 tanık, en eski 8. yy",
+   "anahtar": [
+    "ceti",
+    "cetä",
+    "cide",
+    "hette",
+    "jeti",
+    "sette",
+    "yeddi",
+    "yedi",
+    "yetdi",
+    "yete",
+    "yeti",
+    "yetti",
+    "yide",
+    "yättä",
+    "yēde",
+    "çedi",
+    "çeti",
+    "çetti",
+    "çiti",
+    "ýedi",
+    "şiççĕ",
+    "джети",
+    "ете",
+    "ети",
+    "етти",
+    "жети",
+    "жеті",
+    "йеде",
+    "йеди",
+    "йете",
+    "йэди",
+    "сэттэ",
+    "чеди",
+    "чеді",
+    "чети",
+    "четти",
+    "читі",
+    "јети",
+    "җиде",
+    "ҫиччӗ",
+    "һэттэ",
+    "يەتتە",
+    "یدی"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "yig",
    "alt": "\"çiğ\" (Eski Türkçe)",
    "yol": "sozluk/kok/yig.md",
@@ -16984,6 +17433,44 @@
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "yuz"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "yüz-sayı",
+   "alt": "\"yüz (sayı)\"",
+   "yol": "sozluk/kok/yüz-sayı.md",
+   "ozet": "30 tanık, en eski 16. yy",
+   "anahtar": [
+    "cüz",
+    "hüüs",
+    "júz",
+    "jüz",
+    "süüs",
+    "yuz",
+    "yöz",
+    "yüs",
+    "yüz",
+    "yüüz",
+    "çüs",
+    "üz",
+    "ýüz",
+    "şçüs",
+    "şĕr",
+    "жюз",
+    "жүз",
+    "йөз",
+    "йөҙ",
+    "сүүс",
+    "чүс",
+    "чӱс",
+    "щӱс",
+    "юз",
+    "јӱс",
+    "ҫӗр",
+    "һүүс",
+    "يۈز",
+    "یوز"
    ]
   },
   {

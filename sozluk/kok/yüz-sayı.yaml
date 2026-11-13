@@ -1,0 +1,49 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: yüz-sayı
+anlam: '"yüz (sayı)"'
+koken: türkçe
+ana_turkce: '*yǖŕ'
+kavramlar:
+- yuz-sayi
+etimoloji: Ana Türkçe *yǖz. Bütün kollarda (yüz, jüz, yöz, çüs; Saha süüs); Çuvaşça şĕr.
+kaynak: savelyev-turkic; wiktionary-ana-turkce
+
+taniklar:
+  - dil: tur
+    yuzyil: 16-19
+    bicim: yüz
+    metin: Osmanlı Türkçesi
+    kaynak: wiktionary-ana-turkce
+    yazi: یوز
+  - {bicim: yüz, dil: aze, kaynak: wiktionary-ana-turkce}
+  - {bicim: yöz, dil: bak, kaynak: wiktionary-ana-turkce, yazi: йөҙ}
+  - {bicim: şĕr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫӗр}
+  - {bicim: yüz, dil: crh, kaynak: wiktionary-ana-turkce}
+  - {bicim: hüüs, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һүүс}
+  - {bicim: üz, dil: gag, kaynak: wiktionary-ana-turkce}
+  - {bicim: cüz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: жюз}
+  - {bicim: jüz, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: júz}
+  - {bicim: jüz, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жүз}
+  - {bicim: çüs, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чӱс}
+  - {bicim: yüüz, dil: klj, kaynak: wiktionary-ana-turkce}
+  - {bicim: jüz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жүз}
+  - {bicim: yüz, dil: kum, kaynak: wiktionary-ana-turkce, yazi: юз}
+  - {bicim: şçüs, dil: clw, kaynak: wiktionary-ana-turkce, yazi: щӱс}
+  - {bicim: yüz, dil: nog, kaynak: wiktionary-ana-turkce, yazi: юз}
+  - {bicim: çüs, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чӱс}
+  - {bicim: yüz, dil: slr, kaynak: wiktionary-ana-turkce}
+  - {bicim: yöz, dil: ybe, kaynak: wiktionary-ana-turkce}
+  - {bicim: çüs, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чӱс}
+  - {bicim: yüs, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јӱс}
+  - {bicim: yöz, dil: tat, kaynak: wiktionary-ana-turkce, yazi: йөз}
+  - {bicim: çüs, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чүс}
+  - {bicim: yüz, dil: tur, kaynak: wiktionary-ana-turkce}
+  - {bicim: yüz, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýüz}
+  - {bicim: çüs, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чүс}
+  - {bicim: yüz, dil: uig, kaynak: bilgi, yazi: يۈز}
+  - {bicim: yüz, dil: uig, kaynak: bilgi, yazi: يۈز}
+  - {bicim: yuz, dil: uzb, kaynak: wiktionary-ana-turkce}
+  - {bicim: süüs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүс}
+
+yok: {}
+tarihi_yok: {}

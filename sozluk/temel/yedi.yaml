@@ -1,0 +1,55 @@
+kavram: yedi
+ingilizce: seven
+anlam: Yedi (sayı).
+dogrulandi: false
+kokler:
+- kok: yeti
+  koken: türkçe
+  ana_turkce: '*yẹt(t)i'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/yeti.yaml).
+  tarihi:
+    eski-anadolu: yedi
+    otk: yeti
+    xqa: yeti
+  bicimler:
+    aze: yeddi
+    bak: yete
+    chv:
+      bicim: şiççĕ
+      miras: true
+    crh: yedi
+    dlg: hette
+    gag: yedi
+    krc: ceti
+    kdr: yedi
+    kaa: jeti
+    kaz: jeti
+    kjh: çiti
+    klj:
+      bicim: yetti
+      miras: true
+    kir: jeti
+    kum: yetti
+    clw: yēde
+    nog: yeti
+    atv: çeti
+    slr: yide
+    cjs: çetti
+    alt: yeti
+    tat: cide
+    kim: çedi
+    tur: yedi
+    tuk: yedi
+    tyv: çedi
+    uig: yättä
+    uzb: yetti
+    sah: sette
+    duha: cetä
+    ili: yetti
+    jct: yedi
+    kmz: yetdi
+    sty: yete
+    uum: yedi
+yok: []
+tarihi_yok: []

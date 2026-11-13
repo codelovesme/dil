@@ -1,0 +1,51 @@
+kavram: sekiz
+ingilizce: eight
+anlam: Sekiz (sayı).
+dogrulandi: false
+kokler:
+- kok: sekiz
+  koken: türkçe
+  ana_turkce: '*säkiŕ'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/sekiz.yaml).
+  bicimler:
+    aze: säkkiz
+    bak: higez
+    chv:
+      bicim: sakkăr
+      miras: true
+    crh: sekiz
+    dlg: agıs
+    gag: sekiz
+    krc: segiz
+    kdr: segiz
+    kaa: segiz
+    kaz: segiz
+    kjh: sigis
+    klj:
+      bicim: säkkiz
+      miras: true
+    kir: segiz
+    kum: segiz
+    clw: seğis
+    nog: segiz
+    atv: segis
+    slr: sekis
+    cjs: segis
+    alt: segis
+    tat: sigez
+    kim: sehes
+    tur: sekiz
+    tuk: sekiz
+    tyv: ses
+    uig: säkkiz
+    uzb: sakkiz
+    sah: ağıs
+    ili: sekkiz
+  tarihi:
+    otk: sekiz
+    xqa: sekiz
+    qwm: sekiz
+    chg: sekiz
+yok: []
+tarihi_yok: []

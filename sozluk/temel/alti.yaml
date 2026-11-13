@@ -1,0 +1,51 @@
+kavram: altı
+ingilizce: six
+anlam: Altı (sayı).
+dogrulandi: false
+kokler:
+- kok: altı
+  koken: türkçe
+  ana_turkce: '*altï'
+  kaynak: savelyev-turkic; wiktionary-ana-turkce
+  not: Tanıklar sözlük maddesinde (sozluk/kok/altı.yaml).
+  bicimler:
+    aze: altı
+    bak: altı
+    chv:
+      bicim: ulttă
+      miras: true
+    crh: altı
+    dlg: alta
+    gag: altı
+    krc: altı
+    kaa: alti
+    kaz: altı
+    kjh: altı
+    klj:
+      bicim: alta
+      miras: true
+    kir: altı
+    kum: altı
+    nog: altı
+    atv: altı
+    slr: altı
+    cjs: altı
+    alt: altı
+    tat: altı
+    kim: altı
+    tur: altı
+    tuk: altı
+    tyv: aldı
+    uig: altä
+    uzb: olti
+    sah: alta
+    duha: altı
+    ili: altı
+    sty: altı
+  tarihi:
+    otk: altı
+    xqa: altı
+    chg: altı
+    qwm: altı
+yok: []
+tarihi_yok: []
