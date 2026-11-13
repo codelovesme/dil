@@ -2,11 +2,11 @@
 
 > Bu dosya `python3 araclar/kaynaklar.py > kaynaklar/KAYNAKLAR.md` komutuyla [`kaynaklar.yaml`](kaynaklar.yaml) dosyasından üretilir; elle düzenlemeyin.
 
-Toplam **168 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı diller, nasıl kullanılacağı, erişim türü, güvenilirlik ve bu ortamdan erişilip erişilemediği.
+Toplam **169 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı diller, nasıl kullanılacağı, erişim türü, güvenilirlik ve bu ortamdan erişilip erişilemediği.
 
 - **Güven:** yüksek = hakemli ya da uzman eseri; orta = derlenmiş ya da topluluk ürünü; düşük = küçük liste ya da kaba tahmin.
 - **Ortam:** ✓ bu oturumun ağ izni olan adres; ✗ izin listesine eklenmesi gerekir (bkz. [Erişim](#bu-ortamdan-erisim)).
-- **Durum:** 82 kaynak bu ortamdan açılıp denetlendi, 72 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
+- **Durum:** 83 kaynak bu ortamdan açılıp denetlendi, 72 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
 - **Hızlı arama:** `python3 araclar/kaynaklar.py --ara <dil kodu ya da ihtiyaç>` (ör. `--ara chv`, `--ara odunc`).
 
 ## İhtiyaca göre
@@ -344,6 +344,7 @@ Toplam **168 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı d
 - [Elegant Lexicon — Turkic database (C. A. Straughn)](#elegant-lexicon) — açık, güven: orta, ortam: ✓
 - [Leipzig Corpora Collection — kelime sıklık listeleri](#leipzig-corpora) — açık, güven: orta, ortam: ✗
 - [Robbeets vd. 2021 — Triangulation (Transeurasian) veri seti](#robbeets-2021) — açık, güven: orta, ortam: ✗
+- [Tatoeba — çok dilli cümle derlemi](#tatoeba) — açık, güven: orta, ortam: ✗
 - [Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi](#til-mt) — açık, güven: orta, ortam: ✓
 - [TurkicNLP — Türk dilleri için doğal dil işleme araç takımı](#turkicnlp) — açık, güven: orta, ortam: ✗
 - [kaikki.org — Wiktionary'nin makinece okunabilir hâli (wiktextract)](#kaikki) — açık, güven: orta, ortam: ✓
@@ -369,48 +370,52 @@ Toplam **168 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı d
 - [YÖK Açık Bilim ve Tez Merkezi — Türkiye'deki lisansüstü tezler](#yok-acik-bilim) — kısmen, güven: orta, ortam: ✗
 - [Vámbéry — Etymologisches Wörterbuch der turko-tatarischen Sprachen (1878)](#vambery-1878) — açık, güven: düşük, ortam: ✓
 
+### Çeviri (Hedef 5): paralel metinler ve ölçüm setleri
+
+- [Tatoeba — çok dilli cümle derlemi](#tatoeba) — açık, güven: orta, ortam: ✗
+
 ## Dile göre
 
 Yalnızca o dili **özellikle** kapsayan kaynaklar. Bütün diller için geçerli kaynaklar (Wiktionary, StarLing, ESTJa, Savelyev vb.) her dil için ayrıca kullanılabilir.
 
 | Dil | Kaynaklar |
 |---|---|
-| Çuvaşça (`chv`) | [cuvasca-asmarin](#cuvasca-asmarin), [northeuralex](#northeuralex), [ronatas-bati-eski-turkce](#ronatas-bati-eski-turkce), [cuvasca-etimoloji](#cuvasca-etimoloji), [unal-2026](#unal-2026), [kore-ask-real](#kore-ask-real), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [cuvasca-ceviri](#cuvasca-ceviri) |
-| Halaçça (`klj`) | [halacca](#halacca), [iran-dil-atlasi](#iran-dil-atlasi), [wold-halac](#wold-halac), [elegant-lexicon](#elegant-lexicon), [freelang](#freelang) |
-| Türkiye Türkçesi (`tur`) | [osmanlica-batili-sozlukler](#osmanlica-batili-sozlukler), [scil-2026](#scil-2026), [meninski-transkripsiyon](#meninski-transkripsiyon), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [tdk-portal](#tdk-portal), [tietze](#tietze), [tnc](#tnc), [wowa](#wowa), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [karamanlica](#karamanlica), [komsu-dillerde-turkce](#komsu-dillerde-turkce), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [nisanyan](#nisanyan), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
-| Gagavuzca (`gag`) | [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [kore-ask-real](#kore-ask-real), [freelang](#freelang), [gagavuzca](#gagavuzca) |
+| Çuvaşça (`chv`) | [cuvasca-asmarin](#cuvasca-asmarin), [northeuralex](#northeuralex), [ronatas-bati-eski-turkce](#ronatas-bati-eski-turkce), [cuvasca-etimoloji](#cuvasca-etimoloji), [unal-2026](#unal-2026), [kore-ask-real](#kore-ask-real), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [tatoeba](#tatoeba), [cuvasca-ceviri](#cuvasca-ceviri) |
+| Halaçça (`klj`) | [halacca](#halacca), [iran-dil-atlasi](#iran-dil-atlasi), [wold-halac](#wold-halac), [elegant-lexicon](#elegant-lexicon), [tatoeba](#tatoeba), [freelang](#freelang) |
+| Türkiye Türkçesi (`tur`) | [osmanlica-batili-sozlukler](#osmanlica-batili-sozlukler), [scil-2026](#scil-2026), [meninski-transkripsiyon](#meninski-transkripsiyon), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [tdk-portal](#tdk-portal), [tietze](#tietze), [tnc](#tnc), [wowa](#wowa), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [karamanlica](#karamanlica), [komsu-dillerde-turkce](#komsu-dillerde-turkce), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [nisanyan](#nisanyan), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
+| Gagavuzca (`gag`) | [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [kore-ask-real](#kore-ask-real), [tatoeba](#tatoeba), [freelang](#freelang), [gagavuzca](#gagavuzca) |
 | Balkan Gagavuz Türkçesi (`bgx`) | *özel kaynak bulunamadı* |
-| Azerbaycan Türkçesi (`aze`) | [azerbaycan-kaynaklari](#azerbaycan-kaynaklari), [azerbaycan-diyalekt](#azerbaycan-diyalekt), [scil-2026](#scil-2026), [iran-dil-atlasi](#iran-dil-atlasi), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [wowa](#wowa), [apertium](#apertium), [elegant-lexicon](#elegant-lexicon), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
+| Azerbaycan Türkçesi (`aze`) | [azerbaycan-kaynaklari](#azerbaycan-kaynaklari), [azerbaycan-diyalekt](#azerbaycan-diyalekt), [scil-2026](#scil-2026), [iran-dil-atlasi](#iran-dil-atlasi), [northeuralex](#northeuralex), [salehi-2017](#salehi-2017), [wowa](#wowa), [apertium](#apertium), [elegant-lexicon](#elegant-lexicon), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
 | Irak Türkmencesi (Kerkük) (`kerkuk`) | *özel kaynak bulunamadı* |
 | Kaşkayca (`qxq`) | [iran-dil-atlasi](#iran-dil-atlasi), [kaskayca](#kaskayca), [wowa](#wowa), [elegant-lexicon](#elegant-lexicon) |
-| Türkmence (`tuk`) | [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turkmen-etimoloji](#turkmen-etimoloji), [turkmen-sozluk](#turkmen-sozluk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
+| Türkmence (`tuk`) | [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [tatoeba](#tatoeba), [turkmen-etimoloji](#turkmen-etimoloji), [turkmen-sozluk](#turkmen-sozluk), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
 | Horasan Türkçesi (`kmz`) | [iran-dil-atlasi](#iran-dil-atlasi), [elegant-lexicon](#elegant-lexicon) |
 | Salarca (`slr`) | [salarca](#salarca), [cin-turk-dilleri](#cin-turk-dilleri), [kore-ask-real](#kore-ask-real) |
-| Tatarca (`tat`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [tugan-tel](#tugan-tel), [tatar-akademi-sozluk](#tatar-akademi-sozluk), [apertium](#apertium), [komsu-dillerde-turkce](#komsu-dillerde-turkce), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [tatar-derlem](#tatar-derlem), [turk-akademisi-terim](#turk-akademisi-terim), [tatar-sozluk-veri](#tatar-sozluk-veri), [lehceler-com](#lehceler-com) |
-| Başkurtça (`bak`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
-| Kırım Tatarcası (`crh`) | [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [apertium](#apertium), [komsu-dillerde-turkce](#komsu-dillerde-turkce), [kirim-tatar-derlem](#kirim-tatar-derlem), [lexilogos](#lexilogos) |
+| Tatarca (`tat`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [tugan-tel](#tugan-tel), [tatar-akademi-sozluk](#tatar-akademi-sozluk), [apertium](#apertium), [komsu-dillerde-turkce](#komsu-dillerde-turkce), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [tatar-derlem](#tatar-derlem), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [tatar-sozluk-veri](#tatar-sozluk-veri), [lehceler-com](#lehceler-com) |
+| Başkurtça (`bak`) | [northeuralex](#northeuralex), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [apertium](#apertium), [leipzig-corpora](#leipzig-corpora), [qamus](#qamus), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
+| Kırım Tatarcası (`crh`) | [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [apertium](#apertium), [komsu-dillerde-turkce](#komsu-dillerde-turkce), [kirim-tatar-derlem](#kirim-tatar-derlem), [lexilogos](#lexilogos), [tatoeba](#tatoeba) |
 | Karayca (`kdr`) | [karayca-eski-kayitlar](#karayca-eski-kayitlar), [karay-sozluk](#karay-sozluk), [kore-ask-real](#kore-ask-real) |
 | Kırımçakça (`jct`) | *özel kaynak bulunamadı* |
 | Urumca (`uum`) | [kore-ask-real](#kore-ask-real) |
-| Kumukça (`kum`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [kumuk-kaynaklari](#kumuk-kaynaklari), [freelang](#freelang) |
-| Karaçay-Malkarca (`krc`) | [abaev-osetce](#abaev-osetce), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [rosstat-2021](#rosstat-2021) |
-| Kazakça (`kaz`) | [scil-2026](#scil-2026), [qazcorpus](#qazcorpus), [northeuralex](#northeuralex), [kazak-15-cilt](#kazak-15-cilt), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [sozdik](#sozdik), [lehceler-com](#lehceler-com) |
-| Karakalpakça (`kaa`) | [apertium](#apertium) |
-| Nogayca (`nog`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [freelang](#freelang) |
+| Kumukça (`kum`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [tatoeba](#tatoeba), [kumuk-kaynaklari](#kumuk-kaynaklari), [freelang](#freelang) |
+| Karaçay-Malkarca (`krc`) | [abaev-osetce](#abaev-osetce), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [rosstat-2021](#rosstat-2021), [tatoeba](#tatoeba) |
+| Kazakça (`kaz`) | [scil-2026](#scil-2026), [qazcorpus](#qazcorpus), [northeuralex](#northeuralex), [kazak-15-cilt](#kazak-15-cilt), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [opensubtitles-siklik](#opensubtitles-siklik), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [sozdik](#sozdik), [lehceler-com](#lehceler-com) |
+| Karakalpakça (`kaa`) | [apertium](#apertium), [tatoeba](#tatoeba) |
+| Nogayca (`nog`) | [apertium](#apertium), [rosstat-2021](#rosstat-2021), [tatoeba](#tatoeba), [freelang](#freelang) |
 | Sibirya Tatarcası (`sty`) | [sibirya-tatar-agiz](#sibirya-tatar-agiz), [nsc-filoloji](#nsc-filoloji), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen) |
-| Kırgızca (`kir`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [el-sozduk](#el-sozduk), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
-| Güney Altayca (`alt`) | [elar](#elar), [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [kore-ask-real](#kore-ask-real), [rosstat-2021](#rosstat-2021) |
-| Özbekçe (`uzb`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [ozbek-izohli](#ozbek-izohli), [ozbek-etimoloji](#ozbek-etimoloji), [ozbek-kaynaklari](#ozbek-kaynaklari), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
-| Uygurca (`uig`) | [scil-2026](#scil-2026), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [bes-dilli-ayna](#bes-dilli-ayna), [apertium](#apertium), [cagatay-izahli](#cagatay-izahli), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
+| Kırgızca (`kir`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [el-sozduk](#el-sozduk), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
+| Güney Altayca (`alt`) | [elar](#elar), [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [kore-ask-real](#kore-ask-real), [rosstat-2021](#rosstat-2021), [tatoeba](#tatoeba) |
+| Özbekçe (`uzb`) | [scil-2026](#scil-2026), [northeuralex](#northeuralex), [ozbek-izohli](#ozbek-izohli), [ozbek-etimoloji](#ozbek-etimoloji), [ozbek-kaynaklari](#ozbek-kaynaklari), [apertium](#apertium), [en-sik-1000](#en-sik-1000), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [sketch-engine-turk](#sketch-engine-turk), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [lehceler-com](#lehceler-com) |
+| Uygurca (`uig`) | [scil-2026](#scil-2026), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [bes-dilli-ayna](#bes-dilli-ayna), [apertium](#apertium), [cagatay-izahli](#cagatay-izahli), [leipzig-corpora](#leipzig-corpora), [lexilogos](#lexilogos), [qamus](#qamus), [tatoeba](#tatoeba), [turk-akademisi-terim](#turk-akademisi-terim), [freelang](#freelang), [lehceler-com](#lehceler-com) |
 | İli Türkçesi (`ili`) | *özel kaynak bulunamadı* |
-| Sahaca (Yakutça) (`sah`) | [castren-bohtlingk](#castren-bohtlingk), [khabtagaeva](#khabtagaeva), [northeuralex](#northeuralex), [nsc-filoloji](#nsc-filoloji), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [tunguzca](#tunguzca), [kore-ask-real](#kore-ask-real), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [sakhatyla](#sakhatyla) |
+| Sahaca (Yakutça) (`sah`) | [castren-bohtlingk](#castren-bohtlingk), [khabtagaeva](#khabtagaeva), [northeuralex](#northeuralex), [nsc-filoloji](#nsc-filoloji), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [tunguzca](#tunguzca), [kore-ask-real](#kore-ask-real), [apertium](#apertium), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [tatoeba](#tatoeba), [sakhatyla](#sakhatyla) |
 | Dolganca (`dlg`) | [tunguzca](#tunguzca), [kore-ask-real](#kore-ask-real), [rosstat-2021](#rosstat-2021) |
 | Sarı Uygurca (`ybe`) | [elar](#elar), [cin-turk-dilleri](#cin-turk-dilleri), [kore-ask-real](#kore-ask-real), [dogu-yugur-sozluk](#dogu-yugur-sozluk) |
-| Tuvaca (`tyv`) | [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [tatarintsev-tuvaca](#tatarintsev-tuvaca), [kore-ask-real](#kore-ask-real), [apertium](#apertium), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [tuva-sozluk](#tuva-sozluk), [freelang](#freelang) |
+| Tuvaca (`tyv`) | [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [tatarintsev-tuvaca](#tatarintsev-tuvaca), [kore-ask-real](#kore-ask-real), [apertium](#apertium), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [tatoeba](#tatoeba), [tuva-sozluk](#tuva-sozluk), [freelang](#freelang) |
 | Tofaca (`kim`) | [castren-bohtlingk](#castren-bohtlingk), [elar](#elar), [khabtagaeva](#khabtagaeva), [nsc-filoloji](#nsc-filoloji), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [lingsib](#lingsib), [tuva-sozluk](#tuva-sozluk) |
 | Duhaca (Tsaatan) (`duha`) | [tuva-dergi](#tuva-dergi) |
 | Soyotça (`soyot`) | [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [atlaskmns](#atlaskmns), [tuva-dergi](#tuva-dergi), [rosstat-2021](#rosstat-2021), [lingsib](#lingsib) |
-| Hakasça (`kjh`) | [castren-bohtlingk](#castren-bohtlingk), [khabtagaeva](#khabtagaeva), [northeuralex](#northeuralex), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [kore-ask-real](#kore-ask-real), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [freelang](#freelang) |
+| Hakasça (`kjh`) | [castren-bohtlingk](#castren-bohtlingk), [khabtagaeva](#khabtagaeva), [northeuralex](#northeuralex), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sovyet-iki-dilli-sozlukler](#sovyet-iki-dilli-sozlukler), [kore-ask-real](#kore-ask-real), [rosstat-2021](#rosstat-2021), [strahlenberg-witsen](#strahlenberg-witsen), [tatoeba](#tatoeba), [freelang](#freelang) |
 | Şorca (`cjs`) | [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [kore-ask-real](#kore-ask-real), [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021) |
 | Çulımca (`clw`) | [elar](#elar), [nsc-filoloji](#nsc-filoloji), [rf-turk-agiz-atlasi](#rf-turk-agiz-atlasi), [sibirya-eski-sozlukler](#sibirya-eski-sozlukler), [kore-ask-real](#kore-ask-real), [atlaskmns](#atlaskmns), [rosstat-2021](#rosstat-2021), [tuva-sozluk](#tuva-sozluk) |
 | Fuyu Kırgızcası (`fuyu`) | [cin-turk-dilleri](#cin-turk-dilleri), [kore-ask-real](#kore-ask-real) |
@@ -2433,6 +2438,22 @@ Kazan merkezli büyük Tatarca derlemi; sıklık istatistikleri. Tugan Tel'den (
 - **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** aramada görüldü · **Ortam:** izinsiz (www.corpus.tatar)
 - **Kimlik:** `tatar-derlem`
 
+<a id="tatoeba"></a>
+#### Tatoeba — çok dilli cümle derlemi
+
+<https://tatoeba.org>
+
+Gönüllülerin yazıp birbirine çevirdiği cümleler; Türk dillerinde toplam yaklaşık 900 bin cümle (Türkiye Türkçesi 750 bin, Tatarca 100 bin, Azerbaycan 13 bin, Uygur 10 bin). Cümleler arası çeviri bağları ayrı dosyada. Hedef 5'in ilk ölçüm seti buradan (ceviri/olcu/tatoeba/).
+
+**Nasıl kullanılır:** Dil başına dışa aktarım: downloads.tatoeba.org/exports/per_language/<kod>/ (<kod>_sentences.tsv.bz2, <kod>-<kod2>_links.tsv.bz2). Seçim araclar/ceviri_veri.py ile.
+
+- **Diller:** Türkiye Türkçesi, Azerbaycan Türkçesi, Kazakça, Özbekçe, Tatarca, Uygurca, Başkurtça, Kırgızca, Türkmence, Kırım Tatarcası, Çuvaşça, Sahaca (Yakutça), Gagavuzca, Kumukça, Karaçay-Malkarca, Karakalpakça, Nogayca, Güney Altayca, Tuvaca, Hakasça, Halaçça
+- **İşe yaradığı yer:** Çeviri (Hedef 5): paralel metinler ve ölçüm setleri, Toplu, makinece okunabilir veri
+- **Erişim:** açık · **Biçim:** tsv · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinsiz (tatoeba.org)
+- **Doğrulama:** 2026-11-13: downloads.tatoeba.org dil başına dosyalar indirildi (HTTP 200); 22 Türk dili için cümle dosyası var.
+- **Not:** Lisans CC BY 2.0 FR; cümle kimlikleri test setinde korunur (https://tatoeba.org/sentences/show/<kimlik>). Çeviriler gönüllülerindir; bir kısmı Türkiye Türkçesinden yakın çeviri olduğu için diller arası benzerliği olduğundan yüksek gösterebilir. Tatarca hem Kiril hem Latin harfli.
+- **Kimlik:** `tatoeba`
+
 <a id="til-mt"></a>
 #### Turkic Interlingua (TIL) — 22 Türk dili paralel derlemi
 
@@ -3011,6 +3032,7 @@ Bu oturumun ortamında (**dil**) yalnızca şu adreslere izin var: `aclanthology
 |---|---:|---|
 | `www.freelang.net` | 2 | `freelang`, `gagavuzca` |
 | `en.wikipedia.org` | 2 | `wikipedia-turk-dilleri`, `ortak-turk-alfabesi` |
+| `tatoeba.org` | 1 | `tatoeba` |
 | `dev.panlex.org` | 1 | `panlex` |
 | `openaccess.artvin.edu.tr` | 1 | `wold-halac` |
 | `sino-platonic.org` | 1 | `proto-turkic-unsuzler` |

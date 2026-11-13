@@ -9,7 +9,8 @@ Türk topluluklarını öz Türkçe kelimelerle birbirine bağlamak. Aynı verid
 **üç ayrı soruya** cevap aranır. Bunlar farklı sorulardır ve her biri kendi
 ölçüsünü ister. Ayarlar [`hedefler.yaml`](hedefler.yaml) dosyasındadır.
 
-Bunlara bir **dördüncü hedef** eşlik eder: **tanıklı sözlük** (§14). İlk üç hedef
+Bunlara iki hedef daha eşlik eder. **Beşinci hedef** çeviridir (§16): verinin
+kullanımıdır, kelime seçmez. **Dördüncü hedef**: **tanıklı sözlük** (§14). İlk üç hedef
 bir kelime *seçer*; sözlük hiçbir şey seçmez, her kökün bütün hayatını *belgeler*:
 hangi dilde, ağızda ve boyda, nerede, kaçıncı yüzyılda, hangi biçim ve anlamla
 kullanılmış, kim kaydetmiş. Üç hedefin dayandığı kanıt budur; ölçüsü kapsamdır.
@@ -564,3 +565,24 @@ durumda yapılır:
    numarası artar.
 
 Kural değişiklikleri burada sürüm numarası ve tarihle kaydedilir.
+
+## 16. Hedef 5: Çeviri
+
+**Soru:** Bir metni (cümleden sayfaya) Türk dilleri, ağızları ve ortak dil
+arasında ne kadar iyi çevirebiliyoruz? Ayrıntılı plan:
+[`uygulama/CEVIRI.md`](uygulama/CEVIRI.md).
+
+- **Kelime seçmez.** Hedef 1–4'ün verisini kullanır: sözlük terim listesi
+  olur, örgü en yakın aracı dili seçer, ses ve ek kuralları küçük dillere ve
+  ağızlara dönüştürür.
+- **Ölçüsü çeviri kalitesidir.** Her dil çifti açık bir test setiyle ölçülür
+  (chrF). Sonuç sitede "iyi / deneysel / yok" diye gösterilir. Ölçülmemiş bir
+  çift için kalite iddia edilmez.
+- **Öz Türkçe ilkesi çeviride de geçerlidir.** Ortak dile ve ağızlara çeviride
+  sözlükte öz Türkçe karşılığı olan kelime için alıntı kullanılmaz. Yaşayan bir
+  yazı diline çeviride ise o dilin bugünkü kullanımı esastır; çeviri, dili
+  olduğu gibi yazar, düzeltmez.
+- **Tanık ile çeviri karışmaz.** Motorun ürettiği bir biçim hiçbir zaman
+  sözlüğe tanık olarak girmez. Sözlüğe yalnız kaynaklı biçim girer (§14).
+- **Python derleyicidir, uygulama okuyucudur.** Veri bu depoda üretilir; çeviri
+  hizmeti (Euglena) yalnız buradaki çıktıları okur.

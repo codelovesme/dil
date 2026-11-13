@@ -1,0 +1,46 @@
+kavram: çoğul eki
+ingilizce: plural suffix
+anlam: Çokluk eki (isim).
+dogrulandi: false
+kokler:
+- kok: ek-lar
+  koken: türkçe
+  ana_turkce: '*-lAr'
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-lar.yaml).
+  bicimler:
+    aze: lar
+    bak: lar
+    crh: lar
+    dlg: lar
+    gag: lar
+    krc: lar
+    kdr: lar
+    kaa: lar
+    kaz: lar
+    kjh: lar
+    klj:
+      bicim: lar
+      miras: true
+    kir: lar
+    kum: lar
+    nog: lar
+    slr: lar
+    cjs: lar
+    alt: lar
+    tat: lar
+    tur: lar
+    tuk: lar
+    tyv: lar
+    uig: lar
+    uzb: lar
+    sah: lar
+    sty: lar
+- kok: ek-sem
+  koken: türkçe
+  kaynak: savelyev-turkic
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sem.yaml).
+  bicimler:
+    chv: sem
+yok: []
+tarihi_yok: []

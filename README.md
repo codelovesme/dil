@@ -3,7 +3,7 @@
 Bütün Türk kavimlerinin birbirini anlamasını kolaylaştıracak, **öz ve eski
 Türkçe** kelimelere dayanan ortak bir dil oluşturma çalışması.
 
-Aynı veriden dört soruya cevap aranır; her birinin kendi ölçüsü vardır. İlk üçü kelime seçer, dördüncüsü kökün bütün tanıklarını belgeler:
+Aynı veriden beş soruya cevap aranır; her birinin kendi ölçüsü vardır. İlk üçü kelime seçer, dördüncüsü kökün bütün tanıklarını belgeler, beşincisi veriyi çeviride kullanır:
 
 | Hedef | Soru | Ölçü |
 |---|---|---|
@@ -11,6 +11,7 @@ Aynı veriden dört soruya cevap aranır; her birinin kendi ölçüsü vardır. 
 | **2. Ana Türkçe tahmini** | Türkçenin en eski hâli neydi? | Kök yaşı: kök soy ağacının hangi düğümüne kadar gidiyor |
 | **3. En çok kişinin anladığı** | En fazla insan anlasın | Anlayan kişi sayısı (ikinci dil dahil) |
 | **4. Tanıklı sözlük** | Her kök nerede, ne zaman, nasıl, hangi anlamda kullanılmış? | Kapsam: diller, ağızlar, tarihî duraklar, kaynaklar |
+| **5. Çeviri** | Bir metni Türk dilleri, ağızları ve ortak dil arasında ne kadar iyi çevirebiliyoruz? | Çeviri kalitesi (chrF), dil çifti başına; plan: [uygulama/CEVIRI.md](uygulama/CEVIRI.md) |
 
 Her kelimenin her adayı için üç ölçü yan yana gösterilir. Üç hedefin aynı kökü
 seçtiği kelimeler sağlamdır; ayrıştıkları kelimeler tartışmaya açılır:
@@ -35,7 +36,7 @@ Pages'te yayınlanır (alan adı ileride `bitig.codeloves.me`).
 
 ```
 ILKELER.md          kriterler ve kurallar
-hedefler.yaml       dört hedefin ayarları (sözlüğün tarihî durakları dahil)
+hedefler.yaml       beş hedefin ayarları (sözlüğün tarihî durakları dahil)
 agac.yaml           soy ağacı: 40 dil, 89 ağız, konuşur sayıları
 ag.yaml             örgü: anlaşılırlık, ikinci dil ve temas bağları (tahmini)
 tarihi.yaml         tarihî tanıklar (Eski Türkçe, Karahanlıca, Kuman-Kıpçakça…)
@@ -50,6 +51,9 @@ sozluk/kok/         tanıklı sözlük: her kök için tanıklar (.yaml) ve okun
 sozluk/SOZLUK.md    sözlük dizini ve kapsam tablosu (üretilir)
 araclar/sozluk.py   sözlük: doğrulama, kapsam, sayfa üretimi
 araclar/puanla.py   puanlama ve ağaç üzerinde seçim
+araclar/ceviri_veri.py  Hedef 5: Tatoeba'dan ölçüm seti seçer (ceviri/olcu/)
+araclar/ceviri_olc.py   Hedef 5: chrF ölçümü; --kopya ile çevirisiz taban çizgisi
+araclar/yazim.py    yazıları çalışma yazımına aktarır (Kiril, Latin, Uygur)
 araclar/orgu.py     örgüyü veriden ölçer, ag.yaml'daki boşlukları doldurur (gözden geçirmelerde)
 araclar/yayinla.py  bütün okunur çıktılar: kavram ve kök sayfaları, dizinler, cikti/site.json
 araclar/site.py     statik site (GitHub Pages; .github/workflows/site.yml)

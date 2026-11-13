@@ -25,6 +25,9 @@
 #   bicim     : anlasilir -> en anlaşılır YAŞAYAN biçim
 #               eski      -> dalın en eski tanığının biçimi (yaşamasa da olur)
 #
+# Hedef 5 (yontem: ceviri) kelime seçmez; çeviri kalitesiyle ölçülür (ILKELER §16,
+# uygulama/CEVIRI.md). Alanlar: ilk_diller (ilk kapsam), olcu (ölçü), etiket eşikleri.
+#
 # Hedef 4 (yontem: derleme) alanları:
 #   duraklar  : Seviye 2'nin tarihî durakları. Bir durak, `dil` kodlarından birinde ve
 #               `yuzyil` aralığında en az bir tanık (ya da kökün `tarihi_yok` listesinde
@@ -104,3 +107,11 @@
       zorunlu: false
   yabanci_en_az: 1
 
+- kod: ceviri
+  ad: Çeviri
+  soru: Bir metni Türk dilleri, ağızları ve ortak dil arasında ne kadar iyi çevirebiliyoruz?
+  yontem: ceviri
+  ilk_diller: [tur, aze, kaz, uzb, tat, uig]
+  olcu: chrf
+  # chrF eşikleri: bunun üstü "iyi", altı "deneysel"; ölçüm seti yoksa "yok"
+  etiket: {iyi: 55, deneysel: 0}
