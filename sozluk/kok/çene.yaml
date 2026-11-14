@@ -8,9 +8,9 @@ etimoloji: çene; Oğuz dillerinde (çene, çänä).
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: çänä, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çenä, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: çene, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 2 kez', bicim: çänä, dil: aze, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çenä, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 13 kez; UD derleminde baş biçim', bicim: çene, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine inäk (eñek)

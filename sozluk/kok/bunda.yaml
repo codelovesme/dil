@@ -19,36 +19,38 @@ taniklar:
     bicim: monda
     kaynak: savelyev-turkic
     atif: noauthor1880
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: bunta
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'uraksin1996, uraksin2005', bicim: bında, dil: bak, kaynak: savelyev-turkic, yazi: бында}
-  - {atif: 'asmarin1928, savelyev2011', bicim: kunta, dil: chv, kaynak: savelyev-turkic, yazi: кунта}
-  - {atif: useinov2007, bicim: mında, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: manna, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: mında, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: muna, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: bunda, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: munda, dil: kaz, kaynak: savelyev-turkic, yazi: мұнда}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: mında, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: buoda, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: mında, dil: kir, kaynak: savelyev-turkic, yazi: мында}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: munda, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: mında, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: munda, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: mında, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: mınta, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: mında, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: mında, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: mında, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: monda, dil: tat, kaynak: savelyev-turkic, yazi: монда}
-  - {atif: 'rassadin1971, rassadin2005', bicim: mında, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: mında, dil: tyv, kaynak: savelyev-turkic, yazi: мында}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: manna, dil: sah, kaynak: savelyev-turkic, yazi: манна}
-  - {atif: dmitrijeva1981, bicim: mında, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; Tatoeba''da 6 kez', bicim: bında, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba, yazi: бында, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 34 kez', bicim: kunta, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: кунта, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var; Tatoeba'da 3 kez, bicim: mında, dil: crh, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: manna, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var', bicim: mında, dil: krc, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: muna, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: bunda, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 40 kez', bicim: munda, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba, yazi: мұнда, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Tatoeba''da 2 kez', bicim: mında, dil: kjh, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: buoda, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: mında, dil: kir, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: мында, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: munda, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: mında, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var; Tatoeba''da 2 kez', bicim: munda, dil: nog, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: mında, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: mınta, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: mında, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: mında, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947; Tatoeba'da 6 kez, bicim: mında, dil: alt, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 1330 kez', bicim: monda, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, yazi: монда, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: mında, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Tatoeba''da 1 kez', bicim: mında, dil: tyv, kaynak: savelyev-turkic; tatoeba, yazi: мында, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Tatoeba''da 19 kez; UD derleminde baş biçim', bicim: manna, dil: sah, kaynak: savelyev-turkic; tatoeba; universal-dependencies, yazi: манна, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: mında, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine burada (burada)

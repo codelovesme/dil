@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: inşe, dil: chv, kaynak: savelyev-turkic, yazi: инҫе}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 1 kez', bicim: inşe, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: инҫе, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine uzak (uzak)

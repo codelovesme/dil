@@ -8,7 +8,7 @@ etimoloji: Çuvaşça -sem; kökeni bu çalışmada araştırılmadı.
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (5 örnek: açasem, tusem, sısnasem)', bicim: sem, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -se{m}.'}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (5 örnek: açasem, tusem, sısnasem)', bicim: sem, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -se{m}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
 
 yok:
   tur: yerine lar (ek-lar)

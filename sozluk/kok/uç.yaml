@@ -18,12 +18,14 @@ taniklar:
     bicim: uç
     kaynak: savelyev-turkic
     atif: noauthor1880
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: uç
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
     yuzyil: 13-15
     bicim: uç
@@ -31,44 +33,45 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: اوچمق
     not: Wiktionary'de mastar biçimiyle uçmak.
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: uç, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: os, dil: bak, kaynak: savelyev-turkic, yazi: оҫ-}
-  - {atif: 'asmarin1928, savelyev2011', bicim: vĕş, dil: chv, kaynak: savelyev-turkic, yazi: вӗҫ-}
-  - {atif: useinov2007, bicim: uç, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: uç, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: uç, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: uç, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: uş, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: uş, dil: kaz, kaynak: savelyev-turkic, yazi: ұш-}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: uçux, dil: kjh, kaynak: savelyev-turkic, not: uç- + -uk.}
-  - {atif: doerfer1980, bicim: uç, dil: klj, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'judakhin1985, judakhin1957', bicim: uç, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: uç, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: uç, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: uş, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: uç, dil: atv, kaynak: savelyev-turkic, not: uş- de.}
-  - {atif: tenisev1976, bicim: uç, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: uş, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: uçuk, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: uç, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: oç, dil: tat, kaynak: savelyev-turkic, yazi: оч-}
-  - {atif: 'rassadin1971, rassadin2005', bicim: uş, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: uç, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: uç, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: uş, dil: tyv, kaynak: savelyev-turkic, yazi: уш-}
-  - {atif: nadzip1968, bicim: uç, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: uç, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: oç, dil: sty-baraba, kaynak: savelyev-turkic}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: uç, anlam: ölmek (hükümdar için), metin: Kül Tigin yazıtı, kaynak: clauson, atif: 'Kül Tigin K 1 (Clauson, uç-)'}
-  - {dil: otk, yuzyil: 8-14, bicim: uç, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT I 23, 215 (Clauson, uç-)'}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: uç, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 163 (Clauson, uç-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: uç, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 23, 74, 231 (Clauson, uç-)'}
-  - {dil: xqa, yuzyil: 13, bicim: uç, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 6 (Clauson, uç-)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: uç, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 28, 12 (Clauson, uç-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: uç, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 194; Nehcü''l-Feradis 351 (Clauson, uç-)'}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: uç, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 41, 20 (Clauson, uç-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: uç, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 8 (Clauson, uç-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: chg, yuzyil: 16-18, bicim: uç, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 94-6, Senglâh 62v (Clauson, uç-)'}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var; Tatoeba''da 2 kez; ASJP AZERBAIJANI: uçmog', bicim: uç, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; ASJP BASHKIR_2: osou', bicim: os, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: оҫ-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 1 kez; ASJP CHUVASH_2: wış', bicim: vĕş, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: вӗҫ-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: uç, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016; Apertium gag sözlüğünde var', bicim: uç, dil: gag, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var', bicim: uç, dil: krc, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: uç, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: uş, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; UD derleminde baş biçim; ASJP KAZAKH_2: ışu', bicim: uş, dil: kaz, kaynak: savelyev-turkic; apertium; universal-dependencies; asjp, yazi: ұш-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Apertium kjh sözlüğünde var', bicim: uçux, dil: kjh, kaynak: savelyev-turkic; apertium, not: uç- + -uk., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: uç, dil: klj, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim', bicim: uç, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: uç, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: uç, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var', bicim: uş, dil: nog, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: uç, dil: atv, kaynak: savelyev-turkic, not: uş- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: uç, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: uş, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: uçuk, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: uç, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 9 kez; ASJP TATAR_2: oçu', bicim: oç, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: оч-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: uş, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 7 kez; UD derleminde baş biçim; ASJP TURKISH_3: uçmak', bicim: uç, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1968, khamzajev1968; Apertium tuk sözlüğünde var', bicim: uç, dil: tuk, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: uş, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: уш-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; UD derleminde baş biçim, bicim: uç, dil: uig, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 7 kez; UD derleminde baş biçim', bicim: uç, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: oç, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: uç, anlam: ölmek (hükümdar için), metin: Kül Tigin yazıtı, kaynak: clauson, atif: 'Kül Tigin K 1 (Clauson, uç-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: uç, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT I 23, 215 (Clauson, uç-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: uç, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 163 (Clauson, uç-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: uç, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 23, 74, 231 (Clauson, uç-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: uç, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 6 (Clauson, uç-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: uç, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson; apertium; tatoeba; asjp, atif: 'Melioranskiy 28, 12 (Clauson, uç-); Apertium aze sözlüğünde var; Tatoeba''da 2 kez; ASJP AZERBAIJANI: uçmog', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: dogrulandi, bicim: [ibn-muhenna, clauson, apertium, tatoeba, asjp], anlam: [ibn-muhenna, clauson, asjp]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: uç, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 194; Nehcü''l-Feradis 351 (Clauson, uç-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: uç, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 41, 20 (Clauson, uç-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: uç, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 8 (Clauson, uç-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: uç, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 94-6, Senglâh 62v (Clauson, uç-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   dlg: yerine köt (köt)

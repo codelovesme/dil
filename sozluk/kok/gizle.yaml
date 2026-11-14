@@ -8,7 +8,7 @@ etimoloji: giz + -le-; Azerbaycan Türkçesinde asıl 'gizlemek' fiili.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: gizlän, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 1 kez', bicim: gizlän, dil: aze, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yäşär (yaşır)

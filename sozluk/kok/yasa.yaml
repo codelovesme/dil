@@ -10,16 +10,16 @@ etimoloji: yasa- 'düzenlemek, yapmak'; Kıpçak, Kırgız ve Sayan dillerinde v
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1974, bicim: yasa, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: jasa, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jasa, dil: kaz, kaynak: savelyev-turkic, yazi: жаса-}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jasa, dil: kir, kaynak: savelyev-turkic, yazi: жаса-}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yasa, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: taza, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yasa, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yasa, dil: tat, kaynak: savelyev-turkic, yazi: ясa-}
-  - {atif: 'rassadin1971, rassadin2005', bicim: çaasa, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yasa, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: yasa, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: jasa, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: jasa, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: жаса-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim', bicim: jasa, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies, yazi: жаса-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yasa, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: taza, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yasa, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 16 kez; UD derleminde baş biçim', bicim: yasa, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: ясa-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çaasa, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yasa, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine et (et)

@@ -18,12 +18,14 @@ taniklar:
     bicim: ogul
     kaynak: savelyev-turkic
     atif: noauthor1880
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: oğlan
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
 
 yok:
   sty-baraba: yerine pala (bala)

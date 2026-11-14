@@ -189,7 +189,7 @@ Toplam 238 kavram, 32 tanesi ayrışıyor.
 | sekiz | sekiz *(sekiz)* | sekiz *(sekiz)* | sekiz *(sekiz)* | UYUŞUYOR |
 | sen | sen *(sen)* | sän *(sen)* | sen *(sen)* | UYUŞUYOR |
 | sıcak | isig *(isig)* | isig *(isig)* | issik *(isig)* | UYUŞUYOR |
-| sıçra- | sekir *(sekir)* | sekri *(sekir)* | säkrä *(sekir)* | UYUŞUYOR |
+| sıçra- | sekir *(sekir)* | sekri *(sekir)* | sekir *(sekir)* | UYUŞUYOR |
 | sinek | çibin *(çıbın)* | çibin *(çıbın)* | sinek *(siñek)* | AYRIŞIYOR |
 | sırt | arka *(arka)* | arka *(arka)* | arka *(arka)* | UYUŞUYOR |
 | şiş- | şış *(şiş)* | sış *(şiş)* | şiş *(şiş)* | UYUŞUYOR |

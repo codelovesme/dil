@@ -8,7 +8,7 @@ etimoloji: Karayca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1974, bicim: kucur, dil: kdr, kaynak: savelyev-turkic}
+  - {atif: baskakov1974, bicim: kucur, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine acığ (açığ)

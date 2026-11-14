@@ -9,8 +9,8 @@ etimoloji: koş- 'koşmak'; Türkiye Türkçesinin asıl 'koşmak' fiili. 'Koşm
 kaynak: savelyev-turkic
 
 taniklar:
-  - {dil: aze, bicim: koş, kaynak: apertium, atif: apertium-aze.aze.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {atif: 'baskakov1977, iz1992', bicim: koş, dil: tur, kaynak: savelyev-turkic}
+  - {dil: aze, bicim: koş, kaynak: apertium, atif: apertium-aze.aze.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 28 kez; UD derleminde baş biçim', bicim: koş, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yögir (yügür)

@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | at | at | at |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | aat | aat | aat |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | aat | aat | aat | aat |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | at | ād, ad | ad |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | at | ad, ad | ad |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | ad | ad | ad |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | ad | ad | ad |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | ad | ad | ad | ad |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | ad | ad | ad | ad |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ad | ad | ad | ad |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | ad ↑ | ad ↑ | ad ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | at ↑ | ād, ad ↑ | ad ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | at ↑ | ād, ad ↑ | ad ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | at ↑ | ad, ad ↑ | ad ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | at ↑ | ad, ad ↑ | ad ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | at | at | at |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | at | at | at | at |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | at | at | at | at |
@@ -159,5 +159,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | at |
 | Sibirya kolu | Kuzey Altayca |  | at |
 
-**Tarihî tanıklar:** Eski Türkçe *at*; Kuman-Kıpçakça *at*; Eski Anadolu Türkçesi *ād, ad*.
+**Tarihî tanıklar:** Eski Türkçe *at*; Kuman-Kıpçakça *at*; Eski Anadolu Türkçesi *ad, ad*.
 

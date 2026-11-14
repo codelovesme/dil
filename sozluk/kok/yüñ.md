@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1 · denetim ✓2 ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,13 +25,13 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Tatarca, Başkurtça, Kırımçakça, Urumca, Kazakça, Karakalpakça, Nogayca, Sibirya Tatarcası, Kırgızca, Özbekçe, Uygurca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yüñ** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yüñ** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -41,28 +41,29 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **çüg** | чүг |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tük (tük) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine tük (tük) |
-| | Çuvaşça | | — | | | | kök yok: yerine tĕk (tük) |
-| | Dolganca | | — | | | | kök yok: yerine tüü (tük) |
-| | Gagavuzca | | — | | | | kök yok: yerine tüy (tük) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kanatlı tük (tük) |
-| | Karayca | | — | | | | kök yok: yerine tik (tük) |
-| | Kumukça | | — | | | | kök yok: yerine tük (tük) |
-| | Çulımca | | — | | | | kök yok: yerine tük (tük) |
-| | Tofaca | | — | | | | kök yok: yerine tük (tük) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine tüy (tük) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine tüü (tük) |
-| | Güney Altayca | | — | | | | kök yok: yerine kanat (kanat) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kanat (kanat) |
-| | Türkmence | | — | | | | kök yok: yerine yelek (yelek) |
-| | Salarca | | — | | | | kök yok: yerine mimilux (mimilux) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tuvaca |  | **çüg** | чүг |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Sibirya kolu | Şorca |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tük (tük) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine tük (tük) |
+| | Çuvaşça | | — | | | | | kök yok: yerine tĕk (tük) |
+| | Dolganca | | — | | | | | kök yok: yerine tüü (tük) |
+| | Gagavuzca | | — | | | | | kök yok: yerine tüy (tük) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kanatlı tük (tük) |
+| | Karayca | | — | | | | | kök yok: yerine tik (tük) |
+| | Kumukça | | — | | | | | kök yok: yerine tük (tük) |
+| | Çulımca | | — | | | | | kök yok: yerine tük (tük) |
+| | Tofaca | | — | | | | | kök yok: yerine tük (tük) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine tüy (tük) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine tüü (tük) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kanat (kanat) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kanat (kanat) |
+| | Türkmence | | — | | | | | kök yok: yerine yelek (yelek) |
+| | Salarca | | — | | | | | kök yok: yerine mimilux (mimilux) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 4 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 2 tanık

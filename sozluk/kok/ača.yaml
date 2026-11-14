@@ -8,7 +8,7 @@ etimoloji: Sarı Uygurca aça (ača); kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'malov1957, tenisev1966', bicim: aça, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: aça, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ata (ata)

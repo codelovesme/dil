@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [iki](../kok/iki.md) | türkçe | 1.06 (*iki*) | Kazakça %71 | Ana Türkçe (2 hat) | ~183 milyon (%94, *iki*) | *ẹki |
+| [iki](../kok/iki.md) | türkçe | 1.07 (*iki*) | Çuvaşça %78 | Ana Türkçe (2 hat) | ~184 milyon (%95, *iki*) | *ẹki |
 
-**Büyük topluluklarda *iki* biçiminin anlaşılırlığı:** Kazakça %71, Çuvaşça %78, Tuvaca %83, Tatarca %88, Başkurtça %88, Kırım Tatarcası %88, Kumukça %88, Karaçay-Malkarca %88, Karakalpakça %88, Sibirya Tatarcası %88, Kırgızca %88, Özbekçe %88, Uygurca %88, Sahaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100.
+**Büyük topluluklarda *iki* biçiminin anlaşılırlığı:** Çuvaşça %78, Tuvaca %83, Tatarca %88, Başkurtça %88, Kırım Tatarcası %88, Kumukça %88, Karaçay-Malkarca %88, Kazakça %88, Karakalpakça %88, Sibirya Tatarcası %88, Kırgızca %88, Özbekçe %88, Uygurca %88, Sahaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -77,9 +77,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eki | eki | eki | eki |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | eki | eki | eki | eki |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eki | eki | eki | eki |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | eki | eki | ekĭ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | ekĭ | ekĭ | ekĭ | ekĭ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ekĭ | ekĭ | ekĭ | ekĭ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | eki | eki | eki |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | eki | eki | eki | eki |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eki | eki | eki | eki |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | eki | eki | eki | eki |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eki | eki | eki | eki |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | eki | eki | eki | eki |
@@ -142,7 +142,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | eki |
 | Kıpçak kolu | Kumukça |  | eki |
 | Kıpçak kolu | Karaçay-Malkarca |  | eki |
-| Kıpçak kolu | Kazakça |  | ekĭ |
+| Kıpçak kolu | Kazakça |  | eki |
 | Kıpçak kolu | Karakalpakça |  | eki |
 | Kıpçak kolu | Nogayca |  | eki |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | ĕki |

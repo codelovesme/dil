@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bil](../kok/bil.md) | türkçe | 1.12 (*bil*) | Çuvaşça %79 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bil*) | *bil- |
+| [bil](../kok/bil.md) | türkçe | 1.13 (*bil*) | Çuvaşça %79 | Ana Türkçe (2 hat) | ~193 milyon (%99, *bil*) | *bil- |
 | [oñna](../kok/oñna.md) | türkçe | -0.47 (*oñna*) | Çuvaşça %0 | Kuzey Altayca (1 hat) | ~71 milyon (%37, *oñna*) |  |
 
-**Büyük topluluklarda *bil* biçiminin anlaşılırlığı:** Çuvaşça %79, Kazakça %83, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
+**Büyük topluluklarda *bil* biçiminin anlaşılırlığı:** Çuvaşça %79, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -78,9 +78,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bil | bil | bil | bil |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | bil | bil | bĭl |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | bĭl | bĭl | bĭl | bĭl |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bĭl | bĭl | bĭl | bĭl |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | bil | bil | bil |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | bil | bil | bil | bil |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bil | bil | bil | bil |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | bil | bil | bil | bil |
@@ -143,7 +143,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | bil |  |
 | Kıpçak kolu | Kumukça |  | bil |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | bil |  |
-| Kıpçak kolu | Kazakça |  | bĭl |  |
+| Kıpçak kolu | Kazakça |  | bil |  |
 | Kıpçak kolu | Karakalpakça |  | bil |  |
 | Kıpçak kolu | Nogayca |  | bil |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | pil |  |

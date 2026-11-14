@@ -8,7 +8,7 @@ etimoloji: Başkurtça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: seläwsen, dil: bak, kaynak: savelyev-turkic, yazi: селәүсен}
+  - {atif: 'uraksin1996, uraksin2005', bicim: seläwsen, dil: bak, kaynak: savelyev-turkic, yazi: селәүсен, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kort (kurt)

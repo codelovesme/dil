@@ -16,10 +16,11 @@ taniklar:
     kaynak: savelyev-turkic
     atif: clauson1972
     not: '*iri- ile ilişkisi bu çalışmada araştırılmadı.'
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ĕr, dil: kjh, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle; ĕrĕkte- de.}
-  - {atif: baskakov1985, bicim: iri, dil: atv, kaynak: savelyev-turkic, not: irikte- de.}
-  - {atif: kurpesko-tannagaseva1993, bicim: irikte, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: iri, dil: tyv, kaynak: savelyev-turkic, yazi: ири-}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ĕr, dil: kjh, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle; ĕrĕkte- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: iri, dil: atv, kaynak: savelyev-turkic, not: irikte- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: irikte, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: iri, dil: tyv, kaynak: savelyev-turkic, yazi: ири-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine çiri (çürü)

@@ -22,13 +22,13 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [isig](../kok/isig.md) | türkçe | 0.58 (*isig*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~135 milyon (%70, *issik*) | *isig |
+| [isig](../kok/isig.md) | türkçe | 0.59 (*isig*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~135 milyon (%70, *issik*) | *isig |
 | [sıcak](../kok/sıcak.md) | türkçe | -0.35 (*sıcak*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~149 milyon (%77, *sıcak*) |  |
 | [kızgın](../kok/kızgın.md) | türkçe | -0.41 (*gızgın*) | Çuvaşça %0 | Türkmence (1 hat) | ~91 milyon (%47, *gızgın*) |  |
 | [itii](../kok/itii.md) | türkçe | -0.40 (*itii*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *itii*) |  |
 | [vĕri](../kok/vĕri.md) | türkçe | -0.38 (*vĕri*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *vĕri*) |  |
 
-**Büyük topluluklarda *isig* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Türkmence %0, Kırım Tatarcası %0, Sahaca %0, Başkurtça %56, Tatarca %66, Karakalpakça %69, Azerbaycan Türkçesi %75, Kumukça %75, Karaçay-Malkarca %75, Kazakça %75, Sibirya Tatarcası %78, Kırgızca %81, Özbekçe %85, Uygurca %85, Tuvaca %94.
+**Büyük topluluklarda *isig* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Türkmence %0, Kırım Tatarcası %0, Sahaca %0, Tatarca %66, Başkurtça %69, Karakalpakça %69, Azerbaycan Türkçesi %75, Kumukça %75, Karaçay-Malkarca %75, Kazakça %75, Sibirya Tatarcası %78, Kırgızca %81, Özbekçe %85, Uygurca %85, Tuvaca %94.
 
 ## Ağaç üzerinde seçimler
 
@@ -62,12 +62,12 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gızgın | gızgın | gızgın | gızgın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | gızgın ↑ | gızgın ↑ | gızgın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | ıssı | ıssı | *ıssı* (isig) | ıssı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | issi | issi | ıstık |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | esse | esse | esse |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | isü | issi | ıstık |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | ese | ese | esse |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | esse | esse | esse | esse |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | esse | esse | esse | esse |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | eśe | eśe | eśe | eśe |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eśe | eśe | eśe | eśe |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | ese | ese | ese | ese |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ese | ese | ese | ese |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | issi | issi | issi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | *sıcak* (sıcak) | issi | *sıcak* (sıcak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | sıcak | *sıcak* (sıcak) | sıcak | sıcak |
@@ -140,7 +140,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Oğuz kolu | Türkmence |  |  |  | gızgın |  |  |
 | Oğuz kolu | Salarca |  | ıssı |  |  |  |  |
 | Kıpçak kolu | Tatarca |  | esse |  |  |  |  |
-| Kıpçak kolu | Başkurtça |  | eśe |  |  |  |  |
+| Kıpçak kolu | Başkurtça |  | ese |  |  |  |  |
 | Kıpçak kolu | Kırım Tatarcası |  |  | sıcak |  |  |  |
 | Kıpçak kolu | Karayca |  | issi |  |  |  |  |
 | Kıpçak kolu | Kumukça |  | issi |  |  |  |  |

@@ -16,43 +16,44 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: سكز
-  - {bicim: säkkiz, dil: aze, kaynak: wiktionary-ana-turkce, yazi: səkkiz}
-  - {bicim: higez, dil: bak, kaynak: wiktionary-ana-turkce, yazi: һигеҙ}
-  - {bicim: sakkăr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: саккӑр}
-  - {bicim: sekiz, dil: crh, kaynak: wiktionary-ana-turkce, yazi: секиз}
-  - {bicim: agıs, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: агыс}
-  - {bicim: sekiz, dil: gag, kaynak: wiktionary-ana-turkce}
-  - {bicim: segiz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: сегиз}
-  - {bicim: segiz, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: сегизь}
-  - {bicim: segiz, dil: kaa, kaynak: wiktionary-ana-turkce}
-  - {bicim: segiz, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: сегіз}
-  - {bicim: sigis, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: сигіс}
-  - {bicim: säkkiz, dil: klj, kaynak: wiktionary-ana-turkce}
-  - {bicim: segiz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: сегиз}
-  - {bicim: segiz, dil: kum, kaynak: wiktionary-ana-turkce, yazi: сегиз}
-  - {bicim: seğis, dil: clw, kaynak: wiktionary-ana-turkce, yazi: сеғис}
-  - {bicim: segiz, dil: nog, kaynak: wiktionary-ana-turkce, yazi: сегиз}
-  - {bicim: segis, dil: atv, kaynak: wiktionary-ana-turkce, yazi: сегис}
-  - {bicim: sekis, dil: slr, kaynak: wiktionary-ana-turkce}
-  - {bicim: segis, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: сегис}
-  - {bicim: segis, dil: alt, kaynak: wiktionary-ana-turkce, yazi: сегис}
-  - {bicim: sigez, dil: tat, kaynak: wiktionary-ana-turkce, yazi: сигез}
-  - {bicim: sehes, dil: kim, kaynak: wiktionary-ana-turkce, yazi: сеъһес}
-  - {bicim: sekiz, dil: tur, kaynak: wiktionary-ana-turkce}
-  - {bicim: sekiz, dil: tuk, kaynak: wiktionary-ana-turkce}
-  - {bicim: ses, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: сес}
-  - {dil: uig, bicim: säkkiz, yazi: سەككىز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 21 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: sakkiz, dil: uzb, kaynak: wiktionary-ana-turkce}
-  - {bicim: ağıs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: аҕыс}
-  - {bicim: sekkiz, dil: ili, kaynak: wiktionary-ana-turkce}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: sekiz, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, sekkiz', not: Clauson'a göre aslı sekkiz.}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sekiz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 365 (Clauson, sekkiz)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı sekkiz'in kısaltması der.}
-  - {dil: xqa, yuzyil: 13, bicim: sekiz, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 266 (Clauson, sekkiz)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: sekkiz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 8 (Clauson, sekkiz)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: sekiz, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 22, 8 (Clauson, sekkiz)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: sekiz, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 53 (Clauson, sekkiz)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: sekiz, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 60b 7 (Clauson, sekkiz)'}
-  - {dil: chg, yuzyil: 16-18, bicim: sekiz, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 288, Senglâh 255r (Clauson, sekkiz)'}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {bicim: säkkiz, dil: aze, kaynak: wiktionary-ana-turkce; tatoeba, yazi: səkkiz, atif: Tatoeba'da 7 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: higez, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: һигеҙ, atif: Apertium bak sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sakkăr, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: саккӑр, atif: Apertium chv sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sekiz, dil: crh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: секиз, atif: Apertium crh sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: agıs, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: агыс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sekiz, dil: gag, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium gag sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: krc, kaynak: wiktionary-ana-turkce; apertium, yazi: сегиз, atif: Apertium krc sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: сегизь, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: kaa, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium kaa sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: kaz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: сегіз, atif: Apertium kaz sözlüğünde var; Tatoeba'da 10 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sigis, dil: kjh, kaynak: wiktionary-ana-turkce; apertium, yazi: сигіс, atif: Apertium kjh sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: säkkiz, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: kir, kaynak: wiktionary-ana-turkce; apertium, yazi: сегиз, atif: Apertium kir sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: kum, kaynak: wiktionary-ana-turkce; apertium, yazi: сегиз, atif: Apertium kum sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: seğis, dil: clw, kaynak: wiktionary-ana-turkce, yazi: сеғис, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segiz, dil: nog, kaynak: wiktionary-ana-turkce; apertium, yazi: сегиз, atif: Apertium nog sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segis, dil: atv, kaynak: wiktionary-ana-turkce, yazi: сегис, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sekis, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segis, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: сегис, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: segis, dil: alt, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: сегис, atif: Apertium alt sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sigez, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: сигез, atif: Apertium tat sözlüğünde var; Tatoeba'da 64 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sehes, dil: kim, kaynak: wiktionary-ana-turkce, yazi: сеъһес, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sekiz, dil: tur, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tur sözlüğünde var; Tatoeba'da 387 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sekiz, dil: tuk, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium tuk sözlüğünde var; Tatoeba'da 4 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ses, dil: tyv, kaynak: wiktionary-ana-turkce; apertium, yazi: сес, atif: Apertium tyv sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: säkkiz, yazi: سەككىز, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 21 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sakkiz, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; universal-dependencies, atif: Apertium uzb sözlüğünde var; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ağıs, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: аҕыс, atif: Apertium sah sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sekkiz, dil: ili, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: sekiz, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, sekkiz', not: Clauson'a göre aslı sekkiz., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sekiz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 365 (Clauson, sekkiz)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı sekkiz'in kısaltması der., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: sekiz, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 266 (Clauson, sekkiz)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: sekkiz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 8 (Clauson, sekkiz)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: sekiz, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 22, 8 (Clauson, sekkiz)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: sekiz, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 53 (Clauson, sekkiz)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: sekiz, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 60b 7 (Clauson, sekkiz)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: sekiz, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 288, Senglâh 255r (Clauson, sekkiz)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok: {}
 tarihi_yok: {}

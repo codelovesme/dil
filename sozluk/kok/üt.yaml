@@ -16,9 +16,10 @@ taniklar:
     bicim: üt
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'aksenova1992, stachowski1993', bicim: üüt, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: üdük, dil: clw, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: üyt, dil: alt, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'aksenova1992, stachowski1993', bicim: üüt, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: üdük, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: üyt, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine teşik (teşik)

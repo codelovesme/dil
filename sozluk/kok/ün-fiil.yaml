@@ -9,9 +9,9 @@ etimoloji: ün- 'çıkmak, yükselmek, yetişmek'; Saha, Dolgan ve Sarı Uygur d
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: üün, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: ün, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: üün, dil: sah, kaynak: savelyev-turkic, yazi: үүн-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: üün, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: ün, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; UD derleminde baş biçim', bicim: üün, dil: sah, kaynak: savelyev-turkic; apertium; universal-dependencies, yazi: үүн-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ös (ös)

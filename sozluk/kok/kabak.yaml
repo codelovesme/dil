@@ -8,11 +8,11 @@ etimoloji: kabak 'kapak'; Güney Sibirya dillerinde 'alın' (kabak, xamax, xavak
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xamax, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: kamak, dil: clw, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: kabak, dil: atv, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: kabak, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xavak, dil: tyv, kaynak: savelyev-turkic, yazi: хавак}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xamax, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: kamak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: kabak, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: kabak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: xavak, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: хавак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine alın (alın)

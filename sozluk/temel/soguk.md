@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [soğık](../kok/soğık.md) | türkçe | 0.84 (*soğuk*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~182 milyon (%94, *soğuk*) | *sōgïk |
+| [soğık](../kok/soğık.md) | türkçe | 0.85 (*soğuk*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~182 milyon (%94, *soğuk*) | *sōgïk |
 | [tımnıı](../kok/tımnıı.md) | türkçe | -0.39 (*tımnıı*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *tımnıı*) |  |
 | [sivĕ](../kok/sivĕ.md) | türkçe | -0.37 (*sivĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sivĕ*) |  |
 
@@ -39,8 +39,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | sivĕ | sivĕ | sivĕ | sivĕ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sivĕ | sivĕ | sivĕ | sivĕ |
 | &nbsp;&nbsp;**Ortak Türkçe** | soğuk | soğık | soğuk |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | ? sovuk | ? sovuk | ? sovuk |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | ? sovuk | ? sovuk | ? sovuk | ? sovuk |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | sovuk | sovuk | sovuk |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | sovuk | sovuk | sovuk | sovuk |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | soğuk | soğuk | soğuk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | soğuk | soğuk | soğuk |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | soğuk | soğuk | soğuk |  |
@@ -131,7 +131,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kol | Dil | Ağız | soğık | tımnıı | sivĕ |
 |---|---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  |  |  | sivĕ |
-| Halaç kolu | Halaçça |  | ? sovuk |  |  |
+| Halaç kolu | Halaçça |  | sovuk |  |  |
 | Oğuz kolu | Türkiye Türkçesi |  | soğuk |  |  |
 | Oğuz kolu | Gagavuzca |  | suuk |  |  |
 | Oğuz kolu | Azerbaycan Türkçesi |  | soyuk |  |  |

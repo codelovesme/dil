@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 7 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 7 (kaynaklı %100) · kaynak 5 · yabancı kayıt 0 · denetim ✓6 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,43 +25,47 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **xarax** | харах |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tuvaca |  | **karak** | карак |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tofaca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **xarax** | харах |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine köz (köz) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kös (köz) |
-| | Güney Altayca | | — | | | | kök yok: yerine kös (köz) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine köz (köz) |
-| | Başkurtça | | — | | | | kök yok: yerine küz (köz) |
-| | Çuvaşça | | — | | | | kök yok: yerine kuş (köz) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine köz (köz) |
-| | Gagavuzca | | — | | | | kök yok: yerine göz (köz) |
-| | Karakalpakça | | — | | | | kök yok: yerine köz (köz) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine köz (köz) |
-| | Karayca | | — | | | | kök yok: yerine köz (köz) |
-| | Kazakça | | — | | | | kök yok: yerine köz (köz) |
-| | Halaçça | | — | | | | kök yok: yerine köz (köz) |
-| | Kırgızca | | — | | | | kök yok: yerine köz (köz) |
-| | Kumukça | | — | | | | kök yok: yerine göz (köz) |
-| | Nogayca | | — | | | | kök yok: yerine köz (köz) |
-| | Salarca | | — | | | | kök yok: yerine goz (köz) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine küz (köz) |
-| | Tatarca | | — | | | | kök yok: yerine küz (köz) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine göz (köz) |
-| | Türkmence | | — | | | | kök yok: yerine göz (köz) |
-| | Uygurca | | — | | | | kök yok: yerine köz (köz) |
-| | Özbekçe | | — | | | | kök yok: yerine köz (köz) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **xarax** | харах |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Dolganca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tuvaca |  | **karak** | карак |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Tofaca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **xarax** | харах |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Sibirya kolu | Şorca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Çulımca |  | **karak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine köz (köz) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kös (köz) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kös (köz) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine köz (köz) |
+| | Başkurtça | | — | | | | | kök yok: yerine küz (köz) |
+| | Çuvaşça | | — | | | | | kök yok: yerine kuş (köz) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine köz (köz) |
+| | Gagavuzca | | — | | | | | kök yok: yerine göz (köz) |
+| | Karakalpakça | | — | | | | | kök yok: yerine köz (köz) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine köz (köz) |
+| | Karayca | | — | | | | | kök yok: yerine köz (köz) |
+| | Kazakça | | — | | | | | kök yok: yerine köz (köz) |
+| | Halaçça | | — | | | | | kök yok: yerine köz (köz) |
+| | Kırgızca | | — | | | | | kök yok: yerine köz (köz) |
+| | Kumukça | | — | | | | | kök yok: yerine göz (köz) |
+| | Nogayca | | — | | | | | kök yok: yerine köz (köz) |
+| | Salarca | | — | | | | | kök yok: yerine goz (köz) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine küz (köz) |
+| | Tatarca | | — | | | | | kök yok: yerine küz (köz) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine göz (köz) |
+| | Türkmence | | — | | | | | kök yok: yerine göz (köz) |
+| | Uygurca | | — | | | | | kök yok: yerine köz (köz) |
+| | Özbekçe | | — | | | | | kök yok: yerine köz (köz) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 7 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 5 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık

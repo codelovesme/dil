@@ -19,33 +19,35 @@ taniklar:
     bicim: ata
     kaynak: savelyev-turkic
     atif: noauthor1880
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: tur
     yuzyil: 16-19
     bicim: ata
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: آتا
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ata, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: ata, dil: bak, kaynak: savelyev-turkic}
-  - {atif: 'asmarin1928, savelyev2011', bicim: atte, dil: chv, kaynak: savelyev-turkic, yazi: атте}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: ata, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: ata, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: ata, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: ata, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ata, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: ada, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ata, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: ada, dil: atv, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: ada, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: ada, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: ata, dil: tat, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: ata, dil: kim, kaynak: savelyev-turkic}
-  - {dil: tur, bicim: ata, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 321 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: ata, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ada, dil: tyv, kaynak: savelyev-turkic, yazi: ада}
-  - {atif: nadzip1968, bicim: ata, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ota, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: ata, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var; Tatoeba''da 9 kez', bicim: ata, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; Tatoeba''da 1 kez', bicim: ata, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Tatoeba''da 6 kez', bicim: atte, dil: chv, kaynak: savelyev-turkic; tatoeba, yazi: атте, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var', bicim: ata, dil: krc, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: ata, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var; Tatoeba''da 1 kez', bicim: ata, dil: kaa, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim', bicim: ata, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var; Tatoeba''da 1 kez', bicim: ata, dil: kum, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: ada, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var', bicim: ata, dil: nog, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: ada, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: ada, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947; Apertium alt sözlüğünde var, bicim: ada, dil: alt, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 208 kez; UD derleminde baş biçim', bicim: ata, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ata, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: tur, bicim: ata, kaynak: apertium; tatoeba; universal-dependencies, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 321 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
+  - {atif: 'baskakov1968, khamzajev1968; Apertium tuk sözlüğünde var; Tatoeba''da 2 kez', bicim: ata, dil: tuk, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: ada, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: ада, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 21 kez; UD derleminde baş biçim, bicim: ata, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: ota, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: ata, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine baba (baba, belirsiz)

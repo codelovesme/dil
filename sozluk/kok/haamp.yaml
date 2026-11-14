@@ -8,7 +8,7 @@ etimoloji: Sahaca haamp-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: haamp, dil: sah, kaynak: savelyev-turkic, yazi: хаамп-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; ASJP SAKHA_2: xam', bicim: haamp, dil: sah, kaynak: savelyev-turkic; asjp, yazi: хаамп-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine yör (yorı)

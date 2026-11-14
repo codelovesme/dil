@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 14/40 · ağızlar 0/89 · duraklar 3/7 · tanık 17 (kaynaklı %94) · kaynak 2 · yabancı kayıt 1**
+**seviye 0 · diller 14/40 · ağızlar 0/89 · duraklar 3/7 · tanık 17 (kaynaklı %94) · kaynak 6 · yabancı kayıt 1 · denetim ✓11 ◐5 ⚠1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,15 +25,15 @@
 
 Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırımçakça, Urumca, Karakalpakça, Sibirya Tatarcası, Güney Altayca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Sarı Uygurca, Tuvaca, Tofaca, Duhaca (Tsaatan), Soyotça, Hakasça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **uruğ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **urlug** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **uruk** | اوروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **uruğ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **urlug** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **uruk** | اوروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -44,24 +44,28 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **văra** | вӑрӑ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **urluk** |  |  | ⚠ doğrulanmadı | Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Oğuz kolu | Salarca |  | **urlux** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Tatarca |  | **orlık** | орлык |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Başkurtça |  | **orlok** | орлоҡ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırım Tatarcası |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karayca |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kazakça |  | **urık** | ұрық |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **urlık** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırgızca |  | **uruk** | урук |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Özbekçe |  | **uruğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **uruk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **văra** | вӑрӑ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **urluk** |  |  | ⚠ doğrulanmadı | ⚠ doğrulanmadı | Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Salarca |  | **urlux** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Tatarca |  | **orlık** | орлык |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Başkurtça |  | **orlok** | орлоҡ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kırım Tatarcası |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karayca |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kumukça |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **urluk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kazakça |  | **urık** | ұрық |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Nogayca |  | **urlık** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kırgızca |  | **uruk** | урук |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Karluk kolu | Özbekçe |  | **uruğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Karluk kolu | Uygurca |  | **uruk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 15 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 10 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 3 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık

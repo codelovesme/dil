@@ -41,7 +41,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | toñ | toñ | toñ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | toñ ↑ | toñ ↑ | toñ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | toñ ↑ | toñ ↑ | toñ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | doñ | doŋ | don |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | doñ | doñ | don |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | don | don | don |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | don | don | don |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | don | don | don | don |
@@ -53,8 +53,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | don | don | don | don |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | don | don | don | don |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | don ↑ | don ↑ | don ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | doñ ↑ | doŋ ↑ | don ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | doñ ↑ | doŋ ↑ | don ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | doñ ↑ | doñ ↑ | don ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | doñ ↑ | doñ ↑ | don ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | doñ | doñ | doñ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | doñ | doñ | doñ | doñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | doñ | doñ | doñ | doñ |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | toñ |  |  |
 | Sibirya kolu | Kuzey Altayca |  | toñ |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *toñ*; Eski Anadolu Türkçesi *doŋ*.
+**Tarihî tanıklar:** Eski Türkçe *toñ*; Eski Anadolu Türkçesi *doñ*.
 

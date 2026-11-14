@@ -8,7 +8,7 @@ etimoloji: yayka- 'çalkalamak'; Kuzey Altaycada 'yıkamak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1985, bicim: yayka, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: yayka, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yu (yu)

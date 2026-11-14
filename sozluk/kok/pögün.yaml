@@ -8,8 +8,8 @@ etimoloji: Şorca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: savelyev2015, bicim: pöögün, dil: clw, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: pögün, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: pöögün, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: pögün, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine oyla (oyla)

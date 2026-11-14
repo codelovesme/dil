@@ -15,40 +15,41 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: اللی
-  - {bicim: älli, dil: aze, kaynak: wiktionary-ana-turkce, yazi: əlli}
-  - {bicim: ille, dil: bak, kaynak: wiktionary-ana-turkce, yazi: илле}
-  - {bicim: allă, dil: chv, kaynak: wiktionary-ana-turkce, yazi: аллӑ}
-  - {bicim: elli, dil: crh, kaynak: wiktionary-ana-turkce}
-  - {bicim: elli, dil: gag, kaynak: wiktionary-ana-turkce}
-  - {bicim: elli, dil: krc, kaynak: wiktionary-ana-turkce, yazi: элли}
-  - {bicim: eliw, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: елиў}
-  - {bicim: elu, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: елу}
-  - {bicim: ilig, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: иліг}
-  - {bicim: ällig, dil: klj, kaynak: wiktionary-ana-turkce}
-  - {bicim: elüü, dil: kir, kaynak: wiktionary-ana-turkce, yazi: элүү}
-  - {bicim: elli, dil: kum, kaynak: wiktionary-ana-turkce, yazi: элли}
-  - {bicim: elli, dil: nog, kaynak: wiktionary-ana-turkce, yazi: элли}
-  - {bicim: elig, dil: atv, kaynak: wiktionary-ana-turkce, yazi: элиг}
-  - {bicim: elli, dil: slr, kaynak: wiktionary-ana-turkce}
-  - {bicim: elig, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: элиг}
-  - {bicim: ölü, dil: alt, kaynak: wiktionary-ana-turkce, yazi: ӧлӱ}
-  - {bicim: ille, dil: tat, kaynak: wiktionary-ana-turkce, yazi: илле}
-  - {bicim: elli, dil: tur, kaynak: wiktionary-ana-turkce}
-  - {bicim: elli, dil: tuk, kaynak: wiktionary-ana-turkce}
-  - {dil: uig, bicim: ellik, yazi: ئەللىك, kaynak: wiktionary-ana-turkce, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: ellik, dil: uzb, kaynak: wiktionary-ana-turkce}
-  - {bicim: ellik, dil: ili, kaynak: wiktionary-ana-turkce}
-  - {bicim: ille, dil: sty, kaynak: wiktionary-ana-turkce, yazi: илле}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: ellig, metin: Orhon yazıtları, kaynak: clauson, atif: 'I E 8; II S 7; T 42 (Clauson, 1 ellig)'}
-  - {dil: otk, yuzyil: 8-14, bicim: ellig, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Şine Usu N 4; Suv. 133 (Clauson, 1 ellig)'}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: ellig, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 143 (Clauson, 1 ellig)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: ellig, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 365 (Clauson, 1 ellig)'}
-  - {dil: xqa, yuzyil: 13, bicim: ellig, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 74-5 (Clauson, 1 ellig)', not: elli de.}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: elli, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 14 (Clauson, 1 ellig)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: ellig, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 49; Nehcü''l-Feradis 96 (Clauson, 1 ellig)'}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: elli, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 22, 12 (Clauson, 1 ellig)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: elli, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 21 (Clauson, 1 ellig)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: chg, yuzyil: 16-18, bicim: ellig, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 71, Senglâh 113r (Clauson, 1 ellig)'}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {bicim: älli, dil: aze, kaynak: wiktionary-ana-turkce, yazi: əlli, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ille, dil: bak, kaynak: wiktionary-ana-turkce; apertium, yazi: илле, atif: Apertium bak sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: allă, dil: chv, kaynak: wiktionary-ana-turkce; apertium, yazi: аллӑ, atif: Apertium chv sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: crh, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium crh sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: gag, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium gag sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: krc, kaynak: wiktionary-ana-turkce; apertium, yazi: элли, atif: Apertium krc sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: eliw, dil: kaa, kaynak: wiktionary-ana-turkce; apertium, yazi: елиў, atif: Apertium kaa sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elu, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: елу, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ilig, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: иліг, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ällig, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elüü, dil: kir, kaynak: wiktionary-ana-turkce; apertium, yazi: элүү, atif: Apertium kir sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: kum, kaynak: wiktionary-ana-turkce; apertium, yazi: элли, atif: Apertium kum sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: nog, kaynak: wiktionary-ana-turkce; apertium, yazi: элли, atif: Apertium nog sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elig, dil: atv, kaynak: wiktionary-ana-turkce, yazi: элиг, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elig, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: элиг, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ölü, dil: alt, kaynak: wiktionary-ana-turkce, yazi: ӧлӱ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ille, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: илле, atif: Apertium tat sözlüğünde var; Tatoeba'da 33 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: tur, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tur sözlüğünde var; Tatoeba'da 223 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: elli, dil: tuk, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium tuk sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: ellik, yazi: ئەللىك, kaynak: wiktionary-ana-turkce, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ellik, dil: uzb, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium uzb sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ellik, dil: ili, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ille, dil: sty, kaynak: wiktionary-ana-turkce, yazi: илле, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: ellig, metin: Orhon yazıtları, kaynak: clauson, atif: 'I E 8; II S 7; T 42 (Clauson, 1 ellig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: ellig, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Şine Usu N 4; Suv. 133 (Clauson, 1 ellig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: ellig, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 143 (Clauson, 1 ellig)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: ellig, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 365 (Clauson, 1 ellig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: ellig, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 74-5 (Clauson, 1 ellig)', not: elli de., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: elli, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson; apertium, atif: 'Melioranskiy 81, 14 (Clauson, 1 ellig); Apertium aze sözlüğünde var', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: dogrulandi, bicim: [ibn-muhenna, clauson, apertium], anlam: [ibn-muhenna, clauson]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: ellig, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 49; Nehcü''l-Feradis 96 (Clauson, 1 ellig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: elli, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 22, 12 (Clauson, 1 ellig)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: elli, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 21 (Clauson, 1 ellig)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: ellig, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 71, Senglâh 113r (Clauson, 1 ellig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok: {}
 tarihi_yok: {}

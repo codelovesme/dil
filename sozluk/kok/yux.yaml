@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: yux, dil: chv, kaynak: savelyev-turkic, yazi: юх-}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: yux, dil: chv, kaynak: savelyev-turkic; apertium, yazi: юх-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ak (ak-fiil)

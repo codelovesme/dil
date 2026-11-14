@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 2 · yabancı kayıt 0 · denetim ✓1 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,43 @@
 
 Tanığı olmayan diller: Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **kuttan** | куттан- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **kuttan** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kork (kork) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine koruk (kork) |
-| | Güney Altayca | | — | | | | kök yok: yerine korkı (kork) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine korx (kork) |
-| | Başkurtça | | — | | | | kök yok: yerine kurk (kork) |
-| | Çuvaşça | | — | | | | kök yok: yerine xăra (kork) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kork (kork) |
-| | Karakalpakça | | — | | | | kök yok: yerine kork (kork) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kork (kork) |
-| | Karayca | | — | | | | kök yok: yerine kork (kork) |
-| | Kazakça | | — | | | | kök yok: yerine kork (kork) |
-| | Hakasça | | — | | | | kök yok: yerine xorıx (kork) |
-| | Halaçça | | — | | | | kök yok: yerine kork (kork) |
-| | Kırgızca | | — | | | | kök yok: yerine kork (kork) |
-| | Kumukça | | — | | | | kök yok: yerine kork (kork) |
-| | Çulımca | | — | | | | kök yok: yerine kooruk (kork) |
-| | Nogayca | | — | | | | kök yok: yerine kork (kork) |
-| | Salarca | | — | | | | kök yok: yerine xorğa (kork) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kork (kork) |
-| | Şorca | | — | | | | kök yok: yerine koruk (kork) |
-| | Tatarca | | — | | | | kök yok: yerine kurku (kork) |
-| | Tofaca | | — | | | | kök yok: yerine kort (kork) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kork (kork) |
-| | Türkmence | | — | | | | kök yok: yerine gork (kork) |
-| | Tuvaca | | — | | | | kök yok: yerine kort (kork) |
-| | Uygurca | | — | | | | kök yok: yerine kork (kork) |
-| | Özbekçe | | — | | | | kök yok: yerine kọrk (kork) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **kuttan** | куттан- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Sibirya kolu | Dolganca |  | **kuttan** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kork (kork) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine koruk (kork) |
+| | Güney Altayca | | — | | | | | kök yok: yerine korkı (kork) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine korx (kork) |
+| | Başkurtça | | — | | | | | kök yok: yerine kurk (kork) |
+| | Çuvaşça | | — | | | | | kök yok: yerine xăra (kork) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kork (kork) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kork (kork) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kork (kork) |
+| | Karayca | | — | | | | | kök yok: yerine kork (kork) |
+| | Kazakça | | — | | | | | kök yok: yerine kork (kork) |
+| | Hakasça | | — | | | | | kök yok: yerine xorıx (kork) |
+| | Halaçça | | — | | | | | kök yok: yerine kork (kork) |
+| | Kırgızca | | — | | | | | kök yok: yerine kork (kork) |
+| | Kumukça | | — | | | | | kök yok: yerine kork (kork) |
+| | Çulımca | | — | | | | | kök yok: yerine kooruk (kork) |
+| | Nogayca | | — | | | | | kök yok: yerine kork (kork) |
+| | Salarca | | — | | | | | kök yok: yerine xorğa (kork) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kork (kork) |
+| | Şorca | | — | | | | | kök yok: yerine koruk (kork) |
+| | Tatarca | | — | | | | | kök yok: yerine kurku (kork) |
+| | Tofaca | | — | | | | | kök yok: yerine kort (kork) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kork (kork) |
+| | Türkmence | | — | | | | | kök yok: yerine gork (kork) |
+| | Tuvaca | | — | | | | | kök yok: yerine kort (kork) |
+| | Uygurca | | — | | | | | kök yok: yerine kork (kork) |
+| | Özbekçe | | — | | | | | kök yok: yerine kọrk (kork) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık

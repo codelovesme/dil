@@ -16,10 +16,11 @@ taniklar:
     bicim: sı
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: doerfer1980, bicim: sii, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: sı, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: sık, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: sık, dil: tyv, kaynak: savelyev-turkic, not: sıy- de., yazi: сык-}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: doerfer1980, bicim: sii, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: sı, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sık, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: sık, dil: tyv, kaynak: savelyev-turkic; apertium, not: sıy- de., yazi: сык-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine sındır (sındır)

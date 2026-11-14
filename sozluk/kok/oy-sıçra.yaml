@@ -8,8 +8,8 @@ etimoloji: Sahaca oy-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: oy, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: oy, dil: sah, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., yazi: ой-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: oy, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var', bicim: oy, dil: sah, kaynak: savelyev-turkic; apertium, not: Savelyev soru işaretiyle., yazi: ой-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine säkir (sekir)

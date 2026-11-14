@@ -8,7 +8,7 @@ etimoloji: Tofaca sun-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: sun, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sun, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yögir (yügür)

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 2/7 · tanık 13 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 2/7 · tanık 13 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓6 ◐7**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,56 +25,60 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **? aşa** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **aşa** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **aşa** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **aşa** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 8.–14. yy, Eski Türkçe: Clauson'da aşa- 'yemek' (Savelyev soru işaretiyle).
+- 8.–14. yy, Eski Türkçe: Clauson'da aşa- 'yemek' (Savelyev soru işaretiyle). Yazım düzeltildi (? aşa → aşa). Savelyev soru işaretiyle (belirsiz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Tatarca |  | **aşa** | аша- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Başkurtça |  | **aşa** | аша- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırım Tatarcası |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karayca |  | **asa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Güney Altayca |  | **ajan** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | aşa- kökünden. |
-| Sibirya kolu | Sahaca (Yakutça) |  | **ahaa** | аһаа- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | s > h. |
-| Sibirya kolu | Dolganca |  | **ahaa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ti (ye) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine ye (ye) |
-| | Çuvaşça | | — | | | | kök yok: yerine şi (ye) |
-| | Gagavuzca | | — | | | | kök yok: yerine i (ye) |
-| | Karakalpakça | | — | | | | kök yok: yerine je (ye) |
-| | Kazakça | | — | | | | kök yok: yerine je (ye) |
-| | Hakasça | | — | | | | kök yok: yerine çi (ye) |
-| | Halaçça | | — | | | | kök yok: yerine yee (ye) |
-| | Kırgızca | | — | | | | kök yok: yerine je (ye) |
-| | Çulımca | | — | | | | kök yok: yerine çi (ye) |
-| | Salarca | | — | | | | kök yok: yerine ye (ye) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine ye (ye) |
-| | Şorca | | — | | | | kök yok: yerine çi (ye) |
-| | Tofaca | | — | | | | kök yok: yerine çi (ye) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine ye (ye) |
-| | Türkmence | | — | | | | kök yok: yerine iy (ye) |
-| | Tuvaca | | — | | | | kök yok: yerine çi (ye) |
-| | Uygurca | | — | | | | kök yok: yerine yi (ye) |
-| | Özbekçe | | — | | | | kök yok: yerine ye (ye) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Tatarca |  | **aşa** | аша- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Başkurtça |  | **aşa** | аша- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kırım Tatarcası |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karayca |  | **asa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kumukça |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Nogayca |  | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **aşa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Güney Altayca |  | **ajan** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | aşa- kökünden. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **ahaa** | аһаа- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı | s > h. |
+| Sibirya kolu | Dolganca |  | **ahaa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ti (ye) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine ye (ye) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şi (ye) |
+| | Gagavuzca | | — | | | | | kök yok: yerine i (ye) |
+| | Karakalpakça | | — | | | | | kök yok: yerine je (ye) |
+| | Kazakça | | — | | | | | kök yok: yerine je (ye) |
+| | Hakasça | | — | | | | | kök yok: yerine çi (ye) |
+| | Halaçça | | — | | | | | kök yok: yerine yee (ye) |
+| | Kırgızca | | — | | | | | kök yok: yerine je (ye) |
+| | Çulımca | | — | | | | | kök yok: yerine çi (ye) |
+| | Salarca | | — | | | | | kök yok: yerine ye (ye) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine ye (ye) |
+| | Şorca | | — | | | | | kök yok: yerine çi (ye) |
+| | Tofaca | | — | | | | | kök yok: yerine çi (ye) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine ye (ye) |
+| | Türkmence | | — | | | | | kök yok: yerine iy (ye) |
+| | Tuvaca | | — | | | | | kök yok: yerine çi (ye) |
+| | Uygurca | | — | | | | | kök yok: yerine yi (ye) |
+| | Özbekçe | | — | | | | | kök yok: yerine ye (ye) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 13 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 6 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 3 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 2 tanık

@@ -9,12 +9,12 @@ etimoloji: Ana Türkçe *yip. Oğuz'da ip, Türkmence yüp, Kırgızca jip.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ip, dil: aze, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: yip, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jip, dil: kir, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'baskakov1977, iz1992', bicim: ip, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yüp, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: yip, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var', bicim: ip, dil: aze, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: yip, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim', bicim: jip, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies, not: Savelyev soru işaretiyle., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 75 kez; UD derleminde baş biçim', bicim: ip, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yüp, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yip, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine pağ (bağ)

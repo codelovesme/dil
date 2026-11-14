@@ -15,40 +15,41 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: اون
-  - {bicim: 'on', dil: aze, kaynak: wiktionary-ana-turkce}
-  - {bicim: un, dil: bak, kaynak: wiktionary-ana-turkce, yazi: ун}
-  - {bicim: vunnă, dil: chv, kaynak: wiktionary-ana-turkce, yazi: вуннӑ}
-  - {bicim: 'on', dil: crh, kaynak: wiktionary-ana-turkce}
-  - {bicim: uon, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: уон}
-  - {bicim: 'on', dil: gag, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: krc, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: kdr, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: kaa, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: kaz, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: kjh, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: oon, dil: klj, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: kir, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: kum, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: nog, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: atv, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: slr, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: ybe, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: cjs, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: alt, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: un, dil: tat, kaynak: wiktionary-ana-turkce, yazi: ун}
-  - {bicim: 'on', dil: kim, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: tur, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: tuk, kaynak: wiktionary-ana-turkce}
-  - {bicim: 'on', dil: tyv, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {dil: uig, bicim: 'on', yazi: ئون, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 50 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: ön, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: oʻn}
-  - {bicim: uon, dil: sah, kaynak: wiktionary-ana-turkce, yazi: уон}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: 'on', metin: Orhon yazıtları, kaynak: clauson, atif: 'I N 7; T 26 (Clauson, o:n)'}
-  - {dil: otk, yuzyil: 8-14, bicim: oon, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Chuas. 42 (Clauson, o:n)', not: Uzun ünlülü yazım.}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: oon, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 49 (Clauson, o:n)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: 'on', metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 132, 998 (Clauson, o:n)'}
-  - {dil: xqa, yuzyil: 13, bicim: 'on', metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 237 (Clauson, o:n)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: oon, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 18, 9 (Clauson, o:n)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {bicim: 'on', dil: aze, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium aze sözlüğünde var; Tatoeba'da 29 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: un, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ун, atif: Apertium bak sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: vunnă, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: вуннӑ, atif: Apertium chv sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: crh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium crh sözlüğünde var; Tatoeba'da 13 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: uon, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: уон, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: gag, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium gag sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: krc, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: он, atif: Apertium krc sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kdr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kaa, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium kaa sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kaz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: он, atif: Apertium kaz sözlüğünde var; Tatoeba'da 21 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kjh, kaynak: wiktionary-ana-turkce; apertium, yazi: он, atif: Apertium kjh sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: oon, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kir, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: он, atif: Apertium kir sözlüğünde var; Tatoeba'da 4 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kum, kaynak: wiktionary-ana-turkce; apertium, yazi: он, atif: Apertium kum sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: nog, kaynak: wiktionary-ana-turkce; apertium, yazi: он, atif: Apertium nog sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: atv, kaynak: wiktionary-ana-turkce, yazi: он, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: ybe, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: cjs, kaynak: wiktionary-ana-turkce, yazi: он, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: alt, kaynak: wiktionary-ana-turkce; tatoeba, yazi: он, atif: Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: un, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ун, atif: Apertium tat sözlüğünde var; Tatoeba'da 188 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: kim, kaynak: wiktionary-ana-turkce, yazi: он, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: tur, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tur sözlüğünde var; Tatoeba'da 2259 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: tuk, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium tuk sözlüğünde var; Tatoeba'da 22 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: 'on', dil: tyv, kaynak: wiktionary-ana-turkce; apertium, yazi: он, atif: Apertium tyv sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: 'on', yazi: ئون, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 50 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: ön, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: oʻn, atif: Apertium uzb sözlüğünde var; Tatoeba'da 2 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: uon, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: уон, atif: Apertium sah sözlüğünde var; Tatoeba'da 3 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: 'on', metin: Orhon yazıtları, kaynak: clauson, atif: 'I N 7; T 26 (Clauson, o:n)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: oon, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Chuas. 42 (Clauson, o:n)', not: Uzun ünlülü yazım., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: oon, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 49 (Clauson, o:n)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: 'on', metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 132, 998 (Clauson, o:n)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: 'on', metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 237 (Clauson, o:n)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: oon, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 18, 9 (Clauson, o:n)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
 
 yok: {}
 tarihi_yok: {}

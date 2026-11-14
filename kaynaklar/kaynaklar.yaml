@@ -431,6 +431,95 @@ kaynaklar:
       2026-11-14: бала (Kazakça, Kırgızca), bola, بالا, bala (Kırım Tatarca),
       uşak, ana (Azerbaycanca) tabloları okundu.
 
+  - kimlik: agiralioglu-akcan-2025
+    ad: "Ağıralioğlu & Akçan 2025 — Türkçe kişi zamirlerinin bazı dil ve lehçelerdeki kişi zamirleriyle karşılaştırılması"
+    url: https://dergipark.org.tr/en/download/article-file/4453399
+    tur: siniflandirma
+    diller: [tur, kmz, kdr, klj, slr, gag, kaa, nog, krc, kum, tyv, kjh, cjs, kim, chv]
+    kullanim: [bicim]
+    ne: >-
+      Journal of Turkic Civilization Studies 6(1). Eski Türkçe, Orta Türkçe ve 30 Türk lehçesinde yalın hâl kişi zamirleri tabloları (Tablo 3, Tablo 4). İkincil derleme.
+    nasil: >-
+      Makale PDF'i DergiPark indirme adresinden; tablolar metne çevrilerek okunur.
+    erisim: acik
+    bicim: pdf
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: PDF indirildi, Tablo 4 okundu (Horasan, Karay, Halaç, Salar…).
+    not: >-
+      İkincil derlemedir; kaynakları (Bozkurt 2002 vb.) ayrıca denetlenmeli.
+
+  - kimlik: ersoz-ahiska
+    ad: "Ersöz, S. — Ahıska Ağzının Türkçenin Ağızları Arasındaki Yeri"
+    url: https://dergipark.org.tr/en/download/article-file/218529
+    tur: sozluk
+    diller: [tur]
+    kullanim: [agiz]
+    ne: >-
+      Ahıska ağzının ses ve biçim özelliklerinin Türkiye Türkçesi ağızlarıyla karşılaştırması; karşılaştırma tablosunda örn. 'bana' için bahan/bene.
+    nasil: >-
+      PDF DergiPark indirme adresinden.
+    erisim: acik
+    bicim: pdf
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: PDF indirildi ve okundu.
+
+  - kimlik: gemalmaz-erzurum
+    ad: "Gemalmaz, E. — Erzurum İli Ağızları (özet makale)"
+    url: https://dergipark.org.tr/en/download/article-file/3761652
+    tur: sozluk
+    diller: [tur]
+    kullanim: [agiz]
+    ne: >-
+      Erzurum ili ağızlarının ses ve biçim özellikleri ve derleme metin örnekleri (ör. 'ben sana diyorum', benüm). Ağzın temel kaynağı Gemalmaz'ın 1975/1995 doktora çalışmasıdır.
+    nasil: >-
+      PDF DergiPark indirme adresinden.
+    erisim: acik
+    bicim: pdf
+    guven: yuksek
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: PDF indirildi ve okundu.
+
+  - kimlik: dasdemir-2008
+    ad: "Daşdemir, M. 2008 — Anadolu ağızlarında çekimli yapılarda ortaya çıkan /+(E)n/ eki"
+    url: https://dergipark.org.tr/en/download/article-file/33159
+    tur: sozluk
+    diller: [tur]
+    kullanim: [agiz, dilbilgisi]
+    ne: >-
+      A.Ü. Türkiyat Araştırmaları Enstitüsü Dergisi 36. Anadolu ağızlarında zamirlerin yönelme hâli (bahan/behen/been 'bana'; Erzurum, Kars, Erzincan, Diyarbakır, Elazığ).
+    nasil: >-
+      PDF DergiPark indirme adresinden.
+    erisim: acik
+    bicim: pdf
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: PDF indirildi ve okundu.
+
+  - kimlik: wiktionary-sozluk
+    ad: Wiktionary — dil maddeleri ve ek sayfaları (Swadesh listeleri)
+    url: https://en.wiktionary.org
+    tur: sozluk
+    diller: [tum]
+    kullanim: [bicim]
+    ne: >-
+      Tek tek dillerin kelime maddeleri (ör. Karayca siz, kaynak Baskakov) ve
+      'Appendix:<Dil> Swadesh list' sayfaları (ör. Urumca: мен, биз, сиз).
+    nasil: >-
+      Ham metin: en.wiktionary.org/w/index.php?title=<sayfa>&action=raw.
+    erisim: acik
+    bicim: html
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: siz (Karayca), men (Türkiye Türkçesi ağız), Appendix:Urum Swadesh list okundu;
+      Kırımçak, Kaşkay, Horasan, Irak Türkmen Swadesh sayfaları yok (404).
+
   - kimlik: tatoeba
     ad: Tatoeba — çok dilli cümle derlemi
     url: https://tatoeba.org

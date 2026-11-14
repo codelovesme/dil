@@ -16,8 +16,9 @@ taniklar:
     bicim: kıl
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kıl, dil: tyv, kaynak: savelyev-turkic, yazi: кыл-}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kil, dil: uzb, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: kıl, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: кыл-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 4 kez; UD derleminde baş biçim', bicim: kil, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine et (et)

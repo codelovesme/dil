@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,50 +25,50 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **kañ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **kañ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| | Baraba ağzı | | — | | | | kök yok: yerine ata (ata) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ada (ata) |
-| | Güney Altayca | | — | | | | kök yok: yerine ada (ata) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine ata (ata) |
-| | Başkurtça | | — | | | | kök yok: yerine ata (ata) |
-| | Çuvaşça | | — | | | | kök yok: yerine atte (ata) |
-| | Karakalpakça | | — | | | | kök yok: yerine ata (ata) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine ata (ata) |
-| | Karayca | | — | | | | kök yok: yerine ata (ata) |
-| | Kırgızca | | — | | | | kök yok: yerine ata (ata) |
-| | Kumukça | | — | | | | kök yok: yerine ata (ata) |
-| | Çulımca | | — | | | | kök yok: yerine ada (ata) |
-| | Nogayca | | — | | | | kök yok: yerine ata (ata) |
-| | Şorca | | — | | | | kök yok: yerine ada (ata) |
-| | Tatarca | | — | | | | kök yok: yerine ata (ata) |
-| | Tofaca | | — | | | | kök yok: yerine ata (ata) |
-| | Türkmence | | — | | | | kök yok: yerine ata (ata) |
-| | Tuvaca | | — | | | | kök yok: yerine ada (ata) |
-| | Uygurca | | — | | | | kök yok: yerine ata (ata) |
-| | Özbekçe | | — | | | | kök yok: yerine ota (ata) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine baba (baba, belirsiz) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine baba (baba, belirsiz) |
-| | Gagavuzca | | — | | | | kök yok: yerine boba (baba, belirsiz) |
-| | Hakasça | | — | | | | kök yok: yerine paba (baba, belirsiz) |
-| | Halaçça | | — | | | | kök yok: yerine baaba (baba, belirsiz) |
-| | Dolganca | | — | | | | kök yok: yerine aga (aga) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine aga (aga) |
-| | Kazakça | | — | | | | kök yok: yerine äke (äke) |
-| | Salarca | | — | | | | kök yok: yerine apa (apa) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine aça (ača) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| | Baraba ağzı | | — | | | | | kök yok: yerine ata (ata) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ada (ata) |
+| | Güney Altayca | | — | | | | | kök yok: yerine ada (ata) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine ata (ata) |
+| | Başkurtça | | — | | | | | kök yok: yerine ata (ata) |
+| | Çuvaşça | | — | | | | | kök yok: yerine atte (ata) |
+| | Karakalpakça | | — | | | | | kök yok: yerine ata (ata) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine ata (ata) |
+| | Karayca | | — | | | | | kök yok: yerine ata (ata) |
+| | Kırgızca | | — | | | | | kök yok: yerine ata (ata) |
+| | Kumukça | | — | | | | | kök yok: yerine ata (ata) |
+| | Çulımca | | — | | | | | kök yok: yerine ada (ata) |
+| | Nogayca | | — | | | | | kök yok: yerine ata (ata) |
+| | Şorca | | — | | | | | kök yok: yerine ada (ata) |
+| | Tatarca | | — | | | | | kök yok: yerine ata (ata) |
+| | Tofaca | | — | | | | | kök yok: yerine ata (ata) |
+| | Türkmence | | — | | | | | kök yok: yerine ata (ata) |
+| | Tuvaca | | — | | | | | kök yok: yerine ada (ata) |
+| | Uygurca | | — | | | | | kök yok: yerine ata (ata) |
+| | Özbekçe | | — | | | | | kök yok: yerine ota (ata) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine baba (baba, belirsiz) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine baba (baba, belirsiz) |
+| | Gagavuzca | | — | | | | | kök yok: yerine boba (baba, belirsiz) |
+| | Hakasça | | — | | | | | kök yok: yerine paba (baba, belirsiz) |
+| | Halaçça | | — | | | | | kök yok: yerine baaba (baba, belirsiz) |
+| | Dolganca | | — | | | | | kök yok: yerine aga (aga) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine aga (aga) |
+| | Kazakça | | — | | | | | kök yok: yerine äke (äke) |
+| | Salarca | | — | | | | | kök yok: yerine apa (apa) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine aça (ača) |
 
 ## Kaynakça
 

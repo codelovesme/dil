@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 57 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 57 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓46 ◐11**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,87 +25,91 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **ığaç** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 8.–14. yy | Eski Türkçe |  | **ığaç** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **ağaç** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
-| 16.–19. yy | Türkiye Türkçesi |  | **ağaç** | آغاج | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **ığaç** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **ığaç** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **ağaç** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **ağaç** | آغاج | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — Tatoeba'da 317 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: araç | ✓ doğrulandı |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **yıvăş** | йывӑҫ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğur kolu | Çuvaşça |  | **yıvăş** | йывӑҫ | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Halaç kolu | Halaçça |  | **hağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Halaç kolu | Halaçça |  | **hağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **aaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **aaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **ağac** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **ağac** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkmence |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkmence |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Salarca |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Salarca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Tatarca |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Tatarca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Başkurtça |  | **ağas** | ағас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Başkurtça |  | **ağas** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırım Tatarcası |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karayca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **ağaç** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kazakça |  | **ağaş** | ағаш |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kazakça |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karakalpakça |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karakalpakça |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **ağac** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırgızca |  | **jığaç** | жыгач |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırgızca |  | **jığaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Güney Altayca |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Güney Altayca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Güney Altayca |  | **ağaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Özbekçe |  | **yoğoç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **yağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **yağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **yığaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tuvaca |  | **ıyaş** | ыяш |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tuvaca |  | **ıyaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tuvaca |  | **ıyaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **ağas** | агас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **ağas** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **ağas** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **ağaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **aaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **aaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **aaç** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Kuzey Altayca |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Kuzey Altayca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Kuzey Altayca |  | **ağaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine terek (terek) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine terek (terek) |
-| | Karayca | | — | | | | kök yok: yerine töräk (terek) |
-| | Kumukça | | — | | | | kök yok: yerine terek (terek) |
-| | Nogayca | | — | | | | kök yok: yerine terek (terek) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine terek (terek) |
-| | Dolganca | | — | | | | kök yok: yerine mas (mas) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine mas (mas) |
-| | Tofaca | | — | | | | kök yok: yerine neş (neş) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **yıvăş** | йывӑҫ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğur kolu | Çuvaşça |  | **yıvăş** | йывӑҫ | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Halaç kolu | Halaçça |  | **hağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Halaç kolu | Halaçça |  | **hağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Gagavuzca |  | **aaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Gagavuzca |  | **aaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **ağac** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **ağac** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Türkmence |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Türkmence |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Salarca |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Salarca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Tatarca |  | **ağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Tatarca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Başkurtça |  | **ağas** | ағас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Başkurtça |  | **ağas** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kırım Tatarcası |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karayca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kumukça |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **ağaç** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kazakça |  | **ağaş** | ағаш |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kazakça |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karakalpakça |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karakalpakça |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Nogayca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **ağac** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **ağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kırgızca |  | **jığaç** | жыгач |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kırgızca |  | **jığaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Güney Altayca |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Güney Altayca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Güney Altayca |  | **ağaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Özbekçe |  | **yoğoç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
+| Karluk kolu | Uygurca |  | **yağaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
+| Karluk kolu | Uygurca |  | **yağaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
+| Sibirya kolu | Sarı Uygurca |  | **yığaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tuvaca |  | **ıyaş** | ыяш |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Tuvaca |  | **ıyaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Tuvaca |  | **ıyaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **ağas** | агас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **ağas** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **ağas** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Şorca |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Şorca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Şorca |  | **ağaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Çulımca |  | **aaç** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Çulımca |  | **aaç** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Çulımca |  | **aaç** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Kuzey Altayca |  | **ağaş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Kuzey Altayca |  | **ağaş** |  | odun, ağaç (malzeme) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Kuzey Altayca |  | **ağaş** |  | orman | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine terek (terek) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine terek (terek) |
+| | Karayca | | — | | | | | kök yok: yerine töräk (terek) |
+| | Kumukça | | — | | | | | kök yok: yerine terek (terek) |
+| | Nogayca | | — | | | | | kök yok: yerine terek (terek) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine terek (terek) |
+| | Dolganca | | — | | | | | kök yok: yerine mas (mas) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine mas (mas) |
+| | Tofaca | | — | | | | | kök yok: yerine neş (neş) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 56 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 39 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 21 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 12 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 7 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 2/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 2/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ◐3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
@@ -24,49 +24,49 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Tuvaca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **sod** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 8.–14. yy | Eski Türkçe |  | **sod** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT III 112 (Clauson, so:d-) |
-| 11. yy | Karahanlıca | Kâşgar | **sod** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT II 295; III 439 (Clauson, so:d-) |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **sod** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **sod** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT III 112 (Clauson, so:d-) | ◐ tek kaynak |
+| 11. yy | Karahanlıca | Kâşgar | **sod** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT II 295; III 439 (Clauson, so:d-) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| | Baraba ağzı | | — | | | | kök yok: yerine tökür (tükür) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Güney Altayca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine tüpür (tükür) |
-| | Başkurtça | | — | | | | kök yok: yerine tökör (tükür) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tükür (tükür) |
-| | Gagavuzca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Karakalpakça | | — | | | | kök yok: yerine tükir (tükür) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Karayca | | — | | | | kök yok: yerine tikir (tükür) |
-| | Kazakça | | — | | | | kök yok: yerine tükir (tükür) |
-| | Hakasça | | — | | | | kök yok: yerine tükür (tükür) |
-| | Kırgızca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Kumukça | | — | | | | kök yok: yerine tükür (tükür) |
-| | Çulımca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Nogayca | | — | | | | kök yok: yerine tükir (tükür) |
-| | Salarca | | — | | | | kök yok: yerine tüxor (tükür) |
-| | Şorca | | — | | | | kök yok: yerine tükkür (tükür) |
-| | Tatarca | | — | | | | kök yok: yerine töker (tükür) |
-| | Tofaca | | — | | | | kök yok: yerine tükkür (tükür) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine tükür (tükür) |
-| | Türkmence | | — | | | | kök yok: yerine tüykür (tükür) |
-| | Uygurca | | — | | | | kök yok: yerine tükür (tükür) |
-| | Özbekçe | | — | | | | kök yok: yerine tupur (tükür) |
-| | Çuvaşça | | — | | | | kök yok: yerine sur (sur) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine tüdeste (tüdeste) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sillee (sillee) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| | Baraba ağzı | | — | | | | | kök yok: yerine tökür (tükür) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine tüpür (tükür) |
+| | Başkurtça | | — | | | | | kök yok: yerine tökör (tükür) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Gagavuzca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tükir (tükür) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Karayca | | — | | | | | kök yok: yerine tikir (tükür) |
+| | Kazakça | | — | | | | | kök yok: yerine tükir (tükür) |
+| | Hakasça | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Kırgızca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Kumukça | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Çulımca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Nogayca | | — | | | | | kök yok: yerine tükir (tükür) |
+| | Salarca | | — | | | | | kök yok: yerine tüxor (tükür) |
+| | Şorca | | — | | | | | kök yok: yerine tükkür (tükür) |
+| | Tatarca | | — | | | | | kök yok: yerine töker (tükür) |
+| | Tofaca | | — | | | | | kök yok: yerine tükkür (tükür) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Türkmence | | — | | | | | kök yok: yerine tüykür (tükür) |
+| | Uygurca | | — | | | | | kök yok: yerine tükür (tükür) |
+| | Özbekçe | | — | | | | | kök yok: yerine tupur (tükür) |
+| | Çuvaşça | | — | | | | | kök yok: yerine sur (sur) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine tüdeste (tüdeste) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sillee (sillee) |
 
 ## Kaynakça
 

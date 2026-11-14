@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [it](../kok/it.md) | türkçe | 0.74 (*it*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~170 milyon (%87, *it*) | *it- |
+| [it](../kok/it.md) | türkçe | 0.75 (*it*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~170 milyon (%87, *it*) | *it- |
 | [teber](../kok/teber.md) | türkçe | -0.41 (*teber*) | Çuvaşça %0 | Kafkas grubu (2 hat) | ~98 milyon (%51, *teber*) |  |
 | [tĕk](../kok/tĕk.md) | türkçe | -0.37 (*tĕk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *tĕk*) |  |
 | [as-it](../kok/as-it.md) | türkçe | -0.41 (*as*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *as*) |  |
@@ -112,10 +112,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | it | it | it |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | it | it | it | it |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | it | it | it | it |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | iˁt | iˁt | iˁt |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | iˁt | iˁt | iˁt | iˁt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | iˁt ↑ | iˁt ↑ | iˁt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | iˁt ↑ | iˁt ↑ | iˁt ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | it | it | it |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | it | it | it | it |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | it ↑ | it ↑ | it ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | it ↑ | it ↑ | it ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | it | it | ĕt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | ĕt | ĕt | ĕt | ĕt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ĕt | ĕt | ĕt | ĕt |
@@ -154,7 +154,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Dolganca |  | üt |  |  |  |
 | Sibirya kolu | Sarı Uygurca |  | işit |  |  |  |
 | Sibirya kolu | Tuvaca |  | it |  |  |  |
-| Sibirya kolu | Tofaca |  | iˁt |  |  |  |
+| Sibirya kolu | Tofaca |  | it |  |  |  |
 | Sibirya kolu | Hakasça |  | ĕt |  |  |  |
 | Sibirya kolu | Şorca |  | it |  |  |  |
 | Sibirya kolu | Çulımca |  | itle |  |  |  |

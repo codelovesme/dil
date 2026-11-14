@@ -8,8 +8,8 @@ etimoloji: Sayan dillerinde kıp-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: kıp, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kıp, dil: tyv, kaynak: savelyev-turkic, yazi: кып-}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kıp, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: kıp, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: кып-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yan (yan)

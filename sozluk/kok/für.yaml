@@ -8,7 +8,7 @@ etimoloji: Salarca für-; *ür- ile bağlantısı bu çalışmada araştırılma
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: tenisev1976, bicim: für, dil: slr, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: für, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ĕs (es)

@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kudruk](../kok/kudruk.md) | türkçe | 1.10 (*kuyruk*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~180 milyon (%93, *kuyruk*) | *kudruk |
+| [kudruk](../kok/kudruk.md) | türkçe | 1.11 (*kuyruk*) | Çuvaşça %69 | Ana Türkçe (2 hat) | ~181 milyon (%93, *kuyruk*) | *kudruk |
 
-**Büyük topluluklarda *kuyruk* biçiminin anlaşılırlığı:** Çuvaşça %69, Kazakça %85, Sahaca %86, Tuvaca %86, Tatarca %90, Başkurtça %92, Karakalpakça %94, Sibirya Tatarcası %94, Türkmence %96, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
+**Büyük topluluklarda *kuyruk* biçiminin anlaşılırlığı:** Çuvaşça %69, Sahaca %86, Tuvaca %86, Tatarca %90, Başkurtça %92, Kazakça %94, Karakalpakça %94, Sibirya Tatarcası %94, Türkmence %96, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -77,9 +77,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kuyruk | kuyruk | kuyruk | kuyruk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kuyruk | kuyruk | kuyruk | kuyruk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kuyruk | kuyruk | kuyruk | kuyruk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kuyrık | kuyrık | kŭyrık |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kŭyrık | kŭyrık | kŭyrık | kŭyrık |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kŭyrık | kŭyrık | kŭyrık | kŭyrık |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kuyrık | kuyrık | kuyrık |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kuyrık | kuyrık | kuyrık | kuyrık |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kuyrık | kuyrık | kuyrık | kuyrık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kuyrık | kuyrık | kuyrık | kuyrık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kuyrık | kuyrık | kuyrık | kuyrık |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kuyrık | kuyrık | kuyrık | kuyrık |
@@ -142,7 +142,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | kuyruk |
 | Kıpçak kolu | Kumukça |  | kuyruk |
 | Kıpçak kolu | Karaçay-Malkarca |  | kuyruk |
-| Kıpçak kolu | Kazakça |  | kŭyrık |
+| Kıpçak kolu | Kazakça |  | kuyrık |
 | Kıpçak kolu | Karakalpakça |  | kuyrık |
 | Kıpçak kolu | Nogayca |  | kuyrık |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kuyrık |

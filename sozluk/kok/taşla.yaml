@@ -9,19 +9,19 @@ etimoloji: taş 'taş' adından taşla- 'taş atmak, atmak'; Kıpçak-Bulgar, K�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: taşla, dil: bak, kaynak: savelyev-turkic, yazi: ташла-}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tasta, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: taşta, dil: kir, kaynak: savelyev-turkic, yazi: ташта-}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: taşla, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: tasta, dil: clw, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: taşta, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: taşta, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: taşla, dil: tat, kaynak: savelyev-turkic, yazi: ташла-}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: taşla, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: daja, dil: tyv, kaynak: savelyev-turkic, yazi: даш-}
-  - {atif: nadzip1968, bicim: taşla, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: taşla, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: taşla, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: taşla, dil: bak, kaynak: savelyev-turkic; apertium, yazi: ташла-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tasta, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: taşta, dil: kir, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: ташта-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: taşla, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: tasta, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: taşta, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947; Tatoeba'da 1 kez, bicim: taşta, dil: alt, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 22 kez', bicim: taşla, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, yazi: ташла-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968; Tatoeba''da 1 kez', bicim: taşla, dil: tuk, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: daja, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: даш-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var, bicim: taşla, dil: uig, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; UD derleminde baş biçim', bicim: taşla, dil: uzb, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: taşla, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine at (at-fiil)

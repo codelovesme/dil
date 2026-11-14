@@ -8,8 +8,8 @@ etimoloji: yalda- ; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: yalda, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yalda, dil: nog, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: yalda, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yalda, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yüs (yüz)

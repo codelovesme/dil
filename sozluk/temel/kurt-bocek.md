@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kurt](../kok/kurt.md) | türkçe | 0.88 (*kurt*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~173 milyon (%89, *kurt*) | *kurt |
+| [kurt](../kok/kurt.md) | türkçe | 0.89 (*kurt*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~174 milyon (%90, *kurt*) | *kurt |
 | [seläwsen](../kok/seläwsen.md) | türkçe | -0.41 (*seläwsen*) | Çuvaşça %0 | Başkurtça (1 hat) | ~55 milyon (%28, *seläwsen*) |  |
 | [sugulcıñ](../kok/sugulcıñ.md) | türkçe | -0.44 (*sugulcıñ*) | Çuvaşça %0 | Salarca (1 hat) | ~69 milyon (%36, *sugulcıñ*) |  |
 | [çuvalçañ](../kok/çuvalçañ.md) | türkçe | -0.40 (*çuvalçañ*) | Çuvaşça %0 | Özbekçe (1 hat) | ~99 milyon (%51, *çuvalçañ*) |  |
 
-**Büyük topluluklarda *kurt* biçiminin anlaşılırlığı:** Başkurtça %0, Özbekçe %0, Türkmence %71, Kazakça %88, Uygurca %90, Çuvaşça %94, Azerbaycan Türkçesi %94, Tatarca %94, Kumukça %94, Sibirya Tatarcası %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
+**Büyük topluluklarda *kurt* biçiminin anlaşılırlığı:** Başkurtça %0, Özbekçe %0, Türkmence %71, Uygurca %90, Çuvaşça %94, Azerbaycan Türkçesi %94, Tatarca %94, Kumukça %94, Sibirya Tatarcası %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -80,9 +80,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xurt | xurt | xurt | xurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kurt | kurt | kurt | kurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kurt | kurt | kurt | kurt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kurt | kurt | kŭrt |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kŭrt | kŭrt | kŭrt | kŭrt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kŭrt | kŭrt | kŭrt | kŭrt |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kurt | kurt | kurt |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kurt | kurt | kurt | kurt |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kurt | kurt | kurt | kurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kurt | kurt | kurt | kurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kurt | kurt | kurt | kurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kurt | kurt | kurt | kurt |
@@ -113,10 +113,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | kurt | kurt | kurt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | kurt | kurt | kurt | kurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kurt | kurt | kurt | kurt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | kuˁrt | kuˁrt | kuˁrt |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kuˁrt | kuˁrt | kuˁrt | kuˁrt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kuˁrt ↑ | kuˁrt ↑ | kuˁrt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kuˁrt ↑ | kuˁrt ↑ | kuˁrt ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | kurt | kurt | kurt |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kurt | kurt | kurt | kurt |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kurt ↑ | kurt ↑ | kurt ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kurt ↑ | kurt ↑ | kurt ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | kurt | kurt | xurt |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | xurt | xurt | xurt | xurt |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xurt | xurt | xurt | xurt |
@@ -145,7 +145,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | kurt |  |  |  |
 | Kıpçak kolu | Kumukça |  | xurt |  |  |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | kurt |  |  |  |
-| Kıpçak kolu | Kazakça |  | kŭrt |  |  |  |
+| Kıpçak kolu | Kazakça |  | kurt |  |  |  |
 | Kıpçak kolu | Karakalpakça |  | kurt |  |  |  |
 | Kıpçak kolu | Nogayca |  | kurt |  |  |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kort |  |  |  |
@@ -154,7 +154,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Karluk kolu | Özbekçe |  |  |  |  | çuvalçañ |
 | Karluk kolu | Uygurca |  | kurut |  |  |  |
 | Sibirya kolu | Tuvaca |  | kurt |  |  |  |
-| Sibirya kolu | Tofaca |  | kuˁrt |  |  |  |
+| Sibirya kolu | Tofaca |  | kurt |  |  |  |
 | Sibirya kolu | Hakasça |  | xurt |  |  |  |
 | Sibirya kolu | Şorca |  | kurt |  |  |  |
 | Sibirya kolu | Çulımca |  | kurt |  |  |  |

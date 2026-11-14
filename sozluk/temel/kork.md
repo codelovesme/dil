@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kork](../kok/kork.md) | türkçe | 1.02 (*kork*) | Sahaca %0 | Ana Türkçe (2 hat) | ~185 milyon (%95, *kork*) | *kork- |
+| [kork](../kok/kork.md) | türkçe | 1.02 (*kork*) | Sahaca %0 | Ana Türkçe (2 hat) | ~187 milyon (%97, *kork*) | *kork- |
 | [kuttan](../kok/kuttan.md) | türkçe | -0.40 (*kuttan*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *kuttan*) |  |
 
-**Büyük topluluklarda *kork* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %72, Tatarca %85, Özbekçe %88, Tuvaca %88, Azerbaycan Türkçesi %94, Türkmence %94, Başkurtça %94, Türkiye Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
+**Büyük topluluklarda *kork* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %72, Tatarca %85, Tuvaca %88, Azerbaycan Türkçesi %94, Türkmence %94, Başkurtça %94, Özbekçe %94, Türkiye Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -93,9 +93,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kork | kork | kork | kork |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | korkı | korkı | korkı | korkı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | korkı | korkı | korkı | korkı |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kork | kork | kọrk |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | kọrk | kọrk | kọrk | kọrk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kọrk | kọrk | kọrk | kọrk |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kork | kork | körk |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | körk | körk | körk | körk |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | körk | körk | körk | körk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | kork | kork | kork |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | kork | kork | kork | kork |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kork | kork | kork | kork |
@@ -148,7 +148,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kork |  |
 | Kıpçak kolu | Kırgızca |  | kork |  |
 | Kıpçak kolu | Güney Altayca |  | korkı |  |
-| Karluk kolu | Özbekçe |  | kọrk |  |
+| Karluk kolu | Özbekçe |  | körk |  |
 | Karluk kolu | Uygurca |  | kork |  |
 | Sibirya kolu | Sahaca (Yakutça) |  |  | kuttan |
 | Sibirya kolu | Dolganca |  |  | kuttan |

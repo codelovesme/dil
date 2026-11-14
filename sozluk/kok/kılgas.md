@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0 · denetim ✓1 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,41 +24,44 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Özbekçe, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **kılgas** | кылгас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **kılgas** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Güney Altayca | | — | | | | kök yok: yerine kısxa (kısga) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kısa (kısga) |
-| | Başkurtça | | — | | | | kök yok: yerine kıska (kısga) |
-| | Çuvaşça | | — | | | | kök yok: yerine kĕske (kısga) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kıska (kısga) |
-| | Gagavuzca | | — | | | | kök yok: yerine kısa (kısga) |
-| | Karakalpakça | | — | | | | kök yok: yerine kıska (kısga) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kısxa (kısga) |
-| | Karayca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Kazakça | | — | | | | kök yok: yerine kışka (kısga) |
-| | Hakasça | | — | | | | kök yok: yerine xısxa (kısga) |
-| | Kırgızca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Kumukça | | — | | | | kök yok: yerine kısğa (kısga) |
-| | Çulımca | | — | | | | kök yok: yerine käska (kısga) |
-| | Nogayca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Salarca | | — | | | | kök yok: yerine xısxa (kısga) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Şorca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Tatarca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Tofaca | | — | | | | kök yok: yerine kıˁska (kısga) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kısa (kısga) |
-| | Türkmence | | — | | | | kök yok: yerine gısga (kısga) |
-| | Tuvaca | | — | | | | kök yok: yerine kıska (kısga) |
-| | Uygurca | | — | | | | kök yok: yerine kiska (kısga) |
-| | Baraba ağzı | | — | | | | kök yok: yerine karsak (karsak) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **kılgas** | кылгас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
+| Sibirya kolu | Dolganca |  | **kılgas** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kısxa (kısga) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kısa (kısga) |
+| | Başkurtça | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Çuvaşça | | — | | | | | kök yok: yerine kĕske (kısga) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kısa (kısga) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kısxa (kısga) |
+| | Karayca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Kazakça | | — | | | | | kök yok: yerine kışka (kısga) |
+| | Hakasça | | — | | | | | kök yok: yerine xısxa (kısga) |
+| | Kırgızca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Kumukça | | — | | | | | kök yok: yerine kısğa (kısga) |
+| | Çulımca | | — | | | | | kök yok: yerine käska (kısga) |
+| | Nogayca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Salarca | | — | | | | | kök yok: yerine xısxa (kısga) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Şorca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Tatarca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Tofaca | | — | | | | | kök yok: yerine kıˁska (kısga) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kısa (kısga) |
+| | Türkmence | | — | | | | | kök yok: yerine gısga (kısga) |
+| | Tuvaca | | — | | | | | kök yok: yerine kıska (kısga) |
+| | Uygurca | | — | | | | | kök yok: yerine kiska (kısga) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine karsak (karsak) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık

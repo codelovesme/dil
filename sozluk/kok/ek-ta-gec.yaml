@@ -8,7 +8,7 @@ etimoloji: Sahaca -TA; *-DI ile ilişkisi bu çalışmada araştırılmadı.
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: apertium-sah.sah.lexc, bicim: ta, dil: sah, kaynak: apertium, not: 'Apertium: -{T}. Sahaca yakın geçmiş; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-sah.sah.lexc, bicim: ta, dil: sah, kaynak: apertium, not: 'Apertium: -{T}. Sahaca yakın geçmiş; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
 
 yok:
   tur: yerine dı (ek-dı)

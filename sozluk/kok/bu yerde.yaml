@@ -8,9 +8,9 @@ etimoloji: bu + yer + -de birleşimi; Türkmence, Uygurca ve Özbekçede 'burada
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1968, khamzajev1968', bicim: bu yerde, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: bu yärdä, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: bu yerda, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: bu yerde, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: bu yärdä, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: bu yerda, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine mında (bunda)

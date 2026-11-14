@@ -8,8 +8,8 @@ etimoloji: Sahaca aax-, Dolganca ak-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: ak, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: aağ, dil: sah, kaynak: savelyev-turkic, yazi: аах-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: ak, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: aağ, dil: sah, kaynak: savelyev-turkic, yazi: аах-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine sana (sana)

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 5 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 5 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ✓4 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,43 +25,45 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Başkurtça |  | **tubık** | тубыҡ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **tobuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **tobuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sahaca (Yakutça) |  | **tobuk** | тобук |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **tobuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine tiz (tiz) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tize (tiz) |
-| | Güney Altayca | | — | | | | kök yok: yerine tize (tiz) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine diz (tiz) |
-| | Çuvaşça | | — | | | | kök yok: yerine çĕrkuşşi (tiz) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tiz (tiz) |
-| | Gagavuzca | | — | | | | kök yok: yerine diz (tiz) |
-| | Karakalpakça | | — | | | | kök yok: yerine dize (tiz) |
-| | Karayca | | — | | | | kök yok: yerine tüz (tiz) |
-| | Kazakça | | — | | | | kök yok: yerine tize (tiz) |
-| | Hakasça | | — | | | | kök yok: yerine tizek (tiz) |
-| | Halaçça | | — | | | | kök yok: yerine tiiz (tiz) |
-| | Kırgızca | | — | | | | kök yok: yerine tize (tiz) |
-| | Çulımca | | — | | | | kök yok: yerine tizvaazı (tiz) |
-| | Nogayca | | — | | | | kök yok: yerine tiz (tiz) |
-| | Salarca | | — | | | | kök yok: yerine tizex (tiz) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine tiz (tiz) |
-| | Şorca | | — | | | | kök yok: yerine tize (tiz) |
-| | Tatarca | | — | | | | kök yok: yerine tez (tiz) |
-| | Tofaca | | — | | | | kök yok: yerine tiskek (tiz) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine diz (tiz) |
-| | Türkmence | | — | | | | kök yok: yerine dız (tiz) |
-| | Tuvaca | | — | | | | kök yok: yerine diskek (tiz) |
-| | Uygurca | | — | | | | kök yok: yerine tiz (tiz) |
-| | Özbekçe | | — | | | | kök yok: yerine tiz (tiz) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Başkurtça |  | **tubık** | тубыҡ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Kumukça |  | **tobuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **tobuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | **tobuk** | тобук |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Dolganca |  | **tobuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine tiz (tiz) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tize (tiz) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tize (tiz) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine diz (tiz) |
+| | Çuvaşça | | — | | | | | kök yok: yerine çĕrkuşşi (tiz) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tiz (tiz) |
+| | Gagavuzca | | — | | | | | kök yok: yerine diz (tiz) |
+| | Karakalpakça | | — | | | | | kök yok: yerine dize (tiz) |
+| | Karayca | | — | | | | | kök yok: yerine tüz (tiz) |
+| | Kazakça | | — | | | | | kök yok: yerine tize (tiz) |
+| | Hakasça | | — | | | | | kök yok: yerine tizek (tiz) |
+| | Halaçça | | — | | | | | kök yok: yerine tiiz (tiz) |
+| | Kırgızca | | — | | | | | kök yok: yerine tize (tiz) |
+| | Çulımca | | — | | | | | kök yok: yerine tizvaazı (tiz) |
+| | Nogayca | | — | | | | | kök yok: yerine tiz (tiz) |
+| | Salarca | | — | | | | | kök yok: yerine tizex (tiz) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine tiz (tiz) |
+| | Şorca | | — | | | | | kök yok: yerine tize (tiz) |
+| | Tatarca | | — | | | | | kök yok: yerine tez (tiz) |
+| | Tofaca | | — | | | | | kök yok: yerine tiskek (tiz) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine diz (tiz) |
+| | Türkmence | | — | | | | | kök yok: yerine dız (tiz) |
+| | Tuvaca | | — | | | | | kök yok: yerine diskek (tiz) |
+| | Uygurca | | — | | | | | kök yok: yerine tiz (tiz) |
+| | Özbekçe | | — | | | | | kök yok: yerine tiz (tiz) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 5 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 4 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık

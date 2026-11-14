@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şăn, dil: chv, kaynak: savelyev-turkic, yazi: шӑн-}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: şăn, dil: chv, kaynak: savelyev-turkic; apertium, yazi: шӑн-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine toñ (toñ)

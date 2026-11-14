@@ -9,13 +9,13 @@ etimoloji: Soru gövdesi kan- (*ka-) ile kurulan kanday, kandak, kançap; Kırg�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'judakhin1985, judakhin1957', bicim: kanday, dil: kir, kaynak: savelyev-turkic, yazi: кандай}
-  - {atif: baskakov1985, bicim: kanayıp, dil: atv, kaynak: savelyev-turkic, not: Ayrıca kayıp.}
-  - {atif: baskakov1947, bicim: kandıy, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: kançap, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kançap, dil: tyv, kaynak: savelyev-turkic, yazi: канчап}
-  - {atif: nadzip1968, bicim: kandak, dil: uig, kaynak: savelyev-turkic, yazi: قانداق}
-  - {atif: 'awde2002, kary-nijazov1941', bicim: kanday, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; Tatoeba''da 8 kez; UD derleminde baş biçim', bicim: kanday, dil: kir, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: кандай, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: kanayıp, dil: atv, kaynak: savelyev-turkic, not: Ayrıca kayıp., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947; Tatoeba'da 36 kez, bicim: kandıy, dil: alt, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kançap, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kançap, dil: tyv, kaynak: savelyev-turkic, yazi: канчап, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 115 kez; UD derleminde baş biçim, bicim: kandak, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: قانداق, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941; Apertium uzb sözlüğünde var; Tatoeba''da 15 kez; UD derleminde baş biçim', bicim: kanday, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   kaa: yerine kalay (neçük)

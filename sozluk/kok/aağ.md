@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 26/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,38 +24,38 @@
 
 Tanığı olmayan diller: Çuvaşça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, Güney Altayca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Şorca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **aağ** | аах- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **ak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine sana (sana) |
-| | Başkurtça | | — | | | | kök yok: yerine hana (sana) |
-| | Karakalpakça | | — | | | | kök yok: yerine sana (sana) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine sana (sana) |
-| | Kazakça | | — | | | | kök yok: yerine sana (sana) |
-| | Hakasça | | — | | | | kök yok: yerine sana (sana) |
-| | Halaçça | | — | | | | kök yok: yerine saana (sana) |
-| | Kırgızca | | — | | | | kök yok: yerine sana (sana) |
-| | Kumukça | | — | | | | kök yok: yerine sana (sana) |
-| | Çulımca | | — | | | | kök yok: yerine sana (sana) |
-| | Nogayca | | — | | | | kök yok: yerine sana (sana) |
-| | Salarca | | — | | | | kök yok: yerine sana (sana) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine sana (sana) |
-| | Tatarca | | — | | | | kök yok: yerine sana (sana) |
-| | Tofaca | | — | | | | kök yok: yerine sana (sana) |
-| | Türkmence | | — | | | | kök yok: yerine sana (sana) |
-| | Tuvaca | | — | | | | kök yok: yerine sana (sana) |
-| | Uygurca | | — | | | | kök yok: yerine sana (sana) |
-| | Özbekçe | | — | | | | kök yok: yerine sana (sana) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine say (say) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine say (say) |
-| | Gagavuzca | | — | | | | kök yok: yerine say (say) |
-| | Karayca | | — | | | | kök yok: yerine say (say) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine say (say) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **aağ** | аах- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Dolganca |  | **ak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine sana (sana) |
+| | Başkurtça | | — | | | | | kök yok: yerine hana (sana) |
+| | Karakalpakça | | — | | | | | kök yok: yerine sana (sana) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine sana (sana) |
+| | Kazakça | | — | | | | | kök yok: yerine sana (sana) |
+| | Hakasça | | — | | | | | kök yok: yerine sana (sana) |
+| | Halaçça | | — | | | | | kök yok: yerine saana (sana) |
+| | Kırgızca | | — | | | | | kök yok: yerine sana (sana) |
+| | Kumukça | | — | | | | | kök yok: yerine sana (sana) |
+| | Çulımca | | — | | | | | kök yok: yerine sana (sana) |
+| | Nogayca | | — | | | | | kök yok: yerine sana (sana) |
+| | Salarca | | — | | | | | kök yok: yerine sana (sana) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine sana (sana) |
+| | Tatarca | | — | | | | | kök yok: yerine sana (sana) |
+| | Tofaca | | — | | | | | kök yok: yerine sana (sana) |
+| | Türkmence | | — | | | | | kök yok: yerine sana (sana) |
+| | Tuvaca | | — | | | | | kök yok: yerine sana (sana) |
+| | Uygurca | | — | | | | | kök yok: yerine sana (sana) |
+| | Özbekçe | | — | | | | | kök yok: yerine sana (sana) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine say (say) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine say (say) |
+| | Gagavuzca | | — | | | | | kök yok: yerine say (say) |
+| | Karayca | | — | | | | | kök yok: yerine say (say) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine say (say) |
 
 ## Kaynakça
 

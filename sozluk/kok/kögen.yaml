@@ -8,7 +8,7 @@ etimoloji: Kuzey Altayca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1985, bicim: kögen, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: kögen, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine çımın (çıbın)

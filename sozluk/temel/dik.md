@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tik](../kok/tik.md) | türkçe | 0.93 (*tik*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~184 milyon (%95, *tik*) | *tik- |
+| [tik](../kok/tik.md) | türkçe | 0.93 (*tik*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~185 milyon (%95, *tik*) | *tik- |
 | [köktö](../kok/köktö.md) | türkçe | -0.46 (*köktö*) | Çuvaşça %0 | Güney Altayca (1 hat) | ~67 milyon (%34, *köktö*) |  |
 | [daara](../kok/daara.md) | türkçe | -0.42 (*daara*) | Çuvaşça %0 | Sayan (2 hat) | ~44 milyon (%22, *daara*) |  |
 | [şĕle](../kok/şĕle.md) | türkçe | -0.38 (*şĕle*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şĕle*) |  |
 
-**Büyük topluluklarda *tik* biçiminin anlaşılırlığı:** Çuvaşça %0, Tuvaca %0, Kazakça %83, Tatarca %88, Başkurtça %88, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100.
+**Büyük topluluklarda *tik* biçiminin anlaşılırlığı:** Çuvaşça %0, Tuvaca %0, Tatarca %88, Başkurtça %88, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -80,9 +80,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tik | tik | tik | tik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | tik | tik | tik | tik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tik | tik | tik | tik |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tik | tik | tĭk |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tĭk | tĭk | tĭk | tĭk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tĭk | tĭk | tĭk | tĭk |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tik | tik | tik |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tik | tik | tik | tik |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tik | tik | tik | tik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | tik | tik | tik | tik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tik | tik | tik | tik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tik | tik | tik | tik |
@@ -145,7 +145,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | tik |  |  |  |
 | Kıpçak kolu | Kumukça |  | tik |  |  |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | tik |  |  |  |
-| Kıpçak kolu | Kazakça |  | tĭk |  |  |  |
+| Kıpçak kolu | Kazakça |  | tik |  |  |  |
 | Kıpçak kolu | Karakalpakça |  | tik |  |  |  |
 | Kıpçak kolu | Nogayca |  | tik |  |  |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | tik |  |  |  |

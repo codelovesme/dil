@@ -8,9 +8,9 @@ etimoloji: Altay ve Tuvacada tazıl, dazıl; kökeni bu çalışmada araştırı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1985, bicim: tazıl, dil: atv, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: tazıl, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dazıl, dil: tyv, kaynak: savelyev-turkic, yazi: дазыл}
+  - {atif: baskakov1985, bicim: tazıl, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: tazıl, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: dazıl, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: дазыл, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine kök (kök-bitki)

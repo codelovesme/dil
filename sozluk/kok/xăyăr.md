@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ✓1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,42 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Güney Altayca, İli Türkçesi, Tuvaca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **xăyăr** | хӑйӑр |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kum (kum) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kuvak (kum) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kum (kum) |
-| | Başkurtça | | — | | | | kök yok: yerine kom (kum) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kum (kum) |
-| | Dolganca | | — | | | | kök yok: yerine kumak (kum) |
-| | Gagavuzca | | — | | | | kök yok: yerine kum (kum) |
-| | Karakalpakça | | — | | | | kök yok: yerine kum (kum) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kum (kum) |
-| | Karayca | | — | | | | kök yok: yerine kum (kum) |
-| | Kazakça | | — | | | | kök yok: yerine kŭm (kum) |
-| | Hakasça | | — | | | | kök yok: yerine xum (kum) |
-| | Kırgızca | | — | | | | kök yok: yerine kum (kum) |
-| | Kumukça | | — | | | | kök yok: yerine xum (kum) |
-| | Çulımca | | — | | | | kök yok: yerine kum (kum) |
-| | Nogayca | | — | | | | kök yok: yerine kum (kum) |
-| | Salarca | | — | | | | kök yok: yerine ? kum (kum) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kum (kum) |
-| | Şorca | | — | | | | kök yok: yerine kumak (kum) |
-| | Tatarca | | — | | | | kök yok: yerine kom (kum) |
-| | Tofaca | | — | | | | kök yok: yerine hum (kum) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kum (kum) |
-| | Uygurca | | — | | | | kök yok: yerine kum (kum) |
-| | Özbekçe | | — | | | | kök yok: yerine kum (kum) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine kumax (kum) |
-| | Türkmence | | — | | | | kök yok: yerine çäge (çäge) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **xăyăr** | хӑйӑр |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kum (kum) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kuvak (kum) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kum (kum) |
+| | Başkurtça | | — | | | | | kök yok: yerine kom (kum) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kum (kum) |
+| | Dolganca | | — | | | | | kök yok: yerine kumak (kum) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kum (kum) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kum (kum) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kum (kum) |
+| | Karayca | | — | | | | | kök yok: yerine kum (kum) |
+| | Kazakça | | — | | | | | kök yok: yerine kŭm (kum) |
+| | Hakasça | | — | | | | | kök yok: yerine xum (kum) |
+| | Kırgızca | | — | | | | | kök yok: yerine kum (kum) |
+| | Kumukça | | — | | | | | kök yok: yerine xum (kum) |
+| | Çulımca | | — | | | | | kök yok: yerine kum (kum) |
+| | Nogayca | | — | | | | | kök yok: yerine kum (kum) |
+| | Salarca | | — | | | | | kök yok: yerine ? kum (kum) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kum (kum) |
+| | Şorca | | — | | | | | kök yok: yerine kumak (kum) |
+| | Tatarca | | — | | | | | kök yok: yerine kom (kum) |
+| | Tofaca | | — | | | | | kök yok: yerine hum (kum) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kum (kum) |
+| | Uygurca | | — | | | | | kök yok: yerine kum (kum) |
+| | Özbekçe | | — | | | | | kök yok: yerine kum (kum) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine kumax (kum) |
+| | Türkmence | | — | | | | | kök yok: yerine çäge (çäge) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 1 tanık

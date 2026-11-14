@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ✓1 ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,41 +25,43 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Tofaca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkiye Türkçesi |  | **delik** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **delik** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **telık** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine teşik (teşik) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tejik (teşik) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine deşik (teşik) |
-| | Başkurtça | | — | | | | kök yok: yerine tişek (teşik) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine teşik (teşik) |
-| | Karakalpakça | | — | | | | kök yok: yerine tesik (teşik) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine teşik (teşik) |
-| | Karayca | | — | | | | kök yok: yerine teşik (teşik) |
-| | Kazakça | | — | | | | kök yok: yerine tesik (teşik) |
-| | Hakasça | | — | | | | kök yok: yerine tizek (teşik) |
-| | Kırgızca | | — | | | | kök yok: yerine teşik (teşik) |
-| | Kumukça | | — | | | | kök yok: yerine teşik (teşik) |
-| | Nogayca | | — | | | | kök yok: yerine tesik (teşik) |
-| | Şorca | | — | | | | kök yok: yerine tejik (teşik) |
-| | Tatarca | | — | | | | kök yok: yerine tişek (teşik) |
-| | Türkmence | | — | | | | kök yok: yerine deşik (teşik) |
-| | Tuvaca | | — | | | | kök yok: yerine dejik (teşik) |
-| | Uygurca | | — | | | | kök yok: yerine töşük (teşik) |
-| | Özbekçe | | — | | | | kök yok: yerine teşik (teşik) |
-| | Güney Altayca | | — | | | | kök yok: yerine üyt (üt) |
-| | Dolganca | | — | | | | kök yok: yerine üüt (üt) |
-| | Çulımca | | — | | | | kök yok: yerine üdük (üt) |
-| | Halaçça | | — | | | | kök yok: yerine teplük (teplük) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine xayağas (xayağas) |
-| | Çuvaşça | | — | | | | kök yok: yerine şătăk (şătăk) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **delik** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
+| Oğuz kolu | Gagavuzca |  | **delik** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sarı Uygurca |  | **telık** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tejik (teşik) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine deşik (teşik) |
+| | Başkurtça | | — | | | | | kök yok: yerine tişek (teşik) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tesik (teşik) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Karayca | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Kazakça | | — | | | | | kök yok: yerine tesik (teşik) |
+| | Hakasça | | — | | | | | kök yok: yerine tizek (teşik) |
+| | Kırgızca | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Kumukça | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Nogayca | | — | | | | | kök yok: yerine tesik (teşik) |
+| | Şorca | | — | | | | | kök yok: yerine tejik (teşik) |
+| | Tatarca | | — | | | | | kök yok: yerine tişek (teşik) |
+| | Türkmence | | — | | | | | kök yok: yerine deşik (teşik) |
+| | Tuvaca | | — | | | | | kök yok: yerine dejik (teşik) |
+| | Uygurca | | — | | | | | kök yok: yerine töşük (teşik) |
+| | Özbekçe | | — | | | | | kök yok: yerine teşik (teşik) |
+| | Güney Altayca | | — | | | | | kök yok: yerine üyt (üt) |
+| | Dolganca | | — | | | | | kök yok: yerine üüt (üt) |
+| | Çulımca | | — | | | | | kök yok: yerine üdük (üt) |
+| | Halaçça | | — | | | | | kök yok: yerine teplük (teplük) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine xayağas (xayağas) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şătăk (şătăk) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık

@@ -14,7 +14,8 @@ taniklar:
     bicim: kadız
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'malov1957, tenisev1966', bicim: kazdık, dil: ybe, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'malov1957, tenisev1966', bicim: kazdık, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kabık (kabuk)

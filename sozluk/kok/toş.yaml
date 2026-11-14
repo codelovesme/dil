@@ -8,9 +8,9 @@ etimoloji: toş 'buz'; Güney Altayca, Tofaca ve Tuvacada (doş).
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: toş, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: toş, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: doş, dil: tyv, kaynak: savelyev-turkic, yazi: дош}
+  - {atif: baskakov1947; Tatoeba'da 1 kez, bicim: toş, dil: alt, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: toş, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: doş, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: дош, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine mös (buz)

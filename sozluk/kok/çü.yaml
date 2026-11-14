@@ -8,8 +8,8 @@ etimoloji: Sayan dillerinin soru zamiri çüü; kökeni bu çalışmada araştı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: çü, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çüü, dil: tyv, kaynak: savelyev-turkic, yazi: чүү}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çü, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Tatoeba''da 1 kez', bicim: çüü, dil: tyv, kaynak: savelyev-turkic; tatoeba, yazi: чүү, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine nemä (ne)

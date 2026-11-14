@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 4 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ✓3 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,43 +24,45 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Halaç kolu | Halaçça |  | **uora** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **orada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **orada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **orada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine anda (anda) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine anda (anda) |
-| | Güney Altayca | | — | | | | kök yok: yerine anda (anda) |
-| | Başkurtça | | — | | | | kök yok: yerine unda (anda) |
-| | Çuvaşça | | — | | | | kök yok: yerine unta (anda) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine anda (anda) |
-| | Dolganca | | — | | | | kök yok: yerine onno (anda) |
-| | Karakalpakça | | — | | | | kök yok: yerine anda (anda) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine anda (anda) |
-| | Karayca | | — | | | | kök yok: yerine anda (anda) |
-| | Kazakça | | — | | | | kök yok: yerine onda (anda) |
-| | Hakasça | | — | | | | kök yok: yerine anda (anda) |
-| | Kırgızca | | — | | | | kök yok: yerine anda (anda) |
-| | Kumukça | | — | | | | kök yok: yerine onda (anda) |
-| | Çulımca | | — | | | | kök yok: yerine anda (anda) |
-| | Nogayca | | — | | | | kök yok: yerine onda (anda) |
-| | Salarca | | — | | | | kök yok: yerine anta (anda) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine anda (anda) |
-| | Şorca | | — | | | | kök yok: yerine anda (anda) |
-| | Tatarca | | — | | | | kök yok: yerine anda (anda) |
-| | Tofaca | | — | | | | kök yok: yerine ında (anda) |
-| | Tuvaca | | — | | | | kök yok: yerine ında (anda) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine onno (anda) |
-| | Uygurca | | — | | | | kök yok: yerine u yärdä (o yerde) |
-| | Türkmence | | — | | | | kök yok: yerine ol yerde (o yerde) |
-| | Özbekçe | | — | | | | kök yok: yerine u yerda (o yerde) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **uora** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **orada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ✓ doğrulandı |  |
+| Oğuz kolu | Gagavuzca |  | **orada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **orada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine anda (anda) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine anda (anda) |
+| | Güney Altayca | | — | | | | | kök yok: yerine anda (anda) |
+| | Başkurtça | | — | | | | | kök yok: yerine unda (anda) |
+| | Çuvaşça | | — | | | | | kök yok: yerine unta (anda) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine anda (anda) |
+| | Dolganca | | — | | | | | kök yok: yerine onno (anda) |
+| | Karakalpakça | | — | | | | | kök yok: yerine anda (anda) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine anda (anda) |
+| | Karayca | | — | | | | | kök yok: yerine anda (anda) |
+| | Kazakça | | — | | | | | kök yok: yerine onda (anda) |
+| | Hakasça | | — | | | | | kök yok: yerine anda (anda) |
+| | Kırgızca | | — | | | | | kök yok: yerine anda (anda) |
+| | Kumukça | | — | | | | | kök yok: yerine onda (anda) |
+| | Çulımca | | — | | | | | kök yok: yerine anda (anda) |
+| | Nogayca | | — | | | | | kök yok: yerine onda (anda) |
+| | Salarca | | — | | | | | kök yok: yerine anta (anda) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine anda (anda) |
+| | Şorca | | — | | | | | kök yok: yerine anda (anda) |
+| | Tatarca | | — | | | | | kök yok: yerine anda (anda) |
+| | Tofaca | | — | | | | | kök yok: yerine ında (anda) |
+| | Tuvaca | | — | | | | | kök yok: yerine ında (anda) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine onno (anda) |
+| | Uygurca | | — | | | | | kök yok: yerine u yärdä (o yerde) |
+| | Türkmence | | — | | | | | kök yok: yerine ol yerde (o yerde) |
+| | Özbekçe | | — | | | | | kök yok: yerine u yerda (o yerde) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 4 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 2 tanık

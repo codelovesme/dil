@@ -16,25 +16,26 @@ taniklar:
     bicim: sor
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: sor, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: hur, dil: bak, kaynak: savelyev-turkic, yazi: һур-}
-  - {atif: 'baskakov1958, baskakov1967', bicim: sor, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: sor, dil: kaz, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: sor, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: suor, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: sor, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: sor, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: sor, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: sor, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: sor, dil: atv, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: sor, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: soor, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: suır, dil: tat, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'rassadin1971, rassadin2005', bicim: sor, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: sor, dil: tuk, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: sor, dil: tyv, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: şora, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: sọr, dil: uzb, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var', bicim: sor, dil: aze, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: hur, dil: bak, kaynak: savelyev-turkic; apertium, yazi: һур-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: sor, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; UD derleminde baş biçim', bicim: sor, dil: kaz, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: sor, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: suor, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: sor, dil: kir, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: sor, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: sor, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: sor, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: sor, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: sor, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: soor, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var', bicim: suır, dil: tat, kaynak: savelyev-turkic; apertium, not: Savelyev soru işaretiyle., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: sor, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: sor, dil: tuk, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: sor, dil: tyv, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: şora, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: uzb, bicim: sör, kaynak: savelyev-turkic; apertium, atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var', not: Yazım düzeltildi (sọr → sör)., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   chv: yerine ĕm (em)

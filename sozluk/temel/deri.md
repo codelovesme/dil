@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [teri](../kok/teri.md) | türkçe | 1.02 (*teri*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~180 milyon (%93, *teri*) | *tẹri |
+| [teri](../kok/teri.md) | türkçe | 1.03 (*teri*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~181 milyon (%94, *teri*) | *tẹri |
 | [keş](../kok/keş.md) | türkçe | -0.42 (*keş*) | Çuvaşça %0 | Sayan (2 hat) | ~44 milyon (%22, *keş*) | *kä̂ĺ |
 
-**Büyük topluluklarda *teri* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %81, Tatarca %81, Başkurtça %81, Sahaca %82, Azerbaycan Türkçesi %88, Kazakça %88, Uygurca %91, Türkiye Türkçesi %94, Gagavuzca %94, Türkmence %94, Sibirya Tatarcası %94, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100.
+**Büyük topluluklarda *teri* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %81, Tatarca %81, Başkurtça %81, Sahaca %82, Azerbaycan Türkçesi %88, Uygurca %91, Türkiye Türkçesi %94, Gagavuzca %94, Türkmence %94, Sibirya Tatarcası %94, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -78,9 +78,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | teri | teri | teri | teri |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | teri | teri | teri | teri |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | teri | teri | teri | teri |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | teri | teri | terĭ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | terĭ | terĭ | terĭ | terĭ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | terĭ | terĭ | terĭ | terĭ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | teri | teri | teri |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | teri | teri | teri | teri |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | teri | teri | teri | teri |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | teri | teri | teri | teri |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | teri | teri | teri | teri |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | teri | teri | teri | teri |
@@ -143,7 +143,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | teri |  |
 | Kıpçak kolu | Kumukça |  | teri |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | teri |  |
-| Kıpçak kolu | Kazakça |  | terĭ |  |
+| Kıpçak kolu | Kazakça |  | teri |  |
 | Kıpçak kolu | Karakalpakça |  | teri |  |
 | Kıpçak kolu | Nogayca |  | teri |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | täri |  |

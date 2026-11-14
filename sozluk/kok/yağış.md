@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 4 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0 · denetim ✓1 ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,41 +24,44 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Tuvaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Halaç kolu | Halaçça |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkmence |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Ayrıca yağmır. |
-| Kıpçak kolu | Kırım Tatarcası |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yañgır (yağmur) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ñañmır (yağmur) |
-| | Güney Altayca | | — | | | | kök yok: yerine dañmır (yağmur) |
-| | Başkurtça | | — | | | | kök yok: yerine yamğır (yağmur) |
-| | Çuvaşça | | — | | | | kök yok: yerine şumăr (yağmur) |
-| | Dolganca | | — | | | | kök yok: yerine hamıır (yağmur) |
-| | Gagavuzca | | — | | | | kök yok: yerine yaamur (yağmur) |
-| | Karakalpakça | | — | | | | kök yok: yerine jamğır (yağmur) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine jañur (yağmur) |
-| | Karayca | | — | | | | kök yok: yerine yamğur (yağmur) |
-| | Kazakça | | — | | | | kök yok: yerine jañbır (yağmur) |
-| | Hakasça | | — | | | | kök yok: yerine nañmır (yağmur) |
-| | Kırgızca | | — | | | | kök yok: yerine jamğır (yağmur) |
-| | Kumukça | | — | | | | kök yok: yerine yañur (yağmur) |
-| | Nogayca | | — | | | | kök yok: yerine yamğır (yağmur) |
-| | Salarca | | — | | | | kök yok: yerine yağmur (yağmur) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine yağmır (yağmur) |
-| | Şorca | | — | | | | kök yok: yerine nağbur (yağmur) |
-| | Tatarca | | — | | | | kök yok: yerine yañgır (yağmur) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yağmur (yağmur) |
-| | Uygurca | | — | | | | kök yok: yerine yamğur (yağmur) |
-| | Özbekçe | | — | | | | kök yok: yerine yomğir (yağmur) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine samıır (yağmur) |
-| | Tofaca | | — | | | | kök yok: yerine öskin (öskin) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Oğuz kolu | Türkmence |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | Ayrıca yağmır. |
+| Kıpçak kolu | Kırım Tatarcası |  | **yağış** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yañgır (yağmur) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ñañmır (yağmur) |
+| | Güney Altayca | | — | | | | | kök yok: yerine dañmır (yağmur) |
+| | Başkurtça | | — | | | | | kök yok: yerine yamğır (yağmur) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şumăr (yağmur) |
+| | Dolganca | | — | | | | | kök yok: yerine hamıır (yağmur) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yaamur (yağmur) |
+| | Karakalpakça | | — | | | | | kök yok: yerine jamğır (yağmur) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine jañur (yağmur) |
+| | Karayca | | — | | | | | kök yok: yerine yamğur (yağmur) |
+| | Kazakça | | — | | | | | kök yok: yerine jañbır (yağmur) |
+| | Hakasça | | — | | | | | kök yok: yerine nañmır (yağmur) |
+| | Kırgızca | | — | | | | | kök yok: yerine jamğır (yağmur) |
+| | Kumukça | | — | | | | | kök yok: yerine yañur (yağmur) |
+| | Nogayca | | — | | | | | kök yok: yerine yamğır (yağmur) |
+| | Salarca | | — | | | | | kök yok: yerine yağmur (yağmur) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine yağmır (yağmur) |
+| | Şorca | | — | | | | | kök yok: yerine nağbur (yağmur) |
+| | Tatarca | | — | | | | | kök yok: yerine yañgır (yağmur) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yağmur (yağmur) |
+| | Uygurca | | — | | | | | kök yok: yerine yamğur (yağmur) |
+| | Özbekçe | | — | | | | | kök yok: yerine yomğir (yağmur) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine samıır (yağmur) |
+| | Tofaca | | — | | | | | kök yok: yerine öskin (öskin) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 4 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 1 tanık

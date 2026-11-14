@@ -187,7 +187,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [sekiz](temel/sekiz.md) | eight | **sekiz** | **sekiz** | **sekiz** | uyuşuyor |
 | [sen](temel/sen.md) | you (singular) | **sen** | **sän** | **sen** | uyuşuyor |
 | [sıcak](temel/sicak.md) | hot | **isig** | **isig** | **issik** | uyuşuyor |
-| [sıçra-](temel/sicra.md) | jump | **sekir** | **sekri** | **säkrä** | uyuşuyor |
+| [sıçra-](temel/sicra.md) | jump | **sekir** | **sekri** | **sekir** | uyuşuyor |
 | [sinek](temel/sinek.md) | fly (insect) | **çibin** | **çibin** | **sinek** | ayrişiyor |
 | [sırt](temel/sirt.md) | back | **arka** | **arka** | **arka** | uyuşuyor |
 | [şiş-](temel/sis.md) | swell | **şış** | **sış** | **şiş** | uyuşuyor |

@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tut](../kok/tut.md) | türkçe | 1.14 (*tut*) | Kazakça %50 | Ana Türkçe (2 hat) | ~191 milyon (%98, *tut*) | *tut- |
+| [tut](../kok/tut.md) | türkçe | 1.17 (*tut*) | Kazakça %50 | Ana Türkçe (2 hat) | ~192 milyon (%99, *tut*) | *tut- |
 | [usta](../kok/usta.md) | türkçe | -0.45 (*usta*) | Çuvaşça %0 | Kazakça (1 hat) | ~84 milyon (%44, *usta*) |  |
 
-**Büyük topluluklarda *tut* biçiminin anlaşılırlığı:** Kazakça %50, Kırgızca %80, Çuvaşça %88, Başkurtça %92, Tatarca %92, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
+**Büyük topluluklarda *tut* biçiminin anlaşılırlığı:** Kazakça %50, Çuvaşça %88, Başkurtça %92, Tatarca %92, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -88,9 +88,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tot | tot | tot |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tot ↑ | tot ↑ | tot ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | tot | tot | tot | tot |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | tut | tut | ? tut |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | ? tut | ? tut | ? tut | ? tut |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? tut | ? tut | ? tut | ? tut |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | tut | tut | tut |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | tut | tut | tut | tut |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | tut | tut | tut |  |
@@ -106,23 +106,23 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | tut | tut | tut |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | ?? tut | ?? tut | ?? tut | ?? tut |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | tut | tut | tut |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | tuˁt | tuˁt | tuˁt |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | tuˁt | tuˁt | tuˁt | tuˁt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | tuˁt ↑ | tuˁt ↑ | tuˁt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | tuˁt ↑ | tuˁt ↑ | tuˁt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | tut | tut | ? tut |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | ? tut | ? tut | ? tut | ? tut |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? tut | ? tut | ? tut | ? tut |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | tut | tut | tut |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | tut | tut | tut | tut |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | tut ↑ | tut ↑ | tut ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | tut ↑ | tut ↑ | tut ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | tut | tut | tut |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | tut | tut | tut | tut |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | tut ↑ | tut ↑ | ? tut ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | tut ↑ | tut ↑ | tut ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | tut | tut | tut | tut |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tut | tut | tut | tut |
 
@@ -147,16 +147,16 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karakalpakça |  | tut |  |
 | Kıpçak kolu | Nogayca |  | tut |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | tot |  |
-| Kıpçak kolu | Kırgızca |  | ? tut |  |
+| Kıpçak kolu | Kırgızca |  | tut |  |
 | Kıpçak kolu | Güney Altayca |  | tut |  |
 | Karluk kolu | Özbekçe |  | tut |  |
 | Karluk kolu | Uygurca |  | tut |  |
 | Sibirya kolu | Sahaca (Yakutça) |  | tut |  |
 | Sibirya kolu | Dolganca |  | tut |  |
-| Sibirya kolu | Sarı Uygurca |  | ?? tut |  |
+| Sibirya kolu | Sarı Uygurca |  | tut |  |
 | Sibirya kolu | Tuvaca |  | tut |  |
-| Sibirya kolu | Tofaca |  | tuˁt |  |
-| Sibirya kolu | Hakasça |  | ? tut |  |
+| Sibirya kolu | Tofaca |  | tut |  |
+| Sibirya kolu | Hakasça |  | tut |  |
 | Sibirya kolu | Şorca |  | tut |  |
 | Sibirya kolu | Çulımca |  | tut |  |
 | Sibirya kolu | Kuzey Altayca |  | tut |  |

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 1/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 1/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,13 +24,13 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **köp** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **köp** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -40,35 +40,35 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Karaçay-Malkarca |  | **köp** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **kop** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine şiş (şiş) |
-| | Başkurtça | | — | | | | kök yok: yerine şeş (şiş) |
-| | Çuvaşça | | — | | | | kök yok: yerine şış (şiş) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine şiş (şiş) |
-| | Gagavuzca | | — | | | | kök yok: yerine şiş (şiş) |
-| | Karayca | | — | | | | kök yok: yerine sis (şiş) |
-| | Hakasça | | — | | | | kök yok: yerine sĕs (şiş) |
-| | Halaçça | | — | | | | kök yok: yerine şış (şiş) |
-| | Kırgızca | | — | | | | kök yok: yerine şiş (şiş) |
-| | Kumukça | | — | | | | kök yok: yerine şiş (şiş) |
-| | Nogayca | | — | | | | kök yok: yerine sis (şiş) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine sız (şiş) |
-| | Şorca | | — | | | | kök yok: yerine şiş (şiş) |
-| | Tatarca | | — | | | | kök yok: yerine şeş (şiş) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine şiş (şiş) |
-| | Türkmence | | — | | | | kök yok: yerine çiş (şiş) |
-| | Özbekçe | | — | | | | kök yok: yerine şiş (şiş) |
-| | Karakalpakça | | — | | | | kök yok: yerine is (iş-şiş) |
-| | Kazakça | | — | | | | kök yok: yerine is (iş-şiş) |
-| | Tofaca | | — | | | | kök yok: yerine ış (iş-şiş) |
-| | Tuvaca | | — | | | | kök yok: yerine ış (iş-şiş) |
-| | Uygurca | | — | | | | kök yok: yerine işşä (iş-şiş) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine is (iş-şiş) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tiji (tiji) |
-| | Güney Altayca | | — | | | | kök yok: yerine tiji (tiji) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Karaçay-Malkarca |  | **köp** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Çulımca |  | **kop** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Başkurtça | | — | | | | | kök yok: yerine şeş (şiş) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şış (şiş) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Gagavuzca | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Karayca | | — | | | | | kök yok: yerine sis (şiş) |
+| | Hakasça | | — | | | | | kök yok: yerine sĕs (şiş) |
+| | Halaçça | | — | | | | | kök yok: yerine şış (şiş) |
+| | Kırgızca | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Kumukça | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Nogayca | | — | | | | | kök yok: yerine sis (şiş) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine sız (şiş) |
+| | Şorca | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Tatarca | | — | | | | | kök yok: yerine şeş (şiş) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Türkmence | | — | | | | | kök yok: yerine çiş (şiş) |
+| | Özbekçe | | — | | | | | kök yok: yerine şiş (şiş) |
+| | Karakalpakça | | — | | | | | kök yok: yerine is (iş-şiş) |
+| | Kazakça | | — | | | | | kök yok: yerine is (iş-şiş) |
+| | Tofaca | | — | | | | | kök yok: yerine ış (iş-şiş) |
+| | Tuvaca | | — | | | | | kök yok: yerine ış (iş-şiş) |
+| | Uygurca | | — | | | | | kök yok: yerine işşä (iş-şiş) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine is (iş-şiş) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tiji (tiji) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tiji (tiji) |
 
 ## Kaynakça
 

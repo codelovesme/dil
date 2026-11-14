@@ -9,8 +9,8 @@ etimoloji: Tuvaca xem, Tofaca hem; Yenisey'in Türkçe adı Kem ile aynı. Köke
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: hem, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xem, dil: tyv, kaynak: savelyev-turkic, yazi: хем}
+  - {atif: 'rassadin1971, rassadin2005', bicim: hem, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: xem, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: хем, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine özen (özen)

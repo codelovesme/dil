@@ -20,35 +20,38 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım yacsi.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: yaḫşı
+    bicim: yaxşı
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یخشی
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yaxşı, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: yakşı, dil: bak, kaynak: savelyev-turkic, yazi: яҡшы}
-  - {atif: useinov2007, bicim: yaxşı, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: aşxı, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: yaxşı, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: jakşı, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jakşı, dil: kaz, kaynak: savelyev-turkic, yazi: жақсы}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çaxsı, dil: kjh, kaynak: savelyev-turkic, yazi: чахсы}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jakşı, dil: kir, kaynak: savelyev-turkic, yazi: жакшы}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yaxşı, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: çaksı, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yaxşı, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: takşı, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yaxşi, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: yaxşı, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çakşı, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: daxşı, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yaxşı, dil: tat, kaynak: savelyev-turkic, yazi: яхшы}
-  - {dil: tur, bicim: yahşi, kaynak: bilgi, not: 'Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yağşı, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: yaxşi, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yaxşi, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: yakşı, dil: sty-baraba, kaynak: savelyev-turkic}
+    not: 'Yazım düzeltildi (yaḫşı → yaxşı).'
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var; Tatoeba''da 173 kez; ASJP AZERBAIJANI: yoxşu', bicim: yaxşı, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; Tatoeba''da 2 kez; ASJP BASHKIR_2: yakşu', bicim: yakşı, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: яҡшы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: useinov2007, bicim: yaxşı, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var; Tatoeba''da 4 kez', bicim: aşxı, dil: krc, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: yaxşı, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: jakşı, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; ASJP KAZAKH_2: joksı', bicim: jakşı, dil: kaz, kaynak: savelyev-turkic; asjp, yazi: жақсы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Apertium kjh sözlüğünde var; Tatoeba''da 4 kez', bicim: çaxsı, dil: kjh, kaynak: savelyev-turkic; apertium; tatoeba, yazi: чахсы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; Tatoeba''da 23 kez; UD derleminde baş biçim', bicim: jakşı, dil: kir, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: жакшы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var; Tatoeba''da 10 kez', bicim: yaxşı, dil: kum, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'savelyev2015; ASJP MIDDLE_CHULYM: çakşı', bicim: çaksı, dil: clw, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var; Tatoeba''da 5 kez', bicim: yaxşı, dil: nog, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: takşı, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yaxşi, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: yaxşı, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çakşı, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: daxşı, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 1519 kez; UD derleminde baş biçim; ASJP TATAR_2: yaxşo', bicim: yaxşı, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, yazi: яхшы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {dil: tur, bicim: yahşi, kaynak: bilgi, not: 'Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yağşı, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 475 kez; UD derleminde baş biçim, bicim: yaxşi, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 26 kez; UD derleminde baş biçim', bicim: yaxşi, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yakşı, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   gag: yerine iyi (edgü)

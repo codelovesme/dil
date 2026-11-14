@@ -8,9 +8,9 @@ etimoloji: yoğun 'kalın, iri'; Baraba yuwan, Halaç yoğun, Salar yoğan.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: doerfer1980, bicim: yoğun, dil: klj, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: tenisev1976, bicim: yoğan, dil: slr, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: dmitrijeva1981, bicim: yuwan, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: yoğun, dil: klj, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yoğan, dil: slr, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yuwan, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine kalın (kalın)

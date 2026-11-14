@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [sor](../kok/sor.md) | türkçe | 0.54 (*sor*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~151 milyon (%78, *sor*) | *sor- |
+| [sor](../kok/sor.md) | türkçe | 0.54 (*sor*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~154 milyon (%79, *sor*) | *sor- |
 | [em](../kok/em.md) | türkçe | 0.11 (*em*) | Azerbaycan Türkçesi %0 | Ana Türkçe (2 hat) | ~153 milyon (%79, *em*) | *em- |
 
-**Büyük topluluklarda *sor* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Kırım Tatarcası %0, Karaçay-Malkarca %0, Sahaca %0, Tatarca %81, Uygurca %81, Başkurtça %83, Özbekçe %83, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
+**Büyük topluluklarda *sor* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Kırım Tatarcası %0, Karaçay-Malkarca %0, Sahaca %0, Tatarca %81, Uygurca %81, Başkurtça %83, Özbekçe %92, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -92,9 +92,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sor | sor | sor | sor |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | soor | soor | soor | soor |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | soor | soor | soor | soor |
-| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | sọr | sọr | *sọr* (sor) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | sọr | sọr | sọr | sọr |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sọr | sọr | sọr | sọr |
+| &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | sör | sör | *sör* (sor) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | sör | sör | sör | sör |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sör | sör | sör | sör |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | şora | şora | şora |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | şora | şora | şora | şora |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şora | şora | şora | şora |
@@ -146,7 +146,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Nogayca |  | sor |  |
 | Kıpçak kolu | Kırgızca |  | sor |  |
 | Kıpçak kolu | Güney Altayca |  | soor |  |
-| Karluk kolu | Özbekçe |  | sọr |  |
+| Karluk kolu | Özbekçe |  | sör |  |
 | Karluk kolu | Uygurca |  | şora |  |
 | Sibirya kolu | Sahaca (Yakutça) |  |  | em |
 | Sibirya kolu | Dolganca |  |  | em |

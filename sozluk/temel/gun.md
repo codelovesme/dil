@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kün](../kok/kün.md) | türkçe | 1.15 (*kün*) | Başkurtça %92 | Ana Türkçe (2 hat) | ~180 milyon (%93, *kün*) | *kün |
+| [kün](../kok/kün.md) | türkçe | 1.16 (*kün*) | Başkurtça %92 | Ana Türkçe (2 hat) | ~180 milyon (%93, *kün*) | *kün |
 
 **Büyük topluluklarda *kün* biçiminin anlaşılırlığı:** Başkurtça %92, Kumukça %92, Özbekçe %92, Tuvaca %92, Çuvaşça %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %92, Tatarca %92, Sibirya Tatarcası %92, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Uygurca %100, Sahaca %100.
 
@@ -90,8 +90,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | kün | kün | kün |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | kün | kün | kün | kün |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kün | kün | kün | kün |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | ? kün | ? kün | ? kün | ? kün |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? kün | ? kün | ? kün | ? kün |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | kün | kün | kün | kün |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kün | kün | kün | kün |
 | &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | kün | kün | kun |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | kun | kun | kun | kun |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kun | kun | kun | kun |
@@ -147,7 +147,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Nogayca |  | kün |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kön |
 | Kıpçak kolu | Kırgızca |  | kün |
-| Kıpçak kolu | Güney Altayca |  | ? kün |
+| Kıpçak kolu | Güney Altayca |  | kün |
 | Karluk kolu | Özbekçe |  | kun |
 | Karluk kolu | Uygurca |  | kün |
 | Sibirya kolu | Sahaca (Yakutça) |  | kün |

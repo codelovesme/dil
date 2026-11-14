@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şuxăşla, dil: chv, kaynak: savelyev-turkic, yazi: шухӑшла-}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: şuxăşla, dil: chv, kaynak: savelyev-turkic; apertium, yazi: шухӑшла-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine oyla (oyla)

@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kindik](../kok/kindik.md) | türkçe | 0.55 (*kindik*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~129 milyon (%67, *kindik*) | *kindik |
+| [kindik](../kok/kindik.md) | türkçe | 0.55 (*kindik*) | Çuvaşça %0 | Ortak Türkçe (6 hat) | ~130 milyon (%67, *kindik*) | *kindik |
 | [kin](../kok/kin.md) | türkçe | -0.31 (*kiin*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~67 milyon (%35, *kın*) | *kīn |
 | [göbek](../kok/göbek.md) | türkçe | -0.21 (*göbek*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~154 milyon (%79, *göbek*) |  |
 | [kăvapa](../kok/kăvapa.md) | türkçe | -0.38 (*kăvapa*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kăvapa*) |  |
 
-**Büyük topluluklarda *kindik* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Kazakça %83, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %94, Kumukça %96, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
+**Büyük topluluklarda *kindik* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %94, Kumukça %96, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -80,9 +80,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gindik | gindik | gindik | gindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kindik | kindik | kindik | kindik |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kindik | kindik | kĭndĭk |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kĭndĭk | kĭndĭk | kĭndĭk | kĭndĭk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kĭndĭk | kĭndĭk | kĭndĭk | kĭndĭk |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kindik | kindik | kindik |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kindik | kindik | kindik | kindik |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kindik | kindik | kindik | kindik |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kindik | kindik | kindik | kindik |
@@ -145,7 +145,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | kindik |  |  |  |
 | Kıpçak kolu | Kumukça |  | gindik |  |  |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | kindik |  |  |  |
-| Kıpçak kolu | Kazakça |  | kĭndĭk |  |  |  |
+| Kıpçak kolu | Kazakça |  | kindik |  |  |  |
 | Kıpçak kolu | Karakalpakça |  | kindik |  |  |  |
 | Kıpçak kolu | Nogayca |  | kindik |  |  |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kändik |  |  |  |

@@ -8,8 +8,8 @@ etimoloji: Sahaca xañas; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: kañas, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xañas, dil: sah, kaynak: savelyev-turkic, yazi: хаҥас}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kañas, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var', bicim: xañas, dil: sah, kaynak: savelyev-turkic; apertium, yazi: хаҥас, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine sol (sol)

@@ -8,7 +8,7 @@ etimoloji: Halaçça teplük; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: doerfer1980, bicim: teplük, dil: klj, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: teplük, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine teşik (teşik)

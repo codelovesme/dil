@@ -8,7 +8,7 @@ etimoloji: yağrın 'kürek kemiği' kelimesinin Orta Çulımca biçimi olabilir
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: savelyev2015, bicim: çaarın, dil: clw, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: çaarın, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine arğa (arka)

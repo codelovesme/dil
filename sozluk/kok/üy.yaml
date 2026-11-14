@@ -8,7 +8,7 @@ etimoloji: Güney Altayca üy 'eş'; üy kiji 'kadın'. Kökeni bu çalışmada 
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: üy kiji, dil: alt, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: üy kiji, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   krc: yerine tişiriw (tişi)

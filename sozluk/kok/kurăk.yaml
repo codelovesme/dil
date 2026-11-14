@@ -8,7 +8,7 @@ etimoloji: Çuvaşça kurăk; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: kurăk, dil: chv, kaynak: savelyev-turkic, yazi: курӑк}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 1 kez', bicim: kurăk, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: курӑк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine ot (ot-bitki)

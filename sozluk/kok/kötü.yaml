@@ -8,7 +8,7 @@ etimoloji: Türkiye Türkçesi kötü; kökeni bu çalışmada araştırılmadı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1977, iz1992', bicim: kötü, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 3292 kez; UD derleminde baş biçim', bicim: kötü, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaman (yaman)

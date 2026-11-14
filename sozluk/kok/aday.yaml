@@ -8,9 +8,9 @@ etimoloji: Hakasça, Şorca ve Çulımcada aday; kökeni bu çalışmada araşt�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: aday, dil: kjh, kaynak: savelyev-turkic, yazi: адай}
-  - {atif: savelyev2015, bicim: aday, dil: clw, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: aday, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Tatoeba''da 4 kez; ASJP KHAKAS: edey', bicim: aday, dil: kjh, kaynak: savelyev-turkic; tatoeba; asjp, yazi: адай, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'savelyev2015; ASJP MIDDLE_CHULYM: aday', bicim: aday, dil: clw, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'kurpesko-tannagaseva1993; ASJP SHOR: odoy', bicim: aday, dil: cjs, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine it (ıt)

@@ -16,28 +16,29 @@ taniklar:
     bicim: yuka
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'uraksin1996, uraksin2005', bicim: yoka, dil: bak, kaynak: savelyev-turkic, yazi: йоҡа}
-  - {atif: 'asmarin1928, savelyev2011', bicim: şuğa, dil: chv, kaynak: savelyev-turkic, yazi: ҫуха}
-  - {atif: useinov2007, bicim: yufka, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: cuka, dil: krc, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: juka, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: juka, dil: kaz, kaynak: savelyev-turkic, yazi: жұқа}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çuğa, dil: kjh, kaynak: savelyev-turkic, not: çuğacax da.}
-  - {atif: 'judakhin1985, judakhin1957', bicim: juka, dil: kir, kaynak: savelyev-turkic, yazi: жука}
-  - {atif: savelyev2015, bicim: çuğacaak, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yuka, dil: nog, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yoxpa, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: yuka, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çuğa, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: duka, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yuka, dil: tat, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: çuğa, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yuka, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çuğa, dil: tyv, kaynak: savelyev-turkic, yazi: чуга}
-  - {atif: nadzip1968, bicim: yupka, dil: uig, kaynak: savelyev-turkic, not: 'yukka, juka de.'}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yupka, dil: uzb, kaynak: savelyev-turkic}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yuyka, metin: Tonyukuk yazıtı, kaynak: clauson, atif: 'T 13 (Clauson, kalın)'}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: yupka, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 9 (Clauson, kalın)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: yoka, dil: bak, kaynak: savelyev-turkic; apertium, yazi: йоҡа, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şuğa, dil: chv, kaynak: savelyev-turkic, yazi: ҫуха, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: yufka, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: cuka, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: juka, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 3 kez', bicim: juka, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba, yazi: жұқа, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çuğa, dil: kjh, kaynak: savelyev-turkic, not: çuğacax da., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: juka, dil: kir, kaynak: savelyev-turkic; apertium, yazi: жука, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: çuğacaak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yuka, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yoxpa, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: yuka, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çuğa, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: duka, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 10 kez', bicim: yuka, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çuğa, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yuka, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çuğa, dil: tyv, kaynak: savelyev-turkic, yazi: чуга, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var, bicim: yupka, dil: uig, kaynak: savelyev-turkic; apertium, not: 'yukka, juka de.', denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var', bicim: yupka, dil: uzb, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yuyka, metin: Tonyukuk yazıtı, kaynak: clauson, atif: 'T 13 (Clauson, kalın)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: yupka, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 9 (Clauson, kalın)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
 
 yok:
   atv: yerine çiçke (ince)

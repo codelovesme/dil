@@ -8,8 +8,8 @@ etimoloji: Sahaca ve Dolganca begehee; kökeni bu çalışmada araştırılmadı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: begehee, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: begehee, dil: sah, kaynak: savelyev-turkic, yazi: бэҕэһээ}
+  - {atif: 'aksenova1992, stachowski1993', bicim: begehee, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: begehee, dil: sah, kaynak: savelyev-turkic, yazi: бэҕэһээ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine dünän (tünegün)

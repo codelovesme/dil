@@ -20,29 +20,31 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: jiti de.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: yiti
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: iti, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'asmarin1928, savelyev2011', bicim: şivĕç, dil: chv, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., yazi: ҫивӗч}
-  - {atif: 'aksenova1992, stachowski1993', bicim: hıtıı, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: citi, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: iti, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çitig, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: yitdi, dil: klj, kaynak: savelyev-turkic, not: yittii de.}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: itti, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: çidiğ, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: ıştığ, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çidig, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: çiiti, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yiti, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çidig, dil: tyv, kaynak: savelyev-turkic, yazi: чидиг}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sıtıı, dil: sah, kaynak: savelyev-turkic, yazi: сытыы}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: yitig, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 78; Nehcü''l-Feradis 239 (Clauson, yitig)'}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: yiti, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 91 (Clauson, yitig)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 11 kez', bicim: iti, dil: aze, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 1 kez', bicim: şivĕç, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, not: Savelyev soru işaretiyle., yazi: ҫивӗч, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hıtıı, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: citi, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: iti, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çitig, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: yitdi, dil: klj, kaynak: savelyev-turkic, not: yittii de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: itti, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: çidiğ, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: ıştığ, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çidig, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çiiti, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yiti, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: çidig, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: чидиг, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var', bicim: sıtıı, dil: sah, kaynak: savelyev-turkic; apertium, yazi: сытыы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: yitig, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 78; Nehcü''l-Feradis 239 (Clauson, yitig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: yiti, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 91 (Clauson, yitig)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
 
 yok:
   atv: yerine ötkür (ötkür)

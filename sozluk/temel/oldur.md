@@ -24,7 +24,7 @@
 |---|---|---|---|---|---|---|
 | [ölür](../kok/ölür.md) | türkçe | 1.04 (*ölür*) | Tatarca %72 | Ana Türkçe (2 hat) | ~186 milyon (%96, *öldür*) | *ölür- |
 
-**Büyük topluluklarda *ölür* biçiminin anlaşılırlığı:** Tatarca %72, Sibirya Tatarcası %72, Çuvaşça %75, Başkurtça %78, Kazakça %80, Özbekçe %82, Karakalpakça %82, Türkiye Türkçesi %90, Gagavuzca %90, Azerbaycan Türkçesi %90, Türkmence %90, Kırım Tatarcası %90, Kumukça %90, Karaçay-Malkarca %90, Kırgızca %90, Uygurca %90, Sahaca %94, Tuvaca %100.
+**Büyük topluluklarda *ölür* biçiminin anlaşılırlığı:** Tatarca %72, Sibirya Tatarcası %72, Çuvaşça %75, Başkurtça %78, Kazakça %82, Özbekçe %82, Karakalpakça %82, Türkiye Türkçesi %90, Gagavuzca %90, Azerbaycan Türkçesi %90, Türkmence %90, Kırım Tatarcası %90, Kumukça %90, Karaçay-Malkarca %90, Kırgızca %90, Uygurca %90, Sahaca %94, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -77,9 +77,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öltür | öltür | öltür | öltür |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | öltür | öltür | öltür | öltür |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öltür | öltür | öltür | öltür |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | öltir | öltir | öltĭr |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | öltĭr | öltĭr | öltĭr | öltĭr |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öltĭr | öltĭr | öltĭr | öltĭr |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | öltir | öltir | öltir |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | öltir | öltir | öltir | öltir |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öltir | öltir | öltir | öltir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | öltir | öltir | öltir | öltir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | öltir | öltir | öltir | öltir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | öltir | öltir | öltir | öltir |
@@ -142,7 +142,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | öldir |
 | Kıpçak kolu | Kumukça |  | öltür |
 | Kıpçak kolu | Karaçay-Malkarca |  | öltür |
-| Kıpçak kolu | Kazakça |  | öltĭr |
+| Kıpçak kolu | Kazakça |  | öltir |
 | Kıpçak kolu | Karakalpakça |  | öltir |
 | Kıpçak kolu | Nogayca |  | öltir |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | öytir |

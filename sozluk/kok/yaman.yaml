@@ -20,35 +20,38 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım iaman.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: yaman
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: tur
     yuzyil: 16-19
     bicim: yaman
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یامان
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yaman, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: aman, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: yaman, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: jaman, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jaman, dil: kaz, kaynak: savelyev-turkic, yazi: жаман}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jaman, dil: kir, kaynak: savelyev-turkic, yazi: жаман}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yaman, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yaman, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: daman, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yaman, dil: slr, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: daman, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: '? yaman', dil: tat, kaynak: savelyev-turkic}
-  - {dil: tur, bicim: yaman, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 6 kez, not: '''Çok kötü, belalı'' anlamında. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.'}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: '? yaman', dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: yaman, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yomon, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: yaman, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var', bicim: yaman, dil: aze, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var', bicim: aman, dil: krc, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: yaman, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var; Tatoeba''da 2 kez', bicim: jaman, dil: kaa, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 6 kez; UD derleminde baş biçim', bicim: jaman, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: жаман, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: jaman, dil: kir, kaynak: savelyev-turkic; apertium, yazi: жаман, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: yaman, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var; Tatoeba''da 4 kez', bicim: yaman, dil: nog, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: daman, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yaman, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: daman, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: tat, bicim: yaman, kaynak: savelyev-turkic; apertium; tatoeba, atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 146 kez', not: 'Yazım düzeltildi (? yaman → yaman). Savelyev soru işaretiyle (belirsiz).', denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {dil: tur, bicim: yaman, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 6 kez, not: '''Çok kötü, belalı'' anlamında. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.', denetim: {durum: kismen, bicim: [apertium, tatoeba]}}
+  - {dil: tuk, bicim: yaman, kaynak: savelyev-turkic, atif: 'baskakov1968, khamzajev1968', not: 'Yazım düzeltildi (? yaman → yaman). Savelyev soru işaretiyle (belirsiz).', denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 14 kez; UD derleminde baş biçim, bicim: yaman, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 10 kez; UD derleminde baş biçim', bicim: yomon, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yaman, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine yaramay (yaramay)

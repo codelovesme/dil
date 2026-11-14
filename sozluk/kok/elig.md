@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 8 (kaynaklı %100) · kaynak 3 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 8 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓6 ◑1 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,53 +25,55 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **el** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **el** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **ală** | алӑ |  | [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
-| Oğuz kolu | Türkiye Türkçesi |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
-| Oğuz kolu | Gagavuzca |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **äl** | əl |  | [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
-| Oğuz kolu | Türkmence |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
-| Sibirya kolu | Sahaca (Yakutça) |  | **ilii** | илии |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **ilii** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Güney Altayca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Başkurtça | | — | | | | kök yok: yerine kul (kol-ad) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Karakalpakça | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Karayca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Kazakça | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Hakasça | | — | | | | kök yok: yerine xol (kol-ad) |
-| | Halaçça | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Kırgızca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Kumukça | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Çulımca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Nogayca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Salarca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Şorca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Tatarca | | — | | | | kök yok: yerine kul (kol-ad) |
-| | Tofaca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Tuvaca | | — | | | | kök yok: yerine xol (kol-ad) |
-| | Uygurca | | — | | | | kök yok: yerine kol (kol-ad) |
-| | Özbekçe | | — | | | | kök yok: yerine kol (kol-ad) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **ală** | алӑ |  | [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Gagavuzca |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ◑ kısmen (biçim) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **äl** | əl |  | [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Türkmence |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **ilii** | илии |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Dolganca |  | **ilii** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Başkurtça | | — | | | | | kök yok: yerine kul (kol-ad) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Karayca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Kazakça | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Hakasça | | — | | | | | kök yok: yerine xol (kol-ad) |
+| | Halaçça | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Kırgızca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Kumukça | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Çulımca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Nogayca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Salarca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Şorca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Tatarca | | — | | | | | kök yok: yerine kul (kol-ad) |
+| | Tofaca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Tuvaca | | — | | | | | kök yok: yerine xol (kol-ad) |
+| | Uygurca | | — | | | | | kök yok: yerine kol (kol-ad) |
+| | Özbekçe | | — | | | | | kök yok: yerine kol (kol-ad) |
 
 ## Kaynakça
 
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 6 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 5 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 4 tanık
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık
-- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 2 tanık

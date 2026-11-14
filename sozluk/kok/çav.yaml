@@ -8,7 +8,7 @@ etimoloji: Çuvaşça çav-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: çav, dil: chv, kaynak: savelyev-turkic, yazi: чав-}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: çav, dil: chv, kaynak: savelyev-turkic; apertium, yazi: чав-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kas (kaz)

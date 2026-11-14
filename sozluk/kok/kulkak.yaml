@@ -20,12 +20,14 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım chulag.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: kulkak
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
     yuzyil: 13-15
     bicim: kulak
@@ -33,42 +35,44 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: قلاق
     not: Wiktionary aktarımı qulaq.
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: kulak
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: قولاق
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kulak, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: kolak, dil: bak, kaynak: savelyev-turkic, yazi: ҡолаҡ}
-  - {atif: 'asmarin1928, savelyev2011', bicim: xălxa, dil: chv, kaynak: savelyev-turkic, yazi: хӑлха}
-  - {atif: useinov2007, bicim: kulak, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: kulgaak, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kulak, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kulak, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: kulak, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: kulak, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kulak, dil: kaz, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xulax, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: kulaak, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: kulak, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kulak, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: kulak, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kulak, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: kulak, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: kulax, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: kulak, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: kulak, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: kulak, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: kolak, dil: tat, kaynak: savelyev-turkic, yazi: колак}
-  - {atif: 'rassadin1971, rassadin2005', bicim: kulak, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: kulak, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: gulak, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kulak, dil: tyv, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: kulak, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kulok, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kulgaax, dil: sah, kaynak: savelyev-turkic, yazi: кулгаах}
-  - {atif: dmitrijeva1981, bicim: kolak, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 44 kez; ASJP AZERBAIJANI: gulog', bicim: kulak, dil: aze, kaynak: savelyev-turkic; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; ASJP BASHKIR: kolak', bicim: kolak, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: ҡолаҡ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; ASJP CHUVASH: xılxa', bicim: xălxa, dil: chv, kaynak: savelyev-turkic; apertium; asjp, yazi: хӑлха, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'useinov2007; Apertium crh sözlüğünde var; Tatoeba''da 1 kez; ASJP CRIMEAN_TATAR: kulak', bicim: kulak, dil: crh, kaynak: savelyev-turkic; apertium; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: kulgak', bicim: kulgaak, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1973, radova-karanastas2016; Apertium gag sözlüğünde var; ASJP GAGAUZ: kulek', bicim: kulak, dil: gag, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var; ASJP KARACHAY_BALKAR: kulak', bicim: kulak, dil: krc, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1974; ASJP KARAIM: kulox', bicim: kulak, dil: kdr, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var; ASJP KARAKALPAK: kulok', bicim: kulak, dil: kaa, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim; ASJP KAZAKH: kulak', bicim: kulak, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Apertium kjh sözlüğünde var', bicim: xulax, dil: kjh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'doerfer1980; ASJP KHALAJ_IRAN: kulak', bicim: kulaak, dil: klj, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim; ASJP KYRGYZ: kulok', bicim: kulak, dil: kir, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var; ASJP KUMYK: kulak', bicim: kulak, dil: kum, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'savelyev2015; ASJP MIDDLE_CHULYM: kulak', bicim: kulak, dil: clw, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var; ASJP NOGAI: kulak', bicim: kulak, dil: nog, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1985; ASJP NORTH_ALTAI: kulak', bicim: kulak, dil: atv, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'tenisev1976; ASJP SALAR: kulyax', bicim: kulax, dil: slr, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'malov1957, tenisev1966; ASJP WEST_YUGUR: khulak', bicim: kulak, dil: ybe, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'kurpesko-tannagaseva1993; ASJP SHOR: kulok', bicim: kulak, dil: cjs, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1947; ASJP ALTAI: kulak', bicim: kulak, dil: alt, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 60 kez; ASJP KAZAN_TATAR: kılak', bicim: kolak, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: колак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'rassadin1971, rassadin2005; ASJP TOFA: kulak', bicim: kulak, dil: kim, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 267 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: kulax', bicim: kulak, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1968, khamzajev1968; Tatoeba''da 3 kez; ASJP TURKMEN: gulak', bicim: gulak, dil: tuk, kaynak: savelyev-turkic; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var; ASJP TUVAN: kulak', bicim: kulak, dil: tyv, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'nadzip1968; Apertium uig sözlüğünde var; Tatoeba''da 2 kez; UD derleminde baş biçim; ASJP LOPNOR_UYGHUR: kulak', bicim: kulak, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; UD derleminde baş biçim; ASJP UZBEK: kulok', bicim: kulok, dil: uzb, kaynak: savelyev-turkic; apertium; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim; ASJP SAKHA: kulgax', bicim: kulgaax, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, yazi: кулгаах, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: dmitrijeva1981, bicim: kolak, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok: {}
 tarihi_yok: {}

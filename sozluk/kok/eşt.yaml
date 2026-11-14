@@ -8,8 +8,8 @@ etimoloji: Sayan dillerinde eşt-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: eşt, dil: kim, kaynak: savelyev-turkic, not: Savelyev eˁhin.}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: eşt, dil: tyv, kaynak: savelyev-turkic, yazi: эшт-}
+  - {atif: 'rassadin1971, rassadin2005', bicim: eşt, dil: kim, kaynak: savelyev-turkic, not: Savelyev eˁhin., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: eşt, dil: tyv, kaynak: savelyev-turkic, yazi: эшт-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yüs (yüz)

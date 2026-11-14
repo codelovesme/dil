@@ -8,7 +8,7 @@ etimoloji: Orta Çulımca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: savelyev2015, bicim: keebiğ, dil: clw, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: keebiğ, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine kuru (kuruğ)

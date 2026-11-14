@@ -8,7 +8,7 @@ etimoloji: Başkurtça bäläkäy; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: bäläkäy, dil: bak, kaynak: savelyev-turkic, yazi: бәләкәй}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; ASJP BASHKIR_2: belekes', bicim: bäläkäy, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: бәләкәй, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine kiçü (kiçig)

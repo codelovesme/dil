@@ -9,7 +9,7 @@ etimoloji: ne ile teg "gibi" birleşiminin bulunma durumu (nätäydä); Eski Tü
 kaynak: savelyev-turkic; clauson
 
 taniklar:
-  - {atif: doerfer1980, bicim: nätäydä, dil: klj, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: nätäydä, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   kaa: yerine kalay (neçük)

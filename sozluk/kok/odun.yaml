@@ -8,7 +8,7 @@ etimoloji: odun; Türkiye Türkçesinde 'yakacak ağaç'. Kökeni bu çalışmad
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1977, iz1992', bicim: odun, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 83 kez; UD derleminde baş biçim', bicim: odun, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ağaç (ığaç)

@@ -16,44 +16,48 @@ taniklar:
     bicim: süñük
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: süŋük
+    bicim: süñük
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: سكوك
+    not: 'Yazım düzeltildi (süŋük → süñük).'
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: sümük
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: سوموك
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: sümük, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: höyäk, dil: bak, kaynak: savelyev-turkic, not: s- > h-., yazi: һөйәк}
-  - {atif: 'asmarin1928, savelyev2011', bicim: şămă, dil: chv, kaynak: savelyev-turkic, yazi: шӑмӑ}
-  - {atif: 'aksenova1992, stachowski1993', bicim: oñuok, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: süyek, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: süyek, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: süyek, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: süyek, dil: kaz, kaynak: savelyev-turkic, yazi: сүйек}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: söök, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: söök, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: süyek, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: söök, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: süyek, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: söök, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: senix, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: sımık, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: söök, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: söök, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: söyäk, dil: tat, kaynak: savelyev-turkic, yazi: сөяк}
-  - {atif: 'rassadin1971, rassadin2005', bicim: söök, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: süñk, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: söök, dil: tyv, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: söñäk, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: suyak, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: uñuox, dil: sah, kaynak: savelyev-turkic, not: Sahacada ön ses s- düşmüş., yazi: уҥуох}
-  - {atif: dmitrijeva1981, bicim: söök, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 1 kez; ASJP AZERBAIJANI: simik', bicim: sümük, dil: aze, kaynak: savelyev-turkic; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; ASJP BASHKIR: heyek', bicim: höyäk, dil: bak, kaynak: savelyev-turkic; apertium; asjp, not: s- > h-., yazi: һөйәк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Tatoeba''da 1 kez; ASJP CHUVASH: şımı', bicim: şămă, dil: chv, kaynak: savelyev-turkic; tatoeba; asjp, yazi: шӑмӑ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: oñuok', bicim: oñuok, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'tenisev1989, sujuncev1965; ASJP KARACHAY_BALKAR: siyek', bicim: süyek, dil: krc, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1974; ASJP KARAIM: syiyaky', bicim: süyek, dil: kdr, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var; ASJP KARAKALPAK: siyek', bicim: süyek, dil: kaa, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; UD derleminde baş biçim; ASJP KAZAKH: siyek', bicim: süyek, dil: kaz, kaynak: savelyev-turkic; apertium; universal-dependencies; asjp, yazi: сүйек, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; ASJP KHAKAS: sek', bicim: söök, dil: kjh, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim; ASJP KYRGYZ: sek', bicim: söök, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; ASJP KUMYK: siek', bicim: süyek, dil: kum, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'savelyev2015; ASJP MIDDLE_CHULYM: sok', bicim: söök, dil: clw, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; ASJP NOGAI: siek', bicim: süyek, dil: nog, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1985; ASJP NORTH_ALTAI: sek', bicim: söök, dil: atv, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'tenisev1976; ASJP SALAR: sanix', bicim: senix, dil: slr, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'malov1957, tenisev1966; ASJP WEST_YUGUR: sumuk', bicim: sımık, dil: ybe, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'kurpesko-tannagaseva1993; ASJP SHOR: sak', bicim: söök, dil: cjs, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1947; Apertium alt sözlüğünde var; ASJP ALTAI: sak', bicim: söök, dil: alt, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Tatoeba''da 9 kez; ASJP KAZAN_TATAR: siyek', bicim: söyäk, dil: tat, kaynak: savelyev-turkic; tatoeba; asjp, yazi: сөяк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'rassadin1971, rassadin2005; ASJP TOFA: sak', bicim: söök, dil: kim, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1968, khamzajev1968; Apertium tuk sözlüğünde var; Tatoeba''da 1 kez; ASJP TURKMEN: siñk', bicim: süñk, dil: tuk, kaynak: savelyev-turkic; apertium; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var; ASJP TUVAN: sak', bicim: söök, dil: tyv, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'nadzip1968; Apertium uig sözlüğünde var; ASJP LOPNOR_UYGHUR: sek', bicim: söñäk, dil: uig, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; ASJP UZBEK: suyak', bicim: suyak, dil: uzb, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; UD derleminde baş biçim; ASJP SAKHA: uñuox', bicim: uñuox, dil: sah, kaynak: savelyev-turkic; apertium; universal-dependencies; asjp, not: Sahacada ön ses s- düşmüş., yazi: уҥуох, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: dmitrijeva1981, bicim: söök, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine kemik (kemik)

@@ -10,22 +10,22 @@ etimoloji: yık- 'yıkmak' fiilinin edilgeni; Kıpçak ve Karluk dillerinde ve T
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: yığıl, dil: bak, kaynak: savelyev-turkic, yazi: йығыл-}
-  - {atif: useinov2007, bicim: yıkıl, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: cığıl, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: yığıl, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: jığıl, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jığıl, dil: kaz, kaynak: savelyev-turkic, yazi: жығыл-}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jığıl, dil: kir, kaynak: savelyev-turkic, yazi: жыгыл-}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yığıl, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yığıl, dil: nog, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yıxıl, dil: slr, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çığıl, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yığıl, dil: tat, kaynak: savelyev-turkic, yazi: егыл-}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yıkıl, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: jikil, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yikil, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: yığıl, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: yığıl, dil: bak, kaynak: savelyev-turkic; apertium, yazi: йығыл-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var; Tatoeba'da 1 kez, bicim: yıkıl, dil: crh, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: cığıl, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: yığıl, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: jığıl, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var', bicim: jığıl, dil: kaz, kaynak: savelyev-turkic; apertium, yazi: жығыл-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: jığıl, dil: kir, kaynak: savelyev-turkic, yazi: жыгыл-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yığıl, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yığıl, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yıxıl, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çığıl, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: yığıl, dil: tat, kaynak: savelyev-turkic, yazi: егыл-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yıkıl, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: jikil, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var', bicim: yikil, dil: uzb, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yığıl, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine tüş (tüş)

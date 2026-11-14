@@ -161,5 +161,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | çi |  |
 | Sibirya kolu | Kuzey Altayca |  | ti |  |
 
-**Tarihî tanıklar:** Eski Türkçe *? aşa*; Kuman-Kıpçakça *aşa*.
+**Tarihî tanıklar:** Eski Türkçe *aşa*; Kuman-Kıpçakça *aşa*.
 

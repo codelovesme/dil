@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kus](../kok/kus.md) | türkçe | 1.06 (*kus*) | Sahaca %0 | Ana Türkçe (2 hat) | ~190 milyon (%98, *kus*) | *kus- |
+| [kus](../kok/kus.md) | türkçe | 1.07 (*kus*) | Sahaca %0 | Ana Türkçe (2 hat) | ~192 milyon (%99, *kus*) | *kus- |
 | [xotuolaa](../kok/xotuolaa.md) | türkçe | -0.40 (*xotuolaa*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *xotuolaa*) |  |
 
-**Büyük topluluklarda *kus* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %79, Kazakça %83, Başkurtça %92, Türkmence %92, Tatarca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
+**Büyük topluluklarda *kus* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %79, Başkurtça %92, Türkmence %92, Tatarca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -78,15 +78,15 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kus | kus | kŭs |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kŭs | kŭs | kŭs | kŭs |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kŭs | kŭs | kŭs | kŭs |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kus | kus | kus |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kus | kus | kus | kus |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | kus ↑ | kus ↑ | kŭs ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus ↑ | kus ↑ | kŭs ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | kus ↑ | kus ↑ | kus ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus ↑ | kus ↑ | kus ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | kus | kus | kus |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
@@ -110,10 +110,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | kus | kus | kus |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | kus | kus | kus | kus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kus | kus | kus | kus |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | kuˁs | kuˁs | kuˁs |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kuˁs | kuˁs | kuˁs | kuˁs |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kuˁs ↑ | kuˁs ↑ | kuˁs ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kuˁs ↑ | kuˁs ↑ | kuˁs ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | kus | kus | kus |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | kus | kus | kus | kus |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | kus ↑ | kus ↑ | kus ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | kus ↑ | kus ↑ | kus ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | kus | kus | xus |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | xus | xus | xus | xus |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xus | xus | xus | xus |
@@ -141,7 +141,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | kus |  |
 | Kıpçak kolu | Kumukça |  | kus |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | kus |  |
-| Kıpçak kolu | Kazakça |  | kŭs |  |
+| Kıpçak kolu | Kazakça |  | kus |  |
 | Kıpçak kolu | Karakalpakça |  | kus |  |
 | Kıpçak kolu | Nogayca |  | kus |  |
 | Kıpçak kolu | Kırgızca |  | kus |  |
@@ -151,7 +151,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Sahaca (Yakutça) |  |  | xotuolaa |
 | Sibirya kolu | Sarı Uygurca |  | kus |  |
 | Sibirya kolu | Tuvaca |  | kus |  |
-| Sibirya kolu | Tofaca |  | kuˁs |  |
+| Sibirya kolu | Tofaca |  | kus |  |
 | Sibirya kolu | Hakasça |  | xus |  |
 | Sibirya kolu | Çulımca |  | kus |  |
 | Sibirya kolu | Kuzey Altayca |  | kus |  |

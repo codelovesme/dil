@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 2 · yabancı kayıt 0 · denetim ✓1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,43 +24,44 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Azerbaycan Türkçesi |  | **uzan** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yat (yat) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tat (yat) |
-| | Güney Altayca | | — | | | | kök yok: yerine dat (yat) |
-| | Başkurtça | | — | | | | kök yok: yerine yat (yat) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yat (yat) |
-| | Dolganca | | — | | | | kök yok: yerine hıt (yat) |
-| | Gagavuzca | | — | | | | kök yok: yerine yat (yat) |
-| | Karakalpakça | | — | | | | kök yok: yerine jat (yat) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cat (yat) |
-| | Karayca | | — | | | | kök yok: yerine yat (yat) |
-| | Kazakça | | — | | | | kök yok: yerine jat (yat) |
-| | Hakasça | | — | | | | kök yok: yerine çat (yat) |
-| | Halaçça | | — | | | | kök yok: yerine yaat (yat) |
-| | Kırgızca | | — | | | | kök yok: yerine jat (yat) |
-| | Kumukça | | — | | | | kök yok: yerine yat (yat) |
-| | Çulımca | | — | | | | kök yok: yerine çat (yat) |
-| | Nogayca | | — | | | | kök yok: yerine yat (yat) |
-| | Salarca | | — | | | | kök yok: yerine yat (yat) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine yat (yat) |
-| | Şorca | | — | | | | kök yok: yerine çat (yat) |
-| | Tatarca | | — | | | | kök yok: yerine yat (yat) |
-| | Tofaca | | — | | | | kök yok: yerine çıtar (yat) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yat (yat) |
-| | Türkmence | | — | | | | kök yok: yerine yat (yat) |
-| | Tuvaca | | — | | | | kök yok: yerine çıt (yat) |
-| | Uygurca | | — | | | | kök yok: yerine yat (yat) |
-| | Özbekçe | | — | | | | kök yok: yerine yot (yat) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sıt (yat) |
-| | Çuvaşça | | — | | | | kök yok: yerine vırt (vırt) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Azerbaycan Türkçesi |  | **uzan** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yat (yat) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tat (yat) |
+| | Güney Altayca | | — | | | | | kök yok: yerine dat (yat) |
+| | Başkurtça | | — | | | | | kök yok: yerine yat (yat) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yat (yat) |
+| | Dolganca | | — | | | | | kök yok: yerine hıt (yat) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yat (yat) |
+| | Karakalpakça | | — | | | | | kök yok: yerine jat (yat) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cat (yat) |
+| | Karayca | | — | | | | | kök yok: yerine yat (yat) |
+| | Kazakça | | — | | | | | kök yok: yerine jat (yat) |
+| | Hakasça | | — | | | | | kök yok: yerine çat (yat) |
+| | Halaçça | | — | | | | | kök yok: yerine yaat (yat) |
+| | Kırgızca | | — | | | | | kök yok: yerine jat (yat) |
+| | Kumukça | | — | | | | | kök yok: yerine yat (yat) |
+| | Çulımca | | — | | | | | kök yok: yerine çat (yat) |
+| | Nogayca | | — | | | | | kök yok: yerine yat (yat) |
+| | Salarca | | — | | | | | kök yok: yerine yat (yat) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine yat (yat) |
+| | Şorca | | — | | | | | kök yok: yerine çat (yat) |
+| | Tatarca | | — | | | | | kök yok: yerine yat (yat) |
+| | Tofaca | | — | | | | | kök yok: yerine çıtar (yat) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yat (yat) |
+| | Türkmence | | — | | | | | kök yok: yerine yat (yat) |
+| | Tuvaca | | — | | | | | kök yok: yerine çıt (yat) |
+| | Uygurca | | — | | | | | kök yok: yerine yat (yat) |
+| | Özbekçe | | — | | | | | kök yok: yerine yot (yat) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sıt (yat) |
+| | Çuvaşça | | — | | | | | kök yok: yerine vırt (vırt) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 1 tanık

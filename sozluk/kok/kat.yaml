@@ -8,8 +8,8 @@ etimoloji: Tofaca kat, Tuvaca xat; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: kat, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xat, dil: tyv, kaynak: savelyev-turkic, yazi: хат}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kat, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: xat, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: хат, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yel (yel)

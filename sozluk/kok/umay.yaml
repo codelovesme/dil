@@ -8,7 +8,7 @@ etimoloji: Sahaca umay-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: umay, dil: sah, kaynak: savelyev-turkic, yazi: умай-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; ASJP SAKHA_2: umay', bicim: umay, dil: sah, kaynak: savelyev-turkic; apertium; asjp, yazi: умай-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine yan (yan)

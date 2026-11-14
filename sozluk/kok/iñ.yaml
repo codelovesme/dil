@@ -9,12 +9,12 @@ etimoloji: iñ 'omuz'; Kıpçak-Bulgar ve Kafkas Kıpçak dillerinde iñ + baş 
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: iñbaş, dil: bak, kaynak: savelyev-turkic, yazi: иңбаш}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: imbaş, dil: krc, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: iñnĕ, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: inbaş, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: äñ, dil: clw, kaynak: savelyev-turkic, not: Savelyev äñnĕ '(onun) omzu'.}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: iñbaş, dil: tat, kaynak: savelyev-turkic, yazi: иңбаш}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: iñbaş, dil: bak, kaynak: savelyev-turkic; apertium, yazi: иңбаш, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var', bicim: imbaş, dil: krc, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: iñnĕ, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: inbaş, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: äñ, dil: clw, kaynak: savelyev-turkic, not: Savelyev äñnĕ '(onun) omzu'., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var', bicim: iñbaş, dil: tat, kaynak: savelyev-turkic; apertium, yazi: иңбаш, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine iyin (egin)

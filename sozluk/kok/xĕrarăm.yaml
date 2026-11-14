@@ -8,7 +8,7 @@ etimoloji: Çuvaşça xĕr 'kız' + arăm 'eş, kadın'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: xĕrarăm, dil: chv, kaynak: savelyev-turkic, yazi: хӗрарӑм}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 3 kez; ASJP CHUVASH_2: xırarım', bicim: xĕrarăm, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: хӗрарӑм, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   krc: yerine tişiriw (tişi)

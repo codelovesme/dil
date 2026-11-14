@@ -118,8 +118,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çiti | çiti | çiti | çiti |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | çetti | çetti | çetti | çetti |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çetti | çetti | çetti | çetti |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | yēde | yēde | yēde | yēde |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yēde | yēde | yēde | yēde |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | yeede | yeede | yeede | yeede |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yeede | yeede | yeede | yeede |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | çeti ↑ | çeti ↑ | çiti ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | çeti | çeti | çeti | çeti |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | çeti | çeti | çeti | çeti |
@@ -160,7 +160,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Duhaca (Tsaatan) |  | cetä |
 | Sibirya kolu | Hakasça |  | çiti |
 | Sibirya kolu | Şorca |  | çetti |
-| Sibirya kolu | Çulımca |  | yēde |
+| Sibirya kolu | Çulımca |  | yeede |
 | Sibirya kolu | Kuzey Altayca |  | çeti |
 
 **Tarihî tanıklar:** Eski Türkçe *yeti*; Karahanlıca *yeti*; Eski Anadolu Türkçesi *yedi*.

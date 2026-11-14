@@ -9,8 +9,8 @@ etimoloji: süçig 'tatlı' (Clauson; DLT, İbn Mühennâ süçü); Türkmence s
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1968, khamzajev1968', bicim: süyci, dil: tuk, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: süçü, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 7 (Clauson, tatığlığ)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: süyci, dil: tuk, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: süçü, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 7 (Clauson, tatığlığ)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
 
 yok:
   sty-baraba: yerine tatlı (tatlı)

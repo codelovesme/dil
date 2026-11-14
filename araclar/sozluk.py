@@ -34,7 +34,11 @@ YASAYAN_ESIK = 20     # bu yüzyıldan itibaren tanık "yaşayan dil" kapsamına
 MADDE_ALANLARI = {"kok", "anlam", "koken", "ana_turkce", "kavramlar", "etimoloji", "kaynak",
                   "not", "taniklar", "yok", "tarihi_yok"}
 TANIK_ALANLARI = {"dil", "boy", "yer", "yuzyil", "bicim", "yazi", "anlam", "metin", "kaynak",
-                  "atif", "kaydeden", "yabanci", "not"}
+                  "atif", "kaydeden", "yabanci", "not", "denetim"}
+# Doğrulama durumu (ILKELER §12). denetim: {durum, bicim: [kaynaklar], anlam: [kaynaklar]}
+DENETIM = {"dogrulandi": "✓", "kismen": "◑", "tek-kaynak": "◐", "celiski": "✗", "dogrulanmadi": "⚠"}
+DENETIM_AD = {"dogrulandi": "doğrulandı", "kismen": "kısmen", "tek-kaynak": "tek kaynak",
+              "celiski": "çelişki", "dogrulanmadi": "doğrulanmadı"}
 
 
 # ============================================================ yardımcılar
@@ -122,6 +126,16 @@ class Tanik:
                 hatalar.append(f"{yer}: kaynaklar.yaml'da olmayan kaynak '{k}'")
         self.alan = {a: v.get(a) for a in TANIK_ALANLARI}
         self.yabanci = bool(v.get("yabanci", False))
+        d = v.get("denetim")
+        self.denetim = d if isinstance(d, dict) else {}
+        if not self.denetim:
+            hatalar.append(f"{yer}: 'denetim' eksik (python3 araclar/sozluk.py --denetim-doldur)")
+        elif self.denetim.get("durum") not in DENETIM:
+            hatalar.append(f"{yer}: bilinmeyen denetim durumu {self.denetim.get('durum')!r}")
+        else:
+            for alan in ("bicim", "anlam"):
+                if fazla := set(self.denetim.get(alan) or []) - set(self.kaynaklar):
+                    hatalar.append(f"{yer}: denetim.{alan} tanığın kaynaklarında olmayan {sorted(fazla)}")
         # yüzyıl: tanıktan, yoksa kaynaktan, yoksa yaşayan dilse günümüz
         try:
             r = yuzyil_coz(v.get("yuzyil"))
@@ -212,6 +226,7 @@ class Kapsam:
         self.kaynakli = sum(1 for t in m.taniklar if t.kaynakli)
         self.kaynaklar = Counter(k for t in m.taniklar for k in t.kaynaklar if k != "bilgi")
         self.yabanci = sum(1 for t in m.taniklar if t.yabanci)
+        self.denetim = Counter(t.denetim.get("durum", "?") for t in m.taniklar)
         self.yuzyillar = sorted({y for t in m.taniklar for y in range(t.yuzyil[0], t.yuzyil[1] + 1)
                                  if y < GUNUMUZ})
         self.ilk = min((t.yuzyil[0] for t in m.taniklar), default=None)
@@ -230,7 +245,11 @@ class Kapsam:
                 f" · ağızlar {self.agiz_dolu}/{self.agiz_toplam}"
                 f" · duraklar {sum(1 for _, d, _ in zorunlu if d)}/{len(zorunlu)}"
                 f" · tanık {self.tanik} (kaynaklı %{100 * self.kaynakli / max(self.tanik, 1):.0f})"
-                f" · kaynak {len(self.kaynaklar)} · yabancı kayıt {self.yabanci}")
+                f" · kaynak {len(self.kaynaklar)} · yabancı kayıt {self.yabanci}"
+                f" · denetim {self.denetim_ozet()}")
+
+    def denetim_ozet(self) -> str:
+        return " ".join(f"{DENETIM[d]}{self.denetim[d]}" for d in DENETIM if self.denetim.get(d))
 
 
 # ============================================================ denetim
@@ -296,6 +315,16 @@ def _kaynak_bag(kimlikler: list[str], b: Baglam) -> str:
                      for k in kimlikler)
 
 
+def _denetim_hucre(t) -> str:
+    d = t.denetim
+    if not d:
+        return ""
+    s = f"{DENETIM.get(d.get('durum'), '?')} {DENETIM_AD.get(d.get('durum'), '')}"
+    if d.get("durum") in ("kismen",) and d.get("bicim") and not d.get("anlam"):
+        s += " (biçim)"
+    return s
+
+
 def madde_md(m: Madde, b: Baglam) -> str:
     k = Kapsam(m, b)
     v = m.v
@@ -323,15 +352,17 @@ def madde_md(m: Madde, b: Baglam) -> str:
         y.append(f"- {isaret} {d['ad']}, {d['yuzyil']}. yy{ek}")
     if k.eksik_diller:
         y.append(f"\nTanığı olmayan diller: {', '.join(L.ad for L in k.eksik_diller)}.")
-    y.append("\n⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi "
-             "bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.\n")
+    y.append("\n**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · "
+             "◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, "
+             "çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; "
+             "kanıt sayılmaz).\n")
 
     tarihi = sorted((t for t in m.taniklar if not t.gunumuz),
                     key=lambda t: (t.yuzyil, b.sira.get(t.dil, 999)))
     if tarihi:
         y.append("## Zaman çizelgesi\n")
-        y.append("| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |")
-        y.append("|---|---|---|---|---|---|---|---|")
+        y.append("| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |")
+        y.append("|---|---|---|---|---|---|---|---|---|")
         for t in tarihi:
             a = t.alan
             dil = b.ad.get(t.dil, t.dil) + (f" ({a['boy']})" if a.get("boy") else "")
@@ -339,7 +370,7 @@ def madde_md(m: Madde, b: Baglam) -> str:
             kaynak = _kaynak_bag(t.kaynaklar, b) + (f" — {a['atif']}" if a.get("atif") else "")
             y.append(f"| {yuzyil_yaz(t.yuzyil)} | {_hucre(dil)} | {_hucre(a.get('yer'))} | "
                      f"**{_hucre(t.bicim)}** | {_hucre(a.get('yazi'))} | {_hucre(a.get('metin'))} | "
-                     f"{kaydeden} | {kaynak} |")
+                     f"{kaydeden} | {kaynak} | {_denetim_hucre(t)} |")
         y.append("\n🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.\n")
         notlu = [t for t in tarihi if t.alan.get("not")]
         if notlu:
@@ -351,17 +382,17 @@ def madde_md(m: Madde, b: Baglam) -> str:
             y.append("")
 
     y.append("## Yaşayan diller ve ağızlar\n")
-    y.append("| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |")
-    y.append("|---|---|---|---|---|---|---|---|")
+    y.append("| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |")
+    y.append("|---|---|---|---|---|---|---|---|---|")
     gunumuz = sorted((t for t in m.taniklar if t.gunumuz), key=lambda t: b.sira.get(t.dil, 999))
     for t in gunumuz:
         L = b.dil_of.get(t.dil)
         agiz = b.ad.get(t.dil, t.dil) if (L and t.dil != L.kod) else ""
         y.append(f"| {L.kol.ad if L and L.kol else ''} | {L.ad if L else t.dil} | {agiz} | "
                  f"**{_hucre(t.bicim)}** | {_hucre(t.alan.get('yazi'))} | {_hucre(t.alan.get('anlam'))} | "
-                 f"{_kaynak_bag(t.kaynaklar, b)} | {_hucre(t.alan.get('not'))} |")
+                 f"{_kaynak_bag(t.kaynaklar, b)} | {_denetim_hucre(t)} | {_hucre(t.alan.get('not'))} |")
     for kod, aciklama in m.yok.items():
-        y.append(f"| | {b.ad.get(kod, kod)} | | — | | | | kök yok: {_hucre(aciklama)} |")
+        y.append(f"| | {b.ad.get(kod, kod)} | | — | | | | | kök yok: {_hucre(aciklama)} |")
     y.append("")
 
     y.append("## Kaynakça\n")
@@ -376,8 +407,9 @@ def dizin_md(maddeler: list[Madde], b: Baglam) -> str:
          "Her kök için tanıklar `sozluk/kok/<kök>.yaml` dosyasındadır. Seviyeler ve duraklar "
          "`hedefler.yaml`'da, kurallar ILKELER.md §14'te.\n",
          "Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: + yabancıların kayıtları\n",
-         "| Kök | Anlam | Seviye | Diller | Ağızlar | Duraklar | Tanık | Kaynaklı | Kaynak | En eski | Eksik duraklar |",
-         "|---|---|---|---|---|---|---|---|---|---|---|"]
+         "Denetim: ✓ doğrulandı · ◑ kısmen · ◐ tek kaynak · ✗ çelişki · ⚠ doğrulanmadı (ILKELER §12)\n",
+         "| Kök | Anlam | Seviye | Diller | Ağızlar | Duraklar | Tanık | Kaynaklı | Denetim | Kaynak | En eski | Eksik duraklar |",
+         "|---|---|---|---|---|---|---|---|---|---|---|---|"]
     for m in maddeler:
         k = Kapsam(m, b)
         zorunlu = [x for x in k.duraklar if x[0].get("zorunlu", True)]
@@ -385,9 +417,84 @@ def dizin_md(maddeler: list[Madde], b: Baglam) -> str:
         y.append(f"| [{m.kok}](kok/{m.yol.stem}.md) | {_hucre(m.v.get('anlam'))} | {k.seviye} | "
                  f"{len(k.diller) - len(k.eksik_diller)}/{len(k.diller)} | {k.agiz_dolu}/{k.agiz_toplam} | "
                  f"{sum(1 for _, d, _ in zorunlu if d)}/{len(zorunlu)} | {k.tanik} | "
-                 f"%{100 * k.kaynakli / max(k.tanik, 1):.0f} | {len(k.kaynaklar)} | "
+                 f"%{100 * k.kaynakli / max(k.tanik, 1):.0f} | {k.denetim_ozet()} | {len(k.kaynaklar)} | "
                  f"{yuzyil_yaz((k.ilk, k.ilk)) if k.ilk else '—'} | {eksik or '—'} |")
     return "\n".join(y) + "\n"
+
+
+# ==================================================== denetim alanını doldurma
+
+# Biçimin dilde var olduğunu gösterir ama o kavram anlamında kullanıldığını göstermez
+YALNIZ_BICIM = {"tatoeba"}
+YALNIZ_BICIM_KELIME = {"apertium", "universal-dependencies"}  # kelimede yalnız sözlükte/derlemde var mı; ekte etiketli olduğu için anlamı da gösterir
+# Clauson'un aktardığı eserler: biz onları Clauson'dan okuduk, bağımsız sayılmaz
+CLAUSON_ARACILI = {"dlt", "houtsma-leiden", "kitab-idrak", "ibn-muhenna", "najip-xiv"}
+
+
+def denetim_cikar(t: dict, ek: bool) -> dict:
+    """Tanığın var olan alanlarından denetim durumunu çıkarır (kurallar: ILKELER §12)."""
+    kay = [k for k in kaynak_listesi(t.get("kaynak")) if k != "bilgi"]
+    not_ = " ".join(str(t.get("not") or "").split())
+    if re.search(r"çözülmedi", not_, re.I):      # notta açık bırakılmış çelişki her koşulda çelişkidir
+        d = {"durum": "celiski"}
+        if kay:
+            d["bicim"] = kay
+        return d
+    if not kay:
+        durum = "celiski" if re.search(r"çeliş|çözülmedi", not_, re.I) else "dogrulanmadi"
+        return {"durum": durum}
+    bicim = list(kay)
+    yalniz = YALNIZ_BICIM | (set() if ek else YALNIZ_BICIM_KELIME)
+    anlam = [k for k in kay if k not in yalniz]
+    bagimsiz = {("clauson" if (k in CLAUSON_ARACILI and "clauson" in kay) else k) for k in kay}
+    if re.search(r"kısmen doğrulandı|dolaylı kanıt", not_, re.I) or (bicim and not anlam):
+        durum = "kismen"
+    elif re.search(r"tek kaynak", not_, re.I) or len(bagimsiz) < 2:
+        durum = "tek-kaynak"
+    else:
+        durum = "dogrulandi"
+    d = {"durum": durum, "bicim": bicim}
+    if anlam:
+        d["anlam"] = anlam
+    return d
+
+
+def denetim_doldur(yeniden: bool = False) -> int:
+    """sozluk/kok/*.yaml tanıklarına `denetim` alanı yazar (eksikse; yeniden=True ise hepsine)."""
+    n = 0
+    for yol in sorted(KOK_DIZIN.glob("*.yaml")):
+        ek = yol.stem.startswith("ek-")
+        satirlar = yol.read_text(encoding="utf-8").split("\n")
+        cikti, i, degisti = [], 0, False
+        while i < len(satirlar):
+            s = satirlar[i]
+            if s.startswith("  - {") and s.rstrip().endswith("}"):           # akış biçimli tanık
+                t = yaml.safe_load(s[4:])
+                if isinstance(t, dict) and (yeniden or "denetim" not in t):
+                    t["denetim"] = denetim_cikar(t, ek)
+                    s = "  - " + yaml.safe_dump(t, allow_unicode=True, default_flow_style=True, width=10000,
+                                                sort_keys=False).strip().removesuffix("\n...")
+                    n += 1; degisti = True
+                cikti.append(s); i += 1
+            elif s.startswith("  - ") and ":" in s:                          # blok biçimli tanık
+                blok = [s]; i += 1
+                while i < len(satirlar) and satirlar[i].startswith("    "):
+                    blok.append(satirlar[i]); i += 1
+                t = yaml.safe_load("\n".join(x[2:] for x in blok))[0]
+                if isinstance(t, dict) and "dil" in t and (yeniden or "denetim" not in t):
+                    blok = [x for x in blok if not x.startswith("    denetim:")]
+                    d = yaml.safe_dump(denetim_cikar(t, ek), allow_unicode=True, default_flow_style=True,
+                                       width=10000, sort_keys=False).strip().removesuffix("\n...")
+                    blok.append(f"    denetim: {d}")
+                    n += 1; degisti = True
+                cikti.extend(blok)
+            else:
+                cikti.append(s); i += 1
+        if degisti:
+            metin = "\n".join(cikti)
+            yaml.safe_load(metin)
+            yol.write_text(metin, encoding="utf-8")
+    return n
 
 
 def main():
@@ -395,7 +502,12 @@ def main():
     ap.add_argument("kokler", nargs="*", help="kök dosya adları (uzantısız)")
     ap.add_argument("--denetle", action="store_true", help="kavram dosyalarıyla uyumu denetle")
     ap.add_argument("--yaz", action="store_true", help="Markdown sayfalarını üret")
+    ap.add_argument("--denetim-doldur", action="store_true", help="eksik 'denetim' alanlarını kurallarla doldur")
+    ap.add_argument("--yeniden", action="store_true", help="--denetim-doldur ile: var olanları da yeniden hesapla")
     args = ap.parse_args()
+    if args.denetim_doldur:
+        print(f"{denetim_doldur(args.yeniden)} tanığa denetim yazıldı.")
+        return
     b = Baglam()
     maddeler = maddeleri_yukle(b, args.kokler)
     if args.denetle:

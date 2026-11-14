@@ -22,12 +22,12 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ot-bitki](../kok/ot-bitki.md) | türkçe | 0.28 (*ot*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~177 milyon (%91, *ot*) | *ōt |
+| [ot-bitki](../kok/ot-bitki.md) | türkçe | 0.29 (*ot*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~178 milyon (%92, *ot*) | *ōt |
 | [ölen](../kok/ölen.md) | türkçe | -0.16 (*üläñ*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~110 milyon (%57, *ölen*) | *ölä-ŋ |
 | [çöp](../kok/çöp.md) | türkçe | -0.31 (*çöp*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~91 milyon (%47, *şöp*) |  |
 | [kurăk](../kok/kurăk.md) | türkçe | -0.37 (*kurăk*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kurăk*) |  |
 
-**Büyük topluluklarda *ot* biçiminin anlaşılırlığı:** Çuvaşça %0, Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kazakça %0, Karakalpakça %0, Sibirya Tatarcası %0, Kırgızca %0, Tuvaca %70, Özbekçe %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Uygurca %100, Sahaca %100.
+**Büyük topluluklarda *ot* biçiminin anlaşılırlığı:** Çuvaşça %0, Tatarca %0, Başkurtça %0, Kırım Tatarcası %0, Kazakça %0, Karakalpakça %0, Sibirya Tatarcası %0, Kırgızca %0, Özbekçe %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kumukça %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -107,16 +107,16 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ot | ot | ot | ot |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ot | ot | ot | ot |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ot | ot | ot | ot |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | ot | ot | ? oˁt |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | ot | ot | ot |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | oht | oht | oht | oht |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | ? oˁt | ? oˁt | ? oˁt |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | ? oˁt | ? oˁt | ? oˁt |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | ? oˁt | ? oˁt | ? oˁt | ? oˁt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? oˁt | ? oˁt | ? oˁt | ? oˁt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | ? oˁt ↑ | ? oˁt ↑ | ? oˁt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | ? oˁt ↑ | ? oˁt ↑ | ? oˁt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | ? oˁt ↑ | ? oˁt ↑ | ? oˁt ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | ? oˁt ↑ | ? oˁt ↑ | ? oˁt ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | ot | ot | ot |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | ot | ot | ot |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | ot | ot | ot | ot |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ot | ot | ot | ot |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | ot ↑ | ot ↑ | ot ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | ot ↑ | ot ↑ | ot ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | ot ↑ | ot ↑ | ot ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | ot ↑ | ot ↑ | ot ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | ot | ot | ot |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | ot | ot | ot | ot |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ot | ot | ot | ot |
@@ -155,7 +155,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Sahaca (Yakutça) |  | ot |  |  |  |
 | Sibirya kolu | Dolganca |  | ot |  |  |  |
 | Sibirya kolu | Sarı Uygurca |  | oht |  |  |  |
-| Sibirya kolu | Tuvaca |  | ? oˁt |  |  |  |
+| Sibirya kolu | Tuvaca |  | ot |  |  |  |
 | Sibirya kolu | Hakasça |  | ot |  |  |  |
 | Sibirya kolu | Şorca |  |  | öleñ |  |  |
 | Sibirya kolu | Çulımca |  | ot |  |  |  |

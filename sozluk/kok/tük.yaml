@@ -15,18 +15,19 @@ taniklar:
     bicim: tü
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: tük, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'asmarin1928, savelyev2011', bicim: tĕk, dil: chv, kaynak: savelyev-turkic, yazi: тӗк}
-  - {atif: 'aksenova1992, stachowski1993', bicim: tüü, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tüy, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kanatlı tük, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: tik, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tük, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: tük, dil: clw, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: tük, dil: atv, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: tük, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: tüy, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tüü, dil: sah, kaynak: savelyev-turkic, yazi: түү}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; UD derleminde baş biçim; ASJP AZERBAIJANI: tik', bicim: tük, dil: aze, kaynak: savelyev-turkic; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; ASJP CHUVASH_2: tık', bicim: tĕk, dil: chv, kaynak: savelyev-turkic; apertium; asjp, yazi: тӗк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tüü, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tüy, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kanatlı tük, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: tik, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tük, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: tük, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: tük, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tük, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 16 kez; UD derleminde baş biçim; ASJP TURKISH_3: tiy', bicim: tüy, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var', bicim: tüü, dil: sah, kaynak: savelyev-turkic; apertium, yazi: түү, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   kjh: yerine çüg (yüñ)

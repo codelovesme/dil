@@ -8,7 +8,7 @@ etimoloji: bas- 'basmak'; Güney Altaycada 'yürümek'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: bas, dil: alt, kaynak: savelyev-turkic}
+  - {atif: baskakov1947; Apertium alt sözlüğünde var, bicim: bas, dil: alt, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yör (yorı)

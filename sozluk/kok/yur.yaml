@@ -8,7 +8,7 @@ etimoloji: Çuvaşça yur; kar ile denkliği kurulamadı, ayrı tutuldu.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: yur, dil: chv, kaynak: savelyev-turkic, yazi: юр}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 11 kez', bicim: yur, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: юр, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kar (kar)

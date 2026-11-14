@@ -10,26 +10,26 @@ etimoloji: Ana Türkçe *yaŋak 'yanak'. Bütün kollarda (yanak, yañak, yayak,
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yanağ, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: yañak, dil: bak, kaynak: savelyev-turkic, yazi: яңаҡ}
-  - {atif: useinov2007, bicim: yanak, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: hıñaak, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: yanak, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: cayak, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: yayak, dil: kdr, kaynak: savelyev-turkic, not: yanax de.}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: naax, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yayak, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: çaağ, dil: clw, kaynak: savelyev-turkic, not: Savelyev çaağım '(benim) yanağım'.}
-  - {atif: baskakov1985, bicim: yaak, dil: atv, kaynak: savelyev-turkic, not: çaak de.}
-  - {atif: tenisev1976, bicim: yanax, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: yañak, dil: ybe, kaynak: savelyev-turkic, not: yıñak de.}
-  - {atif: kurpesko-tannagaseva1993, bicim: naak, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: daak, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yanak, dil: tat, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: yanak, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yanak, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çaak, dil: tyv, kaynak: savelyev-turkic, yazi: чаак}
-  - {atif: dmitrijeva1981, bicim: yañak, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yanağ, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: yañak, dil: bak, kaynak: savelyev-turkic; apertium, yazi: яңаҡ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: yanak, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hıñaak, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: yanak, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: cayak, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: yayak, dil: kdr, kaynak: savelyev-turkic, not: yanax de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: naax, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: yayak, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: çaağ, dil: clw, kaynak: savelyev-turkic, not: Savelyev çaağım '(benim) yanağım'., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: yaak, dil: atv, kaynak: savelyev-turkic, not: çaak de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yanax, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: yañak, dil: ybe, kaynak: savelyev-turkic, not: yıñak de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: naak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: daak, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: yanak, dil: tat, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 4 kez; UD derleminde baş biçim', bicim: yanak, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yanak, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: çaak, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: чаак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yañak, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   kaz: yerine bet (bet)

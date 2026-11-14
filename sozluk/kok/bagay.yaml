@@ -8,7 +8,7 @@ etimoloji: Tuvaca bagay; Moğolca ödünç olabilir, bu çalışmada araştırı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: bagay, dil: tyv, kaynak: savelyev-turkic, yazi: багай}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: bagay, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: багай, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaman (yaman)

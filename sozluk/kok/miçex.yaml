@@ -8,7 +8,7 @@ etimoloji: Salarca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: tenisev1976, bicim: miçex, dil: slr, kaynak: savelyev-turkic, not: mişıx de.}
+  - {atif: tenisev1976, bicim: miçex, dil: slr, kaynak: savelyev-turkic, not: mişıx de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine dımşax (yımşak)

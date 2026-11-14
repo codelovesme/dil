@@ -12,45 +12,47 @@ kaynak: savelyev-turkic; wiktionary-ana-turkce
 taniklar:
   - dil: eski-anadolu
     yuzyil: 13-15
-    bicim: var, vār
+    bicim: var, var
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: وار
-  - {dil: aze, bicim: var, kaynak: apertium; tatoeba, atif: apertium-aze.aze.lexc; Tatoeba metinlerinde 455 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: bar, dil: bak, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: pur, dil: chv, kaynak: wiktionary-ana-turkce, yazi: пур}
-  - {bicim: bar, dil: crh, kaynak: wiktionary-ana-turkce}
-  - {bicim: baar, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: баар}
-  - {dil: gag, bicim: var, kaynak: apertium; tatoeba, atif: apertium-gag.gag.lexc; Tatoeba metinlerinde 11 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: bar, dil: krc, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: kaa, kaynak: wiktionary-ana-turkce}
-  - {bicim: bar, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: par, dil: kjh, kaynak: wiktionary-ana-turkce}
-  - {bicim: vaar, dil: klj, kaynak: wiktionary-ana-turkce}
-  - {bicim: bar, dil: kir, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: kum, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: nog, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: par, dil: atv, kaynak: wiktionary-ana-turkce, yazi: пар}
-  - {bicim: var, dil: slr, kaynak: wiktionary-ana-turkce}
-  - {bicim: bar, dil: ybe, kaynak: wiktionary-ana-turkce}
-  - {bicim: bar, dil: alt, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: tat, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: kim, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {dil: tur, bicim: var, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 24220 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: baar, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: bār}
-  - {bicim: bar, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {dil: uig, bicim: bar, yazi: بار, kaynak: apertium; tatoeba, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 373 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: bor, dil: uzb, kaynak: wiktionary-ana-turkce}
-  - {bicim: baar, dil: sah, kaynak: wiktionary-ana-turkce, yazi: баар}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: bar, metin: Orhon yazıtları, kaynak: clauson, atif: 'I S 9; II N 7; T 10 (Clauson, ba:r)', not: özüm kutım bar üçün 'kendimde kut olduğu için'.}
-  - {dil: otk, yuzyil: 8-14, bicim: bar, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Suci 5; PP 6; USp. 1 (Clauson, ba:r)', not: bar yok 'zengin ve yoksul'; 'ölürsem' anlamında bar yok bol-.}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: baar, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 147 (Clauson, ba:r)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı Arapça laysa'nın ve Türkçe yook'un karşıtı diye tanımlar.}
-  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: bar, anlam: var; varlık, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 15, 56, 195 (Clauson, ba:r)'}
-  - {dil: xqa, yuzyil: 13, bicim: bar, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 10 (Clauson, ba:r)'}
-  - {dil: xqa, yuzyil: 13, bicim: bar, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 90 (Clauson, ba:r)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: baar, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 18, 2; 56, 9 (Clauson, ba:r)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, not: '''evet'' karşılığı olarak da baar.'}
-  - {dil: chg, yuzyil: 16-18, bicim: bar, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 126 (Clauson, ba:r)', not: Abuşka var ile açıklar.}
+    not: 'Yazım düzeltildi (var, vār → var, var).'
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {dil: aze, bicim: var, kaynak: apertium; tatoeba; universal-dependencies, atif: apertium-aze.aze.lexc; Tatoeba metinlerinde 455 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
+  - {bicim: bar, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: бар, atif: Apertium bak sözlüğünde var; Tatoeba'da 23 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: pur, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: пур, atif: Apertium chv sözlüğünde var; Tatoeba'da 79 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: crh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium crh sözlüğünde var; Tatoeba'da 37 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: baar, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: баар, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: gag, bicim: var, kaynak: apertium; tatoeba, atif: apertium-gag.gag.lexc; Tatoeba metinlerinde 11 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba]}}
+  - {bicim: bar, dil: krc, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: бар, atif: Apertium krc sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: бар, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: kaa, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium kaa sözlüğünde var; Tatoeba'da 3 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: kaz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: бар, atif: Apertium kaz sözlüğünde var; Tatoeba'da 158 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: par, dil: kjh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium kjh sözlüğünde var; Tatoeba'da 8 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: vaar, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: kir, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: бар, atif: Apertium kir sözlüğünde var; Tatoeba'da 38 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: kum, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: бар, atif: Apertium kum sözlüğünde var; Tatoeba'da 10 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: nog, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: бар, atif: Apertium nog sözlüğünde var; Tatoeba'da 49 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: par, dil: atv, kaynak: wiktionary-ana-turkce, yazi: пар, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: var, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: ybe, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: alt, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: бар, atif: Apertium alt sözlüğünde var; Tatoeba'da 41 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: бар, atif: Apertium tat sözlüğünde var; Tatoeba'da 2361 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: kim, kaynak: wiktionary-ana-turkce, yazi: бар, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tur, bicim: var, kaynak: apertium; tatoeba; universal-dependencies, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 24220 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
+  - {bicim: baar, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: bār, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: bar, dil: tyv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: бар, atif: Apertium tyv sözlüğünde var; Tatoeba'da 5 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: bar, yazi: بار, kaynak: apertium; tatoeba; universal-dependencies, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 373 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
+  - {bicim: bor, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium uzb sözlüğünde var; Tatoeba'da 47 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: baar, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: баар, atif: Apertium sah sözlüğünde var; Tatoeba'da 35 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: bar, metin: Orhon yazıtları, kaynak: clauson, atif: 'I S 9; II N 7; T 10 (Clauson, ba:r)', not: özüm kutım bar üçün 'kendimde kut olduğu için'., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: bar, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Suci 5; PP 6; USp. 1 (Clauson, ba:r)', not: bar yok 'zengin ve yoksul'; 'ölürsem' anlamında bar yok bol-., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: baar, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 147 (Clauson, ba:r)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı Arapça laysa'nın ve Türkçe yook'un karşıtı diye tanımlar., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: bar, anlam: var; varlık, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 15, 56, 195 (Clauson, ba:r)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: bar, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 10 (Clauson, ba:r)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: bar, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 90 (Clauson, ba:r)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: baar, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 18, 2; 56, 9 (Clauson, ba:r)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, not: '''evet'' karşılığı olarak da baar.', denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: bar, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 126 (Clauson, ba:r)', not: Abuşka var ile açıklar., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok: {}
 tarihi_yok: {}

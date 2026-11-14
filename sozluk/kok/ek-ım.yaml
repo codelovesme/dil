@@ -9,30 +9,30 @@ etimoloji: Ana Türkçe *-(I)m. Bütün kollarda; ünlüden sonra -m.
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: m, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (7 örnek: yatam, kaldım, korhağım)', bicim: m, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (8 örnek: tum, salam, xălxam)', bicim: m, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{ă}m. Ünsüzden sonra ăm, ĕm.'}
-  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (16 örnek: tatam, kartbabam, balam)', bicim: m, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {bicim: m, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: 'apertium-gag.gag.lexc; Tatoeba metinleri (1 örnek: maşinam)', bicim: m, dil: gag, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m. Tatoeba''da tek örnek; zayıf kanıt.'}
-  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (3 örnek: atam, anam, maşinam)', bicim: m, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {bicim: m, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: 'apertium-kaa.kaa.lexc; Tatoeba metinleri (2 örnek: aldım, mashinam)', bicim: m, dil: kaa, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: m, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (3 örnek: pabam, maşinam)', bicim: m, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: apertium-kir.kir.lexc; Wiktionary бала çekim tablosu, bicim: m, dil: kir, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{I}m.'}
-  - {atif: apertium-kum.kum.lexc, bicim: m, dil: kum, kaynak: apertium, not: 'Apertium: -{I}m. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (3 örnek: akşam, balam, maşinam)', bicim: m, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {bicim: m, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (2 örnek: amadum, akçam)', bicim: m, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (1271 örnek: apam, yarım, sum)', bicim: m, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: m, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (100 örnek: adam, maşgalam, salam)', bicim: m, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (2 örnek: aldım, maşinam)', bicim: m, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.'}
-  - {atif: apertium-uig.uig.lexc; UD_Uyghur-UDT, bicim: m, dil: uig, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.'}
-  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: m, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{I}m.'}
-  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: m, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.'}
-  - {bicim: m, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: m, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (7 örnek: yatam, kaldım, korhağım)', bicim: m, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (8 örnek: tum, salam, xălxam)', bicim: m, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{ă}m. Ünsüzden sonra ăm, ĕm.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (16 örnek: tatam, kartbabam, balam)', bicim: m, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {bicim: m, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: 'apertium-gag.gag.lexc; Tatoeba metinleri (1 örnek: maşinam)', bicim: m, dil: gag, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m. Tatoeba''da tek örnek; zayıf kanıt.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (3 örnek: atam, anam, maşinam)', bicim: m, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {bicim: m, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: 'apertium-kaa.kaa.lexc; Tatoeba metinleri (2 örnek: aldım, mashinam)', bicim: m, dil: kaa, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: m, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (3 örnek: pabam, maşinam)', bicim: m, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-kir.kir.lexc; Wiktionary бала çekim tablosu, bicim: m, dil: kir, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim], anlam: [apertium, wiktionary-cekim]}}
+  - {atif: apertium-kum.kum.lexc, bicim: m, dil: kum, kaynak: apertium, not: 'Apertium: -{I}m. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (3 örnek: akşam, balam, maşinam)', bicim: m, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {bicim: m, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (2 örnek: amadum, akçam)', bicim: m, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (1271 örnek: apam, yarım, sum)', bicim: m, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: m, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (100 örnek: adam, maşgalam, salam)', bicim: m, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (2 örnek: aldım, maşinam)', bicim: m, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-uig.uig.lexc; UD_Uyghur-UDT, bicim: m, dil: uig, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: m, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim, universal-dependencies], anlam: [apertium, wiktionary-cekim, universal-dependencies]}}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: m, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}m.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {bicim: m, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
 
 yok: {}
 tarihi_yok: {}

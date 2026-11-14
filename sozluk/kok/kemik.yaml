@@ -9,9 +9,9 @@ etimoloji: kemik; Türkiye Türkçesi, Gagavuzca ve Kırım Tatarcasında 'kemik
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: kemik, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kemik, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: kemik, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'useinov2007; Apertium crh sözlüğünde var; ASJP CRIMEAN_TURKISH: kemik', bicim: kemik, dil: crh, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1973, radova-karanastas2016; ASJP GAGAUZ: kemik', bicim: kemik, dil: gag, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 53 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: simik', bicim: kemik, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine söök (süñük)

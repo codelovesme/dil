@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 2 · yabancı kayıt 0 · denetim ✓1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,41 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **kivĕ** | кивӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine eski (eski) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine eski (eski) |
-| | Güney Altayca | | — | | | | kök yok: yerine eski (eski) |
-| | Başkurtça | | — | | | | kök yok: yerine iske (eski) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine eski (eski) |
-| | Gagavuzca | | — | | | | kök yok: yerine eski (eski) |
-| | Karakalpakça | | — | | | | kök yok: yerine eski (eski) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine eski (eski) |
-| | Karayca | | — | | | | kök yok: yerine eski (eski) |
-| | Kazakça | | — | | | | kök yok: yerine eskĭ (eski) |
-| | Kırgızca | | — | | | | kök yok: yerine eski (eski) |
-| | Kumukça | | — | | | | kök yok: yerine esgi (eski) |
-| | Nogayca | | — | | | | kök yok: yerine eski (eski) |
-| | Salarca | | — | | | | kök yok: yerine eski (eski) |
-| | Şorca | | — | | | | kök yok: yerine eski (eski) |
-| | Tatarca | | — | | | | kök yok: yerine iske (eski) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine eski (eski) |
-| | Uygurca | | — | | | | kök yok: yerine äski (eski) |
-| | Özbekçe | | — | | | | kök yok: yerine eski (eski) |
-| | Dolganca | | — | | | | kök yok: yerine erge (ergi) |
-| | Hakasça | | — | | | | kök yok: yerine irge (ergi) |
-| | Çulımca | | — | | | | kök yok: yerine ärge (ergi) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine erke (ergi) |
-| | Tofaca | | — | | | | kök yok: yerine erhi (ergi) |
-| | Tuvaca | | — | | | | kök yok: yerine ergi (ergi) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine erge (ergi) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **kivĕ** | кивӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine eski (eski) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine eski (eski) |
+| | Güney Altayca | | — | | | | | kök yok: yerine eski (eski) |
+| | Başkurtça | | — | | | | | kök yok: yerine iske (eski) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine eski (eski) |
+| | Gagavuzca | | — | | | | | kök yok: yerine eski (eski) |
+| | Karakalpakça | | — | | | | | kök yok: yerine eski (eski) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine eski (eski) |
+| | Karayca | | — | | | | | kök yok: yerine eski (eski) |
+| | Kazakça | | — | | | | | kök yok: yerine eskĭ (eski) |
+| | Kırgızca | | — | | | | | kök yok: yerine eski (eski) |
+| | Kumukça | | — | | | | | kök yok: yerine esgi (eski) |
+| | Nogayca | | — | | | | | kök yok: yerine eski (eski) |
+| | Salarca | | — | | | | | kök yok: yerine eski (eski) |
+| | Şorca | | — | | | | | kök yok: yerine eski (eski) |
+| | Tatarca | | — | | | | | kök yok: yerine iske (eski) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine eski (eski) |
+| | Uygurca | | — | | | | | kök yok: yerine äski (eski) |
+| | Özbekçe | | — | | | | | kök yok: yerine eski (eski) |
+| | Dolganca | | — | | | | | kök yok: yerine erge (ergi) |
+| | Hakasça | | — | | | | | kök yok: yerine irge (ergi) |
+| | Çulımca | | — | | | | | kök yok: yerine ärge (ergi) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine erke (ergi) |
+| | Tofaca | | — | | | | | kök yok: yerine erhi (ergi) |
+| | Tuvaca | | — | | | | | kök yok: yerine ergi (ergi) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine erge (ergi) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık

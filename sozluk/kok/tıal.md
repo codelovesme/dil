@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ✓1 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,36 +24,38 @@
 
 Tanığı olmayan diller: Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Kırgızca, Güney Altayca, Özbekçe, Uygurca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Şorca, Fuyu Kırgızcası, Kuzey Altayca.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **tıal** | тыал |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **tıal** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yel (yel) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine yel (yel) |
-| | Başkurtça | | — | | | | kök yok: yerine yel (yel) |
-| | Çuvaşça | | — | | | | kök yok: yerine şil (yel) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yel (yel) |
-| | Karakalpakça | | — | | | | kök yok: yerine jel (yel) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cel (yel) |
-| | Karayca | | — | | | | kök yok: yerine yel (yel) |
-| | Kazakça | | — | | | | kök yok: yerine jel (yel) |
-| | Hakasça | | — | | | | kök yok: yerine çil (yel) |
-| | Halaçça | | — | | | | kök yok: yerine yel (yel) |
-| | Kumukça | | — | | | | kök yok: yerine yel (yel) |
-| | Çulımca | | — | | | | kök yok: yerine çäl (yel) |
-| | Nogayca | | — | | | | kök yok: yerine yel (yel) |
-| | Salarca | | — | | | | kök yok: yerine yel (yel) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine yil (yel) |
-| | Tatarca | | — | | | | kök yok: yerine cil (yel) |
-| | Türkmence | | — | | | | kök yok: yerine yel (yel) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yel (yel) |
-| | Tofaca | | — | | | | kök yok: yerine kat (kat) |
-| | Tuvaca | | — | | | | kök yok: yerine xat (kat) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **tıal** | тыал |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ✓ doğrulandı |  |
+| Sibirya kolu | Dolganca |  | **tıal** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yel (yel) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine yel (yel) |
+| | Başkurtça | | — | | | | | kök yok: yerine yel (yel) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şil (yel) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yel (yel) |
+| | Karakalpakça | | — | | | | | kök yok: yerine jel (yel) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cel (yel) |
+| | Karayca | | — | | | | | kök yok: yerine yel (yel) |
+| | Kazakça | | — | | | | | kök yok: yerine jel (yel) |
+| | Hakasça | | — | | | | | kök yok: yerine çil (yel) |
+| | Halaçça | | — | | | | | kök yok: yerine yel (yel) |
+| | Kumukça | | — | | | | | kök yok: yerine yel (yel) |
+| | Çulımca | | — | | | | | kök yok: yerine çäl (yel) |
+| | Nogayca | | — | | | | | kök yok: yerine yel (yel) |
+| | Salarca | | — | | | | | kök yok: yerine yel (yel) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine yil (yel) |
+| | Tatarca | | — | | | | | kök yok: yerine cil (yel) |
+| | Türkmence | | — | | | | | kök yok: yerine yel (yel) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yel (yel) |
+| | Tofaca | | — | | | | | kök yok: yerine kat (kat) |
+| | Tuvaca | | — | | | | | kök yok: yerine xat (kat) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık

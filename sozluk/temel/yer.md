@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yer](../kok/yer.md) | türkçe | 1.04 (*yer*) | Tuvaca %42 | Ana Türkçe (2 hat) | ~190 milyon (%98, *yer*) | *yẹr |
+| [yer](../kok/yer.md) | türkçe | 1.05 (*yer*) | Tuvaca %42 | Ana Türkçe (2 hat) | ~190 milyon (%98, *yer*) | *yẹr |
 | [dovurak](../kok/dovurak.md) | türkçe | -0.42 (*dovurak*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *dovurak*) |  |
 
 **Büyük topluluklarda *yer* biçiminin anlaşılırlığı:** Tuvaca %42, Sahaca %71, Çuvaşça %75, Tatarca %79, Kazakça %92, Uygurca %92, Karaçay-Malkarca %92, Karakalpakça %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Sibirya Tatarcası %100, Özbekçe %100.
@@ -106,7 +106,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sir | sir | sir | sir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | hir | hir | hir | hir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | çer | çer | çer |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | ? yer | ? yer | ? yer | ? yer |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | yer | yer | yer | yer |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | *dovurak* (dovurak) | çer | *dovurak* (dovurak) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | dovurak | *dovurak* (dovurak) | dovurak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | dovurak | dovurak | dovurak | dovurak |
@@ -152,7 +152,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Karluk kolu | Uygurca |  | yär |  |
 | Sibirya kolu | Sahaca (Yakutça) |  | sir |  |
 | Sibirya kolu | Dolganca |  | hir |  |
-| Sibirya kolu | Sarı Uygurca |  | ? yer |  |
+| Sibirya kolu | Sarı Uygurca |  | yer |  |
 | Sibirya kolu | Tuvaca |  | çer (tercih 0.5) | dovurak |
 | Sibirya kolu | Tofaca |  | çer |  |
 | Sibirya kolu | Hakasça |  | çir |  |

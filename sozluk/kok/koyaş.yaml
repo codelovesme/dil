@@ -10,12 +10,12 @@ etimoloji: Ana Türkçe *kujaĺ 'güneş'. Kıpçak-Bulgar (koyaş), Karay, Özb
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: koyaş, dil: bak, kaynak: savelyev-turkic, yazi: ҡояш}
-  - {atif: 'asmarin1928, savelyev2011', bicim: xĕvel, dil: chv, kaynak: savelyev-turkic, not: 'Oğur: *kujaĺ > xĕvel (ĺ > l).', yazi: хӗвел}
-  - {atif: baskakov1974, bicim: kuyaş, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: koyaş, dil: tat, kaynak: savelyev-turkic, yazi: кояш}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kuyoş, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: koyaş, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; ASJP BASHKIR: koyaş', bicim: koyaş, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: ҡояш, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 3 kez; ASJP CHUVASH_2: xıwel', bicim: xĕvel, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, not: 'Oğur: *kujaĺ > xĕvel (ĺ > l).', yazi: хӗвел, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: baskakov1974, bicim: kuyaş, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 252 kez; ASJP KAZAN_TATAR: kıyaş', bicim: koyaş, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: кояш, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; UD derleminde baş biçim', bicim: kuyoş, dil: uzb, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: koyaş, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine günäş (küneş)

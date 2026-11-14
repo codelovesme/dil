@@ -20,37 +20,39 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım jumurtka.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: yumurtğa
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yumurta, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: yomortka, dil: bak, kaynak: savelyev-turkic, yazi: йомортҡа}
-  - {atif: 'asmarin1928, savelyev2011', bicim: şămarta, dil: chv, kaynak: savelyev-turkic, yazi: ҫӑмарта}
-  - {atif: useinov2007, bicim: yımırta, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: hımııt, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: yımırta, dil: gag, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: yumurtxa, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jumırtka, dil: kaz, kaynak: savelyev-turkic, yazi: жұмыртқа}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: nımırxa, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: yumurka, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jumurtka, dil: kir, kaynak: savelyev-turkic, yazi: жумуртка}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yımırtka, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: çumurtka, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: jumırtka, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: ñımırtka, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yomurta, dil: slr, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: nıbırtka, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: dımırtxa, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yomırka, dil: tat, kaynak: savelyev-turkic, yazi: йомырка}
-  - {atif: 'rassadin1971, rassadin2005', bicim: ñumurha, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: yumurta, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yumurtğa, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çuurğa, dil: tyv, kaynak: savelyev-turkic, yazi: чуурга}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sımııt, dil: sah, kaynak: savelyev-turkic, yazi: сымыыт}
-  - {atif: dmitrijeva1981, bicim: yomırtka, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var; Tatoeba''da 6 kez; ASJP AZERBAIJANI: yumurto', bicim: yumurta, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; ASJP BASHKIR_2: yomortka', bicim: yomortka, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: йомортҡа, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; ASJP CHUVASH_2: şımarta', bicim: şămarta, dil: chv, kaynak: savelyev-turkic; apertium; asjp, yazi: ҫӑмарта, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: yımırta, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hımııt, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016; Apertium gag sözlüğünde var', bicim: yımırta, dil: gag, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: yumurtxa, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 3 kez; ASJP KAZAKH_2: jımırtko', bicim: jumırtka, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: жұмыртқа, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Apertium kjh sözlüğünde var', bicim: nımırxa, dil: kjh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: yumurka, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim', bicim: jumurtka, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies, yazi: жумуртка, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: yımırtka, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'savelyev2015; ASJP MIDDLE_CHULYM: çumurtka', bicim: çumurtka, dil: clw, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: jumırtka, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: ñımırtka, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yomurta, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: nıbırtka, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: dımırtxa, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 83 kez; ASJP TATAR_2: yomorko', bicim: yomırka, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: йомырка, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ñumurha, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 348 kez; UD derleminde baş biçim; ASJP TURKISH: yumurta', bicim: yumurta, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yumurtğa, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çuurğa, dil: tyv, kaynak: savelyev-turkic, yazi: чуурга, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 1 kez; ASJP SAKHA_2: sumut', bicim: sımııt, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: сымыыт, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: dmitrijeva1981, bicim: yomırtka, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok: {}
 tarihi_yok: {}

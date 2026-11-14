@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 1/7 · tanık 7 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 1/7 · tanık 7 (kaynaklı %100) · kaynak 4 · yabancı kayıt 1 · denetim ✓5 ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,13 +25,13 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Özbekçe, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **terek** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **terek** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -41,38 +41,41 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Kırım Tatarcası |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karayca |  | **töräk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine ağac (ığaç) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Güney Altayca | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine ağac (ığaç) |
-| | Başkurtça | | — | | | | kök yok: yerine ağas (ığaç) |
-| | Çuvaşça | | — | | | | kök yok: yerine yıvăş (ığaç) |
-| | Gagavuzca | | — | | | | kök yok: yerine aaç (ığaç) |
-| | Karakalpakça | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Kazakça | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Hakasça | | — | | | | kök yok: yerine ağas (ığaç) |
-| | Halaçça | | — | | | | kök yok: yerine hağaç (ığaç) |
-| | Kırgızca | | — | | | | kök yok: yerine jığaç (ığaç) |
-| | Çulımca | | — | | | | kök yok: yerine aaç (ığaç) |
-| | Salarca | | — | | | | kök yok: yerine ağaç (ığaç) |
-| | Şorca | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Tatarca | | — | | | | kök yok: yerine ağaç (ığaç) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine ağaç (ığaç) |
-| | Türkmence | | — | | | | kök yok: yerine ağaç (ığaç) |
-| | Tuvaca | | — | | | | kök yok: yerine ıyaş (ığaç) |
-| | Uygurca | | — | | | | kök yok: yerine yağaç (ığaç) |
-| | Dolganca | | — | | | | kök yok: yerine mas (mas) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine mas (mas) |
-| | Tofaca | | — | | | | kök yok: yerine neş (neş) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Kırım Tatarcası |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karayca |  | **töräk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kumukça |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ✓ doğrulandı |  |
+| Kıpçak kolu | Nogayca |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Sarı Uygurca |  | **terek** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine ağac (ığaç) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Güney Altayca | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine ağac (ığaç) |
+| | Başkurtça | | — | | | | | kök yok: yerine ağas (ığaç) |
+| | Çuvaşça | | — | | | | | kök yok: yerine yıvăş (ığaç) |
+| | Gagavuzca | | — | | | | | kök yok: yerine aaç (ığaç) |
+| | Karakalpakça | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Kazakça | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Hakasça | | — | | | | | kök yok: yerine ağas (ığaç) |
+| | Halaçça | | — | | | | | kök yok: yerine hağaç (ığaç) |
+| | Kırgızca | | — | | | | | kök yok: yerine jığaç (ığaç) |
+| | Çulımca | | — | | | | | kök yok: yerine aaç (ığaç) |
+| | Salarca | | — | | | | | kök yok: yerine ağaç (ığaç) |
+| | Şorca | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Tatarca | | — | | | | | kök yok: yerine ağaç (ığaç) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine ağaç (ığaç) |
+| | Türkmence | | — | | | | | kök yok: yerine ağaç (ığaç) |
+| | Tuvaca | | — | | | | | kök yok: yerine ıyaş (ığaç) |
+| | Uygurca | | — | | | | | kök yok: yerine yağaç (ığaç) |
+| | Dolganca | | — | | | | | kök yok: yerine mas (mas) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine mas (mas) |
+| | Tofaca | | — | | | | | kök yok: yerine neş (neş) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 7 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 4 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 4 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık

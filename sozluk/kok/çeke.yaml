@@ -8,7 +8,7 @@ etimoloji: çeke 'şakak'; Kırgızcada 'alın'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'judakhin1985, judakhin1957', bicim: çeke, dil: kir, kaynak: savelyev-turkic}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: çeke, dil: kir, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine alın (alın)

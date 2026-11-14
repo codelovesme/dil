@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tiş](../kok/tiş.md) | türkçe | 1.08 (*tiş*) | Çuvaşça %54 | Ana Türkçe (2 hat) | ~178 milyon (%92, *tiş*) | *tiĺ |
+| [tiş](../kok/tiş.md) | türkçe | 1.09 (*tiş*) | Çuvaşça %54 | Ana Türkçe (2 hat) | ~179 milyon (%92, *tiş*) | *tiĺ |
 
-**Büyük topluluklarda *tiş* biçiminin anlaşılırlığı:** Çuvaşça %54, Kazakça %75, Sahaca %81, Uygurca %83, Tatarca %88, Başkurtça %88, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %92, Karakalpakça %92, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100.
+**Büyük topluluklarda *tiş* biçiminin anlaşılırlığı:** Çuvaşça %54, Sahaca %81, Uygurca %83, Tatarca %88, Başkurtça %88, Kazakça %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Türkmence %92, Karakalpakça %92, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -77,15 +77,15 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tiş | tiş | tiş | tiş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | tiş | tiş | tiş | tiş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tiş | tiş | tiş | tiş |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tis | tis | tĭs |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tĭs | tĭs | tĭs | tĭs |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tĭs | tĭs | tĭs | tĭs |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tis | tis | tis |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tis | tis | tis | tis |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tis | tis | tis | tis |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | tis | tis | tis | tis |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tis | tis | tis | tis |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tis | tis | tis | tis |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tis | tis | tis | tis |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tis ↑ | tis ↑ | tĭs ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tis ↑ | tis ↑ | tĭs ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tis ↑ | tis ↑ | tis ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tis ↑ | tis ↑ | tis ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | tiş | tiş | tiş |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | tiş | tiş | tiş | tiş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tiş | tiş | tiş | tiş |
@@ -141,7 +141,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | tis |
 | Kıpçak kolu | Kumukça |  | tiş |
 | Kıpçak kolu | Karaçay-Malkarca |  | tiş |
-| Kıpçak kolu | Kazakça |  | tĭs |
+| Kıpçak kolu | Kazakça |  | tis |
 | Kıpçak kolu | Karakalpakça |  | tis |
 | Kıpçak kolu | Nogayca |  | tis |
 | Kıpçak kolu | Kırgızca |  | tiş |

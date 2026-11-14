@@ -10,22 +10,22 @@ etimoloji: Ana Türkçe *em- 'emmek (çocuk memeyi)'. DLT'den beri; bugün Oğuz
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: ĕm, dil: chv, kaynak: savelyev-turkic, yazi: ӗм-}
-  - {atif: useinov2007, bicim: em, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: em, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: em, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: em, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: em, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: em, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: em, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: em, dil: sah, kaynak: savelyev-turkic, yazi: эм-}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: em, anlam: emmek (meme), metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 169 (Clauson, em-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yuzyil: 13, bicim: im, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 76 (Clauson, em-)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: em, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 26, 9; 41, 11 (Clauson, em-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: im, metin: 'Kutb, Hüsrev ü Şirin', kaynak: clauson, atif: 'Kutb 50 (Clauson, em-)'}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: em, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 36, 12 (Clauson, em-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: em, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 23 (Clauson, em-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: chg, yuzyil: 16-18, bicim: em, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 79, Senglâh 113r (Clauson, em-)'}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: ĕm, dil: chv, kaynak: savelyev-turkic; apertium, yazi: ӗм-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: em, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: em, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: em, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var; Tatoeba''da 5 kez', bicim: em, dil: krc, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: em, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: em, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: em, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var', bicim: em, dil: sah, kaynak: savelyev-turkic; apertium, yazi: эм-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: em, anlam: emmek (meme), metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 169 (Clauson, em-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: im, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 76 (Clauson, em-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: em, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson; apertium, atif: 'Melioranskiy 26, 9; 41, 11 (Clauson, em-); Apertium aze sözlüğünde var', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: dogrulandi, bicim: [ibn-muhenna, clauson, apertium], anlam: [ibn-muhenna, clauson]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: im, metin: 'Kutb, Hüsrev ü Şirin', kaynak: clauson, atif: 'Kutb 50 (Clauson, em-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: em, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 36, 12 (Clauson, em-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: em, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 23 (Clauson, em-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: em, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 79, Senglâh 113r (Clauson, em-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   atv: yerine sor (sor)

@@ -9,7 +9,7 @@ etimoloji: Soru gövdesi *ka- ile kurulan kalay; Kazak, Karakalpak, Nogay, Kara�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: kalay, dil: bak, kaynak: savelyev-turkic, not: Ayrıca nisek (neçük kökü)., yazi: ҡалай}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: kalay, dil: bak, kaynak: savelyev-turkic; apertium, not: Ayrıca nisek (neçük kökü)., yazi: ҡалай, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   kaa: yerine kalay (neçük)

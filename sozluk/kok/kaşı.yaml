@@ -10,23 +10,23 @@ etimoloji: Ana Türkçe *kašï- 'kaşımak'. Oğuz, Kıpçak, Karluk ve Kırgı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: gaşı, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'asmarin1928, savelyev2011', bicim: xıś, dil: chv, kaynak: savelyev-turkic, not: '*kašï- ile denkliği bu çalışmada araştırılmadı.', yazi: хыҫ-}
-  - {atif: useinov2007, bicim: kaşı, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kaşı, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kaşı, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: kaşı, dil: kdr, kaynak: savelyev-turkic, not: kası de.}
-  - {atif: 'baskakov1958, baskakov1967', bicim: kası, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kasu, dil: kaz, kaynak: savelyev-turkic, yazi: қасы-}
-  - {atif: doerfer1980, bicim: kaşu, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: kaşı, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: xaşı, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kası, dil: nog, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: kaşu, dil: tat, kaynak: savelyev-turkic, yazi: кашы-}
-  - {atif: 'baskakov1977, iz1992', bicim: kaşı, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: gaşa, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: kaşla, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kaşı, dil: uzb, kaynak: savelyev-turkic, not: kaşla- de.}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: gaşı, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: chv, bicim: xış, yazi: хыҫ-, kaynak: savelyev-turkic; apertium, atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', not: '*kašï- ile denkliği bu çalışmada araştırılmadı. Yazım düzeltildi (xıś → xış).', denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: kaşı, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kaşı, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kaşı, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: kaşı, dil: kdr, kaynak: savelyev-turkic, not: kası de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: kası, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kasu, dil: kaz, kaynak: savelyev-turkic, yazi: қасы-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: kaşu, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kaşı, dil: kir, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: xaşı, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kası, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: kaşu, dil: tat, kaynak: savelyev-turkic, yazi: кашы-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 10 kez; UD derleminde baş biçim', bicim: kaşı, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: gaşa, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Tatoeba'da 1 kez, bicim: kaşla, dil: uig, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kaşı, dil: uzb, kaynak: savelyev-turkic, not: kaşla- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine tırba (tırma)

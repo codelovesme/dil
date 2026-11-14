@@ -19,12 +19,14 @@ taniklar:
     bicim: yügür
     kaynak: savelyev-turkic
     atif: noauthor1880
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: yügür
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
     yuzyil: 13-15
     bicim: yügür
@@ -32,6 +34,7 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: یوكورمك
     not: Wiktionary'de mastar biçimiyle yügürmek.
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: yüğür
@@ -39,22 +42,23 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: یوكورمك
     not: Wiktionary'de mastar biçimiyle yüğürmek.
-  - {atif: 'uraksin1996, uraksin2005', bicim: yüger, dil: bak, kaynak: savelyev-turkic, yazi: йүгер-}
-  - {atif: 'aksenova1992, stachowski1993', bicim: hüür, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: juwır, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jügir, dil: kaz, kaynak: savelyev-turkic, yazi: жүгір-}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çügür, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: yiiir, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: jügür, dil: kir, kaynak: savelyev-turkic, yazi: жүгүр-}
-  - {atif: savelyev2015, bicim: çügür, dil: clw, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: tügür, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: yükür, dil: slr, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çügür, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: dügür, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yöger, dil: tat, kaynak: savelyev-turkic, yazi: йөгер-}
-  - {dil: tur, bicim: yügür, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: süür, dil: sah, kaynak: savelyev-turkic, not: Sahaca s- (y-)., yazi: сүүр-}
-  - {atif: dmitrijeva1981, bicim: yögir, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: yüger, dil: bak, kaynak: savelyev-turkic; apertium, yazi: йүгер-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hüür, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: juwır, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; UD derleminde baş biçim', bicim: jügir, dil: kaz, kaynak: savelyev-turkic; apertium; universal-dependencies, yazi: жүгір-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çügür, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: yiiir, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: jügür, dil: kir, kaynak: savelyev-turkic; apertium, yazi: жүгүр-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: çügür, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: tügür, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yükür, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çügür, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: dügür, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 3 kez', bicim: yöger, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, yazi: йөгер-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {dil: tur, bicim: yügür, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var', bicim: süür, dil: sah, kaynak: savelyev-turkic; apertium, not: Sahaca s- (y-)., yazi: сүүр-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yögir, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   chv: yerine çup (çap)

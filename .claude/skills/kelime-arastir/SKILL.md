@@ -151,6 +151,12 @@ Hata veriyorsa düzelt (genellikle yanlış dil kodu).
 
 ## 6. Kaydet
 
+Önce her tanığın doğrulama durumunu doldur: `python3 araclar/sozluk.py --denetim-doldur`
+(ILKELER §12; durum kaynak ve not alanlarından kurallarla çıkarılır, eksikse denetim
+hata verir). Biçimi birden çok bağımsız kaynakla doğrulamaya çalış; kaynak yapay zekâ
+bilgisiyle çelişirse nedenini ara ve üçüncü bir kaynağa bak. Kaynaksız biçimi silme,
+`kaynak: bilgi` ile gir.
+
 Bütün okunur çıktıları tek komutla yenile: `python3 araclar/yayinla.py`
 (kavram ve kök sayfaları, KARSILASTIRMA.md, SOZLUK.md, KAYNAKLAR.md, site dizini).
 `python3 araclar/yayinla.py --denetle` geçmeden commit etme; CI aynı denetimi yapar

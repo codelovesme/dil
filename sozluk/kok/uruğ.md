@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,40 +25,40 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **çaş uruğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tofaca |  | **uruğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine pala (bala) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine bala (bala) |
-| | Güney Altayca | | — | | | | kök yok: yerine bala (bala) |
-| | Başkurtça | | — | | | | kök yok: yerine bala (bala) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine bala (bala) |
-| | Karakalpakça | | — | | | | kök yok: yerine bala (bala) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine bala (bala) |
-| | Karayca | | — | | | | kök yok: yerine bala (bala) |
-| | Kazakça | | — | | | | kök yok: yerine bala (bala) |
-| | Hakasça | | — | | | | kök yok: yerine pala (bala) |
-| | Halaçça | | — | | | | kök yok: yerine bala (bala) |
-| | Kırgızca | | — | | | | kök yok: yerine bala (bala) |
-| | Kumukça | | — | | | | kök yok: yerine bala (bala) |
-| | Nogayca | | — | | | | kök yok: yerine bala (bala) |
-| | Salarca | | — | | | | kök yok: yerine pala (bala) |
-| | Şorca | | — | | | | kök yok: yerine pala (bala) |
-| | Tatarca | | — | | | | kök yok: yerine bala (bala) |
-| | Uygurca | | — | | | | kök yok: yerine bala (bala) |
-| | Özbekçe | | — | | | | kök yok: yerine bola (bala) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine uşak (uşak) |
-| | Gagavuzca | | — | | | | kök yok: yerine uşak (uşak) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine çocuk (çocuk) |
-| | Türkmence | | — | | | | kök yok: yerine çaga (çaga) |
-| | Çuvaşça | | — | | | | kök yok: yerine aça (aça) |
-| | Çulımca | | — | | | | kök yok: yerine käç (käç) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine mula (mula) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tuvaca |  | **çaş uruğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tofaca |  | **uruğ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine pala (bala) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine bala (bala) |
+| | Güney Altayca | | — | | | | | kök yok: yerine bala (bala) |
+| | Başkurtça | | — | | | | | kök yok: yerine bala (bala) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine bala (bala) |
+| | Karakalpakça | | — | | | | | kök yok: yerine bala (bala) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine bala (bala) |
+| | Karayca | | — | | | | | kök yok: yerine bala (bala) |
+| | Kazakça | | — | | | | | kök yok: yerine bala (bala) |
+| | Hakasça | | — | | | | | kök yok: yerine pala (bala) |
+| | Halaçça | | — | | | | | kök yok: yerine bala (bala) |
+| | Kırgızca | | — | | | | | kök yok: yerine bala (bala) |
+| | Kumukça | | — | | | | | kök yok: yerine bala (bala) |
+| | Nogayca | | — | | | | | kök yok: yerine bala (bala) |
+| | Salarca | | — | | | | | kök yok: yerine pala (bala) |
+| | Şorca | | — | | | | | kök yok: yerine pala (bala) |
+| | Tatarca | | — | | | | | kök yok: yerine bala (bala) |
+| | Uygurca | | — | | | | | kök yok: yerine bala (bala) |
+| | Özbekçe | | — | | | | | kök yok: yerine bola (bala) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine uşak (uşak) |
+| | Gagavuzca | | — | | | | | kök yok: yerine uşak (uşak) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine çocuk (çocuk) |
+| | Türkmence | | — | | | | | kök yok: yerine çaga (çaga) |
+| | Çuvaşça | | — | | | | | kök yok: yerine aça (aça) |
+| | Çulımca | | — | | | | | kök yok: yerine käç (käç) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine mula (mula) |
 
 ## Kaynakça
 

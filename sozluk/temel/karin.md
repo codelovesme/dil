@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [karın](../kok/karın.md) | türkçe | 0.16 (*karın*) | Türkmence %0 | Ana Türkçe (2 hat) | ~166 milyon (%86, *karın*) | *karïn |
+| [karın](../kok/karın.md) | türkçe | 0.16 (*karın*) | Türkmence %0 | Ana Türkçe (2 hat) | ~168 milyon (%87, *karın*) | *karïn |
 | [iç-ad](../kok/iç-ad.md) | türkçe | 0.20 (*iç*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~117 milyon (%61, *iç*) | *ič |
 | [kursak](../kok/kursak.md) | türkçe | -0.28 (*kursak*) | Çuvaşça %0 | Ortak Türkçe (3 hat) | ~107 milyon (%55, *kursak*) |  |
 
@@ -49,10 +49,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gagavuzca | karnı | karnı | karnı | karnı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | karnı | karnı | karnı | karnı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balkan Gagavuz Türkçesi | karın ↑ | karın ↑ | karın ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | ġarın | ġarın | ġarın |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | ġarın | ġarın | ġarın | ġarın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ġarın | ġarın | ġarın | ġarın |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | ġarın ↑ | ġarın ↑ | ġarın ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan grubu | garın | garın | garın |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | garın | garın | garın | garın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | garın | garın | garın | garın |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | garın ↑ | garın ↑ | garın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | karın ↑ | karın ↑ | karın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | karın ↑ | karın ↑ | karın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | *iç* (iç-ad) | *iç* (iç-ad) | *iç* (iç-ad) |  |
@@ -135,7 +135,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Halaç kolu | Halaçça |  | karın |  |  |
 | Oğuz kolu | Türkiye Türkçesi |  | karın |  |  |
 | Oğuz kolu | Gagavuzca |  | karnı |  |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | ġarın |  |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | garın |  |  |
 | Oğuz kolu | Türkmence |  |  | iç |  |
 | Oğuz kolu | Salarca |  |  |  | xusax |
 | Kıpçak kolu | Tatarca |  |  |  | korsak |

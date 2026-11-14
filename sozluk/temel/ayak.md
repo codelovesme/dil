@@ -26,7 +26,7 @@
 | [but](../kok/but.md) | türkçe | -0.36 (*but*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~72 milyon (%37, *but*) | *but |
 | [ura](../kok/ura.md) | türkçe | -0.38 (*ura*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ura*) |  |
 
-**Büyük topluluklarda *ayak* biçiminin anlaşılırlığı:** Çuvaşça %0, Tuvaca %0, Özbekçe %81, Sahaca %81, Karaçay-Malkarca %83, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
+**Büyük topluluklarda *ayak* biçiminin anlaşılırlığı:** Çuvaşça %0, Tuvaca %0, Özbekçe %81, Sahaca %81, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -77,8 +77,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | ayak | ayak | ayak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumukça | ayak | ayak | ayak | ayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ayak | ayak | ayak | ayak |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | ayak 1 | ayak 1 | ayak 1 | ayak 1 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ayak 1 | ayak 1 | ayak 1 | ayak 1 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | ayak | ayak | ayak | ayak |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ayak | ayak | ayak | ayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | ayak | ayak | ayak |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | ayak | ayak | ayak | ayak |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ayak | ayak | ayak | ayak |
@@ -143,7 +143,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Kırım Tatarcası |  | ayak |  |  |
 | Kıpçak kolu | Karayca |  | ayak |  |  |
 | Kıpçak kolu | Kumukça |  | ayak |  |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | ayak 1 |  |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | ayak |  |  |
 | Kıpçak kolu | Kazakça |  | ayak |  |  |
 | Kıpçak kolu | Karakalpakça |  | ayak |  |  |
 | Kıpçak kolu | Nogayca |  | ayak |  |  |

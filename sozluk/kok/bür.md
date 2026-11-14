@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 5 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 5 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ✓4 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,40 +25,42 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Özbekçe, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **bürü** | бүрү |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tofaca |  | **bür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **pür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **pür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **püür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine talbırak (yaprak) |
-| | Güney Altayca | | — | | | | kök yok: yerine dalbrax (yaprak) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine yarpak (yaprak) |
-| | Başkurtça | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Gagavuzca | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Karakalpakça | | — | | | | kök yok: yerine japırak (yaprak) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine çaprak (yaprak) |
-| | Karayca | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Kazakça | | — | | | | kök yok: yerine japırak (yaprak) |
-| | Kırgızca | | — | | | | kök yok: yerine jalbırak (yaprak) |
-| | Kumukça | | — | | | | kök yok: yerine yapırak (yaprak) |
-| | Nogayca | | — | | | | kök yok: yerine yapırak (yaprak) |
-| | Salarca | | — | | | | kök yok: yerine yarfak (yaprak) |
-| | Tatarca | | — | | | | kök yok: yerine yafrak (yaprak) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Türkmence | | — | | | | kök yok: yerine yaprak (yaprak) |
-| | Uygurca | | — | | | | kök yok: yerine yopurmak (yaprak) |
-| | Dolganca | | — | | | | kök yok: yerine hebirdek (sebirdek) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sebirdex (sebirdek) |
-| | Çuvaşça | | — | | | | kök yok: yerine şulşă (şulşă) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tuvaca |  | **bürü** | бүрү |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Tofaca |  | **bür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **pür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Sibirya kolu | Şorca |  | **pür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | ✓ doğrulandı |  |
+| Sibirya kolu | Çulımca |  | **püür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine talbırak (yaprak) |
+| | Güney Altayca | | — | | | | | kök yok: yerine dalbrax (yaprak) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine yarpak (yaprak) |
+| | Başkurtça | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Karakalpakça | | — | | | | | kök yok: yerine japırak (yaprak) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine çaprak (yaprak) |
+| | Karayca | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Kazakça | | — | | | | | kök yok: yerine japırak (yaprak) |
+| | Kırgızca | | — | | | | | kök yok: yerine jalbırak (yaprak) |
+| | Kumukça | | — | | | | | kök yok: yerine yapırak (yaprak) |
+| | Nogayca | | — | | | | | kök yok: yerine yapırak (yaprak) |
+| | Salarca | | — | | | | | kök yok: yerine yarfak (yaprak) |
+| | Tatarca | | — | | | | | kök yok: yerine yafrak (yaprak) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Türkmence | | — | | | | | kök yok: yerine yaprak (yaprak) |
+| | Uygurca | | — | | | | | kök yok: yerine yopurmak (yaprak) |
+| | Dolganca | | — | | | | | kök yok: yerine hebirdek (sebirdek) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sebirdex (sebirdek) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şulşă (şulşă) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 5 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 3 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 2 tanık

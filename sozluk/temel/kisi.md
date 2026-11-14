@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kişi](../kok/kişi.md) | türkçe | 0.95 (*kişi*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~180 milyon (%93, *kişi*) | *kiĺi |
+| [kişi](../kok/kişi.md) | türkçe | 0.96 (*kişi*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~182 milyon (%94, *kişi*) | *kiĺi |
 | [şın](../kok/şın.md) | türkçe | -0.34 (*şın*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *şın*) |  |
 
-**Büyük topluluklarda *kişi* biçiminin anlaşılırlığı:** Çuvaşça %0, Kazakça %69, Tatarca %81, Başkurtça %81, Sahaca %88, Tuvaca %88, Kumukça %94, Türkiye Türkçesi %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
+**Büyük topluluklarda *kişi* biçiminin anlaşılırlığı:** Çuvaşça %0, Tatarca %81, Başkurtça %81, Sahaca %88, Tuvaca %88, Kumukça %94, Kazakça %94, Türkiye Türkçesi %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -78,11 +78,11 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gişi | gişi | gişi | gişi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | gişi ↑ | gişi ↑ | gişi ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gişi ↑ | gişi ↑ | gişi ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kişi | kişi | kĭsĭ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kĭsĭ | kĭsĭ | kĭsĭ | kĭsĭ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kĭsĭ | kĭsĭ | kĭsĭ | kĭsĭ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kişi ↑ | kişi ↑ | kĭsĭ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kişi ↑ | kişi ↑ | kĭsĭ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kişi | kisi | kisi |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kisi | kisi | kisi | kisi |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kisi | kisi | kisi | kisi |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kişi ↑ | kisi ↑ | kisi ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kişi ↑ | kisi ↑ | kisi ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kisi | kisi | kisi | kisi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kisi | kisi | kisi | kisi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | kişi | kişi | kişi |  |
@@ -137,7 +137,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Başkurtça |  | keşe |  |
 | Kıpçak kolu | Karayca |  | kişi |  |
 | Kıpçak kolu | Kumukça |  | gişi |  |
-| Kıpçak kolu | Kazakça |  | kĭsĭ |  |
+| Kıpçak kolu | Kazakça |  | kisi |  |
 | Kıpçak kolu | Nogayca |  | kisi |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kişi |  |
 | Kıpçak kolu | Kırgızca |  | kişi |  |

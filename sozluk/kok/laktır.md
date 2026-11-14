@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 2 · yabancı kayıt 0 · denetim ✓2 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,43 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Kazakça |  | **laktır** | лақтыр- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karakalpakça |  | **ılaktır** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **bılaktır** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine at (at-fiil) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine at (at-fiil) |
-| | Gagavuzca | | — | | | | kök yok: yerine at (at-fiil) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine at (at-fiil) |
-| | Karayca | | — | | | | kök yok: yerine at (at-fiil) |
-| | Halaçça | | — | | | | kök yok: yerine hat (at-fiil) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine at (at-fiil) |
-| | Baraba ağzı | | — | | | | kök yok: yerine taşla (taşla) |
-| | Güney Altayca | | — | | | | kök yok: yerine taşta (taşla) |
-| | Başkurtça | | — | | | | kök yok: yerine taşla (taşla) |
-| | Hakasça | | — | | | | kök yok: yerine tasta (taşla) |
-| | Kırgızca | | — | | | | kök yok: yerine taşta (taşla) |
-| | Kumukça | | — | | | | kök yok: yerine taşla (taşla) |
-| | Çulımca | | — | | | | kök yok: yerine tasta (taşla) |
-| | Şorca | | — | | | | kök yok: yerine taşta (taşla) |
-| | Tatarca | | — | | | | kök yok: yerine taşla (taşla) |
-| | Türkmence | | — | | | | kök yok: yerine taşla (taşla) |
-| | Tuvaca | | — | | | | kök yok: yerine daja (taşla) |
-| | Uygurca | | — | | | | kök yok: yerine taşla (taşla) |
-| | Özbekçe | | — | | | | kök yok: yerine taşla (taşla) |
-| | Çuvaşça | | — | | | | kök yok: yerine părax (bırak) |
-| | Dolganca | | — | | | | kök yok: yerine bırak (bırak) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine bırax (bırak) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine çel (çel) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine tarda (tarda) |
-| | Tofaca | | — | | | | kök yok: yerine kağ (kağ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Kazakça |  | **laktır** | лақтыр- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Karakalpakça |  | **ılaktır** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Kıpçak kolu | Nogayca |  | **bılaktır** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine at (at-fiil) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine at (at-fiil) |
+| | Gagavuzca | | — | | | | | kök yok: yerine at (at-fiil) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine at (at-fiil) |
+| | Karayca | | — | | | | | kök yok: yerine at (at-fiil) |
+| | Halaçça | | — | | | | | kök yok: yerine hat (at-fiil) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine at (at-fiil) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Güney Altayca | | — | | | | | kök yok: yerine taşta (taşla) |
+| | Başkurtça | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Hakasça | | — | | | | | kök yok: yerine tasta (taşla) |
+| | Kırgızca | | — | | | | | kök yok: yerine taşta (taşla) |
+| | Kumukça | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Çulımca | | — | | | | | kök yok: yerine tasta (taşla) |
+| | Şorca | | — | | | | | kök yok: yerine taşta (taşla) |
+| | Tatarca | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Türkmence | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Tuvaca | | — | | | | | kök yok: yerine daja (taşla) |
+| | Uygurca | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Özbekçe | | — | | | | | kök yok: yerine taşla (taşla) |
+| | Çuvaşça | | — | | | | | kök yok: yerine părax (bırak) |
+| | Dolganca | | — | | | | | kök yok: yerine bırak (bırak) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine bırax (bırak) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine çel (çel) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine tarda (tarda) |
+| | Tofaca | | — | | | | | kök yok: yerine kağ (kağ) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 2 tanık

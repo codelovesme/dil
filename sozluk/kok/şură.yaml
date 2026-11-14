@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şură; ürüñ ile denkliği bu çalışmada kurulamadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şură, dil: chv, kaynak: savelyev-turkic, yazi: шурӑ}
+  - {atif: 'asmarin1928, savelyev2011; ASJP CHUVASH_2: şurı', bicim: şură, dil: chv, kaynak: savelyev-turkic; asjp, yazi: шурӑ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine ak (ak)

@@ -8,7 +8,7 @@ etimoloji: kır 'sırt, yüksek yer'; Güney Altaycada 'dağ'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: kır, dil: alt, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: kır, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine taw (tağ)

@@ -9,11 +9,11 @@ etimoloji: kakpaş 'ağaç kabuğu'; Hakas, Şor, Orta Çulım, Kuzey Altay ve H
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xaxpas, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: kaas, dil: klj, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: kakvaç, dil: clw, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: kağaş, dil: atv, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: kakpaş, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xaxpas, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: kaas, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: kakvaç, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: kağaş, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: kakpaş, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kabık (kabuk)

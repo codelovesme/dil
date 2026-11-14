@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: tipĕ, dil: chv, kaynak: savelyev-turkic, yazi: типӗ}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; ASJP CHUVASH_2: tipı', bicim: tipĕ, dil: chv, kaynak: savelyev-turkic; apertium; asjp, yazi: типӗ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   atv: yerine kuru (kuruğ)

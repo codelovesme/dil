@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1 · denetim ◐4**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,52 +25,52 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **art** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **art** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Salarca |  | **artı** |  | başka (artan, artı) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Güney Altayca |  | **art** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Kuzey Altayca |  | **artan** |  | başka (artan, artı) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kal (kal) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kal (kal) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kal (kal) |
-| | Başkurtça | | — | | | | kök yok: yerine kal (kal) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kal (kal) |
-| | Dolganca | | — | | | | kök yok: yerine kaal (kal) |
-| | Gagavuzca | | — | | | | kök yok: yerine kal (kal) |
-| | Karakalpakça | | — | | | | kök yok: yerine kal (kal) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kal (kal) |
-| | Karayca | | — | | | | kök yok: yerine kal (kal) |
-| | Kazakça | | — | | | | kök yok: yerine kal (kal) |
-| | Hakasça | | — | | | | kök yok: yerine xal (kal) |
-| | Halaçça | | — | | | | kök yok: yerine kaal (kal) |
-| | Kırgızca | | — | | | | kök yok: yerine kal (kal) |
-| | Kumukça | | — | | | | kök yok: yerine kal (kal) |
-| | Çulımca | | — | | | | kök yok: yerine kal (kal) |
-| | Nogayca | | — | | | | kök yok: yerine kal (kal) |
-| | Salarca | | — | | | | kök yok: yerine kal (kal) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kal (kal) |
-| | Şorca | | — | | | | kök yok: yerine kal (kal) |
-| | Tatarca | | — | | | | kök yok: yerine kal (kal) |
-| | Tofaca | | — | | | | kök yok: yerine kal (kal) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kal (kal) |
-| | Türkmence | | — | | | | kök yok: yerine gal (kal) |
-| | Tuvaca | | — | | | | kök yok: yerine kal (kal) |
-| | Uygurca | | — | | | | kök yok: yerine kal (kal) |
-| | Özbekçe | | — | | | | kök yok: yerine kol (kal) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine haal (kal) |
-| | Çuvaşça | | — | | | | kök yok: yerine yul (yul) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Salarca |  | **artı** |  | başka (artan, artı) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Güney Altayca |  | **art** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Kuzey Altayca |  | **artan** |  | başka (artan, artı) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kal (kal) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kal (kal) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kal (kal) |
+| | Başkurtça | | — | | | | | kök yok: yerine kal (kal) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kal (kal) |
+| | Dolganca | | — | | | | | kök yok: yerine kaal (kal) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kal (kal) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kal (kal) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kal (kal) |
+| | Karayca | | — | | | | | kök yok: yerine kal (kal) |
+| | Kazakça | | — | | | | | kök yok: yerine kal (kal) |
+| | Hakasça | | — | | | | | kök yok: yerine xal (kal) |
+| | Halaçça | | — | | | | | kök yok: yerine kaal (kal) |
+| | Kırgızca | | — | | | | | kök yok: yerine kal (kal) |
+| | Kumukça | | — | | | | | kök yok: yerine kal (kal) |
+| | Çulımca | | — | | | | | kök yok: yerine kal (kal) |
+| | Nogayca | | — | | | | | kök yok: yerine kal (kal) |
+| | Salarca | | — | | | | | kök yok: yerine kal (kal) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kal (kal) |
+| | Şorca | | — | | | | | kök yok: yerine kal (kal) |
+| | Tatarca | | — | | | | | kök yok: yerine kal (kal) |
+| | Tofaca | | — | | | | | kök yok: yerine kal (kal) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kal (kal) |
+| | Türkmence | | — | | | | | kök yok: yerine gal (kal) |
+| | Tuvaca | | — | | | | | kök yok: yerine kal (kal) |
+| | Uygurca | | — | | | | | kök yok: yerine kal (kal) |
+| | Özbekçe | | — | | | | | kök yok: yerine kol (kal) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine haal (kal) |
+| | Çuvaşça | | — | | | | | kök yok: yerine yul (yul) |
 
 ## Kaynakça
 

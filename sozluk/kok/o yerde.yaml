@@ -8,9 +8,9 @@ etimoloji: o(l) + yer + -de; Türkmence, Uygurca ve Özbekçede 'orada'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1968, khamzajev1968', bicim: ol yerde, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: u yärdä, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: u yerda, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ol yerde, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: u yärdä, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: u yerda, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine anda (anda)

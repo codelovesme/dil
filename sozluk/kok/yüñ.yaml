@@ -19,9 +19,10 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım yung-.
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çüg, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çüg, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çüg, dil: tyv, kaynak: savelyev-turkic, yazi: чүг}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Apertium kjh sözlüğünde var', bicim: çüg, dil: kjh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çüg, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: çüg, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: чүг, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine tük (tük)

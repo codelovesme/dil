@@ -8,8 +8,8 @@ etimoloji: yık- 'yıkmak' ile ilişkisi tartışmalı; Türkiye Türkçesi ve G
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: yıka, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: yıka, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016; Apertium gag sözlüğünde var', bicim: yıka, dil: gag, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 53 kez; UD derleminde baş biçim', bicim: yıka, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yu (yu)

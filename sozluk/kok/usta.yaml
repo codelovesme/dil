@@ -8,7 +8,7 @@ etimoloji: Kazakça usta- 'tutmak'; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: usta, dil: kaz, kaynak: savelyev-turkic, yazi: ұста-}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: usta, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: ұста-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tot (tut)

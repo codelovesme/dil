@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: anzĕr, dil: chv, kaynak: savelyev-turkic, yazi: ансӑр}
+  - {atif: 'asmarin1928, savelyev2011', bicim: anzĕr, dil: chv, kaynak: savelyev-turkic, yazi: ансӑр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine tar (tar)

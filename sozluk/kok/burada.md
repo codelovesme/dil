@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0 · denetim ✓2 ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,43 +24,46 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkiye Türkçesi |  | **burada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **bırda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **burada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine mında (bunda) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine mında (bunda) |
-| | Güney Altayca | | — | | | | kök yok: yerine mında (bunda) |
-| | Başkurtça | | — | | | | kök yok: yerine bında (bunda) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine mında (bunda) |
-| | Dolganca | | — | | | | kök yok: yerine manna (bunda) |
-| | Karakalpakça | | — | | | | kök yok: yerine bunda (bunda) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine mında (bunda) |
-| | Karayca | | — | | | | kök yok: yerine muna (bunda) |
-| | Kazakça | | — | | | | kök yok: yerine munda (bunda) |
-| | Hakasça | | — | | | | kök yok: yerine mında (bunda) |
-| | Halaçça | | — | | | | kök yok: yerine buoda (bunda) |
-| | Kırgızca | | — | | | | kök yok: yerine mında (bunda) |
-| | Kumukça | | — | | | | kök yok: yerine munda (bunda) |
-| | Çulımca | | — | | | | kök yok: yerine mında (bunda) |
-| | Nogayca | | — | | | | kök yok: yerine munda (bunda) |
-| | Salarca | | — | | | | kök yok: yerine mınta (bunda) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine mında (bunda) |
-| | Şorca | | — | | | | kök yok: yerine mında (bunda) |
-| | Tatarca | | — | | | | kök yok: yerine monda (bunda) |
-| | Tofaca | | — | | | | kök yok: yerine mında (bunda) |
-| | Tuvaca | | — | | | | kök yok: yerine mında (bunda) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine manna (bunda) |
-| | Çuvaşça | | — | | | | kök yok: yerine kunta (bunda) |
-| | Türkmence | | — | | | | kök yok: yerine bu yerde (bu yerde) |
-| | Uygurca | | — | | | | kök yok: yerine bu yärdä (bu yerde) |
-| | Özbekçe | | — | | | | kök yok: yerine bu yerda (bu yerde) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **burada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | ✓ doğrulandı |  |
+| Oğuz kolu | Gagavuzca |  | **bırda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **burada** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | ✓ doğrulandı |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine mında (bunda) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Güney Altayca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Başkurtça | | — | | | | | kök yok: yerine bında (bunda) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine mında (bunda) |
+| | Dolganca | | — | | | | | kök yok: yerine manna (bunda) |
+| | Karakalpakça | | — | | | | | kök yok: yerine bunda (bunda) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Karayca | | — | | | | | kök yok: yerine muna (bunda) |
+| | Kazakça | | — | | | | | kök yok: yerine munda (bunda) |
+| | Hakasça | | — | | | | | kök yok: yerine mında (bunda) |
+| | Halaçça | | — | | | | | kök yok: yerine buoda (bunda) |
+| | Kırgızca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Kumukça | | — | | | | | kök yok: yerine munda (bunda) |
+| | Çulımca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Nogayca | | — | | | | | kök yok: yerine munda (bunda) |
+| | Salarca | | — | | | | | kök yok: yerine mınta (bunda) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Şorca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Tatarca | | — | | | | | kök yok: yerine monda (bunda) |
+| | Tofaca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Tuvaca | | — | | | | | kök yok: yerine mında (bunda) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine manna (bunda) |
+| | Çuvaşça | | — | | | | | kök yok: yerine kunta (bunda) |
+| | Türkmence | | — | | | | | kök yok: yerine bu yerde (bu yerde) |
+| | Uygurca | | — | | | | | kök yok: yerine bu yärdä (bu yerde) |
+| | Özbekçe | | — | | | | | kök yok: yerine bu yerda (bu yerde) |
 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık

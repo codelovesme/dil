@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | ağız | ağız | ağız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | aağız | aağız | aağız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | aağız | aağız | aağız | aağız |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ağız | āġız, aġız | ağız |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | ağız | ağız, ağız | ağız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | ağız | ağız | ağız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | ağız | ağız | ağız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | ağız | ağız | ağız | ağız |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | ağız | ağız | ağız | ağız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ağız | ağız | ağız | ağız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | ağız ↑ | ağız ↑ | ağız ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | ağız ↑ | āġız, aġız ↑ | ağız ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | ağız ↑ | āġız, aġız ↑ | ağız ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | ağız ↑ | ağız, ağız ↑ | ağız ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | ağız ↑ | ağız, ağız ↑ | ağız ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | ağız | ağız | ağız |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ağız | ağız | ağız | ağız |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ağız | ağız | ağız | ağız |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | aağıs |
 | Sibirya kolu | Kuzey Altayca |  | ağıs |
 
-**Tarihî tanıklar:** Eski Türkçe *ağız*; Kuman-Kıpçakça *ağız*; Eski Anadolu Türkçesi *āġız, aġız*.
+**Tarihî tanıklar:** Eski Türkçe *ağız*; Kuman-Kıpçakça *ağız*; Eski Anadolu Türkçesi *ağız, ağız*.
 

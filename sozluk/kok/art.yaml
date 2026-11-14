@@ -8,10 +8,10 @@ etimoloji: art- 'artmak, fazla kalmak'; Kuman ve Güney Altaycada 'kalmak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: noauthor1880, bicim: art, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
-  - {atif: baskakov1947, bicim: art, dil: alt, kaynak: savelyev-turkic}
-  - {anlam: 'başka (artan, artı)', atif: baskakov1985, bicim: artan, dil: atv, kaynak: savelyev-turkic}
-  - {anlam: 'başka (artan, artı)', atif: tenisev1976, bicim: artı, dil: slr, kaynak: savelyev-turkic}
+  - {atif: noauthor1880, bicim: art, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: art, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: 'başka (artan, artı)', atif: baskakov1985, bicim: artan, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: 'başka (artan, artı)', atif: tenisev1976, bicim: artı, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kal (kal)
