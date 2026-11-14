@@ -1,0 +1,64 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Reconstruction===
+Unproblematic.
+
+===Etymology===
+The {{m|trk-pro|*-t}} is hypothesised to be an ancient plural suffix by Doerfer.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{top|trk-pro|Weather}} [[cloud]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пӗлӗт}}
+* {{desc|trk-cmn-pro|*bulït}}
+{{top3}}
+* Arghu:
+** {{desc|klj|bulıt}}
+* {{desc|trk-ogz-pro|*bulūt}}
+** West Oghuz:
+*** {{desc|trk-oat|بلوت|tr=bulut}}
+**** {{desc|az|bulud}}
+***** {{desc|udi|булут|bor=1}}
+**** {{desc|ota|بولوت|بولوط|tr2=bulut}}
+***** {{desc|gag|bulut}}
+***** {{desc|tr|bulut}}
+** East Oghuz:
+*** {{desc|slr|bulut}}
+*** {{desc|tk|bulut}} 
+* Karluk:
+** {{desc|xqa|بُلِتْ|tr=bulït}}
+*** {{desc|zkh|tr=bulït}}, {{l|zkh|tr=bulut}}
+**** {{desctree|chg|بولوت|tr=bulut}}
+* Kipchak:
+** {{desctree|qwm|بلت|tr=bulut}}
+* Siberian:
+** {{desc|otk|𐰉𐰆𐰞𐰃𐱃|ts=bulït}}
+*** {{desc|oui|tr=bulït}}
+**** {{desc|ybe|bələt|bulət}}
+** North Siberian:
+*** {{desc|sah|былыт}}
+*** {{desc|dlg|былыт}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|булут}}
+**** {{desc|tyv|булут}}
+*** Yenisei Turkic:
+**** {{desc|kjh|пулут}}
+**** {{desc|cjs|пулут}}
+*** {{desc|atv|пулут}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=333|entry=bulıt}}
+* {{R:TMN|vol=2|page=771}}
+* {{R:trk:Rasanen|page=88}}
+* {{R:trk:ESTJa|vol=2|page=262-264}}
+* {{R:SIGTYA|vol=4|page=24}}

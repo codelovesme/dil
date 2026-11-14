@@ -1,0 +1,77 @@
+{{see also|Reconstruction:Proto-Turkic/yok}}
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{ety|trk-pro|:af<unc>|*yō-<t:to destroy><aftype:naf>|*-k}}
+Likely from {{suf|trk-pro|*yō-|t1=to destroy|*-k}}, compare {{m|trk-pro|*yōd-|t=to destroy}} from the same hypothetical root.
+
+===Predicative===
+{{head|trk-pro|predicative}}
+
+# [[there]] is [[not]]
+# [[no]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv-old|*śåχ}}<ref>{{R:cv:Agyagasi:2019|page=205}}</ref>
+*** {{desc|cv-mid|*śåχ}}
+**** {{desc|cv-ana|ҫук}}
+**** {{desc|cv-vir|ҫок}}
+* {{desc|trk-cmn-pro|*yōk}}
+{{top3}}
+* Arghu:
+** {{desc|klj|yôq}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|yox}}
+*** {{desctree|ota|یوق|tr=yok}}
+** {{desc|slr|yox}}
+** {{desc|tk|ýōk}} (ýōg-)
+* Karluk:
+** {{desc|xqa|یُوقْ|tr=yōq}}<ref>{{R:xqa:DLT|vol=III|page=143}}</ref>
+*** {{desc|chg|يوق|tr=yoq}}
+**** {{desc|ug|يوق}}
+**** {{desc|uz|yoʻq}}, {{l|uz|йўқ}}, {{l|uz|يوق}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|юҡ}}
+*** {{desc|tt|юк}}
+** West Kipchak:
+*** {{desc|crh|yoq}}
+*** {{desc|kum|ёкъ|tr=yoq}}
+*** {{desc|krc|джокъ|tr=coq}}
+*** {{desc|uum|йох}}
+**** {{desc|grk-mar|йох|bor=1}}
+** South Kipchak:
+*** Kipchak-Nogai:
+**** {{desc|kaa|joq}}
+**** {{desc|kk|жоқ}}
+**** {{desc|nog|йок}}
+*** Eastern Kipchak:
+**** {{desc|ky|жок}}
+**** {{desc|alt|јок}}
+* Siberian:
+** {{desc|otk|𐰖𐰸|tr=yoq}}
+*** {{desc|oui|tr=yok}}
+**** {{desc|ybe|ǯoq}}
+** North Siberian:
+*** {{desc|sah|суох}}
+*** {{desc|dlg|һуок|tr=huok}}
+** Yenisei Turkic:
+*** {{desc|kjh|чох}}
+*** {{desc|cjs|чок}}
+** Sayan Turkic:
+*** {{desc|kim|чоӄ|tr=çoq}}
+*** {{desc|tyv|чок}}
+** {{desc|atv|чок}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|entry=yo:k|page=895}}
+* {{R:otk:Erdal:1991|vol=I|page=257}}
+* {{R:tr:Nishanyan|yok}}
+* {{R:trk:Rasanen|page=205}}
+* {{R:trk:ESTJa|vol=IV|pages=211-213}}
+* {{R:trk:Tekin1995|page=178}}

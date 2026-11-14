@@ -6,7 +6,7 @@ Toplam **176 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı d
 
 - **Güven:** yüksek = hakemli ya da uzman eseri; orta = derlenmiş ya da topluluk ürünü; düşük = küçük liste ya da kaba tahmin.
 - **Ortam:** ✓ bu oturumun ağ izni olan adres; ✗ izin listesine eklenmesi gerekir (bkz. [Erişim](#bu-ortamdan-erisim)).
-- **Durum:** 91 kaynak bu ortamdan açılıp denetlendi, 71 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
+- **Durum:** 92 kaynak bu ortamdan açılıp denetlendi, 70 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
 - **Hızlı arama:** `python3 araclar/kaynaklar.py --ara <dil kodu ya da ihtiyaç>` (ör. `--ara chv`, `--ara odunc`).
 
 ## İhtiyaca göre
@@ -471,6 +471,7 @@ https://archive.org/details/sir-gerard-clauson-an-etymological-dictionary-of-pre
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Tarihî tanık biçimleri
 - **Erişim:** kısmen · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: eski adres (etymologicaldict00clau) 404 veriyordu; yeni archive.org kaydı açıldı (HTTP 200).
+- **Kullanılan sürüm:** Clauson 1972 baskısı (PDF, altaica.ru), 2026-11-12 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `clauson`
 
 <a id="doerfer-tmen"></a>
@@ -823,7 +824,8 @@ Ana Türkçe yeniden kuruluşları ve her maddenin altında torun dillerdeki bi�
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: kategori sayfası açıldı (HTTP 200). Madde ham metni ?action=raw ile alınıyor (ben, sen, o bu yolla araştırıldı).
-- **Not:** Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir.
+- **Kullanılan sürüm:** 2026-11-14'te 119 sayfanın ham metni kaynaklar/wiktionary/ altında saklandı ve parmak izleri surumler.yaml'a yazıldı; kök→sayfa eşlemesi ve sayfaların gösterdiği kaynaklar kaynaklar/wiktionary-sayfalari.yaml'da. 39 kökün sayfası bulunamadı (adı değişmiş ya da yanlış eşleşme); onların tanıkları 2026-11-12/14 canlı okumasıdır. (dosya parmak izleri: kaynaklar/surumler.yaml)
+- **Not:** Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir. Aracı kaynak sayılır: sayfanın gösterdiği kaynak tanıkta da varsa Wiktionary bağımsız ikinci kaynak sayılmaz (ILKELER §12).
 - **Kimlik:** `wiktionary-ana-turkce`
 
 <a id="vambery-1878"></a>
@@ -919,6 +921,7 @@ Macarcaya Batı Eski Türkçeden (Oğur) geçmiş kelimeler. Oğur kolunun tarih
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri, Toplu, makinece okunabilir veri, Yaşayan dillerde biçim toplama, Ana Türkçe kuruluşu ve etimoloji, Ödünç ve miras ayrımı (özellikle Çuvaşça)
 - **Erişim:** açık · **Biçim:** csv · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: raw.githubusercontent.com üzerinden master dalı okundu (HTTP 200); 'main' dalı yok (404).
+- **Kullanılan sürüm:** lexibank/savelyevturkic master, 2026-11-12 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Not:** Biçimlerin her biri kendi kaynağına bağlı (sources.bib); 32 dilin listesi languages.csv'de.
 - **Kimlik:** `savelyev-turkic`
 
@@ -935,6 +938,7 @@ Dünyanın dilleri için 40 kavramlık kararlı kelime listeleri (sürüm 21, 20
 - **İşe yaradığı yer:** Örgü: benzerlik ve anlaşılırlık değerleri, Toplu, makinece okunabilir veri
 - **Erişim:** açık · **Biçim:** csv · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: açıldı (HTTP 200). Dil sayfaları ör. asjp.clld.org/languages/QASHQAI_2, OLD_TURKIC, ILI_TURKI.
+- **Kullanılan sürüm:** lexibank/asjp master, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `asjp`
 
 <a id="elegant-lexicon"></a>
@@ -1568,8 +1572,9 @@ Eski Uygurca metinlerin bütün söz varlığı; Almanca-Türkçe açıklamalı.
 
 - **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ana Türkçe kuruluşu ve etimoloji
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinli
-- **Doğrulama:** 2026-11-12: DOAB ve OAPEN hız sınırı veriyor (HTTP 429). Aralıklı denenmeli; arama motorunda kayıt görüldü.
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-14: PDF univerlag.uni-goettingen.de'den indirildi (10,9 MB), metin katmanı var (pdftotext); OAPEN adresi 429 verdi. Madde başı + Almanca + '||' + Türkçe açıklama düzeni.
+- **Kullanılan sürüm:** Wilkens 2021 PDF, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `wilkens-eski-uygurca`
 
 <a id="bes-dilli-ayna"></a>
@@ -1934,6 +1939,7 @@ Erzurum ili ağızlarının ses ve biçim özellikleri ve derleme metin örnekle
 - **İşe yaradığı yer:** Ağız verisi
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: PDF indirildi ve okundu.
+- **Kullanılan sürüm:** PDF, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `gemalmaz-erzurum`
 
 <a id="halacca"></a>
@@ -2175,6 +2181,7 @@ A.Ü. Türkiyat Araştırmaları Enstitüsü Dergisi 36. Anadolu ağızlarında 
 - **İşe yaradığı yer:** Ağız verisi, Dilbilgisi (Aşama 3)
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: PDF indirildi ve okundu.
+- **Kullanılan sürüm:** PDF, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `dasdemir-2008`
 
 <a id="dogu-yugur-sozluk"></a>
@@ -2205,6 +2212,7 @@ Ahıska ağzının ses ve biçim özelliklerinin Türkiye Türkçesi ağızları
 - **İşe yaradığı yer:** Ağız verisi
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: PDF indirildi ve okundu.
+- **Kullanılan sürüm:** PDF, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `ersoz-ahiska`
 
 <a id="qamus"></a>
@@ -2276,6 +2284,7 @@ Tek tek dillerin kelime maddeleri (ör. Karayca siz, kaynak Baskakov) ve 'Append
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama
 - **Erişim:** açık · **Biçim:** html · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: siz (Karayca), men (Türkiye Türkçesi ağız), Appendix:Urum Swadesh list okundu; Kırımçak, Kaşkay, Horasan, Irak Türkmen Swadesh sayfaları yok (404).
+- **Kullanılan sürüm:** canlı sayfa, 2026-11-12 ile 2026-11-14 arasında okundu; sayfa dosyası saklanmadı (parmak izi yok) (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `wiktionary-sozluk`
 
 <a id="wiktionary-cekim"></a>
@@ -2291,6 +2300,7 @@ Türk dillerindeki isim maddelerinin hâl ve iyelik çekim tabloları. Eklerin i
 - **İşe yaradığı yer:** Dilbilgisi (Aşama 3)
 - **Erişim:** açık · **Biçim:** html · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: бала (Kazakça, Kırgızca), bola, بالا, bala (Kırım Tatarca), uşak, ana (Azerbaycanca) tabloları okundu.
+- **Kullanılan sürüm:** canlı sayfa, 2026-11-12 ile 2026-11-14 arasında okundu; sayfa dosyası saklanmadı (parmak izi yok) (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `wiktionary-cekim`
 
 <a id="sakhatyla"></a>
@@ -2420,6 +2430,7 @@ Gerçek metinlerden cümleler; her kelimenin baş biçimi (lemma), türü ve dil
 - **İşe yaradığı yer:** Dilbilgisi (Aşama 3), Çeviri (Hedef 5): paralel metinler ve ölçüm setleri, Toplu, makinece okunabilir veri
 - **Erişim:** açık · **Biçim:** metin · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinsiz (universaldependencies.org)
 - **Doğrulama:** 2026-11-14: 9 dilin derlemi ham adresten indirildi (HTTP 200).
+- **Kullanılan sürüm:** master dalı, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Not:** Azerbaycanca ve Sahaca derlemler küçüktür (900–1500 kelime); oradaki sayımlar zayıf kanıttır.
 - **Kimlik:** `universal-dependencies`
 
@@ -2537,6 +2548,7 @@ Gönüllülerin yazıp birbirine çevirdiği cümleler; Türk dillerinde toplam 
 - **İşe yaradığı yer:** Çeviri (Hedef 5): paralel metinler ve ölçüm setleri, Toplu, makinece okunabilir veri
 - **Erişim:** açık · **Biçim:** tsv · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinsiz (tatoeba.org)
 - **Doğrulama:** 2026-11-13: downloads.tatoeba.org dil başına dosyalar indirildi (HTTP 200); 22 Türk dili için cümle dosyası var.
+- **Kullanılan sürüm:** dil başına dışa aktarım, 2026-11-13 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Not:** Lisans CC BY 2.0 FR; cümle kimlikleri test setinde korunur (https://tatoeba.org/sentences/show/<kimlik>). Çeviriler gönüllülerindir; bir kısmı Türkiye Türkçesinden yakın çeviri olduğu için diller arası benzerliği olduğundan yüksek gösterebilir. Tatarca hem Kiril hem Latin harfli.
 - **Kimlik:** `tatoeba`
 
@@ -2758,6 +2770,7 @@ Journal of Turkic Civilization Studies 6(1). Eski Türkçe, Orta Türkçe ve 30 
 - **İşe yaradığı yer:** Yaşayan dillerde biçim toplama
 - **Erişim:** açık · **Biçim:** pdf · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: PDF indirildi, Tablo 4 okundu (Horasan, Karay, Halaç, Salar…).
+- **Kullanılan sürüm:** PDF, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Not:** İkincil derlemedir; kaynakları (Bozkurt 2002 vb.) ayrıca denetlenmeli.
 - **Kimlik:** `agiralioglu-akcan-2025`
 
@@ -3122,6 +3135,7 @@ Kural tabanlı makine çevirisi için yazılmış, dil başına sonlu durum biç
 - **İşe yaradığı yer:** Dilbilgisi (Aşama 3), Çeviri (Hedef 5): paralel metinler ve ölçüm setleri, Toplu, makinece okunabilir veri
 - **Erişim:** açık · **Biçim:** metin · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-14: 20 dilin .lexc ve .twol dosyası ham adresten indirildi (HTTP 200).
+- **Kullanılan sürüm:** master dalı, 2026-11-14 indirildi (20 dil, .lexc ve .twol) (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Not:** Dillerin olgunluğu farklıdır; Azerbaycanca dosyada belirtme hâli Türkiye Türkçesine göre yazılmış (-{y}{I}), Wiktionary ile çelişiyor. Bu yüzden mümkün olan yerde ikinci kaynakla denetlenir.
 - **Kimlik:** `apertium`
 

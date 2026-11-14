@@ -1,0 +1,79 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{rfe|trk-pro}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[ear]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|хӑлха}}
+** {{desc|xgn-pro|*kulkï|bor=1|unc=1}}
+*** {{desc|mn|хулхи|t=[[earwax]], [[inner ear]]}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Karluk:
+** {{desc|xqa|قُلَقْ|tr=qulaq|قُلْقاقْ|tr2=qulqaq}}
+*** {{desc|chg|tr=qulaɣ}}
+**** {{desc|ug|قۇلاق}}
+**** {{desc|uz|quloq}}
+* Kipchak:
+** Northern Kipchak:
+*** {{desc|ba|ҡолаҡ}}
+*** {{desc|tt|колак}}
+** Western Kipchak:
+*** {{desc|crh|qulaq}}
+*** {{desc|jct|къулах}}
+*** {{desc|krc|къулакъ}}
+*** {{desc|kdr|къулакъ}}
+*** {{desc|kum|къулакъ}}
+*** {{desc|uum|хулах}}
+** Kipchak-Nogai:
+*** {{desc|kaa|qulaq}}
+*** {{desc|kk|құлақ}}
+*** {{desc|nog|кулак}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|кулак}}
+*** {{desc|alt|кулак}}
+* Arghu:
+** {{desc|klj|qulaq}}
+* Oghuz:
+** {{desc|trk-oat|قلاق|tr=qulaq}}
+*** {{desc|az|qulaq}}
+*** {{desc|ota|قولاق|tr=kulak}}
+**** {{desc|gag|kulak}}
+**** {{desc|tr|kulak}}
+** Eastern:
+*** {{desc|slr|qulaq}}
+*** {{desc|tk|gulak}}
+** Southern:
+*** {{desc|qxq|قُلَقْ|tr=qulaq}}
+* Siberian:
+** {{desc|otk|𐰸𐰆𐰞𐰴𐰴|ts=qulqaq}}
+** {{desc|oui|𐽲𐽳𐾁𐽲𐽰𐽲|ts=ḳulḳaḳ}}
+** Yenisei Turkic:
+*** {{desc|kjh|хулах}}
+*** {{desc|cjs|қулақ}}
+** Sayan Turkic:
+*** {{desc|kim|қулақ}}
+*** {{desc|tyv|кулак}}
+** {{desc|atv|кулак}}
+** North Siberian:
+*** {{desc|dlg|кулгаах}}
+*** {{desc|sah|кулгаах}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=621|entry=kulkak}}
+* {{R:trk:ESTJa|vol=6|page=124-127}}
+* {{R:SIGTYA|vol=4|page=204-205}}
+[[ru:*kulkak]]
+
+{{top|trk-pro|Hearing|Organs}}

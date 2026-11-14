@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 7/7 · tanık 21 (kaynaklı %100) · kaynak 9 · yabancı kayıt 3 · denetim ✓4 ◐17**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 7/7 · tanık 21 (kaynaklı %100) · kaynak 10 · yabancı kayıt 3 · denetim ✓5 ◑2 ◐14**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -32,25 +32,28 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **egin** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **egin** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT V 4, 24; U IV 8 (Clauson, egin) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **egin** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — TT V 4, 24; U IV 8 (Clauson, egin); Wilkens 2021, madde ägin (yazım değişkeni: e > ä) (anlam eşleşmedi) | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **egin** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 78, 110 (Clauson, egin) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **egin** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 1738 (Clauson, egin) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **egin** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 69 (Clauson, egin) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **eyin** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 20, 9 (Clauson, egin) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **egin** | اكن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **egin** | اكن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/ägin; sayfanın kaynakları: clauson, estja, rasanen, tenishev | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kahire | **eyin** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 19 (Clauson, egin) | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **egin** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 19, 49; Nehcü'l-Feradis 65 (Clauson, egin) | ◐ tek kaynak |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **ögin** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 47, 8 (Clauson, egin) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **ögin** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 64, Senglâh 109r (Clauson, egin) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **eğin** | اگین | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **eğin** | اگین | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/ägin; sayfanın kaynakları: clauson, estja, rasanen, tenishev | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
+- 8.–14. yy, Eski Türkçe: Wilkens'te biçim var, Türkçe açıklamada bu kavram geçmiyor.
 - 13. yy, Kuman-Kıpçakça: Türkmencesi egin diye.
+- 13.–15. yy, Eski Anadolu Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Kuman-Kıpçakça: Türkmencesi egin diye.
 - 14. yy, Harezm Türkçesi ve Çağatayca: ögin de.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -92,6 +95,7 @@ Notlar:
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 2 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

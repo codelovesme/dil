@@ -1,0 +1,72 @@
+{{also|Reconstruction:Proto-Turkic/at|Reconstruction:Proto-Turkic/āt-}}
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[name]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ят}}
+* {{desc|trk-cmn-pro|*āt}}
+{{top3}}
+* Arghu:
+** {{desc|klj|ât}}
+* Oghuz:
+** {{desc|trk-oat|آدْ|tr=ād, ad}}
+*** {{desc|az|ad}}
+*** {{desc|gag|aad|ad}}
+*** {{desctree|ota|آد|tr=ad}}
+** {{desc|slr|ad}}
+** {{desc|tk|āt}} (ād-)
+* Karluk:
+** {{desc|xqa|ااتْ|tr=āt}}
+*** {{desc|chg|آت|tr=at}}
+**** {{desc|uz|ot}}
+**** {{desc|ug|ئات}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|ат}}
+*** {{desc|tt|ат}}
+** West Kipchak:
+*** {{desc|crh|at}}
+*** {{desc|kum|ат}}
+*** {{desc|krc|ат}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|ат}}
+**** {{desc|kk|ат}}
+**** {{desc|nog|ат}}
+*** Kyrgyz-Kipchak:
+**** {{desc|alt|ат}}
+**** {{desc|ky|ат}}
+* Siberian:
+** {{desc|otk|𐱃|ts=at|𐰀𐱃|ts2=at}}
+** {{desc|oui|𐽰𐽰𐾀|tr=at}}
+*** {{desc|ybe|at}}
+** North Siberian:
+*** {{desc|dlg|аат|tr=aat}}
+*** {{desc|sah|аат}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|ат|tr=at}}
+**** {{desc|tyv|ат}}
+*** Yeniseian:
+**** {{desc|clw|ат|tr=at}}
+**** {{desc|kjh|ат}}
+**** {{desc|cjs|ат|tr=at}}
+*** {{desc|atv|ат}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=32-33}}
+* {{R:trk:ESTJa|vol=I|page=198-199}}
+* {{R:trk:VEWT|page=30-31}}
+
+{{top|trk-pro|Language}}

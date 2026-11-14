@@ -1,0 +1,65 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[stand]]
+# {{lb|trk-pro|predicative}} to [[be]], ''generic copula''
+
+====Descendants====
+* Oghur:
+** {{desc|cv|тӑр}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|turmaq}}
+* {{desc|trk-ogz-pro|*dur-}}
+** West Oghuz:
+*** {{desc|trk-oat|طورمق|tr=durmaq|در|tr2=-dur, -dür}}
+**** {{desc|az|durmaq|-dir}}
+**** {{desc|gag|durmaa|-dir}}
+**** {{desc|ota|طورمق|tr=durmak}}
+***** {{desc|tr|durmak|-dir}}
+** East Oghuz:
+*** {{desc|tk|durmak}}
+* Karluk:
+** {{desc|ug|تۇرماق}}
+** {{desc|uz|turmoq}}
+* Kipchak:
+** {{desc|trk-kbu}}
+*** {{desc|ba|тороу}}
+*** {{desc|tt|туру}}
+** {{desc|trk-kcu}}
+*** {{desc|crh|turmaq}}
+*** {{desc|krc|турургъа}}
+*** {{desc|kum|турмакъ}}
+** {{desc|trk-kno}}
+*** {{desc|kaa|tr=tur-}}
+*** {{desc|kk|тұру}}
+*** {{desc|nog|турув}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|туруу}}
+*** {{desc|alt|турар}}
+* {{desc|trk-sib}}
+** {{desc|otk}}
+*** {{desc|otk-ork|𐱃𐰆𐰺|ts=tur-}}
+*** {{desc|oui|𐾀𐽳𐽾𐽹𐽰𐽲|ts=tur-}}
+**** {{desc|ybe|tur-}}
+** North Siberian:
+*** {{desc|dlg|тур|tr=tur}}
+*** {{desc|sah|тур}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|турар|тур}}
+*** Yenisei:
+**** {{desc|kjh|турарға}}
+**** {{desc|cjs|турарға|tr=turarğa}}
+*** {{desc|atv|турарга}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=529-530}}
+* {{R:trk:VEWT|page=500}}
+* {{R:trk:ESTJa|page=296-301|vol=3}}

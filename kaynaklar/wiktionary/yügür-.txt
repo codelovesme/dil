@@ -1,0 +1,52 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[run]] fast
+
+====Descendants====
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* {{desc|trk-ogz}}
+** {{desc|trk-oat|یوكورمك |tr=yügürmek|یویورمك |tr2=yüyürmek}}
+*** {{desc|az|yüyürmək}}
+*** {{desc|ota|یوكورمك|tr=yüğürmek}}
+**** {{desc|tr|q=dialectal|yüğürmek|yüğrümek|yüyürmek}}
+*** {{desc|slr|yükkürgüsi}}
+*** {{desc|tk|ýüwürmek}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|йүгереү}}
+*** {{desc|tt|йөгерергә}}
+** {{desc|trk-kcu}}
+*** {{desc|qwm|yugur|ts=yügür}} {{q|Codex Cumanicus}}
+** {{desc|trk-kno}}
+*** {{desc|kk|жүгіру}}
+*** {{desc|nog|ювырув}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|жүгүрүү
+}}
+*** {{desc|alt|јӱгӱрер}}
+* Karluk:
+** {{desc|xqa|یُكُرْماكْ|tr=yugurmʼk|ts=yügürmek}}
+*** {{desc|chg|یوکورماک|tr=yügürmäk}}
+**** {{desc|ug|يۈگۈرمەك }}
+**** {{desc|uz|yugurmoq}}
+* {{desc|trk-sib}}
+** {{desc|oui|ts=yügür-}}
+** {{desc|trk-nsb}}
+*** {{desc|sah|сүүр}}
+** {{desc|trk-ssb}}
+*** {{desc|atv|чӱгӱрерге}}
+*** {{desc|clw|чӱгӱрӓйғе}}
+*** Sayan:
+**** {{desc|tyv|чүгүрер}}
+*** Yenisei:
+**** {{desc|kjh|чӱгӱрерге}}
+**** {{desc|cjs|чӱгӱрерге}}
+{{bottom}}
+
+===Further reading===
+* {{R:trk:Clauson|page=914|yügür-}}

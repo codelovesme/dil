@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 2/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ◐3**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 2/7 · tanık 3 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0 · denetim ✓1 ◐2**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
@@ -31,10 +31,14 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **sod** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **sod** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT III 112 (Clauson, so:d-) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **sod** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — TT III 112 (Clauson, so:d-); Wilkens 2021, madde sod- (anlam eşleşmedi) | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **sod** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT II 295; III 439 (Clauson, so:d-) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
+
+Notlar:
+
+- 8.–14. yy, Eski Türkçe: Wilkens'te biçim var, Türkçe açıklamada bu kavram geçmiyor.
 
 ## Yaşayan diller ve ağızlar
 
@@ -72,4 +76,5 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 2 tanık
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 1 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

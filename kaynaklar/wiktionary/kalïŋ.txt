@@ -1,0 +1,60 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[thick]]
+#: {{syn|trk-pro|*koyug|*yogun}}
+#: {{ant|trk-pro|*yīnčge}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|хулӑн}}
+* {{desc|trk-cmn-pro|*kalïŋ}}
+{{top3}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|qalın}}
+**** {{desctree|ota|قالن|tr=kalın}}
+** East Oghuz:
+*** {{desc|slr|xaluñ}}
+*** {{desc|tk|galyň}}
+* Karluk:
+** {{desc|ug|قېلىن}}
+** {{desc|uz|qalin}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|qalın}}
+*** {{desc|krc|къалын}}
+*** {{desc|kum|къалын}}
+** North Kipchak:
+*** {{desc|ba|ҡалын}}
+*** {{desc|tt|калым}}
+**** {{desc|ru|калым|t=bride price|bor=1}}
+** South Kipchak:
+*** {{desc|kaa|қалың}}
+*** {{desc|kk|қалың}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|калың}}
+*** {{desc|alt|калыҥ}}
+* Siberian:
+** {{desc|oui}}
+*** {{desc|ybe|qalïn}}
+** North Siberian:
+*** {{desc|sah|халыҥ}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|clw|қалын|tr=qalın}}
+**** {{desc|kjh|халын}}
+*** {{desc|atv|калынъ}}
+{{bottom}}
+
+====Further reading====
+* http://turkic.elegantlexicon.com/turkforms.php?form=thick
+
+===References===
+* {{R:trk:VEWT|page=226}}
+* {{R:trk:ESTJa|page=238-239|vol=5}}

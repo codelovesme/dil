@@ -1,0 +1,106 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{ety|trk-pro|:af|*sārᶻï-<alt:*sāŕ(ï)->|*-g}}
+Derivation from {{m|trk-pro|*sāŕ(ï)-|t=to become white, yellow}}<ref>[[w:Talât Tekin|Tekin, Talât]]. “Once More Zetacism and Sigmatism.” Central Asiatic Journal, vol. 23, no. 1/2, Harrassowitz Verlag, 1979, page 129. [http://www.jstor.org/stable/41927254]</ref> {{suffix|trk-pro||*-g|alt2=*-g}}. Oghur, Khalaj and Turkmen forms point to {{m|trk-pro||*ā}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[yellow]], [[white]]
+
+====Derived terms====
+* {{l|trk-pro|*sārïglïk|t=[[jaundice]]}}
+* {{l|trk-pro|*sārgar-|t=to turn [[yellow]]}}
+
+====Descendants====
+* {{desc|trk-ogr|*si̯arïγ|t=white, yellow}}
+** {{desc|xgn-pro|*sïra|bor=1}} {{see desc}}
+** {{desc|zkz|*šar(ï)}}{{?}}
+*** {{desc|zkz|*šar(ï)-oγur}}
+**** {{desc|grc|Σαράγουροι|t={{w|Saragurs}}|bor=1}}
+**** {{desc|syc|ܣܪܘܪܓܘܪ|tr=srwrγwr|bor=1|t={{w|Saragurs}}}}
+**** {{desc|ltc|蘇路羯|bor=1|unc=1|tr=suo luo{{sup|H}} kɨɐt̚|t={{w|Saragurs|Sulujie peoples}}}}
+*** {{desc|zkz|der=1|*šar(ï)-kel}}
+**** {{desc|ru|Саркел|t={{w|Sarkel|Sharkel}}, name of a fortress complex in Southern Russia|bor=1}}
+** {{desc|trk-bul-pro|*šar(u)g}}
+*** {{desc|ohu|bor=1|ſaroģ|ſarga|tr1=šārog|tr2=šārgå}}
+**** {{desc|hu|sárga|sárog|qq2=dialectal}}
+*** {{desc|xbo-dan|alt=*?}}
+**** {{desc|sla-pro|*šarъ|t=color|bor=1}}
+***** {{desc|cu|шаръ}}
+****** {{desc|bg|шар}}
+******* {{desc|bg|ша́рен|t=variegated|der=1}}
+*** {{desc|xbo-vol|*šåru}}
+**** Late {{desc|xbo-vol|*šårï}}
+***** {{desc|cv-old|šårı̈̆}}
+****** {{desc|cv-mid|šorı̈̆}}
+******* {{desc|cv-ana|шурӑ}}
+******* {{desc|cv-vir|шорӑ}}
+* {{desc|trk-cmn-pro|*sārïg}}
+{{top3}}
+* {{desc|klj-arg}}
+** {{desc|klj|sâruğ}}
+* {{desc|trk-ogz-pro|*sārïg}}
+** {{desc|trk-oat|}}
+*** {{desc|az|sarı}}
+*** {{desc|gag|sarı}}
+*** {{desctree|ota|صاری|tr=sarı}}
+** {{desc|slr|sarı}}
+** {{desc|tk|sāry}}
+* Karluk:
+** {{desc|xqa|سَرِغْ|tr=sarïɣ}}
+*** {{desc|xqa|سارِغْ جُوُتْ|der=1|tr=sa:rïg çüwüt|t=yellow paint, dye}}
+*** {{desc|zkh|tr=ṣarïɣ}}
+**** {{desc|chg|tr=sarïɣ|3=|tr2=sarïq}}
+***** {{desc|uz|sariq}}
+***** {{desc|ug|سېرىق}}
+* Kipchak:
+** {{desc|qwm|tr=sarï}}
+** {{desc|qwm-mam|tr=ṣārū|sc=Arab|3=|tr2=ṣārï̄|sc2=Arab}}
+** West Kipchak:
+*** {{desc|crh|sarı}}
+*** {{desc|krc|сары}}
+*** {{desc|kum|сари}}
+*** {{desc|kdr||tr=sarı}}
+** North Kipchak:
+*** {{desc|ba|һары}}
+*** {{desc|tt|сары}}
+**** {{desc|cv|сарӑ|bor=1}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|сары}}
+**** {{desc|kaa|sarı}}
+**** {{desc|nog|сары}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|сары}}
+**** {{desc|alt|сары}}
+* Siberian:
+** {{desc|otk-ork|𐰽𐰺𐰍|tr=sarïg}}
+** {{desctree|oui|𐽻𐽰𐽾𐽶𐽲|ts=sarïġ⁠}}
+** North Siberian:
+*** {{desc|sah|араҕас|арыы|t2=butter}}
+*** {{desc|dlg|арыы|t=butter}}
+** South Siberian:
+*** Yenisei Turkic:
+**** {{desc|clw|сарығ|tr=sarïɣ}}
+**** {{desc|kjh|сарығ}}
+**** {{desc|cjs|сарыг}}
+*** Sayan Turkic:
+**** {{desc|kim|сарығ}}
+**** {{desc|tyv|сарыг}}
+*** {{desc|atv|сары}}
+* {{desc|ru|саранча|сарыч|bor=1|der=1}}
+{{bottom}}
+
+====See also====
+{{table:colors/trk-pro}}
+
+===References===
+{{reflist}}
+* {{R:cv:Agyagasi:2019|page=210, 225}}
+* {{R:trk:Clauson|entry=sarığ|page=848}}
+* {{R:trk:WOT|vol=2|page=691-695}}
+
+{{C|trk-pro|Colors}}

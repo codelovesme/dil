@@ -1,0 +1,62 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+From {{suf|trk-pro|*täŋ|*irᶻ|t1=lake}}<ref>{{R:tr:Nişanyan|deniz}}</ref><ref>{{R:tr:OTK|page=1159|deniz}}</ref>
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# large body of water
+# [[sea]]
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Descendants====
+* Oghur:
+** {{desc|hu|tenger|bor=1}}
+*** {{desc|rue|тенґериця|bor=1|t=corn}}
+{{top2}}
+* Oghuz:
+** {{desc|tk|deňiz}}
+** {{desc|trk-oat|دَكِزْ|tr=däŋiz}}
+*** {{desc|az|dəniz}}
+*** {{desc|ota|دكز|tr=deñiz|alt=دڭز}}
+**** {{desc|gag|deniz}}
+**** {{desc|tr|deniz}}
+* Karluk:
+** {{desc|chg|تینگیز|tr=teňiz}}
+*** {{desc|uz|dengiz}}
+*** {{desc|ug|دېڭىز}}
+**** {{desc|slr|dengiz|bor=1}} (Ili Salar)
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|диңгеҙ}}
+*** {{desc|tt|диңгез}}
+*** {{desc|cv|тинӗс|bor=1}}
+** West Kipchak:
+*** {{desc|crh|deñiz}}
+*** {{desc|kum|денгиз}}
+*** {{desc|krc|тенгиз}}
+** East Kipchak
+*** {{desc|ky|деңиз}}
+*** {{desc|alt|теҥис}}
+** South Kipchak
+*** {{desc|kaa|teńiz}}
+*** {{desc|kk|теңіз}}
+*** {{desc|nog|денъиз}}
+* Siberian
+** {{desc|atv|тенъис}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:trk:Clauson|page=527|teŋiz}}
+* {{R:trk:Räsänen|page=474}}
+* {{R:TMN|page=312}}
+
+{{top|trk-pro|Water|Landforms}}

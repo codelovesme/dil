@@ -18,10 +18,10 @@ taniklar:
     atif: clauson1972
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - {dil: aze, bicim: eyi, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {atif: 'baskakov1973, radova-karanastas2016; Apertium gag sözlüğünde var', bicim: iyi, dil: gag, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016; apertium-gag.gag.lexc: sözlükte var', bicim: iyi, dil: gag, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'rassadin1971, rassadin2005', bicim: ekki, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 17564 kez; UD derleminde baş biçim; ASJP TURKISH: iyi', bicim: iyi, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var; Tatoeba''da 2 kez', bicim: eki, dil: tyv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: эки, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; apertium-tur.tur.lexc: sözlükte var; tatoeba tur_sentences: 17564 kez; UD_Turkish-BOUN/IMST: baş biçim; ASJP TURKISH: iyi', bicim: iyi, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; apertium-tyv.tyv.lexc: sözlükte var; tatoeba tyv_sentences: 2 kez', bicim: eki, dil: tyv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: эки, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yakşı (yakşı)

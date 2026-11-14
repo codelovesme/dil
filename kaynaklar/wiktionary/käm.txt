@@ -1,0 +1,106 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology 1===
+{{ety|trk-pro|id=who}}
+Derived from the interrogative particle {{m|trk-pro|*ka-}}. {{rfve|trk-pro}}
+
+====Pronoun====
+{{head|trk-pro|pronoun|cat2=interrogative pronouns}}<ref>{{R:trk:Clauson|page=720-721}}</ref><ref>{{R:trk:VEWT|page=271}}</ref><ref>{{R:trk:ESTJa|page=67-68, 191-192|vol=5}}</ref>
+
+# [[who]]
+
+=====Declension=====
+{{trk-pro-decl-pron|*kem|*kemni|*kemniŋ|*kemke|*kemte|*kemden|*kemgerü|*kem bile|*kemče}}
+
+=====Descendants=====
+* Oghur:
+** Volga {{desc|xbo|كم}}<ref>{{R:xbo:Erdal1993|page=69-70}}</ref>
+*** {{desc|cv|кам}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|kêm}}
+* {{desc|trk-ogz-pro|*kim}}
+** West Oghuz:
+*** {{desctree|trk-oat|كم|tr=kim}}
+** East Oghuz:
+*** {{desc|tk|kim}}
+*** {{desc|slr|kem}}
+* Karluk:
+** {{desc|xqa|كِمْ|tr=kim}}
+*** {{desc|uz|kim}}
+**** {{desc|tg|ким-|bor=1}}
+*** {{desc|ug|كىم}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|kim}}
+*** {{desc|krc|ким}}
+*** {{desc|kum|ким}}
+*** {{desc|kdr|kim}}
+*** {{desc|uum|ким|tr=kim}}
+** North Kipchak:
+*** {{desc|ba|кем}}
+*** {{desc|tt|кем}}
+** South Kipchak:
+*** {{desc|kk|кім}}
+*** {{desc|kaa|ким|tr=kim}}
+*** {{desc|nog|ким|tr=kim}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|ким}}
+*** {{desc|alt|кем}}
+* Siberian
+** Old Turkic:
+*** {{desc|otk|𐰚𐰢|tr=kem}}
+*** {{desc|oui|𐽷𐽶𐽹}}
+**** {{desc|ybe|kïm}}
+** North Siberian
+*** {{desc|dlg|ким|tr=kim}}
+*** {{desc|sah|ким}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|ӄум|tr=qum}}
+**** {{desc|tyv|кым}}
+****
+*** Yenisei:
+**** {{desc|kjh|кем}}
+**** {{desc|cjs|кем|tr=kem}}
+*** {{desc|atv|кем}}
+{{bottom}}
+
+===Etymology 2===
+{{ety|trk-pro|id=illness}}
+Similar to {{cog|xgn-pro|*gem|t=defect, illness}}.<ref>{{R:trk:Clauson|page=720}}</ref><ref>{{R:trk:VEWT|page=250}}</ref><ref>{{R:trk:ESTJa|page=34-35|vol=5}}</ref>
+
+====Noun====
+{{head|trk-pro|noun}}
+
+# [[illness]]
+
+=====Declension=====
+{{trk-pro-decl-noun|e}}
+
+=====Descendants=====
+* {{desc|xgn-pro|*gem|bor=1}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|az|kəm}}
+*** {{desc|ota}}
+**** {{desc|tr|kem}}
+** East Oghuz:
+* Kipchak:
+** Kyrgyz-Kipchak:
+*** {{desc|alt|кем}}
+* Karluk:
+** {{desc|xqa|tr=ig-kem|der=1}}
+* Siberian:
+** North Siberian:
+*** {{desc|dlg|кем|tr=kem}}
+*** {{desc|sah|кем}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|кем}}
+
+===References===
+{{reflist}}

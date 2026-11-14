@@ -1,0 +1,64 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{number box|trk-pro|9}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[nine]]
+
+====Derived terms====
+* {{l|trk-pro|*tokurčïn|t=Nine men's morris}}
+
+====Descendants====
+* Oghur
+** {{desc|xbo-vol|طخر|tr=tuxur, tuxır}}
+*** {{desc|cv|тӑххӑр}}
+{{top3}}
+*Arghu:
+**{{desc|klj|toqquz}}
+*Oghuz:
+** {{desc|trk-oat|}}
+***{{desc|az|doqquz}}
+***{{desc|ota|طقوز|tr=dokuz}}
+****{{desc|gag|dokuz}}
+****{{desc|tr|dokuz}}
+**Eastern:
+***{{desc|slr|doqos|doqus}}
+***{{desc|tk|dokuz}}
+*Karluk:
+** {{desc|xqa|تُقُوزْ|tr=toquz}}
+*** {{desc|chg|توقوز|ts=toquz}}
+****{{desc|ug|توققۇز}}
+****{{desc|uz|toʻqqiz}}
+*Kipchak:
+**Western Kipchak:
+***{{desc|crh|докъуз|tr=doquz|doquz}}
+***{{desc|krc|тогъуз}}
+***{{desc|kdr|toyuz}}
+**Kipchak-Nogai:
+***{{desc|kaa|тоғиз|tr=toğiz}}
+***{{desc|kk|тоғыз}}
+***{{desc|nog|тогыз}}
+**Northern Kipchak:
+***{{desc|ba|туғыҙ}}
+***{{desc|tt|тугыз}}  {{l|tt|tuğız}}
+**Eastern Kipchak:
+***{{desc|ky|тогуз}}
+***{{desc|alt|тогус}}
+* {{desc|trk-sib}}
+**{{desc|otk|𐱃𐰸𐰆𐰕|ts=toquz}}
+** {{desctree|oui|𐾀𐽳𐽲𐽳𐽴|ts=tokuz}}
+** South Siberian:
+***Yenisei Turkic:
+****{{desc|kjh|тоғыс}}
+****{{desc|cjs|тоғус|tr=toğus}}
+***Sayan Turkic:
+****{{desc|kim|тоъһос|tr=toh'os}}
+****{{desc|tyv|тос}}
+***{{desc|atv|тогыс|тогус|токус}}
+**North Siberian:
+***{{desc|dlg|тогус|tr=togus}}
+***{{desc|sah|тоҕус}}
+{{bottom}}

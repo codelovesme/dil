@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 2/7 · tanık 14 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓4 ◐10**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 2/7 · tanık 14 (kaynaklı %100) · kaynak 7 · yabancı kayıt 0 · denetim ✓6 ◐8**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -31,8 +31,8 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **boğuz** |  | Tonyukuk yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — T 8 (Clauson, boğuz) | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **boğuz** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT V 26; H I 187 (Clauson, boğuz) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **boğuz** |  | Tonyukuk yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — T 8 (Clauson, boğuz); Wilkens 2021, madde boguz | ✓ doğrulandı |
+| 8.–14. yy | Eski Türkçe |  | **boğuz** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — TT V 26; H I 187 (Clauson, boğuz); Wilkens 2021, madde boguz | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **boğuz** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 364 (Clauson, boğuz) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **boğuz** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 991, 1312, 2096 (Clauson, boğuz) | ◐ tek kaynak |
 
@@ -79,6 +79,7 @@ Notlar:
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 10 tanık
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 4 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 4 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 2 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

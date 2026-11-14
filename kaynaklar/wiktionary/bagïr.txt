@@ -1,0 +1,68 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[liver]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Derived terms====
+* {{l|trk-pro|*bagïrdak}}
+* {{l|trk-pro|*bagïrsuk}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пӗвер}}
+* Common Turkic:
+{{top3}}
+* {{desc|trk-ogz-pro|*bagïr}}
+** {{desc|trk-oat|}}
+*** {{desc|az|bağır}}
+*** {{desc|ota|باغر|tr=bağır}}
+**** {{desc|tr|bağır|t=breast, bosom}}
+** {{desc|slr|bağır}}
+** {{desc|tk|bagyr}}
+* Karluk:
+** {{desc|ug|بېغىر}}
+** {{desc|uz|bagʻir}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|бауыр|бәғер}}
+*** {{desc|tt|бавыр|бәгырь}}
+** West Kipchak:
+*** {{desc|crh|bağır}}
+*** {{desc|krc|баур|бауур}}
+*** {{desc|kum|бавур}}
+** South Kipchak:
+*** {{desc|nog|бавыр}}
+*** {{desc|kk|бауыр}}
+** East Kipchak:
+*** {{desc|ky|боор}}
+*** {{desc|alt|буур}}
+* Siberian:
+** {{desctree|oui|𐽼𐽰𐽲𐽶𐽾<ts:baġïr>}}
+** North Siberian:
+*** {{desc|dlg|быар|tr=bıar}}
+*** {{desc|sah|быар}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|баар}}
+*** Yenisei:
+**** {{desc|kjh|паар|tr=paar}}
+*** {{desc|atv|багыр|паар}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:trk:Clauson|page=317}}
+* {{R:trk:VEWT|page=55}}
+* {{R:trk:ESTJa|page=17-19|vol=1}}
+* {{R:trk:SIGTJa|page=278}}
+
+{{c|trk-pro|Organs}}

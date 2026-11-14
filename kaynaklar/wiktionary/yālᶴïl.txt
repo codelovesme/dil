@@ -1,0 +1,40 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Derived from {{m|trk-pro|*yāĺ|t=green, vegetable}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[green]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫулҫӑ|t=leaf}}
+{{top3}}
+* Arghu:
+** {{desc|klj|yâşıl}}
+* Oghuz:
+** West Oghuz:
+*** {{desctree|trk-oat|یاشل|tr=yaşıl}}
+** East Oghuz:
+*** {{desc|tk|ýaşyl}}
+* {{desctree|qwm|یاشل|tr=yaşil}}
+* Karluk:
+** {{desctree|xqa|یَشِلْ|tr=yašïl}}
+* Siberian:
+** {{desc|oui|𐽶𐽰𐽿𐽶𐾁|ts=yašïl|qq=rare}}
+** North Siberian:
+*** {{desc|sah|саһыл}}
+** South Siberian:
+*** Sayan Turkic:
+*** Yenisei Turkic:
+**** {{desc|cjs|чажыл}}
+*** {{desc|atv|чажыл}}
+{{bottom}}
+
+====See also====
+{{table:colors/trk-pro}}
+
+{{topics|trk-pro|Colors}}

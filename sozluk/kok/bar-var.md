@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 4/7 · tanık 36 (kaynaklı %100) · kaynak 7 · yabancı kayıt 1 · denetim ✓15 ◑4 ◐17**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 4/7 · tanık 36 (kaynaklı %100) · kaynak 8 · yabancı kayıt 1 · denetim ✓17 ◑5 ◐14**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
@@ -31,13 +31,13 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **bar** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — I S 9; II N 7; T 10 (Clauson, ba:r) | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **bar** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Suci 5; PP 6; USp. 1 (Clauson, ba:r) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **bar** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — I S 9; II N 7; T 10 (Clauson, ba:r); Wilkens 2021, madde bar | ✓ doğrulandı |
+| 8.–14. yy | Eski Türkçe |  | **bar** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — Suci 5; PP 6; USp. 1 (Clauson, ba:r); Wilkens 2021, madde bar | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **baar** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 147 (Clauson, ba:r) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **bar** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 15, 56, 195 (Clauson, ba:r) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **bar** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 10 (Clauson, ba:r) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **bar** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 90 (Clauson, ba:r) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **var, var** | وار | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **var, var** | وار | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/bār; sayfanın kaynakları: yok | ◑ kısmen |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **baar** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 18, 2; 56, 9 (Clauson, ba:r) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **bar** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 126 (Clauson, ba:r) | ◐ tek kaynak |
 
@@ -48,7 +48,7 @@ Notlar:
 - 8. yy, Eski Türkçe: özüm kutım bar üçün 'kendimde kut olduğu için'.
 - 8.–14. yy, Eski Türkçe: bar yok 'zengin ve yoksul'; 'ölürsem' anlamında bar yok bol-.
 - 11. yy, Karahanlıca: Kâşgarlı Arapça laysa'nın ve Türkçe yook'un karşıtı diye tanımlar.
-- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (var, vār → var, var).
+- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (var, vār → var, var). Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Azerbaycan Türkçesi: 'evet' karşılığı olarak da baar.
 - 16.–18. yy, Harezm Türkçesi ve Çağatayca: Abuşka var ile açıklar.
 
@@ -91,5 +91,6 @@ Notlar:
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 19 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 8 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 8 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 2 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

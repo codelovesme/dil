@@ -1,0 +1,78 @@
+{{reconstructed}}
+{{see also|Reconstruction:Proto-Turkic/ot|Reconstruction:Proto-Turkic/ȫt}}
+
+==Proto-Turkic==
+
+===Reconstruction===
+{{cog|klj|hôt}} exhibits an initial h-.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[fire]] (as an element)
+# [[bonfire]]
+
+====Declension====
+{{trk-pro-decl-noun|o}}
+
+====Derived terms====
+* {{l|trk-pro|*ōta-}}
+** {{l|trk-pro|*ōtag||fireplace, tent, room}} {{see desc}}
+* {{l|trk-pro|*ōtčak}}, {{l|trk-pro|*ōtčuk||hearth}}
+* {{l|trk-pro|*ōtïn||firewood}}
+** {{desc|tr|odun|}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|вут}}
+*** {{desc|cv-ana|вут}}
+**** {{desc|cv-vir|вот}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|hôt}}
+* Oghuz:
+** {{desc|trk-oat}}
+*** {{desc|az|od}}
+*** {{desc|ota|اود|tr=od}}
+**** {{desc|tr|od}}
+***** {{desc|tr|der=1|odun|t=wood}}
+** {{desc|slr|ot}}
+*** {{desc|slr|odın|der=1|t=wood}}
+** {{desc|tk|ōt}}
+* Karluk:
+** {{desc|xqa|}}
+*** {{desc|zkh|}}
+**** {{desctree|chg|اوت|tr=ōt}}
+* Kipchak:
+** Kipchak-Bulgar:
+*** {{desc|ba|ут}}
+*** {{desc|tt|ут}}
+** Kipchak-Cuman:
+*** {{desc|krc|от}}
+*** {{desc|kum|от}}
+** South Kipchak:
+*** Kipchak-Nogai:
+**** {{desc|kaa|ot}}
+**** {{desc|kk|от}}
+**** {{desc|nog|от}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|от}}
+**** {{desc|alt|от}}
+* Siberian:
+** {{desc|otk|𐰆𐱃|tr=ot}}
+** {{desctree|oui|𐽰𐽳𐽳𐾀|ts=ot, ōt}}
+** North Siberian:
+*** {{desc|sah|уот}}
+**** {{desc|sah|отун|der=1}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|от}}
+**** {{desc|tyv|от}}
+*** Yenisei:
+**** {{desc|cjs|от}}
+**** {{desc|kjh|от}}
+*** {{desc|atv|от}}
+{{bottom}}
+
+{{top|trk-pro|Fire}}

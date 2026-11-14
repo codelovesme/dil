@@ -20,20 +20,20 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
-  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: seben, dil: bak, kaynak: savelyev-turkic; apertium, yazi: себен, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
-  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: şăna, dil: chv, kaynak: savelyev-turkic; apertium, yazi: шӑна, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
-  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: çibin, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var', bicim: seben, dil: bak, kaynak: savelyev-turkic; apertium, yazi: себен, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var', bicim: şăna, dil: chv, kaynak: savelyev-turkic; apertium, yazi: шӑна, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var', bicim: çibin, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'tenisev1989, sujuncev1965', bicim: çibin, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: baskakov1974, bicim: cibin, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1958, baskakov1967', bicim: şıbın, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var', bicim: şıbın, dil: kaz, kaynak: savelyev-turkic; apertium, yazi: шыбын, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
-  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: çımın, dil: kir, kaynak: savelyev-turkic; apertium, yazi: чымын, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; apertium-kaz.kaz.lexc: sözlükte var', bicim: şıbın, dil: kaz, kaynak: savelyev-turkic; apertium, yazi: шыбын, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; apertium-kir.kir.lexc: sözlükte var', bicim: çımın, dil: kir, kaynak: savelyev-turkic; apertium, yazi: чымын, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: cibin, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var', bicim: şıbın, dil: nog, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; apertium-nog.nog.lexc: sözlükte var', bicim: şıbın, dil: nog, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'malov1957, tenisev1966', bicim: çivin, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: baskakov1947, bicim: çımın, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 23 kez', bicim: çeben, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, yazi: чебен, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
-  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 2 kez; UD derleminde baş biçim, bicim: çivin, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; apertium-tat.tat.lexc: sözlükte var; tatoeba tat_sentences: 23 kez', bicim: çeben, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, yazi: чебен, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'nadzip1968; apertium-uig.uig.lexc: sözlükte var; tatoeba uig_sentences: 2 kez; UD_Uyghur-UDT: baş biçim', bicim: çivin, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   gag: yerine sinek (siñek)

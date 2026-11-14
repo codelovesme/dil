@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 4/7 · tanık 28 (kaynaklı %100) · kaynak 10 · yabancı kayıt 4 · denetim ✓11 ◐17**
+**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 4/7 · tanık 28 (kaynaklı %100) · kaynak 10 · yabancı kayıt 4 · denetim ✓10 ◐18**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
@@ -37,7 +37,7 @@ Tanığı olmayan diller: Çuvaşça, Balkan Gagavuz Türkçesi, Irak Türkmence
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yüz** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kahire | **yüz** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 93 (Clauson, 1 yüz-) | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **yüz** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 89; Nehcü'l-Feradis 287 (Clauson, 1 yüz-) | ◐ tek kaynak |
-| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **yüz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — Melioranskiy 34, 14 (Clauson, 1 yüz-); Apertium aze sözlüğünde var; Tatoeba'da 2 kez; ASJP AZERBAIJANI: izmek | ✓ doğrulandı |
+| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **yüz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 34, 14 (Clauson, 1 yüz-) | ◐ tek kaynak |
 | 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **yüz** |  | et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tuhfe 25b 12 (Clauson, 1 yüz-) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
@@ -76,10 +76,10 @@ Tanığı olmayan diller: Çuvaşça, Balkan Gagavuz Türkçesi, Irak Türkmence
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 22 tanık
-- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 11 tanık
-- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 6 tanık
-- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 6 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 10 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 6 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 5 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 5 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 5 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

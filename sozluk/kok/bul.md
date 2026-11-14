@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 5/7 · tanık 16 (kaynaklı %100) · kaynak 8 · yabancı kayıt 2 · denetim ✓3 ◐13**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 5/7 · tanık 16 (kaynaklı %100) · kaynak 9 · yabancı kayıt 2 · denetim ✓6 ◐10**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
@@ -31,9 +31,9 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **bul** |  | Tonyukuk yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — T 23 (Clauson, bul-) | ◐ tek kaynak |
-| 8. yy | Eski Türkçe | Orhon | **bul** |  | Kül Tigin yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — I E 30-31 (Clauson, bul-) | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **bul** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — U II 36; PP 10 (Clauson, bul-) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **bul** |  | Tonyukuk yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — T 23 (Clauson, bul-); Wilkens 2021, madde bul- | ✓ doğrulandı |
+| 8. yy | Eski Türkçe | Orhon | **bul** |  | Kül Tigin yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — I E 30-31 (Clauson, bul-); Wilkens 2021, madde bul- | ✓ doğrulandı |
+| 8.–14. yy | Eski Türkçe |  | **bul** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — U II 36; PP 10 (Clauson, bul-); Wilkens 2021, madde bul- | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **bul** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT II 22 (Clauson, bul-) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **bul** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 940, 942 (Clauson, bul-) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **bul** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 8 (Clauson, bul-) | ◐ tek kaynak |
@@ -90,6 +90,7 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 11 tanık
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 5 tanık
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 3 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 2 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

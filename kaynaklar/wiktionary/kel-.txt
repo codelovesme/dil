@@ -1,0 +1,68 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{w|Siberian Turkic|Siberian}} descendants show a variant form with '''"open-e" (*käl)'''. Whether ''*kel'' or ''*käl'' was the original form is unclear.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[come]]
+
+====Conjugation====
+{{trk-cmn-conj-c|kel|e|ü|d}}
+
+====Related terms====
+* {{l|trk-pro|*keltür-|t=to get}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|кил}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|kəlmək}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|gəlmək}}
+*** {{desc|ota|گلمك}}
+**** {{desc|tr|gelmek}}
+**** {{desc|gag|gelmää}}
+** {{desc|tk|gelmek}}
+** {{desc|slr|giğüsi}}
+* Karluk:
+** {{desc|xqa||tr=kel-}}
+*** {{desctree|chg|کیلماک|tr=kelmäk}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|килеү}}
+*** {{desc|tt|килү}}
+** West Kipchak:
+*** {{desc|crh|kelmek}}
+*** {{desc|kum|гелмек|tr=gelmek}}
+*** {{desc|krc|келирге}}
+*** {{desc|kdr||tr=kel-}}
+*** {{desc|uum|тʼелʼмейе}}
+** East Kipchak:
+*** {{desc|ky|келүү}}
+*** {{desc|alt|келер}}
+** South Kipchak:
+*** {{desc|kaa||tr=kel-}}
+*** {{desc|kk|келу}}
+*** {{desc|nog|келуьв}}
+* Siberian:
+** {{desc|otk|𐰚𐰠|tr=kel-}}
+** {{desctree|oui|𐽷𐽰𐾁𐽹𐽰𐽷|tr=kelmek|noalts=1}}
+** North Siberian
+*** {{desc|dlg|кэл}}
+*** {{desc|sah|кэл}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim||tr=kel-}}
+**** {{desc|tyv|келир}}
+*** Yenisei:
+**** {{desc|cjs||tr=kel-}}
+**** {{desc|kjh|килерге}}
+**** {{desc|ybe||tr=kel-}}
+*** {{desc|atv|келерге}}
+{{bottom}}

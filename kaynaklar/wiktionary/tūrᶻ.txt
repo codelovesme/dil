@@ -1,0 +1,78 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{rfe|trk-pro}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[salt]]
+
+====Reconstruction notes====
+Nişanyan and Doerfer postulates that the {{w|Proto-Turkic}} word comes from an earlier '''*tuwuz (*tubuŕ)''', explaining the aberrant forms of {{cog|cv|тӑвар}} and {{cog|mn|давс}}, which is a loanword from [[Turkic]].
+
+====Descendants====
+* Early {{desc|trk-pro|*tubuŕ}} {{?}}
+** {{desc|trk-ogr}}
+*** {{desc|cv|тӑвар}}
+*** Nakh:
+**** {{desc|bbl|დურიჼ|bor=1|unc=1|t=salty}}
+**** {{desc|ce|дуьра|bor=1|unc=1|t=salty}}
+**** {{desc|inh|дира|bor=1|unc=1|t=salty}}
+** Early {{desc|trk-cmn-pro|*tuwuz}} {{?}}
+*** {{desc|xgn-pro|*dabusun|bor=1|unc=1}}
+**** {{desc|mn|ᠳᠠᠪᠤᠰᠤ}}
+**** {{desc|mn-kha|давс}}
+* {{desc|trk-cmn-pro|*tūz}}
+{{top3}}
+* {{desc|klj-arg}}
+** {{desc|klj|tûz}}
+* {{desc|trk-ogz-pro|*duz}}
+** {{desc|trk-oat}}
+*** {{desc|az|duz}}
+*** {{desc|ota|طوز|tr=tuz}}
+**** {{desc|tr|tuz}}
+** {{desc|tk|duz}}
+** {{desc|slr|duz}}
+* {{desc|trk-kar}}
+** {{desc|xqa||}}
+*** {{desc|uz|tuz}}
+*** {{desc|ug|تۇز}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|тоҙ}}
+*** {{desc|tt|тоз}}
+** {{desc|trk-kcu}}
+*** {{desc|crh|туз|tuz}}
+*** {{desc|krc|туз}}
+*** {{desc|kum|туз}}
+** {{desc|trk-kno}}
+*** {{desc|kaa|дуз}}/{{l|kaa|duz}}
+*** {{desc|kk|тұз|дұз}}
+*** {{desc|nog|туз}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|туз}}
+*** {{desc|alt|тус}}
+* {{desc|trk-sib}}
+** {{desc|oui|𐾀𐽳𐽴|tr=tuz}}
+** {{desc|trk-nsb}}
+*** {{desc|dlg|туус|tr=tuus}}
+*** {{desc|sah|туус}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|kim|тус|tr=tus}}
+**** {{desc|tyv|дус}}
+*** Yeniseian:
+**** {{desc|kjh|тус}}
+**** {{desc|cjs|тус|tr=tus}}
+*** {{desc|atv|тус|туз}}
+{{bottom}}
+
+===See also===
+{{table:mines/trk-pro}}
+
+===Further reading===
+* {{R:tr:Nishanyan|tuz}}
+
+{{C|trk-pro|Seasonings}}

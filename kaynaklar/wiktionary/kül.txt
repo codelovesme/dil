@@ -1,0 +1,55 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[ash]]
+
+====Declension====
+{{trk-pro-decl-noun|ö}}
+
+====Descendants====
+* Common Turkic
+** Medieval:
+*** {{desc|otk||tr=kül}}
+*** {{desc|xqa|كُلْ|tr=kül}}
+** Arghu:
+*** {{desc|klj|kül}}
+** Oghuz:
+*** {{desc|az|kül}}
+*** {{desc|tk|kül}}
+*** {{desc|gag|kül}}
+*** {{desc|ota|كول|tr=kül}}
+**** {{desc|tr|kül}}
+*** {{desc|slr|kül}}
+** Karluk:
+*** {{desc|ug|كۈل}}
+*** {{desc|uz|kul}}
+** Kypchak:
+*** North Kypchak:
+**** {{desc|tt|көл}}
+**** {{desc|ba|көл}}
+*** Kypchak-Cuman:
+**** {{desc|crh|kül}}
+**** {{desc|krc|кюл}}
+**** {{desc|kum|кюл}}
+**** {{desc|kdr|kül}}
+**** {{desc|jct|кӱль}}
+*** Kypchak-Nogai:
+**** {{desc|kk|күл}}
+**** {{desc|nog|куьл}}
+**** {{desc|kaa|kúl}}
+***Kyrgyz–Kipchak
+**** {{desc|ky|күл}}
+**** {{desc|alt|кӱл}}
+** Siberian
+*** {{desc|sah|күл}}
+*** {{desc|tyv|хүл}}
+*** {{desc|kjh|кӱл}}
+*** {{desc|atv|кӱл}}
+*** {{desc|cjs|кӱл}}
+* Oghur
+** {{desc|cv|кӗл}}
+
+{{top|trk-pro|Fire}}

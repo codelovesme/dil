@@ -1,0 +1,81 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Sometimes connected with {{m|trk-pro|*yak-|t=to rub, to smear}}, with the both deriving from hypothetical {{m|trk-pro||*yā-}}, supposedly reflected in {{cog|klj|yâmaq|yâ-|t=to churn butter}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[fat]], [[butter]], [[lard]], [[thick]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Alternative reconstructions====
+* {{l|trk-pro|*diāga}} (per Ünal)<ref>{{R:xbo:Ünal|page=303}}</ref>
+
+====Descendants====
+* {{desctree|zh|醍醐|bor=1|unc=1}}
+** {{desc|ja|醍醐|bor=1}}
+** {{desc|ko|제호|bor=1}}
+** {{desc|vi|đề hồ|bor=1}}
+* Oghur:
+** {{desc|trk-bul-pro|}}
+*** {{desc|ady|дагъэ|bor=1|t=fat}}<ref>Tavkul, Ufuk. (2007). Adige (Çerkes) Dilinde Bulgar Türkçesi Alıntı Sözcükler Üzerine.</ref>
+*** {{desc|xbo-vol|}}
+**** {{desc|cv|ҫу|ҫӑв}}
+{{top3}}
+* Arghu:
+** {{desc|klj|yâğ}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|yağ}}
+*** {{desc|ota|یاغ|tr=yağ}}
+**** {{desc|tr|yağ}}
+**** {{desc|gag|yaa}}
+** {{desc|tk|ýag}}
+** {{desc|slr|yağ}}
+* Karluk:
+** {{desc|xqa|ىاغ|tr=yaɣ}}
+*** {{desc|zkh|tr=yaɣ}}
+**** {{desc|chg|یاغ|tr=yaɣ}}
+***** {{desc|uz|yogʻ}}
+***** {{desc|ug|ياغ}}
+* Kipchak:
+** {{desc|qwm|yaɣ}}
+** {{desc|qwm-mam|tr=yaɣ|sc=Arab|3=|tr2=yaɣ|sc2=Arab}}
+** West Kipchak:
+*** {{desc|crh|yağ}}
+*** {{desc|krc|джау}}
+*** {{desc|kdr|jav}}
+*** {{desc|kum|яв}}
+** South Kipchak:
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жов}}
+**** {{desc|alt|јуу}}
+* Siberian:
+** {{desctree|oui|𐽶𐽰𐽲|ts=yaġ}}
+** North Siberian:
+*** {{desc|dlg|һыа|tr=hıa}}
+*** {{desc|sah|сыа}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|чаг}}
+**** {{desc|kim||tr=čaɣ}}
+*** Yenisei Turkic:
+**** {{desc|kjh|чағ}}
+**** {{desc|cjs|чағ|tr=čaɣ}}
+*** {{desc|atv|дьаг}} (Chelkan), {{l|atv|дьу}}, {{l|atv|дьыг}} (Kumandin)
+{{bottom}}
+
+====See also====
+{{table:foods/trk-pro}}
+
+===Further reading===
+{{reflist}}
+* {{R:trk:Clauson|page=895}}
+* {{R:trk:ESTJa|vol=4|page=58}}
+* {{R:SIGTYA|vol=4|page=453}}
+
+{{top|trk-pro|Dairy products}}

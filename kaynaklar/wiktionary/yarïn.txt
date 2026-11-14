@@ -1,0 +1,48 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Unclear whether derived from {{m|trk-pro|*yaru-|t=to shine}} or {{m|trk-pro|*yarï-|t=to shine}}{{suffix|trk-pro||*-n}}. But Old Turkic having yarïn rather than expected *yarun.
+
+Gagauz points to a long vowel.<ref>{{R:gag:trBaskakov|page=254}}</ref> Therefore {{w|Talât Tekin}} (1995) reconstructs it as {{m|trk-pro|*yārïn}} and compare it to {{cog|tyv|даарта}}.<ref>{{R:trk:Tekin1995|page=63}}</ref>
+
+===Adverb===
+{{head|trk-pro|adverb}}
+
+# [[morning]]
+# [[tomorrow]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ыран|t=tomorrow}}
+{{top3}}
+* Oghuz:
+** {{desctree|trk-oat|یارین|tr=yarïn}}
+* Karluk:
+** {{desc|xqa|يَرِنْ|tr=yarïn|t=tomorrow}}
+*** {{desc|chg|tr=yarïn|t=tomorrow}}
+**** {{desc|uz||tr=yarın|t=next year}} (''dialect'')
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba||tr=yarın|t=next year}} (''dialect'')
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|жарын|t=next year}} {{a|kk|dialectal}}
+**** {{desc|kaa|jaryn|t=next year}}
+** East Kipchak:
+*** {{desc|alt|јарын|t=morning}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|oui|𐽶𐽰𐽾𐽳𐽺|ts=yaron}}
+**** {{desc|ybe|jarən|t=next year}}
+** North Siberian:
+*** {{desc|dlg|һарсын|tr=harsïn}}
+*** {{desc|sah|сарсын}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=970|entry=yarın}}
+* {{R:trk:ESTJa|vol=4|page=147-148}}
+
+{{top|trk-pro|Times of day}}

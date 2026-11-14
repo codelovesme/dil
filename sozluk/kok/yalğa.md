@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 3/7 · tanık 32 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓11 ◐21**
+**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 3/7 · tanık 32 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓11 ◑1 ◐20**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -33,14 +33,14 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **yalğa** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yala** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **yala** | یالامق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **yala** | یالامق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/yalga-; sayfanın kaynakları: clauson, dlt, estja, nisanyan, rasanen | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım jala.
-- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle yalamak.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle yalamak. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

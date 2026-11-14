@@ -1,0 +1,128 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{unk|trk-pro}}. Possibly onomatopoeic.
+
+Etymological links to other "{{w|Altaic Languages}}", especially with {{noncog|mn|чулуу|t=stone}} and {{noncog|ko|돌|t=stone}} have been proposed by several authors, giving Chuvash {{m|cv|чул}} as evidence. However, Turkic, Mongolic and Koreanic words for stone are most likely not related.
+
+{{w|Gerhard Doerfer|Doerfer (1965)}} presents the potential problems with problems with {{w|Nicholas Poppe|Poppe's (1927)}} and {{w|Martti Räsänen|Räsänen's (1949)}} proposals that give way to a [[Mongolic]] cognate. He adds at the end that {{noncog|xgn-pro|*čïlaxun}} (''earlier {{m|xgn-pro|*čïlaxun|*čïlapun}}, which would point to a [[verb]] instead'') may simply be an ancient [[loanword]] from [[Proto-Turkic]], rather than a [[cognate]]. {{w|Alexander Vovin|Vovin (2005)}} seconds this, giving that while a relation between [[Mongolic]] '''*čïlapun''' and [[Turkic]] {{m|trk-pro|*tāĺ}} definitely exists, it is most likely a loaning into Mongolic, rather than of shared inheritance.<ref>{{w|Alexander Vovin|Vovin, Alexander}} (2005): "The end of the Altaic controversy" [review of Starostin et al. (2003)]. ''Central Asiatic Journal'' volume 49, issue 1, pages 111-112.</ref>
+* In his book, {{w|cv:Егоров Василий Георгиевич|Yegorov (1964)}} traces back the Chuvash {{m|cv|чул}} to {{noncog|mn-kha|чилагун}} and {{m|mn-kha|чулун}}, {{noncog|bua|шулуун}} and {{noncog|xal|чолун}} (''cf. {{m|xal|теермин чолун|t=millstone}}, as given by his entry'').
+* In their rebuttal against Vovin, {{w|Anna Dybo|Dybo}} and {{w|Georgiy_Starostin|Starostin (2008)}} reposit that basic vocabulary like 'stone' are usually not loaned into other languages, and when they do, it is often the result of heavy contact. Following this line of thought, they suppose that any [[Bulgar]]-[[Proto-Mongolic]] contact would be limited at best, and even so, add that "''this gives [Proto-Mongolic] a very small amount of time to make *čilaɣu out of [Bulgar] *čol or *čul''."<ref>{{w|Anna Dybo|Anna V. Dybo}} & {{w|Georgiy_Starostin|Georgiy S. Starostin}} (2008): "[http://starling.rinet.ru/Texts/compmeth.pdf In defense of the comparative method, or the end of the Vovin controversy.]" ''Aspects of Comparative Linguistics'', volume 3, pages 194-195. RSUH Publishers, Moscow</ref>
+
+{{w|Martti Räsänen|Räsänen (1969)}} also compares [[Koreanic]] '''*tol (< *tal)''' (''cf. {{m|ko|돌|}}''), following {{w|Gustaf_John_Ramstedt|Ramstedt (1952-1957)}}, which is also called into doubt by {{w|Alexander Vovin|Vovin (2005)}}, giving [[accentology|accentological]] and historical data to support his contrary claim.<ref>{{w|Alexander Vovin|Vovin, Alexander}} (2005): "The end of the Altaic controversy" [review of Starostin et al. (2003)]. ''Central Asiatic Journal'' volume 49, issue 1, pages 113.</ref>
+
+Altaicists compare this word with the ones above, but also with {{noncog|tuw-pro|*ʒola|t=stone}} (''cf. {{noncog|evn|дёло}}'') and {{noncog|jpx-pro|*isoi}} (actually '''*(d)isi''', according to the authors; ''cf. {{noncog|ja|石|tr=ishi}}''.) Needless to say, such comparisons are not accepted by mainstream comparative linguistics.
+
+More recently, Werner (2002) and Vajda-Werner (2022) entertain the possibility of Turkic forms being {{bor+|nocat=1|nocap=1|trk-pro|qfa-yen-pro|[[*cewç|*tʲɯˀs]]}}<ref>{{R:yen:Werner:2002|page=312|entry=²tɨˀs'|vol=2}}</ref><ref>{{R:qfa-yen:Vajda-Werner:2022|page=961|entry=*tʲɯˀs|vol=2}}</ref>.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[stone]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*tiāĺ||{{w|Etymological Dictionary of the Altaic Languages|EDAL}}}}
+* {{alt|trk-pro|*t(i)āš||{{w|Alexander Vovin|Vovin}}}}
+
+====Descendants====
+* {{desc|trk-ogr|'''*tāl'''}}<ref>{{R:cv:Agyagasi:2019|page=225}}</ref>
+** {{desc|trk-bul-pro|*ti̯ål}}<ref>{{R:cv:Agyagasi:2019|page=225}}</ref>
+*** {{desc|cv-mid|*čål}}<ref>{{R:cv:Agyagasi:2019|page=225}}</ref>
+**** {{desc|cv|чул}}
+***** {{desc|cv-vir|чол}}
+***** {{desc|cv-ana|чул}}
+** {{desc|xgn-pro|alt=*čïla-|pos=an unknown verb|bor=1|unc=1}} > {{l|xgn-pro|*čïlaxun|t=stone}}
+*** {{desc|mn|чулуу}}
+**** {{desc|kjh-fyu||tr=čʰolo|bor=1}}
+* {{desc|trk-cmn-pro|*tāš}}
+{{top3}}
+* {{desc|klj-arg}}
+** {{desc|klj|tâaş}}
+* {{desc|trk-ogz}}
+** {{desc|trk-oat|}}
+*** {{desc|az|daş}}
+*** {{desc|ota|طاش|tr=taş}}
+**** {{desc|gag|taş}}
+**** {{desc|tr|taş}}
+** {{desc|slr|daş}}
+** {{desc|tk|daş|alt=dāş}}
+* {{desc|trk-kar}}
+** {{desc|xqa|تاشْ|tr=tāš}}
+*** {{desc|zkh|تشْ|tr=taš}}
+**** {{desc|chg|تاش|ts=taš, tāš}}
+***** {{desc|ug|تاش}}
+****** {{desc|ili|taş}}
+***** {{desc|uz|tosh}}
+* {{desc|trk-kip}}
+** {{desc|qwm|tas}} ({{w|Codex Cumanicus}})
+** {{desc|qwm-mam|تاش|طاش|tr=tāš|tr2=ṭāš}}
+** North Kipchak
+*** {{desc|ba|таш}}
+***{{desc|tt|-}}
+**** {{desc|tt|таш|sclang=1}}
+**** {{desc|tt|taş|sclang=1}}
+** {{desc|trk-kcu}}
+*** {{desc|crh|taş}}
+*** {{desc|krc|таш}}
+*** {{desc|kdr|-}}
+**** {{desc|kdr|таш|sclang=1}}
+**** {{desc|kdr|taš|sclang=1}}
+*** {{desc|kum|таш}}
+*** {{desc|uum|таш|даш|tr=taš|tr2=daš}}
+** {{desc|trk-kno}}
+*** {{desc|kaa|-}}
+**** {{desc|kaa|tas|sclang=1}}
+**** {{desc|kaa|тас|sclang=1}}
+*** {{desc|kk|тас}}
+*** {{desc|nog|тас}}
+** {{desc|trk-kkp}}
+***{{desc|ky|таш}}
+***{{desc|alt|таш}}
+* {{desc|trk-sib}}
+** {{desc|otk|𐱃𐱁|tr=taš}}
+** {{desc|otk-kir|𐱄𐰗𐱀|ts=}} (Scribal error, should be '''𐱄𐱀* (t¹š)'''; found in Qara-bulun I (e-65) Inscription [https://bitig.kz/show_big.php?fn=sizes/2894.gif])
+** {{desc|oui|𐾀𐽰𐽿|ts=taš}}
+*** {{desc|ybe|das|dahs}}
+** {{desc|trk-nsb}}
+*** {{desc|dlg|таас|tr=taas}}
+*** {{desc|sah|таас}}
+** {{desc|trk-ssb}}
+*** {{desc|kjh|тас}}
+**** {{desc|kjh-fyu||tr=daš}}
+*** {{desc|cjs|таш}}
+*** {{desc|atv|таш}}
+*** {{desc|kim|даш|tr=daş}}
+*** {{desc|tyv|даш}}
+*** Soyot: {{l|tyv|даш}}
+*** Tuha: {{l|tyv|дааш}}
+** {{desc|xgn-sou|bor=1}}
+*** {{desc|yuy|tash}}
+*** {{desc|xgn-shr}}
+**** {{desc|peh|tasri}}
+**** {{desc|sce|tashi}}
+**** {{desc|kxs|txashi}}
+**** {{desc|mjg}}
+***** {{desc|mjg-mgr|tashi}}
+***** {{desc|mjg-mgl|taashi}}
+{{bottom}}
+
+===See also===
+{{table:mines/trk-pro}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=557|entry=ta:ş}}
+* {{R:TMN|vol=2|page=437}}
+* {{R:tr:Eren|taş|page=396}}
+* {{R:cv:Yegorov|чул|page=326}}
+* {{R:trk:Rasanen|page=466}}
+* {{R:trk:ESTJa|vol=3|page=167}}
+* {{R:tut-pro:SDM|*diāĺ|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=%2fdata%2falt%2fturcet&text_number=++77&root=config}}
+* {{R:SIGTYA|vol=4|page=638}}
+* {{w|Alexander Vovin|Vovin, Alexander}} (2005): "The end of the Altaic controversy" [review of Starostin et al. (2003)]. ''Central Asiatic Journal'' volume 49, issue 1, pages 111-113.
+
+{{top|trk-pro|Rocks}}

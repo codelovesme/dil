@@ -55,6 +55,7 @@ araclar/ceviri_veri.py  Hedef 5: Tatoeba'dan ölçüm seti seçer (ceviri/olcu/)
 araclar/ceviri_olc.py   Hedef 5: chrF ölçümü; --kopya ile çevirisiz taban çizgisi
 araclar/yazim.py    yazıları çalışma yazımına aktarır (Kiril, Latin, Uygur)
 araclar/capraz_dogrula.py  tanıkları Apertium, Tatoeba, UD ve ASJP ile çapraz doğrular (inceleme listesi: sozluk/CAPRAZ.md)
+araclar/surum_kaydet.py  kaynak dosyalarının tarih ve parmak izi kaydı (kaynaklar/surumler.yaml)
 araclar/orgu.py     örgüyü veriden ölçer, ag.yaml'daki boşlukları doldurur (gözden geçirmelerde)
 araclar/yayinla.py  bütün okunur çıktılar: kavram ve kök sayfaları, dizinler, cikti/site.json
 araclar/site.py     statik site (GitHub Pages; .github/workflows/site.yml)
@@ -75,6 +76,7 @@ python3 araclar/puanla.py buyuk --derinlik 3  # tek kavram, ilk 3 seviye
 python3 araclar/puanla.py su --agizlar        # ağızlar dahil
 python3 araclar/puanla.py buyuk --hedef ana   # başka hedef: ortak | ana | nufus
 python3 araclar/puanla.py --karsilastir       # üç hedef yan yana
+python3 araclar/sozluk.py --etki apertium --atif apertium-aze   # bu kaynak hatalıysa etkilenen tanıklar
 python3 araclar/puanla.py --agirliklar --hedef nufus   # bir hedefin ağırlıkları
 
 python3 araclar/sozluk.py                     # sözlük: bütün köklerin kapsamı

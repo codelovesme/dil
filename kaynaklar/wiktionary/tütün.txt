@@ -1,0 +1,62 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+From {{m|trk-pro|*tüt(e)-|t=to smoke}} {{suffix|trk-pro||*n|alt2=*ün}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[tobacco]], [[smoke]]
+
+====Declension====
+{{trk-pro-decl-noun|ö}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|тӗтӗм}}
+* Common Turkic:
+{{top2}}
+* Arghu:
+** {{desc|klj|tütîn}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|tütün}}
+*** {{desctree|ota|توتون|tr=tütün}}
+** {{desc|slr|tüdün}}
+** {{desc|tk|tütün}}
+* Karluk:
+** {{desc|xqa|توتون|tr=tütün}}
+*** {{desctree|chg|توتون}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|төтөн}}
+*** {{desc|tt|төтен}}
+** West Kipchak:
+*** {{desc|crh|tütün|тутюн}}
+*** {{desc|krc|тютюн}}
+*** {{desc|kdr|תשתשנ|тютюнь}}<ref>Smoke in Turkic Database[https://turkic.elegantlexicon.com/turkforms.php?form=smoke]</ref>
+*** {{desc|kum|тютюн}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|түтин}}
+**** {{desc|kk|түтін}}
+**** {{desc|nog|туьтин}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|түтүн}}
+**** {{desc|alt|тӱдӱн}}
+* Siberian:
+** {{desc|oui|𐾀𐽳𐽶𐾀𐽳𐽺}}
+*** {{desc|ybe|tutun}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|kjh|тӱдӱн}}
+**** {{desc|cjs|тӱдӱн|tr=tüdün}}
+*** {{desc|atv|тӱдин}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+{{top|trk-pro|Fire|Plants}}

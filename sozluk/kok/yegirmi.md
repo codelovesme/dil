@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 0/89 · duraklar 2/7 · tanık 28 (kaynaklı %100) · kaynak 5 · yabancı kayıt 0 · denetim ✓17 ◐11**
+**seviye 0 · diller 26/40 · ağızlar 0/89 · duraklar 2/7 · tanık 28 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓18 ◑1 ◐9**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,14 +31,15 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **yegirmi** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Clauson, yegirmi (Yenisey yazıtları: yeti yegirmi 'on yedi') | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **yigirmi** | یگرمی | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **yegirmi** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — Clauson, yegirmi (Yenisey yazıtları: yeti yegirmi 'on yedi'); Wilkens 2021, madde y(e)g(i)rmi | ✓ doğrulandı |
+| 16.–19. yy | Türkiye Türkçesi |  | **yigirmi** | یگرمی | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/yegirmi; sayfanın kaynakları: yok | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 8. yy, Eski Türkçe: Eski sayma: yeti yegirmi = 'yirminin yedisi' = 17.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -78,3 +79,4 @@ Notlar:
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 12 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 3 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 1 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık

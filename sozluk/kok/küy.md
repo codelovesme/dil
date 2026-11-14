@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 18 (kaynaklı %100) · kaynak 5 · yabancı kayıt 3 · denetim ◐18**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 18 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3 · denetim ✓1 ◐17**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -32,7 +32,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **küy** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **küy** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Suv. 603 (Clauson, kün-) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **küy** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — Suv. 603 (Clauson, kün-); Wilkens 2021, madde küy- (anlam eşleşmedi) | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **küy** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 246 (Clauson, kün-) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **küy** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 188, 384, 1024 (Clauson, kün-) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **küy** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 188 (Clauson, kün-) | ◐ tek kaynak |
@@ -47,6 +47,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 Notlar:
 
 - 8.–14. yy, Eski Türkçe: kün- de.
+- 8.–14. yy, Eski Türkçe: Wilkens'te biçim var, Türkçe açıklamada bu kavram geçmiyor.
 - 11. yy, Karahanlıca: Argu ağzında kün- (y > n).
 - 16.–18. yy, Harezm Türkçesi ve Çağatayca: Abuşka yan- ile açıklar.
 
@@ -88,6 +89,7 @@ Notlar:
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 10 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 8 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Ebû Hayyân — Kitâbü'l-İdrâk li-Lisâni'l-Etrâk (1312-13)](../../kaynaklar/KAYNAKLAR.md#kitab-idrak) — 1 tanık

@@ -1,0 +1,60 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[say]], to [[tell]]
+
+====Derived terms====
+* {{alt|trk-pro|*ayït-}} {{q|causative}}
+
+====Descendants====
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* Arghu:
+** {{desc|klj|hâymaq}}
+* Oghuz
+** {{desc|trk-oat|ایمق|tr=aymaq}}
+* Karluk
+** {{desc|xqa|اَیْماقْ|ts=aymaq}}
+*** {{desc|zkh|ایماق|tr=aymaq}}
+* Siberian:
+** {{desc|otk|𐰖}}
+** {{desc|sah|ый|t=to indicate}}
+** South Siberian:
+*** {{desc|atv|айарга}}
+{{bottom}}
+* {{desc|trk-pro|*āyït-|der=1}} {{q|causative}}
+* Oghur:
+** {{desc|cv|ыйт}}
+{{top3}}
+* Oghuz: {{l|xqa|اَیِتْماقْ|tr=ʾayitmʾq|ts=ayïtmaq}}
+** {{desc|az|ayıtmaq}}
+** {{desc|trk-oat|ایتمك|tr=eyitmek, eytmek|ایتمق|tr2=ayıtmaq, aytmaq|ایدمك|tr3=eyidmek|اتمك|tr4=etmek}}
+*** {{desc|ota|ایتمك|tr=eyitmek}}
+**** {{desc|tr|eyitmek|ayıtmak}}
+** {{desc|tk|aýtmak}}
+* Kipchak:
+** North Kipchak 
+*** {{desc|ba|әйтеү}}
+*** {{desc|tt|әйтергә}}, {{desc|tt|әйтү}}
+** West Kipchak
+*** {{desc|qwm|ayt}} {{q|Codex Cumanicus}}
+**** {{desc|kum|айтмакъ}}
+**** {{desc|crh|aytmaq}}
+** South Kipchak
+*** {{desc|kk|айту}}
+** East Kipchak
+*** {{desc|ky|айтуу}}
+*** {{desc|alt|айдар}}
+* Karluk:
+** {{desc|xqa|اَیِتْماقْ|tr=ʾayitmʾq|ts=ayïtmaq}}
+*** {{desc|uz|aytmoq}}
+*** {{desc|ug|ئېيتماق|tr=éytmaq}}
+* Siberian:
+** {{desc|sah|ыйыт|t=to ask|pos=causative}}
+{{bottom}}
+
+{{top|trk-pro|Communication}}

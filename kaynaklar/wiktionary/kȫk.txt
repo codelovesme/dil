@@ -1,0 +1,92 @@
+{{reconstructed}}
+{{also|Reconstruction:Proto-Turkic/kök}}
+==Proto-Turkic==
+
+===Etymology===
+Perhaps from {{m|trk-pro|*kȫ-|t=to rise}}, alluding to the sky<ref>{{R:oui:Hamilton:2020|page=198, 199|kök, KWYK}}</ref>.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[blue]]
+# [[green]], [[grue]]
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[sky]], [[firmament]]
+
+====Declension====
+{{trk-pro-decl-noun|ö}}
+
+====Descendants====
+* {{desc|xgn-pro|*köke|bor=1}} {{see desc}}
+* Oghur:
+** {{desc|cv|кӑвак}}
+** {{desc|hu|kék|bor=1}}
+* {{desc|trk-cmn-pro|*kȫk}}
+{{top3}}
+* Arghu:
+** {{desc|klj|kö̂k}}
+* {{desc|trk-ogz-pro|*gȫk}}
+** West Oghuz:
+*** {{desc|trk-oat|كُوكْ|tr=gök}}
+**** Ajem-Turkic: {{desc|az|گوگ|nolang=1|tr=gög}}
+***** {{desctree|az|göy}}
+**** {{desc|gag|gök}}
+**** {{desctree|ota|گوك|tr=gök}}
+** East Oghuz:
+*** {{desc|slr|gök|göger}}
+*** {{desc|tk|gök}} (gög-)
+* Karluk:
+** {{desc|xqa|كُوكْ|tr=kȫk}}
+*** {{desc|chg|كوك|tr=kök}}
+**** {{desc|ug|كۆك}}
+**** {{desc|uz|koʻk}}
+* {{desc|qwm|كوك|tr=kök}}
+** North Kipchak:
+*** {{desc|ba|күк}}
+*** {{desc|tt|күк}}
+** West Kipchak:
+*** {{desc|crh|kök}}
+*** {{desc|krc|кёк}}
+*** {{desc|kdr|кӧк}}
+*** {{desc|kum|гёк|t=green/blue|кёк|t2=sky}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|көк}}
+**** {{desc|kaa|көк}}
+**** {{desc|nog|коьк}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|көк}}
+**** {{desc|alt|кӧк}}
+* Siberian:
+** Yenisei Kyrgyz: {{l|otk|𐰚𐰇𐰝|tr=kȫk}}
+** {{desc|otk|𐰚𐰇𐰚|tr=kȫk}}
+** {{desctree|oui|𐽷𐽳𐽶𐽷|ts=kök}}
+** North Siberian:
+*** {{desc|sah|күөх}}
+*** {{desc|dlg|күөк}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|көк}}
+**** {{desc|kim|көк}}
+*** Yenisei:
+**** {{desc|kjh|кӧк}}
+**** {{desc|cjs|кӧк}}
+*** {{desc|atv|кӧк}}
+{{bottom}}
+
+====See also====
+{{table:colors/trk-pro}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=708-709}}
+* {{R:TMN|vol=III|page=640-642}}
+* {{R:trk:ESTJa|vol=III|page=66-68}}
+* {{R:trk:VEWT|page=287}}
+* {{R:trk:WOT|page=520-521}}
+* {{R:trk:SIGTJa|page=60, 604}}
+
+{{topics|trk-pro|Colors|Astronomy|Nature}}

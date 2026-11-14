@@ -1,0 +1,73 @@
+{{reconstructed}}
+==Proto-Turkic==
+{{ety|trk-pro}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{lb|trk-pro|astronomy}} [[moon]]
+# {{lb|trk-pro|time}} [[month]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** Volga {{desc|xbo|اَيخِ|tr=ayxı|t=month (determined)}}, {{l|xbo|ايخ|tr=ayıx|t=month}} (< ''*āy-ïk'')
+*** {{desc|cv|уйӑх}}
+* Common Turkic: *āy
+{{top3}}
+* Arghu:
+** {{desc|klj|hây}}
+* Oghuz:
+** {{desc|trk-oat|آیْ|tr=ay}}
+*** {{desc|az|ay}}
+*** {{desc|gag|ay}}
+*** {{desc|ota|آی}}
+**** {{desc|tr|ay}}
+** {{desc|slr|ay}}
+** {{desc|tk|aý}}
+* Karluk:
+** {{desc|xqa|ااىْ|tr=āy}}<ref>{{R:xqa:DLT|vol=I|page=82}}</ref>
+*** {{desc|chg|}}
+**** {{desc|ug|ئاي}}
+**** {{desc|uz|oy}}
+* Kypchak:
+** North Kipchak:
+*** {{desc|ba|ай}}
+*** {{desc|tt|ай}}
+** West Kipchak:
+*** {{desc|crh|ay}}
+*** {{desc|krc|ай}}
+*** {{desc|kdr|aj}}
+*** {{desc|kum|ай}}
+** Kypchak-Nogai:
+*** {{desc|kaa|ay}}
+*** {{desc|kk|ай}}
+*** {{desc|nog|ай}}
+** Kyrgyz–Kipchak
+*** {{desc|ky|ай}}
+*** {{desc|alt|ай}}
+* Siberian:
+** {{desc|otk|𐰖|ts=ay}}
+** {{desctree|oui|𐽰𐽰𐽶}}
+** North Siberian:
+*** {{desc|dlg|ый|tr=ıy}}
+*** {{desc|sah|ый}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|ай}}
+**** {{desc|tyv|ай}}
+*** Yenisei
+**** {{desc|kjh|ай}}
+**** {{desc|cjs|ай}}
+*** {{desc|atv|ай}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=265}}
+* {{R:xqa:DLT}}
+* {{R:tr:Nishanyan|ay}}
+* {{R:trk:VEWT|page=10}}
+* {{R:trk:ESTJa| vol=I|pages=98-99}}

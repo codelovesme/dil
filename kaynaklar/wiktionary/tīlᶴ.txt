@@ -1,0 +1,85 @@
+{{also|Reconstruction:Proto-Turkic/til}}
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[tooth]]
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Alternative reconstructions====
+* {{l|trk-pro|*tï̄lᶴ}} {{qualifier|back vowel}}
+
+====Derived terms====
+{{col|trk-pro
+|[[*tīlᶴlig|*tīlᶴ-lig]]
+|[[*tīlᶴlik|*tīlᶴ-lik]]
+|[[*tīlᶴsiŕ|*tīlᶴ-siŕ]]<t:toothless>
+|* [[*tīlᶴsiŕä-|*tīlᶴ-siŕ-ä-]]<t:to lack teeth>
+|[[*tīlᶴlä-|*tīlᶴ-lä-]]<t:to bite>
+|* [[*tīlᶴlän-|*tīlᶴ-lä-n-]]<ll:reflexive>
+|* [[*tīlᶴlät-|*tīlᶴ-lä-t-]]<ll:causative>
+|* [[*tīlᶴläl-|*tīlᶴ-lä-l-]]<ll:passive>
+|* [[*tīlᶴlälᶴ-|*tīlᶴ-lä-lᶴ-]]<qq:reciprocal>
+}}
+
+====Descendants====
+{{top3}}
+* Arghu
+** {{desc|klj|tîş}}
+* {{desc|trk-ogz-pro|*dīš}}
+** {{desc|trk-oat|tr=diş}}
+***{{desc|az|diş}}
+***{{desc|ota|دیش|tr=diş}}
+****{{desc|gag|diş}}
+****{{desc|tr|diş}}
+**{{desc|slr|tiş}}
+**{{desc|tk|diş|alt=dīş}}
+* Karluk:
+**{{desc|xqa|تيٖشْ|tr=tï̄š}}
+***{{desc|chg|tr=tiš}}
+****{{desc|ug|چىش}}
+****{{desc|uz|tish}}
+*Kipchak:
+**North Kipchak:
+***{{desc|ba|теш}}
+***{{desc|tt|теш}}
+**West Kipchak:
+***{{desc|crh|tiş}}
+***{{desc|krc|тиш}}
+***{{desc|jct|чыш}}
+***{{desc|kum|тиш}}
+**Kipchak-Nogai:
+***{{desc|kaa|tis}}
+***{{desc|kk|тіс}}
+***{{desc|nog|тис}}
+**Kyrgyz-Kipchak:
+***{{desc|ky|тиш}}
+***{{desc|alt|тиш}}
+*Siberian:
+**{{desc|atv|тиш}}
+**Yenisei Turkic:
+***{{desc|cjs|тиш}}
+***{{desc|kjh|тіс}}
+**Sayan Turkic:
+***{{desc|kim|діш}}
+***{{desc|tyv|диш}}
+**Northern Siberian:
+***{{desc|dlg|тиис}}
+***{{desc|sah|тиис}}
+**Old Uyghur:
+***{{desc|oui|tyš|tr=tïš}}
+****{{desc|ybe|dïs}}
+{{bottom}}
+
+====See also====
+* {{l|trk-pro|*sīlᶴ}}, {{l|trk-pro|*sï̄lᶴ|t=tooth, sharp stick}}
+
+===References===
+* {{R:trk:Clauson|page=557|entry=tı:ş}}
+
+{{top|trk-pro|Mouth|Bones}}

@@ -1,0 +1,45 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{ety|trk-pro|id=flow|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[flow]]
+
+====Derived terms====
+* {{l|trk-pro|*akgan-sub|t=river}} {{q|lit. "the flowing water"}} > {{desc|cv|юханшыв}}
+* {{l|trk-pro|*akïn|*ak-ïn}}
+
+====Descendants====
+* {{desc|trk-ogr}}
+** {{desc|cv|юх}}
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* Arghu:
+** ⇒ {{desc|klj|aqqar}}
+* {{desc|trk-ogz}}
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|axmaq}}
+**** {{desc|ota|آقمق|tr=akmak}}
+***** {{desc|gag|akmaa}}
+***** {{desc|tr|akmak}}
+** East Oghuz:
+*** {{desc|tk|akymak}}
+* Karluk:
+** {{desctree|xqa|اَقْماقْ|tr=ʾaqmʾq|ts=aqmāq}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|ағыу}}
+** East Kipchak:
+*** {{desc|ky|агуу}}
+*** {{desc|alt|агар}}
+* Siberian Turkic:
+** {{desc|oui|𐽰𐽰𐽲𐽹𐽰𐽲|ts=aḳmaḳ}}
+*** {{desc|ybe|ahq-}}
+{{bottom}}
+
+===Further reading===
+* {{R:trk:Clauson|page=77|ak-}}

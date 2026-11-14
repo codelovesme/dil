@@ -1,0 +1,62 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+Also reconstructed to earlier as {{m|trk-pro|*tuta-}} due to {{cog|tr|tutam}}, {{cog|tt|тотам}}, {{cog|kk|тұтам}}, {{cog|ky|тутам}}, {{cog|alt|тудам}}, etc. 
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[grasp]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|тыт}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|tutmaq}}
+* Oghuz:
+** {{desctree|trk-oat|طوتمق |tr=dutmaq, tutmaq}}
+** {{desc|tk|tutmak}}
+** {{desc|slr|tut}}
+* Karluk:
+** {{desc|xqa||tr=tut-}}
+*** {{desctree|chg|توتماق|tr=tutmaq}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|тотоу}}
+*** {{desc|tt|тоту}}
+** West Kipchak:
+*** {{desc|crh|tutmaq}}
+*** {{desc|kum|тутмакъ}}
+*** {{desc|krc|тутаргъа}}
+*** {{desc|kdr||tr=tut-}}
+*** {{desc|uum|тутмайа}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|tuti’w}}
+**** {{desc|kk|тұту}}
+**** {{desc|nog||tr=tut-}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|тутуу}}
+**** {{desc|alt|тудар}}
+* Siberian:
+** {{desc|otk|𐱃𐰆𐱃|ts=tut-}}
+** {{desc|oui|𐾀𐽳𐾀𐽹𐽰𐽷|tr=tutmak}}
+*** {{desc|ybe|tutqa|tr=tuʰtqa}}
+** North Siberian:
+*** {{desc|sah|тут}}
+*** {{desc|dlg|тут}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|тудар}}
+**** {{desc|kim||tr=tu't-}}
+*** Yenisei Turkic:
+**** {{desc|kjh|тударға}}
+**** {{desc|cjs|тударға}}
+{{bottom}}
+
+===References===
+* {{R:tr:Nişanyan|tutam}}

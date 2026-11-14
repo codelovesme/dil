@@ -1,0 +1,63 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+From {{suf|trk-pro|*ur|*-g|alt2=*-ug}}. Very similar to {{cog|trk-pro|*urï|t=male child, son}}. {{rfe|trk-pro}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[seed]]
+# [[kin]], [[descendants]]
+
+====Declension====
+{{trk-pro-decl-noun|o}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ӑру|вӑрӑ}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|uruq}}
+*** {{desc|ota|اوروق|tr=uruq}}
+** {{desc|slr|uruq}}
+** {{desc|tk|urug}}
+* Karluk:
+** {{desc|xqa|اُرُغْ|tr=uruğ}}
+*** {{desc|uz|urugʻ}}
+*** {{desc|ug|ئۇرۇق}}
+* Kipchak:
+** East Kipchak:
+*** {{desc|ky|урук|уруу}}
+** North Kipchak
+*** {{desc|ba|ырыу}}
+*** {{desc|tt|ыруг}}
+** South Kipchak:
+*** {{desc|kk|ұрық|ру}}
+* Siberian:
+** {{desc|oui||tr=uruğ}}
+** North Siberian:
+*** {{desc|dlg|уруу}}
+*** {{desc|sah|уруу}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|уруг|t=child; young girl, daughter}}
+**** {{desc|kim||tr=uruğ}}
+*** Yenisei:
+**** {{desc|kjh|урух}}
+{{bottom}}
+* {{desctree|trk-pro|*urugla-|der=1}}
+** {{desc|xqa|اُرُغْلاماقْ|tr=uruğlamaq}}
+* {{desctree|trk-pro|*uruglan-|der=1}}
+** {{desc|xqa|اُرُغْلَنْماقْ|tr=uruğlanmaq}}
+* {{desctree|trk-pro|*urugluk}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=197, 214}}
+* {{R:xqa:DLT|pages=63-64, 293, 303}}
+
+{{top|trk-pro|Agriculture|Children|Family|People}}

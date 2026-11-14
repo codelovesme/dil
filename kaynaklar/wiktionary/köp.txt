@@ -1,0 +1,50 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Determiner===
+{{head|trk-pro|determiner}}
+
+# [[much]], [[very]], [[many]], [[a lot]]; of a large amount
+#: {{syn|trk-pro|*üküĺ}}
+
+====Descendants====
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* {{desc|trk-ogz}}
+** {{desc|trk-oat|كوپ|tr=köp}}
+*** {{desc|tr|köp|q=dialectal}}
+** {{desc|slr|köp}}
+** {{desc|tk|köp}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|күп}}
+*** {{desc|tt|күп}}
+** {{desc|trk-kcu}}
+*** {{desc|qwm-mam|tr=köp}}
+*** {{desc|qwm|cøp|ts=köp}} {{q|Codex Cumanicus}}
+**** {{desc|crh|köp}}
+**** {{desc|krc|кёб}}
+**** {{desc|kum|кёп}}
+** {{desc|trk-kno}}
+*** {{desc|kk|көп}}
+*** {{desc|nog|коьп}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|көп}}
+*** {{desc|alt|кӧп}}
+* Karluk:
+** {{desc|xqa|ts=köp}}
+*** {{desctree|chg|کوپ|tr=köp}}
+* {{desc|trk-sib}}
+** {{desc|oui|ts=köp}}
+** {{desc|trk-nsb}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|tyv|хөй}}
+*** Yenisei:
+**** {{desc|cjs|кӧп}}
+*** {{desc|atv|кӧп}}
+{{bottom}}
+
+===Further reading===
+* {{R:trk:Clauson|köp|page=686}}
+* {{R:trk:Räsänen|page=291|köp}}

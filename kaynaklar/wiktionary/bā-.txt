@@ -1,0 +1,23 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# to [[tie]]
+
+====Descendants====
+* {{desc|klj-arg|}}
+** {{desc|klj|vâamaq}}
+* {{desc|trk-sib|}}
+** {{desc|trk-nsb|}}
+*** {{desc|sah|баай}}
+** {{desc|trk-ssb}}
+*** {{desc|otk}}
+**** {{desc|oui|𐽼𐽰𐽹𐽰𐽲<ts:ba->}}
+***** {{desc|ybe|ba-}}
+**** {{desctree|der=1|oui|𐽼𐽰𐽲𐽶𐽿<alt:*𐽼𐽰𐽲𐽶𐽿><ts:*baġïš>}}
+* {{desc|trk-pro|*bāg|der=1}}
+
+===References===
+* {{R:trk:Tekin1995}}

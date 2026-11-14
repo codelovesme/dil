@@ -1,0 +1,89 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[water]]
+
+====Reconstruction notes====
+Vowel length discrepancy between Old Turkic and Oghuz is noted. The short-voweled variant is adopted here out of convention.
+
+====Declension====
+{{trk-pro-decl-noun|o}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*sūb|qq=per Clauson and Tenišev, following Old Turkic reflexes.}}
+* {{alt|trk-pro|*sïb|qq=per EDAL, following Oghuric reflexes.}}
+
+====Derived terms====
+{{col|trk-pro
+|*sïba-<t:to smear>
+|*subï-<t:to become watery><qq:?>
+|*subsuš<t:watery decoction>
+|*subsa-<t:to become thirsty>
+}}
+
+====Descendants====
+* Oghur:
+** {{desc|zkz|*šïw|*σιου|tr2=*siou}}
+*** {{desc|grc|Χαράσιου|t=name of a river|bor=1}}
+** {{desc|xbo-vol|[[شِو|شِونَ]]|tr=šıw-na|qq=with positive possessive *-n and dative case *-(k)a}}
+*** {{desc|cv|шыв}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|suv}}
+* Oghuz:
+** {{desc|trk-oat|صُو|tr=su|صُوْ|tr2=suv}} 
+*** {{desc|az|su}}
+*** {{desc|gag|su}}
+*** {{desc|ota|صو|tr=su}}
+**** {{desc|tr|su}}
+**** {{desc|crh|su|bor=1|qq=Southern dialects}}
+** {{desc|tk|suw}}
+** {{desc|slr|su|suvsa|alt2=suv-sa|t2=to become thirsty}}
+* Karluk:
+** {{desc|xqa|سوڤ|tr=suv}}
+*** {{desc|zkh|سو|tr=su|tr2=suw|سوو}}
+**** {{desctree|chg|سو|tr=su}}
+* {{desc|qwm|سو|tr=su}}
+** North Kipchak:
+*** {{desc|tt|су|su}}
+*** {{desc|ba|һыу}}
+** Kipchak-Cuman:
+*** {{desc|crh|suv}}
+*** {{desc|kdr|сув}}
+*** {{desc|kum|сув}}
+*** {{desc|uum|су}}
+** Kipchak-Nogai:
+*** {{desc|kk|су}}
+*** {{desc|kaa|suw}}
+*** {{desc|nog|сув}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|суу}}
+*** {{desc|alt|суу}}
+* Siberian:
+** {{desc|otk|𐰽𐰆𐰉|ts=sub}}
+** {{desctree|oui|𐽻𐽳𐽱|ts=suv}}
+** North Siberian:
+*** {{desc|dlg|уу}}
+*** {{desc|sah|уу}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|суғ|tr=suğ}}
+**** {{desc|tyv|суг|суғ|tr2=suğ|qq1=Kyzyl|qq2=Soyot}}
+*** Yenisei Turkic:
+**** {{desc|clw|суу|tr=suu|сууғ|tr2=suuğ|суғ|tr3=suğ}}
+**** {{desc|kjh|суғ}}
+**** {{desc|cjs|суғ}}
+*** {{desc|atv|суу|суг|сууг|сӱ}}
+{{bottom}}
+
+===Further reading===
+* {{R:trk:Clauson|page=783|entry=su:v}}
+* {{R:trk:ESTJa|vol=6|page=348<!--|entry=сув-->}}
+* {{R:SIGTYA|vol=4|page=87<!--|entry=*su:v ~ *su:b-->}}
+* {{R:TMN|vol=3|page=281-282}}
+
+{{top|trk-pro|Water}}

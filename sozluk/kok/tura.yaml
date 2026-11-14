@@ -9,7 +9,7 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'baskakov1953, cankov1961, subrakova2006; Tatoeba''da 1 kez', bicim: tura, dil: kjh, kaynak: savelyev-turkic; tatoeba, yazi: тура, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
-  - {atif: baskakov1947; Apertium alt sözlüğünde var; Tatoeba'da 1 kez, bicim: tura, dil: alt, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1947; apertium-alt.alt.lexc: sözlükte var; tatoeba alt_sentences: 1 kez', bicim: tura, dil: alt, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ü (eb)

@@ -1,0 +1,72 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[back]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Alternative reconstructions====
+* {{l|trk-pro|*ărka}}
+* {{l|trk-pro|*ārka}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|урхалӑх|der=1}}
+* {{desc|trk-cmn-pro|*arka}}
+{{top4}}
+* Arghu:
+** {{desc|klj|arqa}}
+* Oghuz:
+** {{desc|trk-ogz-pro|*arka}}
+*** {{desc|trk-oat|tr=arqa}}
+**** {{desc|az|arxa}}
+***** {{desc|fa|ارخا|tr=arxâ|bor=1}}
+***** {{desc|bor=1|klj|arxa}}
+**** {{desc|gag|arka}}
+**** {{desc|ota|آرقه|tr=arka}}
+***** {{desc|tr|arka}}
+*** {{desc|slr|arqa}}
+*** {{desc|tk|arka}}
+* Karluk:
+** {{desc|xqa|اَرْقا|tr=arqa}}
+*** {{desc|zkh|tr=arqa}}
+**** {{desc|chg|ارقا|tr=arqa}}
+***** {{desc|uz|orqa}}
+***** {{desc|ug|ئارقا}}
+* Kipchak:
+** {{desc|qwm|ارقا|tr=arqa}}
+*** North Kipchak:
+**** {{desc|ba|арҡа}}
+**** {{desc|tt|арка}}
+*** West Kipchak:
+**** {{desc|crh|arqa}}
+**** {{desc|krc|аркъа}}
+**** {{desc|kdr|tr=arğa}}
+**** {{desc|kum|аркъа}}
+*** South Kipchak:
+**** Caspian:
+***** {{desc|kk|арқа}}
+***** {{desc|kaa|arqa}}
+***** {{desc|nog|tr=arqa}}
+**** Kyrgyz-Kipchak:
+***** {{desc|ky|арка}}
+***** {{desc|alt|арка}}
+* Siberian:
+** {{desc|otk|𐰺‎𐰴|ts=arqa}}
+** {{desc|oui|𐽰𐽰𐽾𐽲𐽰|tr=arqa}}
+*** {{desc|ybe|arqa}}
+** North Siberian:
+*** {{desc|sah|арҕаа}}
+*** {{desc|dlg||tr=argalaa|der=1}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv||tr=arğa|t=mountain forest}}
+*** Yenisei:
+**** {{desc|cjs||tr=arğa}}
+**** {{desc|kjh||tr=arğa}}
+*** {{desc|atv|арга}}
+{{bottom}}

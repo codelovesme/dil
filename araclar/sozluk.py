@@ -426,6 +426,7 @@ def dizin_md(maddeler: list[Madde], b: Baglam) -> str:
 
 # Biçimin dilde var olduğunu gösterir ama o kavram anlamında kullanıldığını göstermez
 YALNIZ_BICIM = {"tatoeba"}
+# Biçim var ama Türkçe açıklamada bu kavram geçmiyorsa Wilkens yalnız biçim kanıtıdır (atıfta "(anlam eşleşmedi)")
 YALNIZ_BICIM_KELIME = {"apertium", "universal-dependencies"}  # kelimede yalnız sözlükte/derlemde var mı; ekte etiketli olduğu için anlamı da gösterir
 # Clauson'un aktardığı eserler: biz onları Clauson'dan okuduk, bağımsız sayılmaz
 CLAUSON_ARACILI = {"dlt", "houtsma-leiden", "kitab-idrak", "ibn-muhenna", "najip-xiv"}
@@ -445,8 +446,15 @@ def denetim_cikar(t: dict, ek: bool) -> dict:
         return {"durum": durum}
     bicim = list(kay)
     yalniz = YALNIZ_BICIM | (set() if ek else YALNIZ_BICIM_KELIME)
-    anlam = [k for k in kay if k not in yalniz]
+    anlam = [k for k in kay if k not in yalniz
+             and not (k == "wilkens-eski-uygurca" and "anlam eşleşmedi" in str(t.get("atif") or ""))]
     bagimsiz = {("clauson" if (k in CLAUSON_ARACILI and "clauson" in kay) else k) for k in kay}
+    # Wiktionary bir aracıdır: sayfanın gösterdiği kaynak tanıkta da varsa ayrı sayılmaz
+    m = re.search(r"sayfanın kaynakları: ([^;]+)", str(t.get("atif") or ""))
+    if m and "wiktionary-ana-turkce" in bagimsiz:
+        asil = {x.strip() for x in m.group(1).split(",")} & bagimsiz
+        if asil:
+            bagimsiz.discard("wiktionary-ana-turkce")
     if re.search(r"kısmen doğrulandı|dolaylı kanıt", not_, re.I) or (bicim and not anlam):
         durum = "kismen"
     elif re.search(r"tek kaynak", not_, re.I) or len(bagimsiz) < 2:
@@ -497,6 +505,35 @@ def denetim_doldur(yeniden: bool = False) -> int:
     return n
 
 
+def etki(kaynak: str, desen: str | None = None) -> None:
+    """Bir kaynak (ya da atfı DESEN'e uyan kısmı) hatalı çıkarsa hangi tanıklar etkilenir?
+    Kaynak tanıktan çıkarılmış gibi denetim yeniden hesaplanır; durumu düşecek olanlar listelenir."""
+    rx = re.compile(desen, re.I) if desen else None
+    sira = ["dogrulandi", "kismen", "tek-kaynak", "celiski", "dogrulanmadi"]
+    dusen, etkilenen = [], 0
+    for yol in sorted(KOK_DIZIN.glob("*.yaml")):
+        v = yaml.safe_load(yol.read_text(encoding="utf-8")) or {}
+        for t in v.get("taniklar") or []:
+            kay = kaynak_listesi(t.get("kaynak"))
+            if kaynak not in kay or (rx and not rx.search(str(t.get("atif") or ""))):
+                continue
+            etkilenen += 1
+            t2 = dict(t, kaynak="; ".join(k for k in kay if k != kaynak) or "bilgi")
+            yeni_d = denetim_cikar(t2, yol.stem.startswith("ek-"))["durum"]
+            eski_d = (t.get("denetim") or {}).get("durum", "?")
+            if eski_d in sira and sira.index(yeni_d) > sira.index(eski_d):
+                dusen.append((yol.stem, t.get("dil"), t.get("bicim"), eski_d, yeni_d))
+    print(f"'{kaynak}'{' (atıf: ' + desen + ')' if desen else ''} kaynağına dayanan tanık: {etkilenen}")
+    print(f"Kaynak çıkarılırsa durumu düşen: {len(dusen)}")
+    say = Counter((e, y) for *_, e, y in dusen)
+    for (e, y), n in say.most_common():
+        print(f"  {DENETIM[e]} {DENETIM_AD[e]} → {DENETIM[y]} {DENETIM_AD[y]}: {n}")
+    for k, d, bc, e, y in dusen[:60]:
+        print(f"    {k} / {d}: {bc}  ({DENETIM_AD[e]} → {DENETIM_AD[y]})")
+    if len(dusen) > 60:
+        print(f"    … ve {len(dusen) - 60} tanık daha")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("kokler", nargs="*", help="kök dosya adları (uzantısız)")
@@ -504,7 +541,12 @@ def main():
     ap.add_argument("--yaz", action="store_true", help="Markdown sayfalarını üret")
     ap.add_argument("--denetim-doldur", action="store_true", help="eksik 'denetim' alanlarını kurallarla doldur")
     ap.add_argument("--yeniden", action="store_true", help="--denetim-doldur ile: var olanları da yeniden hesapla")
+    ap.add_argument("--etki", metavar="KAYNAK", help="bu kaynak hatalıysa hangi tanıklar etkilenir")
+    ap.add_argument("--atif", metavar="DESEN", help="--etki ile: yalnız atfı bu düzenli ifadeye uyan tanıklar")
     args = ap.parse_args()
+    if args.etki:
+        etki(args.etki, args.atif)
+        return
     if args.denetim_doldur:
         print(f"{denetim_doldur(args.yeniden)} tanığa denetim yazıldı.")
         return

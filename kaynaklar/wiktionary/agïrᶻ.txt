@@ -1,0 +1,64 @@
+{{see also|Reconstruction:Proto-Turkic/agïr}}
+{{reconstructed}}
+
+==Proto-Turkic==
+{{etymon|trk-pro|id=mouth}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{lb|trk-pro|anatomy}} [[mouth]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+*Oghur:
+** {{desc|cv|ҫӑвар}}
+{{top3}}
+*Arghu
+** {{desc|klj|âğız}}
+* Oghuz:
+** {{desc|trk-oat|آغِزْ|tr=āġız, aġız|آغُزْ|tr2=āġuz, aġuz}}
+*** {{desc|az|ağız}}
+*** {{desc|gag|aaz}}
+*** {{desc|ota|آغز}}
+**** {{desc|tr|ağız}}
+*** {{desc|fa|آغوز|tr=âġuz|bor=1}}
+** {{desc|slr|ağız}}
+** {{desc|tk|agyz}}
+* Karluk:
+** {{desc|xqa|اَغِزْ|tr=ağïz}}<ref>{{R:xqa:DLT|vol=I|page=55}}</ref>
+*** {{desctree|chg|آغز|tr=aġız}}
+* Kipchak:
+** North Kipchak
+*** {{desc|ba|ауыҙ}}
+*** {{desc|tt|авыз}}
+** South Kipchak
+*** {{desc|kaa|awız}}
+*** {{desc|kk|ауыз}}
+*** {{desc|nog|авыз}}
+** West Kipchak
+*** {{desc|crh|ağız}}
+*** {{desc|krc|аууз}}
+*** {{desc|kdr|avuz}}
+*** {{desc|kum|авуз}}
+** East Kipchak
+*** {{desc|ky|ооз}}
+*** {{desc|alt|оос}}
+* Siberian:
+** {{desctree|oui|𐽰𐽰𐽲𐽶𐽴|ts=aġïz}}
+** South Siberian:
+*** {{desc|clw|ағыс|tr=aɣïs}}
+*** {{desc|kjh|аас}}
+*** {{desc|atv|акыс|аас}}
+*** {{desc|cjs|аас|tr=aas}}
+*** {{desc|kim|аас|tr=aas}}
+*** {{desc|tyv|аас}}
+** North Siberian:
+*** {{desc|dlg|уос|tr=uos|t=lip}}
+*** {{desc|sah|уос|t=lip}}
+{{bottom}}
+
+===References===
+{{reflist}}

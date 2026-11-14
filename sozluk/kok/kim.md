@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 11/89 · duraklar 6/7 · tanık 51 (kaynaklı %80) · kaynak 11 · yabancı kayıt 2 · denetim ✓24 ◐17 ⚠10**
+**seviye 0 · diller 30/40 · ağızlar 11/89 · duraklar 6/7 · tanık 51 (kaynaklı %80) · kaynak 11 · yabancı kayıt 2 · denetim ✓24 ◑1 ◐16 ⚠10**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -35,10 +35,10 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 11. yy | Karahanlıca | Kâşgar | **kim** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 338 | ◐ tek kaynak |
 | 11. yy | Oğuz kolu (Oğuz) |  | **kim** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 338 | ◐ tek kaynak |
 | 11.–13. yy | Karahanlıca |  | **kim** |  | Kutadgu Bilig; Atebetü'l-Hakayık; Karahanlıca Kur'an tefsiri |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
-| 13.–14. yy | Volga Bulgarcası |  | **kem** | كم | Volga Bulgar mezar taşları |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Erdal 1993 s. 69-70 | ◐ tek kaynak |
+| 13.–14. yy | Volga Bulgarcası |  | **kem** | كم | Volga Bulgar mezar taşları |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Erdal 1993 s. 69-70; Wiktionary Reconstruction:Proto-Turkic/käm; sayfanın kaynakları: clauson, estja, rasanen | ◐ tek kaynak |
 | 13.–14. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **kim** |  | Memlük Kıpçakçası sözlükleri | Memlük sözlükçüleri (Arapça) 🌍 | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 13.–14. yy | Harezm Türkçesi ve Çağatayca | Harezm | **kim** |  | Harezm Türkçesi metinleri; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **kim** | كم | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **kim** | كم | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/käm; sayfanın kaynakları: clauson, estja, rasanen | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kim** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [gronbech-kuman](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ✓ doğrulandı |
 | 14. yy | Ortak Türkçe |  | **kīm** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 15.–18. yy | Harezm Türkçesi ve Çağatayca |  | **kim** |  | Çağatay edebî dili; Senglâh |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [senglah](../../kaynaklar/KAYNAKLAR.md#senglah) | ✓ doğrulandı |
@@ -51,6 +51,7 @@ Notlar:
 - 11. yy, Karahanlıca: Yazmada aşağı yukarı yarı yarıya kim ve uzun ünlüyle kīm; tekil ve çoğul için.
 - 11.–13. yy, Karahanlıca: kayu kim 'her kim', kaçan kim 'ne zaman ki', kimse 'biri'.
 - 13.–14. yy, Harezm Türkçesi ve Çağatayca: kimerse, kimse, kimesne.
+- 13.–15. yy, Eski Anadolu Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Kuman-Kıpçakça: Yazmada kym ve kim yazımları.
 - 14. yy, Ortak Türkçe: Soru ve ilgi zamiri olarak.
 

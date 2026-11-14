@@ -1,0 +1,87 @@
+{{reconstructed}}
+{{see also|Reconstruction:Proto-Turkic/kǖl-}}
+
+==Proto-Turkic==
+[[Image:A man Laughing.gif|thumb|right|{{m|trk-pro|*ol}} {{m|trk-pro|*kül-|*kül}}''ti''.<br />He '''laugh'''ed.]]
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[laugh]]
+
+====Conjugation====
+{{trk-cmn-conj-c|kül|ü|ü|t}}
+
+====Derived terms====
+{{top3}}
+* {{desc|trk-cmn-pro|*külgü|alt=*kül-gü|t=laughter|der=1}}
+* {{desc|trk-cmn-pro|*külüm|alt=*kül-üm|t=laughter|der=1}}
+** {{desc|trk-cmn-pro|*külümsin-|alt=*kül-üm-si-n-|t=to smile|der=1}}
+** {{desc|trk-cmn-pro|*külümsir-|alt=*kül-üm-si-r|t=smiling|der=1}}
+*** {{desc|trk-cmn-pro|*külümsin-|alt=*kül-üm-si-r-e-|t=to smile|der=1}}
+* {{desc|trk-pro|*külüĺ|alt=*kül-üĺ|t=laughter|der=1}}
+* {{desc|trk-cmn-pro|*külüĺč-|alt=*kül-üĺč-|t=to laugh together|der=1}}
+** {{desc|trk-cmn-pro|*külüĺčüg|alt=*kül-üĺč-üg|t=laughter|der=1}}
+* {{desc|trk-pro|*kültür-|alt=*kül-tür-|t=to amuse|der=1}}
+* {{desc|trk-cmn-pro|*külün-|alt=*kül-ün-|t=to smile|der=1}}
+* {{desc|trk-cmn-pro|*külgeč|alt=*kül-geč|t=always laughing|der=1}}
+* {{desc|trk-pro|*külüg|alt=*kül-üg|t=laughter|der=1}}
+* {{desc|trk-pro|*külümsin-|alt=*kül-si-r-|t=to smile|der=1}}
+{{bottom}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|кул}}
+* {{desc|trk-cmn-pro|*kül-}}
+{{top3}}
+* Arghu:
+** {{desc|klj|külmək}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|gülmək}}
+**** {{desc|ota|گولمك|t=gülmek}}
+***** {{desc|tr|gülmek}}
+***** {{desc|gag|gülmää}}
+** {{desc|slr|küligüsi}}
+** {{desc|tk|gülmek}}
+* Karluk:
+** {{desc|xqa|كُلْماكْ|tr=külmēk}}
+*** {{desc|chg}}
+**** {{desc|ug|كۈلمەك}}
+**** {{desc|uz|kulmoq}}
+* {{desc|qwm|tr=kül-}}:
+** North Kipchak:
+*** {{desc|ba|көлөү}}
+*** {{desc|tt|көлу}}
+** West Kipchak:
+*** Crimeaic-Kipchak:
+**** {{desc|crh|külmek}}
+**** {{desc|uum|гӱлиер|tr=gülier}}
+*** {{desc|krc|кюлюрге}}
+*** {{desc|kdr|кӱл|kül}}
+*** {{desc|kum|гюлмек}}
+** South Kipchak:
+*** {{desc|kk|күлу}}
+*** {{desc|nog|куьлуьв}}
+** East Kipchak:
+*** {{desc|ky|күлүү}}
+*** {{desc|alt|кӱлер}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|oui}}
+**** {{desc|ybe|gul-}}
+** North Siberian:
+*** {{desc|dlg|күл}}
+*** {{desc|sah|күл}}
+** South Siberian:
+*** Yeniseian Turkic:
+**** {{desc|kjh|кӱлерге}}
+*** {{desc|atv|кӱлерге}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=715|entry=kül-}}
+* {{R:trk:ESTJa|vol=V|page=138}}
+* {{R:trk:Rasanen|page=307}}
+* {{R:tr:Nishanyan|gülmek}}

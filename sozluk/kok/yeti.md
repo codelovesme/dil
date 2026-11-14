@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 34/40 · ağızlar 0/89 · duraklar 3/7 · tanık 37 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓15 ◑3 ◐19**
+**seviye 0 · diller 34/40 · ağızlar 0/89 · duraklar 3/7 · tanık 37 (kaynaklı %100) · kaynak 7 · yabancı kayıt 0 · denetim ✓16 ◑4 ◐17**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
@@ -31,9 +31,9 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **yeti** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Orhon yazıtlarında 12'den çok geçiş (Clauson, yetti:) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **yeti** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — Orhon yazıtlarında 12'den çok geçiş (Clauson, yetti:); Wilkens 2021, madde yeti | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **yeti** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT (Clauson, yetti:) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **yedi** | یدی | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **yedi** | یدی | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/yẹt(t)i; sayfanın kaynakları: clauson | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -41,6 +41,7 @@ Notlar:
 
 - 8. yy, Eski Türkçe: yiti de; Clauson'a göre aslı yetti.
 - 11. yy, Karahanlıca: yeti kat kök 'yedi kat gök'.
+- 13.–15. yy, Eski Anadolu Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -88,4 +89,5 @@ Notlar:
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 12 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 5 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 2 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

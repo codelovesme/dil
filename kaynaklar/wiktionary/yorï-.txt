@@ -1,0 +1,52 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+The form '''{{m|trk-pro||*yorï-}}''' is probably more archaic.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[walk]]
+#: {{syn|trk-pro|*bar-|*i-|*id-}}
+
+{{trk-cmn-conj-v|yorï|ï}}
+
+====Alternative reconstructions====
+* {{l|trk-pro|*yöri-}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫӳре}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Oghuz:
+** {{desc|trk-oat|یُورِمَكْ|یُورِمَقْ|tr2=yorımaq|tr1=yörimek}}
+*** {{desc|az|yerimək|yürümək|-yür}}
+*** {{desc|gag|örümää|-er|-ii}}
+*** {{desc|ota|یورمك}}
+**** {{desc|tr|yürümek|-iyor}}
+** {{desc|tk|ýöremek}}
+* Karluk:
+** {{desc|ug|يۈرمەك}}
+** {{desc|uz|yurmoq}}
+* Kipchak:
+** North Kipchak
+*** {{desc|ba|йөрөү}}
+** South Kipchak
+*** {{desc|kk|жүру}}
+** West Kipchak
+*** {{desc|crh|yürmek}}
+** East Kipchak
+*** {{desc|ky|жүрүү}}
+*** {{desc|alt|јӱрер}}
+* Siberian Turkic:
+**{{desc|otk|⁧𐰘𐰇𐰼𐰃⁩|𐰖𐰆𐰺𐰃⁩|tr=yöri-|tr2=yorï-}}
+**{{desctree|oui|𐽶𐽳𐽾𐽶𐽹𐽰𐽲|ts=yorïmaḳ}}
+** North Siberian:
+*** {{desc|sah|сырыт}}
+** South Siberian:
+*** {{desc|atv|чӧрерге|чӱрерге}}
+*** {{desc|tyv|чоруур}}
+{{bottom}}

@@ -1,0 +1,88 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Has been compared to {{cog|tuw-pro|*baka-|t=to find}} by Doerfer.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[look]]; to [[watch]]
+
+====Derived terms====
+{{col|trk-pro
+|[[*bakïg|*bak-ïg]]
+|[[*bakïĺ|*bak-ïĺ]]
+|[[*bakgu|*bak-gu]]
+|[[*bakïgma|*bak-ïgma]]
+|[[*bakmak|*bak-mak]]
+|[[*bakar|*bak-ar]]
+|[[*bakdačï|*bak-dačï]]
+|[[*bakgay|*bak-gay]]
+|[[*bakmïĺ|*bak-mïĺ]]
+|[[*bakduk|*bak-duk]]
+|[[*bakgan|*bak-gan]]
+|[[*baka|*bak-a]]
+|[[*baku|*bak-u]]
+|[[*bakïp|*bak-ïp]]
+|[[*bakgalï|*bak-galï]]
+|[[*baksa-|*bak-sa-]]
+|[[*bakma-|*bak-ma-]]
+|* [[*bakmaŕ|*bak-ma-ŕ]]
+|[[*bakïn-|*bak-ïn-]]
+|[[*bakïl-|*bak-ïl-]]
+|[[*bakïĺ-|*bak-ïĺ-]]
+|[[*bakur-|*bak-ur-]]
+|[[*bakït-|*bak-ït-]]
+|* [[*baktur-|*bak-tur-]]
+}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пӑх}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Arghu:
+** {{desc|klj|vaqmaq}}<ref>Robbeets, Martin, Alexander Savelyev, The Oxford Guide to the Transeurasian Languages, page 111.</ref>
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|baxmaq}}
+*** {{desctree|ota|باقمق|tr=baqmaq}}
+** {{desc|slr|vaqğusı}}
+** {{desc|tk|bakmak}}
+* Kipchak:
+** {{desc|zkh|بقماق|tr=baqmaq}}
+** {{desc|qwm|tr=baq-}}
+** {{desc|qwm-mam|tr=baq-|sc=Arab}}
+** West Kipchak:
+*** {{desc|crh|baqmaq}}
+** North Kipchak:
+*** {{desc|ba|бағыу}}
+*** {{desc|tt|багарга}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|бағу}}
+**** Nogai {{l|nog|бакув}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|багуу}}
+**** {{desc|alt|багар}}
+* Karluk:
+** {{desc|xqa|بَقْماقْ|tr=baqmāq}}
+*** {{desctree|chg|باقماق|ts=baqmaq}}
+* Siberian:
+** North Siberian:
+*** {{desc|dlg|бык|tr=bïk}}
+*** {{desc|sah|бык}}
+** South Siberian:
+*** Sayan Turkic:
+**** Tuvan {{l|tyv|бакылар}}
+*** Yenisei Turkic:
+**** {{desc|kjh|пағарға}}
+*** {{desc|atv|пагарга}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|entry=bak-|page=311}}
+
+{{top|trk-pro|Vision}}

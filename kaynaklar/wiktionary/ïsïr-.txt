@@ -1,0 +1,25 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[bite]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫырт}}
+* Common Turkic:
+{{top3}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|}}
+**** {{desc|ota|ایصرمق|tr=ısırmak}}
+***** {{desc|tr|ısırmak}}
+* Siberian:
+** {{desc|otk||tr=ïsïr-}}
+** North Siberian:
+*** {{desc|dlg|ытыр|tr=ıtır}}
+*** {{desc|sah|ытыр}}
+{{bottom}}

@@ -1,0 +1,62 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{ety|trk-pro|:af<unc>|*äg-<aftype:naf><t:to bend>|*-n<alt:*-in><id:deverbal>}}
+Possibly from {{suf|trk-pro|*äg-|*n|alt2=*in|gloss1=to bend}}. Comparisons to {{cog|xgn-pro|*egem|t=shoulder}} have also been made. (Whence {{cog|xng|ایكام|ts=egem}} {{qualifier|[[w:Rasulid Hexaglot|Rasulid Hexaglot]]}})
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{tlb|trk-pro|anatomy}} [[shoulder]], [[back]]
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|авӑн}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|اكن|tr=egin}}
+**** {{desc|az|əyin}}
+**** {{desctree|ota|اگین|tr=eğin}}
+***** {{desc|tr|eğin}}
+** East Oghuz:
+*** {{desc|tk|egin}}
+* {{desc|qwm}}
+** North Kicphak:
+*** {{desc|ba|иң}}, {{l|ba|иңбаш}}
+*** {{desc|tt|иң}}
+** West Kipchak:
+*** {{desc|krc|имбаш|der=1}}
+*** {{desc|kum|инбаш|der=1}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|иін}}
+**** {{desc|kk|иін}}
+**** {{desc|nog|ийин}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|ийин}}
+**** {{desc|alt|ийин}}
+* Karluk:
+** {{desc|xqa|اَکِنْ|ts=egin}}
+*** {{desc|chg|ایکین|ts=egin}}
+**** {{desc|ug|ئالقىن}}
+**** {{desc|uz|egin}}
+* Siberian:
+** Southe Siberian:
+*** Yenisei Turkic:
+**** {{desc|kjh|ээн|иңнi}}
+*** {{desc|atv|иин}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=109|köŋül}}
+* {{R:trk:VEWT|page=37}}
+* {{R:TMN|vol=II|page=192}}
+* {{R:trk:SIGTJa|pages=239}}
+* {{R:trk:ESTJa|vol=1|pages=225-227}}
+* {{R:tr:Gülensoy:2007|pages=320-321}}

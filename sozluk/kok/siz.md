@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 32/40 · ağızlar 10/89 · duraklar 7/7 · tanık 56 (kaynaklı %75) · kaynak 14 · yabancı kayıt 2 · denetim ✓24 ◐18 ⚠14**
+**seviye 0 · diller 32/40 · ağızlar 10/89 · duraklar 7/7 · tanık 56 (kaynaklı %75) · kaynak 14 · yabancı kayıt 2 · denetim ✓24 ◑2 ◐16 ⚠14**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -37,14 +37,14 @@ Tanığı olmayan diller: Salarca, Sibirya Tatarcası, İli Türkçesi, Sarı Uy
 | 11. yy | Karahanlıca | Kâşgar ve Çiğil | **siz** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 124; I 339 | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **siz** |  | Atebetü'l-Hakayık; Karahanlıca Kur'an tefsiri |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **siz** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 50, 8 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **siz** |  | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **siz** |  | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **siz** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [gronbech-kuman](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ✓ doğrulandı |
 | 14. yy | Kuman-Kıpçakça | Kahire | **siz** |  | Kitâbü'l-İdrâk; Bulgatü'l-Müştâk | Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **siz** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [najip-xiv](../../kaynaklar/KAYNAKLAR.md#najip-xiv) | ◐ tek kaynak |
 | 14. yy | Ortak Türkçe |  | **sīz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 5, 17 | ◐ tek kaynak |
 | 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **siz** |  | el-Kavânînü'l-Külliye; et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 15.–18. yy | Harezm Türkçesi ve Çağatayca |  | **siz** | سیز | Çağatay edebî dili; Senglâh |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [senglah](../../kaynaklar/KAYNAKLAR.md#senglah) | ✓ doğrulandı |
-| 16.–19. yy | Türkiye Türkçesi | Osmanlı | **siz** | سز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi | Osmanlı | **siz** | سز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -54,7 +54,9 @@ Notlar:
 - 9.–10. yy, Eski Türkçe: Ölenin ayrıldığı kişileri ve yurdu sayan kalıplarda çok sık (siz elime "sizden, yurdumdan").
 - 11. yy, Karahanlıca: Kâşgarlı'ya göre Çiğiller büyüğe siz, küçüğe sen der; Oğuzlar bunun tersini yapar.
 - 13. yy, Karahanlıca: Tefsirde çokluk biçimi sizler ve bütün durumları.
+- 13.–15. yy, Eski Anadolu Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Ortak Türkçe: biz gibi uzun ünlüyle verilir.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

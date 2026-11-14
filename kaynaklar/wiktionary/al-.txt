@@ -1,0 +1,65 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{ety|trk-pro|id=take|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[take]]
+#: {{ant|trk-pro|*bēr-|t=to give}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ил}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|almaq}}
+* Oghuz:
+** {{desc|trk-oat|آلمق|tr=almaq}}
+*** {{desc|az|almaq}}
+*** {{desc|gag|almaa}}
+*** {{desc|ota|آلمق|tr=almak}}
+**** {{desc|tr|almak}}
+** {{desc|tk|almak}}
+** {{desc|slr|alğusı}}
+* Karluk:
+** {{desc|xqa||tr=al-}}
+*** {{desc|chg|}}
+**** {{desc|uz|olmoq}}
+**** {{desc|ug|ئالماق}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|almaq}}
+*** {{desc|kum|алмакъ}}
+*** {{desc|krc|алыргъа}}
+*** {{desc|kdr|алув|tr=aluv}}
+*** {{desc|uum|алмайа}}
+** North Kipchak:
+*** {{desc|ba|алыу}}
+*** {{desc|tt|алу}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|алу}}
+**** {{desc|kaa|aluw}}
+**** {{desc|nog|алу}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|алуу}}
+**** {{desc|alt|алар}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|otk-ork|𐰞<ts:al->}}
+*** {{desctree|oui|𐽰𐽰𐾁𐽹𐽰𐽲<ts:al->}}
+** North Siberian:
+*** {{desc|sah|ыл}}
+*** {{desc|dlg|ыл}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|алыр}}
+**** {{desc|kim|алыр}}
+*** Yenisei:
+**** {{desc|cjs|аларға|tr=alarğa}}
+**** {{desc|kjh|аларға}}
+**** {{desc|bor=1|der=1|ket|а́ласбет<t:taking, seizing by force; kidnapping>}} / {{desc|yug|арысбеть<t:id.><tr:árɨsbetʸ>}}
+{{bottom}}

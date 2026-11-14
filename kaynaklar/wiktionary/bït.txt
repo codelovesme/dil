@@ -1,0 +1,54 @@
+{{reconstruction}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[louse]] {{gloss|insect}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пыйтӑ}}
+{{top3}}
+* Arghu:
+** {{desc|klj|bit}}
+* Oghuz:
+** {{desc|az|bit}}
+** {{desc|ota|بت|بیت|tr=bit|tr2=bit}}
+*** {{desc|tr|bit}}
+** {{desc|tk|bit}}
+* Karluk:
+** {{desc|xqa|بِتْ|tr=bit}}
+*** {{desc|ug|پىت}}
+*** {{desc|uz|bit}}
+* Kipchak:
+** Kipchak–Bulgar:
+*** {{desc|ba|бет}}
+*** {{desc|tt|бет|bet}}
+** Kipchak–Nogai:
+*** {{desc|kk|бит}}
+*** {{desc|nog|бийт}}
+** Kyrgyz–Kipchak:
+*** {{desc|ky|бит}}
+*** {{desc|alt|бийт}}
+** Kipchak-Cuman:
+*** {{desc|crh|бит|bit}}
+*** {{desc|kdr|бит}}
+*** {{desc|jct|бит}}
+* Siberian:
+** {{desc|oui|}}
+*** {{desc|ybe||tr=pışt|пышт|tr2=pışt}}
+*** {{desc|slr|pişt|bor=1}}
+** Northern Siberian:
+*** {{desc|sah|быт}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|быт}}
+**** {{desc|kim|быът|tr=bıht}}
+*** Yenisei Turkic:
+**** {{desc|clw|пит|tr=pit}}
+**** {{desc|cjs|пит|tr=pit}}
+*** {{desc|atv|пит}}
+{{bottom}}
+
+{{c|trk-pro|Parasites|Insects}}

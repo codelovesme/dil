@@ -1,0 +1,52 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[wash]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫу}}
+*** {{desc|hu|gyónik}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|yûmaq}}
+* Oghuz:
+** {{desctree|trk-oat|یومق|tr=yumaq}}
+** {{desc|slr|yüğüsi}}
+** {{desc|tk|ýuwmak}}
+* Karluk:
+** {{desctree|xqa|یُوماقْ|tr=yūmʾq|ts=yūmaq}}
+* Kipchak:
+** Kipchak–Bulgar:
+*** {{desc|ba|йыуыу}}
+*** {{desc|tt|юарга|yuarğa}}
+** Kipchak–Cuman:
+*** {{desc|crh|yuvmaq|cuvmaq}}
+*** {{desc|krc|жууаргъа}}
+*** {{desc|kdr|йув<tr:yuv>|יוב<tr:yuv>}}
+*** {{desc|kum|юмакъ}}
+** Kipchak–Nogai:
+*** {{desc|kk|жуу}}
+*** {{desc|nog|ювув}}
+** Kyrgyz–Kipchak:
+*** {{desc|ky|жуу}}
+*** {{desc|alt|јунар|јуур}} {{attn|trk-pro|this is clearly the reflexive form. needs transitive.}}
+* Siberian:
+** {{desc|sah|сууй}}
+** South Siberian
+*** Yenisei:
+**** {{desc|kjh|чуурға}}
+**** {{desc|cjs|чун-}}
+*** Sayan:
+**** {{desc|tyv|чуур}}
+**** {{desc|kim|чу-|чун-}}
+*** {{desc|atv|чунарга}}
+*** {{desc|ybe|yu|yuv-}}
+{{bottom}}
+
+{{top|trk-pro|Hygiene}}

@@ -1,0 +1,95 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Usually compared to {{cog|xgn-pro|*bi|t=I}} and {{cog|tuw-pro|*bi|t=I}}.
+
+The Common Turkic form {{m|trk-pro|*ben}} is a result of back formation from the oblique stem {{m|trk-pro|*bẹn-}} with the pronominal-n.<ref>Róna-Tas, András (1999) [https://www.jstor.org/stable/43391366 "CHUVASH AND HISTORICAL MORPHOLOGY"], in ''Acta Orientalia Academiae Scientiarum Hungaricae'', volume 52, pages 1-15.</ref>
+
+===Pronoun===
+{{head|trk-pro|pronoun|cat2=personal pronouns}}
+
+# [[I]]
+
+====Declension====
+{{trk-pro-decl-pron|*bẹ|*beni|*beniŋ|*baŋa|*bente|*benten|*baŋaru|*benin|*benče|*benleyü|*benligü}}
+
+===Postposition===
+{{head|trk-pro|postposition}}
+
+# Denotes "to [[be]]" for first person singular when at the end of an object; [[am]]
+# Denotes first person singular after various tenses
+#: {{uxa|trk-pro|*kelür '''ben'''|'''I''' come}} {{q|Common Turkic}}
+
+====Derived terms====
+* {{l|trk-pro|*beniŋ|*be-niŋ}}
+* {{l|trk-pro|*beni|*be-ni}}
+
+====Related terms====
+* {{l|trk-pro|*birᶻ|t=we}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|эпӗ}}
+* {{desc|trk-cmn-pro|*ben}}
+{{top3}}
+* Arghu:
+** {{desc|klj|mən}}
+* Oghuz: {{l|xqa|بَنْ|tr=bän}}
+** {{desc|trk-oat|بن|tr=bän|ـون|tr2=-vän}}
+*** Ajem-Turkic: {{l|az|من|tr=män}}, {{l|az|ـم|tr=-äm}}
+**** {{desc|az|mən|-əm}}
+**** {{desc|qxq|من|ـم|tr=män|tr2=-äm}}
+**** Sonqori: {{desc|az|مه|tr=mä|nolang=1}},<ref>{{cite-web|title=Sonqori: mä|url=https://turkic.elegantlexicon.com/lxforms.php?lx=snq|author=Straughn, Christopher A.|work=Turkic database at Elegant Lexicon|year=2023}}</ref> {{desc|az|ـم|tr=-äm|nolang=1}}
+*** {{desc|ota|بن|tr=ben|ـم|tr2=-im}}
+**** {{desc|gag|bän|-im}}
+**** {{desc|tr|ben|-im}}
+** {{desc|slr|men}}
+** {{desc|tk|men|-in}}
+* Karluk:
+** {{desc|xqa|مَنْ|tr=män}}
+*** {{desc|zkh|بن|tr=bän|من|tr2=män}}
+**** {{desc|chg|من|tr=män}}
+***** {{desc|ug|مەن|ـمەن}}
+***** {{desc|uz|men|-man}}
+* Kipchak:
+** {{desc|qwm|من|tr=män}}
+*** North Kipchak:
+**** {{desc|ba|мин}}
+**** {{desc|tt|мин}}
+*** West Kipchak:
+**** {{desc|crh|men}}
+**** {{desc|krc|мен}}
+**** {{desc|kdr|мэн}}
+**** {{desc|kum|мен}}
+*** South Kipchak:
+**** Caspian:
+***** {{desc|kaa|мен}}
+***** {{desc|kk|-}}
+*****: {{desc|kk|مەن|;|ـمىن|ـبىن|ـپىن|sclang=1}}
+*****: {{desc|kk|мен|;|-мін|-мын|-бін|-бын|-пын|-пін|sclang=1}}
+***** {{desc|nog|мен}}
+**** Kyrgyz-Kipchak:
+***** {{desc|ky|мен}}
+***** {{desc|alt|мен}}
+* Siberian:
+** Old Turkic:
+*** {{desc|otk|𐰢𐰤|ts=män|𐰋𐰤|ts2=bän|𐰌𐰥}}
+*** {{desctree|oui|𐽹𐽺<ts:män>}}
+** North Siberian:
+*** {{desc|dlg|мин|tr=min}}
+*** {{desc|sah|мин}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|мен|tr=men}}
+**** {{desc|tyv|мен|pos=pronoun and particle}}
+*** Yenisei Turkic:
+**** {{desc|kjh|мин}}
+**** {{desc|cjs|мен|tr=men}}
+*** {{desc|atv|мен|бин}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:xqa:DLT|pages=31, 339}}
+* {{R:trk:Clauson|entry=ben|page=346}}

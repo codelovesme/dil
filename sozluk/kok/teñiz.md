@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 19/40 · ağızlar 1/89 · duraklar 3/7 · tanık 22 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓16 ◐6**
+**seviye 0 · diller 19/40 · ağızlar 1/89 · duraklar 3/7 · tanık 22 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓16 ◑2 ◐4**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,16 +31,17 @@ Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **däñiz** | دَكِزْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **däñiz** | دَكِزْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/täŋirᶻ; sayfanın kaynakları: clauson, nisanyan, rasanen | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **teñiz** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **deñiz** | دكز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **deñiz** | دكز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/täŋirᶻ; sayfanın kaynakları: clauson, nisanyan, rasanen | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (däŋiz → däñiz).
+- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (däŋiz → däñiz). Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım tengis.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

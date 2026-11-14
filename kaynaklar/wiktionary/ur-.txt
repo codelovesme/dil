@@ -1,0 +1,53 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{ety|trk-pro|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[beat]], [[hit]]
+#: {{syn|trk-pro|*saba-|*sok-|*tȫg-}}
+# {{lb|trk-pro|transitive}} to [[pour]], [[strew]]
+
+====Descendants====
+* Oghur
+** {{desc|cv|вӑр|t=to beat}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Arghu
+** {{desc|klj|hurmaq}}
+* Oghuz
+** {{desc|trk-oat|unc=1|ورمق|tr=vurmaq}}
+** {{desc|trk-oat|اورمق|tr=urmaq}}
+*** {{desctree|az|vurmaq}}
+*** {{desc|gag|urmaa}}
+*** {{desc|ota|اورمق|وورمق|tr=urmak|tr2=vurmak}}
+**** {{desc|tr|vurmak}}
+** {{desc|slr|vurğusı}}
+** {{desc|tk|urmak}}
+* Karluk
+** {{desc|xqa|اُرْماقْ|tr=urmaq}}
+*** {{desc|uz|urmoq}}
+*** {{desc|ug|ئۇرماق}}
+* Kipchak
+** North Kipchak
+*** {{desc|ba|ороу}}
+*** {{desc|tt|ору}}
+** West Kipchak
+*** {{desc|crh|urmaq}}
+*** {{desc|krc|урургъа}}
+*** {{desc|kum|урмакъ }}
+** East Kipchak
+*** {{desc|ky|уруу}}
+*** {{desc|alt|урар}}.
+** South Kipchak
+*** {{desc|kk|ұру}}
+* Siberian
+** South Siberian
+*** Sayan
+**** {{desc|tyv|ур-}}
+{{bottom}}
+
+===References===
+{{reflist}}

@@ -1,0 +1,73 @@
+{{see also|Reconstruction:Proto-Turkic/agïŕ}}
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Şemseddin Sâmi proposes a derivation from {{suffix|trk-pro|*āg-|*-r|alt2=*ïr|gloss1=to rise}}, whence {{cog|tr|ağmak|t=to descend; rise, move up}}. However loss of long vowel is problematic. See potential cognates {{m|trk-pro|*agrïg||pain, ache}}, dialectal {{cog|tr|ağdık||oblique; heavy}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[heavy]]
+#: {{ant|trk-pro|*yẹnik|*yeŋil|*yüŋül}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*āgïr}} {{q|per Tekin & Gülensoy}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|йывӑр}}
+{{top3}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|ağır}}
+**** {{desc|gag|aar}}
+**** {{desctree|ota|آغر|tr=ağır}}
+** East Oghuz:
+*** {{desc|tk|agyr}}
+** {{desc|slr|ağır}}
+* {{desc|qwm}}
+** North Kicphak:
+*** {{desc|ba|ауыр}}
+*** {{desc|tt|авыр}}
+** West Kipchak:
+*** {{desc|crh|ağır|avur}}
+*** {{desc|krc|ауур}}
+*** {{desc|kdr|avur}}
+*** {{desc|kum|авур}}
+** South Kipchak:
+*** {{desc|kaa|awır}}
+*** {{desc|kk|ауыр}}
+*** {{desc|nog|авыр}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|оор}}
+*** {{desc|alt|уур}}
+* Karluk:
+** {{desc|xqa|اَغِرْ|ts=aɣïr}}
+*** {{desc|ug|ئېغىر}}
+*** {{desc|uz|ogʻir}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|otk-ork|𐰍𐰺|ts=aġïr}}
+*** {{desctree|oui|𐽰𐽰𐽲𐽶𐽾<ts:aġïr>}}
+** North Siberian:
+*** {{desc|dlg|ыар|tr=ıar}}
+*** {{desc|sah|ыар}}
+** Southe Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|аар|tr=aar}}
+**** {{desc|tyv|аар}}
+*** Yenisei Turkic:
+**** {{desc|clw|ар|аар|tr=ar|tr2=aar}}
+**** {{desc|kjh|аар}}
+**** {{desc|atv|аар}}
+**** {{desc|cjs|аар|tr=aar}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|pages=88-89|ağır}}
+* {{R:trk:VEWT|page=8}}
+* {{R:trk:SIGTJa|pages=338-339}}
+* {{R:trk:ESTJa|vol=1|pages=85-87}}
+* {{R:tr:Gülensoy:2007|page=53-54}}

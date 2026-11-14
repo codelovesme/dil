@@ -1,0 +1,73 @@
+{{reconstructed}}
+==Proto-Turkic==
+{{etymon|trk-pro|id=white}}
+
+===Etymology===
+{{rfe|trk-pro}}
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# {{tlb|trk-pro|Common Turkic}} [[white]]
+
+====Synonyms====
+* {{l|trk-pro|*ürüŋ|t=white }}
+
+====Derived terms====
+* {{l|trk-pro|*āk kugu}}
+
+====Descendants====
+{{top3}}
+* Oghuz: {{l|xqa|ااقْ|tr=āq}}
+** {{desc|trk-oat|}}
+*** {{desc|az|ağ|ağarmaq}}
+*** {{desc|ota|آق|tr=ak}}
+**** {{desc|gag|ak|aarmaa}}
+**** {{desc|tr|ak|ağarmak}}
+** {{desc|slr|ax|ağarğusı}}
+** {{desc|tk|āk|āgarmak}}
+* Karluk:
+** {{desc|chg|اق|tr=aq}}
+*** {{desc|uz|oq}}
+*** {{desc|ug|ئاق}}
+* Kipchak:
+** Western Kipchak:
+*** {{desc|krc|акъ}}
+*** {{desc|jct|ах}}
+*** {{desc|kum|акъ}}
+** North Kipchak:
+*** {{desc|ba|аҡ}}
+*** {{desc|tt|ак}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|aq}}
+**** {{desc|kk|ақ}}
+**** {{desc|nog|ак}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|ак}}
+**** {{desc|alt|ак}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|otk-ork|𐰀𐰴|tr=āq}}
+*** {{desc|oui|𐽰𐽰𐽲|ts=aḳ}}
+**** {{desc|ybe|aq}}
+** North Siberian:
+*** {{desc|sah|ак}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|аӄ}}
+**** {{desc|tyv|ак}}
+*** Yenisei Turkic:
+**** {{desc|kjh|ах}}
+**** {{desc|cjs|ақ}}
+*** {{desc|atv|ак}}
+{{bottom}}
+
+===See also===
+{{table:colors/trk-pro}}
+[[ru:*āk]]
+
+===References===
+* {{R:xqa:DLT|vol=1|page=81, 134}}
+
+{{C|trk-pro|Colors}}

@@ -1,0 +1,67 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{number box|trk-pro|50}}
+
+===Etymology===
+Perhaps from {{l|trk-pro|*älig||hand}}, see there for more.
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[fifty]]
+
+====Reconstruction notes====
+In Bulgar, Kazakh, Kyrgyz, and Southern Altai (noninitial ''-e'' is assimilated to ''-ö'' by labial vowel harmony rules), the final vowel ends in ''-ü'' (vowel harmony in the Kazakh letter {{m|kk|у}}, however, is unreflected) instead of ''-i'', as other Turkic languages do.
+
+====Descendants====
+* Oghur:
+** Volga {{desc|xbo|الو|[[ال|الُّ]]|tr=elü|tr2=ellü}}
+*** {{desc|cv|аллӑ}}
+* Common Turkic
+{{top3}}
+* Arghu:
+** {{desc|klj|əllig}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|əlli}}
+*** {{desc|ota|اللی|tr=elli}}
+**** {{desc|tr|elli}}
+**** {{desc|gag|elli}}
+** {{desc|slr|elli}}
+** {{desc|tk|elli}}
+* Karluk:
+** {{desc|xqa|}}
+*** {{desc|chg|اليک|tr=ällik}}
+**** {{desc|uz|ellik}}
+**** {{desc|ug|ئەللىك}}
+**** {{desc|ili|ellik}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|илле}}
+*** {{desc|tt|илле}}
+*** {{desc|sty|илле}}
+** West Kipchak:
+*** {{desc|crh|elli}}
+*** {{desc|kum|элли}}
+*** {{desc|krc|элли}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|елиў|tr=eliw}}
+**** {{desc|kk|елу}}
+**** {{desc|nog|элли}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|элүү}}
+**** {{desc|alt|ӧлӱ}} {{q|Teleut}}
+* Siberian:
+** {{desc|otk|𐰠𐰏|tr=älig}}
+** {{desc|oui|𐽰𐾁𐽶𐽷|tr=älig}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|cjs|элиг|tr=elig}}
+**** {{desc|kjh|иліг|tr=ilig}}
+*** {{desc|atv|элиг}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|pages=140-141|entry=ellig}}

@@ -1,0 +1,74 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{number box|trk-pro|6}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[six]]
+
+====Descendants====
+* Oghur:
+** {{desc|xbo-vol|اَلطِ|tr=altı}}
+*** {{desc|cv}}
+**** {{desc|cv-ana|улттӑ}}
+***** {{desc|cv-vir|олттӑ}}
+* {{desc|trk-cmn-pro|*altï}} {{top3}}
+** Arghu:
+*** {{desc|klj|alta}}
+** {{desc|trk-ogz-pro|*altï}}
+*** West Oghuz:
+**** {{desc|trk-oat|tr=altı}}
+***** {{desc|az|altı}}
+***** {{desctree|ota|آلتی|tr=altı}}
+*** East Oghuz:
+**** {{desc|slr|altı}}
+**** {{desc|tk|alty}}
+** Karluk:
+*** {{desc|xqa}}
+**** {{desc|zkh}}
+***** {{desc|chg|التە|tr=altä}}
+****** {{desc|ili|altı}}
+****** {{desc|uz|olti}}
+****** {{desc|ug|ئالتە}}
+** Kipchak:
+*** {{desc|qwm|الت|tr=altı}}
+**** North Kipchak:
+***** {{desc|ba|алты}}
+***** {{desc|tt|алты}}
+***** {{desc|sty|алты|tr=altï}}
+**** West Kipchak:
+***** {{desc|crh|altı}}
+***** {{desc|krc|алты}}
+***** {{desc|kdr|}}
+***** {{desc|kum|алты}}
+**** South Kipchak:
+***** {{desc|kk|алты}}
+***** {{desc|kaa|alti}}
+***** {{desc|nog|алты}}
+**** East Kipchak:
+***** {{desc|alt|алты}}
+***** {{desc|ky|алты}}
+** Siberian Turkic:
+*** {{desc|otk|𐰞𐱃𐰃|ts=altï}}
+*** {{desctree|oui|𐽰𐽰𐾁𐾀𐽶|ts=altï}}
+*** North Siberian:
+**** {{desc|dlg|алта|tr=alta}}
+**** {{desc|sah|алта}}
+*** South Siberian:
+**** Sayan Turkic:
+***** {{desc|kim|аълты|tr=àltı}}
+***** {{desc|tyv|алды}}
+***** {{desc|trk-dkh|аълты}}
+**** Yeniseian Turkic:
+***** {{desc|cjs|алты}}
+***** {{desc|kjh|алты}}
+**** {{desc|atv|алты}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* Dukhan word can find to [http://turkic.elegantlexicon.com/turkforms.php?form=six]
+* {{R:trk:Clauson|entry=altı:|page=130}}
+* {{R:Useinov-Mireev 2002}}

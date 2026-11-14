@@ -100,7 +100,15 @@ kaynaklar:
     dogrulama: >-
       2026-11-12: kategori sayfası açıldı (HTTP 200). Madde ham metni ?action=raw ile
       alınıyor (ben, sen, o bu yolla araştırıldı).
-    not: Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir.
+    not: >-
+      Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir.
+      Aracı kaynak sayılır: sayfanın gösterdiği kaynak tanıkta da varsa Wiktionary
+      bağımsız ikinci kaynak sayılmaz (ILKELER §12).
+    surum: >-
+      2026-11-14'te 119 sayfanın ham metni kaynaklar/wiktionary/ altında saklandı ve
+      parmak izleri surumler.yaml'a yazıldı; kök→sayfa eşlemesi ve sayfaların gösterdiği
+      kaynaklar kaynaklar/wiktionary-sayfalari.yaml'da. 39 kökün sayfası bulunamadı
+      (adı değişmiş ya da yanlış eşleşme); onların tanıkları 2026-11-12/14 canlı okumasıdır.
 
   - kimlik: wiktionary-swadesh
     ad: Wiktionary — Türk dilleri Swadesh listeleri
@@ -275,6 +283,7 @@ kaynaklar:
     dogrulama: >-
       2026-11-12: eski adres (etymologicaldict00clau) 404 veriyordu; yeni archive.org
       kaydı açıldı (HTTP 200).
+    surum: Clauson 1972 baskısı (PDF, altaica.ru), 2026-11-12 indirildi
 
   - kimlik: rasanen
     ad: Räsänen — Versuch eines etymologischen Wörterbuchs der Türksprachen (1969)
@@ -356,6 +365,7 @@ kaynaklar:
     not: >-
       Biçimlerin her biri kendi kaynağına bağlı (sources.bib); 32 dilin listesi
       languages.csv'de.
+    surum: lexibank/savelyevturkic master, 2026-11-12 indirildi
 
   - kimlik: apertium
     ad: Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)
@@ -382,6 +392,7 @@ kaynaklar:
       Dillerin olgunluğu farklıdır; Azerbaycanca dosyada belirtme hâli Türkiye
       Türkçesine göre yazılmış (-{y}{I}), Wiktionary ile çelişiyor. Bu yüzden
       mümkün olan yerde ikinci kaynakla denetlenir.
+    surum: master dalı, 2026-11-14 indirildi (20 dil, .lexc ve .twol)
 
   - kimlik: universal-dependencies
     ad: Universal Dependencies — işaretlenmiş derlemler (treebank)
@@ -408,6 +419,7 @@ kaynaklar:
     not: >-
       Azerbaycanca ve Sahaca derlemler küçüktür (900–1500 kelime); oradaki sayımlar
       zayıf kanıttır.
+    surum: master dalı, 2026-11-14 indirildi
 
   - kimlik: wiktionary-cekim
     ad: Wiktionary — dil maddelerindeki çekim (declension) tabloları
@@ -430,6 +442,7 @@ kaynaklar:
     dogrulama: >-
       2026-11-14: бала (Kazakça, Kırgızca), bola, بالا, bala (Kırım Tatarca),
       uşak, ana (Azerbaycanca) tabloları okundu.
+    surum: canlı sayfa, 2026-11-12 ile 2026-11-14 arasında okundu; sayfa dosyası saklanmadı (parmak izi yok)
 
   - kimlik: agiralioglu-akcan-2025
     ad: "Ağıralioğlu & Akçan 2025 — Türkçe kişi zamirlerinin bazı dil ve lehçelerdeki kişi zamirleriyle karşılaştırılması"
@@ -449,6 +462,7 @@ kaynaklar:
       2026-11-14: PDF indirildi, Tablo 4 okundu (Horasan, Karay, Halaç, Salar…).
     not: >-
       İkincil derlemedir; kaynakları (Bozkurt 2002 vb.) ayrıca denetlenmeli.
+    surum: PDF, 2026-11-14 indirildi
 
   - kimlik: ersoz-ahiska
     ad: "Ersöz, S. — Ahıska Ağzının Türkçenin Ağızları Arasındaki Yeri"
@@ -466,6 +480,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-14: PDF indirildi ve okundu.
+    surum: PDF, 2026-11-14 indirildi
 
   - kimlik: gemalmaz-erzurum
     ad: "Gemalmaz, E. — Erzurum İli Ağızları (özet makale)"
@@ -483,6 +498,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-14: PDF indirildi ve okundu.
+    surum: PDF, 2026-11-14 indirildi
 
   - kimlik: dasdemir-2008
     ad: "Daşdemir, M. 2008 — Anadolu ağızlarında çekimli yapılarda ortaya çıkan /+(E)n/ eki"
@@ -500,6 +516,7 @@ kaynaklar:
     durum: denendi
     dogrulama: >-
       2026-11-14: PDF indirildi ve okundu.
+    surum: PDF, 2026-11-14 indirildi
 
   - kimlik: wiktionary-sozluk
     ad: Wiktionary — dil maddeleri ve ek sayfaları (Swadesh listeleri)
@@ -519,6 +536,7 @@ kaynaklar:
     dogrulama: >-
       2026-11-14: siz (Karayca), men (Türkiye Türkçesi ağız), Appendix:Urum Swadesh list okundu;
       Kırımçak, Kaşkay, Horasan, Irak Türkmen Swadesh sayfaları yok (404).
+    surum: canlı sayfa, 2026-11-12 ile 2026-11-14 arasında okundu; sayfa dosyası saklanmadı (parmak izi yok)
 
   - kimlik: tatoeba
     ad: Tatoeba — çok dilli cümle derlemi
@@ -547,6 +565,7 @@ kaynaklar:
       (https://tatoeba.org/sentences/show/<kimlik>). Çeviriler gönüllülerindir;
       bir kısmı Türkiye Türkçesinden yakın çeviri olduğu için diller arası
       benzerliği olduğundan yüksek gösterebilir. Tatarca hem Kiril hem Latin harfli.
+    surum: dil başına dışa aktarım, 2026-11-13 indirildi
 
   - kimlik: northeuralex
     ad: NorthEuraLex
@@ -581,6 +600,7 @@ kaynaklar:
     dogrulama: >-
       2026-11-12: açıldı (HTTP 200). Dil sayfaları ör. asjp.clld.org/languages/QASHQAI_2,
       OLD_TURKIC, ILI_TURKI.
+    surum: lexibank/asjp master, 2026-11-14 indirildi
 
   - kimlik: concepticon
     ad: Concepticon — kavram listeleri veritabanı
@@ -793,10 +813,11 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
     dogrulama: >-
-      2026-11-12: DOAB ve OAPEN hız sınırı veriyor (HTTP 429). Aralıklı denenmeli; arama
-      motorunda kayıt görüldü.
+      2026-11-14: PDF univerlag.uni-goettingen.de'den indirildi (10,9 MB), metin katmanı var
+      (pdftotext); OAPEN adresi 429 verdi. Madde başı + Almanca + '||' + Türkçe açıklama düzeni.
+    surum: Wilkens 2021 PDF, 2026-11-14 indirildi
 
   - kimlik: dts
     ad: Древнетюркский словарь (1969)

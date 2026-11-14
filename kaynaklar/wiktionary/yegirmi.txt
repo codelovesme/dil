@@ -1,0 +1,72 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{number box|trk-pro|20}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[twenty]]
+
+====Descendants====
+* {{desc|trk-ogr-pro|*ǰeɣirmi}}
+** {{desc|trk-bul-pro|*č́eɣirmi}}
+*** {{desc|xbo-vol|جِيِرم|tr=ǯiyirmi|جِيَرم|tr2=ǯiyermi|جِيَارمِ|tr3=ǯiyêrmi}}
+**** Late {{desc|xbo-vol|*śerim}}
+***** {{desc|cv-old|*śerĭm}}
+****** {{desc|cv-mid|*śirĭm}}
+******* {{desc|cv|ҫирӗм}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|yigirmi}}
+* {{desc|trk-ogz-pro|*yigirmi}}
+** West Oghuz:
+*** {{desc|trk-oat|}}
+**** {{desc|az|iyirmi}}
+**** {{desc|ota|یگرمی|tr=yigirmi}}
+***** {{desc|gag|yirmi}}
+***** {{desc|tr|yirmi}}
+** East Oghuz::
+*** {{desc|slr|yiğirme}}
+*** {{desc|tk|ýigrimi}}
+* Karluk:
+** {{desc|xqa|یِكِرْما|tr=yigirme}}
+*** {{desc|chg|}}
+**** {{desc|ug|يىگىرمە}}
+**** {{desc|uz|yigirma}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|yigirmi}}
+*** {{desc|krc|джыйырма}}
+*** {{desc|kdr|yigirmi}}
+*** {{desc|kum|йигирма}}
+*** {{desc|uum|йирми|tr=yirmi}}
+** South Kipchak:
+*** {{desc|kaa|жигирма|tr=jigirma}}
+*** {{desc|kk|жиырма}}
+*** {{desc|nog|йырма}}
+** Northern Kipchak:
+*** {{desc|ba|егерме}}
+*** {{desc|tt|егерме}}
+**Eastern Kipchak:
+*** {{desc|ky|жыйырма}}
+*** {{desc|alt}}
+**** Teleut: {{l|alt|јирме}}
+* Siberian:
+** {{desc|otk-ork|𐰘𐰏𐰃𐰼𐰢𐰃}}
+** {{desctree|oui|𐽶𐽷𐽾𐽹𐽶|ts=yégirmi}}
+** North Siberian:
+*** {{desc|dlg|һүүрбэ|tr=hüürbe}}
+*** {{desc|sah|сүүрбэ}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|чээрби}}
+*** Yenisei Turkic:
+**** {{desc|kjh|чибірге}}
+**** {{desc|cjs|чегирбе|чебирге|tr1=çegirbe|tr2=çebirge}}
+*** {{desc|atv|чигирбе|тьербе|тьерве}}
+{{bottom}}
+
+===References===
+* {{R:cv:Agyagasi:2019|pages=140, 233}}

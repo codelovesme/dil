@@ -1,0 +1,53 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{rfe|trk-pro}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[awl]]
+
+====Descendants====
+* {{desc|trk-cmn|}}
+{{top3}}
+* {{desc|trk-ogz|}}
+** {{desc|trk-oat|}}
+*** {{desc|az|biz}}
+*** {{desctree|ota|بیز}}
+** {{desc|slr|biz}}
+** {{desc|tk|bīz}}
+* {{desc|trk-kar|}}
+** {{desc|ug|بېگىز|بىگىز}}
+** {{desc|uz|bigiz}}
+* {{desc|trk-kip|}}
+** {{desc|trk-kbu|}}
+*** {{desc|ba|беҙ}}
+*** {{desc|tt|без}}
+** {{desc|trk-kcu|}}
+*** {{desc|qwm-cum|tr=biz}}
+*** {{desc|crh|biz}}
+*** {{desc|krc|tr=miz}}
+*** {{desc|kdr|tr=biz}}
+*** {{desc|kum|tr=biz}}
+** {{desc|trk-kno}}
+*** {{desc|kaa|biz}}
+*** {{desc|kk|біз}}
+*** {{desc|nog|биз}}
+** {{desc|trk-kkp|}}
+*** {{desc|ky|миз}}
+*** {{desc|alt|мис}}
+* {{desc|trk-sib|}}
+** {{desc|oui|𐽼𐽶𐽴|ts=biz}}
+*** {{desc|ybe|tr=buz|tr2=bız}}
+** Sayan:
+*** {{desc|kim|tr=bis}}
+*** {{desc|tyv|бис}}
+** Yenisei:
+*** {{desc|kjh|піс}}
+*** {{desc|cjs|tr=pis}}
+{{bottom}}
+
+===References===
+* {{R:trk-pro:SDM}}

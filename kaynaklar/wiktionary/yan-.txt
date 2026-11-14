@@ -1,0 +1,116 @@
+{{reconstructed}}
+{{see also|Reconstruction:Proto-Turkic/yān-|Reconstruction:Proto-Turkic/yāń-|Reconstruction:Proto-Turkic/yān}}
+==Proto-Turkic==
+
+===Etymology 1===
+{{rfe|trk-pro}}
+
+====Verb====
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[burn]]
+
+=====Derived terms=====
+* {{l|trk-pro|*yandïr-|t=to burn (transitive)}}
+
+=====Related terms=====
+* {{l|trk-pro|*yak-|t=to burn (transitive)}}
+
+=====Descendants=====
+* Oghur:
+** {{desc|cv|ҫун|ҫундар}}
+* Common Turkic:
+{{top3}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|yanmaq|yandırmaq}}
+*** {{desc|ota|}}
+**** {{desc|gag|yanmaa}}
+**** {{desc|tr|yanmak}}
+** {{desc|tk|ýanmak}}
+* Karluk:
+** {{desc|xqa||tr=yan-}}
+*** {{desc|chg|}}
+**** {{desc|ug|tr=yan-}} (dial.)
+**** {{desc|uz|yonmoq}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|яныу}}
+*** {{desc|tt|tr=yan-|tr2=yandır-}}
+** West Kipchak:
+*** {{desc|crh|yanmaq}}
+*** {{desc|krc|tr=yan-}}
+*** {{desc|kdr|tr=yan-}}
+*** {{desc|kum|tr=yan-}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|tr=žan-}}
+**** {{desc|kk|жану}}
+**** {{desc|nog|tr=yan-|tr2=yandır-}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жануу}}
+**** {{desc|alt|јандырар}}
+* Siberian:
+** North Siberian:
+*** {{desc|sah|сандаар}}
+{{bottom}}
+
+====References====
+* {{R:trk-pro:SDM|*jan-, *jan-tɨr-}}
+* {{R:trk:Clauson|page=941-942}}
+* {{R:gag:trBaskakov|page=257}}
+
+===Etymology 2===
+{{rfe|trk-pro}}
+
+====Verb====
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[turn back]]
+
+=====Derived terms=====
+* {{l|trk-pro|*yana}}
+
+=====Descendants=====
+* Common Turkic:
+{{top3}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|yenə}}
+*** {{desc|ota|ینه}}
+**** {{desc|tr|yine|yankı}}
+** {{desc|slr|yanğusı}}
+** {{desc|tk|ýene}}
+* Karluk:
+** {{desc|xqa||tr=yan-|tr2=yana}}
+*** {{desc|chg|}}
+**** {{desc|ug||tr=yan-|يەنە|tr2=yana}}
+**** {{desc|uz|yonmoq|yana}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|йәнә}}
+*** {{desc|tt|йәнә|tr2=yan-}}
+** West Kipchak:
+*** {{desc|kdr|tr=yana}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|tr=žäne}}
+**** {{desc|kk|және}}
+**** {{desc|nog|tr=yana}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жануу|жана}}
+**** {{desc|alt|јанар}}
+* Siberian:
+** {{desc|otk||𐰖𐰣𐰀|tr=yan-|tr2=yana}}
+*** {{desc|otk-kir|tr=yan-}}
+**** {{desc|kjh|нанарға}}
+**** {{desc|cjs|нанарға}}
+*** {{desc|oui|tr=yan-}}
+**** {{desc|ybe|tr=yan-}}
+** South Siberian:
+*** {{desc|kim|нянар}}
+*** {{desc|tyv|чанар}}
+{{bottom}}
+
+====References====
+* {{R:trk:Clauson|page=941-942}}

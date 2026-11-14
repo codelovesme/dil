@@ -1,0 +1,66 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{m|trk-pro|*ōyun|t=game}} {{suffix|trk-pro||*-a}}.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[play]]
+# {{lb|trk-pro|transitive}} to [[play]] an [[instrument]]
+# {{lb|trk-pro|transitive|intransitive}} to [[play]] with
+
+====Conjugation====
+{{trk-cmn-conj-v|ōyna|a}}
+
+====Descendants====
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|oynamaq}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|az|oynamaq}}
+*** {{desc|ota|اوینامق|tr=oynamak}}
+**** {{desc|tr|oynamak}}
+** East Oghuz:
+*** {{desc|tk|oýnamak}}
+* Karluk:
+** {{desc|ug|ئوينىماق}}
+** {{desc|uz|oʻynamoq}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|уйнау}}
+*** {{desc|tt|уйнау}}
+** West Kipchak:
+*** {{desc|crh|oynamaq}}
+*** {{desc|kum|ойнамакъ}}
+** South Kipchak:
+*** {{desc|kaa|tr=oyna-}}
+*** {{desc|kk|ойнау}}
+** East Kipchak:
+*** {{desc|ky|ойноо}}
+*** {{desc|alt|ойноор}}
+* Siberian:
+** Old Turkic:
+*** {{desc|oui|wynʾ-|tr=oyna-}}
+** North Siberian:
+*** {{desc|dlg|оойноо|tr1=ooynoo|оойньоо|tr2=ooyńoo}}
+*** {{desc|sah|оонньоо}}
+** South Siberian:
+*** {{desc|atv|ойнайарга}}
+*** Sayan Turkic:
+**** {{desc|kim|ойнаар}}
+**** {{desc|tyv|ойнаар}}
+*** Yenisei:
+**** {{desc|clw|ойниға|tr=oyniğa}}
+**** {{desc|kjh|ойнирға}}
+**** {{desc|cjs|турарға|tr=turarğa}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=275|entry=oyna:-}}
+* {{R:trk:Tekin:1995|page=177|entry=ōyun}}
+* {{R:trk:ESTJa|vol=I|page=436}}
+* {{R:trk:Rasanen|page=359}}

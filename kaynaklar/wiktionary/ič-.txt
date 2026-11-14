@@ -1,0 +1,56 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[drink]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ӗҫ}}
+* {{desc|trk-cmn-pro|*ič-}}:
+{{top3}}
+* Arghu:
+** {{desc|klj|içmək}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|içmək}}
+*** {{desc|ota|ایچمك}}
+**** {{desc|tr|içmek}}
+**** {{desc|gag|içmää}}
+** {{desc|tk|içmek}}
+* Karluk:
+** {{desc|xqa|اِجْماكْ|tr=ičmēk}}
+*** {{desc|zkh|اجماك|tr=ičmäk}}
+**** {{desc|chg|ایچماک|tr=ičmäk}}
+***** {{desc|uz|ichmoq}}
+***** {{desc|ug|ئىچمەك}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|эсеү}}
+*** {{desc|tt|эчү}}
+** West Kipchak:
+*** {{desc|crh|içmek}}
+*** {{desc|krc|ичерге}}
+*** {{desc|kdr|ičmia}}
+*** {{desc|kum|ичмек}}
+** East Kipchak:
+*** {{desc|ky|ичүү}}
+*** {{desc|alt|ич}}
+** South Kipchak:
+*** {{desc|kaa||tr=ish-}}
+*** {{desc|kk|ішу}}
+* Siberian:
+** {{desc|otk-ork|𐰃𐰲}}, {{desc|otk-ork|𐰱|tr=ič|nolang=1}}
+** {{desctree|oui|𐽰𐽶𐽽𐽹𐽰𐽷|ts=ičmek}}
+** North Siberian
+*** {{desc|dlg|ис}}
+*** {{desc|sah|ис}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|ижер}}
+*** Yenisei:
+**** {{desc|kjh|iзерге}}
+*** {{desc|atv|ижерге}}

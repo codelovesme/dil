@@ -1,0 +1,149 @@
+{{reconstructed}}
+==Proto-Turkic==
+{{number box|trk-pro|100}}
+
+===Etymology 1===
+
+====Numeral====
+{{head|trk-pro|numeral}}
+
+# [[hundred]]
+
+=====Descendants=====
+* Oghur:
+** {{desc|xbo-vol|جُور|tr=cǖr}}
+*** {{desc|cv|ҫӗр}}
+* {{desc|syd-pro|*jür|bor=1}} {{see desc}}
+* Common Turkic:
+{{top3}}
+* Karluk:
+** {{desc|xqa|يُوزْ|tr=yǖz}}
+*** {{desc|zkh|tr=yüz}}
+**** {{desc|chg|یوز|tr=yüz}}
+***** {{desc|ug|يۈز}}
+***** {{desc|uz|yuz}}
+* Arghu:
+** {{desc|klj|yü̂z}}
+* Kipchak:
+*: {{desc|qwm|tr=yüz}}
+*: {{desc|qwm-mam|tr=yüz|sc=Arab}}
+** East Kipchak:
+*** {{desc|ky|жүз}}
+*** {{desc|alt|јӱс}}
+** North Kipchak:
+*** {{desc|ba|йөҙ}}
+*** {{desc|tt|йөз}}
+** South Kipchak:
+*** {{desc|kk|жүз}}
+*** {{desc|kaa|júz}}
+*** {{desc|nog|юз}}
+** West Kipchak:
+*** {{desc|crh|yüz}}
+*** {{desc|kdr|}}
+*** Kumyk-Karachay:
+**** {{desc|krc|жюз}}
+**** {{desc|kum|юз}}
+* Oghuz:
+** {{desc|trk-oat|یوز}}
+*** {{desc|az|yüz}}
+*** {{desc|gag|üz}}
+*** {{desc|ota|یوز|tr=yüz}}
+**** {{desc|tr|yüz}}
+** Turkmen-Khorasan:
+*** {{desc|tk|ýüz}}
+*** {{desc|slr|tr=yüz}}
+* Siberian Turkic:
+** {{desc|otk|𐰘𐰇𐰕|tr=yüz}}
+** {{desc|oui|𐽶𐽳𐽴|tr=yüz}}
+*** {{desc|ybe|tr=yöz|3=|tr2=yuz}}
+** Old Yenisei: {{l|otk|𐰙𐰇𐰕|tr=yüz}}
+** Altai-Yenisei:
+*** {{desc|kjh|чӱс}}
+*** {{desc|cjs|чӱс}}
+*** {{desc|atv|чӱс}}
+** Sayan:
+*** {{desc|tyv|чүс}}
+** Yakut-Dolgan:
+*** {{desc|dlg|һүүс|tr=hüüs}}
+*** {{desc|sah|сүүс}}
+{{bottom}}
+
+===Etymology 2===
+{{rfe|trk-pro}}
+
+====Noun====
+{{head|trk-pro|noun}}
+
+# {{top|trk-pro|Face}} {{lb|trk-pro|anatomy}} [[face]]
+
+=====Declension=====
+{{trk-pro-decl-noun|ö}}
+
+=====Alternative reconstructions=====
+* {{alt|trk-pro|*dǖz}}<ref name="Doerfer">{{R:klj:Materials|page=311}}</ref>
+
+=====Descendants=====
+* Oghur:
+** {{desc|cv|нӗрӗ|t=appearance, beauty}}
+** {{desc|xgn-pro|*nixur|bor=1|unc=1|t=face}}<ref>{{R:trk:Clauson|page=982}}</ref><ref>{{R:tr:Nishanyan}}</ref>
+*** {{desc|mn|нүүр}}
+** {{desc|xng|bor=1|unc=1|ts=düri}}<ref>{{cite-journal|title=Words of Turkic Origin in the Vocabulary of Written and Middle Mongol I (A-D)|author=Ünal, Orçun|year=2019|url=https://www.academia.edu/39698538/Klasik_ve_Orta_Mo%C4%9Folca_S%C3%B6z_Varl%C4%B1%C4%9F%C4%B1nda_T%C3%BCrk%C3%A7e_K%C3%B6kenli_Kelimeler_I_A_D_Words_of_Turkic_Origin_in_the_Vocabulary_of_Written_and_Middle_Mongol_I_A_D_|journal=Journal of Old Turkic Studies|page=585|archiveurl=https://web.archive.org/web/20221020215210/https://www.academia.edu/39698538/Klasik_ve_Orta_Mo%C4%9Folca_S%C3%B6z_Varl%C4%B1%C4%9F%C4%B1nda_T%C3%BCrk%C3%A7e_K%C3%B6kenli_Kelimeler_I_A_D_Words_of_Turkic_Origin_in_the_Vocabulary_of_Written_and_Middle_Mongol_I_A_D_|archivedate=20 October 2022}}</ref>
+*** {{desc|cmg|ᠳᠦᠷᠢ}}
+**** {{desc|mn|дүр}}
+** {{desc|cmg|der=1|bor=1|unc=1|ᠳᠦᠷᠰᠦ}}<ref name="Doerfer"/>
+*** {{desc|mn|дүрс}}
+* Arghu:
+** {{desc|klj|yü̂z}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|üz}}
+**** {{desc|gag|yüz}}
+**** {{desc|ota|یوز|tr=yüz}}
+***** {{desc|tr|yüz}}
+** Salar:
+*** {{desc|slr|tr=yüz|3=|tr2=yiz}}
+** East Oghuz:
+*** {{desc|tk|ýüz}}
+* Kipchak:
+** {{desc|qwm|tr=yüz}}
+*** {{desc|qwm-mam|tr=yüz}}
+** Khorezmian: {{l|zkh|tr=yüz}}
+** West Kipchak:
+*** {{desc|crh|yüz}}
+*** {{desc|kum|юз}}
+** North Kipchak:
+*** {{desc|ba|йөҙ}}
+*** {{desc|tt|йөз}}
+** South Kipchak:
+*** {{desc|kk|жүз}}
+*** {{desc|kaa|ju'z}}
+*** {{desc|nog|юз}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|жүз}}
+*** {{desc|alt|јӱс}}
+* Karluk:
+** {{desc|xqa|يُوزْ|ts=yǖz}}
+*** {{desc|chg|یوز|ts=yüz}}
+**** {{desc|uz|yuz}}
+**** {{desc|ug|يۈز}}
+* Siberian:
+*** {{desc|otk|𐰘𐰇𐰕|tr=yüz}}
+*** {{desc|oui|ywz|tr=yüz}}
+** North Siberian:
+*** {{desc|dlg|һүүс|tr=hüüs}}
+*** {{desc|sah|сүүс}}
+** South Siberian:
+*** {{desc|ybe|tr=yüz}}
+*** Sayan Turkic:
+**** {{desc|kim|чүс|tr=çüs}}
+**** {{desc|tyv|чүс}}
+*** Yenisei Turkic:
+**** {{desc|clw|щӱс|tr=ščüs}}
+**** {{desc|kjh|чӱс}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:trk:Clauson|page=982|entry=yü:z}}

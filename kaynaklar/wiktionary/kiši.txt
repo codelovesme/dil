@@ -1,0 +1,68 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{unc|trk-pro}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{lb|trk-pro|Common Turkic}} [[person]], [[human being]]
+# a [[husband]] or a [[wife]], [[partner]] {{q|addressed so by their other partner}}
+
+====Declension====
+{{trk-cmn-decl-noun|i}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*kišī}} {{q|per Clauson}}
+
+====Descendants====
+{{top3}}
+* Arghu:
+** {{desc|klj|kişi|t=woman}}
+* Oghuz:
+** {{desctree|trk-oat|كشی}}
+** {{desc|slr|kiş}}
+** {{desc|tk|kişi}}
+* Karluk:
+** {{desc|xqa|كِشٖی|tr=kiši}}
+*** {{desc|chg|كىشى}}
+**** {{desc|uz|kishi}}
+**** {{desc|ug|كىشى}}
+* Kipchak:
+** East Kipchak:
+*** {{desc|ky|киши}}
+*** {{desc|alt|кижи}}
+** North Kipchak:
+*** {{desc|ba|кеше}}
+*** {{desc|tt|кеше}}
+** South Kipchak:
+*** {{desc|kk|кісі}}
+*** {{desc|kaa|киси}}
+*** {{desc|nog|киси}}
+** West Kipchak:
+*** {{desc|crh|kişi}}
+*** {{desc|kum|гиши}}
+*** {{desc|krc|киши}}
+*** {{desc|uum|киши}}
+* Siberian Turkic:
+** {{desc|otk|𐰚𐰃𐰾𐰃|tr=kiši}}
+** {{desc|oui|𐽷𐽶𐽿𐽶|ts=kiši}}
+*** {{desc|ybe|kəsə|ɡəsə}}
+** Yakut-Dolgan:
+*** {{desc|dlg|киһи}}
+*** {{desc|sah|киһи}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|киши}}
+**** {{desc|tyv|кижи}}
+*** Yenisei:
+**** {{desc|cjs|кижи}}
+**** {{desc|kjh|кізі}}
+*** {{desc|atv|кижи}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=752-753|kişi:}}
+
+{{top|trk-pro|People}}

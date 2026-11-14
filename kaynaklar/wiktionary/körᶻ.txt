@@ -1,0 +1,109 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{ety|trk-pro|:from|*kör-}}
+A derivation from {{m|trk-pro|*kör-|t=to see}},<ref name="Nişanyan">{{R:tr:Nişanyan|göz}}</ref><ref name="Clauson">{{R:trk:Clauson|page=756|entry=kö:z}}</ref><ref name="EDAL">{{R:tut-pro:SDM|*göŕ|url=https://starlingdb.org/cgi-bin/response.cgi?single=1&basename=%2fdata%2falt%2fturcet&text_number=27&root=config}}</ref> however, the exact way of the derivation is uncertain. Clauson comments that "there is obviously a very old etymological connection with {{m|trk-pro|*kör-}}".<ref name="Clauson"/> Nişanyan comments on the [[vagueness]] of the exact morphological relation between the two roots.<ref name="Nişanyan"/> Possibly an [[anthimeria|anthimeric]] ([[zero derivation]]) form of {{m|trk-pro|*kör-}}.
+
+There is no consensus on the origin of the Chuvash {{m|cv|куҫ}}, which is integral in part of determining the antiquity of the Proto-Turkic root. EDAL, Sevortyan, Yegorov and Fedotov suppose that Chuvash form indeed goes back to [[Proto-Turkic]] stage, but each with different reconstructions and methods. Eren (1982), in his remarks on Yegorov's work, disagree that Chuvash form may come from Proto-Turkic but Tatar.
+
+{{w|Siberian Turkic|Siberian languages}} at large have adopted {{m|trk-pro|*karak|t=eye, pupil}}, replacing the original {{m|trk-pro|*köŕ|*köz}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[eye]]
+#: {{syn|trk-pro|*karak}}
+# [[sight]]
+#: {{syn|trk-pro|*körüĺ|*yïntïg}}
+
+====Reconstruction notes====
+Reconstruction of the final palatalized rhotic ('''*ŕ''') depends on whether Chuvash form is genuine or a [[Tatar]] [[borrowing#Noun|borrowing]].
+
+====Declension====
+{{trk-pro-decl-noun|ö}}
+
+====Alternative reconstructions====
+* {{l|trk-pro|*köz}} (per {{w|Martti Räsänen|Räsänen}})
+* {{l|trk-pro|*kȫz}} (per {{w|ru:Севортян, Эрванд Владимирович|Sevortyan}}, {{w|Gerard Clauson}})
+* {{l|trk-pro|*kör-s(i)}} (per {{w|Etymological Dictionary of the Altaic Languages|EDAL}}, {{w|cv:Федотов Михаил Романович|Fedotov (1996)}})
+
+====Descendants====
+* {{desc|trk-ogr|'''*köŕ'''|unc=1}}
+** {{desc|cv-old|*kur(s/či)|unc=1}}<ref>{{R:cv:Fedotov|куҫ I/коҫ I|page=315}}</ref>
+*** {{desc|cv-mid|*kur(śĕ)|unc=1}}<ref>{{R:cv:Fedotov|куҫ I/коҫ I|page=314}}</ref>
+**** {{desc|cv|куҫ|unc=1}}
+***** {{desc|cv|куҫлӗх|t=glasses, mirror|der=1}}
+*** {{desc|cv-mid|*kü(r)ś|unc=1}}
+**** {{desc|cv|'''*kĕś'''|unc=1}}
+***** {{desc|cv|куҫкӗски|t=mirror|der=1|unc=1}} (< {{m|cv|куҫ}} + '''*kĕś''' + {{m|trk-pro|*-gü}})<ref>{{R:TMN|entry=كوزكی|page=638}}</ref> (''if not from {{cog|tt|көзге}} or {{cog|ba|көҙгө}} instead'')
+* {{desc|trk-cmn-pro|*köz}}
+{{top3}}
+* {{desc|klj-arg}}
+** {{desc|klj|köz}}
+* {{desc|trk-ogz}}
+** {{desc|trk-oat|كوز|tr=göz}}
+*** {{desc|az|göz}}
+*** {{desc|gag|göz}}
+*** {{desctree|ota|گوز|tr=göz}}
+** {{desc|tk|göz}}
+** {{desc|slr|göz|gaozi}}
+* {{desc|trk-kar}}
+** {{desc|xqa|كُوزْ|tr=kȫz}}
+*** {{desc|zkh|كوز|tr=köz}}
+**** {{desc|chg|كوز|tr=göz}}
+***** {{desc|chg|كوزكی|t=[[mirror]]}}
+****** {{desc|fa-cls|كوزكی|t=[[mirror]]}}
+***** {{desc|uz|koʻz}}
+***** {{desc|ug|كۆز}}
+** {{desc|ili|kȯz|tr=koz}}
+* {{desc|trk-kip}}
+** {{desc|qwm-mam|كوز|tr=köz}}
+** {{desc|trk-kbu}}
+** {{desc|ba|күҙ}}
+** {{desc|tt|күз}}
+*** {{desc|cv|куҫ|bor=1|unc=1}}
+** {{desc|trk-kcu|chox|tr=köz}} ({{w|Codex Cumanicus}})
+*** {{desc|crh|köz}}
+*** {{desc|krc|кёз}}
+**** {{desc|krc|кёзбав|der=1|t=[[witchcraft]], [[magic]]}}
+*** {{desc|kum|гёз}}
+*** {{desc|kdr|коз|tr=koz}}
+*** {{desc|uum|кӧз}}
+** {{desc|trk-kno}}
+*** {{desc|kk|көз}}
+*** {{desc|kaa|ko'z}}
+*** {{desc|nog|коьз}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|көз}}
+*** {{desc|alt|кӧс}}
+* {{desc|trk-sib}}
+** {{desc|otk|𐰚𐰇𐰕|tr=köz}}
+** {{desc|oui|𐽷𐽳𐽶𐽴|ts=köz}}
+*** {{desc|oui|𐽷𐽳𐽶𐽴𐽳𐽺𐽹𐽰𐽷|ts=közünmäk|t=to appear|der=1}}
+*** {{desc|ybe|kos|kohs|tr=köz}}
+** {{desc|trk-nsb}}
+*** {{desc|sah|көһүн|t=to appear|der=1}}
+*** {{desc|dlg|көһүн|t=to appear|tr=köhün|der=1}}
+** {{desc|trk-ssb}}
+*** ⇒ Soyot: {{l|tyv|көскүдәр|t=to show}}
+*** {{desc|kim|көстүр|t=to appear|der=1}}
+*** {{desc|tyv|көскү|t=visible|көстүк|t2=glasses|der=1}}
+*** {{desc|atv|кӧз}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:cv:Agyagasi:2019|page=172, 181, 206-7, 222}} 
+* {{R:cv:Eren|page=38}}
+* {{R:cv:Fedotov|куҫ I/коҫ I|page=314-315}}
+* {{R:TMN|entry=كوزكی|vol=3|page=637-639}}
+* {{R:cv:Yegorov|куҫ I|page=120}}
+* {{R:trk:Rasanen|köz|page=295}}
+* {{R:trk:ESTJa|vol=3|гөз|page=60-63}}
+* {{R:SIGTYA|vol=4|page=209}}
+* {{R:tr:Tietze|göz|vol=3|page=273-274}}
+
+{{topics|trk-pro|Eye|Vision}}

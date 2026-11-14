@@ -1,0 +1,68 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{rfe|trk-pro}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{top|trk-pro|Organs}} {{lb|trk-pro|anatomy}} [[heart]]
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Descendants====
+* {{desc|xgn-pro|*ǰirüken|bor=1}}<ref>{{R:tr:Nişanyan|yürek}}</ref> {{see desc}}
+* Oghur:
+** {{desc|cv|чӗре}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|yirək}}
+* Oghuz:
+** {{desc|trk-oat|یُورَكْ|tr=yüräk}}
+*** {{desc|az|ürək}}
+*** {{desc|gag|ürek}}
+*** {{desctree|ota|یورك|tr=yürek}}
+** {{desc|slr|yirik}}
+** {{desc|tk|ýürek}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|krc|джюрек}}
+*** {{desc|crh|yürek}}
+*** {{desc|kum|юрек|tr=yürek}}
+** North Kipchak:
+*** {{desc|ba|йөрәк}}
+*** {{desc|tt|йөрәк}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|júrek}}
+**** {{desc|kk|жүрек}}
+**** {{desc|nog|юрек}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жүрөк}}
+**** {{desc|alt|јӱрек}}
+* Karluk:
+** {{desc|xqa|يُرَكْ|tr=yürek}}
+*** {{desc|chg|یوراک|tr=yüräk}}
+**** {{desc|uz|yurak}}
+**** {{desc|ug|يۈرەك}}
+* Siberian:
+** {{desctree|oui|𐽶𐽳𐽾𐽰𐽷|ts=yüräk}}
+** North Siberian:
+*** {{desc|dlg|һүрэк|tr=hürek}}
+*** {{desc|sah|сүрэх}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|чүрек|tr=çürek}}
+**** {{desc|tyv|чүрек}}
+*** Yenisei:
+**** {{desc|clw|щӱрӓк|tr=ščürek}}
+**** {{desc|kjh|чӱрек|tr=çürek}}
+**** {{desc|atv|чӱрек|тьӱрек|тьӱрӧк}}
+**** {{desc|cjs|чӱрек|tr=çürek}}
+{{bottom}}
+
+===References===
+{{reflist}}

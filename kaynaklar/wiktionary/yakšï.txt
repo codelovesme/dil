@@ -1,0 +1,61 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{suf|trk-pro|*yakïš-|*-i|alt2=*-ï|t1=to be fit, to be suitable}}.<ref>{{R:otk:Erdal:1991|vol=I|page=344}}</ref><ref>{{R:tr:Nişanyan|yahşi}}</ref>
+<!--{{w|Zhengzhang Shangfang}} proposes a relation to {{cog|bo|ཡག་པོ}}, {{cog|och|懿}}.<ref>{{cite-web|url=https://www.sohu.com/a/214606730_652594|author=郑张尚芳|title=亚克西漫话（外一篇）|date=2018-01-04|work=语言文字周报|publisher=搜狐}}</ref>-->
+
+===Adjective===
+{{head|trk-pro|adj}}{{tlb|trk-pro|Common Turkic}}
+
+# [[suitable]], [[pleasing]]
+# [[good]]
+#: {{syn|trk-pro|*edgü}}
+
+====Descendants====
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* {{desc|trk-ogz}}
+** {{desctree|trk-oat|یخشی|tr=yaḫşı}}
+** {{desc|slr|yaqşi}}
+** {{desc|tk|ýagşy}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|яҡшы}}
+*** {{desc|tt|яхшы}}
+** {{desc|trk-kcu}}
+*** {{desctree|qwm|iaczi}}
+**** {{desc|crh|yahşı}}
+**** {{desc|kdr|йахшы|tr=yaxšï|йакшы|tr2=yakšï}}
+**** {{desc|uum|йахшы|tr=yaxši}}
+** {{desc|trk-kno}}
+*** {{desc|kk|жақсы}}
+*** {{desc|kaa|жақсы}}
+*** {{desc|nog|яхшы}}
+*** {{desc|sty|йаҡшы|tr=yaqšï}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|жакшы}}
+*** {{desc|alt|јакшы}}
+* {{desc|trk-kar}}
+** {{desc|ili||tr=yaxšï}}
+** {{desctree|xqa|یَخْشٖی|tr=yaχšī|ts=yaχšï}}
+* {{desc|trk-sib}}
+** Late {{desc|oui|𐽶𐽰𐽲𐽿𐽶|ts=yaḥšï}}
+*** {{desc|ybe|jaxʂi|tr=yaχšï, yaʰšï}}<ref>{{R:ybe:Lei:1998|page=250|entry=jaxʂi}}</ref>
+** {{desc|ybe|jaxʂ|tr=yaʰš}}<ref>{{R:ybe:Lei:1998|page=250|entry=jaxʂ}}</ref>
+** {{desc|trk-ssb}}
+*** {{desc|atv|чакшы|дьакшы|qq=Kumandy-Kizhi}}
+*** {{desc|clw|чақшы|йақшы}}
+*** Sayan:
+**** {{desc|tyv|чакшы}} (rare)
+*** Yenisei:
+**** {{desc|kjh|чахсы}}
+***** {{desc|kjh-fyu|jahšĭ|tr=ǯaxšï}}
+**** {{desc|cjs|чақшы|tr=çaqşı}}
+*** {{desc|atv|чакшы}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=908|yaxşı:}}
+* {{R:trk:Rasanen|page=180}}

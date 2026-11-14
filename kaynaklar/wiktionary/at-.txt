@@ -1,0 +1,64 @@
+{{also|Reconstruction:Proto-Turkic/āt-|Reconstruction:Proto-Turkic/at}}
+{{reconstructed}}
+==Proto-Turkic==
+{{ety|trk-pro|id=throw|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[throw]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ывӑт}}
+* {{desc|trk-cmn-pro|*at-}} {{top3}}
+** Arghu:
+*** {{desc|klj|hatmaq}}
+** {{desc|trk-ogz-pro|*at-}}
+*** {{desc|trk-oat|}}
+**** {{desc|az|atmaq}}
+**** {{desc|ota|آتمق}}
+***** {{desc|gag|atmaa}}
+***** {{desc|tr|atmak}}
+*** {{desc|slr|atğusı}}
+*** {{desc|tk|atmak}}
+** Karluk:
+*** {{desc|xqa|اتماق}}
+**** {{desc|zkh|tr=at-}}
+***** {{desc|chg|tr=at-}}
+****** {{desc|uz|otmoq}}
+****** {{desc|ug|ئاتماق}}
+** Kipchak:
+*** {{desc|qwm|}}
+**** North Kipchak:
+***** {{desc|ba|атыу}}
+***** {{desc|tt|ату}}
+**** West Kipchak:
+***** {{desc|crh|atmaq}}
+***** {{desc|kum|атмакъ}}
+***** {{desc|uum|атмайа}}
+**** South Kipchak:
+***** Caspian:
+****** {{desc|kaa|}}
+****** {{desc|kk|ату}}
+****** {{desc|nog|атув}}
+***** Kyrgyz-Kipchak:
+****** {{desc|ky|атуу}}
+****** {{desc|alt|адар}}
+** Siberian:
+*** {{desc|otk|}}
+**** {{desc|otk-kir|𐱄|ts=at-}}
+***** {{desc|cjs||tr=at-}}
+***** {{desc|kjh||tr=at-}}
+**** {{desc|oui|𐽰𐽰𐾀𐽹𐽰𐽷|tr=atmak}}
+***** {{desc|ybe|atqu|tr=aʰt-}}
+**** Sayan:
+***** {{desc|kim|}}
+***** {{desc|tyv|адар}}
+*** North Siberian:
+**** {{desc|dlg|ыт}}
+**** {{desc|sah|ыт}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=36}}

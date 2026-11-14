@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 14/40 · ağızlar 0/89 · duraklar 3/7 · tanık 17 (kaynaklı %94) · kaynak 6 · yabancı kayıt 1 · denetim ✓11 ◐5 ⚠1**
+**seviye 0 · diller 14/40 · ağızlar 0/89 · duraklar 3/7 · tanık 17 (kaynaklı %94) · kaynak 6 · yabancı kayıt 1 · denetim ✓11 ◑1 ◐4 ⚠1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -33,14 +33,14 @@ Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Azerb
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **uruğ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **urlug** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **uruk** | اوروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **uruk** | اوروق | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/urug; sayfanın kaynakları: clauson, dlt | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazımlar uru, ourluc.
-- 16.–19. yy, Türkiye Türkçesi: Wiktionary aktarımı uruq.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary aktarımı uruq. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

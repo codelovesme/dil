@@ -1,0 +1,75 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+Potentially from {{suf|trk-pro|*yan-|*-ki|gloss1=to return, to come back}}, literally "the one that has returned, that has renewed", compare {{m|trk-pro|*yana|t=again}} and {{m|trk-pro|*yaŋïdan|t=again}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[new]]
+
+====Alternative reconstructions====
+* {{l|trk-pro|*yeŋi}}
+
+====Derived terms====
+* {{l|trk-pro|*yaŋïdan|t=again}}
+* {{l|trk-pro|*yapyaŋï|t=brand new}}
+* {{l|trk-pro|*yaŋïlan-|t= to be renewed}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫӗнӗ}}
+* {{desc|trk-cmn-pro|*yaŋï|*yeŋi}}:
+{{top3}}
+* Arghu:
+** {{desc|klj|yəngi}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** Afshar: {{l|az|eŋgi}}
+*** {{desc|az|yeni|yengi|q2=dialectal}}
+*** {{desc|ota|یڭی|tr=yeñi}}
+**** {{desc|gag|yeni}}
+**** {{desc|tr|yeni}}
+** {{desc|tk|ýaňy|t=just, recently}}
+** {{desc|slr|yañı}}
+* Karluk:
+** {{desc|chg|یانگی|tr=yaŋı|یینگی|tr2=yeŋi}}
+*** {{desc|uz|yangi}}
+*** {{desc|ug|يېڭى}}
+* Kipchak:
+** West-Kipchak:
+*** {{desc|crh|yañı}}
+*** {{desc|kum|янгы}}
+*** {{desc|kdr|йангъы}}
+*** {{desc|krc|джангы}}
+*** {{desc|jct|йенгы}}
+*** {{desc|uum|йаны}}
+** North Kipchak:
+*** {{desc|ba|яңы}}
+*** {{desc|tt|яңа}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|жаңа}}
+**** {{desc|kaa|жаңа}} / {{l|kaa|jaña}}
+**** {{desc|nog|янъы}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жаңы}}
+**** {{desc|alt|јаҥы}}
+* Siberian:
+** {{desc|otk|𐰖𐰭𐰃|tr=yaŋï}}
+** {{desc|oui||tr=yaŋï}}
+*** {{desc|ybe|yaŋï}}
+** North Siberian:
+*** {{desc|sah|саҥа}}
+*** {{desc|dlg|һаӈа}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|чаа}}
+**** {{desc|kim|няа}}
+*** Yenisei:
+**** {{desc|cjs|наа}}
+**** {{desc|kjh|наа}}
+*** {{desc|atv|чаа}}
+{{bottom}}

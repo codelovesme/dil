@@ -1,0 +1,64 @@
+{{reconstructed}}
+{{see also|Reconstruction:Proto-Turkic/sāč}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[hair]] {{C|trk-pro|Hair}}
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** Volga Bulgar: '''*čuč'''/'''*suč'''
+*** {{desc|cv|ҫӳҫ}}
+**** {{desc|ba|сүс|t=fiber, filament|bor=1}}
+* Common Turkic:
+{{top3}}
+* Arghu: '''*sač'''
+** {{desc|klj|saç}}
+* Oghuz: '''*sač'''
+** {{desc|trk-oat|}}
+*** {{desc|az|saç}}
+*** {{desc|ota|صاچ}}
+**** {{desc|gag|saç}}
+**** {{desc|tr|saç}}
+** {{desc|slr|saş}}
+** {{desc|tk|saç}}
+* Karluk: '''*sač'''
+** {{desc|xqa|سَجْ|tr=sač}}
+*** {{desc|chg|}}
+**** {{desc|ug|چاچ}}
+**** {{desc|uz|soch}}
+* Kypchak: '''*čač'''
+** North Kipchak:
+*** {{desc|ba|сәс}}
+*** {{desc|tt|чәч}}
+** West Kipchak:
+*** {{desc|crh|çaç}}
+*** {{desc|krc|чач}}
+*** {{desc|kdr|чач}}
+*** {{desc|kum|чач}}
+** South Kipchak:
+*** Kypchak-Nogai:
+**** {{desc|kaa|shash}}
+**** {{desc|kk|шаш}}
+**** {{desc|nog|tr=şaş}}
+*** Kyrgyz–Kipchak
+**** {{desc|ky|чач}}
+**** {{desc|alt|чач}}
+* Siberian: '''*sač'''
+** {{desc|otk|𐰽𐰲|ts=sač}}
+*** {{desc|oui|}}
+**** {{desc|ybe|tr='saʐ|tr2=saçaq}}
+** North Siberian:
+*** {{desc|dlg|ас|tr=as}}
+*** {{desc|sah|ас}}
+** South Siberian:
+*** Yenisei Turkic:
+**** {{desc|cjs|шаш}}
+**** {{desc|kjh|сас}}
+*** {{desc|atv|чаш|шаш}}
+{{bottom}}

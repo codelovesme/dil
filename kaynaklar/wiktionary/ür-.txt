@@ -1,0 +1,44 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Nişanyan suggests a derivation from earlier {{m|und|*üwür-}} or {{m|und|*üyür-}}, a derivation from the onomatopoeic {{m|und|*ü}} or {{m|und|*üw|t=blowing sound}}, which he and Räsänen compare to {{cog|tr|üfürmek|t=to blow}} and {{cog|az|üfürmək|t=to blow}}, both from {{cog|trk-oat|اورمك|tr=üvürmek}}.<ref>{{R:tr:Nişanyan|ürümek}}</ref>. An onomatopoeic origin from would also make this root related to {{cog|tr,tk|üflemek}}, {{cog|az|üfləmək}}, {{cog|gag|üflemää}} etc.. Räsänen also compares {{m|trk-pro|*ör-|t=to speak loudly}}<ref>{{R:trk:Räsänen|page=522}}</ref> 
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[blow]]
+# {{lb|trk-pro|intransitive}} to [[bark]]
+
+====Descendants====
+* {{desc|trk-ogr}}
+** {{desc|cv|вӗр}}
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* Oghuz: '''*ǖr-'''
+** {{desc|trk-oat|اورمك|tr=ürmek}}
+*** {{desc|az|hürmək|t=to bark}}
+*** {{desc|gag|üürümää|t=to bark}}
+*** {{desc|ota|اورومك|tr=ürümek}}
+**** {{desc|tr|ürümek|t=to bark}}
+** {{desc|slr|fürgüsi|t=to bark}}
+** {{desc|tk|üýrmek|t=to bark}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|өрөү}}
+** South Kipchak:
+*** {{desc|kk|үрлеу}}
+** East Kipchak:
+*** {{desc|ky|үрүү}}
+*** {{desc|alt|ӱрер}}
+* Siberian:
+** {{desc|sah|үр}}
+** {{desc|trk-ssb}}
+*** {{desc|atv|ӱрерге}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:trk:Clauson|page=195-196}}
