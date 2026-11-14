@@ -5,7 +5,7 @@
 - **Anlam:** Fiil olumsuzluk eki.
 - **İngilizce:** negative suffix
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %67 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %57 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ek-ma](../kok/ek-ma.md) | türkçe | 0.95 (*ma*) | Kırgızca %75 | Ana Türkçe (2 hat) | ~192 milyon (%99, *ma*) | *-mA |
+| [ek-ma](../kok/ek-ma.md) | türkçe | 0.96 (*ma*) | Kırgızca %75 | Ana Türkçe (2 hat) | ~192 milyon (%99, *ma*) | *-mA |
 
-**Büyük topluluklarda *ma* biçiminin anlaşılırlığı:** Kırgızca %75, Tuvaca %75, Çuvaşça %100, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Özbekçe %100, Uygurca %100, Sahaca %100.
+**Büyük topluluklarda *ma* biçiminin anlaşılırlığı:** Kırgızca %75, Tuvaca %75, Çuvaşça %100, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Özbekçe %100, Uygurca %100, Sahaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -68,8 +68,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | ma | ma | ma |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | ma | ma | ma | ma |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | ma | ma | ma | ma |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | ma ↑ | ma ↑ | ma ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma ↑ | ma ↑ | ma ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | ma ↑ | ma ↑ | ma ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | ma ↑ | ma ↑ | ma ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | ma | ma | ma |  |
@@ -84,8 +84,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | ma | ma | ma | ma |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | ma | ma | ma | ma |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | ma ↑ | ma ↑ | ma ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma ↑ | ma ↑ | ma ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | ba | ba | ba |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | ba | ba | ba | ba |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ba | ba | ba | ba |
@@ -98,11 +98,11 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | ma | ma | ma | ma |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | ma ↑ | ma ↑ | ma ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | ba | ba | ma |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | ma | ma | ma |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | ma | ma | ma |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ma | ma | ma | ma |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ma | ma | ma | ma |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ma | ma | ma | ma |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ma ↑ | ma ↑ | ma ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | ba | ba | ba |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | ba ↑ | ba ↑ | ba ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | ba | ba | ba |  |
@@ -113,11 +113,11 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | ba ↑ | ba ↑ | ba ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | ba ↑ | ba ↑ | ba ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | ba ↑ | ba ↑ | ba ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | ba | ba | ba |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | ba | ba | ba | ba |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ba | ba | ba | ba |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | ba | ba | ba | ba |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ba | ba | ba | ba |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | ba ↑ | ba ↑ | ba ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | ba ↑ | ba ↑ | ba ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ba ↑ | ba ↑ | ba ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | ba ↑ | ba ↑ | ba ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ba ↑ | ba ↑ | ba ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | ba ↑ | ba ↑ | ba ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ba ↑ | ba ↑ | ba ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | ba ↑ | ba ↑ | ba ↑ |  |
@@ -136,20 +136,15 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Tatarca |  | ma |
 | Kıpçak kolu | Başkurtça |  | ma |
 | Kıpçak kolu | Kırım Tatarcası |  | ma |
-| Kıpçak kolu | Karayca |  | ma |
 | Kıpçak kolu | Kumukça |  | ma |
 | Kıpçak kolu | Karaçay-Malkarca |  | ma |
 | Kıpçak kolu | Kazakça |  | ma |
 | Kıpçak kolu | Karakalpakça |  | ma |
 | Kıpçak kolu | Nogayca |  | ma |
-| Kıpçak kolu | Sibirya Tatarcası |  | ma |
 | Kıpçak kolu | Kırgızca |  | ba |
 | Kıpçak kolu | Güney Altayca |  | ba |
 | Karluk kolu | Özbekçe |  | ma |
 | Karluk kolu | Uygurca |  | ma |
 | Sibirya kolu | Sahaca (Yakutça) |  | ma |
-| Sibirya kolu | Dolganca |  | ma |
 | Sibirya kolu | Tuvaca |  | ba |
-| Sibirya kolu | Hakasça |  | ba |
-| Sibirya kolu | Şorca |  | ba |
 

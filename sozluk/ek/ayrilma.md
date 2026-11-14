@@ -5,7 +5,7 @@
 - **Anlam:** Ayrılma hâli eki.
 - **İngilizce:** ablative suffix
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %67 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %60 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ek-dan](../kok/ek-dan.md) | türkçe | 0.96 (*dan*) | Sahaca %81 | Ana Türkçe (2 hat) | ~192 milyon (%99, *dan*) | *-DIn / *-DAn |
+| [ek-dan](../kok/ek-dan.md) | türkçe | 0.94 (*dan*) | Sahaca %81 | Ana Türkçe (2 hat) | ~192 milyon (%99, *dan*) | *-DAn |
 
-**Büyük topluluklarda *dan* biçiminin anlaşılırlığı:** Sahaca %81, Çuvaşça %83, Uygurca %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Tuvaca %100.
+**Büyük topluluklarda *dan* biçiminin anlaşılırlığı:** Sahaca %81, Çuvaşça %83, Başkurtça %83, Uygurca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -59,17 +59,17 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | dan | dan | dan |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | dan | dan | dan |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | nan | dan | dan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | dan | dan | dan | dan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | nan | nan | nan | nan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nan | nan | nan | nan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | dan | dan | dan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | dan | dan | dan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | dan | dan | dan | dan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | dan ↑ | dan ↑ | dan ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | dan | dan | dan |  |
@@ -84,13 +84,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | dan | dan | dan | dan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tan | tan | tan | tan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tan | tan | tan | tan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | dan | dan | dan |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | dan ↑ | dan ↑ | dan ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan ↑ | dan ↑ | dan ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | dañ | dan | dan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | dan | dan | dan | dan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | dañ | dañ | dañ | dañ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dañ | dañ | dañ | dañ |
 | &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | dan | dan | dan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | dan | dan | dan | dan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
@@ -102,7 +102,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | ttan | ttan | ttan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ttan | ttan | ttan | ttan |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ttan | ttan | ttan | ttan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ttan | ttan | ttan | ttan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ttan ↑ | ttan ↑ | ttan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | dan | dan | dan |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | dan | dan | dan |  |
@@ -113,16 +113,16 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | dan ↑ | dan ↑ | dan ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | dan ↑ | dan ↑ | dan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | dan | dan | dan |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan | dan | dan | dan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | tan | tan | tan | tan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tan | tan | tan | tan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | dan ↑ | dan ↑ | dan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan ↑ | dan ↑ | dan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | dan ↑ | dan ↑ | dan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | dan ↑ | dan ↑ | dan ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dan ↑ | dan ↑ | dan ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | dañ | dañ | dañ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | dañ | dañ | dañ | dañ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dañ | dañ | dañ | dañ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | dañ ↑ | dañ ↑ | dañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dañ ↑ | dañ ↑ | dañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | dañ ↑ | dañ ↑ | dañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dañ ↑ | dañ ↑ | dañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | dañ ↑ | dañ ↑ | dañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | dañ ↑ | dañ ↑ | dañ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | dañ ↑ | dañ ↑ | dañ ↑ |  |
 
 ## Dillerdeki biçimler
 
@@ -134,22 +134,18 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Oğuz kolu | Azerbaycan Türkçesi |  | dan |
 | Oğuz kolu | Türkmence |  | dan |
 | Kıpçak kolu | Tatarca |  | dan |
-| Kıpçak kolu | Başkurtça |  | dan |
+| Kıpçak kolu | Başkurtça |  | nan |
 | Kıpçak kolu | Kırım Tatarcası |  | dan |
-| Kıpçak kolu | Karayca |  | dan |
 | Kıpçak kolu | Kumukça |  | dan |
 | Kıpçak kolu | Karaçay-Malkarca |  | dan |
 | Kıpçak kolu | Kazakça |  | dan |
 | Kıpçak kolu | Karakalpakça |  | dan |
 | Kıpçak kolu | Nogayca |  | dan |
-| Kıpçak kolu | Sibirya Tatarcası |  | tan |
 | Kıpçak kolu | Kırgızca |  | dan |
-| Kıpçak kolu | Güney Altayca |  | dan |
+| Kıpçak kolu | Güney Altayca |  | dañ |
 | Karluk kolu | Özbekçe |  | dan |
 | Karluk kolu | Uygurca |  | din |
 | Sibirya kolu | Sahaca (Yakutça) |  | ttan |
-| Sibirya kolu | Dolganca |  | ttan |
 | Sibirya kolu | Tuvaca |  | dan |
-| Sibirya kolu | Hakasça |  | dan |
-| Sibirya kolu | Şorca |  | tan |
+| Sibirya kolu | Hakasça |  | dañ |
 

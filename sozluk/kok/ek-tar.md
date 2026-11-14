@@ -2,7 +2,7 @@
 
 > Bu sayfa `python3 araclar/sozluk.py --yaz` ile [`ek-tar.yaml`](ek-tar.yaml) dosyasından üretilir; elle düzenlemeyin.
 
-- **Anlam:** Saha ve Dolgancada "şart eki"
+- **Anlam:** Sahacada "şart eki"
 - **Köken:** türkçe
 - **Kavramlar:** [sart](../temel/sart.yaml)
 - **Etimoloji:** Sahaca -TAr; kökeni bu çalışmada araştırılmadı.
@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %0) · kaynak 0 · yabancı kayıt 0**
+**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -22,7 +22,7 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
+Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Karayca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Hakasça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -30,8 +30,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **tar** |  |  | bilgi* | Biçimler: tar, ter, tor, tör; dar…, lar…, nar… Sahaca ve Dolgancada şart eki. |
-| Sibirya kolu | Dolganca |  | **tar** |  |  | bilgi* | Biçimler: tar, ter, tor, tör; dar…, lar…, nar… Sahaca ve Dolgancada şart eki. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **tar** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{T}{A}r. Ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
 | | Türkiye Türkçesi | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Gagavuzca | | — | | | | kök yok: yerine sa (ek-sa) |
@@ -39,21 +38,18 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | | Kırım Tatarcası | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Kumukça | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Karaçay-Malkarca | | — | | | | kök yok: yerine sa (ek-sa) |
-| | Karayca | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Nogayca | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Kazakça | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Karakalpakça | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Kırgızca | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Tatarca | | — | | | | kök yok: yerine sa (ek-sa) |
-| | Başkurtça | | — | | | | kök yok: yerine ha (ek-sa) |
-| | Sibirya Tatarcası | | — | | | | kök yok: yerine sa (ek-sa) |
-| | Güney Altayca | | — | | | | kök yok: yerine za (ek-sa) |
-| | Hakasça | | — | | | | kök yok: yerine za (ek-sa) |
-| | Şorca | | — | | | | kök yok: yerine za (ek-sa) |
-| | Tuvaca | | — | | | | kök yok: yerine za (ek-sa) |
 | | Uygurca | | — | | | | kök yok: yerine sa (ek-sa) |
 | | Özbekçe | | — | | | | kök yok: yerine sa (ek-sa) |
+| | Başkurtça | | — | | | | kök yok: yerine ha (ek-sa) |
+| | Güney Altayca | | — | | | | kök yok: yerine za (ek-sa) |
+| | Tuvaca | | — | | | | kök yok: yerine za (ek-sa) |
 | | Çuvaşça | | — | | | | kök yok: yerine san (ek-sa) |
 
 ## Kaynakça
 
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık

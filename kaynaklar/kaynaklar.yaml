@@ -357,6 +357,80 @@ kaynaklar:
       Biçimlerin her biri kendi kaynağına bağlı (sources.bib); 32 dilin listesi
       languages.csv'de.
 
+  - kimlik: apertium
+    ad: Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)
+    url: https://github.com/apertium
+    tur: arac
+    diller: [tur, aze, tuk, gag, crh, kum, krc, nog, kaz, kaa, kir, tat, bak, alt, kjh, tyv, sah, uig, uzb, chv]
+    kullanim: [dilbilgisi, ceviri, toplu]
+    ne: >-
+      Kural tabanlı makine çevirisi için yazılmış, dil başına sonlu durum biçimbilim
+      çözümleyicileri. Eklerin bütün biçimleri arşifonemlerle ({L}{A}r gibi) verilir;
+      hangi ortamda hangi sese dönüştükleri ses kuralı dosyasındadır. Ayrıca iki dilli
+      sözlükler (.dix; ör. apertium-kaz-kir, apertium-kaz-tat) çeviri katmanı için.
+    nasil: >-
+      Ham dosyalar: raw.githubusercontent.com/apertium/apertium-<dil>/master/
+      apertium-<dil>.<dil>.lexc (ekler) ve .twol (ses kuralları). Karay, Şor, Halaç,
+      Salar için depo yok.
+    erisim: acik
+    bicim: metin
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: 20 dilin .lexc ve .twol dosyası ham adresten indirildi (HTTP 200).
+    not: >-
+      Dillerin olgunluğu farklıdır; Azerbaycanca dosyada belirtme hâli Türkiye
+      Türkçesine göre yazılmış (-{y}{I}), Wiktionary ile çelişiyor. Bu yüzden
+      mümkün olan yerde ikinci kaynakla denetlenir.
+
+  - kimlik: universal-dependencies
+    ad: Universal Dependencies — işaretlenmiş derlemler (treebank)
+    url: https://universaldependencies.org
+    tur: derlem
+    diller: [tur, kaz, kir, tat, uig, uzb, aze, sah, otk]
+    kullanim: [dilbilgisi, ceviri, toplu]
+    ne: >-
+      Gerçek metinlerden cümleler; her kelimenin baş biçimi (lemma), türü ve
+      dilbilgisi özellikleri (hâl, kişi, zaman, olumsuzluk) işaretli. Eklerin
+      gerçek kullanımda hangi biçimde geçtiğini saymak için kullanılır.
+    nasil: >-
+      raw.githubusercontent.com/UniversalDependencies/UD_<Dil>-<Derlem>/master/
+      <kod>_<derlem>-ud-{train,dev,test}.conllu. Türk dilleri: Turkish (BOUN, IMST…),
+      Kazakh-KTB, Kyrgyz-KTMU ve TueCL, Tatar-NMCTT, Uyghur-UDT, Uzbek-UzUDT ve UT,
+      Azerbaijani-TueCL, Yakut-YKTDT, Old_Turkish-Clausal. Başkurt, Çuvaş, Türkmen,
+      Kırım Tatar, Tuva, Hakas derlemi yok.
+    erisim: acik
+    bicim: metin
+    guven: yuksek
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: 9 dilin derlemi ham adresten indirildi (HTTP 200).
+    not: >-
+      Azerbaycanca ve Sahaca derlemler küçüktür (900–1500 kelime); oradaki sayımlar
+      zayıf kanıttır.
+
+  - kimlik: wiktionary-cekim
+    ad: Wiktionary — dil maddelerindeki çekim (declension) tabloları
+    url: https://en.wiktionary.org
+    tur: sozluk
+    diller: [kaz, kir, uzb, uig, crh, gag, aze]
+    kullanim: [dilbilgisi]
+    ne: >-
+      Türk dillerindeki isim maddelerinin hâl ve iyelik çekim tabloları. Eklerin
+      ikinci kaynağı olarak kullanılır.
+    nasil: >-
+      Ayrıştırılmış sayfa: en.wiktionary.org/w/api.php?action=parse&page=<kelime>.
+      Tablo yalnız bazı dillerde var (Kazakça, Kırgızca, Özbekçe, Uygurca, Kırım
+      Tatarca, Gagauzca, Azerbaycanca); Tatarca, Başkurtça, Sahaca, Çuvaşça,
+      Tuvaca maddelerinde yok.
+    erisim: acik
+    bicim: html
+    guven: orta
+    durum: denendi
+    dogrulama: >-
+      2026-11-14: бала (Kazakça, Kırgızca), bola, بالا, bala (Kırım Tatarca),
+      uşak, ana (Azerbaycanca) tabloları okundu.
+
   - kimlik: tatoeba
     ad: Tatoeba — çok dilli cümle derlemi
     url: https://tatoeba.org
@@ -1287,23 +1361,6 @@ kaynaklar:
       2026-11-12: README
       raw.githubusercontent.com/turkic-interlingua/til-mt/main/README.md üzerinden okundu
       (HTTP 200). GitHub HTML sayfası bu ortamda 403.
-
-  - kimlik: apertium
-    ad: Apertium — Türk dilleri çeviri çiftleri ve sözlükleri
-    url: https://github.com/apertium
-    tur: veri-seti
-    diller: [kaz, kir, tat, bak, chv, sah, tyv, crh, kum, kaa, nog, uzb, uig, tur, aze, tuk]
-    kullanim: [toplu, bicim]
-    ne: Açık lisanslı tek dilli biçimbirim sözlükleri ve iki dilli sözlükler (.dix), ör. apertium-kaz-kir, apertium-kaz-tat.
-    nasil: Depolardaki .dix dosyaları XML olarak okunur.
-    erisim: acik
-    bicim: git
-    guven: orta
-    durum: arandi
-    dogrulama: >-
-      2026-11-12: github.com HTML sayfası 403 (oturumun GitHub kapsamı). Depolardaki .dix
-      dosyaları raw.githubusercontent.com/apertium/<depo>/master/ üzerinden okunabilir.
-    not: Liste örnektir; hangi çiftlerin bulunduğu depolardan doğrulanmalı.
 
   - kimlik: leipzig-corpora
     ad: Leipzig Corpora Collection — kelime sıklık listeleri

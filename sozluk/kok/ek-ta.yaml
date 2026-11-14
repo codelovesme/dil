@@ -1,15 +1,14 @@
 # Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
 kok: ek-ta
-anlam: Saha ve Dolgancada "3. kişi iyelik eki"
+anlam: Sahacada "3. kişi iyelik eki"
 koken: türkçe
 kavramlar:
 - iyelik-3
-etimoloji: Sahaca -(T)A; kökeni bu çalışmada araştırılmadı.
-kaynak: savelyev-turkic
+etimoloji: Sahaca -(t)A; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: a, dil: dlg, kaynak: bilgi, not: 'Biçimler: a, e, o, ö; ünlüden sonra ta, te… Sahaca ve Dolgancada 3. tekil iyelik.'}
-  - {bicim: a, dil: sah, kaynak: bilgi, not: 'Biçimler: a, e, o, ö; ünlüden sonra ta, te… Sahaca ve Dolgancada 3. tekil iyelik.'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ta, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{t}{A}. Ünsüzden sonra a.'}
 
 yok:
   tur: yerine sı (ek-sı)
@@ -19,19 +18,16 @@ yok:
   crh: yerine sı (ek-sı)
   kum: yerine sı (ek-sı)
   krc: yerine sı (ek-sı)
-  kdr: yerine sı (ek-sı)
-  tat: yerine sı (ek-sı)
-  sty: yerine sı (ek-sı)
-  alt: yerine sı (ek-sı)
-  kjh: yerine sı (ek-sı)
-  cjs: yerine sı (ek-sı)
-  tyv: yerine sı (ek-sı)
-  uig: yerine sı (ek-sı)
-  bak: yerine hı (ek-sı)
-  uzb: yerine si (ek-sı)
+  nog: yerine sı (ek-sı)
   kaz: yerine sı (ek-sı)
   kaa: yerine sı (ek-sı)
-  nog: yerine sı (ek-sı)
   kir: yerine sı (ek-sı)
-  chv: yerine ĕ (ek-sı)
+  tat: yerine sı (ek-sı)
+  uzb: yerine si (ek-sı)
+  uig: yerine si (ek-sı)
+  bak: yerine hı (ek-sı)
+  alt: yerine zı (ek-sı)
+  tyv: yerine zı (ek-sı)
+  kjh: yerine zı (ek-sı)
+  chv: yerine i (ek-i-chv)
 tarihi_yok: {}

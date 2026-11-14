@@ -6,34 +6,30 @@ kokler:
 - kok: ek-ğa
   koken: türkçe
   ana_turkce: '*-GA'
-  kaynak: savelyev-turkic
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
   not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ğa.yaml).
   bicimler:
-    aze: a
+    aze: ya
     bak: ğa
     chv:
-      bicim: a
+      bicim: na
       miras: true
     crh: ğa
-    dlg: ka
-    gag: a
+    gag: ya
     krc: ğa
-    kdr: ğa
     kaa: ğa
     kaz: ğa
     kjh: ğa
-    kir: ğa
+    kir: ga
     kum: ğa
-    nog: ğa
-    cjs: ka
+    nog: ga
     alt: ga
-    tat: ğa
-    tur: a
+    tat: ga
+    tur: ya
     tuk: a
-    tyv: ka
+    tyv: ga
     uig: ğa
     uzb: ga
-    sah: ka
-    sty: ğa
+    sah: ğa
 yok: []
 tarihi_yok: []

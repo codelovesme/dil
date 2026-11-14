@@ -5,30 +5,26 @@ koken: türkçe
 kavramlar:
 - iyelik-2t
 etimoloji: Çuvaşça -u/-ü; kökeni bu çalışmada araştırılmadı.
-kaynak: savelyev-turkic
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: u, dil: chv, kaynak: bilgi, not: 'Biçimler: u, ü. Çuvaşça 2. tekil iyelik; *-(I)ŋ ile ilişkisi bu çalışmada araştırılmadı.', yazi: -у}
+  - {atif: apertium-chv.chv.lexc, bicim: u, dil: chv, kaynak: apertium, not: 'Apertium: -{U}n. Çuvaşça -u, -ü; Apertium''da sonda isteğe bağlı n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
 
 yok:
   tuk: yerine ñ (ek-ıñ)
   crh: yerine ñ (ek-ıñ)
   kum: yerine ñ (ek-ıñ)
   krc: yerine ñ (ek-ıñ)
-  kdr: yerine ñ (ek-ıñ)
   nog: yerine ñ (ek-ıñ)
   kaz: yerine ñ (ek-ıñ)
   kaa: yerine ñ (ek-ıñ)
   kir: yerine ñ (ek-ıñ)
   tat: yerine ñ (ek-ıñ)
   bak: yerine ñ (ek-ıñ)
-  sty: yerine ñ (ek-ıñ)
   alt: yerine ñ (ek-ıñ)
   kjh: yerine ñ (ek-ıñ)
-  cjs: yerine ñ (ek-ıñ)
   tyv: yerine ñ (ek-ıñ)
   sah: yerine ñ (ek-ıñ)
-  dlg: yerine ñ (ek-ıñ)
   uig: yerine ñ (ek-ıñ)
   uzb: yerine ñ (ek-ıñ)
   tur: yerine n (ek-ıñ)

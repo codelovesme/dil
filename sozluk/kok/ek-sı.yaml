@@ -5,35 +5,30 @@ koken: türkçe
 ana_turkce: '*-(s)I'
 kavramlar:
 - iyelik-3
-etimoloji: Ana Türkçe *-(s)I. Bütün Ortak Türkçe dillerinde (sı, si; Başkurtça hı); Çuvaşça
-  -ĕ/-şĕ.
-kaynak: savelyev-turkic
+etimoloji: Ana Türkçe *-(s)I. Ünlüden sonra -sı; Başkurtça hı, Altay, Tuva ve Hakas zı.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: sı, dil: aze, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: hı, dil: bak, kaynak: bilgi, not: 'Biçimler: hı, he; ünsüzden sonra ı, e (s > h)'}
-  - {bicim: ĕ, dil: chv, kaynak: bilgi, not: 'Biçimler: ĕ, i; ünlüden sonra şĕ', yazi: -ӗ}
-  - {bicim: sı, dil: crh, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: gag, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: krc, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: kdr, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: kaa, kaynak: bilgi, not: 'Biçimler: sı, si; ı, i'}
-  - {bicim: sı, dil: kaz, kaynak: bilgi, not: 'Biçimler: sı, si; ı, i'}
-  - {bicim: sı, dil: kjh, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: kir, kaynak: bilgi, not: 'Biçimler: sı, si, su, sü; ı…'}
-  - {bicim: sı, dil: kum, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: nog, kaynak: bilgi, not: 'Biçimler: sı, si; ı, i'}
-  - {bicim: sı, dil: cjs, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: alt, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: tat, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: tur, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: tuk, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: tyv, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: sı, dil: uig, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
-  - {bicim: si, dil: uzb, kaynak: bilgi, not: 'Biçimler: si; ünsüzden sonra i'}
-  - {bicim: sı, dil: sty, kaynak: bilgi, not: 'Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i…'}
+  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: sı, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -{s}{I}.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (19 örnek: hurpahı, aksahı, binahı)', bicim: hı, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{h}{I}.'}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (12 örnek: litsenziyası, şurası, tatası)', bicim: sı, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{s}{I}.'}
+  - {atif: apertium-gag.gag.lexc, bicim: sı, dil: gag, kaynak: apertium, not: 'Apertium: -{s}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (3 örnek: bağası, istoriyası, politikası)', bicim: sı, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{s}{I}.'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: sı, dil: kaa, kaynak: apertium, not: 'Apertium: -{s}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: sı, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{s}{I}.'}
+  - {atif: apertium-kjh.kjh.lexc, bicim: zı, dil: kjh, kaynak: apertium, not: 'Apertium: -{s}{I}. Hakasçada s ünlüden sonra z olur (Apertium ses kuralı). Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kir.kir.lexc; Wiktionary бала çekim tablosu, bicim: sı, dil: kir, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{s}{I}.'}
+  - {atif: apertium-kum.kum.lexc, bicim: sı, dil: kum, kaynak: apertium, not: 'Apertium: -{s}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (1 örnek: kaygısı)', bicim: sı, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{s}{I}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-alt.alt.lexc, bicim: zı, dil: alt, kaynak: apertium, not: 'Apertium: -{z}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: sı, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{s}{I}.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: sı, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{s}{I}.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (51 örnek: çagası, ussası, maşgalası)', bicim: sı, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{s}{I}.'}
+  - {atif: apertium-tyv.tyv.lexc, bicim: zı, dil: tyv, kaynak: apertium, not: 'Apertium: -{z}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-uig.uig.lexc; UD_Uyghur-UDT, bicim: si, dil: uig, kaynak: apertium; universal-dependencies, not: 'Apertium: -{s}i.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: si, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{s}i.'}
 
 yok:
-  sah: yerine a (ek-ta)
-  dlg: yerine a (ek-ta)
+  sah: yerine ta (ek-ta)
+  chv: yerine i (ek-i-chv)
 tarihi_yok: {}

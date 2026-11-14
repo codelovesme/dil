@@ -5,35 +5,29 @@ koken: türkçe
 ana_turkce: '*-sA'
 kavramlar:
 - sart
-etimoloji: Ana Türkçe *-sA (Göktürkçe -sar/-ser). Bütün kollarda; Başkurtça -ha (s > h), Sibirya
-  -za; Çuvaşça -san.
-kaynak: savelyev-turkic
+etimoloji: Ana Türkçe *-sA. Bütün kollarda; Başkurtça ha, Altay ve Tuva za; Çuvaşça -san.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: sa, dil: aze, kaynak: bilgi, not: 'Biçimler: sa, sä'}
-  - {bicim: ha, dil: bak, kaynak: bilgi, not: 'Biçimler: ha, hä (s > h)'}
-  - {bicim: san, dil: chv, kaynak: bilgi, not: 'Biçimler: san, sen (-sA + n)', yazi: -сан}
-  - {bicim: sa, dil: crh, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: gag, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: krc, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: kdr, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: kaa, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: kaz, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: za, dil: kjh, kaynak: bilgi, not: 'Biçimler: za, ze, sa, se'}
-  - {bicim: sa, dil: kir, kaynak: bilgi, not: 'Biçimler: sa, se, so, sö'}
-  - {bicim: sa, dil: kum, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: nog, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: za, dil: cjs, kaynak: bilgi, not: 'Biçimler: za, ze, sa, se'}
-  - {bicim: za, dil: alt, kaynak: bilgi, not: 'Biçimler: za, ze, zo, zö; sa…'}
-  - {bicim: sa, dil: tat, kaynak: bilgi, not: 'Biçimler: sa, sä'}
-  - {bicim: sa, dil: tur, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: sa, dil: tuk, kaynak: bilgi, not: 'Biçimler: sa, se'}
-  - {bicim: za, dil: tyv, kaynak: bilgi, not: 'Biçimler: za, ze; sa, se'}
-  - {bicim: sa, dil: uig, kaynak: bilgi, not: 'Biçimler: sa, sä'}
-  - {bicim: sa, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız sa'}
-  - {bicim: sa, dil: sty, kaynak: bilgi, not: 'Biçimler: sa, za'}
+  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: sa, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -s{A}.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (1 örnek: yullaha)', bicim: ha, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -h{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (2 örnek: kalasan)', bicim: san, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -s{A}n.'}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (1 örnek: patlasa)', bicim: sa, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -s{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-gag.gag.lexc, bicim: sa, dil: gag, kaynak: apertium, not: 'Apertium: -s{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-krc.krc.lexc, bicim: sa, dil: krc, kaynak: apertium, not: 'Apertium: -s{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: sa, dil: kaa, kaynak: apertium, not: 'Apertium: -s{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: sa, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -s{A}.'}
+  - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL', bicim: sa, dil: kir, kaynak: apertium; universal-dependencies, not: 'Apertium: -s{A}.'}
+  - {atif: apertium-kum.kum.lexc, bicim: sa, dil: kum, kaynak: apertium, not: 'Apertium: -s{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (1 örnek: karasa)', bicim: sa, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -s{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-alt.alt.lexc, bicim: za, dil: alt, kaynak: apertium, not: 'Apertium: -{Z}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: sa, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -s{A}.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: sa, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -s{A}.'}
+  - {atif: apertium-tuk.tuk.lexc, bicim: sa, dil: tuk, kaynak: apertium, not: 'Apertium: -s{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tyv.tyv.lexc, bicim: za, dil: tyv, kaynak: apertium, not: 'Apertium: -{Z}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-uig.uig.lexc; UD_Uyghur-UDT, bicim: sa, dil: uig, kaynak: apertium; universal-dependencies, not: 'Apertium: -s{A}.'}
+  - {atif: 'apertium-uzb.uzb.lexc; UD_Uzbek-UzUDT, UT', bicim: sa, dil: uzb, kaynak: apertium; universal-dependencies, not: 'Apertium: -sa.'}
 
 yok:
   sah: yerine tar (ek-tar)
-  dlg: yerine tar (ek-tar)
 tarihi_yok: {}

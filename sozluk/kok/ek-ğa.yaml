@@ -5,35 +5,31 @@ koken: türkçe
 ana_turkce: '*-GA'
 kavramlar:
 - yonelme
-etimoloji: Ana Türkçe *-GA (Göktürkçe -ka/-ke, -ğa/-ge). Kıpçak, Karluk ve Sibirya dillerinde
-  ğa/ka; Oğuz'da ğ düşer (-a/-e). Çuvaşça -a/-na.
-kaynak: savelyev-turkic
+etimoloji: Ana Türkçe *-GA. Kıpçak, Karluk ve Sibirya dillerinde ğa/ga; Oğuz'da ğ düşer (ünlüden
+  sonra -ya). Çuvaşça -na/-a.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: a, dil: aze, kaynak: bilgi, not: 'Biçimler: a, ä; ünlüden sonra ya, yä'}
-  - {bicim: ğa, dil: bak, kaynak: bilgi, not: 'Biçimler: ğa, gä, ka, kä'}
-  - {bicim: a, dil: chv, kaynak: bilgi, not: 'Biçimler: a, e; ünlüden sonra na, ne. Çuvaşçada yönelme ile belirtme aynı ek.', yazi: -а}
-  - {bicim: ğa, dil: crh, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ka, dil: dlg, kaynak: bilgi, not: 'Biçimler: ka, ke; ga…'}
-  - {bicim: a, dil: gag, kaynak: bilgi, not: 'Biçimler: a, e; ya, ye'}
-  - {bicim: ğa, dil: krc, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ğa, dil: kdr, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ğa, dil: kaa, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ğa, dil: kaz, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke; iyelikten sonra a, e'}
-  - {bicim: ğa, dil: kjh, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ğa, dil: kir, kaynak: bilgi, not: 'Biçimler: ğa, ge, ğo, gö; ka, ke, ko, kö'}
-  - {bicim: ğa, dil: kum, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ğa, dil: nog, kaynak: bilgi, not: 'Biçimler: ğa, ge, ka, ke'}
-  - {bicim: ka, dil: cjs, kaynak: bilgi, not: 'Biçimler: ka, ke, ğa, ge'}
-  - {bicim: ga, dil: alt, kaynak: bilgi, not: 'Biçimler: ga, ge, go, gö; ka…'}
-  - {bicim: ğa, dil: tat, kaynak: bilgi, not: 'Biçimler: ğa, gä, ka, kä'}
-  - {bicim: a, dil: tur, kaynak: bilgi, not: 'Biçimler: a, e; ünlüden sonra ya, ye'}
-  - {bicim: a, dil: tuk, kaynak: bilgi, not: 'Biçimler: a, e (ünlüden sonra ünlü uzar)'}
-  - {bicim: ka, dil: tyv, kaynak: bilgi, not: 'Biçimler: ka, ke, ko, kö; ga…'}
-  - {bicim: ğa, dil: uig, kaynak: bilgi, not: 'Biçimler: ğa, gä, ka, kä'}
-  - {bicim: ga, dil: uzb, kaynak: bilgi, not: 'Biçimler: ga; ka, qa'}
-  - {bicim: ka, dil: sah, kaynak: bilgi, not: 'Biçimler: ka, ke, ko, kö; ga…, xa…'}
-  - {bicim: ğa, dil: sty, kaynak: bilgi, not: 'Biçimler: ğa, ka'}
+  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: ya, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -{y}{A}.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (6 örnek: tablitsağa, huğa, kalağa)', bicim: ğa, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{G}{A}.'}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (14 örnek: açana, yapalana, arçana)', bicim: na, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{A}. Ünsüzden sonra a, e. Çuvaşçada belirtme hâli de bu ekle karşılanır.'}
+  - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: ğa, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{G}{A}.'}
+  - {atif: apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu, bicim: ya, dil: gag, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{y}{A}. Wiktionary: uşaa (ünsüzden sonra); -ya maddesi: ünlülerden sonra.'}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (2 örnek: uluğa, muzıkağa)', bicim: ğa, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{G}ğ{A}.'}
+  - {atif: 'apertium-kaa.kaa.lexc; Tatoeba metinleri (1 örnek: amerikağa)', bicim: ğa, dil: kaa, kaynak: apertium; tatoeba, not: 'Apertium: -{G}{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: ğa, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{G}{A}.'}
+  - {atif: apertium-kjh.kjh.lexc, bicim: ğa, dil: kjh, kaynak: apertium, not: 'Apertium: -{G}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: ga, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{G}{A}.'}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (5 örnek: şkolağa, kuyuğa, muzıkağa)', bicim: ğa, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -ğ{A}.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: şkolaga, allaga)', bicim: ga, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{G}{A}.'}
+  - {atif: apertium-alt.alt.lexc, bicim: ga, dil: alt, kaynak: apertium, not: 'Apertium: -{G}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: ga, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{G}{A}.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: ya, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{y}{A}. Ünsüzden sonra a, e.'}
+  - {atif: apertium-tuk.tuk.lexc, bicim: a, dil: tuk, kaynak: apertium, not: 'Apertium: -{A} / {n}{A}. Ünlüden sonra tabanın son ünlüsü değişir. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (5 örnek: stsenaga, şkolaga)', bicim: ga, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -{G}{A}.'}
+  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: ğa, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{G}{A}.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: ga, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{G}a.'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ğa, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{G}{A}. Apertium''da iyelikten sonra -{G}{A}r da var.'}
 
 yok: {}
 tarihi_yok: {}

@@ -5,35 +5,30 @@ koken: türkçe
 ana_turkce: '*-(n)I'
 kavramlar:
 - belirtme
-etimoloji: Göktürkçe -(ı)ğ ve zamir çekiminden yayılan -nı. Oğuz ve Sahada ünlüden sonra -nı/-yı,
-  ünsüzden sonra -ı; Kıpçak ve Sibirya'da -nı, -dı, -tı. Çuvaşçada belirtme yönelme ekiyle
-  birleşmiştir (-a/-na).
-kaynak: savelyev-turkic
+etimoloji: Ünlüden sonra Kıpçak, Karluk ve Sibirya dillerinde, Türkmen ve Azerbaycan Türkçesinde
+  -nı; Türkiye ve Gagauz Türkçesinde -yı. Çuvaşçada belirtme, yönelme ekiyle karşılanır.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: ı, dil: aze, kaynak: bilgi, not: 'Biçimler: ı, i, u, ü; ünlüden sonra nı…'}
-  - {bicim: dı, dil: bak, kaynak: bilgi, not: 'Biçimler: dı, de; tı, te; nı, ne; zı, ze'}
-  - {bicim: nı, dil: crh, kaynak: bilgi, not: 'Biçimler: nı, ni'}
-  - {bicim: ı, dil: dlg, kaynak: bilgi, not: 'Biçimler: ı, i…; nı…'}
-  - {bicim: ı, dil: gag, kaynak: bilgi, not: 'Biçimler: ı, i…; yı…'}
-  - {bicim: nı, dil: krc, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü'}
-  - {bicim: nı, dil: kdr, kaynak: bilgi, not: 'Biçimler: nı, ni'}
-  - {bicim: dı, dil: kaa, kaynak: bilgi, not: 'Biçimler: dı, di; tı, ti; nı, ni'}
-  - {bicim: dı, dil: kaz, kaynak: bilgi, not: 'Biçimler: dı, di; tı, ti; nı, ni; iyelikten sonra n'}
-  - {bicim: nı, dil: kjh, kaynak: bilgi, not: 'Biçimler: nı, ni; tı, ti'}
-  - {bicim: dı, dil: kir, kaynak: bilgi, not: 'Biçimler: dı, di, du, dü; tı…; nı…'}
-  - {bicim: nı, dil: kum, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü'}
-  - {bicim: dı, dil: nog, kaynak: bilgi, not: 'Biçimler: dı, di, tı, ti, nı, ni'}
-  - {bicim: nı, dil: cjs, kaynak: bilgi, not: 'Biçimler: nı, ni; tı, ti'}
-  - {bicim: dı, dil: alt, kaynak: bilgi, not: 'Biçimler: dı…; tı…; nı…'}
-  - {bicim: nı, dil: tat, kaynak: bilgi, not: 'Biçimler: nı, ne'}
-  - {bicim: ı, dil: tur, kaynak: bilgi, not: 'Biçimler: ı, i, u, ü; ünlüden sonra yı…'}
-  - {bicim: ı, dil: tuk, kaynak: bilgi, not: 'Biçimler: ı, i…; ünlüden sonra nı, ni'}
-  - {bicim: nı, dil: tyv, kaynak: bilgi, not: 'Biçimler: nı, ni, nu, nü; dı…; tı…'}
-  - {bicim: nı, dil: uig, kaynak: bilgi, not: 'Biçimler: nı, ni'}
-  - {bicim: ni, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız ni'}
-  - {bicim: ı, dil: sah, kaynak: bilgi, not: 'Biçimler: ı, i, u, ü; ünlüden sonra nı…'}
-  - {bicim: nı, dil: sty, kaynak: bilgi, not: 'Biçimler: nı, ni'}
+  - {atif: apertium-aze.aze.lexc; Wiktionary ana çekim tablosu; UD_Azerbaijani-TueCL, bicim: nı, dil: aze, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{y}{I}. Apertium -{y}{I} veriyor; Wiktionary ana → ananı (ünlüden sonra nı); Wiktionary''ye uyuldu.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (2 örnek: saranı, almanı)', bicim: nı, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.'}
+  - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: nı, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -n{Y}.'}
+  - {atif: 'apertium-gag.gag.lexc; Tatoeba metinleri (1 örnek: parayı)', bicim: yı, dil: gag, kaynak: apertium; tatoeba, not: 'Apertium: -{y}{I}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-krc.krc.lexc, bicim: nı, dil: krc, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: nı, dil: kaa, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: nı, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}.'}
+  - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (1 örnek: kniganı)', bicim: nı, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: nı, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}.'}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (6 örnek: dyunyanı, yarlını, paşanı)', bicim: nı, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: kalanı, kniganı)', bicim: nı, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.'}
+  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (3 örnek: mariyanı, suunı)', bicim: nı, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: nı, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -n{I}.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: yı, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{y}{I}.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (66 örnek: almanı, awstraliyanı, grammatikanı)', bicim: nı, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{n}{Y}.'}
+  - {atif: apertium-tyv.tyv.lexc, bicim: nı, dil: tyv, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: ni, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -ni.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: ni, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -ni.'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: nı, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{n}{I}.'}
 
 yok: {}
 tarihi_yok: {}

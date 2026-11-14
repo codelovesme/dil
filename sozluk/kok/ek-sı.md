@@ -6,12 +6,12 @@
 - **Ana Türkçe:** *-(s)I
 - **Köken:** türkçe
 - **Kavramlar:** [iyelik-3](../temel/iyelik-3.yaml)
-- **Etimoloji:** Ana Türkçe *-(s)I. Bütün Ortak Türkçe dillerinde (sı, si; Başkurtça hı); Çuvaşça -ĕ/-şĕ.
+- **Etimoloji:** Ana Türkçe *-(s)I. Ünlüden sonra -sı; Başkurtça hı, Altay, Tuva ve Hakas zı.
 - **En eski tanık:** günümüz
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 0/7 · tanık 22 (kaynaklı %0) · kaynak 0 · yabancı kayıt 0**
+**seviye 0 · diller 20/40 · ağızlar 0/89 · duraklar 0/7 · tanık 18 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -23,7 +23,7 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
+Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Karayca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -31,30 +31,30 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **ĕ** | -ӗ |  | bilgi* | Biçimler: ĕ, i; ünlüden sonra şĕ |
-| Oğuz kolu | Türkiye Türkçesi |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Oğuz kolu | Gagavuzca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Oğuz kolu | Türkmence |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Tatarca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Başkurtça |  | **hı** |  |  | bilgi* | Biçimler: hı, he; ünsüzden sonra ı, e (s > h) |
-| Kıpçak kolu | Kırım Tatarcası |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Karayca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Kumukça |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Karaçay-Malkarca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Kazakça |  | **sı** |  |  | bilgi* | Biçimler: sı, si; ı, i |
-| Kıpçak kolu | Karakalpakça |  | **sı** |  |  | bilgi* | Biçimler: sı, si; ı, i |
-| Kıpçak kolu | Nogayca |  | **sı** |  |  | bilgi* | Biçimler: sı, si; ı, i |
-| Kıpçak kolu | Sibirya Tatarcası |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Kıpçak kolu | Kırgızca |  | **sı** |  |  | bilgi* | Biçimler: sı, si, su, sü; ı… |
-| Kıpçak kolu | Güney Altayca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Karluk kolu | Özbekçe |  | **si** |  |  | bilgi* | Biçimler: si; ünsüzden sonra i |
-| Karluk kolu | Uygurca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Sibirya kolu | Tuvaca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Sibirya kolu | Hakasça |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| Sibirya kolu | Şorca |  | **sı** |  |  | bilgi* | Biçimler: ünlüden sonra sı, si…; ünsüzden sonra ı, i… |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine a (ek-ta) |
-| | Dolganca | | — | | | | kök yok: yerine a (ek-ta) |
+| Oğuz kolu | Türkiye Türkçesi |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{s}{I}. |
+| Oğuz kolu | Gagavuzca |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{s}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{s}{I}. |
+| Oğuz kolu | Türkmence |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{s}{I}. |
+| Kıpçak kolu | Tatarca |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{s}{I}. |
+| Kıpçak kolu | Başkurtça |  | **hı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{h}{I}. |
+| Kıpçak kolu | Kırım Tatarcası |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{s}{I}. |
+| Kıpçak kolu | Kumukça |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{s}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Kıpçak kolu | Karaçay-Malkarca |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{s}{I}. |
+| Kıpçak kolu | Kazakça |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{s}{I}. |
+| Kıpçak kolu | Karakalpakça |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{s}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Kıpçak kolu | Nogayca |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{s}{I}. Tatoeba'da tek örnek; zayıf kanıt. |
+| Kıpçak kolu | Kırgızca |  | **sı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim) | Apertium: -{s}{I}. |
+| Kıpçak kolu | Güney Altayca |  | **zı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{z}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Karluk kolu | Özbekçe |  | **si** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{s}i. |
+| Karluk kolu | Uygurca |  | **si** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{s}i. |
+| Sibirya kolu | Tuvaca |  | **zı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{z}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Sibirya kolu | Hakasça |  | **zı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{s}{I}. Hakasçada s ünlüden sonra z olur (Apertium ses kuralı). Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ta (ek-ta) |
+| | Çuvaşça | | — | | | | kök yok: yerine i (ek-i-chv) |
 
 ## Kaynakça
 
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 18 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 6 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 5 tanık
+- [Wiktionary — dil maddelerindeki çekim (declension) tabloları](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim) — 2 tanık

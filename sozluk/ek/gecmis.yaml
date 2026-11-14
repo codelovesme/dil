@@ -6,33 +6,34 @@ kokler:
 - kok: ek-dı
   koken: türkçe
   ana_turkce: '*-DI'
-  kaynak: savelyev-turkic
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
   not: Tanıklar sözlük maddesinde (sozluk/kok/ek-dı.yaml).
   bicimler:
     aze: dı
-    bak: dı
+    bak: nı
     chv:
       bicim: rĕ
       miras: true
     crh: dı
     gag: dı
     krc: dı
-    kdr: dı
     kaa: dı
     kaz: dı
-    kjh: dı
     kir: dı
     kum: dı
     nog: dı
-    cjs: tı
     alt: dı
     tat: dı
     tur: dı
     tuk: dı
     tyv: dı
-    uig: dı
+    uig: di
     uzb: di
-    sah: da
-    sty: tı
+- kok: ek-ta-gec
+  koken: türkçe
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ta-gec.yaml).
+  bicimler:
+    sah: ta
 yok: []
 tarihi_yok: []

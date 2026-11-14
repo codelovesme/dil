@@ -1,0 +1,32 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ta-gec
+anlam: Sahacada "yakın geçmiş zaman eki"
+koken: türkçe
+kavramlar:
+- gecmis
+etimoloji: Sahaca -TA; *-DI ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: apertium-sah.sah.lexc, bicim: ta, dil: sah, kaynak: apertium, not: 'Apertium: -{T}. Sahaca yakın geçmiş; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+
+yok:
+  tur: yerine dı (ek-dı)
+  aze: yerine dı (ek-dı)
+  crh: yerine dı (ek-dı)
+  kum: yerine dı (ek-dı)
+  krc: yerine dı (ek-dı)
+  nog: yerine dı (ek-dı)
+  kaz: yerine dı (ek-dı)
+  kaa: yerine dı (ek-dı)
+  kir: yerine dı (ek-dı)
+  tat: yerine dı (ek-dı)
+  alt: yerine dı (ek-dı)
+  tyv: yerine dı (ek-dı)
+  gag: yerine dı (ek-dı)
+  tuk: yerine dı (ek-dı)
+  bak: yerine nı (ek-dı)
+  uig: yerine di (ek-dı)
+  uzb: yerine di (ek-dı)
+  chv: yerine rĕ (ek-dı)
+tarihi_yok: {}

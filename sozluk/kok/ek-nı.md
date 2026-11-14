@@ -6,12 +6,12 @@
 - **Ana Türkçe:** *-(n)I
 - **Köken:** türkçe
 - **Kavramlar:** [belirtme](../temel/belirtme.yaml)
-- **Etimoloji:** Göktürkçe -(ı)ğ ve zamir çekiminden yayılan -nı. Oğuz ve Sahada ünlüden sonra -nı/-yı, ünsüzden sonra -ı; Kıpçak ve Sibirya'da -nı, -dı, -tı. Çuvaşçada belirtme yönelme ekiyle birleşmiştir (-a/-na).
+- **Etimoloji:** Ünlüden sonra Kıpçak, Karluk ve Sibirya dillerinde, Türkmen ve Azerbaycan Türkçesinde -nı; Türkiye ve Gagauz Türkçesinde -yı. Çuvaşçada belirtme, yönelme ekiyle karşılanır.
 - **En eski tanık:** günümüz
 
 ## Kapsam
 
-**seviye 0 · diller 23/40 · ağızlar 0/89 · duraklar 0/7 · tanık 23 (kaynaklı %0) · kaynak 0 · yabancı kayıt 0**
+**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 0/7 · tanık 19 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -23,7 +23,7 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
+Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Karayca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -31,29 +31,29 @@ Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkiye Türkçesi |  | **ı** |  |  | bilgi* | Biçimler: ı, i, u, ü; ünlüden sonra yı… |
-| Oğuz kolu | Gagavuzca |  | **ı** |  |  | bilgi* | Biçimler: ı, i…; yı… |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **ı** |  |  | bilgi* | Biçimler: ı, i, u, ü; ünlüden sonra nı… |
-| Oğuz kolu | Türkmence |  | **ı** |  |  | bilgi* | Biçimler: ı, i…; ünlüden sonra nı, ni |
-| Kıpçak kolu | Tatarca |  | **nı** |  |  | bilgi* | Biçimler: nı, ne |
-| Kıpçak kolu | Başkurtça |  | **dı** |  |  | bilgi* | Biçimler: dı, de; tı, te; nı, ne; zı, ze |
-| Kıpçak kolu | Kırım Tatarcası |  | **nı** |  |  | bilgi* | Biçimler: nı, ni |
-| Kıpçak kolu | Karayca |  | **nı** |  |  | bilgi* | Biçimler: nı, ni |
-| Kıpçak kolu | Kumukça |  | **nı** |  |  | bilgi* | Biçimler: nı, ni, nu, nü |
-| Kıpçak kolu | Karaçay-Malkarca |  | **nı** |  |  | bilgi* | Biçimler: nı, ni, nu, nü |
-| Kıpçak kolu | Kazakça |  | **dı** |  |  | bilgi* | Biçimler: dı, di; tı, ti; nı, ni; iyelikten sonra n |
-| Kıpçak kolu | Karakalpakça |  | **dı** |  |  | bilgi* | Biçimler: dı, di; tı, ti; nı, ni |
-| Kıpçak kolu | Nogayca |  | **dı** |  |  | bilgi* | Biçimler: dı, di, tı, ti, nı, ni |
-| Kıpçak kolu | Sibirya Tatarcası |  | **nı** |  |  | bilgi* | Biçimler: nı, ni |
-| Kıpçak kolu | Kırgızca |  | **dı** |  |  | bilgi* | Biçimler: dı, di, du, dü; tı…; nı… |
-| Kıpçak kolu | Güney Altayca |  | **dı** |  |  | bilgi* | Biçimler: dı…; tı…; nı… |
-| Karluk kolu | Özbekçe |  | **ni** |  |  | bilgi* | Biçimler: yalnız ni |
-| Karluk kolu | Uygurca |  | **nı** |  |  | bilgi* | Biçimler: nı, ni |
-| Sibirya kolu | Sahaca (Yakutça) |  | **ı** |  |  | bilgi* | Biçimler: ı, i, u, ü; ünlüden sonra nı… |
-| Sibirya kolu | Dolganca |  | **ı** |  |  | bilgi* | Biçimler: ı, i…; nı… |
-| Sibirya kolu | Tuvaca |  | **nı** |  |  | bilgi* | Biçimler: nı, ni, nu, nü; dı…; tı… |
-| Sibirya kolu | Hakasça |  | **nı** |  |  | bilgi* | Biçimler: nı, ni; tı, ti |
-| Sibirya kolu | Şorca |  | **nı** |  |  | bilgi* | Biçimler: nı, ni; tı, ti |
+| Oğuz kolu | Türkiye Türkçesi |  | **yı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{y}{I}. |
+| Oğuz kolu | Gagavuzca |  | **yı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{y}{I}. Tatoeba'da tek örnek; zayıf kanıt. |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{y}{I}. Apertium -{y}{I} veriyor; Wiktionary ana → ananı (ünlüden sonra nı); Wiktionary'ye uyuldu. |
+| Oğuz kolu | Türkmence |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{n}{Y}. |
+| Kıpçak kolu | Tatarca |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -n{I}. |
+| Kıpçak kolu | Başkurtça |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{N}{I}. |
+| Kıpçak kolu | Kırım Tatarcası |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim) | Apertium: -n{Y}. |
+| Kıpçak kolu | Kumukça |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{N}{I}. |
+| Kıpçak kolu | Karaçay-Malkarca |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Kıpçak kolu | Kazakça |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{N}{I}. |
+| Kıpçak kolu | Karakalpakça |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Kıpçak kolu | Nogayca |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{D}{I}. |
+| Kıpçak kolu | Kırgızca |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{N}{I}. |
+| Kıpçak kolu | Güney Altayca |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{N}{I}. |
+| Karluk kolu | Özbekçe |  | **ni** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -ni. |
+| Karluk kolu | Uygurca |  | **ni** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -ni. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{n}{I}. |
+| Sibirya kolu | Tuvaca |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| Sibirya kolu | Hakasça |  | **nı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{N}{I}. Tatoeba'da tek örnek; zayıf kanıt. |
 
 ## Kaynakça
 
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 19 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 8 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 7 tanık
+- [Wiktionary — dil maddelerindeki çekim (declension) tabloları](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim) — 6 tanık

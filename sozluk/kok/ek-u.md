@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %0) · kaynak 0 · yabancı kayıt 0**
+**seviye 0 · diller 20/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -22,7 +22,7 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
+Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Karayca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
 `bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
 
@@ -30,25 +30,21 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **u** | -у |  | bilgi* | Biçimler: u, ü. Çuvaşça 2. tekil iyelik; *-(I)ŋ ile ilişkisi bu çalışmada araştırılmadı. |
+| Oğur kolu | Çuvaşça |  | **u** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{U}n. Çuvaşça -u, -ü; Apertium'da sonda isteğe bağlı n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
 | | Türkmence | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Kırım Tatarcası | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Kumukça | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Karaçay-Malkarca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
-| | Karayca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Nogayca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Kazakça | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Karakalpakça | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Kırgızca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Tatarca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Başkurtça | | — | | | | kök yok: yerine ñ (ek-ıñ) |
-| | Sibirya Tatarcası | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Güney Altayca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Hakasça | | — | | | | kök yok: yerine ñ (ek-ıñ) |
-| | Şorca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Tuvaca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Sahaca (Yakutça) | | — | | | | kök yok: yerine ñ (ek-ıñ) |
-| | Dolganca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Uygurca | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Özbekçe | | — | | | | kök yok: yerine ñ (ek-ıñ) |
 | | Türkiye Türkçesi | | — | | | | kök yok: yerine n (ek-ıñ) |
@@ -57,3 +53,4 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 ## Kaynakça
 
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık

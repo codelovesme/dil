@@ -5,7 +5,7 @@
 - **Anlam:** Bulunma hâli eki.
 - **İngilizce:** locative suffix
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %62 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %56 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ek-da](../kok/ek-da.md) | türkçe | 0.97 (*da*) | Çuvaşça %75 | Ana Türkçe (2 hat) | ~193 milyon (%100, *da*) | *-DA |
+| [ek-da](../kok/ek-da.md) | türkçe | 0.96 (*da*) | Çuvaşça %75 | Ana Türkçe (2 hat) | ~193 milyon (%100, *da*) | *-DA |
 
-**Büyük topluluklarda *da* biçiminin anlaşılırlığı:** Çuvaşça %75, Sibirya Tatarcası %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
+**Büyük topluluklarda *da* biçiminin anlaşılırlığı:** Çuvaşça %75, Başkurtça %75, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -59,17 +59,17 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | da | da | da |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | da | da | da |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | la | da | da |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | da | da | da | da |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | da | da | da | da |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | la | la | la | la |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | la | la | la | la |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | da | da | da |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | da | da | da |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | da | da | da | da |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | da | da | da | da |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | da ↑ | da ↑ | da ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | da | da | da |  |
@@ -84,8 +84,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | da | da | da | da |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | ta | ta | ta | ta |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ta | ta | ta | ta |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | da ↑ | da ↑ | da ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | da | da | da |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | da | da | da | da |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
@@ -116,8 +116,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | da | da | da |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | da | da | da | da |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da | da | da | da |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | ta | ta | ta | ta |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ta | ta | ta | ta |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | da ↑ | da ↑ | da ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | da ↑ | da ↑ | da ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | da ↑ | da ↑ | da ↑ |  |
@@ -134,20 +134,17 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Oğuz kolu | Azerbaycan Türkçesi |  | da |
 | Oğuz kolu | Türkmence |  | da |
 | Kıpçak kolu | Tatarca |  | da |
-| Kıpçak kolu | Başkurtça |  | da |
+| Kıpçak kolu | Başkurtça |  | la |
 | Kıpçak kolu | Kırım Tatarcası |  | da |
-| Kıpçak kolu | Karayca |  | da |
 | Kıpçak kolu | Kumukça |  | da |
 | Kıpçak kolu | Karaçay-Malkarca |  | da |
 | Kıpçak kolu | Kazakça |  | da |
 | Kıpçak kolu | Karakalpakça |  | da |
 | Kıpçak kolu | Nogayca |  | da |
-| Kıpçak kolu | Sibirya Tatarcası |  | ta |
 | Kıpçak kolu | Kırgızca |  | da |
 | Kıpçak kolu | Güney Altayca |  | da |
 | Karluk kolu | Özbekçe |  | da |
 | Karluk kolu | Uygurca |  | da |
 | Sibirya kolu | Tuvaca |  | da |
 | Sibirya kolu | Hakasça |  | da |
-| Sibirya kolu | Şorca |  | ta |
 

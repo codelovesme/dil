@@ -3,9 +3,9 @@
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
   "kavram": 238,
-  "kok": 661,
-  "tanik": 7634,
-  "kaynak": 169,
+  "kok": 663,
+  "tanik": 7584,
+  "kaynak": 171,
   "dil": 40
  },
  "sayfalar": [
@@ -675,6 +675,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-i-chv.md",
+   "baslik": "ek-i-chv",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-lar.md",
    "baslik": "ek-lar",
    "tur": "kok"
@@ -707,6 +712,11 @@
   {
    "yol": "sozluk/kok/ek-sı.md",
    "baslik": "ek-sı",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ta-gec.md",
+   "baslik": "ek-ta-gec",
    "tur": "kok"
   },
   {
@@ -4579,9 +4589,10 @@
    "ozet": "Ortak dil: dan · Ana Türkçe tahmini: dan · En çok kişinin anladığı: dan",
    "anahtar": [
     "dan",
+    "dañ",
     "din",
+    "nan",
     "ran",
-    "tan",
     "ttan"
    ]
   },
@@ -4590,12 +4601,11 @@
    "ad": "belirtme hâli eki",
    "alt": "accusative suffix",
    "yol": "sozluk/ek/belirtme.md",
-   "ozet": "Ortak dil: nı · Ana Türkçe tahmini: nı · En çok kişinin anladığı: ı",
+   "ozet": "Ortak dil: nı · Ana Türkçe tahmini: nı · En çok kişinin anladığı: nı",
    "anahtar": [
-    "dı",
     "ni",
     "nı",
-    "ı"
+    "yı"
    ]
   },
   {
@@ -4606,8 +4616,8 @@
    "ozet": "Ortak dil: da · Ana Türkçe tahmini: da · En çok kişinin anladığı: da",
    "anahtar": [
     "da",
-    "ra",
-    "ta"
+    "la",
+    "ra"
    ]
   },
   {
@@ -4628,11 +4638,11 @@
    "yol": "sozluk/ek/gecmis.md",
    "ozet": "Ortak dil: dı · Ana Türkçe tahmini: dı · En çok kişinin anladığı: dı",
    "anahtar": [
-    "da",
     "di",
     "dı",
+    "nı",
     "rĕ",
-    "tı"
+    "ta"
    ]
   },
   {
@@ -4642,11 +4652,11 @@
    "yol": "sozluk/ek/ilgi.md",
    "ozet": "Ortak dil: nıñ · Ana Türkçe tahmini: nıñ · En çok kişinin anladığı: nın",
    "anahtar": [
+    "n",
     "niñ",
     "nı",
     "nın",
-    "nıñ",
-    "ăn"
+    "nıñ"
    ]
   },
   {
@@ -4656,8 +4666,7 @@
    "yol": "sozluk/ek/iyelik-1t.md",
    "ozet": "Ortak dil: m · Ana Türkçe tahmini: m · En çok kişinin anladığı: m",
    "anahtar": [
-    "m",
-    "ăm"
+    "m"
    ]
   },
   {
@@ -4679,11 +4688,12 @@
    "yol": "sozluk/ek/iyelik-3.md",
    "ozet": "Ortak dil: sı · Ana Türkçe tahmini: sı · En çok kişinin anladığı: sı",
    "anahtar": [
-    "a",
     "hı",
+    "i",
     "si",
     "sı",
-    "ĕ"
+    "ta",
+    "zı"
    ]
   },
   {
@@ -4716,11 +4726,12 @@
    "ad": "yönelme hâli eki",
    "alt": "dative suffix",
    "yol": "sozluk/ek/yonelme.md",
-   "ozet": "Ortak dil: ğa · Ana Türkçe tahmini: ğa · En çok kişinin anladığı: a",
+   "ozet": "Ortak dil: ğa · Ana Türkçe tahmini: ğa · En çok kişinin anladığı: ya",
    "anahtar": [
     "a",
     "ga",
-    "ka",
+    "na",
+    "ya",
     "ğa"
    ]
   },
@@ -11404,12 +11415,11 @@
    "ad": "ek-da",
    "alt": "\"bulunma hâli eki -DA\"",
    "yol": "sozluk/kok/ek-da.md",
-   "ozet": "22 tanık, en eski günümüz",
+   "ozet": "19 tanık, en eski günümüz",
    "anahtar": [
-    "-ра",
     "da",
-    "ra",
-    "ta"
+    "la",
+    "ra"
    ]
   },
   {
@@ -11417,13 +11427,13 @@
    "ad": "ek-dan",
    "alt": "\"ayrılma hâli eki -DAn\"",
    "yol": "sozluk/kok/ek-dan.md",
-   "ozet": "24 tanık, en eski günümüz",
+   "ozet": "20 tanık, en eski günümüz",
    "anahtar": [
-    "-ран",
     "dan",
+    "dañ",
     "din",
+    "nan",
     "ran",
-    "tan",
     "ttan"
    ]
   },
@@ -11432,14 +11442,22 @@
    "ad": "ek-dı",
    "alt": "\"görülen geçmiş zaman eki -DI\"",
    "yol": "sozluk/kok/ek-dı.md",
-   "ozet": "23 tanık, en eski günümüz",
+   "ozet": "18 tanık, en eski günümüz",
    "anahtar": [
-    "-рӗ",
-    "da",
     "di",
     "dı",
-    "rĕ",
-    "tı"
+    "nı",
+    "rĕ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-i-chv",
+   "alt": "Çuvaşçada \"3. kişi iyelik eki\"",
+   "yol": "sozluk/kok/ek-i-chv.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "i"
    ]
   },
   {
@@ -11447,7 +11465,7 @@
    "ad": "ek-lar",
    "alt": "\"çoğul eki -lAr\"",
    "yol": "sozluk/kok/ek-lar.md",
-   "ozet": "25 tanık, en eski günümüz",
+   "ozet": "19 tanık, en eski günümüz",
    "anahtar": [
     "lar"
    ]
@@ -11457,9 +11475,8 @@
    "ad": "ek-ma",
    "alt": "\"olumsuzluk eki -mA\"",
    "yol": "sozluk/kok/ek-ma.md",
-   "ozet": "24 tanık, en eski günümüz",
+   "ozet": "19 tanık, en eski günümüz",
    "anahtar": [
-    "-ма-",
     "ba",
     "ma"
    ]
@@ -11469,12 +11486,11 @@
    "ad": "ek-nı",
    "alt": "\"belirtme hâli eki -(n)I\"",
    "yol": "sozluk/kok/ek-nı.md",
-   "ozet": "23 tanık, en eski günümüz",
+   "ozet": "19 tanık, en eski günümüz",
    "anahtar": [
-    "dı",
     "ni",
     "nı",
-    "ı"
+    "yı"
    ]
   },
   {
@@ -11482,14 +11498,13 @@
    "ad": "ek-nıñ",
    "alt": "\"ilgi hâli eki -nIñ\"",
    "yol": "sozluk/kok/ek-nıñ.md",
-   "ozet": "22 tanık, en eski günümüz",
+   "ozet": "19 tanık, en eski günümüz",
    "anahtar": [
-    "-ӑн",
+    "n",
     "niñ",
     "nı",
     "nın",
-    "nıñ",
-    "ăn"
+    "nıñ"
    ]
   },
   {
@@ -11497,9 +11512,8 @@
    "ad": "ek-sa",
    "alt": "\"şart eki -sA\"",
    "yol": "sozluk/kok/ek-sa.md",
-   "ozet": "22 tanık, en eski günümüz",
+   "ozet": "18 tanık, en eski günümüz",
    "anahtar": [
-    "-сан",
     "ha",
     "sa",
     "san",
@@ -11513,7 +11527,6 @@
    "yol": "sozluk/kok/ek-sem.md",
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
-    "-сем",
     "sem"
    ]
   },
@@ -11522,31 +11535,40 @@
    "ad": "ek-sı",
    "alt": "\"3. kişi iyelik eki -(s)I\"",
    "yol": "sozluk/kok/ek-sı.md",
-   "ozet": "22 tanık, en eski günümüz",
+   "ozet": "18 tanık, en eski günümüz",
    "anahtar": [
-    "-ӗ",
     "hı",
     "si",
     "sı",
-    "ĕ"
+    "zı"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ta-gec",
+   "alt": "Sahacada \"yakın geçmiş zaman eki\"",
+   "yol": "sozluk/kok/ek-ta-gec.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "ta"
    ]
   },
   {
    "t": "kok",
    "ad": "ek-ta",
-   "alt": "Saha ve Dolgancada \"3. kişi iyelik eki\"",
+   "alt": "Sahacada \"3. kişi iyelik eki\"",
    "yol": "sozluk/kok/ek-ta.md",
-   "ozet": "2 tanık, en eski günümüz",
+   "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
-    "a"
+    "ta"
    ]
   },
   {
    "t": "kok",
    "ad": "ek-tar",
-   "alt": "Saha ve Dolgancada \"şart eki\"",
+   "alt": "Sahacada \"şart eki\"",
    "yol": "sozluk/kok/ek-tar.md",
-   "ozet": "2 tanık, en eski günümüz",
+   "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "tar"
    ]
@@ -11558,7 +11580,6 @@
    "yol": "sozluk/kok/ek-u.md",
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
-    "-у",
     "u"
    ]
   },
@@ -11567,12 +11588,12 @@
    "ad": "ek-ğa",
    "alt": "\"yönelme hâli eki -GA\"",
    "yol": "sozluk/kok/ek-ğa.md",
-   "ozet": "24 tanık, en eski günümüz",
+   "ozet": "20 tanık, en eski günümüz",
    "anahtar": [
-    "-а",
     "a",
     "ga",
-    "ka",
+    "na",
+    "ya",
     "ğa"
    ]
   },
@@ -11581,11 +11602,9 @@
    "ad": "ek-ım",
    "alt": "\"1. tekil iyelik eki -(I)m\"",
    "yol": "sozluk/kok/ek-ım.md",
-   "ozet": "24 tanık, en eski günümüz",
+   "ozet": "20 tanık, en eski günümüz",
    "anahtar": [
-    "-ӑм",
-    "m",
-    "ăm"
+    "m"
    ]
   },
   {
@@ -11593,7 +11612,7 @@
    "ad": "ek-ıñ",
    "alt": "\"2. tekil iyelik eki -(I)ñ\"",
    "yol": "sozluk/kok/ek-ıñ.md",
-   "ozet": "23 tanık, en eski günümüz",
+   "ozet": "19 tanık, en eski günümüz",
    "anahtar": [
     "n",
     "ñ"
@@ -20043,6 +20062,30 @@
   },
   {
    "t": "kaynak",
+   "ad": "Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)",
+   "alt": "apertium",
+   "yol": "kaynaklar/KAYNAKLAR.md#apertium",
+   "ozet": "Kural tabanlı makine çevirisi için yazılmış, dil başına sonlu durum biçimbilim çözümleyicileri. Eklerin bütün biçimleri arşifonemlerle ({L}{A}r gibi) verilir; h",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Universal Dependencies — işaretlenmiş derlemler (treebank)",
+   "alt": "universal-dependencies",
+   "yol": "kaynaklar/KAYNAKLAR.md#universal-dependencies",
+   "ozet": "Gerçek metinlerden cümleler; her kelimenin baş biçimi (lemma), türü ve dilbilgisi özellikleri (hâl, kişi, zaman, olumsuzluk) işaretli. Eklerin gerçek kullanımda",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wiktionary — dil maddelerindeki çekim (declension) tabloları",
+   "alt": "wiktionary-cekim",
+   "yol": "kaynaklar/KAYNAKLAR.md#wiktionary-cekim",
+   "ozet": "Türk dillerindeki isim maddelerinin hâl ve iyelik çekim tabloları. Eklerin ikinci kaynağı olarak kullanılır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
    "ad": "Tatoeba — çok dilli cümle derlemi",
    "alt": "tatoeba",
    "yol": "kaynaklar/KAYNAKLAR.md#tatoeba",
@@ -20495,14 +20538,6 @@
    "alt": "til-mt",
    "yol": "kaynaklar/KAYNAKLAR.md#til-mt",
    "ozet": "22 Türk dilinde 75 milyondan fazla cümle çifti (İngilizce, Rusça ve Türk dilleri arası), 400'den fazla çeviri yönü. Mirzakhalov vd. 2021.",
-   "anahtar": []
-  },
-  {
-   "t": "kaynak",
-   "ad": "Apertium — Türk dilleri çeviri çiftleri ve sözlükleri",
-   "alt": "apertium",
-   "yol": "kaynaklar/KAYNAKLAR.md#apertium",
-   "ozet": "Açık lisanslı tek dilli biçimbirim sözlükleri ve iki dilli sözlükler (.dix), ör. apertium-kaz-kir, apertium-kaz-tat.",
    "anahtar": []
   },
   {

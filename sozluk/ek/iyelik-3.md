@@ -5,7 +5,7 @@
 - **Anlam:** Üçüncü kişi iyelik eki (onun …).
 - **İngilizce:** 3rd person possessive
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %67 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %60 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -14,7 +14,7 @@
 | 1. Ortak dil | Ortak kelime; ne kadar çok farklı grup kullanıyorsa o kadar iyi. | **sı** | [ek-sı](../kok/ek-sı.md) |
 | 2. Ana Türkçe tahmini | Türkçenin en eski hâli neydi? | **sı** | [ek-sı](../kok/ek-sı.md) |
 | 3. En çok kişinin anladığı | En fazla insan anlasın. | **sı** | [ek-sı](../kok/ek-sı.md) |
-| 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [ek-sı](../kok/ek-sı.md) (seviye 0), [ek-ta](../kok/ek-ta.md) (seviye 0) |
+| 4. Tanıklı sözlük | Her kök nerede, ne zaman, nasıl ve hangi anlamda kullanılmış? | — | [ek-sı](../kok/ek-sı.md) (seviye 0), [ek-ta](../kok/ek-ta.md) (seviye 0), [ek-i-chv](../kok/ek-i-chv.md) (seviye 0) |
 
 İlk üç hedef **uyuşuyor**.
 
@@ -22,10 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ek-sı](../kok/ek-sı.md) | türkçe | 0.83 (*sı*) | Sahaca %0 | Ana Türkçe (2 hat) | ~188 milyon (%97, *sı*) | *-(s)I |
-| [ek-ta](../kok/ek-ta.md) | türkçe | -0.38 (*a*) | Çuvaşça %0 | Kuzey Sibirya (2 hat) | ~0 milyon (%0, *a*) |  |
+| [ek-sı](../kok/ek-sı.md) | türkçe | 0.69 (*sı*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~186 milyon (%96, *sı*) | *-(s)I |
+| [ek-ta](../kok/ek-ta.md) | türkçe | -0.39 (*ta*) | Çuvaşça %0 | Sahaca (Yakutça) (1 hat) | ~0 milyon (%0, *ta*) |  |
+| [ek-i-chv](../kok/ek-i-chv.md) | türkçe | -0.35 (*i*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *i*) |  |
 
-**Büyük topluluklarda *sı* biçiminin anlaşılırlığı:** Sahaca %0, Çuvaşça %56, Başkurtça %88, Özbekçe %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Uygurca %100, Tuvaca %100.
+**Büyük topluluklarda *sı* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Başkurtça %88, Özbekçe %88, Uygurca %88, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -34,9 +35,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
 | **Türk dilleri** | sı | sı | sı |  |
-| &nbsp;&nbsp;**Oğur kolu** | ĕ | ĕ | ĕ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | ĕ | ĕ | ĕ | ĕ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ĕ | ĕ | ĕ | ĕ |
+| &nbsp;&nbsp;**Oğur kolu** | *i* (ek-i-chv) | *i* (ek-i-chv) | *i* (ek-i-chv) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | i | i | i | i |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | i | i | i | i |
 | &nbsp;&nbsp;**Ortak Türkçe** | sı | sı | sı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | sı ↑ | sı ↑ | sı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | sı ↑ | sı ↑ | sı ↑ |  |
@@ -69,8 +70,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | sı | sı | sı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | sı | sı | sı | sı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | sı ↑ | sı ↑ | sı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı ↑ | sı ↑ | sı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | sı ↑ | sı ↑ | sı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | sı ↑ | sı ↑ | sı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | sı | sı | sı |  |
@@ -85,72 +86,68 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | sı | sı | sı | sı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | sı | sı | sı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | sı ↑ | sı ↑ | sı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı ↑ | sı ↑ | sı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | zı | sı | sı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | sı | sı | sı | sı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Altayca | zı | zı | zı | zı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | zı | zı | zı | zı |
 | &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | si | si | si |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | si | si | si | si |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | si | si | si | si |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | sı | sı | sı |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | sı | sı | *a* (ek-ta) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *a* (ek-ta) | *a* (ek-ta) | a |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | a | a | a | a |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | a | a | a | a |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | a | a | a | a |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | sı | sı | *sı* (ek-sı) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | sı | sı | sı |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | sı | sı | sı |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | sı | sı | sı |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı | sı | sı | sı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | sı ↑ | sı ↑ | sı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sı ↑ | sı ↑ | sı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | si | si | si |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | si | si | si | si |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | si | si | si | si |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | si ↑ | si ↑ | si ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | zı | zı | *ta* (ek-ta) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | *ta* (ek-ta) | *ta* (ek-ta) | ta |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | ta | ta | ta | ta |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ta | ta | ta | ta |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | ta ↑ | ta ↑ | ta ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | zı | zı | *zı* (ek-sı) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | zı | zı | zı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | zı | zı | zı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | zı | zı | zı | zı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | zı | zı | zı | zı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | zı | zı | zı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | zı | zı | zı | zı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | zı | zı | zı | zı |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Altayca | zı ↑ | zı ↑ | zı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | zı ↑ | zı ↑ | zı ↑ |  |
 
 ## Dillerdeki biçimler
 
-| Kol | Dil | Ağız | ek-sı | ek-ta |
-|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | ĕ |  |
-| Oğuz kolu | Türkiye Türkçesi |  | sı |  |
-| Oğuz kolu | Gagavuzca |  | sı |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | sı |  |
-| Oğuz kolu | Türkmence |  | sı |  |
-| Kıpçak kolu | Tatarca |  | sı |  |
-| Kıpçak kolu | Başkurtça |  | hı |  |
-| Kıpçak kolu | Kırım Tatarcası |  | sı |  |
-| Kıpçak kolu | Karayca |  | sı |  |
-| Kıpçak kolu | Kumukça |  | sı |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | sı |  |
-| Kıpçak kolu | Kazakça |  | sı |  |
-| Kıpçak kolu | Karakalpakça |  | sı |  |
-| Kıpçak kolu | Nogayca |  | sı |  |
-| Kıpçak kolu | Sibirya Tatarcası |  | sı |  |
-| Kıpçak kolu | Kırgızca |  | sı |  |
-| Kıpçak kolu | Güney Altayca |  | sı |  |
-| Karluk kolu | Özbekçe |  | si |  |
-| Karluk kolu | Uygurca |  | sı |  |
-| Sibirya kolu | Sahaca (Yakutça) |  |  | a |
-| Sibirya kolu | Dolganca |  |  | a |
-| Sibirya kolu | Tuvaca |  | sı |  |
-| Sibirya kolu | Hakasça |  | sı |  |
-| Sibirya kolu | Şorca |  | sı |  |
+| Kol | Dil | Ağız | ek-sı | ek-ta | ek-i-chv |
+|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  |  |  | i |
+| Oğuz kolu | Türkiye Türkçesi |  | sı |  |  |
+| Oğuz kolu | Gagavuzca |  | sı |  |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | sı |  |  |
+| Oğuz kolu | Türkmence |  | sı |  |  |
+| Kıpçak kolu | Tatarca |  | sı |  |  |
+| Kıpçak kolu | Başkurtça |  | hı |  |  |
+| Kıpçak kolu | Kırım Tatarcası |  | sı |  |  |
+| Kıpçak kolu | Kumukça |  | sı |  |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | sı |  |  |
+| Kıpçak kolu | Kazakça |  | sı |  |  |
+| Kıpçak kolu | Karakalpakça |  | sı |  |  |
+| Kıpçak kolu | Nogayca |  | sı |  |  |
+| Kıpçak kolu | Kırgızca |  | sı |  |  |
+| Kıpçak kolu | Güney Altayca |  | zı |  |  |
+| Karluk kolu | Özbekçe |  | si |  |  |
+| Karluk kolu | Uygurca |  | si |  |  |
+| Sibirya kolu | Sahaca (Yakutça) |  |  | ta |  |
+| Sibirya kolu | Tuvaca |  | zı |  |  |
+| Sibirya kolu | Hakasça |  | zı |  |  |
 

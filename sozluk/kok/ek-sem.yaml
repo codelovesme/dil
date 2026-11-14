@@ -4,36 +4,30 @@ anlam: Çuvaşçada "çoğul eki"
 koken: türkçe
 kavramlar:
 - cogul
-etimoloji: Çuvaşça -sem/-sam; kökeni tartışmalı (bu çalışmada araştırılmadı).
-kaynak: savelyev-turkic
+etimoloji: Çuvaşça -sem; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: sem, dil: chv, kaynak: bilgi, not: 'Biçimler: sem, sam (ünlü uyumu).', yazi: -сем}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (5 örnek: açasem, tusem, sısnasem)', bicim: sem, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -se{m}.'}
 
 yok:
   tur: yerine lar (ek-lar)
-  gag: yerine lar (ek-lar)
   aze: yerine lar (ek-lar)
   tuk: yerine lar (ek-lar)
+  gag: yerine lar (ek-lar)
   crh: yerine lar (ek-lar)
   kum: yerine lar (ek-lar)
   krc: yerine lar (ek-lar)
-  kdr: yerine lar (ek-lar)
-  uig: yerine lar (ek-lar)
-  uzb: yerine lar (ek-lar)
-  slr: yerine lar (ek-lar)
-  klj: yerine lar (ek-lar)
   nog: yerine lar (ek-lar)
   kaz: yerine lar (ek-lar)
   kaa: yerine lar (ek-lar)
   kir: yerine lar (ek-lar)
   tat: yerine lar (ek-lar)
-  sty: yerine lar (ek-lar)
   bak: yerine lar (ek-lar)
   alt: yerine lar (ek-lar)
   kjh: yerine lar (ek-lar)
-  cjs: yerine lar (ek-lar)
   tyv: yerine lar (ek-lar)
   sah: yerine lar (ek-lar)
-  dlg: yerine lar (ek-lar)
+  uig: yerine lar (ek-lar)
+  uzb: yerine lar (ek-lar)
 tarihi_yok: {}

@@ -2,38 +2,34 @@
 kok: ek-dan
 anlam: '"ayrılma hâli eki -DAn"'
 koken: türkçe
-ana_turkce: '*-DIn / *-DAn'
+ana_turkce: '*-DAn'
 kavramlar:
 - ayrilma
-etimoloji: Göktürkçe -dın/-tın, sonra -DAn. Bütün kollarda (dan, tan, nan; Uygurca -din, Sahaca
-  -ttan); Çuvaşça -ran/-tan.
-kaynak: savelyev-turkic
+etimoloji: Bütün kollarda dan; Başkurtça ünlüden sonra nan, Altay ve Hakas dañ, Uygur din,
+  Saha ttan; Çuvaşça -ran/-tan.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: dan, dil: aze, kaynak: bilgi, not: 'Biçimler: dan, dän'}
-  - {bicim: dan, dil: bak, kaynak: bilgi, not: 'Biçimler: dan, dän; tan, tän; nan, nän; lan, län; zan, zän'}
-  - {bicim: ran, dil: chv, kaynak: bilgi, not: 'Biçimler: ran, ren, tan, ten; iyelikten sonra çen.', yazi: -ран}
-  - {bicim: dan, dil: crh, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
-  - {bicim: ttan, dil: dlg, kaynak: bilgi, not: 'Biçimler: ttan, tan, dan…'}
-  - {bicim: dan, dil: gag, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
-  - {bicim: dan, dil: krc, kaynak: bilgi, not: 'Biçimler: dan, den'}
-  - {bicim: dan, dil: kdr, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
-  - {bicim: dan, dil: kaa, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten, nan, nen'}
-  - {bicim: dan, dil: kaz, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten, nan, nen'}
-  - {bicim: dan, dil: kjh, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
-  - {bicim: dan, dil: kir, kaynak: bilgi, not: 'Biçimler: dan, den, don, dön; tan…'}
-  - {bicim: dan, dil: kum, kaynak: bilgi, not: 'Biçimler: dan, den'}
-  - {bicim: dan, dil: nog, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten, nan, nen'}
-  - {bicim: tan, dil: cjs, kaynak: bilgi, not: 'Biçimler: tan, ten, dan, den'}
-  - {bicim: dan, dil: alt, kaynak: bilgi, not: 'Biçimler: dan…; tan…; nan…'}
-  - {bicim: dan, dil: tat, kaynak: bilgi, not: 'Biçimler: dan, dän, tan, tän, nan, nän'}
-  - {bicim: dan, dil: tur, kaynak: bilgi, not: 'Biçimler: dan, den, tan, ten'}
-  - {bicim: dan, dil: tuk, kaynak: bilgi, not: 'Biçimler: dan, den'}
-  - {bicim: dan, dil: tyv, kaynak: bilgi, not: 'Biçimler: dan, den; tan, ten; nan, nen'}
-  - {bicim: din, dil: uig, kaynak: bilgi, not: 'Biçimler: din, tin'}
-  - {bicim: dan, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız dan'}
-  - {bicim: ttan, dil: sah, kaynak: bilgi, not: 'Biçimler: ttan, tten; tan…, dan…, nan…, lan…'}
-  - {bicim: tan, dil: sty, kaynak: bilgi, not: 'Biçimler: tan, dan, nan'}
+  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: dan, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (1 örnek: avstraliyanan)', bicim: nan, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{A}n. Başkurtçada ünlüden sonra nan. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (1 örnek: açaran)', bicim: ran, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{T}{A}n. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: dan, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{D}{A}n.'}
+  - {atif: apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu, bicim: dan, dil: gag, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (1 örnek: altıdan)', bicim: dan, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}n. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: dan, dil: kaa, kaynak: apertium, not: 'Apertium: -{D}{A}n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: dan, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: apertium-kjh.kjh.lexc, bicim: dañ, dil: kjh, kaynak: apertium, not: 'Apertium: -{D}{A}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: dan, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (1 örnek: platformadan)', bicim: dan, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}n. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: moskvadan, anadan)', bicim: dan, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}n.'}
+  - {atif: apertium-alt.alt.lexc, bicim: dañ, dil: alt, kaynak: apertium, not: 'Apertium: -{D}{A}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: dan, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: dan, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (29 örnek: garañkıdan, yaponiyadan, rewolyusiyadan)', bicim: dan, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -d{A}n.'}
+  - {atif: apertium-tyv.tyv.lexc, bicim: dan, dil: tyv, kaynak: apertium, not: 'Apertium: -{D}{A}n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: din, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}in.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: dan, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -dan.'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ttan, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -tt{A}n.'}
 
 yok: {}
 tarihi_yok: {}

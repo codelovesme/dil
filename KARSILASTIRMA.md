@@ -9,7 +9,7 @@ Toplam 238 kavram, 32 tanesi ayrışıyor.
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
 | ayrılma hâli eki | dan *(ek-dan)* | dan *(ek-dan)* | dan *(ek-dan)* | UYUŞUYOR |
-| belirtme hâli eki | nı *(ek-nı)* | nı *(ek-nı)* | ı *(ek-nı)* | UYUŞUYOR |
+| belirtme hâli eki | nı *(ek-nı)* | nı *(ek-nı)* | nı *(ek-nı)* | UYUŞUYOR |
 | bulunma hâli eki | da *(ek-da)* | da *(ek-da)* | da *(ek-da)* | UYUŞUYOR |
 | çoğul eki | lar *(ek-lar)* | lar *(ek-lar)* | lar *(ek-lar)* | UYUŞUYOR |
 | görülen geçmiş zaman eki | dı *(ek-dı)* | dı *(ek-dı)* | dı *(ek-dı)* | UYUŞUYOR |
@@ -19,7 +19,7 @@ Toplam 238 kavram, 32 tanesi ayrışıyor.
 | iyelik eki (3. kişi) | sı *(ek-sı)* | sı *(ek-sı)* | sı *(ek-sı)* | UYUŞUYOR |
 | olumsuzluk eki | ma *(ek-ma)* | ma *(ek-ma)* | ma *(ek-ma)* | UYUŞUYOR |
 | şart eki | sa *(ek-sa)* | sa *(ek-sa)* | sa *(ek-sa)* | UYUŞUYOR |
-| yönelme hâli eki | ğa *(ek-ğa)* | ğa *(ek-ğa)* | a *(ek-ğa)* | UYUŞUYOR |
+| yönelme hâli eki | ğa *(ek-ğa)* | ğa *(ek-ğa)* | ya *(ek-ğa)* | UYUŞUYOR |
 | aç- | aç *(aç)* | aç *(aç)* | aç *(aç)* | UYUŞUYOR |
 | acı | açığ *(açığ)* | açığ *(açığ)* | acı *(açığ)* | UYUŞUYOR |
 | ad | at *(at)* | at *(at)* | at *(at)* | UYUŞUYOR |

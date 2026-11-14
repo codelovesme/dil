@@ -6,7 +6,7 @@ kokler:
 - kok: ek-ma
   koken: türkçe
   ana_turkce: '*-mA'
-  kaynak: savelyev-turkic
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
   not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ma.yaml).
   bicimler:
     aze: ma
@@ -15,17 +15,13 @@ kokler:
       bicim: ma
       miras: true
     crh: ma
-    dlg: ma
     gag: ma
     krc: ma
-    kdr: ma
     kaa: ma
     kaz: ma
-    kjh: ba
     kir: ba
     kum: ma
     nog: ma
-    cjs: ba
     alt: ba
     tat: ma
     tur: ma
@@ -34,6 +30,5 @@ kokler:
     uig: ma
     uzb: ma
     sah: ma
-    sty: ma
 yok: []
 tarihi_yok: []
