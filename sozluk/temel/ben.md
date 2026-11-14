@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ben](../kok/ben.md) | türkçe | 1.09 (*män*) | Çuvaşça %50 | Ana Türkçe (2 hat) | ~172 milyon (%89, *ben*) | *bẹ (*ben) |
+| [ben](../kok/ben.md) | türkçe | 1.09 (*män*) | Çuvaşça %50 | Ana Türkçe (2 hat) | ~174 milyon (%90, *ben*) | *bẹ (*ben) |
 
-**Büyük topluluklarda *män* biçiminin anlaşılırlığı:** Çuvaşça %50, Türkiye Türkçesi %77, Gagavuzca %83, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %88, Sahaca %88, Kırım Tatarcası %92, Kumukça %92, Kazakça %92, Özbekçe %92, Tuvaca %92, Irak Türkmencesi %92, Türkmence %92, Horasan Türkçesi %92, Karaçay-Malkarca %92, Karakalpakça %92, Kırgızca %92, Azerbaycan Türkçesi %100, Kaşkayca %100, Uygurca %100.
+**Büyük topluluklarda *män* biçiminin anlaşılırlığı:** Çuvaşça %50, Türkiye Türkçesi %75, Gagavuzca %83, Tatarca %88, Başkurtça %88, Sibirya Tatarcası %88, Sahaca %88, Kırım Tatarcası %92, Kumukça %92, Kazakça %92, Özbekçe %92, Tuvaca %92, Irak Türkmencesi %92, Türkmence %92, Horasan Türkçesi %92, Karaçay-Malkarca %92, Karakalpakça %92, Kırgızca %92, Azerbaycan Türkçesi %100, Kaşkayca %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -50,9 +50,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teke-Akdeniz ağzı | ben | ben | ben | ben |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Orta Anadolu ağzı | ben | ben | ben | ben |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Karadeniz ağzı (Kastamonu-Sinop) | ben | ben | ben | ben |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu grubu | men | men | men |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erzurum-Kars ağzı | men | men | men | men |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahıska ağzı | men | men | men | men |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu grubu | ben | ben | ben |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erzurum-Kars ağzı | ben | ben | ben | ben |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahıska ağzı | ben | ben | ben | ben |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzeydoğu grubu | ben | ben | ben |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karadeniz ağzı (Trabzon-Rize) | ben | ben | ben | ben |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rumeli ağızları | ben | ben | ben |  |
@@ -150,8 +150,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | ben |
 | Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | ben |
 | Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | ben |
-| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | men |
-| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | men |
+| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | ben |
+| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | ben |
 | Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | ben |
 | Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | ben |
 | Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | ben |

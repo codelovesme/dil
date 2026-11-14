@@ -63,7 +63,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [bedük](kok/bedük.md) | "büyük" | 0 | 29/40 | 1/89 | 0/7 | 7 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [begehee](kok/begehee.md) | Sahacada "dün" | 0 | 29/40 | 0/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [bel](kok/bel.md) | "bel" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
-| [ben](kok/ben.md) | birinci tekil şahıs zamiri ("ben") | 0 | 35/40 | 10/89 | 7/7 | 66 | %76 | 11 | 8. yy | — |
+| [ben](kok/ben.md) | birinci tekil şahıs zamiri ("ben") | 0 | 35/40 | 10/89 | 7/7 | 66 | %83 | 17 | 8. yy | — |
 | [ber](kok/ber.md) | "vermek" | 0 | 30/40 | 1/89 | 4/7 | 34 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Çağatayca |
 | [berk](kok/berk.md) | "sağlam, sert" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [bet](kok/bet.md) | "yüz, yanak" | 0 | 26/40 | 1/89 | 0/7 | 3 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -72,7 +72,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [bir](kok/bir.md) | bir sayısı (bir) | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 2 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [birle](kok/birle.md) | "ile, birlikte" | 0 | 29/40 | 1/89 | 2/7 | 26 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [bit](kok/bit.md) | "bit" | 0 | 27/40 | 0/89 | 2/7 | 29 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
-| [biz](kok/biz.md) | birinci çoğul şahıs zamiri ("biz") | 0 | 34/40 | 10/89 | 7/7 | 57 | %70 | 9 | 8. yy | — |
+| [biz](kok/biz.md) | birinci çoğul şahıs zamiri ("biz") | 0 | 34/40 | 10/89 | 7/7 | 57 | %77 | 12 | 8. yy | — |
 | [bod](kok/bod.md) | Halaççada "sağ (yön)" | 0 | 30/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [boda](kok/boda.md) | Tuvacada "düşünmek" | 0 | 27/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [boyun](kok/boyun.md) | "boyun" | 0 | 30/40 | 1/89 | 2/7 | 32 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
@@ -362,7 +362,7 @@ Seviye 1: bütün yaşayan diller · Seviye 2: + tarihî duraklar · Seviye 3: +
 | [simĕs](kok/simĕs.md) | Çuvaşçada "yeşil" | 0 | 29/40 | 1/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sinnyiges](kok/sinnyiges.md) | Saha ve Dolgancada "ince" | 0 | 27/40 | 0/89 | 0/7 | 2 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sivĕ](kok/sivĕ.md) | Çuvaşçada "soğuk" | 0 | 28/40 | 0/89 | 0/7 | 1 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
-| [siz](kok/siz.md) | ikinci çoğul şahıs zamiri ("siz"); birçok dilde saygı için tekil de | 0 | 32/40 | 10/89 | 7/7 | 56 | %70 | 9 | 8. yy | — |
+| [siz](kok/siz.md) | ikinci çoğul şahıs zamiri ("siz"); birçok dilde saygı için tekil de | 0 | 32/40 | 10/89 | 7/7 | 56 | %75 | 11 | 8. yy | — |
 | [siñek](kok/siñek.md) | "sinek" | 0 | 26/40 | 1/89 | 0/7 | 6 | %100 | 1 | günümüz | Eski Türkçe, Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [siñir](kok/siñir.md) | "sindirmek, yutmak" | 0 | 29/40 | 1/89 | 1/7 | 1 | %100 | 1 | 8. yy | Karahanlıca, Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |
 | [sod](kok/sod.md) | "tükürmek" (Eski Türkçe) | 0 | 27/40 | 1/89 | 2/7 | 3 | %100 | 3 | 8. yy | Harezm ve Altın Orda Türkçesi, Memlük Kıpçakçası ve Codex Cumanicus, Eski Anadolu Türkçesi, Çağatayca, Osmanlıca |

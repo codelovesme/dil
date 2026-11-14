@@ -5,7 +5,7 @@
   "kavram": 238,
   "kok": 663,
   "tanik": 7619,
-  "kaynak": 171,
+  "kaynak": 176,
   "dil": 40
  },
  "sayfalar": [
@@ -20088,6 +20088,46 @@
    "alt": "wiktionary-cekim",
    "yol": "kaynaklar/KAYNAKLAR.md#wiktionary-cekim",
    "ozet": "Türk dillerindeki isim maddelerinin hâl ve iyelik çekim tabloları. Eklerin ikinci kaynağı olarak kullanılır.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ağıralioğlu & Akçan 2025 — Türkçe kişi zamirlerinin bazı dil ve lehçelerdeki kişi zamirleriyle karşılaştırılması",
+   "alt": "agiralioglu-akcan-2025",
+   "yol": "kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025",
+   "ozet": "Journal of Turkic Civilization Studies 6(1). Eski Türkçe, Orta Türkçe ve 30 Türk lehçesinde yalın hâl kişi zamirleri tabloları (Tablo 3, Tablo 4). İkincil derle",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Ersöz, S. — Ahıska Ağzının Türkçenin Ağızları Arasındaki Yeri",
+   "alt": "ersoz-ahiska",
+   "yol": "kaynaklar/KAYNAKLAR.md#ersoz-ahiska",
+   "ozet": "Ahıska ağzının ses ve biçim özelliklerinin Türkiye Türkçesi ağızlarıyla karşılaştırması; karşılaştırma tablosunda örn. 'bana' için bahan/bene.",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Gemalmaz, E. — Erzurum İli Ağızları (özet makale)",
+   "alt": "gemalmaz-erzurum",
+   "yol": "kaynaklar/KAYNAKLAR.md#gemalmaz-erzurum",
+   "ozet": "Erzurum ili ağızlarının ses ve biçim özellikleri ve derleme metin örnekleri (ör. 'ben sana diyorum', benüm). Ağzın temel kaynağı Gemalmaz'ın 1975/1995 doktora ç",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Daşdemir, M. 2008 — Anadolu ağızlarında çekimli yapılarda ortaya çıkan /+(E)n/ eki",
+   "alt": "dasdemir-2008",
+   "yol": "kaynaklar/KAYNAKLAR.md#dasdemir-2008",
+   "ozet": "A.Ü. Türkiyat Araştırmaları Enstitüsü Dergisi 36. Anadolu ağızlarında zamirlerin yönelme hâli (bahan/behen/been 'bana'; Erzurum, Kars, Erzincan, Diyarbakır, Ela",
+   "anahtar": []
+  },
+  {
+   "t": "kaynak",
+   "ad": "Wiktionary — dil maddeleri ve ek sayfaları (Swadesh listeleri)",
+   "alt": "wiktionary-sozluk",
+   "yol": "kaynaklar/KAYNAKLAR.md#wiktionary-sozluk",
+   "ozet": "Tek tek dillerin kelime maddeleri (ör. Karayca siz, kaynak Baskakov) ve 'Appendix:<Dil> Swadesh list' sayfaları (ör. Urumca: мен, биз, сиз).",
    "anahtar": []
   },
   {

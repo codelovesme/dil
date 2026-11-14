@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 32/40 · ağızlar 10/89 · duraklar 7/7 · tanık 56 (kaynaklı %70) · kaynak 9 · yabancı kayıt 2**
+**seviye 0 · diller 32/40 · ağızlar 10/89 · duraklar 7/7 · tanık 56 (kaynaklı %75) · kaynak 11 · yabancı kayıt 2**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -79,13 +79,13 @@ Notlar:
 | Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Kaşkayca |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkmence |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Horasan Türkçesi |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Horasan Türkçesi |  | **siz** |  |  | [agiralioglu-akcan-2025](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) | Tek kaynak (ikincil derleme). |
 | Kıpçak kolu | Tatarca |  | **sez** | сез |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Başkurtça |  | **hez** | һеҙ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | s- > h-; ҙ (ð) çalışma yazımında z. |
 | Kıpçak kolu | Kırım Tatarcası |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Kıpçak kolu | Karayca |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Karayca |  | **siz** |  |  | [wiktionary-sozluk](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk), [agiralioglu-akcan-2025](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) | Doğrulandı: iki kaynak. |
 | Kıpçak kolu | Kırımçakça |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Kıpçak kolu | Urumca |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Urumca |  | **siz** |  |  | [wiktionary-sozluk](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk) | Tek kaynak. |
 | Kıpçak kolu | Kumukça |  | **siz** | сиз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **siz** | сиз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Kazakça |  | **siz** | сіз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Saygı biçimi; düz çoğul sender (sen + -der). |
@@ -107,6 +107,8 @@ Notlar:
 
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 29 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 12 tanık
+- [Ağıralioğlu & Akçan 2025 — Türkçe kişi zamirlerinin bazı dil ve lehçelerdeki kişi zamirleriyle karşılaştırılması](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) — 2 tanık
+- [Wiktionary — dil maddeleri ve ek sayfaları (Swadesh listeleri)](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk) — 2 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

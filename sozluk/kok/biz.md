@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 34/40 · ağızlar 10/89 · duraklar 7/7 · tanık 57 (kaynaklı %70) · kaynak 9 · yabancı kayıt 2**
+**seviye 0 · diller 34/40 · ağızlar 10/89 · duraklar 7/7 · tanık 57 (kaynaklı %77) · kaynak 12 · yabancı kayıt 2**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -78,16 +78,16 @@ Notlar:
 | Oğuz kolu | Balkan Gagavuz Türkçesi |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Oğuz kolu | Kaşkayca |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Kaşkayca |  | **biz** |  |  | [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | Tek kaynak. |
 | Oğuz kolu | Türkmence |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Horasan Türkçesi |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Horasan Türkçesi |  | **biz** |  |  | [asjp](../../kaynaklar/KAYNAKLAR.md#asjp), [agiralioglu-akcan-2025](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) | Doğrulandı: iki bağımsız kaynak. ASJP'de bazı ağızlarda mo, man (Farsçadan) da var. |
 | Oğuz kolu | Salarca |  | **piser** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | biz'e çokluk eki -er eklenmiş türev; başta p-. |
 | Kıpçak kolu | Tatarca |  | **bez** | без |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Tatar ünlü kayması i > e. |
 | Kıpçak kolu | Başkurtça |  | **bez** | беҙ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ҙ diş arası sızıcı (ð); çalışma yazımında z. |
 | Kıpçak kolu | Kırım Tatarcası |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Kıpçak kolu | Karayca |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Kıpçak kolu | Kırımçakça |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Kıpçak kolu | Urumca |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Karayca |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [agiralioglu-akcan-2025](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) | Doğrulandı: iki kaynak. |
+| Kıpçak kolu | Kırımçakça |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı ve kaynakla çelişiyor: ASJP Kırımçakça 'biz' için buz veriyor ('kim' için de kum); Kırımçakçada bir i > u değişimi olabilir. Üçüncü bir kaynak bulunamadı, çözülmedi. |
+| Kıpçak kolu | Urumca |  | **biz** |  |  | [wiktionary-sozluk](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk) | Tek kaynak. |
 | Kıpçak kolu | Kumukça |  | **biz** | биз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **biz** | биз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Kazakça |  | **biz** | біз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
@@ -108,8 +108,10 @@ Notlar:
 
 ## Kaynakça
 
-- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 31 tanık
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 32 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 11 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 2 tanık
+- [Ağıralioğlu & Akçan 2025 — Türkçe kişi zamirlerinin bazı dil ve lehçelerdeki kişi zamirleriyle karşılaştırılması](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) — 2 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
@@ -117,3 +119,4 @@ Notlar:
 - [Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman) — 1 tanık
 - [Ebû Hayyân — Kitâbü'l-İdrâk li-Lisâni'l-Etrâk (1312-13)](../../kaynaklar/KAYNAKLAR.md#kitab-idrak) — 1 tanık
 - [Mirza Mehdi Han — Senglâh (1759-60; Clauson 1960 tıpkıbasım)](../../kaynaklar/KAYNAKLAR.md#senglah) — 1 tanık
+- [Wiktionary — dil maddeleri ve ek sayfaları (Swadesh listeleri)](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk) — 1 tanık

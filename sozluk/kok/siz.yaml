@@ -136,15 +136,15 @@ taniklar:
   - {dil: kerkuk, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {dil: qxq, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: tuk, bicim: siz, kaynak: wiktionary-ana-turkce }
-  - {dil: kmz, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: kmz, bicim: siz, kaynak: agiralioglu-akcan-2025, atif: 'Ağıralioğlu & Akçan 2025, Tablo 4', not: Tek kaynak (ikincil derleme).}
   - { dil: tat, bicim: sez, yazi: сез, kaynak: wiktionary-ana-turkce }
   - { dil: bak, bicim: hez, yazi: һеҙ, kaynak: wiktionary-ana-turkce, not: "s- > h-; ҙ (ð) çalışma yazımında z." }
   - { dil: crh, bicim: siz, kaynak: wiktionary-ana-turkce }
   - { dil: kum, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce }
   - { dil: krc, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce }
-  - {dil: kdr, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: kdr, bicim: siz, kaynak: wiktionary-sozluk; agiralioglu-akcan-2025, atif: 'Wiktionary siz (Karayca; kaynak Baskakov); Ağıralioğlu & Akçan 2025, Tablo 4', not: 'Doğrulandı: iki kaynak.'}
   - {dil: jct, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: uum, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: uum, bicim: siz, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: сиз', not: Tek kaynak.}
   - { dil: kaz, bicim: siz, yazi: сіз, kaynak: wiktionary-ana-turkce, not: "Saygı biçimi; düz çoğul sender (sen + -der)." }
   - { dil: kaa, bicim: siz, kaynak: wiktionary-ana-turkce }
   - { dil: nog, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce }

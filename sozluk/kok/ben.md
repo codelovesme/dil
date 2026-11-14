@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %76) · kaynak 11 · yabancı kayıt 4**
+**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %83) · kaynak 17 · yabancı kayıt 4**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (5 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
@@ -85,8 +85,8 @@ Notlar:
 | Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **men** |  |  | ⚠ doğrulanmadı | Doğu Anadolu ağızlarında men. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **men** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **ben** |  |  | [gemalmaz-erzurum](../../kaynaklar/KAYNAKLAR.md#gemalmaz-erzurum), [dasdemir-2008](../../kaynaklar/KAYNAKLAR.md#dasdemir-2008) | Önceki kayıt men idi ve yanlıştı (yapay zekânın kendi bilgisi); iki kaynak b'li biçim gösteriyor. |
+| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **ben** |  |  | [ersoz-ahiska](../../kaynaklar/KAYNAKLAR.md#ersoz-ahiska) | Önceki kayıt men idi (yapay zekânın kendi bilgisi). Dolaylı kanıt: yönelme hâli b ile; yalın hâl kaynakta okunmadı. Kısmen doğrulandı. |
 | Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
@@ -94,17 +94,17 @@ Notlar:
 | Oğuz kolu | Gagavuzca |  | **bän** | ben |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Oğuz kolu | Balkan Gagavuz Türkçesi |  | **ben** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **män** | mən |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Sonkor ağzında mä (Elegant Lexicon). |
-| Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **men** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **men** |  |  | ⚠ doğrulanmadı | Doğrulanmadı. Web aramasında görülen bir Ankara Üniversitesi ders notu, Şahbaz'ın Kerkük ağzı tezine dayanarak Kerkük ağzının çoğunlukla m'li olduğunu, b'li kullanışların da bulunduğunu söylüyor; belge bu ortamdan açılamadığı için okunmadı. |
 | Oğuz kolu | Kaşkayca |  | **män** | من |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Oğuz kolu | Türkmence |  | **men** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Horasan Türkçesi |  | **men** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Horasan Türkçesi |  | **men** |  |  | [asjp](../../kaynaklar/KAYNAKLAR.md#asjp), [agiralioglu-akcan-2025](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) | Doğrulandı: iki bağımsız kaynak. |
 | Oğuz kolu | Salarca |  | **men** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Tatarca |  | **min** | мин |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Başkurtça |  | **min** | мин |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Kırım Tatarcası |  | **men** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Karayca |  | **men** | мэн |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Kıpçak kolu | Kırımçakça |  | **men** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
-| Kıpçak kolu | Urumca |  | **men** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Kırımçakça |  | **men** |  |  | [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) | Tek kaynak. |
+| Kıpçak kolu | Urumca |  | **men** |  |  | [wiktionary-sozluk](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk) | Tek kaynak. |
 | Kıpçak kolu | Kumukça |  | **men** | мен |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **men** | мен |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Kazakça |  | **men** | мен |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
@@ -130,10 +130,16 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 21 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 4 tanık
 - [Mirza Mehdi Han — Senglâh (1759-60; Clauson 1960 tıpkıbasım)](../../kaynaklar/KAYNAKLAR.md#senglah) — 2 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 2 tanık
 - [Nadjip 1979 — XIV. yüzyıl Türk dillerinin tarihî-karşılaştırmalı sözlüğü (Rusça)](../../kaynaklar/KAYNAKLAR.md#najip-xiv) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık
 - [Grønbech — Kuman Lehçesi Sözlüğü (Codex Cumanicus sözlüğü, Türkçe çeviri)](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman) — 1 tanık
 - [Ebû Hayyân — Kitâbü'l-İdrâk li-Lisâni'l-Etrâk (1312-13)](../../kaynaklar/KAYNAKLAR.md#kitab-idrak) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [TDK Sözlükleri (Güncel Türkçe, Derleme, Tarama, Köken Bilgisi…)](../../kaynaklar/KAYNAKLAR.md#tdk-portal) — 1 tanık
+- [Gemalmaz, E. — Erzurum İli Ağızları (özet makale)](../../kaynaklar/KAYNAKLAR.md#gemalmaz-erzurum) — 1 tanık
+- [Daşdemir, M. 2008 — Anadolu ağızlarında çekimli yapılarda ortaya çıkan /+(E)n/ eki](../../kaynaklar/KAYNAKLAR.md#dasdemir-2008) — 1 tanık
+- [Ersöz, S. — Ahıska Ağzının Türkçenin Ağızları Arasındaki Yeri](../../kaynaklar/KAYNAKLAR.md#ersoz-ahiska) — 1 tanık
+- [Ağıralioğlu & Akçan 2025 — Türkçe kişi zamirlerinin bazı dil ve lehçelerdeki kişi zamirleriyle karşılaştırılması](../../kaynaklar/KAYNAKLAR.md#agiralioglu-akcan-2025) — 1 tanık
+- [Wiktionary — dil maddeleri ve ek sayfaları (Swadesh listeleri)](../../kaynaklar/KAYNAKLAR.md#wiktionary-sozluk) — 1 tanık
 - [Sibirya ve Altay'ın eski ve küçük dil sözlükleri (Verbitski 1884, Pekarski, Tumaşeva, Rassadin, Lemskaya)](../../kaynaklar/KAYNAKLAR.md#sibirya-eski-sozlukler) — 1 tanık

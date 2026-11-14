@@ -208,18 +208,18 @@ taniklar:
   - {dil: tur-orta, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {dil: tur-bkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {dil: tur-dkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-erzurum, bicim: men, kaynak: bilgi, not: 'Doğu Anadolu ağızlarında men. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-ahiska, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-erzurum, bicim: ben, kaynak: gemalmaz-erzurum; dasdemir-2008, atif: 'Gemalmaz, derleme metinleri: ben sana diyorum, benüm; Daşdemir 2008: Erzurum behen/been ''bana''', not: Önceki kayıt men idi ve yanlıştı (yapay zekânın kendi bilgisi); iki kaynak b'li biçim gösteriyor.}
+  - {dil: tur-ahiska, bicim: ben, kaynak: ersoz-ahiska, atif: 'Ersöz, karşılaştırma tablosu: Ahıska bahan/bene ''bana''', not: 'Önceki kayıt men idi (yapay zekânın kendi bilgisi). Dolaylı kanıt: yönelme hâli b ile; yalın hâl kaynakta okunmadı. Kısmen doğrulandı.'}
   - {dil: tur-drumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {dil: tur-brumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {dil: tur-kibris, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: gag, bicim: bän, yazi: ben, kaynak: wiktionary-ana-turkce }
   - {dil: bgx, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: aze, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: "Sonkor ağzında mä (Elegant Lexicon)." }
-  - {dil: kerkuk, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: kerkuk, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı. Web aramasında görülen bir Ankara Üniversitesi ders notu, Şahbaz''ın Kerkük ağzı tezine dayanarak Kerkük ağzının çoğunlukla m''li olduğunu, b''li kullanışların da bulunduğunu söylüyor; belge bu ortamdan açılamadığı için okunmadı.'}
   - { dil: qxq, bicim: män, yazi: من, kaynak: wiktionary-ana-turkce }
   - { dil: tuk, bicim: men, kaynak: wiktionary-ana-turkce }
-  - {dil: kmz, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: kmz, bicim: men, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): 20''den çok Horasan ağzında mEn; Ağıralioğlu & Akçan 2025, Tablo 4: men', not: 'Doğrulandı: iki bağımsız kaynak.'}
   - { dil: slr, bicim: men, kaynak: wiktionary-ana-turkce }
   # Kıpçak
   - { dil: tat, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
@@ -229,8 +229,8 @@ taniklar:
   - { dil: kum, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: krc, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: kdr, bicim: men, yazi: мэн, kaynak: wiktionary-ana-turkce }
-  - {dil: jct, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: uum, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: jct, bicim: men, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): KRIMCHAK men', not: Tek kaynak.}
+  - {dil: uum, bicim: men, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: мен', not: Tek kaynak.}
   - { dil: kaz, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: kaa, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: nog, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }

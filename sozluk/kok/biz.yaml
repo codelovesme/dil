@@ -135,9 +135,9 @@ taniklar:
   - {dil: bgx, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: aze, bicim: biz, kaynak: wiktionary-ana-turkce }
   - {dil: kerkuk, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: qxq, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: qxq, bicim: biz, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): QASHQAI_2 biz', not: Tek kaynak.}
   - { dil: tuk, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - {dil: kmz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: kmz, bicim: biz, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): Horasan ağızlarının çoğunda biz; Ağıralioğlu & Akçan 2025, Tablo 4: biz', not: 'Doğrulandı: iki bağımsız kaynak. ASJP''de bazı ağızlarda mo, man (Farsçadan) da var.'}
   - { dil: slr, bicim: piser, kaynak: wiktionary-ana-turkce, not: "biz'e çokluk eki -er eklenmiş türev; başta p-." }
   # Kıpçak
   - { dil: tat, bicim: bez, yazi: без, kaynak: wiktionary-ana-turkce, not: "Tatar ünlü kayması i > e." }
@@ -145,9 +145,9 @@ taniklar:
   - { dil: crh, bicim: biz, kaynak: wiktionary-ana-turkce }
   - { dil: kum, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
   - { dil: krc, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
-  - {dil: kdr, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: jct, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: uum, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: kdr, bicim: biz, kaynak: wiktionary-ana-turkce; agiralioglu-akcan-2025, atif: 'Wiktionary *bīz torun listesi; Ağıralioğlu & Akçan 2025, Tablo 4', not: 'Doğrulandı: iki kaynak.'}
+  - {dil: jct, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı ve kaynakla çelişiyor: ASJP Kırımçakça ''biz'' için buz veriyor (''kim'' için de kum); Kırımçakçada bir i > u değişimi olabilir. Üçüncü bir kaynak bulunamadı, çözülmedi.'}
+  - {dil: uum, bicim: biz, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: биз', not: Tek kaynak.}
   - { dil: kaz, bicim: biz, yazi: біз, kaynak: wiktionary-ana-turkce }
   - { dil: kaa, bicim: biz, kaynak: wiktionary-ana-turkce }
   - { dil: nog, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
