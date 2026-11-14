@@ -33,7 +33,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: قار
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 10 kez', bicim: kar, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 1 kez', bicim: kar, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var', bicim: kar, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}

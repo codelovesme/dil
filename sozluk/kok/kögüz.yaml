@@ -10,7 +10,7 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: noauthor1880, bicim: kögis, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, not: köksug de., yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: clauson1972, bicim: kögüz, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'clauson1972; Wilkens 2021, madde kögüz (anlam eşleşmedi)', bicim: kögüz, dil: otk, kaynak: savelyev-turkic; wilkens-eski-uygurca, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, not: 'Wilkens''te biçim var, Türkçe açıklamada bu kavram geçmiyor.', denetim: {durum: dogrulandi, bicim: [savelyev-turkic, wilkens-eski-uygurca], anlam: [savelyev-turkic]}}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: köks, dil: aze, kaynak: savelyev-turkic, not: kökü de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var', bicim: köküs, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: güüs, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}

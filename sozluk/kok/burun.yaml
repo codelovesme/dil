@@ -33,7 +33,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: بورون
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 1 kez; ASJP AZERBAIJANI: burun', bicim: burun, dil: aze, kaynak: savelyev-turkic; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {dil: bak, bicim: moron, yazi: морон, kaynak: apertium, atif: apertium-bak.bak.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium]}}
   - {dil: chv, bicim: sămsa, yazi: сӑмса, kaynak: apertium; asjp, atif: 'apertium-chv.chv.lexc; ASJP CHUVASH: sımza', not: Çuvaşça sămsa ayrı bir kelime; burun ile denk değil. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [apertium, asjp], anlam: [asjp]}}

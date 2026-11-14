@@ -196,8 +196,8 @@ taniklar:
     yazi: بن
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
-    not: Eki -vän biçiminde de görülür.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Eki -vän biçiminde de görülür. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: chg
     yuzyil: 15-18
     bicim: män

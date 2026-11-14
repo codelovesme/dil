@@ -33,8 +33,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: طاپمق
-    not: Wiktionary'de mastar biçimiyle tapmak.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle tapmak. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 10 kez', bicim: tap, dil: aze, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var', bicim: tap, dil: bak, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 1 kez', bicim: tup, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: туп-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}

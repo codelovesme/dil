@@ -16,7 +16,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یوق
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {bicim: yox, dil: aze, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: 'apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 72 kez; UD_Azerbaijani-TueCL: baş biçim', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yuk, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: юҡ, atif: 'apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 9 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: şuk, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ҫук, atif: 'apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 42 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}

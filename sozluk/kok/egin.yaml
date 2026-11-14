@@ -23,14 +23,16 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: اكن
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: eğin
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: اگین
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: baskakov1974, bicim: iin, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1958, baskakov1967; apertium-kaa.kaa.lexc: sözlükte var', bicim: iyin, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: iyin, dil: kaz, kaynak: savelyev-turkic, yazi: иық, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
@@ -40,7 +42,7 @@ taniklar:
   - {atif: baskakov1947, bicim: iyin, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1968, khamzajev1968; Tatoeba''da 3 kez', bicim: egin, dil: tuk, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: egin, dil: tyv, kaynak: savelyev-turkic, yazi: эгин, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {dil: otk, yuzyil: 8-14, bicim: egin, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT V 4, 24; U IV 8 (Clauson, egin)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: egin, metin: Eski Uygurca metinler, kaynak: clauson; wilkens-eski-uygurca, atif: 'TT V 4, 24; U IV 8 (Clauson, egin); Wilkens 2021, madde ägin (yazım değişkeni: e > ä) (anlam eşleşmedi)', not: 'Wilkens''te biçim var, Türkçe açıklamada bu kavram geçmiyor.', denetim: {durum: dogrulandi, bicim: [clauson, wilkens-eski-uygurca], anlam: [clauson]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: egin, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 78, 110 (Clauson, egin)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
   - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: egin, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 1738 (Clauson, egin)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: xqa, yuzyil: 13, bicim: egin, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 69 (Clauson, egin)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}

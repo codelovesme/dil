@@ -16,7 +16,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: بالا
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var', bicim: bala, dil: bak, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var; tatoeba crh_sentences: 3 kez', bicim: bala, dil: crh, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'tenisev1989, sujuncev1965; apertium-krc.krc.lexc: sözlükte var', bicim: bala, dil: krc, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}

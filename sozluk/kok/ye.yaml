@@ -16,8 +16,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یمك
-    not: Wiktionary'de mastar biçimiyle yemek, yimek.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle yemek, yimek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 9 kez; UD_Azerbaijani-TueCL: baş biçim; ASJP AZERBAIJANI: yemek', bicim: ye, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 13 kez; ASJP CHUVASH_2: şi', bicim: şi, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, not: Oğur ş- (Ortak Türkçe y-)., yazi: ҫи-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'baskakov1973, radova-karanastas2016; apertium-gag.gag.lexc: sözlükte var', bicim: i, dil: gag, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 6/7 · tanık 33 (kaynaklı %100) · kaynak 8 · yabancı kayıt 1 · denetim ✓13 ◐20**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 6/7 · tanık 33 (kaynaklı %100) · kaynak 9 · yabancı kayıt 1 · denetim ✓15 ◑1 ◐17**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -31,15 +31,15 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **kalın** |  | Tonyukuk yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — T 13 (Clauson, kalın) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **kalın** |  | Tonyukuk yazıtı |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — T 13 (Clauson, kalın); Wilkens 2021, madde kalın | ✓ doğrulandı |
 | 8.–14. yy | Eski Türkçe |  | **kalın** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **kalın** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — U III 53; USp. 16 (Clauson, kalın) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **kalın** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — U III 53; USp. 16 (Clauson, kalın); Wilkens 2021, madde kalın | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **kalın** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 404 (Clauson, kalın) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **kalın** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 491 (Clauson, kalın) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **kalın** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 27, 9 (Clauson, kalın) | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **kalıñ** |  | Kutb, Hüsrev ü Şirin |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 129 (Clauson, kalın) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **kalın** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 276r (Clauson, kalın) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **kalın** | قالن | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **kalın** | قالن | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -47,6 +47,7 @@ Notlar:
 
 - 8. yy, Eski Türkçe: yuyka kalın bolsar 'ince şey kalınlaşırsa'.
 - 13. yy, Kuman-Kıpçakça: Karşıtı yupka 'ince'.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -88,6 +89,7 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 7 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 4 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 4 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 2 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

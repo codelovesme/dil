@@ -27,8 +27,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: باقمق
-    not: Wiktionary'de mastar biçimiyle baqmaq.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle baqmaq. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 29 kez; UD_Azerbaijani-TueCL: baş biçim', bicim: bax, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 6 kez', bicim: păx, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: пӑх-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var; tatoeba crh_sentences: 1 kez', bicim: bak, dil: crh, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}

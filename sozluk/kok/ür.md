@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 4/7 · tanık 18 (kaynaklı %100) · kaynak 7 · yabancı kayıt 1 · denetim ✓4 ◐14**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 4/7 · tanık 18 (kaynaklı %100) · kaynak 8 · yabancı kayıt 1 · denetim ✓5 ◑2 ◐11**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -32,20 +32,20 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **ür** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **ür** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Uygur hukuk belgeleri ve hekimlik metinleri (Clauson, ür-) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **ür** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — Uygur hukuk belgeleri ve hekimlik metinleri (Clauson, ür-); Wilkens 2021, madde ür- | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **ür** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 164 (Clauson, ür-) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **ür** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 338 (Clauson, ür-) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **ür** | اورمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **ür** | اورمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **ür** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Rifat 116 (Clauson, ür-) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **ürü** | اورومك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **ürü** | اورومك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 8.–14. yy, Eski Türkçe: ayak ürüp 'kâseye üfleyerek' yemin töreni.
-- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle ürmek.
-- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle ürümek.
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle ürmek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle ürümek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -88,5 +88,6 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 4 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 2 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

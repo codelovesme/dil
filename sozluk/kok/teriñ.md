@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 6/7 · tanık 35 (kaynaklı %100) · kaynak 9 · yabancı kayıt 3 · denetim ✓15 ◐20**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 6/7 · tanık 35 (kaynaklı %100) · kaynak 10 · yabancı kayıt 3 · denetim ✓16 ◑1 ◐18**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -32,7 +32,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **teriñ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **teriñ** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — TT VI 360; Suv. 202; TT VII 42 (Clauson, teriŋ) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **teriñ** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — TT VI 360; Suv. 202; TT VII 42 (Clauson, teriŋ); Wilkens 2021, madde täriŋ (yazım değişkeni: e > ä) | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **teriñ** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 370 (Clauson, teriŋ) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **teriñ** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 300 (Clauson, teriŋ) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **terin** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 7, 1 (Clauson, teriŋ) | ◐ tek kaynak |
@@ -40,7 +40,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tereñ** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **deriñ** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Rifat 153 (Clauson, teriŋ) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **teriñ** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 193v (Clauson, teriŋ) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **deriñ** | دریڭ | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **deriñ** | دریڭ | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -48,6 +48,7 @@ Notlar:
 
 - 8.–14. yy, Eski Türkçe: teriñ kuduğ 'derin kuyu'.
 - 11. yy, Karahanlıca: Kâşgarlı Oğuzların da teriñ dediğini, 'derin bilge' deyimini kaydeder.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -90,6 +91,7 @@ Notlar:
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 6 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 2 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

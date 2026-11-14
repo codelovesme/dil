@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 7 · yabancı kayıt 3 · denetim ✓5 ◐16**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 8 · yabancı kayıt 3 · denetim ✓7 ◐14**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -30,9 +30,9 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **yağuk** |  | Kül Tigin ve Bilge Kağan yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — I S 7, II N 5 (Clauson, yağu:k) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **yağuk** |  | Kül Tigin ve Bilge Kağan yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — I S 7, II N 5 (Clauson, yağu:k); Wilkens 2021, madde yaguk | ✓ doğrulandı |
 | 8.–14. yy | Eski Türkçe |  | **yağuk** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **yağuk** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — U II 80; TT I 140 (Clauson, yağu:k) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **yağuk** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — U II 80; TT I 140 (Clauson, yağu:k); Wilkens 2021, madde yaguk | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **yağuk** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 29 (Clauson, yağu:k) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **yağuk** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 653 (Clauson, yağu:k) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **yavuk** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 132-6 (Clauson, yağu:k) | ◐ tek kaynak |
@@ -89,6 +89,7 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 9 tanık
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 3 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 2 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

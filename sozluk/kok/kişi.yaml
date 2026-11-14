@@ -10,7 +10,7 @@ kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
   - {atif: noauthor1880, bicim: kişi, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: clauson1972, bicim: kişi, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'clauson1972; Wilkens 2021, madde kiši', bicim: kişi, dil: otk, kaynak: savelyev-turkic; wilkens-eski-uygurca, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, wilkens-eski-uygurca], anlam: [savelyev-turkic, wilkens-eski-uygurca]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 4 kez; ASJP BASHKIR: keşe', bicim: keşe, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: кеше, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: kihi', bicim: kihi, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: baskakov1974, bicim: kişi, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}

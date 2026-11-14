@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 25 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓10 ◐15**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 25 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓11 ◑1 ◐13**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -30,15 +30,15 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **yap** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **yapın** | ياپنماق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **yap** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — clauson1972; Wilkens 2021, madde yap- | ✓ doğrulandı |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **yapın** | ياپنماق | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **yap** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle yapınmak.
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle yapınmak. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -102,4 +102,5 @@ Notlar:
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 10 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 4 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık

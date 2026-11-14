@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %83) · kaynak 20 · yabancı kayıt 4 · denetim ✓35 ◑1 ◐19 ⚠11**
+**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %83) · kaynak 20 · yabancı kayıt 4 · denetim ✓35 ◑2 ◐18 ⚠11**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (5 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
@@ -43,7 +43,7 @@ Tanığı olmayan diller: İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyo
 | 13. yy | Karahanlıca |  | **män** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **män** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 50, 9 | ◐ tek kaynak |
 | 13. yy | Harezm Türkçesi ve Çağatayca | Harezm | **bän / män** |  | Harezm Türkçesi metinleri |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **bän** | بن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **bän** | بن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **men** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [gronbech-kuman](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Grønbech s. 163 | ✓ doğrulandı |
 | 14. yy | Kuman-Kıpçakça | Kahire | **män** |  | Kitâbü'l-İdrâk, Bulgatü'l-Müştâk, et-Tuhfetü'z-Zekiyye | Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça) 🌍 | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **män** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [najip-xiv](../../kaynaklar/KAYNAKLAR.md#najip-xiv) — s. 346 | ◐ tek kaynak |
@@ -68,7 +68,7 @@ Notlar:
 - 11. yy, Kıpçak kolu (Kıpçak): Kâşgarlı Kıpçakları da b-'li söyleyenler arasında sayar; sonraki Kıpçak kaynakları m-'lidir.
 - 13. yy, Karahanlıca: Zaman zaman mėn yazımı.
 - 13. yy, Harezm Türkçesi ve Çağatayca: İki biçim yan yana kullanılır.
-- 13.–15. yy, Eski Anadolu Türkçesi: Eki -vän biçiminde de görülür.
+- 13.–15. yy, Eski Anadolu Türkçesi: Eki -vän biçiminde de görülür. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Kuman-Kıpçakça: Kıpçak kaynaklarında b-/m- yer yer değişir; Bulgat'ta benim de geçer.
 - 14. yy, Oğuz kolu (Türkmen): Ebû Hayyân Kıpçakça män'e karşılık Türkmenlerin bän dediğini not eder.
 - 14. yy, Azerbaycan Türkçesi: Azerbaycan Türklerinin söz başındaki m-'yi b- yaptığını kaydeder; bugün Azerbaycan Türkçesinde mən.

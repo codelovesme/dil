@@ -1176,3 +1176,10 @@ universal-dependencies:
       bayt: 297818
       sha256: c1fb9548cbba34e3dddd5ca2af7d5eb3e37f1e8a6e640e29061ff5b9e581aa12
   tarih: '2026-11-14'
+wilkens-eski-uygurca:
+- adres: univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-481-9/Wilkens_handwoerterbuch.pdf
+  dosyalar:
+    wilkens.pdf:
+      bayt: 10894386
+      sha256: 4f61ac8db2a7cd5a60f3b454b0524b1c598de6e6e9681008576f84087e383c94
+  tarih: '2026-11-14'

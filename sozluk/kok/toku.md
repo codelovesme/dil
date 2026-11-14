@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 9 · yabancı kayıt 3 · denetim ✓5 ◐16**
+**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 10 · yabancı kayıt 3 · denetim ✓7 ◐14**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -31,9 +31,9 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **tokı** |  | Kül Tigin ve Bilge Kağan yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — II S 8, II E 31 (Clauson, tokı:-) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **tokı** |  | Kül Tigin ve Bilge Kağan yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — II S 8, II E 31 (Clauson, tokı:-); Wilkens 2021, madde tokı- | ✓ doğrulandı |
 | 8.–14. yy | Eski Türkçe |  | **tokı** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **tokı** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — PP 2; U II 61; TT VII 26 (Clauson, tokı:-) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **tokı** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — PP 2; U II 61; TT VII 26 (Clauson, tokı:-); Wilkens 2021, madde tokı- | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **tokı** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 268 (Clauson, tokı:-) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **tokı** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 307 (Clauson, tokı:-) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **dokı** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 35, 19 (Clauson, tokı:-) | ◐ tek kaynak |
@@ -84,6 +84,7 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 10 tanık
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 4 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 2 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

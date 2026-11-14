@@ -33,7 +33,8 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: آیْ
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 24 kez; UD_Azerbaijani-TueCL: baş biçim', bicim: ay, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; ASJP BASHKIR_2: ay', bicim: ay, dil: bak, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 5 kez; ASJP CHUVASH_2: uyıx', bicim: uyăx, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: уйӑх, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}

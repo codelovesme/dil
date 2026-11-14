@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 2/7 · tanık 34 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓14 ◐20**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 2/7 · tanık 34 (kaynaklı %100) · kaynak 7 · yabancı kayıt 0 · denetim ✓15 ◐19**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -32,7 +32,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **ba** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **ba** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — PP 80; TT VII 29 (Clauson, ba:-) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **ba** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — PP 80; TT VII 29 (Clauson, ba:-); Wilkens 2021, madde ba- | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **ba** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 247 (Clauson, ba:-) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **ba** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 964 (Clauson, ba:-) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **ba** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 183, 220 (Clauson, ba:-) | ◐ tek kaynak |
@@ -86,4 +86,5 @@ Notlar:
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 5 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 4 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 4 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık

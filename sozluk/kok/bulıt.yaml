@@ -33,7 +33,8 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: بلوت
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; ASJP AZERBAIJANI: bulud', bicim: bulut, dil: aze, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; ASJP BASHKIR_2: bolot', bicim: bolot, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: болот, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 2 kez; ASJP CHUVASH_2: pılıt', bicim: pĕlĕt, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: пӗлӗт, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}

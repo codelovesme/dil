@@ -6,7 +6,7 @@ Toplam **176 kaynak**. Her kayıtta: ne işe yaradığı, adresi, kapsadığı d
 
 - **Güven:** yüksek = hakemli ya da uzman eseri; orta = derlenmiş ya da topluluk ürünü; düşük = küçük liste ya da kaba tahmin.
 - **Ortam:** ✓ bu oturumun ağ izni olan adres; ✗ izin listesine eklenmesi gerekir (bkz. [Erişim](#bu-ortamdan-erisim)).
-- **Durum:** 91 kaynak bu ortamdan açılıp denetlendi, 71 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
+- **Durum:** 92 kaynak bu ortamdan açılıp denetlendi, 70 kaynak aramada görüldü, 14 kaynak basılı. Son denetimin sonucu her kaydın **Doğrulama** satırında.
 - **Hızlı arama:** `python3 araclar/kaynaklar.py --ara <dil kodu ya da ihtiyaç>` (ör. `--ara chv`, `--ara odunc`).
 
 ## İhtiyaca göre
@@ -1572,8 +1572,9 @@ Eski Uygurca metinlerin bütün söz varlığı; Almanca-Türkçe açıklamalı.
 
 - **Diller:** Eski Türkçe (Göktürk ve Uygur metinleri)
 - **İşe yaradığı yer:** Tarihî tanık biçimleri, Ana Türkçe kuruluşu ve etimoloji
-- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** aramada görüldü · **Ortam:** izinli
-- **Doğrulama:** 2026-11-12: DOAB ve OAPEN hız sınırı veriyor (HTTP 429). Aralıklı denenmeli; arama motorunda kayıt görüldü.
+- **Erişim:** açık · **Biçim:** pdf · **Güven:** yüksek · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
+- **Doğrulama:** 2026-11-14: PDF univerlag.uni-goettingen.de'den indirildi (10,9 MB), metin katmanı var (pdftotext); OAPEN adresi 429 verdi. Madde başı + Almanca + '||' + Türkçe açıklama düzeni.
+- **Kullanılan sürüm:** Wilkens 2021 PDF, 2026-11-14 indirildi (dosya parmak izleri: kaynaklar/surumler.yaml)
 - **Kimlik:** `wilkens-eski-uygurca`
 
 <a id="bes-dilli-ayna"></a>

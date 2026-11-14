@@ -33,16 +33,16 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: آلمق
-    not: Wiktionary'de mastar biçimiyle almaq.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle almaq. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: al
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: آلمق
-    not: Wiktionary'de mastar biçimiyle almak.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle almak. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {dil: aze, bicim: al, kaynak: apertium; tatoeba; universal-dependencies, atif: 'apertium-aze.aze.lexc; Tatoeba metinlerinde 16 kez; UD_Azerbaijani-TueCL: baş biçim', not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 2 kez', bicim: al, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 8 kez', bicim: il, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: ил-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}

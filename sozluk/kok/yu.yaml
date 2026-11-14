@@ -33,8 +33,8 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یومق
-    not: Wiktionary'de mastar biçimiyle yumaq.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle yumaq. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 4 kez; UD_Azerbaijani-TueCL: baş biçim', bicim: yu, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'uraksin1996, uraksin2005', bicim: yıw, dil: bak, kaynak: savelyev-turkic, yazi: йыу-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var', bicim: şu, dil: chv, kaynak: savelyev-turkic; apertium, yazi: ҫу-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}

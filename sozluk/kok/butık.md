@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 5/7 · tanık 32 (kaynaklı %100) · kaynak 9 · yabancı kayıt 4 · denetim ✓12 ◐20**
+**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 5/7 · tanık 32 (kaynaklı %100) · kaynak 10 · yabancı kayıt 4 · denetim ✓13 ◐19**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -32,7 +32,7 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **butık** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **butık** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — U II 24; TT I 163 (Clauson, butık) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **butık** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — U II 24; TT I 163 (Clauson, butık); Wilkens 2021, madde butık | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **butık** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 377 (Clauson, butık) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **butık** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 4892 (Clauson, butık) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **budak** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 109 (Clauson, butık) | ◐ tek kaynak |
@@ -86,6 +86,7 @@ Notlar:
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 10 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 2 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 2 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

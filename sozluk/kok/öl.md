@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 4/7 · tanık 33 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓28 ◐5**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 4/7 · tanık 33 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓28 ◑2 ◐3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -32,16 +32,16 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **öl** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **öl** | اُولْمَكْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **öl** | اُولْمَكْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **öl** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **öl** | اولمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **öl** | اولمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle ölmäk.
-- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle ölmek.
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle ölmäk. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle ölmek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

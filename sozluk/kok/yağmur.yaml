@@ -34,7 +34,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یاغمور
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 1 kez; ASJP BASHKIR_2: yamxur', bicim: yamğır, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: ямғыр, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'asmarin1928, savelyev2011; apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 6 kez; ASJP CHUVASH_2: şumır', bicim: şumăr, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: ҫумӑр, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'aksenova1992, stachowski1993', bicim: hamıır, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}

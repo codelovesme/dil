@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 6/7 · tanık 36 (kaynaklı %100) · kaynak 10 · yabancı kayıt 4 · denetim ✓15 ◐21**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 6/7 · tanık 36 (kaynaklı %100) · kaynak 11 · yabancı kayıt 4 · denetim ✓15 ◑1 ◐20**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -32,7 +32,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **arka** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **arka** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — U IV 10; TT VI 273; TT VII 25 (Clauson, arka:) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **arka** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — U IV 10; TT VI 273; TT VII 25 (Clauson, arka:); Wilkens 2021, madde arka | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **arka** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 128 (Clauson, arka:) | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **arka** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 90, 1697 (Clauson, arka:) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **arka** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 58 (Clauson, arka:) | ◐ tek kaynak |
@@ -40,10 +40,10 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **arka** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kahire | **arka** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 11 (Clauson, arka:) | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **arka** |  | Kutb, Hüsrev ü Şirin |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Kutb 11 (Clauson, arka:) | ◐ tek kaynak |
-| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **arxa** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) — Melioranskiy 47, 13 (Clauson, arka:); apertium-aze.aze.lexc: sözlükte var | ✓ doğrulandı |
+| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **arxa** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 47, 13 (Clauson, arka:) | ◐ tek kaynak |
 | 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **arka** |  | et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tuhfe 24a 11 (Clauson, arka:) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **arka** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 37r (Clauson, arka:) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **arka** | آرقه | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **arka** | آرقه | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -52,6 +52,7 @@ Notlar:
 - 8.–14. yy, Eski Türkçe: Maniheist metinlerde 'destekçi' mecazı da.
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım archa.
 - 14. yy, Azerbaycan Türkçesi: Rifat yazmasında arka.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -91,11 +92,12 @@ Notlar:
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 25 tanık
-- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 15 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 14 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 10 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 5 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 4 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

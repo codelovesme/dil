@@ -806,10 +806,11 @@ kaynaklar:
     erisim: acik
     bicim: pdf
     guven: yuksek
-    durum: arandi
+    durum: denendi
     dogrulama: >-
-      2026-11-12: DOAB ve OAPEN hız sınırı veriyor (HTTP 429). Aralıklı denenmeli; arama
-      motorunda kayıt görüldü.
+      2026-11-14: PDF univerlag.uni-goettingen.de'den indirildi (10,9 MB), metin katmanı var
+      (pdftotext); OAPEN adresi 429 verdi. Madde başı + Almanca + '||' + Türkçe açıklama düzeni.
+    surum: Wilkens 2021 PDF, 2026-11-14 indirildi
 
   - kimlik: dts
     ad: Древнетюркский словарь (1969)

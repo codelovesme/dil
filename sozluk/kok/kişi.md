@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 2/7 · tanık 25 (kaynaklı %100) · kaynak 5 · yabancı kayıt 1 · denetim ✓21 ◐4**
+**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 2/7 · tanık 25 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓22 ◐3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,7 +31,7 @@ Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Irak 
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **kişi** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **kişi** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — clauson1972; Wilkens 2021, madde kiši | ✓ doğrulandı |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kişi** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
@@ -72,3 +72,4 @@ Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Irak 
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 13 tanık
 - [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 11 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 7 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık

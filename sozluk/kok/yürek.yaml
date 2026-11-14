@@ -23,14 +23,16 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یُورَكْ
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: yürek
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یورك
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Tatoeba''da 1 kez; ASJP AZERBAIJANI: irek', bicim: üräk, dil: aze, kaynak: savelyev-turkic; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 1 kez; ASJP BASHKIR_2: yorek', bicim: yöräk, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: йөрәк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'asmarin1928, savelyev2011; ASJP CHUVASH_2: çıre', bicim: çĕre, dil: chv, kaynak: savelyev-turkic; asjp, yazi: чӗре, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}

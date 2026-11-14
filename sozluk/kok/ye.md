@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 20 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓12 ◐8**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 20 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓12 ◑1 ◐7**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,13 +31,13 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 16.–19. yy | Türkiye Türkçesi |  | **ye, yi** | یمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **ye, yi** | یمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle yemek, yimek.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle yemek, yimek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

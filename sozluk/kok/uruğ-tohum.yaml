@@ -35,8 +35,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: اوروق
-    not: Wiktionary aktarımı uruq.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary aktarımı uruq. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; ASJP BASHKIR_2: orlok', bicim: orlok, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: орлоҡ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'asmarin1928, savelyev2011; ASJP CHUVASH_2: wırı', bicim: văra, dil: chv, kaynak: savelyev-turkic; asjp, yazi: вӑрӑ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var', bicim: urluk, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}

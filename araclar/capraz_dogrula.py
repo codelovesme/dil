@@ -174,13 +174,60 @@ def asjp_yukle(d):
     return out
 
 
+def wilkens_yukle(yol):
+    """Wilkens 2021 metninden madde başı → (madde başı, Türkçe açıklama).
+    Madde satırı: Türkçe sözcük + Almanca açıklama + '||' + Türkçe açıklama. Almanca kısımda
+    ı, ğ, ş geçmez; bu, devam satırlarını (Türkçe açıklamanın sürmesi) madde başından ayırır."""
+    satirlar = open(yol, encoding="utf-8").read().split("\n")
+    rx = re.compile(r"^\d?([a-zäöüıčšŋçğ()]+-?)(?:\s*~\s*\d?([a-zäöüıčšŋçğ()]+-?))?\s+(\S.*)$")
+    out = {}
+    for i, sat in enumerate(satirlar):
+        m = rx.match(sat)
+        if not m:
+            continue
+        metin = " ".join([m.group(3)] + satirlar[i + 1:i + 6])
+        if "||" not in metin:
+            continue
+        almanca, tr = metin.split("||", 1)
+        if re.search(r"[ığş]", almanca):
+            continue
+        for bas in filter(None, m.groups()[:2]):
+            for v in {bas.replace("(", "").replace(")", ""), re.sub(r"\([^)]*\)", "", bas)}:
+                v = v.strip("()").rstrip("-")
+                if len(v) >= 2:
+                    out.setdefault(v, []).append((bas.strip("()"), tr.lower()))
+    return out
+
+
+def wilkens_bul(WI, b: str):
+    """Önce birebir, sonra Wilkens yazım değişkenleriyle (e/ä, ı/i, sonda b/v) arar."""
+    if b in WI:
+        return WI[b], None
+    for ad, f in (("e > ä", lambda x: x.replace("e", "ä")), ("ı > i", lambda x: x.replace("ı", "i")),
+                  ("sonda b > v", lambda x: x[:-1] + "v" if x.endswith("b") else x)):
+        y = f(b)
+        if y != b and y in WI:
+            return WI[y], ad
+    return None, None
+
+
+def wilkens_bicim(b: str) -> str:
+    for a, c in (("ğ", "g"), ("ş", "š"), ("ç", "č"), ("ñ", "ŋ"), ("x", "h")):
+        b = b.replace(a, c)
+    return b.rstrip("-")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     for k in ("apertium", "tatoeba", "ud", "asjp"):
         ap.add_argument(f"--{k}", required=True)
+    ap.add_argument("--wilkens", help="Wilkens 2021 metin dosyası (pdftotext çıktısı): Eski Türkçe tanıkları için")
     ap.add_argument("--yaz", action="store_true", help="tanıklara yaz ve raporu üret")
     a = ap.parse_args()
     AP, TA, UD, AS = apertium_yukle(a.apertium), tatoeba_yukle(a.tatoeba), ud_yukle(a.ud), asjp_yukle(a.asjp)
+    WI = wilkens_yukle(a.wilkens) if a.wilkens else {}
+    KAVRAM_AD = {kp.stem: str(yaml.safe_load(kp.read_text(encoding="utf-8")).get("kavram", "")).lower().rstrip("-")
+                 for kp in (KOK / "sozluk" / "temel").glob("*.yaml")}
     say = collections.Counter(); inceleme = []
     # (kavram dosyası, kök, dil): tanık bu kavramda bu dil için gerçekten kullanılıyor mu?
     KD = set()
@@ -200,8 +247,31 @@ def main():
                 continue
             t = yaml.safe_load(s[4:])
             dil = str(t.get("dil", ""))
+            if dil == "otk" and WI and "wilkens-eski-uygurca" not in str(t.get("kaynak", "")):
+                w, degisken = wilkens_bul(WI, wilkens_bicim(str(t.get("bicim", "")).split(",")[0].split("/")[0].strip()))
+                if w:
+                    adlar = [KAVRAM_AD.get(kv, "") for kv in kavramlar]
+                    uyan = [x for x in w if any(ad and re.search(r"\b" + re.escape(ad.split()[0]), x[1]) for ad in adlar)]
+                    anlam_var = bool(uyan)
+                    w = (uyan or w)[0]
+                    say["wilkens"] += 1; say["wilkens_anlam"] += anlam_var
+                    if a.yaz:
+                        kay = [k.strip() for k in str(t.get("kaynak", "")).split(";") if k.strip() and k.strip() != "bilgi"]
+                        t["kaynak"] = "; ".join(kay + ["wilkens-eski-uygurca"])
+                        t["atif"] = "; ".join(x for x in [str(t.get("atif") or "").strip(),
+                                                          f"Wilkens 2021, madde {w[0]}" + (f" (yazım değişkeni: {degisken})" if degisken else "") + ("" if anlam_var else " (anlam eşleşmedi)")] if x)
+                        if not anlam_var:
+                            t["not"] = " ".join(x for x in [str(t.get("not") or "").strip(), "Wilkens'te biçim var, Türkçe açıklamada bu kavram geçmiyor."] if x)
+                        t.pop("denetim", None)
+                        satirlar[i] = "  - " + yaml.safe_dump(t, allow_unicode=True, default_flow_style=True, width=10000,
+                                                              sort_keys=False).strip().removesuffix("\n...")
+                        degisti = True
+                continue
             if "-" in dil or not t.get("bicim") or "çözülmedi" in str(t.get("not", "")):
                 continue      # ağızlar ve açık çelişkiler elle incelenir
+            yy = re.match(r"\s*(\d+)", str(t.get("yuzyil") or ""))
+            if yy and int(yy.group(1)) < 20:
+                continue      # tarihî tanık: günümüz kaynakları onu kanıtlamaz
             b = calisma(dil, str(t["bicim"]).split(",")[0].split("/")[0].strip()).rstrip("-")
             if not b:
                 continue

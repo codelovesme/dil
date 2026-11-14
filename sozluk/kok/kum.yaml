@@ -33,8 +33,8 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: قوم
-    not: Wiktionary aktarımı qum.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary aktarımı qum. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 2 kez; ASJP AZERBAIJANI: gum', bicim: kum, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; ASJP BASHKIR_2: kom', bicim: kom, dil: bak, kaynak: savelyev-turkic; apertium; asjp, yazi: ҡом, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var', bicim: kum, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}

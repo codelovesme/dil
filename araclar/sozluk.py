@@ -426,6 +426,7 @@ def dizin_md(maddeler: list[Madde], b: Baglam) -> str:
 
 # Biçimin dilde var olduğunu gösterir ama o kavram anlamında kullanıldığını göstermez
 YALNIZ_BICIM = {"tatoeba"}
+# Biçim var ama Türkçe açıklamada bu kavram geçmiyorsa Wilkens yalnız biçim kanıtıdır (atıfta "(anlam eşleşmedi)")
 YALNIZ_BICIM_KELIME = {"apertium", "universal-dependencies"}  # kelimede yalnız sözlükte/derlemde var mı; ekte etiketli olduğu için anlamı da gösterir
 # Clauson'un aktardığı eserler: biz onları Clauson'dan okuduk, bağımsız sayılmaz
 CLAUSON_ARACILI = {"dlt", "houtsma-leiden", "kitab-idrak", "ibn-muhenna", "najip-xiv"}
@@ -445,7 +446,8 @@ def denetim_cikar(t: dict, ek: bool) -> dict:
         return {"durum": durum}
     bicim = list(kay)
     yalniz = YALNIZ_BICIM | (set() if ek else YALNIZ_BICIM_KELIME)
-    anlam = [k for k in kay if k not in yalniz]
+    anlam = [k for k in kay if k not in yalniz
+             and not (k == "wilkens-eski-uygurca" and "anlam eşleşmedi" in str(t.get("atif") or ""))]
     bagimsiz = {("clauson" if (k in CLAUSON_ARACILI and "clauson" in kay) else k) for k in kay}
     if re.search(r"kısmen doğrulandı|dolaylı kanıt", not_, re.I) or (bicim and not anlam):
         durum = "kismen"

@@ -113,7 +113,8 @@ taniklar:
     bicim: siz
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: chg
     yuzyil: 15-18
     bicim: siz
@@ -128,7 +129,8 @@ taniklar:
     yazi: سز
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
 
   # ================================================ yaşayan diller (günümüz)
   - {dil: chv, bicim: esir, yazi: эсир, kaynak: wiktionary-ana-turkce; apertium; tatoeba, not: Oğur -r; başta e-. Miras., atif: 'apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 31 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}

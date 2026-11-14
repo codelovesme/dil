@@ -33,8 +33,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: اوینامق
-    not: Wiktionary'de mastar biçimiyle oynamak.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Wiktionary''de mastar biçimiyle oynamak. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 2 kez', bicim: oyna, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var', bicim: uyna, dil: bak, kaynak: savelyev-turkic; apertium, yazi: уйна-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'asmarin1928, savelyev2011', bicim: vıla, dil: chv, kaynak: savelyev-turkic, yazi: выля-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
@@ -65,11 +65,11 @@ taniklar:
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983; apertium-uzb.uzb.lexc: sözlükte var; UD_Uzbek-UzUDT/UT: baş biçim', bicim: oyna, dil: uzb, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; apertium-sah.sah.lexc: sözlükte var', bicim: oonnyoo, dil: sah, kaynak: savelyev-turkic; apertium, yazi: оонньоо-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: dmitrijeva1981, bicim: oyna, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {dil: otk, yuzyil: 8-14, bicim: oyna, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'U II 26 (Clauson, oyna:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: oyna, metin: Eski Uygurca metinler, kaynak: clauson; wilkens-eski-uygurca, atif: 'U II 26 (Clauson, oyna:-); Wilkens 2021, madde oyna-', denetim: {durum: dogrulandi, bicim: [clauson, wilkens-eski-uygurca], anlam: [clauson, wilkens-eski-uygurca]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: oyna, anlam: oynamak; oynaşmak, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 225; II 226 (Clauson, oyna:-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
   - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: oyna, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 79 (Clauson, oyna:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: xqa, yuzyil: 13, bicim: oyna, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 234 (Clauson, oyna:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: oyna, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson; apertium; tatoeba, atif: 'Melioranskiy 31, 1 (Clauson, oyna:-); apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 2 kez', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: dogrulandi, bicim: [ibn-muhenna, clauson, apertium, tatoeba], anlam: [ibn-muhenna, clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: oyna, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 31, 1 (Clauson, oyna:-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
   - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: oyna, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 115; Nehcü''l-Feradis 125 (Clauson, oyna:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: oyna, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 34, 14 (Clauson, oyna:-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
   - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: oyna, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 26 (Clauson, oyna:-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}

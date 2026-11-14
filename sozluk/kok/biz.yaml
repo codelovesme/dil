@@ -108,8 +108,8 @@ taniklar:
     yazi: بز
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
-    not: Eki -vüz/-üz biçiminde de görülür.
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Eki -vüz/-üz biçiminde de görülür. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: chg
     yuzyil: 15-18
     bicim: biz
@@ -125,7 +125,8 @@ taniklar:
     yazi: بز
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
 
   # ================================================ yaşayan diller (günümüz)
   # Oğur

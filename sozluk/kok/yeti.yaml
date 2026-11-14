@@ -16,7 +16,8 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یدی
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {dil: aze, bicim: yeddi, kaynak: tatoeba, atif: Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [tatoeba]}}
   - {bicim: yete, dil: bak, kaynak: wiktionary-ana-turkce; apertium, yazi: ете, atif: 'apertium-bak.bak.lexc: sözlükte var', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {bicim: şiççĕ, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ҫиччӗ, atif: 'apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 1 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
@@ -51,7 +52,7 @@ taniklar:
   - {bicim: yetdi, dil: kmz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yete, dil: sty, kaynak: wiktionary-ana-turkce, yazi: йете, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yedi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йеди, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yeti, metin: Orhon yazıtları, kaynak: clauson, atif: 'Orhon yazıtlarında 12''den çok geçiş (Clauson, yetti:)', not: yiti de; Clauson'a göre aslı yetti., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yeti, metin: Orhon yazıtları, kaynak: clauson; wilkens-eski-uygurca, atif: 'Orhon yazıtlarında 12''den çok geçiş (Clauson, yetti:); Wilkens 2021, madde yeti', not: yiti de; Clauson'a göre aslı yetti., denetim: {durum: dogrulandi, bicim: [clauson, wilkens-eski-uygurca], anlam: [clauson, wilkens-eski-uygurca]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yeti, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT (Clauson, yetti:)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: yeti kat kök 'yedi kat gök'., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
 
 yok: {}

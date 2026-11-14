@@ -16,7 +16,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: سكز
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {bicim: säkkiz, dil: aze, kaynak: wiktionary-ana-turkce; tatoeba, yazi: səkkiz, atif: 'tatoeba aze_sentences: 7 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: higez, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: һигеҙ, atif: 'apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 1 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: sakkăr, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: саккӑр, atif: 'apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 1 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
@@ -46,7 +47,7 @@ taniklar:
   - {bicim: sakkiz, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; universal-dependencies, atif: 'apertium-uzb.uzb.lexc: sözlükte var; UD_Uzbek-UzUDT/UT: baş biçim', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {bicim: ağıs, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: аҕыс, atif: 'apertium-sah.sah.lexc: sözlükte var; tatoeba sah_sentences: 1 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: sekkiz, dil: ili, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: sekiz, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, sekkiz', not: Clauson'a göre aslı sekkiz., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: sekiz, metin: Orhon yazıtları, kaynak: clauson; wilkens-eski-uygurca, atif: 'Clauson, sekkiz; Wilkens 2021, madde sekiz', not: Clauson'a göre aslı sekkiz., denetim: {durum: dogrulandi, bicim: [clauson, wilkens-eski-uygurca], anlam: [clauson, wilkens-eski-uygurca]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sekiz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 365 (Clauson, sekkiz)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı sekkiz'in kısaltması der., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
   - {dil: xqa, yuzyil: 13, bicim: sekiz, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 266 (Clauson, sekkiz)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: sekkiz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 8 (Clauson, sekkiz)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}

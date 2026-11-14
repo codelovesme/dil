@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 3/7 · tanık 29 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓25 ◐4**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 3/7 · tanık 29 (kaynaklı %100) · kaynak 6 · yabancı kayıt 0 · denetim ✓25 ◑2 ◐2**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -32,14 +32,15 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **süñük** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **süñük** | سكوك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **sümük** | سوموك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **süñük** | سكوك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 16.–19. yy | Türkiye Türkçesi |  | **sümük** | سوموك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (süŋük → süñük).
+- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (süŋük → süñük). Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

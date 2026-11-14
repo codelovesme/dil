@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 30 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓24 ◐6**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 30 (kaynaklı %100) · kaynak 7 · yabancı kayıt 1 · denetim ✓24 ◑1 ◐5**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -31,15 +31,16 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **tağ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **tağ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — clauson1972; Wilkens 2021, madde tag | ✓ doğrulandı |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tağ** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **dağ** | داغ | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — apertium-tur.tur.lexc: sözlükte var; tatoeba tur_sentences: 132 kez; UD_Turkish-BOUN/IMST: baş biçim; ASJP IRAN_TURKIC: dax | ✓ doğrulandı |
+| 16.–19. yy | Türkiye Türkçesi |  | **dağ** | داغ | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazımlar tag, tav.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -80,8 +81,9 @@ Notlar:
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 29 tanık
-- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 23 tanık
-- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 9 tanık
-- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 7 tanık
-- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 5 tanık
+- [ASJP Database (Automated Similarity Judgment Program)](../../kaynaklar/KAYNAKLAR.md#asjp) — 22 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 8 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 6 tanık
+- [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 4 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 1 tanık
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 1 tanık

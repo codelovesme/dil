@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 5/7 · tanık 39 (kaynaklı %100) · kaynak 9 · yabancı kayıt 3 · denetim ✓18 ◑1 ◐20**
+**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 5/7 · tanık 39 (kaynaklı %100) · kaynak 10 · yabancı kayıt 3 · denetim ✓19 ◑2 ◐18**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -31,16 +31,16 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **otuz** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — I N 2; II E 28 (Clauson, ottuz) | ◐ tek kaynak |
-| 8.–14. yy | Eski Türkçe |  | **otuz** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — M III 25; TT VIII (Clauson, ottuz) | ◐ tek kaynak |
+| 8. yy | Eski Türkçe | Orhon | **otuz** |  | Orhon yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — I N 2; II E 28 (Clauson, ottuz); Wilkens 2021, madde otuz | ✓ doğrulandı |
+| 8.–14. yy | Eski Türkçe |  | **otuz** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — M III 25; TT VIII (Clauson, ottuz); Wilkens 2021, madde otuz | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **ottuz** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 142 (Clauson, ottuz) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **otuz** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 240 (Clauson, ottuz) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **otuz** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 22, 10 (Clauson, ottuz) | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kahire | **otuz** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 15 (Clauson, ottuz) | ◐ tek kaynak |
-| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **otuz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) — Melioranskiy 82, 4 (Clauson, ottuz); Tatoeba'da 9 kez | ✓ doğrulandı |
+| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **otuz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 82, 4 (Clauson, ottuz); Tatoeba'da 9 kez | ◐ tek kaynak |
 | 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **otuz** |  | et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tuhfe 60b 9 (Clauson, ottuz) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **otuz** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 62v (Clauson, ottuz) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **otuz** | اوتوز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **otuz** | اوتوز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -49,6 +49,7 @@ Notlar:
 - 8. yy, Eski Türkçe: Kül Tigin otuz yaşında.
 - 8.–14. yy, Eski Türkçe: Uygur belgelerinde otoz yazımı.
 - 11. yy, Karahanlıca: Yağma'da 'üç' anlamında kullanıldığını da yazar.
+- 16.–19. yy, Türkiye Türkçesi: Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 
@@ -88,9 +89,10 @@ Notlar:
 
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 29 tanık
 - [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 17 tanık
-- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 11 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 10 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 9 tanık
 - [Universal Dependencies — işaretlenmiş derlemler (treebank)](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — 4 tanık
+- [Wilkens — Handwörterbuch des Altuigurischen (2021)](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — 2 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık
 - [Houtsma 1894 — Ein türkisch-arabisches Glossar (Leiden yazması, 1245)](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden) — 1 tanık

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 33 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓12 ◐21**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 3/7 · tanık 33 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1 · denetim ✓12 ◑1 ◐20**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -32,14 +32,14 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **ağız** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **ağız, ağız** | آغِزْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **ağız, ağız** | آغِزْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **ağız** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (āġız, aġız → ağız, ağız).
+- 13.–15. yy, Eski Anadolu Türkçesi: Yazım düzeltildi (āġız, aġız → ağız, ağız). Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 - 14. yy, Kuman-Kıpçakça: Latin harfli yazım agis.
 
 ## Yaşayan diller ve ağızlar

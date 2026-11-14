@@ -16,7 +16,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یگرمی
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {bicim: iyirmi, dil: aze, kaynak: wiktionary-ana-turkce; tatoeba, atif: 'tatoeba aze_sentences: 7 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yegerme, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: егерме, atif: 'apertium-bak.bak.lexc: sözlükte var; tatoeba bak_sentences: 2 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: şirĕm, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ҫирӗм, atif: 'apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 5 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
@@ -43,7 +44,7 @@ taniklar:
   - {bicim: yigirma, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: 'apertium-uzb.uzb.lexc: sözlükte var; tatoeba uzb_sentences: 3 kez; UD_Uzbek-UzUDT/UT: baş biçim', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {bicim: süürbe, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: сүүрбэ, atif: 'apertium-sah.sah.lexc: sözlükte var; tatoeba sah_sentences: 1 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yirmi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йирми, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yegirmi, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, yegirmi (Yenisey yazıtları: yeti yegirmi ''on yedi'')', not: 'Eski sayma: yeti yegirmi = ''yirminin yedisi'' = 17.', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yegirmi, metin: Orhon yazıtları, kaynak: clauson; wilkens-eski-uygurca, atif: 'Clauson, yegirmi (Yenisey yazıtları: yeti yegirmi ''on yedi''); Wilkens 2021, madde y(e)g(i)rmi', not: 'Eski sayma: yeti yegirmi = ''yirminin yedisi'' = 17.', denetim: {durum: dogrulandi, bicim: [clauson, wilkens-eski-uygurca], anlam: [clauson, wilkens-eski-uygurca]}}
 
 yok: {}
 tarihi_yok: {}

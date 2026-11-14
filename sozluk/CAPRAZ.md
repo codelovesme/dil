@@ -4,7 +4,7 @@
 
 ASJP'de aynı kavram için bu dilde kayıtlı kelime, tanığın biçimine benzemiyor (kaba iskelet benzerliği 0,6'nın altında). Bu bir çelişki olabilir (yanlış biçim, yanlış kök) ya da yalnız eş anlamlı başka bir kelime. Her satır elle incelenmelidir; araç tanığın durumunu değiştirmez.
 
-Toplam 131 tanık.
+Toplam 130 tanık.
 
 | Kök | Dil | Bizim biçim | ASJP kaydı | Olası neden |
 |---|---|---|---|---|
@@ -112,7 +112,6 @@ Toplam 131 tanık.
 | [biz](kok/biz.md) | ybe | pız | WEST_YUGUR: muz | başka kelime (eş anlamlı ya da hata): elle bakılmalı |
 | [iç](kok/iç.md) | ybe | iç | WEST_YUGUR: us | başka kelime (eş anlamlı ya da hata): elle bakılmalı |
 | [kol-ad](kok/kol-ad.md) | ybe | kol | WEST_YUGUR: ulux | başka kelime (eş anlamlı ya da hata): elle bakılmalı |
-| [bağır](kok/bağır.md) | aze | bağır | AZERBAIJANI: goro ciyer, AZERBAIJANI_NORTH: gorociyer, TEREKEME_AZERI: dalag | mastar ya da birleşik kayıt olabilir |
 | [bağır](kok/bağır.md) | aze | bağır | AZERBAIJANI: goro ciyer, AZERBAIJANI_NORTH: gorociyer, TEREKEME_AZERI: dalag | mastar ya da birleşik kayıt olabilir |
 | [edgü](kok/edgü.md) | aze | eyi | AZERBAIJANI: yoxşu | mastar ya da birleşik kayıt olabilir |
 | [udı](kok/udı.md) | aze | yat | AZERBAIJANI: uyumog | mastar ya da birleşik kayıt olabilir |

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 5/7 · tanık 30 (kaynaklı %100) · kaynak 8 · yabancı kayıt 1 · denetim ✓11 ◐19**
+**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 5/7 · tanık 30 (kaynaklı %100) · kaynak 8 · yabancı kayıt 1 · denetim ✓11 ◑2 ◐17**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
@@ -32,18 +32,18 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
 | 11. yy | Karahanlıca | Kâşgar | **it** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 171; III 137 (Clauson, 1 it-) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **it** | ایتمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **it** | ایتمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kahire | **it** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 8 (Clauson, 1 it-) | ◐ tek kaynak |
 | 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **it** |  | et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tuhfe 16a 2 (Clauson, 1 it-) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **it** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 42-3, Senglâh 93 (Clauson, 1 it-) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **it** | ایتمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
+| 16.–19. yy | Türkiye Türkçesi |  | **it** | ایتمك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 Notlar:
 
-- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle itmek.
-- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle itmek.
+- 13.–15. yy, Eski Anadolu Türkçesi: Wiktionary'de mastar biçimiyle itmek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
+- 16.–19. yy, Türkiye Türkçesi: Wiktionary'de mastar biçimiyle itmek. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.
 
 ## Yaşayan diller ve ağızlar
 

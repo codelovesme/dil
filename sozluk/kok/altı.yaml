@@ -15,7 +15,8 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: آلتی
-    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+    not: 'Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
+    denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {bicim: altı, dil: aze, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: 'apertium-aze.aze.lexc: sözlükte var; tatoeba aze_sentences: 15 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: altı, dil: bak, kaynak: wiktionary-ana-turkce; apertium, yazi: алты, atif: 'apertium-bak.bak.lexc: sözlükte var', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {bicim: ulttă, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: улттӑ, atif: 'apertium-chv.chv.lexc: sözlükte var; tatoeba chv_sentences: 1 kez', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
@@ -45,7 +46,7 @@ taniklar:
   - {bicim: altı, dil: duha, kaynak: wiktionary-ana-turkce, yazi: аълты, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: altı, dil: ili, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: altı, dil: sty, kaynak: wiktionary-ana-turkce, yazi: алты, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: altı, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson s. 130 (altı:)', not: Göktürk yazıtlarında sık., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: altı, metin: Orhon yazıtları, kaynak: clauson; wilkens-eski-uygurca, atif: 'Clauson s. 130 (altı:); Wilkens 2021, madde altı', not: Göktürk yazıtlarında sık., denetim: {durum: dogrulandi, bicim: [clauson, wilkens-eski-uygurca], anlam: [clauson, wilkens-eski-uygurca]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: altı, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'Clauson s. 130 (altı:)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
   - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: altı, metin: Kutadgu Bilig, kaynak: clauson, atif: 'Clauson s. 130 (altı:)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: altı, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb; Nehcü''l-Feradis (Clauson, altı:)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}

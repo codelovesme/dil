@@ -10,7 +10,7 @@ kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
   - {atif: noauthor1880, bicim: yat, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: clauson1972, bicim: yat, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'clauson1972; Wilkens 2021, madde yat', bicim: yat, dil: otk, kaynak: savelyev-turkic; wilkens-eski-uygurca, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, wilkens-eski-uygurca], anlam: [savelyev-turkic, wilkens-eski-uygurca]}}
   - {dil: aze, bicim: yat, kaynak: apertium; tatoeba; universal-dependencies, atif: 'apertium-aze.aze.lexc; Tatoeba metinlerinde 7 kez; UD_Azerbaijani-TueCL: baş biçim', not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
   - {atif: 'uraksin1996, uraksin2005; apertium-bak.bak.lexc: sözlükte var; ASJP BASHKIR_2: yatuu', bicim: yat, dil: bak, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var', bicim: yat, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
