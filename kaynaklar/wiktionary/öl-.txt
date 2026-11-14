@@ -1,0 +1,71 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{ety|trk-pro|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[die]], to [[pass away]]
+
+====Alternative reconstructions====
+* {{alter|trk-pro|*höl-}}
+
+====Derived terms====
+* {{l|trk-pro|*ölür-|*öl-ür-|t=to kill}}
+* {{l|trk-pro|*öltür-|*öl-tür-|t= to kill}}
+* {{l|trk-pro|*ölüm|*öl-üm|t=death}}
+
+====Descendants====
+* Oghur:
+** {{desc|xbo-vol|وَل|tr=wel}}
+*** {{desc|cv|вил}}
+{{top3}}
+* Arghu:
+** {{desc|klj|hölmək}}
+* Oghuz:
+** {{desc|trk-oat|اُولْمَكْ|tr=ölmäk}}
+*** {{desc|az|ölmək}}
+**** {{desc|klj|ölmək|bor=1}}
+*** {{desc|gag|ölmää}}
+*** {{desc|ota|اولمك|tr=ölmek}}
+**** {{desc|tr|ölmek}}
+** {{desc|slr|ülgüsi}}
+** {{desc|tk|ölmek}}
+* Karluk:
+** {{desc|uz|oʻlmoq}}
+** {{desc|ug|ئۆلمەك}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|үлеү}}
+*** {{desc|tt|үлү}}
+** West Kipchak:
+*** {{desc|crh|ölmek}}
+*** {{desc|kum|оьлмек}}
+*** {{desc|kdr||tr=oĺ-}}
+*** {{desc|uum|ӧлʼмейе}}
+** East Kipchak:
+*** {{desc|ky|өлүү}}
+*** {{desc|alt|ӧлӧр}}
+** South Kipchak:
+*** {{desc|kaa||tr=öl-}}
+*** {{desc|kk|өлу}}
+*** {{desc|nog|оьлуьв}}
+* Siberian:
+** {{desc|otk|𐰇𐰠|tr=öl}}
+** North Siberian
+*** {{desc|dlg|өл}}
+*** {{desc|sah|өл}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim||tr=öl-}}
+**** {{desc|tyv|өлүр}}
+*** Yenisei:
+**** {{desc|cjs|öл}}
+**** {{desc|kjh|öлерге}}
+**** {{desc|ybe||tr=jül-}}
+*** {{desc|atv|ӧлерге}}
+{{bottom}}
+
+===References===
+* [http://tuvan.swarthmore.edu/?fields=all&semantic_ids=&q=die өлүр]

@@ -1,0 +1,76 @@
+{{reconstruction}}
+==Proto-Turkic==
+{{number box|trk-pro|30}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[thirty]]
+
+====Alternative reconstructions====
+* {{l|trk-pro|*hotuŕ}}
+* {{l|trk-pro|*hottuŕ}}
+* {{l|trk-pro|*ottuŕ}}
+
+====Descendants====
+*Oghur:
+** Volga {{desc|xbo|وطر|tr=vutur}}
+*** {{desc|cv|вӑтӑр}}
+* Common Turkic:
+{{top3}}
+*Arghu:
+**{{desc|klj|hottuz}}
+*Oghuz:
+**{{desc|trk-oat|}}
+***{{desc|az|otuz}}
+*** {{desc|ota|اوتوز|tr=otuz}}
+****{{desc|gag|otuz}}
+****{{desc|tr|otuz}}
+**{{desc|tk|otuz}}
+**{{desc|slr|ottuz}}
+*Karluk:
+** {{desc|xqa|tr=ottuz}}
+***{{desc|zkh|}}
+****{{desc|chg||tr=ottuz}}
+*****{{desc|ug|ئوتتۇز}}
+*****{{desc|ili|ottuz}}
+*****{{desc|uz|oʻttiz}}
+*Kipchak:
+**West Kipchak:
+***{{desc|crh|otuz}}
+***{{desc|krc|отуз}}
+***{{desc|kdr|otuz}}
+***{{desc|kum|отуз}}
+**North Kipchak:
+***{{desc|ba|утыҙ}}
+***{{desc|tt|утыз}}
+**South Kipchak:
+***Kipchak-Nogai:
+****{{desc|kaa|-}},
+*****{{desc|kaa|отыз|sclang=1}}
+*****{{desc|kaa|otiʻz|sclang=1}}
+****{{desc|kk|отыз}}
+****{{desc|nog|отыз}}
+***Kyrgyz-Kipchak:
+****{{desc|ky|отуз}}
+****{{desc|alt|одус}}
+*Siberian:
+**{{desc|otk|𐰆𐱃𐰔|tr=otuz}}
+***{{desc|oui|𐽰𐽳𐾀𐽳𐽴|tr=otuz}}
+****{{desc|ybe|otus}}
+**North Siberian:
+***{{desc|dlg|отут}}
+***{{desc|sah|отут}}
+**South Siberian:
+***Sayan Turkic:
+****{{desc|kim|отыс}}
+****{{desc|tyv|одус}}
+***Yenissei Turkic:
+****{{desc|kjh|отыс}}
+****{{desc|cjs|одус}}
+***{{desc|atv|отыс}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* Fuchs Christian, Lars Johanson, Éva Ágnes Csató Johanson: ''[https://books.google.com/books?id=Z7i5CAAAQBAJ The Turkic Languages.]'' Routledge, 2015: 91

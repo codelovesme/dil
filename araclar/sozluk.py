@@ -449,6 +449,12 @@ def denetim_cikar(t: dict, ek: bool) -> dict:
     anlam = [k for k in kay if k not in yalniz
              and not (k == "wilkens-eski-uygurca" and "anlam eşleşmedi" in str(t.get("atif") or ""))]
     bagimsiz = {("clauson" if (k in CLAUSON_ARACILI and "clauson" in kay) else k) for k in kay}
+    # Wiktionary bir aracıdır: sayfanın gösterdiği kaynak tanıkta da varsa ayrı sayılmaz
+    m = re.search(r"sayfanın kaynakları: ([^;]+)", str(t.get("atif") or ""))
+    if m and "wiktionary-ana-turkce" in bagimsiz:
+        asil = {x.strip() for x in m.group(1).split(",")} & bagimsiz
+        if asil:
+            bagimsiz.discard("wiktionary-ana-turkce")
     if re.search(r"kısmen doğrulandı|dolaylı kanıt", not_, re.I) or (bicim and not anlam):
         durum = "kismen"
     elif re.search(r"tek kaynak", not_, re.I) or len(bagimsiz) < 2:

@@ -1,0 +1,60 @@
+{{reconstructed}}
+{{see also|Reconstruction:Proto-Turkic/ūč}}
+==Proto-Turkic==
+{{ety|trk-pro|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[fly]]
+# {{lb|trk-pro|intransitive}} to [[fall]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|вӗҫ}}
+* {{desc|trk-cmn-pro|*uč-}}
+{{top3}}
+* Arghu:
+** {{desc|klj|uçmaq}}
+* Oghuz:
+** West Oghuz:
+*** {{desctree|trk-oat|اوچمق|tr=uçmak}}
+** East Oghuz:
+*** {{desc|slr|üşgüsi}} (üç-)
+*** {{desc|tk|uçmak}}
+* Karluk:
+** {{desc|xqa||tr=uč-}}
+*** {{desc|zkh|اوچماق|tr=uçmaq}}
+**** {{desc|uz|uchmoq}}
+**** {{desc|ug|ئۇچماق}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|осоу}}
+*** {{desc|tt|очарга}}
+** West Kipchak:
+*** {{desc|crh|uçmaq}}
+*** {{desc|kum|учмакъ}}
+*** {{desc|krc|учаргъа}}
+*** {{desc|kdr||tr=uč-}}
+** East Kipchak:
+*** {{desc|ky|учуу}}
+*** {{desc|alt|учар}}
+** South Kipchak:
+*** {{desc|kaa||tr=uş-}}
+*** {{desc|kk|ұшу}}
+*** {{desc|nog|ушув}}
+* Siberian:
+** South Siberian:
+*** {{desc|otk|𐰆𐰲|tr=uč-}}
+*** Sayan:
+**** {{desc|kim|уъһяр}}
+**** {{desc|tyv|ужар}}
+*** Yenisei:
+**** {{desc|cjs|учуғар}}
+**** {{desc|kjh|учугарға}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=19}}
+* {{R:trk:VEWT|page=509}}
+* {{R:trk:ESTJa|page=612-613|vol=1}}

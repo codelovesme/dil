@@ -37,7 +37,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 11. yy | Karahanlıca | Balasagun / Kâşgar | **bar** |  | Kutadgu Bilig |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — KB 15, 56, 195 (Clauson, ba:r) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **bar** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — At. 10 (Clauson, ba:r) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **bar** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 90 (Clauson, ba:r) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **var, var** | وار | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **var, var** | وار | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/bār; sayfanın kaynakları: yok | ◑ kısmen |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **baar** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 18, 2; 56, 9 (Clauson, ba:r) | ◐ tek kaynak |
 | 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **bar** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Abuşka 126 (Clauson, ba:r) | ◐ tek kaynak |
 

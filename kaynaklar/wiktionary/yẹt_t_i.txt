@@ -1,0 +1,88 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{number box|trk-pro|7}}
+
+===Alternative reconstructions===
+* {{l|trk-pro|*yẹti}}
+* {{l|trk-pro|*yẹtti}}
+
+===Reconstruction===
+It remains unclear whether ''*t'' was geminated or not. Although most reflexes show a simple ''*t'', the sporadic distribution of ''*tt'' suggests that {{m|trk-pro||*yẹtti}} was the original pronunciation, sustained by Clauson (1972),<ref>{{R:trk:Clauson|entry=yétti:|page=886}}</ref> and that the geminates were later simplified in each branch independently.
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[seven]]
+
+====Derived terms====
+* {{q|tentative}} {{l|trk-pro|*yẹt(t)igen|t=Ursa Major}} {{q|+ possibly {{l|trk-pro|*gün|t=sun, star}}}}
+
+* {{l|trk-pro|*yẹt(t)inči|t=seventh}} {{q|+ {{l|trk-pro|*-inč|t=-th, as the ordinal-forming suffix}}}}
+
+====Related terms====
+* {{l|trk-pro|*yẹtmiĺ|t=seventy}}
+
+====Descendants====
+* Oghur:
+** {{desc|xbo-vol|جىَات|tr=ǰyeti}}, {{l|xbo|جتی}}
+*** {{desc|cv|ҫиччӗ|ҫичӗ|ҫич}}
+** {{desc|xbo-dan|ζητ|tr=ǰit}}
+* Common Turkic:
+{{top3}}
+* Oghuz:
+** {{desctree|trk-oat|یدی|tr=yedi}}
+** {{desc|kmz|yetdi}}
+** {{desc|slr|yide}}
+** {{desc|tk|ýedi}}
+* Karluk:
+** {{desc|xqa|یِتیٖ|tr=yédi, yéti}}
+*** {{desc|zkh|}}
+**** {{desc|chg|يتە|tr=yättä|يتى|tr2=yätti}}
+***** Uighur-Ili:
+****** {{desc|ili|yetti}}
+****** {{desc|ug|يەتتە|يەتتى}} (''dial.''), {{l|ug|يەتى}} (''dial.'')
+***** {{desc|uz|yetti}}
+* Arghu:
+** {{desc|klj|yêtti}}
+* {{desc|qwm|}}
+** East Kipchak:
+*** {{desc|alt|јети}}
+*** {{desc|ky|жети}}
+** North Kipchak:
+*** {{desc|ba|ете}}
+**** {{desc|ba|Етегән|der=1}}<ref>{{R:otk:DTS|page=259}}</ref>
+*** {{desc|tt|җиде}}
+*** {{desc|sty|йете|tr=yete|йĕди|tr2=yĕdi}} (''dial.''), {{l|sty|йиді|tr=yidi}} (''dial.'')
+** South Kipchak:
+*** {{desc|kaa|jeti}}
+*** {{desc|kk|жеті}}
+*** {{desc|nog|ети|tr=yeti}}
+** West Kipchak:
+*** {{desc|jct|yedi}}
+*** {{desc|crh|yedi}}<ref>{{R:Useinov-Mireev 2002}}</ref>
+*** {{desc|uum|йеди|tr=yedi}}
+*** {{desc|kdr|йэди|tr=yedi}}
+*** {{desc|krc|джети}}
+*** {{desc|kum|етти}}
+* Siberian:
+** {{desc|otk|𐰘𐱅𐰃|ts=yeti}}<ref>{{R:otk:Bitig|jiti|110}}</ref>
+** {{desctree|oui|𐽶𐽶𐾀𐽶|ts=yéti}}
+** North Siberian:
+*** {{desc|dlg|һэттэ|tr=hette}}
+*** {{desc|sah|сэттэ}}
+** Yenisei:
+*** {{desc|atv|чети|дьети|тьети|йетти}}
+*** {{desc|kjh|читі}}
+*** {{desc|cjs|четти|tr=četti}}
+*** {{desc|clw|йеде|tr=yēde}}
+** Sayan:
+*** {{desc|trk-dkh|ǰetə|ǰeedə}}
+*** {{desc|kim|чеді|tr=čedi}}
+*** {{desc|tyv|чеди}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|entry=yétti:|page=886}}
+* Dukhan word can find to [http://turkic.elegantlexicon.com/turkforms.php?form=seven]

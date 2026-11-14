@@ -1,0 +1,82 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Alternative forms===
+* {{alt|trk-pro|*ït}}
+
+===Reconstruction Notes===
+Vowel length discrepancy was noted between [[w:Karakhanid language|Karakhanid]], [[w:Oghuz languages|Oghuz]] and [[w:Yakut language|Northern Siberian languages]], of which point to a short vowel and the rest of the reflexes, which point to a long vowel.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[dog]]
+
+====Declension====
+{{trk-pro-decl-noun|ï}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|йытӑ}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|ît}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|tr=it}}
+**** {{desc|az|it}}
+**** {{desc|ota|ایت|tr=it}}
+***** {{desc|tr|it}} {{q|derogatory}}
+***** {{desc|gag|it}}
+** {{desc|slr|it|q=dialectal}}
+** {{desc|tk|it}}
+* Karluk:
+** {{desc|xqa|ات|tr=it}}
+*** {{desc|ug|ئىت}}
+*** {{desc|uz|it}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|эт}}
+*** {{desc|tt|эт}}
+** West Kipchak:
+*** Crimeaic Kipchak:
+**** {{desc|crh|it}}
+**** {{desc|uum|йит}}
+*** {{desc|krc|ит}}
+*** {{desc|kum|ит}}
+** South Kipchak:
+*** {{desc|kaa|tr=iyt}}
+*** {{desc|kk|ит}}
+*** {{desc|nog|ийт}}
+** East Kipchak:
+*** {{desc|ky|ит}}
+*** {{desc|alt|ийт}}
+* Siberian:
+** {{desc|otk|𐰃𐱃|tr=ït}}
+*** {{desc|oui|yt|tr=ït}}
+**** {{desc|ybe|əʃt}}
+**** {{desc|slr|işt|bor=1}}
+** North Siberian:
+*** {{desc|dlg|ыт}}
+*** {{desc|sah|ыт}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|ыът|tr=ïht}}
+**** {{desc|tyv|ыт}}
+*** {{desc|atv|ит}}
+{{bottom}}
+
+====See also====
+{{table:animals/trk-pro}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=34|entry=ıt}}
+* {{R:xqa:DLT}}
+* {{R:trk:ESTJa|vol=I|page=386}}
+* {{R:tr:Nishanyan|it}}
+* {{R:trk:Rasanen|page=174}}
+* {{R:trk:Tekin:1995|page=176}}
+
+{{c|trk-pro|Dogs}}

@@ -35,9 +35,9 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 8.–14. yy | Eski Türkçe |  | **ür** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wilkens-eski-uygurca](../../kaynaklar/KAYNAKLAR.md#wilkens-eski-uygurca) — Uygur hukuk belgeleri ve hekimlik metinleri (Clauson, ür-); Wilkens 2021, madde ür- | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **ür** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 164 (Clauson, ür-) | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **ür** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 338 (Clauson, ür-) | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi |  | **ür** | اورمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 13.–15. yy | Eski Anadolu Türkçesi |  | **ür** | اورمك | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/ür-; sayfanın kaynakları: clauson, nisanyan, rasanen | ◑ kısmen |
 | 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **ür** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Rifat 116 (Clauson, ür-) | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **ürü** | اورومك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 16.–19. yy | Türkiye Türkçesi |  | **ürü** | اورومك | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/ür-; sayfanın kaynakları: clauson, nisanyan, rasanen | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 

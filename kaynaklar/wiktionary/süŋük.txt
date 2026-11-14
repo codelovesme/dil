@@ -1,0 +1,85 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{etymon|trk-pro|id=bone}}
+Potentially from {{suf|trk-pro|*süŋ-|*k|alt2=*ük}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{tlb|trk-pro|anatomy}} [[bone]]
+#: {{cot|trk-pro|*kemük<t:cartilage>|*saka<t:knucklebone>|*kar<t:shin bone of an animal>|*ašuk<t:anklebone>|*yẹ̄nčik<t:shin bone>}} 
+
+====Declension====
+{{trk-pro-decl-noun|ö}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*siŋ́ük}} {{q|per Räsänen}}
+* {{alt|trk-pro|*siŋök}} {{q|per EDAL}}
+* {{alt|trk-pro|*simgök}} > {{alt|trk-pro|*siŋök}} {{q|per Tenišev}}
+* {{alt|trk-pro|*süńgük|alt=*süńg-ük}} {{q|per Gülensoy}}
+* {{alt|trk-pro|*süŋgük|*süŋȫk}} {{q|per Hülya Yıldız, based on Yakut and Dolgan}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|шӑмӑ}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Arghu:
+** {{desc|klj|simük}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|سكوك|tr=süŋük}}
+**** {{desc|az|sümük}}
+**** {{desc|ota|سوموك|tr=sümük}}
+***** {{desc|tr|sümük}}
+** East Oghuz:
+*** {{desc|slr|sinik}}
+*** {{desc|tk|süňk}}
+* {{desc|qwm}}
+** North Kicphak:
+*** {{desc|ba|һөйәк}}
+*** {{desc|tt|сөяк}}
+** West Kipchak:
+*** {{desc|crh|süyek}}
+*** {{desc|krc|сюек}}
+*** {{desc|kum|сюек}}
+** South Kipchak:
+*** {{desc|kaa|su'yek}}
+*** {{desc|kk|сүйек}}
+*** {{desc|nog|суьек}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|сөөк}}
+*** {{desc|alt|сӧӧк}}
+* Karluk:
+** {{desc|xqa|سُنْکُکْ|ts=süŋük}}
+*** {{desc|chg|سونکوک|tr=süŋük}}
+**** {{desc|ug|سۆڭەك}}
+**** {{desc|uz|suyak}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|otk-ork|𐰾𐰇𐰭𐰜|ts=söŋük, süŋök}}
+*** {{desc|oui|𐽻𐽳𐽶𐽺𐽷𐽳𐽷|ts=süŋök}}
+** North Siberian:
+*** {{desc|dlg|оӈуок|tr=oñuok}}
+*** {{desc|sah|уҥуох}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|сөөк|tr=söök}}
+**** {{desc|tyv|сөөк}}
+*** Yenisei Turkic:
+**** {{desc|clw|сӧӧк|tr=söök}}
+**** {{desc|kjh|сӧӧк}}
+**** {{desc|atv|сӧӧк}}
+**** {{desc|cjs|сӧӧк|tr=söök}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=838-839|süŋük}}
+* {{R:trk:VEWT|page=437}}
+* {{R:trk:SIGTJa|pages=260-261}}
+* {{R:trk:ESTJa}}
+* {{R:tr:Gülensoy:2007|page=820}}
+
+{{c|trk-pro|Bones}}

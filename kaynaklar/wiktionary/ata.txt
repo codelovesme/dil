@@ -1,0 +1,75 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{etymon|trk-pro|id=father|pos=word}}
+Likely a {{onomatopoeic|trk-pro|title=[[Lallwort]]}}, compare {{cog|ine-pro|*átta}}, {{cog|urj-pro|*attɜ}}, {{cog|esx-esk-pro|*ata-ata}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[father]]
+# [[ancestor]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Alternative reconstructions====
+* {{l|trk-pro|*āta}}
+
+====Derived terms====
+* {{l|trk-pro|*ataman}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|атте|t=father}}
+** {{desc|cv|ата|t=a man who leads a wedding escort to a bride's house in order to take her to the bridegroom|аталӑх|t2=the work of such a man}} {{q|via Kipchak?}}
+* {{desc|trk-cmn-pro|*ata}}
+{{top3}}
+* Oghuz:
+** {{desc|trk-ogz-pro|*ata}}
+*** {{desc|trk-oat|tr=ata}}
+**** {{desc|az|ata}}
+**** {{desc|ota|آتا|tr=ata}}
+***** {{desc|gag|ata|t=grandfather}}
+***** {{desc|tr|ata|t=ancestor; father}}
+**** {{desc|tk|ata|t=father's father; father}}
+* Karluk:
+** {{desc|xqa|اَتا|tr=ata}}
+*** {{desc|zkh|tr=ata}}
+**** {{desc|chg|اتا|tr=ata}}
+***** {{desc|uz|ota}}
+***** {{desc|ug|ئاتا}}
+* Kipchak:
+** {{desc|qwm|اتا|tr=ata}}
+*** North Kipchak:
+**** {{desc|ba|ата|t=male|атай|t2=father}}
+**** {{desc|tt|ata|әти}}
+*** West Kipchak:
+**** {{desc|crh|ata}} {{q|dated}}
+**** {{desc|krc|ата}}
+**** {{desc|kum|ата}}
+*** South Kipchak:
+**** Caspian:
+***** {{desc|kk|ата}}
+***** {{desc|kaa|ата}}
+***** {{desc|nog|ата|t=male}}
+**** Kyrgyz-Kipchak:
+***** {{desc|ky|ата}}
+***** {{desc|alt|sc=Cyrl|ада}}
+* Siberian:
+** {{desc|otk|𐱃𐰀|ts=ata}}
+** South Siberian:
+*** Sayan Turkic:
+****  {{desc|kim|ата}}
+****  {{desc|tyv|ача|ада}}
+*** {{desc|atv|ада}}
+{{bottom}}
+
+* {{desc|ltc|爹|tr=*ʈia ~ *dɑ<sup>X</sup>|t=father|bor=1}}
+
+===References===
+* {{R:trk:ESTJa|ата|vol=I|page=200-201}}
+* [[w:Alexander Vovin|Vovin, Alexander]]; McCraw, David (2011). [http://www.tdk.gov.tr/images/Alexander%20VOVIN.pdf Old Turkic Kinship Terms in Early Middle Chinese]. ''Belleten'' (1): 105–116.
+
+{{top|trk-pro|Male family members}}

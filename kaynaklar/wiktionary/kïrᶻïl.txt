@@ -1,0 +1,74 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{m|trk-pro|*kï̄rᶻ-|t=to redden}} with secondary shortening or from the homophonous word {{m|trk-pro|*kï̄rᶻ}} with similar development found in {{m|trk-pro|*yālᶴïl|t=green}} < {{m|trk-pro|*yālᶴ|t=young vegetables}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[red]]
+
+====Reconstruction notes====
+The Chuvash form points to the front-ablauted variant {{m|trk-pro|*kiŕil}}.
+
+====Descendants====
+* Oghur:
+** {{desc|cv|хӗрлӗ}}
+* Common Turkic:
+{{top3}}
+* Aghu:
+** {{desc|klj|qızıl}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|qızıl}}
+*** {{desc|ota|قزل|tr=kızıl}}
+**** {{desc|gag|kızıl}}
+**** {{desc|tr|kızıl}}
+** {{desc|slr|qızıl}}
+** {{desc|tk|gyzyl}}
+* Karluk:
+** {{desc|xqa|tr=qïzïl}}
+*** {{desc|zkh||tr=qızıl}}
+**** {{desctree|chg|قیزیل|tr=qizil}}
+* {{desc|qwm|قزل|tr=qızıl}}
+** West Kipchak:
+*** {{desc|crh|qızıl}}
+*** {{desc|krc|къызыл}}
+*** {{desc|kdr|kyzyl|кызыл}}
+*** {{desc|kum|къызыл}}
+** North Kipchak:
+*** {{desc|ba|ҡыҙыл}}
+*** {{desc|tt|кызыл}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|қызыл}}
+**** {{desc|kaa|qızıl}}
+**** Nogai {{l|nog|кызыл}}
+***Kyrgyz-Kipchak:
+**** {{desc|ky|кызыл}}
+**** {{desc|alt|кызыл}}
+* Siberian:
+** Old Turkic:
+*** {{desc|oui|𐽲𐽶𐽴𐽶𐾁|tr=kïzïl}}
+** North Siberian:
+*** {{desc|dlg|кыһыл}}
+*** {{desc|sah|кыһыл}}
+** South Siberian
+*** Sayan Turkic:
+**** {{desc|tyv|кызыл}}
+**** {{desc|kim|ӄызыл|tr=qïzïl}}
+*** Yenisei Turkic:
+**** {{desc|clw|қызыл|tr=qïzïl}}
+**** {{desc|kjh|хызыл}}
+**** {{desc|cjs|қызыл}}
+*** {{desc|atv|кысыл|кызыл}}
+{{bottom}}
+
+====See also====
+{{table:colors/trk-pro}}
+
+===Further reading===
+* {{R:trk:ESTJa|vol=VI|pages=196}}
+
+{{topics|trk-pro|Colors|Reds}}

@@ -1,0 +1,96 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology 1===
+Nişanyan suggests that both etymologies may be one in the same and the original meaning may have been "to run around" comparing {{m|trk-pro|*tabïĺ-}}, {{m|trk-pro|*tabra-|t=to run around, hurry, flee}}.
+
+====Verb====
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|Common Turkic|intransitive}} to [[worship]], [[serve]]
+
+=====Derived terms=====
+* {{l|trk-pro|*tapïn-|*tap-ïn-|t=to worship, (reflexive)}} {{see desc}}
+
+=====Descendants=====
+* {{desc|trk-cmn-pro|*tap-}}
+{{top3}}
+* {{desc|trk-ogz}}
+** West Oghuz:
+*** {{desc|trk-oat|}}
+**** {{desc|ota|طاپمق|tr=tapmak}}
+***** {{desc|tr|tapmak}}
+** {{desc|slr|datğusı}}
+** {{desc|tk|tapmak}}
+* Kipchak:
+** North Kipchak:
+**** {{desc|ba|табыныу}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|табыну}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|табынуу}}
+* Karluk:
+** {{desc|xqa|تَبْماقْ|tr=tabmʾq|ts=tapmāq}}
+*** {{desc|chg|تاپماق|ts=tapmaq}}
+* Siberian
+** {{desc|oui|𐾀𐽰𐽼𐽹𐽰𐽲|ts=tapmaḳ}}
+* {{desc|xgn-pro|*taxï-|t=to sacrifice|bor=1}}<ref name="nugteren">{{R:Nugteren 2011|pages=509-510}}</ref><ref name="esmja">{{R:xgn:ESMJa|vol=III|pages=147, 157}}</ref>
+{{bottom}}
+
+===Etymology 2===
+
+====Verb====
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[find]]
+#: {{syn|trk-pro|*bul-}}
+
+=====Descendants=====
+* Oghur:
+** {{desc|cv|туп}}
+* {{desc|trk-cmn-pro|*tap-}}
+{{top3}}
+* {{desc|trk-ogz}}
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|tapmaq}}
+***** {{desc|ota|طاپمق|tr=tapmaq}}
+***** {{desc|tr|tapmak|dapmak}} {{q|dialectal}}
+** East Oghuz:
+*** {{desc|tk|tapmak}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|tapmaq}}
+*** {{desc|krc|табаргъа|tr=tabarğa}}
+*** {{desc|kum|tr=tap}}
+** North Kipchak:
+*** {{desc|ba|табыу}}
+*** {{desc|tt|табу}}
+** Central-Kipchak:
+*** {{desc|kaa|tr=tap-}}
+*** {{desc|kk|табу}}
+*** {{desc|nog|табув}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|табуу}}
+*** {{desc|alt|табар}}
+* Karluk:
+** {{desctree|xqa|تَبْماقْ|tr=tabmʾq|ts=tapmāq}}
+* Siberian:
+** South Siberian:
+*** Yeniseian:
+**** {{desc|kjh|табарға}}
+**** {{desc|cjs|табарға|tr=tabarğa}}
+*** Sayan:
+**** {{desc|kim|туъпар|туъфар|tr1=tupar|tr2=tufar}}
+**** {{desc|tyv|тывар}}
+*** {{desc|atv|табарга}}
+* {{desc|xgn-pro|*taxa-|t=to guess|bor=1}}<ref name="nugteren"/><ref name="esmja"/><ref>{{R:TMN|vol=II|pages=428-429|section=847}}</ref>
+{{bottom}}
+
+===References===
+ {{reflist}}
+* {{R:trk:Clauson|page=435}}
+* {{R:tr:Nishanyan|tapmak}}
+* {{R:trk:VEWT|page=462}}

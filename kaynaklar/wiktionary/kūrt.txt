@@ -1,0 +1,71 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+The meaning wolf seen exclusively in Oghuz is likely due to taboo speech. Compare {{cog|tk|möjek|t=wolf}} from {{m|trk-pro|*bȫgček|t=insect}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[worm]]
+# {{lb|trk-pro|Oghuz}} [[wolf]]
+#: {{syn|trk-pro|*karïškïr|*bȫrü}}
+
+====Declension====
+{{trk-pro-decl-noun|u}}
+
+====Derived terms====
+* {{l|trk-pro|*kūrtčuk|*kūrt-čuk|t=small worm, maggot}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|хорт|хурт}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|qûrt}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|qurd}}
+*** {{desc|ota|قورت|قورتجغز|tr1=kurt|tr2=kurtcağız|q2=diminutive}}
+**** {{desc|tr|kurt|kurtçuk|q2=diminutive}}
+**** {{desc|gag|курт|kurt}}
+** {{desc|tk|gurt|gurçuk|q2=diminutive}}
+* Karluk:
+** {{desc|xqa|قُرْتْ|tr=qurt}}
+*** {{desc|ug|قۇرۇت}}
+*** {{desc|uz|qurt}}
+* Kipchak:
+** Kypchak-Bulgar:
+*** {{desc|tt|корт|qort}}
+*** {{desc|ba|ҡорт}}
+** Kypchak-Nogai:
+*** {{desc|kaa|qurt}}
+*** {{desc|kk|құрт}}
+** Kyrgyz–Kipchak:
+*** {{desc|ky|курт}}
+*** {{desc|alt|курт}}
+** Kipchak–Cuman:
+*** {{desc|crh|къурт|qurt}}
+*** {{desc|kdr|курт}}
+*** {{desc|krc|къурт}}
+*** {{desc|kum|хурт}}
+* Siberian:
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|ӄуърт}}
+**** {{desc|tyv|курт}}
+*** Yenisei:
+**** {{desc|kjh|хурт}}
+**** {{desc|ybe|қурт}}
+*** {{desc|atv|курт}}
+{{bottom}}
+
+{{table:animals/trk-pro}}
+
+===References===
+{{reflist}}
+* {{R:tr:Nishanyan|kurt|date=2022-08-08}}
+* {{R:trk:Clauson|entry=kurt|page=648}}
+
+{{topics|trk-pro|Worms}}

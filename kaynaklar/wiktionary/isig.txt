@@ -1,0 +1,52 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{suffix|trk-pro|*isi-|*-g|t1=to become hot}}.
+
+===Adjective===
+{{head|trk-pro|adj}}
+
+# [[hot]]
+#: {{ant|trk-pro|*sogïk}}
+
+====Descendants====
+* {{desc|trk-ogr}}
+** {{desc|cv|ӑшӑ}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* {{desc|trk-ogz}}
+** {{desctree|trk-oat|اصی|tr=ıssı}}
+** {{desc|slr|issi}}
+** {{desc|tk|yssy}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|эҫе}}
+*** {{desc|tt|эссе}}
+** {{desc|trk-kcu}}
+*** {{desc|qwm-mam|tr=isi}}
+*** {{desc|qwm|issi}} {{q|Codex Cumanicus}}
+**** {{desc|crh|issi}}
+** {{desc|trk-kno}}
+*** {{desc|kk|ыстық|ыссы|ыссық}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|ысык}}
+*** {{desc|alt|изӱ}}
+* Karluk:
+** {{desctree|xqa|اِسِكْ|tr=ʾisik|ts=isig}}
+* {{desc|trk-sib}}
+** {{desc|oui|𐽰𐽶𐽻𐽶𐽷|𐽰𐽶𐽻𐽶𐽲|ts=isig|ts2=ïsïġ|t2=hot, warm; dear, close friend}}
+** {{desc|trk-nsb}}
+*** {{desc|dlg|итии|tr=itii}}
+*** {{desc|sah|итии}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|tyv|изиг}}
+*** Yenisei:
+**** {{desc|kjh|ізіг}}
+*** {{desc|atv|изиг}}
+{{bottom}}
+
+===Further reading===
+* {{R:trk:Clauson|isig|page=246}}
+* {{R:tr:Nişanyan|ısı}}

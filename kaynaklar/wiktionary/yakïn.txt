@@ -1,0 +1,39 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{suf|trk-pro|*yak-|*-ïn}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# {{lb|trk-pro|Common Turkic}} [[near]], [[proximate]]
+
+====Descendants====
+{{top3}}
+* Oghuz:
+** {{desc|trk-oat|-}}
+*** {{desc|az|yaxın}}
+*** {{desc|gag|yakın}}
+*** {{desctree|ota|یاقین}}
+** {{desc|slr|yaxın}}
+** {{desc|tk|ýakyn}}
+* Karluk
+** {{desc|ug|يېقىن}}
+** {{desc|uz|yaqin}}
+* Kipchak
+** North Kipchak
+*** {{desc|ba|яҡын}}
+*** {{desc|tt|якын}}
+**** {{desc|cv|яхӑн|bor=1}}
+** East Kipchak
+*** {{desc|ky|жакын}}
+** South Kipchak
+*** {{desc|kk|жақын}}
+* Siberian:
+** {{desc|trk-ssb}}
+** Yenisei:
+*** {{desc|kjh|чағын}}
+** {{desc|atv|тьагын}}
+** {{desc|ybe|yaqïn}}
+{{bottom}}

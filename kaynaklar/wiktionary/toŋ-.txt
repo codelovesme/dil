@@ -1,0 +1,63 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+According to Wilkens, {{bor+|nocap=1|trk-pro|ltc|凍|tr=tuwng, tuwng{{sup|H}}|t=to freeze; ice, cold}}.‌<ref>{{R:oui:Wilkens|page=731|entry=toŋ-}}</ref>
+Compared by Altaicists to {{noncog|xgn-pro|*daxara-|t=to freeze}} and {{noncog|tuw-pro|*doŋota|t=cold, frost}} ({{noncog|evn|доӈото}}); Räsänen compares {{noncog|fi|tankea}}, from {{noncog|urj-fpr-pro|*taŋketa}}. However, the Altaic hypothesis is widely discredited and these words aren't related genetically.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[freeze]]
+
+====Related terms====
+{{col|trk-pro|*toŋ}}
+
+====Descendants====
+* {{desc|trk-ogr}}
+** {{desc|cv|тӗн}}
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* {{desc|trk-ogz}}
+** {{desc|trk-oat|طوكمق|tr=doŋmaq}}
+*** {{desc|az|donmaq}}
+*** {{desc|gag|donmaa}}
+*** {{desc|ota|طوكمق|tr=doñmak}}
+**** {{desc|tr|donmak}}
+** {{desc|tk|doňmak}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|туңыу}}
+** {{desc|trk-kcu}}
+*** {{desc|qwm-mam|tr=ṭoŋ-}}
+*** {{desc|qwm|toꝯ}} {{q|Codex Cumanicus}}
+**** {{desc|crh|toñmaq}}
+** {{desc|trk-kno}}
+*** {{desc|kk|тоңу}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|тоңуу}}
+*** {{desc|alt|тоҥор}}
+* Karluk:
+** {{desctree|xqa|تُنْكْماقْ|tr=tunkmʾq|ts=toŋmaq}}
+* {{desc|trk-sib}}
+** {{desc|oui|𐾀𐽳𐽺𐽷𐽹𐽰𐽲|ts=toŋmaḳ}}
+** {{desc|trk-nsb}}
+*** {{desc|sah|тоҥ}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|tyv|доңар}}
+*** Yenisei:
+**** {{desc|kjh|тоорға}}
+*** {{desc|atv|тонъарга}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:tr:Nişanyan|donmak}}
+* {{R:trk:Clauson|page=515|toŋ-}}
+* {{R:otk:DTS|page=575|TOŊ (I), TOŊ-}}
+* {{R:trk:Räsänen|page=488|toŋ}}
+* {{R:trk:ESTJa|vol=3|page=266-267}}
+* {{R:tr:Tietze|vol=II|page=465|don-}}

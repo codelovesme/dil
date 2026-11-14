@@ -824,8 +824,8 @@ Ana Türkçe yeniden kuruluşları ve her maddenin altında torun dillerdeki bi�
 - **İşe yaradığı yer:** Ana Türkçe kuruluşu ve etimoloji, Yaşayan dillerde biçim toplama, Tarihî tanık biçimleri
 - **Erişim:** açık · **Biçim:** web · **Güven:** orta · **Durum:** bu ortamdan açıldı · **Ortam:** izinli
 - **Doğrulama:** 2026-11-12: kategori sayfası açıldı (HTTP 200). Madde ham metni ?action=raw ile alınıyor (ben, sen, o bu yolla araştırıldı).
-- **Kullanılan sürüm:** canlı sayfa, 2026-11-12 ile 2026-11-14 arasında okundu; sayfa dosyası saklanmadı (parmak izi yok) (dosya parmak izleri: kaynaklar/surumler.yaml)
-- **Not:** Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir.
+- **Kullanılan sürüm:** 2026-11-14'te 119 sayfanın ham metni kaynaklar/wiktionary/ altında saklandı ve parmak izleri surumler.yaml'a yazıldı; kök→sayfa eşlemesi ve sayfaların gösterdiği kaynaklar kaynaklar/wiktionary-sayfalari.yaml'da. 39 kökün sayfası bulunamadı (adı değişmiş ya da yanlış eşleşme); onların tanıkları 2026-11-12/14 canlı okumasıdır. (dosya parmak izleri: kaynaklar/surumler.yaml)
+- **Not:** Kaynakçası iyi ama topluluk ürünüdür; küçük diller ve ağızlar eksik olabilir. Aracı kaynak sayılır: sayfanın gösterdiği kaynak tanıkta da varsa Wiktionary bağımsız ikinci kaynak sayılmaz (ILKELER §12).
 - **Kimlik:** `wiktionary-ana-turkce`
 
 <a id="vambery-1878"></a>

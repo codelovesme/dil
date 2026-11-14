@@ -1,0 +1,65 @@
+{{reconstructed}}
+==Proto-Turkic==
+{{number box|trk-pro|8}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[eight]]
+
+====Descendants====
+* Oghur:
+** {{desc|xbo-vol|[[سكر|ڛَكِر]]|tr=sekir}}
+*** {{desc|cv|саккӑр}}
+{{top3}}
+*Arghu:
+**{{desc|klj|səkkiz}}
+*Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|səkkiz}}
+*** {{desc|ota|سكز|tr=sekiz}}
+**** {{desc|gag|sekiz}}
+**** {{desc|tr|sekiz}}
+** {{desc|slr|sekis|sakıs}}
+** {{desc|tk|sekiz}}
+* Karluk:
+** {{desc|xqa|سَكِّزْ|tr=sekkiz}}
+*** {{desc|ili|sekkiz}}
+*** {{desc|ug|سەككىز}}
+*** {{desc|uz|sakkiz}}
+* Kipchak: '''*segiz'''
+** Western Kipchak:
+*** {{desc|crh|секиз|tr=sekiz|sekiz}}
+*** {{desc|krc|сегиз|tr=segiz}}
+*** {{desc|kdr|сегизь}}
+*** {{desc|kum|сегиз}}
+** Kipchak-Nogai:
+*** {{desc|kaa|segiz}}
+*** {{desc|kk|сегіз}}
+*** {{desc|nog|сегиз}}
+** Northern Kipchak:
+*** {{desc|ba|һигеҙ}}
+*** {{desc|tt|сигез}} / {{l|tt|sigez}}
+** Eastern Kipchak:
+*** {{desc|ky|сегиз}}
+*** {{desc|alt|сегис}}
+* Siberian:
+** {{desc|otk}}:
+*** {{desc|otk-ork|𐰾𐰚𐰔|tr=sekiz}}<ref>{{R:otk:Bitig|sKz|111}}</ref>
+*** {{desctree|oui|𐽻𐽰𐽷𐽶𐽴|ts=sekiz}}
+** South Siberian:
+*** Yenisei Turkic:
+**** {{desc|clw|сеғис|tr=seğis}}
+**** {{desc|kjh|сигіс}}
+**** {{desc|cjs|сегис}}
+*** Sayan Turkic:
+**** {{desc|kim|сеъһес}}
+**** {{desc|tyv|сес}}
+*** {{desc|atv|сегис}}
+** North Siberian:
+*** {{desc|dlg|агыс|tr=agıs}}
+*** {{desc|sah|аҕыс}}
+{{bottom}}
+
+====References====
+{{reflist}}

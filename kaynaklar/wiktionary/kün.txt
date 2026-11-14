@@ -1,0 +1,77 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology 1===
+Confer {{cog|txb|kauṃ|t=sun, day}}.
+
+====Noun====
+{{head|trk-pro|noun}}
+
+# {{top|trk-pro|Astronomy}}
+# {{C|trk-pro|Times of day}} [[day]], [[daytime]]
+#: {{coordinate terms|trk-pro|*tün|t1=night|*kēče|t2=evening|*ẹ̄r|t3=early, morning|*yarïn|t4=morning}}
+# [[sun]]; ''by extension'' a [[celestial body]]
+
+=====Declension=====
+{{trk-pro-decl-noun|ü}}
+
+=====Derived terms=====
+{{col|trk-pro
+|*küneš<t:sun, sunlight>
+|*kuńāĺ<t:midday sun>
+|*yẹtikün<t:[[Ursa Major]]><pos:constellation>
+}}
+
+=====Descendants=====
+* Oghur:
+** {{desc|xbo-vol|كُوَان|tr=kön|t=day}}
+*** {{desc|cv}}
+**** {{desc|cv-vir|кон|t=day}}
+***** {{desc|cv-ana|кун|t=day}}
+** {{desc|xbo-dan|χων|tr=kon|t=day}}
+{{top3}}
+* Arghu:
+** {{desc|klj|kün}}
+* Karluk:
+** {{desc|xqa|کون|tr= kün}}
+*** {{desctree|chg|کون|tr= kün}}
+* Oghuz:
+** {{desc|trk-oat| كُونْ|tr=gün}}
+*** {{desc|az|gün}}
+*** {{desc|gag|gün}}
+*** {{desc|ota|گون|tr= gün}}
+**** {{desc|tr|gün|t=day}}
+** {{desc|slr|gün}}
+** {{desc|tk|gün}}
+* {{desctree|qwm|کون|tr=kün}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|otk-ork|𐰚𐰇𐰤|ts=kün}}
+*** {{desctree|oui|𐽷𐽳𐽶𐽺|ts=kün}}
+** North Siberian:
+*** {{desc|dlg|күн|tr= kün}}
+*** {{desc|sah|күн}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|хүн}}
+*** Yenisei:
+**** {{desc|kjh|кӱн}}
+*** {{desc|atv|кӱн}}
+{{bottom}}
+
+===Etymology 2===
+{{rfv|trk-pro|Is this term even reconstructible?}}
+
+====Noun====
+{{head|trk-pro|noun}}
+
+# {{top|trk-pro|People}}
+# [[person]]
+#: {{syn|trk-pro|*kiši}}
+
+=====Declension=====
+{{trk-pro-decl-noun|ü}}
+
+=====Derived terms=====
+* {{l|trk-pro|*ēl kün|t=world}}
+* {{l|trk-pro|*-gün|t=plurality suffix for people}}

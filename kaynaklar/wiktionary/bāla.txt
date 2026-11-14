@@ -1,0 +1,66 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[young]] [[animal]]
+# [[child]]
+# [[wife|wife's]] [[younger]] [[sister]]
+# [[younger]] [[relative]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Derived terms====
+* {{l|trk-pro|*bāldïŕ|*bāl-dïŕ}}
+* {{l|trk-pro|*bālapan|*bāla-pan}}
+
+====Descendants====
+* {{desc|trk-ogr-pro|}}
+** {{desc|cv|папа}}
+
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Oghuz:
+** {{desc|trk-oat|}}:
+*** {{desctree|az|bala}}
+*** {{desc|ota|بالا|tr=bala}}
+**** {{desc|tr|bala}} {{q|dialectal}}
+** {{desc|slr|bala}}
+** {{desc|tk|bala}}
+* Karluk:
+** {{desc|xqa||tr=bala}}
+*** {{desc|chg|بلا|tr=bala}}
+**** {{desc|uz|bola}}
+**** {{desc|ug|بالا}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|bala}}
+*** {{desc|krc|бала}}
+*** {{desc|kum|бала}}
+** North Kipchak:
+*** {{desc|ba|бала}}
+*** {{desc|tt|бала}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|бала}}
+**** Karakalpak {{l|kaa|бала|tr=bala}}/{{l|kaa|bala}}
+**** Nogai {{l|nog|бала}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|бала}}
+**** {{desc|alt|бала}}
+* Siberian:
+** {{desc|xpm|unc=1|bor=1|falla}}<ref>{{R:yen:Khabtagaeva:2019|page=95|entry=Pumpokol '''pʰalla [...]'''}}</ref>
+** South Siberian:
+*** {{desc|ybe|mïla}}
+*** Yenisei Turkic:
+**** {{desc|kjh|пала}}
+**** {{desc|cjs|пала|tr=pala}}
+*** {{desc|atv|пала}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+{{top|trk-pro|Baby animals|Children|Female family members}}

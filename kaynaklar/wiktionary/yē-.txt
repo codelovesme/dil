@@ -1,0 +1,60 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[eat]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫи}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|yêmək}}
+* Oghuz:
+** {{desc|trk-oat|یِیمَكْ|یِمَكْ|tr=yemäk|tr2=yemäk}}
+*** {{desc|az|yemək}}
+*** {{desc|gag|imää}}
+*** {{desc|ota|یمك|tr=yemek, yimek}}
+****{{desc|tr|yemek}}
+** {{desc|tk|iýmek}}
+** {{desc|slr|yigüsi|yegüsi}}
+* Karluk:
+** {{desc|xqa||tr=yemek}}
+*** {{desc|ug|يېمەك}}
+*** {{desc|uz|yemoq}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|ейеү|t=to eat}} {{q|archaic}}, {{desc|ba|ем|t=food}}
+*** {{desc|tt|җим|der=1}}
+** West Kipchak:
+*** {{desc|crh||tr=}}
+*** {{desc|krc||tr=ye-}}
+*** {{desc|kdr||tr=ye-}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|jew}}
+**** {{desc|kk|жеу}}
+**** {{desc|nog|ев}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жөө}}
+**** {{desc|alt|јиир}}
+* Siberian:
+** {{desc|otk|𐰘𐰃𐰘𐰇|der=1|t=eating}}
+** {{desc|oui||tr=ye-}}
+*** {{desc|ybe||tr=yi-}}
+** North Siberian:
+*** {{desc|sah|сиэ}}
+*** {{desc|dlg|һиэ|tr=hie}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|чиир}}
+**** {{desc|kim|чиир|tr=çiir}}
+*** Yenisei Turkic:
+**** {{desc|kjh|чирге}}
+**** {{desc|cjs||tr=čii-}}
+*** {{desc|atv|чийерге|тьийерге}}
+{{bottom}}

@@ -1,0 +1,51 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}<ref>{{R:trk:Clauson|entry=ti:z|page=570}}</ref>
+
+# {{lb|trk-pro|anatomy}} [[knee]]
+
+====Declension====
+{{trk-pro-decl-noun|ī}}
+
+====Derived terms====
+* {{l|trk-pro|*tirsgäk|t=elbow}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|чӗр}}
+** {{desc|hu|térd|bor=1}}<ref>{{R:ErtSz|térd}}</ref>
+* Common Turkic:
+{{top2}}
+* Arghu:
+** {{desc|klj|tîz}}
+* Oghuz:
+** Old Anatolian Turkish:
+*** {{desc|az|diz}}
+*** {{desc|ota|دیز|tr=diz}}
+**** {{desc|tr|diz}}
+** {{desc|slr|düz}}
+** {{desc|tk|dyz}}
+* Karluk:
+** {{desc|xqa|tr=tiz}}
+*** {{desc|ug|تىز|tr=tiz}}
+*** {{desc|uz|tiz}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|tt|тез}}
+** South Kipchak:
+*** Kipchak-Nogai
+**** {{desc|kk|тізе}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|тизе}}
+**** {{desc|alt|тизе}}
+* Siberian:
+** {{desc|otk|𐱅𐰃𐰔|tr=tiz}}
+** {{desc|trk-ssb}}
+*** {{desc|atv|тизе}}
+{{bottom}}
+
+===References===
+{{reflist}}

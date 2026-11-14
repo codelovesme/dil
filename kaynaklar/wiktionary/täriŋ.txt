@@ -1,0 +1,55 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[deep]]
+#: {{ant|trk-pro|*sïg}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|тарӑн}}
+* {{desc|trk-cmn-pro|*teriŋ}}
+{{top3}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat}}
+**** {{desc|az|dərin}}
+**** {{desctree|ota|دریڭ|tr=deriñ}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|teren}}
+*** {{desc|krc|терен}}
+*** {{desc|kum|терен}}
+** North Kipchak:
+*** {{desc|ba|тәрән}}
+*** {{desc|tt|тирән}}
+** South Kipchak:
+*** {{desc|kk|терең}}
+*** {{desc|nog|терен}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|терең}}
+*** {{desc|alt|тереҥ}}
+* Karluk:
+** {{desc|xqa|تَرِكْ|ts=teriŋ}} (of water)
+*** {{desc|uz|teran}}
+* Siberian:
+** North Siberian:
+*** {{desc|sah|дириҥ}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|дэреӈ|tr=dereñ}}
+**** {{desc|tyv|терең}}
+*** Yenisei Turkic:
+**** {{desc|clw|тӓрӓң|tr=täräñ}}
+**** {{desc|kjh|тирең}}
+**** {{desc|cjs|терең|tr=tereñ}}
+*** {{desc|atv|теренъ}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|pages=551}}
+* {{R:trk:VEWT|page=475}}
+* {{R:trk:ESTJa|pages=208-209|vol=III}}

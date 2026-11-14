@@ -1,0 +1,82 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+{{unk|trk-pro}}. Possibly related to {{cog|oui|𐰘𐰃𐰠|t=mane}} and {{cog|xqa|یَلِغْ|tr=yalïğ|t=comb of a rooster}}. {{rfv-etym|trk-pro}}
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[wind]], [[gust]]
+
+====Reconstruction notes====
+# Reconstructing vowel length proves difficult for this root. Reflexes contradict each other concerning the vowel length and both short and long voweled variants can be seen attested even in the same language (e.g. in {{w|Old Uyghur|Old Turkic}}, {{w|Khalaj language|Khalaj}}, {{w|Karluk languages}} etc.)
+# Oldest attestations feature both '''open-e (é)''' and '''closed-e (e/ä)''' variants - which one was the original cannot be truly ascertained from the available data.
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*yẹ̄l}}
+* {{alt|trk-pro|*yēl}}
+* {{alt|trk-pro|*yẹl}}
+
+====Descendants====
+* {{desc|trk-ogr|*ǰēl}}
+** {{desc|trk-bul-pro|*č́ēl}}
+*** {{desc|xbo-dan|*sēl ~ *śēl}}
+**** {{desc|ohu|ſeel|tr=sēl, *śēl|bor=1}}
+***** {{desc|hu|szél}}
+*** {{desc|xbo-vol|*?}}
+**** {{desc|cv-old|*śēl}}
+***** {{desc|cv|ҫил}}
+**** {{desc|urj-prm-pro|*śu̇l|bor=1}} {{see desc}}
+* {{desc|trk-cmn-pro|*yẹl ~ *yẹ̄l}}
+{{top3}}
+* Arghu:
+** {{desc|klj|yel|ts=jɛˑl/, /jeːl}}
+* Oghuz:
+** {{desc|trk-oat|یل|ییل|tr=yẹl}}
+*** {{desc|az|yel}}
+*** {{desc|gag|el}}
+*** {{desc|ota|یل|ییل|tr=yel}}
+**** {{desc|tr|yel}}
+** {{desc|slr|yel}}
+** {{desc|tk|ýel}}
+* Karluk:
+** {{desc|xqa|یَلْ|tr=yel}}
+*** {{desc|chg|ییل|tr=yel}}
+**** {{desc|ug|يەل}}
+**** {{desc|uz|yel}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|tt|җил|cil}}
+*** {{desc|ba|ел}}
+** Kipchak-Cuman:
+*** {{desc|crh|yel|ель}}
+*** {{desc|krc|жел|джел}}
+*** {{desc|kdr|йэль}}
+*** {{desc|kum|ел}}
+** Kipchak-Nogai:
+*** {{desc|kk|жел}}
+*** {{desc|nog|ел}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|жел}}
+*** {{desc|alt|јел}}
+* Siberian:
+** {{desctree|oui|𐽶𐽶𐽶𐾁|ts=yél, yḗl, yiél|noalts=1}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|kjh|чил}}
+**** {{desc|cjs|чел|tr=čel}}
+*** {{desc|atv|йел}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:cv:Agyagasi:2019|page=102}}
+* {{R:trk:Clauson|page=916-917|entry=yé:l}}
+* {{R:trk:WOT|page=785-787|vol=2|entry=SZÉL [sēl]}}
+
+{{top|trk-pro|Weather}}

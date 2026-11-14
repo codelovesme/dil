@@ -1,0 +1,64 @@
+{{see also|Reconstruction:Proto-Turkic/bar-|Reconstruction:Proto-Turkic/baŕ}}
+{{reconstructed}}
+==Proto-Turkic==
+
+===Predicative===
+{{head|trk-pro|predicative}}
+
+# [[there is]]
+#: {{ant|trk-pro|*yōk}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пур}}
+*** {{desc|cv-ana|пур}}
+**** {{desc|cv-vir|пор}}
+* {{desc|trk-cmn-pro|*bār}}
+{{top3}}
+* Arghu:
+** {{desc|klj|vâr}}
+* Oghuz:
+** {{desctree|trk-oat|وار|tr=var, vār}}
+** {{desc|slr|var|bar}} (dial.)
+** {{desc|tk|bār}}
+* Karluk:
+** {{desc|xqa||tr=bar}}
+*** {{desc|chg|}}
+**** {{desc|ug|بار}}
+**** {{desc|uz|bor}}
+* Kipchak: '''*bar'''
+** North Kipchak:
+*** {{desc|ba|бар}}
+*** {{desc|tt|бар}}
+** West Kipchak:
+*** {{desc|crh|bar}}
+*** {{desc|krc|бар}}
+*** {{desc|kdr|бар|tr=bar}}
+*** {{desc|kum|бар}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|bar}}
+**** {{desc|kk|бар}}
+**** {{desc|nog|бар}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|бар}}
+**** {{desc|alt|бар}}
+** {{desc|qwm|-|der=1}} '''*bārï'''
+*** {{desc|kk|бәрі}}
+*** {{desc|ky|баары}}
+* Siberian:
+** {{desc|otk|𐰉𐰺}}
+*** {{desc|oui|tr=bar}}
+**** {{desc|ybe||tr=bar}}
+** South Siberian:
+*** {{desc|dlg|баар}}
+*** {{desc|sah|баар}}
+** North Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|бар|tr=bar}}
+**** {{desc|tyv|бар|tr=bar}}
+*** Yenisei Turkic:
+**** {{desc|kjh||tr=par}}
+**** {{desc|cjs|}}
+*** {{desc|atv|пар}}
+{{bottom}}

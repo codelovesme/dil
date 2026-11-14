@@ -1,0 +1,77 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{topics|trk-pro|Bodily fluids}} [[blood]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|xbo-vol|*حىان|حىان كوان|tr=xyān|t=blood|tr2=xyān kön|t2=Wednesday}}
+*** {{desc|cv|юн|юнкун|t=blood|t2=Wednesday}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Arghu:
+** {{desc|klj|qân}}
+* Karluk:
+** {{desc|xqa|قانْ|tr=qan}}
+*** {{desc|zkh||tr=qan}}
+**** {{desctree|chg|قان|tr=qan}}
+* Oghuz:
+** {{desc|trk-oat|قان|tr=qan}}
+*** {{desc|az|qan}}
+*** {{desc|gag|kan}}
+*** {{desc|ota|قان|tr=kan}}
+**** {{desc|tr|kan}}
+** {{desc|slr|gan}}
+** {{desc|tk|gān}}
+* {{desc|qwm|}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|ҡан}}
+*** {{desc|tt|кан}}
+** {{desc|trk-kcu|}}
+*** {{desc|qwm-cum|can}}
+**** {{desc|qwm-arm|խան|tr1=xan|t1=blood|խանքուն//խանգուն|tr2=xankün|t2=Wednesday}}<ref>{{R:qwm:Garkavets|χan}}</ref>
+**** {{desc|qwm-mam|قان|tr=kan}}
+**** {{desc|crh|qan}}
+**** {{desc|krc|къан}}
+**** {{desc|kdr|}}<ref>Jodłowska-Ebo, M. (2005). The Karaim names of Sunday and Monday. Studio Turcologica Cracoviensia, 10, 131-135.</ref>
+***** Crimean {{desc|kdr|къан|къанкүн|t1=blood|t2=Wednesday}}
+***** Halicz {{desc|kdr|хан|ханкин|t1=blood|t2=Wednesday}}
+**** {{desc|kum|къан}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|qan}}
+**** {{desc|kk|қан}}
+**** {{desc|nog|кан}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|кан}}
+**** {{desc|alt|кан}}
+* Siberian:
+** {{desc|otk-ork|𐰴𐰣|tr=qan}}
+** {{desc|oui|𐽲𐽰𐽺|ts=kan}}
+*** {{desc|ybe|xan|ts=χan|t=blood|qan|ts2=qʰan}}
+** {{desctree|syd-pro|*këm|bor=1|unc=1}}
+** North Siberian:
+*** {{desc|dlg|каан}}
+*** {{desc|sah|хаан}}
+** South Siberian:
+*** Yenisei Turkic:
+**** {{desc|clw|қан|tr=qan}}
+**** {{desc|kjh|хан}}
+**** {{desc|cjs|қан|tr=qan}}
+*** Sayan Turkic:
+**** {{desc|kim|қан|tr=qan}}
+**** {{desc|tyv|хан}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=629-630}}
+* {{R:trk:VEWT|page=230}}
+* {{R:trk:ESTJa|page=251|vol=5}}
+* {{R:TMN|page=360-361|vol=3}}

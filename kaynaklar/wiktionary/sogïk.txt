@@ -1,0 +1,58 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+From {{m|trk-pro|*sogï-|t=to cold}} {{suffix|trk-pro||*-k}}.
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[cold]]
+#: {{syn|trk-pro|*tum}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|сивӗ}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|sovuq}}
+* Oghuz:
+** {{desc|trk-oat|صُوغُقْ|tr=soġuq}}
+*** {{desc|az|soyuq}}
+*** {{desc|gag|suuk}}
+*** {{desc|ota|صوغوق|tr=soğuk}}
+**** {{desc|tr|soğuk}}
+** East Oghuz:
+*** {{desc|tk|sowuk}} 
+** Uyghur-Oghuz:
+*** {{desc|slr|sox}}
+* Karluk:
+** {{desc|uz|sovuq}}
+** {{desc|ug|سوغۇق}}
+* Kipchak:
+** North Kipchak
+*** {{desc|ba|һыуыҡ}}
+*** {{desc|tt|суык}}
+** West Kipchak:
+*** {{desc|crh|suvuq}}
+*** {{desc|krc|суукъ}}
+*** {{desc|kum|сувукъ}}
+** South Kipchak:
+*** {{desc|kaa||tr=suwıq}}
+*** {{desc|kk|суық}}
+*** {{desc|nog|сувык}}
+** East Kipchak:
+*** {{desc|ky|суук}}
+*** {{desc|alt|соок}}
+* Siberian:
+** {{desc|otk||tr=soɣïq}} (Old Uyghur)
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|соок}}
+*** Yenisei Turkic:
+**** {{desc|clw|сооқ|tr=sooq}}
+**** {{desc|kjh|соох}}
+*** {{desc|atv|соок}}
+{{bottom}}

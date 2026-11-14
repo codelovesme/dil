@@ -1,0 +1,55 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+If from earlier {{m|trk-pro|*yabman}}, then can be analyzable as {{suf|trk-pro|*yab-|*-man}}.
+
+===Adjective===
+{{head|trk-pro|adjective}} {{lb|trk-pro|Common Turkic}}
+
+# [[bad]], [[wicked]]
+#: {{syn|trk-pro|*yabïrᶻ}}
+#: {{ant|trk-pro|*yakšï}}
+# [[sickness]]
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*yawman}}
+
+====Descendants====
+* {{desc|trk-cmn-pro|*yaman}}
+{{top4}}
+* Oghuz:
+** {{desc|trk-ogz-pro|*yaman}}
+*** West Oghuz:
+**** {{desc|trk-oat|tr=yaman}}
+**** {{desc|az|yaman}}
+**** {{desc|ota|یامان|tr=yaman}}
+***** {{desc|tr|yaman}}
+** East Oghuz:
+*** {{desc|slr|yaman}}
+*** {{desc|tk|ýaman}}
+* Karluk:
+** {{desc|xqa||tr=yaman}}
+*** {{desc|chg|يمان|tr=yaman}}
+**** {{desc|uz|yomon}}
+**** {{desc|ug|يامان}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|яман}}
+*** {{desc|tt|яман}}
+** West Kipchak:
+*** {{desc|crh|yaman}}
+*** {{desc|krc|аман}}
+*** {{desc|kum|яман}}
+** South Kipchak:
+*** {{desc|kaa|жаман|tr=jaman}}
+*** {{desc|kk|жаман}}
+*** {{desc|nog|яман}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|жаман}}
+*** {{desc|alt|јаман}}
+* Siberian:
+** {{desc|oui||tr=yaman}}
+** {{desc|atv|ньаман}}
+{{bottom}}

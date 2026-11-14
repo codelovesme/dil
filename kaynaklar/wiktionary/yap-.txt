@@ -1,0 +1,83 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology 1===
+
+====Verb====
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[cover]]
+# {{lb|trk-pro|transitive}} to [[close]]
+#: {{syn|trk-pro|*kap-|t1=to close|*yum-|t2=to close (eyes, mouth)}}
+#: {{ant|trk-pro|*ač-|t=to open}}
+
+=====Descendants=====
+{{top3}}
+* {{desc|trk-ogz|}}
+** {{desc|trk-oat|ياپنماق|tr=yapınmak}}
+** {{desc|slr|yafqusı}}
+** {{desc|tk|ýapmak}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|ябыу}}
+*** {{desc|tt|ябарга}}
+** West Kipchak:
+*** {{desc|kum|япмакъ}}
+** South Kipchak:
+*** {{desc|kk|жабу}}
+*** {{desc|nog|ябув}}
+** East Kipchak:
+*** {{desc|ky|жабуу}}
+*** {{desc|alt|јабар}}
+* {{desc|trk-sib}}
+** {{desc|oui|𐽶𐽰𐽼𐽹𐽰𐽲|ts=yapmaḳ}}
+** {{desc|trk-nsb}}
+*** {{desc|sah|сап}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|kim|чыъфар|чыъпар}}
+**** {{desc|tyv|шывар}}
+*** Yenisei:
+**** {{desc|clw|чаварға|tr=čavarɣa}}
+**** {{desc|kjh|чабарға}}
+**** {{desc|cjs|чабарға|tr=čabarɣa}}
+*** {{desc|atv|тьабарга|чабарга}}
+{{bottom}}
+
+===Etymology 2===
+
+====Verb====
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[attach]]
+
+=====Descendants=====
+* {{desc|xqa|}}
+* Oghuz:
+** {{desc|az|yapmaq}}
+** {{desc|slr|yaxqusı}}
+* Siberian:
+** {{desc|kim|чаъһар|tr=ça'har|t=to stick, glue}}
+* {{desc|trk-pro|*yạpïĺč-|t=to glue}}
+** {{desc|trk-pro|*yạpïĺčïn-}}
+** {{desc|trk-pro|*yạpïĺčgan}}
+*** Oghuz:
+**** {{desc|tr|yapışkan}}
+** {{desc|trk-cmn-pro|*yạpïšïk}}
+** {{desc|trk-cmn-pro|*yạpïšgak}}
+** Oghur:
+*** {{desc|cv|ҫыпӑҫ}}
+{{top2}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|yapışmaq}}
+*** {{desc|ota|}}
+**** {{desc|gag|yapışmaa}}
+**** {{desc|tr|yapışmak}}
+** {{desc|slr|yaxışqusı}}
+** {{desc|tk|ýapyşmak}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|йәбешеү|t=to stick, to glue}}
+{{bottom}}
+* {{desc|trk-cmn-pro|*yạprïl-}}

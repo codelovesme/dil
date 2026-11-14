@@ -21,6 +21,7 @@ taniklar:
     not: Latin harfli yazım tengis.
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
+    atif: "Wiktionary Reconstruction:Proto-Turkic/täŋirᶻ; sayfanın kaynakları: clauson, nisanyan, rasanen"
     yuzyil: 13-15
     bicim: däñiz
     metin: Eski Anadolu Türkçesi metinleri
@@ -29,6 +30,7 @@ taniklar:
     not: 'Yazım düzeltildi (däŋiz → däñiz). Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
     denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
+    atif: "Wiktionary Reconstruction:Proto-Turkic/täŋirᶻ; sayfanın kaynakları: clauson, nisanyan, rasanen"
     yuzyil: 16-19
     bicim: deñiz
     metin: Osmanlı Türkçesi

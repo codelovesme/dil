@@ -1,0 +1,71 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{suf|trk-pro|*ï|*-gač|gloss1=vegetation, plant, bush, tree}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[tree]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|xbo-vol|*aɣaččy}}<ref>{{R:Gombocz 1912|page=35}}</ref>
+*** {{desc|cv|йывӑҫ}}
+* Common Turkic:
+{{top4}}
+* Arghu:
+** {{desc|klj|hağaç}}
+* Karluk
+** {{desc|xqa|يِغَجْ|tr=yïɣaç}}
+*** {{desc|chg|ییغاج|tr=yïɣač}}
+**** {{desc|ug|ياغاچ}}
+**** {{desc|uz|yogʻoch}}
+* Kipchak:
+** {{desc|trk-kbu|}}
+*** {{desc|ba|ағас}}
+*** {{desc|tt|агач}}
+** {{desc|trk-kcu|}}
+*** {{desc|qwm-mam|tr=yīğaç}}
+*** {{desc|crh|ağaç}}
+*** {{desc|krc|агъач}}
+*** {{desc|kdr|agač}}
+*** {{desc|kum|агъач}}
+*** {{desc|uum|агач}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|agash}}
+**** {{desc|kk|ағаш}}
+**** {{desc|nog|агаш}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жыгач}}
+**** {{desc|alt|агаш}}
+* Oghuz:
+** {{desc|trk-oat|tr=ağaç}}
+*** {{desc|az|ağac}}
+*** {{desc|gag|aaç}}
+*** {{desctree|ota|آغاج|tr=ağaç}}
+** {{desc|slr|ağaş}}
+** {{desc|tk|agaç}}
+* Siberian:
+** {{desc|otk|𐰃𐰍𐰲|ts=ïɣač}}
+** {{desc|oui|tr=ïɣač}}
+*** {{desc|ybe|yihaš}}
+** South Siberian:
+***Yenisei-Turkic
+**** {{desc|kjh|ағас}}
+**** {{desc|cjs|ағаш|tr=aɣaš}}
+***Sayan Turkic
+**** {{desc|tyv|ыяш}}
+**** {{desc|kim|аӄаш|tr=aqaş|неш|tr2=neš}}
+*** {{desc|atv|агаш|агач}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|entry=ığaç:|page=79}}
+
+{{top|trk-pro|Trees}}

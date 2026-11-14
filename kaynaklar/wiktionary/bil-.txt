@@ -1,0 +1,60 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{ety|trk-pro|id=know|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[know]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пӗл}}
+* {{desc|trk-cmn-pro|*bil-}}
+{{top4}}
+* Arghu:
+** {{desc|klj|bilmək}}
+* {{desc|trk-ogz-pro|*bil-}}
+** West Oghuz:
+*** {{desc|trk-oat|tr=bilmäk|بلمك}}
+**** {{desc|az|bilmək}}
+**** {{desc|gag|bilmää}}
+**** {{desc|ota|بلمك|tr=bilmek}}
+***** {{desc|tr|bilmek}}
+** East Oghuz:
+*** {{desc|tk|bilmek}}
+* Karluk:
+** {{desc|xqa|بِلْماكْ|tr=bilmek}}
+*** {{desc|zkh}}
+**** {{desc|chg}}
+***** {{desc|uz|bilmoq}}
+***** {{desc|ug|بىلمەك}}
+* Kipchak:
+** {{desc|qwm|بلمك|tr=bilmek}}
+*** North Kipchak:
+**** {{desc|ba|белеү}}
+**** {{desc|tt|белү}}
+*** West Kipchak:
+**** {{desc|crh|bilmek}}
+**** {{desc|uum|билʼмейе}}
+*** South Kipchak:
+**** Caspian:
+***** {{desc|kk|білу}}
+**** Kyrgyz-Kipchak:
+***** {{desc|ky|билүү}}
+***** {{desc|alt|билер}}
+* Siberian:
+** {{desc|otk|𐰋𐰃𐰠|tr=bil-}}
+** {{desc|oui|𐽼𐽶𐾁𐽹𐽰𐽷|tr=bilmek}}
+** North Siberian:
+*** {{desc|sah|бил}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|билир}}
+**** {{desc|kim|билир|tr=bilir}}, {{l|kim|биир|tr=biir}}
+*** Yenisei Turkic:
+**** {{desc|kjh|пілерге}}
+*** {{desc|atv|пилерге}}
+
+{{top|trk-pro|Thinking}}

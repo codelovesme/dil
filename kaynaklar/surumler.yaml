@@ -1176,6 +1176,367 @@ universal-dependencies:
       bayt: 297818
       sha256: c1fb9548cbba34e3dddd5ca2af7d5eb3e37f1e8a6e640e29061ff5b9e581aa12
   tarih: '2026-11-14'
+wiktionary-ana-turkce:
+- adres: en.wiktionary.org/w/index.php?title=Reconstruction:Proto-Turkic/<sayfa>&action=raw
+  dosyalar:
+    adak.txt:
+      bayt: 2766
+      sha256: 625fd41341101af3e1ad64d35e0377bffbd327901be47317ce39c012ff895c0f
+    agïr.txt:
+      bayt: 1942
+      sha256: 62b5a5f4a3223e0391c381bec55559de3ad50c67018d1d1ff9c99623c357523e
+    agïrᶻ.txt:
+      bayt: 1442
+      sha256: 4df7eb49781b46d322cd65a9c014d1de36f6672beb0abee44348c9fd70bcf1ac
+    ak-.txt:
+      bayt: 974
+      sha256: da1997e3b0c1412040cf785303f4dbeabc53e75f1e10b14d9cb31a0ca54aaecc
+    al-.txt:
+      bayt: 1508
+      sha256: 1d366f02b97b329b95efb1322181e10e93bb40c89d7bff21107c9437d0dbf3ee
+    altï.txt:
+      bayt: 1784
+      sha256: 3aa9658aa7852e8463f8358ce0093b15d9998ddd37d9fdf16bbd49952dfdc00e
+    arka.txt:
+      bayt: 1593
+      sha256: e31a6a67ca26af7fff610bc9463cfd1705b050336cac4807cd2bb969d118af6c
+    at-.txt:
+      bayt: 1474
+      sha256: 4ebaa3537a09baaefc842a5462149d4c69641d313ab41c14562817ba97c8df36
+    ata.txt:
+      bayt: 2076
+      sha256: f2ae0c92abf0faaf0c956a315ca351d10a14ae10fe3acc81a0f5f7f1a0169857
+    bagïr.txt:
+      bayt: 1395
+      sha256: 8fad7dddd749eb88cd77b6571e6f221eaf3176a88bb4768fed01f17358c7da11
+    bak-.txt:
+      bayt: 2009
+      sha256: e2a00f3c6fecf53240e598c3d125d0bc9d3b69357d367f1fdf8c7e5335c2c5f8
+    bar-.txt:
+      bayt: 1803
+      sha256: 29f4caf57624a41fbc1b373365d33792c57edffc1ac39480c143041f4d9fb78d
+    be.txt:
+      bayt: 3057
+      sha256: 9b7cddfb4b615fe6337499161a27fd4ef1643fd96f8c2ba75bb30d2aec2629ad
+    bil-.txt:
+      bayt: 1370
+      sha256: b6558de3353d4dbb2208120054b2ceab1d7180ac94900987521c0f5c9ba34491
+    bulït.txt:
+      bayt: 1488
+      sha256: 70a5f5d9020c74a7da395962d2528e16fbf9588e7e76167f22ce95190523a7da
+    burun.txt:
+      bayt: 1698
+      sha256: dc271f00f2d7a3dd8f0f886e559eba2c7d886b14df65cfe6342e074881b8ead1
+    bït.txt:
+      bayt: 1105
+      sha256: f60096cf4e5846ad2aba09eadc838a3b87064d8ef083681ee8ab91121ccd9996
+    bïŋ.txt:
+      bayt: 1393
+      sha256: da378bf2d60a629d108eaa2e3a3bf3ea020023e7db2d5b9929fcf3a45ef59566
+    bā-.txt:
+      bayt: 482
+      sha256: a2b01a9c7003a4e2813b768ad6fd00ad633c80695375373ae918ed487b4ec547
+    bāla.txt:
+      bayt: 1468
+      sha256: 8f53b733a1fa8e96fed8c1a056202905a3cccfb7e3fd3e82b6e0e6bc00fc2028
+    bālïk.txt:
+      bayt: 1862
+      sha256: 8047d85f7c01c64e18a52483be4f38188606ad943a73149e380a170cd3da4c9e
+    bār.txt:
+      bayt: 1402
+      sha256: 7a7ae3c74bc60a701aa53dbd212b59b358047c71ccabdfa9b24265b3c6ec499b
+    bēr-.txt:
+      bayt: 1601
+      sha256: 6ddbcd80b34c277fb6ee756d37f945b5f07782001fca2c0755f8101508816bf4
+    bīz.txt:
+      bayt: 1010
+      sha256: 6b1c9a9b988ea70d1b41c084916dfaef15bd07df94164bff812e463e432481d0
+    bū.txt:
+      bayt: 1632
+      sha256: addf8419102831b283db6b05831f1d9fe939c85ed16d144fda982fda4ef309e7
+    būŕ.txt:
+      bayt: 1372
+      sha256: 423d6f3c376a5e9b629b99056ee8b943dd9852f906e7efa9d0885962e0046cc0
+    isig.txt:
+      bayt: 1203
+      sha256: fd20708e22ba178d9b20349912f440bc4742c77e13ced0ae2715aa0480fa53b0
+    it-.txt:
+      bayt: 1226
+      sha256: afd990c1ce2f5ccc0f640f622dbd9bab190b25689ddf5088460520a8f15a1aaa
+    ič-.txt:
+      bayt: 1237
+      sha256: 07adb7a2246d6ed3bad124fd5bb385440c3eeb839123e76247f83da8b44d18ff
+    kalïŋ.txt:
+      bayt: 1265
+      sha256: 786335071455d0d1a767df679805c5028ca1383a54d5212823f62661ace1f4af
+    kara.txt:
+      bayt: 2310
+      sha256: a440ca250b03fb35a12bf287910df02292abb1670e385be79db9df6df0bc2346
+    karïn.txt:
+      bayt: 1604
+      sha256: ee4ee51103f60d173211b40b4b2884d038ebe7c05667da3dadf4af672f6ed72b
+    kel-.txt:
+      bayt: 1595
+      sha256: e5c4f40366d0d282acbbf822ca2672bcae47dc4778642bb28837196234761323
+    kiši.txt:
+      bayt: 1478
+      sha256: e7d28535134743848aba8b68657594dc82ecd485233a4e70c749a95caaceb92a
+    kudruk.txt:
+      bayt: 2482
+      sha256: 363adfd70ed503644c28ac7da41421dc8b58d6176b04cd03867928e604e20555
+    kulkak.txt:
+      bayt: 1804
+      sha256: ab55a58b62e697e2653e29561d3b3582b4f60bda4a290d0d493f2eb464428b6a
+    kum.txt:
+      bayt: 1455
+      sha256: 7a00eaa0f83d6a41ffa5144e21a35a8b52d1a91110f664dfd05ba79e6ff6b03c
+    kuš.txt:
+      bayt: 1313
+      sha256: aa9ccaae9146d1bb1f593704369cdb8ccf7b13cc7868fe24f9442724da55a0a9
+    käm.txt:
+      bayt: 2398
+      sha256: c543ddea22c927a9588009dfd497fed957c51bb4ae0b4f5462894da4f371b26b
+    kïrk.txt:
+      bayt: 1166
+      sha256: a51524f8e60b3bdab996a9f80dd1ab6698fad376cc8945c43adbdb2c28ef7978
+    kïrᶻïl.txt:
+      bayt: 1847
+      sha256: 86f3de65df6e3ca12520f26e12af47acc71fd0b932a2071eaa8907361c09289f
+    köp.txt:
+      bayt: 1101
+      sha256: 34ec6af5abba82a6aa081b67c75d8530804e78990a0a3c3c01ed23a50ad0e5ed
+    kör-.txt:
+      bayt: 1580
+      sha256: 2303818de1456b81f31b50418d36f58cf5f6e1f66d3c6fdd69fe0ac1b66f8d88
+    körᶻ.txt:
+      bayt: 4842
+      sha256: 8730c9ccd4e3da231ab5a76e1ca21433792b95b61e6664b4335b7764a50cd379
+    kül-.txt:
+      bayt: 2571
+      sha256: 072a635a2951d378e9ff64612640611abf0459ea2443a55e28f4f8e61e841f1b
+    kül.txt:
+      bayt: 1037
+      sha256: 221c30175dff17469caa5ba2f170f4facc7285d5a32d0256bfe33742c1f4142d
+    kün.txt:
+      bayt: 1757
+      sha256: cd8347dec8838754e6acec53cfbf6eb0e58065517b2d435e50c9ded6ef309a6a
+    kān.txt:
+      bayt: 2121
+      sha256: 891de1f052a81af558d8d7047e013daeef6165b5f79b81e4329976c54390b7f9
+    kār.txt:
+      bayt: 1091
+      sha256: ff994147052b29acac63ee94ad48ee44888684b6ffac56afec086aee63b89900
+    kūrt.txt:
+      bayt: 1636
+      sha256: 445be24ccd4b429103fea328d81aa5abc6604caef1cf3de9be0ec3fdd72956b0
+    kȫk.txt:
+      bayt: 2127
+      sha256: a015c641c9a0b516dfc52fde1dfd8ddad164a3f6ccb2fcace4071dd9b99c06d6
+    kȫl.txt:
+      bayt: 2399
+      sha256: 848c39e2d91236e5cd20827c9abd538cbb2514caf45c28dec20251c613a0703a
+    olur-.txt:
+      bayt: 834
+      sha256: 56fd54d5e141d076a6f97408982fb3caaa7da8397191c93258825050fb7646a1
+    otuŕ.txt:
+      bayt: 1693
+      sha256: cef25044dd4a29455bfd0412acd4d984b738cf012c2a065c35b5381b572a4da2
+    sač.txt:
+      bayt: 1388
+      sha256: eb729afb7ccc324aa1da407576df44581af651a87d7d155db9cb468d2eec46d4
+    sogïk.txt:
+      bayt: 1179
+      sha256: d178cf5fe9ed2e2daaceb35bc1c2963204267f10b1243610ed0277108d089a9e
+    sub.txt:
+      bayt: 2379
+      sha256: 0261932f106046bdb336e52b60530aeba5f791fbbc03d3084b3677d68a1ae4c8
+    säkirᶻ.txt:
+      bayt: 1535
+      sha256: 33617e39aebe4b10c685d1b49be49245470e81e4a749ffdca980153d36e79a37
+    süŋük.txt:
+      bayt: 2259
+      sha256: 499ffea3bab2f74d466ace7927b80ab3c91f5c80b3c0402fe56bf90e499ef55f
+    sārïg.txt:
+      bayt: 3483
+      sha256: 5eb77058feac427e729d648a63565146a24b575d85c58a0a0dc25e53bc139362
+    tap-.txt:
+      bayt: 2590
+      sha256: 17fa5e1f4b3099238da5f6577c995ade7b31a80f811f8834aa01febfedcbd152
+    teri.txt:
+      bayt: 1582
+      sha256: d403cc4867e3a317ce20647c1495cd5e29c539941ef8af9d0bedb88afd30a53a
+    til.txt:
+      bayt: 1174
+      sha256: 7b0d04e5717dce7bf5549a8a45b4a686aadcc86efeebffef33d9ae05e10a65ef
+    tokurᶻ.txt:
+      bayt: 1483
+      sha256: 68d88d5ca0915152c09ec611374c3ace125556375c3cac8c90c7d3546b81382f
+    toŋ-.txt:
+      bayt: 1861
+      sha256: 180dd7bdab938a6354f1b23cb81ed3b668904fc3bbc500f58818fc016478339c
+    tur-.txt:
+      bayt: 1526
+      sha256: 3236297f5d863da426f97361aea8a9459d0052052689389790dc7d79cb46fcd5
+    tut-.txt:
+      bayt: 1464
+      sha256: 2445d50b25f2a4f5c36bf83e10962c6e8b2d82c56a738bb0332f807bf4ac8521
+    täriŋ.txt:
+      bayt: 1178
+      sha256: 040f83513a9c563f0557ebc4bb9b89abf7394260b721868b05e44df8876e7d87
+    täŋirᶻ.txt:
+      bayt: 1343
+      sha256: 8972bf25fe42d40bdf9b30c517dc0c94edb804eb411a9c514366aa4851e881ab
+    tütün.txt:
+      bayt: 1369
+      sha256: 9b4b0da2cc156e75dc0a4304a1c89c1762481a7fc091b1d32a4606c645e92a4a
+    tāg.txt:
+      bayt: 1545
+      sha256: d1e3f61c2b00205edfd00d90478c8e4990a9d8566dea929dcda61e4a6d5625cb
+    tālᶴ.txt:
+      bayt: 6989
+      sha256: f4d80efe37d0dcc0275c255c9529b038962eebc59473f2245c48887185b6a4a6
+    tīlᶴ.txt:
+      bayt: 1895
+      sha256: 17bbd9552e60bb9d896f1169725af3dac5bc62a7933aacfb06ae034c79c8af18
+    tīrᶻ.txt:
+      bayt: 969
+      sha256: da7b0a089b36215c47fb851fc4cc924ca49a4e373b41a75faaafccc36f58606e
+    tūrᶻ.txt:
+      bayt: 1917
+      sha256: 1229be2a0d11cfc22c46f00280581d7081f6ea2185ee2513f0833d24686682c7
+    ur-.txt:
+      bayt: 1125
+      sha256: 14aeb92f71e9eb285350b95f5e66b15049cba59712bc1f0b97b2e7967f76fc97
+    urug.txt:
+      bayt: 1432
+      sha256: 7958fe08362df625fe393b72758b9e2dd00b9e65377a90f79bc7b6aa7b8c1bfc
+    uč-.txt:
+      bayt: 1322
+      sha256: b25e08a46e2df949c0312a440528419a257f4ea2bbdc31f1d022d55fddf11642
+    yagmur.txt:
+      bayt: 1928
+      sha256: 20015b18c9661d1c3ea334f8e3ee689a15da7a8529c032f5a970c5b14f923a2f
+    yakïn.txt:
+      bayt: 757
+      sha256: c43e89d55f1eb762cc066264d1f9b04a44a03cd24367a5eba8fc4c0a082ebcdb
+    yakšï.txt:
+      bayt: 2053
+      sha256: cb99078fa5805a973cc17ff36971b715ecd81d928904505d4126d13d01f9c281
+    yalga-.txt:
+      bayt: 2136
+      sha256: b70867f6ada4510f908aa02227a1a1103c5c39e035fe4d02bd092d20e1ffb3b4
+    yaman.txt:
+      bayt: 1224
+      sha256: 9aa8cfe8ffd52831a5eaf8f3d369e8ba15f8c0bb03d0f8d2e62c6b3227d34341
+    yan-.txt:
+      bayt: 2547
+      sha256: c417374e3c305b8126a16c0af406075f22bd3e73604bda2cca6147c8169d06e5
+    yap-.txt:
+      bayt: 1965
+      sha256: 3b7d6589d3244eb7b21116e4cba8fe50ccd951ea0dab49219308ac80e31bcde5
+    yarïn.txt:
+      bayt: 1425
+      sha256: 4a6991cf36be79a57d852247000d08bf1895db61e59f48bf71e271ce8650d8d4
+    yat-.txt:
+      bayt: 1113
+      sha256: 5a3fb892f145c4af2618a61fe0e3d40f03c3ab7c6da4dcb18d64f0285da4c5f5
+    yaŋï.txt:
+      bayt: 1811
+      sha256: ab29634378c09c904a9b66709e4e92d81bb5a87fcfeb5b1eeeb22cafedb2778e
+    yegirmi.txt:
+      bayt: 1878
+      sha256: 9cecd209dece9905d6addd198b50340ceba14c94aca7dd104d87dc73e69eddeb
+    yel.txt:
+      bayt: 2367
+      sha256: 827df0710c52c90ba8855ce30ae6f6d3742d3ce57341f2f5499617fc8cf1741d
+    yer.txt:
+      bayt: 1702
+      sha256: faafd5e8553ca254a7a537285ac3f05235da9702ef56931356572283d783cfe0
+    yorï-.txt:
+      bayt: 1244
+      sha256: 4ae1f38f826c5a74bd9b51f38d52f58cd72ee4563e7c1d238a46e76dd5ffffac
+    yï_lan.txt:
+      bayt: 1373
+      sha256: fe797adf9a4e27865d9044e7704fedd6d7994d23c69adf4a3e2c8ca31968c512
+    yïl.txt:
+      bayt: 1551
+      sha256: b36d9afa6b5e6c26f5994b0867e6a09385480087b975e7dba4c5b1a32eecb355
+    yügür-.txt:
+      bayt: 1382
+      sha256: b14287253f88c475f20054c1e1e3538d833295af3f29b1de57128a35aa557e98
+    yüräk.txt:
+      bayt: 1583
+      sha256: 28e050deb0a884759f5c42ef443fb8af10b96c666d5c5defb058466a9eaf73c4
+    yāg.txt:
+      bayt: 2085
+      sha256: ab66ab0d45858d4cbbbeb46a5d26f07abeb3157395bb52faccdbb1d2c250ed66
+    yālᶴïl.txt:
+      bayt: 778
+      sha256: cc3608d5ee9da1f5dd4c5727a42a2cc4e8330cd62d5eb4accb07099d6ab8b914
+    yē-.txt:
+      bayt: 1348
+      sha256: 6e3d8f72ae91af747d50a7b8770331dbba5b3dafd4dad29a4f92aae34b4048fe
+    yōk.txt:
+      bayt: 1938
+      sha256: ad9d657e0b3c34b28d89f523ff83019244a99ed89a909abc8ad6153963645a1d
+    yū-.txt:
+      bayt: 1171
+      sha256: 97907a12552e79214b0e19f9b7cc8851d40bc58580c3a8951829cede457e4a9e
+    yǖrᶻ.txt:
+      bayt: 4098
+      sha256: fc2e030b97f82002b035b5f64573a8255c5f43209a9d4a6cad72e598b0f2cfb2
+    yẹt_t_i.txt:
+      bayt: 2796
+      sha256: 30d40de2f8fec4c82fe9337c378ab03840933fbb35f160a5cc358fcf9eace2ae
+    äb.txt:
+      bayt: 2046
+      sha256: c8f10bcf3f472ae56b4011689dc1292fd6f4454d88cfbe1a178229b5410af941
+    ägin.txt:
+      bayt: 1589
+      sha256: 7c39a25fede24cd6f6986565a5b8c89796ad9cc98e3badec283d32aeca17ece3
+    ällig.txt:
+      bayt: 1677
+      sha256: acc4f68c69086aa5f1f9967f1657139196520613ea31410733a3b56fbbd1e901
+    ï_t.txt:
+      bayt: 1781
+      sha256: 9ef670aaf3a462896ef539dee79f49b14e6259eeafeacefc71e37c56b46267c0
+    ïgač.txt:
+      bayt: 1581
+      sha256: 9040ca38c0ad54aa1a277dfd652c9f67ac64526765c704d3435050eec320df7c
+    ïrak.txt:
+      bayt: 2290
+      sha256: 817cab5b5224bf3f3ba43e46923d8ef0931f751ac0257ed07034fcffc6b01212
+    ïsïr-.txt:
+      bayt: 440
+      sha256: 1479793ff3d2132f03dfc650d354d3d1cf46387a59bcf06c1efd87ba84befc8b
+    öl-.txt:
+      bayt: 1604
+      sha256: 76106685f18c83ee14d193f4dadafec8cbcf83b9e8adfe06d81023dd5cfba557
+    ür-.txt:
+      bayt: 1502
+      sha256: ab84fd7ca32cc7eb5fbf86be7ebc6fbb9d1f526761acca70bef8fc59c793a14a
+    āk.txt:
+      bayt: 1419
+      sha256: 2adb321bee0d189d7cc82a8e26568a31b78d1e6867537a63a623bd15695cf3f5
+    āt.txt:
+      bayt: 1446
+      sha256: a299a3c489833671ebb14d1de969fbe4cb59bcb98e8aee9c66cc71b26d41a774
+    āy-.txt:
+      bayt: 1516
+      sha256: 17f9367c5e91a4f6cf47db1da47cb105ac77d0f92dbcd553762e6984bccbb892
+    āy.txt:
+      bayt: 1517
+      sha256: f9f2a5a5b0b04a6c7ce8c799dfc3a92963fc5954e859a063e8b79a8a99ba57f7
+    ōn.txt:
+      bayt: 1280
+      sha256: 9f33a4127063a29b8e5162442c5e4dbc66067b1425e6f161425b9a5a1d1539b4
+    ōt.txt:
+      bayt: 1623
+      sha256: 0345d33c9ad4df6e33c46f0d80e8f458cb00de287769925facc88dfbad4f669e
+    ōyna-.txt:
+      bayt: 1581
+      sha256: bd1c4e16f1a527ae06920a2216cd7576c325ad329be1191c047ee60f04f089a2
+  tarih: '2026-11-14'
 wilkens-eski-uygurca:
 - adres: univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-481-9/Wilkens_handwoerterbuch.pdf
   dosyalar:

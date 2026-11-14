@@ -1,0 +1,63 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{ety|trk-pro|:af|*ïra-<aftype:root><t:to be far>|*-k}}
+Derived from {{m|trk-pro|*ïra-||to be far, draw away}} + {{m|trk-pro|*-k|pos=deverbal adjective suffix}}.<ref>{{R:trk:Clauson|entry=ırā:k|page=214}}</ref> The initial {{IPAchar|/j-/}} found in certain descendants (e.g. Karakhanid, Kipchak) is secondary and prosthetic, as shown by the absence of {{IPAchar|/j-/}} in Old Turkic and the Oghuz and Siberian branches.<ref>{{R:trk:Clauson|entry=ırā:k|page=214}}</ref>
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[far]], [[distant]], [[remote]]
+
+====Descendants====
+* Common Turkic:
+** Oghuz:
+*** {{desc|trk-oat|ایراق|tr=ırak}}
+**** {{desc|az|iraq}}
+**** {{desc|gag|ırak}}
+**** {{desc|ota|ایراق|اراق|tr1=ırak|tr2=ırak}}
+***** {{desc|tr|ırak}}
+*** {{desc|tk|yrak|qq=archaic}}
+*** {{desc|slr|yırax}}
+** Karluk:
+*** {{desc|xqa|يراق|اراق|tr1=yïrāq|tr2=ïrāq}}
+*** Middle Turkic:
+**** {{desc|chg|يراق|ايراق|tr1=yïraq|tr2=ïraq}}
+*** {{desc|uz|yiroq}}
+*** {{desc|ug|يىراق}}
+** Kipchak:
+*** West Kipchak:
+**** {{desc|crh|yıraq}}
+**** {{desc|kum|йыракъ}}
+**** {{desc|krc|жыракъ}}
+*** North Kipchak:
+**** {{desc|ba|йыраҡ}}
+**** {{desc|tt|ерак}}
+*** South Kipchak:
+**** {{desc|kk|жырақ}}
+**** {{desc|kaa|ıraq|жырақ}}
+**** {{desc|nog|жырак}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|ыраак}}
+**** {{desc|alt|ыраак|alt2=рак}}
+** Siberian:
+*** Old Turkic:
+**** {{desc|otk-ork|𐰃𐰺𐰴|tr=ïraq}}
+**** {{desc|oui|𐽰𐽶𐽾𐽲|tr=ïraq}}
+*** {{desc|ybe|jiraq}}
+*** North Siberian:
+**** {{desc|dlg|ыраак}}
+**** {{desc|sah|ыраах}}
+*** South Siberian:
+**** {{desc|atv|ырак}}
+**** {{desc|tyv|ырак}}
+**** {{desc|kim|ыrak}}
+**** {{desc|kjh|ырах}}
+** Arghu:
+*** {{desc|klj|hïrâq}}
+
+===References===
+<references/>
+* Sevortyan, E. V. (1989) “ıra- / ırak”, in Etimologičeskij slovarʹ tjurkskix jazykov [Etymological Dictionary of Turkic Languages] (in Russian), volume 4, Moscow: Nauka, pages 286–287
+* Starostin, Sergei, Dybo, Anna, Mudrak, Oleg (2003) “*p῾ìrá (*ïra-k)”, in Etymological Dictionary of the Altaic Languages (Handbuch der Orientalistik; VIII.8), volume 2, Leiden, Boston, Köln: Brill, page 1144

@@ -1,0 +1,71 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[mountain]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* {{desc|trk-ogr|'''*taɣ'''}}<ref name="Agyagasi">{{R:cv:Agyagasi:2019|page=240}}</ref>
+** {{desc|cv-old|*tåw}}<ref name="Agyagasi" />
+*** Earlier {{desc|cv-mid|*tai̯}}<ref name="Agyagasi" />
+**** Late {{desc|cv-mid|*tu}}<ref name="Agyagasi" />
+***** {{desc|cv|ту}}
+* {{desc|trk-cmn-pro|*tāg}}
+{{top3}}
+* Arghu:
+** {{desc|klj|tâğ}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|داغ|tr=dağ}}
+**** {{desc|az|dağ}}
+*** {{desc|gag|daa}}
+*** {{desctree|ota|داغ|tr=dağ}}
+** {{desc|tk|dag}}
+*** {{desc|haz|دَاغ|bor=1}}
+** {{desc|slr|dağ}}
+* Karluk:
+** {{desc|chg|تاغ}}
+*** {{desc|uz|togʻ}}
+*** {{desc|ug|تاغ}}
+* Kipchak:
+** Kipchak-Bulgar:
+*** {{desc|tt|тау}}
+*** {{desc|ba|тау}}
+** Kipchak-Cuman:
+*** {{desc|crh|dağ}}
+*** {{desc|krc|тау}}
+*** {{desc|kdr|тав|tav}}
+*** {{desc|kum|тав}}
+*** {{desc|jct|дагъ}}
+** Kipchak-Nogai:
+*** {{desc|kk|тау}}
+*** {{desc|kaa|taw}}
+*** {{desc|nog|тав}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|тоо}}
+*** {{desc|alt|туу}}
+* Siberian:
+** North Siberian:
+*** {{desc|sah|тыа}}
+*** {{desc|dlg|тыа}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|дағ|tr=dağ}}
+**** {{desc|tyv|даг}}
+*** Yenisei Turkic:
+**** {{desc|cjs|тағ|tr=tağ}}
+**** {{desc|kjh|тағ}}
+**** {{desc|ybe|tağ}}
+*** {{desc|atv|таг}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=463}}
+
+{{top|trk-pro|Landforms}}

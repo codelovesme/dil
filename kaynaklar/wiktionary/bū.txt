@@ -1,0 +1,75 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Pronoun===
+{{head|trk-pro|pronoun|cat2=demonstrative pronouns}}
+
+# {{lb|trk-pro|Common Turkic}} [[this]]
+
+====Declension====
+{{trk-pro-decl-pron|*bū|*būnï|*būnïŋ|*būŋa|*būnta|*būntan|*būŋaru|*būnïn|*būnča|*būnlayu|*būnlugu}}
+
+====Descendants====
+* {{desc|trk-cmn-pro|*bū}}
+{{top3}}
+* Arghu:
+** {{desc|klj|bô}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|tr=bu}}
+**** {{desc|az|bu}}
+**** {{desc|ota|بو|tr=bu}}
+***** {{desc|tr|bu}}
+***** {{desc|gag|bu}}
+** Oghuz-Uyghur:
+*** {{desc|slr|bu}}
+** East Oghuz:
+*** {{desc|tk|bu}}
+* Karluk:
+** {{desc|xqa|tr=bū}}
+*** {{desc|chg|بو|tr=bu|مو|tr2=mu, mo|q2=Taranchi}}
+**** {{desc|ug|بۇ}}
+**** {{desc|uz|bu}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|был}}
+*** {{desc|tt|бу}}
+** West Kipchak:
+*** Crimeaic Kipchak:
+**** {{desc|crh|bo}}
+**** {{desc|crh|бу|tr=bu}}
+*** {{desc|krc|бу}}
+*** {{desc|kdr|бу|tr=bu}}
+*** {{desc|kum|бу}}
+** South Kipchak:
+*** {{desc|kaa|bul}}
+*** {{desc|kk|бұл}}
+*** {{desc|nog|бу}}
+** East Kipchak:
+*** {{desc|ky|бул}}
+*** {{desc|alt|бу}}
+* Siberian:
+** {{desc|otk|𐰉𐰆|tr=bu}}
+*** {{desc|oui|bw|tr=bu}}
+**** {{desc|ybe|pu}}
+** North Siberian:
+*** {{desc|dlg|бу}}
+*** {{desc|sah|бу}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|бо}}
+**** {{desc|tyv|бо}}
+*** Yeniseian Turkic:
+**** {{desc|kjh|пу}}
+**** {{desc|cjs|пу}}
+*** {{desc|atv|бо|по|пу}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=292|entry=bu:}}
+* {{R:xqa:DLT}}
+* {{R:trk:ESTJa|vol=II|page=225}}
+* {{R:tr:Nishanyan|bu}}
+* {{R:trk:Rasanen|page=85}}
+* {{R:trk:Tekin:1995|page=177}}

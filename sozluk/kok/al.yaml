@@ -28,6 +28,7 @@ taniklar:
     atif: clauson1972
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: eski-anadolu
+    atif: "Wiktionary Reconstruction:Proto-Turkic/al-; sayfanın kaynakları: yok"
     yuzyil: 13-15
     bicim: al
     metin: Eski Anadolu Türkçesi metinleri
@@ -36,6 +37,7 @@ taniklar:
     not: 'Wiktionary''de mastar biçimiyle almaq. Kısmen doğrulandı: biçim Arap harfli yazıdan Wiktionary editörünün okuması; yazı ünlüleri göstermediği için ünlüler tahmindir. Tarama Sözlüğü gibi bir kaynakla denetlenmeli.'
     denetim: {durum: kismen, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
+    atif: "Wiktionary Reconstruction:Proto-Turkic/al-; sayfanın kaynakları: yok"
     yuzyil: 16-19
     bicim: al
     metin: Osmanlı Türkçesi

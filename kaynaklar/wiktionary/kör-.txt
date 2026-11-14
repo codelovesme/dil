@@ -1,0 +1,71 @@
+{{reconstructed}}
+==Proto-Turkic==
+{{ety|trk-pro|pos=root}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{tlb|trk-pro|transitive}} to [[see]]
+
+====Derived terms====
+{{col|trk-pro|*körᶻ}}
+
+====Descendants====
+* {{desc|trk-ogr}}
+** {{desc|cv|кур}}
+* {{desc|trk-cmn-pro}}
+{{top3}}
+* {{desc|klj-arg}}
+** {{desc|klj|körmək}}
+* {{desc|trk-ogz}}
+** {{desc|trk-oat| كُورْمَكْ|tr=görmäk}}
+*** {{desc|az|görmək}}
+*** {{desc|gag|görmää}}
+*** {{desc|ota|كورمك|tr=görmek}}
+**** {{desc|tr|görmek}}
+** {{desc|slr|görgüsi}}
+** East Oghuz:
+*** {{desc|kmz||tr=gẹrmek}}
+*** {{desc|tk|görmek}}
+* {{desc|trk-kip}}
+** {{desc|trk-kbu}}
+*** {{desc|ba|күреү}}
+*** {{desc|tt|күрү}}
+** {{desc|trk-kcu}}
+*** {{desc|crh|körmek}}
+*** {{desc|krc|кёр-}}
+*** {{desc|jct||tr=kor-}}
+*** {{desc|kum|гёрмек}}
+*** {{desc|uum||tr=kör-|tr2=gör-}}
+** {{desc|trk-kno}}
+*** {{desc|kaa|körüw}}
+*** {{desc|kk|көру}}
+*** {{desc|nog|коьруьв}}
+*** {{desc|sty|күр|tr=kür}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|көрүү}}
+*** {{desc|alt|кӧрӧр}}
+* Karluk:
+** {{desc|xqa}}
+*** {{desctree|chg|کورماک|tr=körmäk}}
+* {{desc|trk-sib}}
+** {{desc|otk|tr=kör-}}
+** {{desc|oui|tr=kör-}}
+*** {{desc|ybe|kör}}
+** {{desc|trk-nsb}}
+*** {{desc|sah|көр}}
+*** {{desc|dlg|көр}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|tyv|көөр}}
+**** {{desc|kim|tr=kör}}
+*** Yenisei:
+**** {{desc|kjh|кӧрерге}}
+*** {{desc|atv|кӧрерге}}
+{{bottom}}
+
+===Further reading===
+* {{R:trk:Clauson|page=736|kör-}}
+* {{R:tr:Nişanyan|görmek}}
+
+{{top|trk-pro|Vision}}

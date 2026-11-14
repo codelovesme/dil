@@ -1,0 +1,77 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[earth]], [[ground]], [[land]]
+#: {{ant|trk-pro|*kȫk|t=sky, firmament}}
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Alternative reconstructions====
+* {{alter|trk-pro|*yer}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫӗр}}
+** {{desc|hu|szer|bor=1}}
+* Common Turkic:
+{{top3}}
+* {{desc|xqa}}
+** {{desc|ug|يەر}}
+** {{desc|uz|yer}}
+* {{desc|qwm|tr=yer}}<ref>{{R:qwm:Toparlı|page=319}}</ref>
+** East Kipchak:
+*** {{desc|ky|жер}}
+*** {{desc|alt|-}}
+***: Altai: {{l|alt|јер}}
+***: Teleut: {{l|alt|јер}}
+** North Kipchak:
+*** {{desc|ba|ер}}
+*** {{desc|tt|җир|cir}}
+** South Kipchak:
+*** {{desc|kaa|jer}}
+*** {{desc|kk|жер}}
+*** {{desc|nog|ер}}
+** West Kipchak:
+*** {{desc|kdr|йэр}}
+*** Kumyk-Karachay:
+**** {{desc|krc|джер|tr=}}
+**** {{desc|kum|ер|tr=}}
+*** Crimean Tatar-Krymchak:
+**** {{desc|jct|йер}}
+**** {{desc|crh|yer}}
+* Arghu
+** {{desc|klj|yer}}
+* Oghuz:
+** {{desctree|trk-oat|یر}}
+** Turkmen-Khorasan:
+*** {{desc|tk|ýer}}
+*** {{desc|slr|yer}}
+* {{desc|trk-sib}}
+** {{desc|otk|𐰘𐰃𐰼|ts=yér, yir}}
+** {{desc|oui|𐽶𐽶𐽾|ts=yér}}
+*** {{desc|ybe|jer|tr=yer}}
+** Altai-Yenisei Turkic:
+*** {{desc|atv|-}}
+***: Chelkan: {{l|atv|тьер}}, {{l|atv|йер}}
+***: Kumandy: {{l|atv|чер}}, {{l|atv|тьер}}
+***: Tuba: {{l|atv|јер}}, {{l|atv|чер}}
+*** Yenisei Turkic:
+**** {{desc|kjh|чир}}
+**** {{desc|cjs|чер|tr=čer}}
+** Sayan Turkic:
+*** Soyot: {{l|und|чер}}, {{l|und|ҷер}}
+*** {{desc|kim|чер}}
+*** {{desc|tyv|чер}}
+** Yakut-Dolgan:
+*** {{desc|dlg|һир}}
+*** {{desc|sah|сир}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+{{top|trk-pro|Landforms}}

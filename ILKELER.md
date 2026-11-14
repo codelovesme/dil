@@ -482,7 +482,11 @@ Kurallar:
   - `dogrulanmadi` ⚠: kaynak yok.
 
   Bağımsızlık sayılırken aynı kaynaktan aktarılan eserler bir sayılır (ör. DLT'yi
-  Clauson'dan okuduysak `dlt; clauson` tek kaynaktır). Alan
+  Clauson'dan okuduysak `dlt; clauson` tek kaynaktır). **Wiktionary bir aracıdır:**
+  tanığın atfına okunan sayfa ve o sayfanın gösterdiği kaynaklar yazılır
+  ("Wiktionary <sayfa>; sayfanın kaynakları: clauson, estja"); bu kaynaklardan biri
+  tanıkta zaten varsa Wiktionary ayrıca sayılmaz. Arap harfli Eski Anadolu ve
+  Osmanlıca okumaları (ünlüler editörün tahmini) `kismen` sayılır. Alan
   `python3 araclar/sozluk.py --denetim-doldur` ile var olan alanlardan kurallarla
   doldurulur; tanık değişirse `--yeniden` ile yeniden hesaplanır. Ne zaman ve hangi
   komutla denetlendiği tutulmaz; yöntem bu bölümde yazılıdır.
@@ -498,8 +502,10 @@ Kurallar:
     (dosya, derlem, ASJP dil kaydı, Savelyev'in özgün sözlük künyesi) yazar;
   - kaynak sözlüğünde `surum` alanı kullanılan sürümü, `kaynaklar/surumler.yaml`
     indirilen her dosyanın tarihini ve SHA-256 parmak izini tutar
-    (`araclar/surum_kaydet.py`). Canlı okunan sayfalar (Wiktionary) için parmak
-    izi yoktur; bu `surum` alanında yazar;
+    (`araclar/surum_kaydet.py`). Okunan Wiktionary sayfaları da
+    `kaynaklar/wiktionary/` altında saklanır; kök→sayfa eşlemesi ve sayfaların
+    kaynakları `kaynaklar/wiktionary-sayfalari.yaml`'dadır. Sayfası bulunamayan
+    köklerin tanıkları canlı okumadır; bu `surum` alanında yazar;
   - `python3 araclar/sozluk.py --etki KAYNAK [--atif DESEN]` o kaynağa (ya da
     atfı desene uyan kısmına) dayanan tanıkları ve kaynak çıkarılırsa durumu
     düşecek olanları listeler. Örnek: `--etki apertium --atif apertium-aze`,

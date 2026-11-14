@@ -1,0 +1,72 @@
+{{reconstruction}}
+==Proto-Turkic==
+
+===Etymology===
+It has been suggested that it may be derived from {{m|trk-pro|*yalïg}} (itself possibly derived from an unattested {{m|trk-pro|*yal-|t=to lick}})<ref name="doerfer">{{R:TMN|pages=186-187|vol=IV|section=1881}}</ref> if its earliest meaning was "tongue", compare {{noncog|xqa|tr=yalığ|t=a cock's comb; mane}}<ref>{{R:xqa:DLT|page=735|vol=IV}}</ref>.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[lick]]
+
+====Conjugation====
+{{trk-cmn-conj-v|yālga|a}}
+
+====Derived terms====
+* {{desc|trk-pro|*yalgan|t=lie|nolang=1|der=1}}
+* {{desc|trk-pro|*yalbar-|t=to beg|nolang=1|der=1|unc=1}}
+* {{desc|trk-pro|*yalbač|t=prophet|nolang=1|der=1|unc=1}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫула}}
+*** {{desc|cv-ana|ҫула}}
+**** {{desc|cv-vir|ҫола}}
+* {{desc|xgn-pro|*dolïxa-|t=to lick|bor=1}}<ref name="doerfer"/><ref>{{R:Nugteren 2011|page=317}}</ref><ref>{{R:xgn:ESMJa|page=189|vol=I}}</ref>
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|yalğamaq}}
+* Oghuz:
+** {{desc|az|yalamaq}}
+** {{desc|ota|یالامق|tr=yalamak}}
+*** {{desc|tr|yalamak}}
+** {{desc|tk|ýalamak}}
+* Karluk:
+** {{desc|xqa|tr=yalɣāmāk}}
+*** {{desc|uz|yalamoq}}
+*** {{desc|ug|يالىماق}}
+* Kipchak:
+** Western Kipchak
+*** {{desc|crh|calamaq|yalamaq}}
+*** {{desc|kum|яламакъ}}
+** Northern Kipchak
+*** {{desc|ba|ялау}}
+*** {{desc|tt|yalaw}}
+** Kipchak-Nogai
+*** {{desc|kk|жалау}}
+** Eastern Kipchak
+*** {{desc|ky|жалоо}}
+*** {{desc|alt|јалаар}}
+* Siberian:
+** {{desc|otk|𐰖𐰞𐰍𐰀|tr=yalɣa-}}
+*** {{desc|oui|yʾlxʾ|tr=yalɣa-}}
+**** {{desc|ybe|jalɣa-}}
+** North Siberian:
+*** {{desc|dlg||tr=һалаа}}
+*** {{desc|sah|салаа}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|чылғаар}}
+**** {{desc|tyv|чылгаар}}
+*** Yeniseian Turkic:
+** {{desc|kjh|чалғирға}}
+* {{desc|xgn-pro|*jalgï-|t=to swallow|bor=1}}<ref name="doerfer"/>
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=926|entry=yalğa:-}}
+* {{R:tr:Nishanyan|yalamak}}
+* {{R:trk:Rasanen|page=182}}
+* {{R:trk:ESTJa|vol=IV|pages=87-89}}

@@ -1,0 +1,71 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{tlb|trk-pro|Common Turkic}} [[skin]], [[leather]], [[hide]]
+#: {{syn|trk-pro|*kunʸāk|*käš|*algï}}
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Descendants====
+{{top3}}
+* Arghu:
+** {{desc|klj|təri}}
+* Oghuz:
+** {{desc|trk-oat|دری|tr=däri|دیری|tr2=deri}}
+*** {{desc|az|dəri}}
+*** {{desc|ota|دری|tr=deri}}
+**** {{desc|tr|deri}}
+**** {{desc|gag|deri}}
+** {{desc|tk|deri}}
+** {{desc|slr|tiri}}
+* Karluk:
+** {{desc|xqa||tr=teri}}
+*** {{desc|chg|تیری|tr=teri}}
+**** {{desc|uz|teri}}
+**** {{desc|ug|تېرە}}
+* Kipchak:
+** {{desc|qwm|tr=teri}}
+** North Kipchak:
+*** {{desc|ba|тире}}
+*** {{desc|tt|тире}}
+**** {{desc|cv|тир|bor=1}}
+** West Kipchak:
+*** {{desc|crh|teri}}
+*** {{desc|kum|тери}}
+*** {{desc|krc|тери}}
+*** {{desc|kdr|тери|тэри}}
+** East Kipchak:
+*** {{desc|ky|тери}}
+*** {{desc|alt|тере}}
+** South Kipchak:
+*** {{desc|kaa|teri}}
+*** {{desc|kk|тері}}
+*** {{desc|nog|тери}}
+* Siberian:
+** {{desc|oui|tʾry|tr=teri}}
+*** {{desc|ybe||tr=tʰer}}
+** North Siberian:
+*** {{desc|dlg|тирии|tr=tirii}}
+*** {{desc|sah|тирии|тэрии}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|}}
+***** Tuba-Kizhi: {{m|kim|тере|tr=tere}}
+***** Kumandy-Kizhi: {{m|kim|тере|tr=tere}}
+*** Yenisei:
+**** {{desc|kjh|теер}}
+**** {{desc|cjs|тере|tr=tere}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:trk:Clauson|page=531|entry=teri: (d-)}}
+* {{R:tr:Eren|1=deri|page=109}}
+* {{R:trk:Rasanen|1=täri|page=475}}
+
+{{top|trk-pro|Anatomy}}

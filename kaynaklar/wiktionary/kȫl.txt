@@ -1,0 +1,72 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+According to Bonmann and Fries et al. (2025), {{bor+|trk-pro|qfa-yen-pro|*xuɬ|t=water|nocap=1}}<ref>{{cite-journal|last=Bonmann|first=Svenja|last2=Fries|first2=Simon|year=2025|title=Linguistic Evidence Suggests That Xiōng-nú and Huns Spoke the Same Paleo-Siberian Language|url=https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-968X.12321|journal=Transactions of the Philological Society|volume=0|pages=1-24|doi=10.1111/1467-968X.12321|page=9|archiveurl=https://web.archive.org/web/20250812093208/https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-968X.12321|archivedate=12 August 2025}}</ref> via {{w|Arin language|Old Arin}} {{l|qfa-yen-pro|*xuɬ|*kul}}, around the time of the {{w|Xiongnu|Xiōngnú Confederacy}}.
+
+According to Doerfer (1967), perhaps {{bor+|trk-pro|pal|𐫐𐫇𐫓|t=pit, sink|ts=kōl|sc=Mani|nocap=1}}, whence {{cog|fa|کول|tr=kôl|t=pit, lake}}.<ref>{{R:TMN|vol=III|page=645}}</ref> This is supported by Monshizadeh.<ref>{{R:fa:Monchi-Zadeh:1990|page=109}}</ref> Nişanyan deems the Middle Persian word a cognate.<ref>{{R:tr:Nişanyan|göl}}</ref>
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[lake]]
+
+====Declension====
+{{trk-pro-decl-noun|ö}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|кӳлӗ}}
+* Common Turkic:
+{{top3}}
+* {{desc|tg|кӯл|bor=1}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|göl}}
+*** {{desc|ota|كول|tr=göl}}
+**** {{desc|tr|göl}}
+**** {{desc|gag|göl}}
+**** {{desc|bgx|göl}}
+** {{desc|slr|göl}}
+** {{desc|tk|köl}}
+** {{desc|bor=1|klj|gö̂l}}
+* Karluk:
+** {{desc|chg|كول|tr=köl}}
+*** {{desc|ug|كۆل}}
+*** {{desc|uz|koʻl}}
+* Kipchak:
+**West Kipchak:
+***{{desc|krc|кёл}}
+***{{desc|kdr|köl}}
+***{{desc|kum|кёл}}
+**North Kipchak:
+***{{desc|ba|күл}}
+***{{desc|tt|күл}}
+** Kypchak-Nogai:
+*** {{desc|kk|көл}}
+*** {{desc|nog|коьл}}
+*** {{desc|kaa|kól}}
+**Kyrgyz–Kipchak:
+*** {{desc|ky|көл}}
+*** {{desc|alt|кӧл}}
+* {{desc|trk-sib}}
+** {{desc|otk}}
+*** {{desc|otk-ork|𐰚‬𐰇‬𐰠‬<ts:köl>}}
+*** {{desc|oui|𐽷𐽳𐽶𐾁<ts:köl>}}
+** North Siberian:
+*** {{desc|dlg|күөл}}
+*** {{desc|sah|күөл}}
+**South Siberian:
+***Yenisei:
+****{{desc|kjh|кӧл}}
+***{{desc|atv|кӧл}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:trk:Räsänen|page=288|kȫl}}
+* {{R:trk:Clauson|page=715|kö:l (g-)}}
+
+{{top|trk-pro|Landforms|Water}}

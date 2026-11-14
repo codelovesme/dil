@@ -1,0 +1,75 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From earlier ''*yagmïr''<ref>{{R:otk:Erdal:1991|page=389|vol=I}}</ref> from {{suf|trk-pro|*yag-|t1=to rain|*-mir|alt2=*-mïr}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[rain]]
+#: {{syn|trk-pro|*özgǟn}}
+
+====Declension====
+{{trk-pro-decl-noun|u}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫумӑр}}
+*** {{desc|cv-ana|ҫумӑр}}
+**** {{desc|cv-vir|ҫомӑр}}
+* Common Turkic:
+{{top3}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|}}
+**** {{desc|az|yağmur}}
+**** {{desc|gag|yaamur}}
+**** {{desc|ota|یاغمور|tr=yağmur}}
+***** {{desc|tr|yağmur}}
+**  East Oghuz:
+*** {{desc|tk|ýagmyr}}
+*** {{desc|slr|yağmır}}
+* Karluk:
+** {{desc|xqa|يَغْمُرْ|tr=yaɣmur|يَمْغُرْ|tr2=yamğur}}
+*** {{desc|chg|یَامْغُورْ|tr=yāmğūr}}
+**** {{desc|ug|يامغۇر}}
+**** {{desc|uz|yomgʻir}}
+* Kipchak:
+** {{desc|qwm|tr=yamğur}}, {{l|qwm|tr=yamğır}}, {{l|qwm|tr=yağmur}}<ref>{{R:qwm:Toparlı|page=306, 309}}</ref>
+** North Kipchak:
+*** {{desc|ba|ямғыр}}
+*** {{desc|tt|яңгыр}}
+** West Kipchak:
+*** {{desc|crh|yağmur}}
+*** {{desc|krc|джангур|джанъур}}
+*** {{desc|kum|янгур}}
+** South Kipchak:
+*** {{desc|kaa|jamǵır}}
+*** {{desc|kk|жаңбыр}}
+*** {{desc|nog|ямгыр}}
+** East Kipchak:
+*** {{desc|ky|жамгыр}}
+*** {{desc|alt|јаҥмыр|јaмгыр}}
+* Siberian:
+** {{desc|oui|tr=jağmur|t=rain}}
+** North Siberian:
+*** {{desc|dlg|һамыыр|tr=hamıır}}
+*** {{desc|sah|самыыр}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|kjh|наңмыр}}
+**** {{desc|cjs|нағбур|tr=nağbur|нағбыр|tr2=nağbır}}
+*** {{desc|atv|ньанмыр}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:xqa:DLT|vol=I|page=24}}
+* {{R:trk:Clauson|page=903|entry=yağmur}}
+* {{R:tr:Eren|page=439|yağmur}}
+* {{R:tr:Nishanyan|yağmur}}
+* {{R:trk:Rasanen|page=177}}
+* {{R:trk:ESTJa|vol=IV|page=57}}
+
+{{C|trk-pro|Weather}}

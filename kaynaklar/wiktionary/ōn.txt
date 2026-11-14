@@ -1,0 +1,66 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{etymon|trk-pro}}
+{{number box|trk-pro|10}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[ten]]
+
+====Descendants====
+*Oghur:
+** {{desc|xbo-vol|وان|tr=wan}}
+*** {{desc|cv|вуннӑ}}
+*Common Turkic:
+{{top3}}
+*Arghu:
+** {{desc|klj|ôn}}
+*Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|on}}
+*** {{desc|ota|اون|tr=on}}
+**** {{desc|gag|on}}
+**** {{desc|tr|on}}
+** Eastern:
+*** {{desc|slr|on}}
+*** {{desc|tk|on}}
+* Karluk:
+** {{desc|xqa|اُونْ|tr=on}}
+*** {{desc|chg|اون|tr=on}}
+**** {{desc|ug|ئون}}
+**** {{desc|uz|oʻn}}
+* Kipchak:
+**Western Kipchak:
+*** {{desc|crh|on}}
+*** {{desc|krc|он}}
+*** {{desc|kdr|on}}
+*** {{desc|kum|он}}
+** Kipchak-Nogai:
+*** {{desc|kaa|on}}
+*** {{desc|kk|он}}
+*** {{desc|nog|он}}
+** Northern Kipchak:
+*** {{desc|ba|ун}}
+*** {{desc|tt|ун}}
+**Eastern Kipchak:
+***{{desc|ky|он}}
+***{{desc|alt|он}}
+* Siberian:
+** {{desc|otk|𐰆𐰣}}
+** {{desctree|oui|𐽰𐽳𐽺|ts=on}}
+** North Siberian:
+*** {{desc|dlg|уон|tr=uon}}
+*** {{desc|sah|уон}}
+** South Siberian:
+*** Sayan Turkic:
+**** Soyot: [[он]] (on)
+**** {{desc|kim|он}} (on)
+**** {{desc|tyv|он}}
+*** Yenisei Turkic:
+**** {{desc|kjh|он}}
+**** {{desc|cjs|он|tr=on}}
+**** {{desc|ybe||tr=on}}
+*** {{desc|atv|он|ун}}
+{{bottom}}

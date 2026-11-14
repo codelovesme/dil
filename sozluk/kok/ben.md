@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %83) · kaynak 20 · yabancı kayıt 4 · denetim ✓35 ◑2 ◐18 ⚠11**
+**seviye 0 · diller 35/40 · ağızlar 10/89 · duraklar 7/7 · tanık 66 (kaynaklı %83) · kaynak 20 · yabancı kayıt 4 · denetim ✓34 ◑2 ◐19 ⚠11**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (5 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
@@ -35,7 +35,7 @@ Tanığı olmayan diller: İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyo
 | 8. yy | Eski Türkçe | Moğolistan | **män** |  | Irk Bitig ve bazı küçük yazıtlar |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
 | 8. yy | Eski Türkçe | Selenga, Moğolistan | **bän** |  | Şine Usu yazıtı (Uygur Kağanlığı) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
 | 9.–10. yy | Eski Türkçe | Yenisey, Tuva ve Hakasya | **bän** |  | Eski Kırgız (Yenisey) yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 (Malov) | ◐ tek kaynak |
-| 9.–14. yy | Eski Türkçe | Turfan ve Dunhuang | **män** | 𐽹𐽺 | Maniheist, Budist ve hukuk belgeleri (Eski Uygurca) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — s. 346 | ✓ doğrulandı |
+| 9.–14. yy | Eski Türkçe | Turfan ve Dunhuang | **män** | 𐽹𐽺 | Maniheist, Budist ve hukuk belgeleri (Eski Uygurca) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — s. 346; Wiktionary Reconstruction:Proto-Turkic/be; sayfanın kaynakları: clauson, dlt | ◐ tek kaynak |
 | 11. yy | Volga Bulgarcası (Suvar) |  | **bän** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 31 | ◐ tek kaynak |
 | 11. yy | Karahanlıca | Kâşgar | **män** | مَنْ | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 340 (Clauson s. 346) | ◐ tek kaynak |
 | 11. yy | Oğuz kolu (Oğuz) | Sır Derya boyları | **bän** | بَنْ | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 31, I 339 | ◐ tek kaynak |
@@ -43,7 +43,7 @@ Tanığı olmayan diller: İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyo
 | 13. yy | Karahanlıca |  | **män** |  | Atebetü'l-Hakayık |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **män** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 50, 9 | ◐ tek kaynak |
 | 13. yy | Harezm Türkçesi ve Çağatayca | Harezm | **bän / män** |  | Harezm Türkçesi metinleri |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **bän** | بن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **bän** | بن | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/be; sayfanın kaynakları: clauson, dlt | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **men** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [gronbech-kuman](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Grønbech s. 163 | ✓ doğrulandı |
 | 14. yy | Kuman-Kıpçakça | Kahire | **män** |  | Kitâbü'l-İdrâk, Bulgatü'l-Müştâk, et-Tuhfetü'z-Zekiyye | Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça) 🌍 | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — s. 346 | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **män** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [najip-xiv](../../kaynaklar/KAYNAKLAR.md#najip-xiv) — s. 346 | ◐ tek kaynak |

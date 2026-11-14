@@ -1,0 +1,72 @@
+{{see also|Reconstruction:Proto-Turkic/bār|Reconstruction:Proto-Turkic/baŕ}}
+{{reconstructed}}
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[go]], to [[walk]]
+#: {{syn|trk-pro|*kē(y)t-|t1=to go|*yorï-|*i-|t2 =to walk|t3 =to walk|*id-|t4 =to walk}}
+# {{lb|trk-pro|intransitive}} to [[reach]], to [[arrive]]
+
+{{trk-cmn-conj-c|bar|a|u|t}}
+
+====Descendants====
+* Oghur:
+** Volga {{desc|xbo|بَر|tr=bar}}
+*** {{desc|cv|пыр}}
+* {{desc|trk-cmn-pro|*bar-}}
+{{top3}}
+* Arghu:
+** {{desc|klj|varmaq}}
+* Oghuz:
+** {{desc|trk-ogz-pro|*bar-}}
+*** {{desc|trk-oat|tr=varmaq}}
+**** {{desc|az|varmaq}}
+**** {{desctree|ota|وارمق|tr=varmak}}
+*** {{desc|slr|vağusı|-bar}}
+*** {{desc|tk|barmak}}
+* Karluk:
+** {{desc|xqa|بَرْماقْ|tr=barmaq}}
+*** {{desc|xqa|tr=barmaq}}
+**** {{desc|chg|برماق|tr=barmaq}}
+***** {{desc|uz|bormoq}}
+***** {{desc|ug|بارماق}}
+* Kipchak:
+** {{desc|qwm|برماق|tr=barmaq}}
+*** North Kipchak
+**** {{desc|ba|барыу}}
+**** {{desc|tt|бару}}
+*** West Kipchak:
+**** {{desc|crh|barmaq}}
+**** {{desc|krc|барыргъа}}
+**** {{desc|kum|бармакъ}}
+**** {{desc|uum|бармайа}}
+*** South Kipchak:
+**** Caspian:
+***** {{desc|kk|бару}}
+***** {{desc|kaa|барыў}}
+***** {{desc|nog|барув}}
+**** Kyrgyz-Kipchak:
+***** {{desc|ky|баруу}}
+***** {{desc|alt|барар}}
+* Siberian:
+** {{desc|otk|𐰉𐰺|ts=bar-}}
+** {{desc|oui|𐽼𐽰𐽾𐽹𐽰𐽷|tr=barmak}}
+*** {{desc|ybe|par}}
+** North Siberian:
+*** {{desc|dlg|бар}}
+*** {{desc|sah|бар}}
+** South Siberian
+*** Sayan:
+**** {{desc|tyv|баар}}
+*** Yenisei
+**** {{desc|cjs|пар}}
+**** {{desc|kjh|пар}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=354}}
+* {{R:trk:VEWT|page=62}}
+* {{R:trk:ESTJa|vol=II|page=64-65}}
+[[ru:*bar-]]

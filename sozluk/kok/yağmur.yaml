@@ -29,6 +29,7 @@ taniklar:
     atif: clauson1972
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: tur
+    atif: "Wiktionary Reconstruction:Proto-Turkic/yagmur; sayfanın kaynakları: clauson, dlt, estja, nisanyan, rasanen"
     yuzyil: 16-19
     bicim: yağmur
     metin: Osmanlı Türkçesi

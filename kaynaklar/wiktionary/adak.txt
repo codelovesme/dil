@@ -1,0 +1,85 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Usually considered to be [[simplex]], however some theories have been proposed with ultimately no conclusive solution to the derivation of this term, these include:
+# Németh and some other linguists derive it from {{m|trk-pro|*āt-|t=to take a step}}.
+# Nişanyan suggests a derivation from {{m|trk-pro|*ad-|t=to separate}}, however states that the morphology is not very obvious as there is no deverbal noun forming ''*-ak'' suffix.
+# Hamilton puts forth the possibility of being derived from {{m|trk-pro|*yād-|t=to spread}}.<ref>{{R:oui:Hamilton:2020|page=144}}</ref>
+
+Sevortyan's attempt at relating it with {{noncog|ine-pro|*h₁ey-|t=to go}} and Räsänen's attempt to link it with {{noncog|ko|바닥}} are unfounded.
+
+===Noun===
+{{head|trk-pro|noun|head=*(h)adak}}
+
+# {{lb|trk-pro|anatomy}} [[foot]]
+# {{lb|trk-pro|metaphorical}} the [[end]] of something
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* {{desc|trk-ogr|'''*aδaγ'''}}
+** {{desc|trk-bul-pro|*åδa}}
+*** {{desc|cv-old|*åza}}
+**** {{desc|cv-mid|*ɔra}}
+***** {{desc|cv-ana|ура}}
+***** {{desc|cv-vir|ора}}
+* {{desc|trk-cmn-pro|<alt:'''*(h)adak'''>}} 
+{{top3}}
+* Arghu:
+** {{desc|klj|hadaq}}
+* {{desc|trk-ogz-pro|*ayak}}
+** West Oghuz:
+*** {{desc|trk-oat|ایاق|اداق|آیاق|tr=ayaq|tr2=adaq|tr3=ayaq}}
+**** {{desc|az|ayaq}}
+**** {{desctree|ota|آیاق|tr=ayak}}
+** {{desc|slr|ayaq}}
+** {{desc|tk|aýak}}
+* Karluk:
+** {{desc|xqa|اَذَقْ|tr=aδaq}}
+*** {{desc|zkh|ازق|tr=aδaq}}, {{desc|zkh|ایق|tr=ayaq|nolang=1}}
+**** {{desc|chg|آیاق|tr=ayaq|آیاغ|tr2=ayağ}}
+***** {{desc|uz|oyoq}}
+***** {{desc|ug|ئاياق|ئاياغ}}
+* Kipchak:
+** {{desc|qwm-mam|ايق|tr=ayaq}}
+** North Kipchak
+*** {{desc|ba|аяҡ|аҙаҡ|t2=end; then|t1=leg}}
+*** {{desc|tt|аяк}}
+** {{desc|trk-kcu}}
+*** {{desc|crh|ayaq}}
+*** {{desc|krc|аякъ}}
+*** {{desc|kum|аякъ}}
+** {{desc|trk-kno}}
+*** {{desc|kk|аяқ}}
+*** {{desc|kaa|ayaq}}
+*** {{desc|nog|аяк}}
+** {{desc|trk-kkp}}
+*** {{desc|ky|аяк}}
+*** {{desc|alt|айак}}
+* {{desc|trk-sib}}
+** {{desc|xgn-pro|*adag|bor=1}}<ref>{{R:xgn:ESMJa|vol=I|page=35}}</ref>
+** {{desc|otk|𐰑𐰴|tr=adaq}}
+** {{desctree|oui|𐽰𐽰𐽸𐽰𐽲|ts=adaḳ}}
+** North Siberian:
+*** {{desc|dlg|атак|tr=atak}}
+*** {{desc|sah|атах}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|адак}}
+*** Yeniseian Turkic:
+**** {{desc|kjh|азах}}
+**** {{desc|cjs|азақ|tr=azaq}}
+*** {{desc|atv|айак}}
+{{bottom}}
+
+===References===
+{{reflist}}
+* {{R:cv:Agyagasi:2019|page=87, 221}}
+* {{R:xqa:DLT}}
+* {{R:trk:Clauson|page=45|entry=aḏak}}
+* {{R:tr:Eren|ayak|page=26}}
+* {{R:tr:Nishanyan|ayak}}
+* {{R:trk:Rasanen|pages=5}}
+* {{R:trk:ESTJa|vol=I|page=105}}

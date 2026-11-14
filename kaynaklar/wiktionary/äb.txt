@@ -1,0 +1,85 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[house]]
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*häb}}
+
+====Derived terms====
+{{col|trk-pro
+|{{l|trk-pro|*äblig|*äb-lig|t=married}}
+|{{m|trk-pro|*äbsirᶻ|*äb-sirᶻ|t=homeless}}
+|{{m|trk-pro|*äbči|*äb-či|t=housewife, partner}}
+|{{m|trk-pro|*äblä-|*äb-lä-|t=to accomodate, to marry off}}
+|{{m|trk-pro|*äblän-|*äb-lä-n-|t=to marry someone}}
+|{{m|trk-pro|*äbsä-|*äb-sä-|t=?}}
+}}
+
+====Descendants====
+* {{desc|trk-ogr|'''*eb'''-le-n-|der=2}}
+** {{desc|trk-bul-pro|*ävlän-}}
+*** {{desc|cv-mid|*avlan-}}
+**** {{desc|cv|авлан|t=to marry, to start a family|qq=Anatri, Viryal}}
+* Common Turkic:
+{{top3}}
+* {{desc|klj-arg}}
+** {{desc|klj|həv}}
+* Oghuz: {{l|und|اَوْ|tr=ew}}
+** {{desc|trk-oat|-}}
+*** {{desc|az|ev}}
+*** {{desctree|ota|او|tr=ev|alt=أو}}
+** {{desc|tk|öý}}
+** {{desc|slr|öy}}
+* Karluk:
+** {{desc|xqa|اَڤْ|tr=ev|اُڤْ|tr2=öv}}
+*** {{desc|chg|اوى|tr=öy}}
+**** {{desc|ug|ئۆي}}
+**** {{desc|uz|uy}}
+* Kipchak:
+** {{desc|zkh|اَو}}
+** {{desc|qwm|اَو}}
+** North Kipchak:
+*** {{desc|ba|өй}}
+*** {{desc|tt|өй}}
+** West Kipchak:
+*** {{desc|crh|üy, уй, ev, эв}}
+*** {{desc|krc|юй}}
+*** {{desc|kdr|אב, ӱй, уй, üi}}
+*** {{desc|kum|уьй}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|үй}}
+**** {{desc|kk|үй}}
+**** {{desc|nog|уьй}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|үй}}
+**** {{desc|alt|ӱй}}
+* Siberian:
+** {{desc|otk|𐰋|ts=eb}}
+** {{desctree|oui|𐽰𐽱|ts=ev}}
+** {{desc|trk-ssb}}
+*** Sayan:
+**** {{desc|kim|өғ|tr=ög}}
+**** {{desc|tyv|өг}}
+*** Yenisei:
+**** {{desc|kjh|иб}}
+**** {{desc|cjs|эм|ӱй}}
+**** {{desc|clw|ӓпь|tr=äp}}
+*** {{desc|atv|ӱг|ӱ|ӱв|ӱй|ув|уг|уу}}
+{{bottom}}
+
+===References===
+* {{R:cv:Agyagasi:2019|page=237}}
+* {{R:trk:Clauson|page=3|entry=e:v}}
+* {{R:trk:ESTJa|vol=1|page=513<!--|entry=өй-->}}
+* {{R:SIGTYA|vol=4|page=500}}
+* {{t:r:xqa:DLT|vol=I|page=32, 81}}
+
+{{C|trk-pro|Home}}

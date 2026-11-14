@@ -1,0 +1,72 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[belly]], [[abdomen]]
+# [[womb]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Derived terms====
+* {{l|trk-pro|*karïndaš|t=sibling|lit=one who shares the same '''womb'''}}
+
+====Descendants====
+* {{desc|trk-ogr-pro|*qarïn}}
+** {{desc|trk-bul-pro|*χarïm}}
+*** {{desc|xbo-dan}}
+**** {{desc|cu|корьмъ|unc=1|bor=1}}
+***** {{desc|bg|корем|t=belly, tummy, stomach}}
+*** {{desc|xbo-vol|*χa̝rïm}}
+**** {{desc|cv-old|*χa̝rı̈̆m}}
+***** {{desc|cv-mid|*χïrı̈̆m}}
+****** {{desc|cv|хырӑм}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Arghu:
+** {{desc|klj|qarın}}
+* Oghuz:
+** West Oghuz:
+*** {{desc|trk-oat|قرن}}
+**** {{desc|az|qarın}}
+**** {{desc|gag|karnı}}
+**** {{desc|ota|قارن|tr=karn, karın}}
+***** {{desc|tr|karın}}
+** {{desc|slr|qarın}}
+** {{desc|tk|garyn}}
+* Karluk:
+** {{desc|ug|قارىن}}
+** {{desc|uz|qorin}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|qarın}}
+*** {{desc|krc|къарын}}
+*** {{desc|kum|къарын}}
+** North Kipchak:
+*** {{desc|ba|ҡарын}}
+*** {{desc|tt|карын}}
+** South Kipchak:
+*** {{desc|kk|қарын}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|карын}}
+*** {{desc|alt|карын}}
+* Siberian:
+** {{desc|otk-ork|𐰴𐰺𐰣|tr=qarïn}}
+** {{desc|oui|𐽲𐽰𐽾𐽶𐽺|ts=ḳarïn}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|хырын}}
+*** Yenisei:
+**** {{desc|kjh|харын}}
+*** {{desc|atv|карын}}
+{{bottom}}
+
+===References===
+* {{R:cv:Agyagasi:2019|pages=209, 228}}
+* {{R:trk:Clauson|page=661}}
+* {{R:trk:VEWT|page=238}}
+
+{{C|trk-pro|Anatomy}}

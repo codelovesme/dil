@@ -1,0 +1,66 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Etymology===
+From {{m|trk-pro|*yï̄l-|t=to creep}} {{suffix|trk-pro||*lan|alt2=*lan}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[snake]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫӗлен}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|yilân}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|ilan}}
+*** {{desc|gag|yılan}}
+*** {{desc|ota|ییلان|tr=yılan}}
+**** {{desc|tr|yılan}}
+** {{desc|slr|yilen}}
+** {{desc|tk|ýylān}}
+* Karluk:
+** {{desc|xqa|tr=yılan}}
+*** {{desc|ug|يىلان}}
+*** {{desc|uz|ilon}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|йылан}}
+*** {{desc|tt|елан}}
+** West Kipchak:
+*** {{desc|crh|cılan|yılan}}
+*** {{desc|krc|джылан|жылан|жилян}}
+*** {{desc|kdr|tr=yilan}}
+*** {{desc|kum|йылан}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kaa|jılan}}
+**** {{desc|kk|жылан}}
+**** {{desc|nog|йылан}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|жылан}}
+**** {{desc|alt|јылан}}
+* Siberian:
+** {{desc|otk|𐰖𐰃𐰞𐰣}}
+*** {{desc|oui|𐽶𐽶𐾁𐽰𐽺}}
+**** {{desc|ybe|yilan}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim|чулан|tr=çulan}}
+**** {{desc|tyv|чылан}}
+*** Yenisei:
+**** {{desc|kjh|чылан}}
+**** {{desc|cjs|чылан|tr=çılan}}
+*** {{desc|atv|чылан}}
+{{bottom}}
+
+{{C|trk-pro|Reptiles}}

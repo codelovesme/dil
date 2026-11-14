@@ -1,0 +1,74 @@
+{{reconstructed}}
+{{see also|[[Reconstruction:Proto-Turkic/balčïk|Reconstruction:Proto-Turkic/balïk]]}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{topics|trk-pro|Fish}} [[fish]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пулӑ}}
+*** {{desc|cv-ana|пулӑ}}
+**** {{desc|cv-vir|полӑ}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* {{desc|trk-ogz-pro|*bālïk}}
+** West Oghuz:
+*** {{desc|trk-oat|}}
+**** {{desc|az|balıq}}
+**** {{desc|ota|بالق|tr=balık}}
+***** {{desc|tr|balık}}
+***** {{desc|gag|balık}}
+** East Oghuz:
+*** {{desc|slr|baluq}}
+*** {{desc|tk|bālyk}}
+* Karluk:
+** {{desc|xqa|بَلِقْ|tr=balıq}}<ref>{{R:xqa:DLT|page=279}}</ref>
+*** {{desc|ug|بېلىق}}
+*** {{desc|uz|baliq|балиқ|بالیق}}
+* Kypchak:
+** Armeno-Kipchak: {{l|qwm|պալըխ}}
+** North Kypchak:
+*** {{desc|ba|балыҡ}}
+*** {{desc|tt|балык}}
+** Kypchak-Cuman:
+*** {{desc|crh|balıq|балыкъ}}
+*** {{desc|krc|балыкъ}}
+*** {{desc|kdr|באליק|балых|balych}}
+*** {{desc|kum|балыкъ}}
+** Kypchak-Nogai:
+*** {{desc|kk|балық}}
+*** {{desc|nog|балык}}
+*** {{desc|kaa|balıq}}
+*** {{desc|sty|палыҡ|tr=palık}}
+** Kyrgyz–Kipchak:
+*** {{desc|ky|балык}}
+*** {{desc|alt|балык}}
+* Siberian:
+** {{desc|oui|𐽱𐽰𐾁𐽶𐽲|tr=balïq}}
+** North Siberian:
+*** {{desc|sah|балык}}
+*** {{desc|dlg|балык|tr=balık}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|kim|балыӄ|tr=balıq}}
+**** {{desc|tyv|балык}}
+*** Yenisei Turkic:
+**** {{desc|clw|палық|tr=palıq}}
+**** {{desc|kjh|палых}}
+**** {{desc|cjs|палық|tr=palıq}}
+*** {{desc|atv|палык}}
+{{bottom}}
+* Non-Turkic:
+** {{desc|bor=1|be|балы́к}}
+** {{desc|bor=1|pl|bałyk}}
+** {{desc|bor=1|ru|балы́к}}
+** {{desc|bor=1|uk|бали́к}}
+
+===References===
+{{reflist}}

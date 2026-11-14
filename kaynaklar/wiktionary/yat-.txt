@@ -1,0 +1,52 @@
+{{reconstruction}}
+==Proto-Turkic==
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[lie down]]
+
+====Descendants====
+* Oghur:
+** {{desc|cv|вырт}}
+{{top3}}
+* Arghu:
+** {{desc|klj|yatmaq}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|yatmaq}}
+*** {{desc|ota|}}
+**** {{desc|gag|yatmaa}}
+**** {{desc|tr|yatmak}}
+** {{desc|slr|yatqusı}}
+** {{desc|tk|ýatmak}}
+* Kipchak:
+** East Kipchak
+*** {{desc|ky|жатуу}}
+*** {{desc|alt|јадар}}
+** West Kipchak
+*** {{desc|crh|yatmaq}}
+*** {{desc|krc|джатарга}}
+*** {{desc|kdr|jatmak}}
+*** {{desc|kum|ятмакъ}}
+** South Kipchak
+*** {{desc|kaa|jatıw}}
+*** {{desc|kk|жату}}
+*** {{desc|nog|ятув}}
+** North Kipchak
+*** {{desc|ba|ятыу}}
+*** {{desc|tt|яту}}
+* Siberian:
+** North Siberian:
+*** {{desc|sah|сыт}}
+** South Siberian:
+*** {{desc|atv|чадарга}}
+*** Yenisei:
+**** {{desc|clw|чадарға|tr=čadarɣa}}
+**** {{desc|kjh|чадарға}}
+**** {{desc|cjs|чадарға|tr=čadarɣa}}
+*** Sayan:
+**** {{desc|tyv|чыдар}}
+**** {{desc|kim|чыътар|tr=čï"tar}}
+*** {{desc|ybe|yat-|yaʰt-}}
+{{bottom}}

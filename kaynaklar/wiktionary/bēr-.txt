@@ -1,0 +1,66 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+{{rfm|trk-pro|Descendants except Chuvash point to [[reconstruction:Proto-Turkic/bẹ̄r-|''*bẹ̄r-'']]}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[give]]
+#: {{ant|trk-pro|*al-|t=to take}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пар}}
+* Common Turkic: '''*bẹ̄r-'''
+{{top3}}
+* Arghu:
+** {{desc|klj|vêrmək}}
+* Oghuz: '''*ber-'''
+** {{desc|trk-oat|وِیرْمَكْ|tr=vermäk}}
+*** {{desc|az|vermək}}
+*** {{desc|gag|vermää}}
+*** {{desctree|ota|ویرمك|tr=vermek}}
+** {{desc|slr|viğüsi|-ber}}
+** {{desc|tk|bermek}}
+* Karluk:
+** {{desc|xqa|بيٖرْماكْ|tr=bērmäk}}<ref>{{R:xqa:DLT|vol=III|page=180}}</ref>
+***{{desc|chg|برماک|tr=bermäk, bärmäk}}
+**** {{desc|uz|bermoq}}
+**** {{desc|ug|بەرمەك}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|биреү}}
+*** {{desc|tt|бирү}}
+** West Kipchak:
+*** {{desc|crh|bermek}}
+*** {{desc|kum|бермек}}
+*** {{desc|krc|берирге}}
+*** {{desc|kdr||tr=ver-}}
+*** {{desc|uum|бэрмейе}}
+** East Kipchak:
+*** {{desc|ky|берүү}}
+*** {{desc|alt|берер}}
+** South Kipchak:
+*** {{desc|kaa|beriw}}
+*** {{desc|kk|беру}}
+*** {{desc|nog|беруьв}}
+* Siberian:
+** {{desc|otk|𐰋𐰃𐰼|ts=bér-}}
+** {{desc|oui||tr=ber-}}
+** North Siberian:
+*** {{desc|dlg||tr=bier}}
+*** {{desc|sah|биэр}}
+** South Siberian:
+*** Sayan:
+**** {{desc|kim||tr=ber-}}
+**** {{desc|tyv|бээр}}
+*** Yenisei:
+**** {{desc|cjs||tr=per-}}
+**** {{desc|kjh||tr=pir-}}
+**** {{desc|ybe||tr=per-}}
+*** {{desc|atv|перерге}}
+{{bottom}}
+
+===References===
+{{reflist}}

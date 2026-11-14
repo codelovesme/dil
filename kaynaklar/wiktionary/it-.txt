@@ -1,0 +1,52 @@
+{{reconstruction}}
+
+==Proto-Turkic==
+
+===Etymology===
+{{ety|trk-pro|:af<lit:to make walk>|*i-<aftype:naf><t:to walk>|*-t<id:causative>|text=++|tree=1}} {{rfve|trk-pro}}
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|transitive}} to [[push]]
+
+====Descendants====
+* {{desc|trk-cmn-pro}}
+{{top3}}
+*Oghuz
+** West Oghuz:
+*** {{desc|trk-oat|ایتمك|tr=itmek}}
+**** {{desc|az|itələmək|der=1}} (<*i-t-er-le-)
+**** {{desc|gag|itirmää|der=1}} < it-tir-
+**** {{desc|ota|ایتمك|tr=itmek}}
+***** {{desc|tr|itmek|itermek|q2=dialectal}}
+*** {{desc|slr|şitgüsi|yitgüsi}}
+*** {{desc|tk|itmek|iteklemek}}
+* Karluk:
+** {{desc|chg||it-||i-}}
+** {{desc|ug|ئىتتىر-|ئىتتىرمەك}}
+** {{desc|uz|itarmoq}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|этеү}}
+*** {{desc|tt|этү}}
+** West Kipchak:
+*** {{desc|crh|itemek}}
+** South Kipchak:
+*** {{desc|kk|итеру}}
+** Kyrgyz-Kipchak:
+*** {{desc|ky|итерүү}} 
+*** {{desc|alt|ийдер}}
+* Siberian:
+** North Siberian:
+*** {{desc|dlg|үт}}
+*** {{desc|sah|үт|үтүрүй}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|kjh|iд|iдерге}}
+**** {{desc|cjs||tr=it}}
+*** {{desc|atv|идерге}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=38|entry=it-}}

@@ -1,0 +1,36 @@
+{{reconstructed}}
+{{merge|Reconstruction:Proto-Turkic/oltur-}}
+==Proto-Turkic==
+
+===Alternative forms===
+* {{l|trk-pro|*olor-|*ol-or-}}
+
+===Etymology===
+Causative of {{m|trk-pro|*ol-|t=to be}} and basically cognate of {{m|trk-pro|*oltur-|*ol-tur-|t=to sit}}.
+
+===Verb===
+{{head|trk-pro|verb}}
+
+# {{lb|trk-pro|intransitive}} to [[sit]]
+# {{lb|trk-pro|intransitive}} to [[dwell]], [[reside]]
+
+====Related terms====
+* {{l|trk-pro|*ol-}}
+* {{l|trk-pro|*oltur-|*ol-tur-}}
+
+====Descendants====
+* Medieval
+** Old Turkic
+*** {{desc|otk|𐰆𐰞𐰺|tr=olur-}}
+*** {{desc|oui|tr=olur-|3=|tr2=olor-}}
+* Siberian
+** {{desc|dlg|олор|tr=olor}}
+** {{desc|kim|олурар}}
+** {{desc|tyv|олурар}}
+** {{desc|sah|олор}}
+** {{desc|ybe|tr=olïr-}}
+* Bulghar
+** {{desc|cv|лар}}
+
+===References===
+* {{R:trk:Clauson|page=150|entry=olur-}}

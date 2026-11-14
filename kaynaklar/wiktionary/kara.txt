@@ -1,0 +1,95 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+{{rfe|trk-pro}}
+
+===Adjective===
+{{head|trk-pro|adjective}}
+
+# [[black]]
+
+====Alternative reconstructions====
+* {{alt|trk-pro|*karā}}<ref name="Doerfer">{{R:klj:Materials|page=300}}</ref>
+
+====Derived terms====
+* {{l|trk-pro|*kapkara|t=jet-black}} {{q|intensified adjectival form}}
+* {{l|trk-pro|*karaŋu|t=dark}}
+
+====Descendants====
+* {{desc|xgn-pro|*kara|bor=1}}<ref name="Doerfer"/>
+
+*Oghur
+**{{desc|trk-ogr-pro|*χara}}
+***Khazar
+***{{desc|trk-bul-pro|*χåra}}
+****Bulgar
+*****{{desc|xbo-dan|-}}
+*****{{desc|xbo-vol|-}}
+****{{desc|cv-old|*χåra}}
+*****{{desc|cv-mid|*χora}}
+******Chuvash
+*******{{desc|cv-ana|хура}}
+*******{{desc|cv-vir|хора}}
+* {{desc|trk-cmn-pro|*kara}}
+{{top3}}
+* Arghu:
+** {{desc|klj|qara}}
+* Oghuz:
+** {{desc|trk-oat|قَرَه|tr=qara}}
+*** {{desc|az|qara}}
+*** {{desc|gag|kara}}
+*** {{desc|ota|قره|tr=kara}}
+**** {{desctree|tr|kara}}
+** {{desc|slr|gara}}
+** {{desc|tk|gara}}
+* Karluk:
+** {{desc|xqa|قَرا|tr=kara}}
+*** {{desc|chg|قرا|tr=qara}}
+**** {{desc|ili|qara}}
+**** {{desc|ug|قارا}}
+**** {{desc|uz|qora}}
+* {{desc|qwm|-}}
+** North Kipchak:
+*** {{desc|ba|ҡара}}
+*** {{desc|tt|кара}}
+** East Kipchak:
+*** {{desc|ky|кара}}
+*** {{desc|alt|кара}}
+** South Kipchak:
+*** {{desc|nog|кара}}
+*** {{desc|kk|қара}}
+*** {{desc|kaa|qara}}
+** West Kipchak:
+*** {{desc|crh|qara}}
+*** {{desc|krc|къара}}
+*** {{desc|jct|къара|tr=qara}}
+*** {{desc|kum|къара}}
+*** {{desc|kdr|kara}}
+* Siberian:
+** {{desc|otk}}
+*** {{desc|bor=1|unc=1|zkt|黑|tr=kara|t=west}}
+*** {{desc|otk-ork|𐰴𐰺𐰀|ts=qara}}
+*** Yenisei  Kyrgyz {{l|und||tr=qara}}
+*** {{desctree|oui|𐽲𐽰𐽾𐽰|ts=ḳara}}
+** North Siberian:
+*** {{desc|sah|хара|t=black|хараҥа|t2=dark}}
+*** {{desc|dlg|кара}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|кара}}
+**** {{desc|kim|ӄара}}<ref> Валентин Иванович Рассадин (2005) Словарь тофаларско-русский и русско-тофаларский, page 42 </ref>
+*** Yenisei:
+**** {{desc|cjs|қара|tr=qara}}
+**** {{desc|kjh|хара}}
+*** {{desc|atv|кара}}
+{{bottom}}
+
+===See also===
+{{table:colors/trk-pro}}
+
+===References===
+{{reflist}}
+* {{R:cv:Agyagasi:2019|page=226}}
+
+{{C|trk-pro|Colors}}

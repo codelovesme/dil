@@ -1,0 +1,67 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+From {{suf|trk-pro|*bud-|t1=to freeze, be cold|*-ŕ}}.<ref>{{R:tr:Nishanyan|buz}}</ref>
+
+===Noun===
+{{head|trk-pro|noun}}<ref>{{R:trk:Clauson|pages=389|entry=bu<nowiki>:</nowiki>z}}</ref>
+</ni
+
+# [[ice]]
+
+====Declension====
+{{trk-pro-decl-noun|o}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пӑр}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* Arghu:
+** {{desc|klj|bûz}}
+* Oghuz:
+** {{desc|trk-oat|بوز|tr=buz}}
+*** {{desc|az|buz}}
+*** {{desc|ota|بوز|tr=buz}}
+**** {{desc|tr|buz}}
+**** {{desc|gag|buz}}
+** {{desc|tk|būz}}
+* Karluk:
+** {{desc|chg|موز}}
+*** {{desc|ug|مۇز}}
+*** {{desc|uz|muz}}
+* Kypchak:
+** West Kipchak:
+*** {{desc|krc|буз}}
+**** {{desc|kum|буз}}
+** North Kipchak:
+*** {{desc|ba|боҙ}}
+*** {{desc|tt|боз}}
+** Kypchak-Nogai:
+*** {{desc|kk|мұз}}
+*** {{desc|nog|буз}}
+** Kyrgyz–Kipchak:
+*** {{desc|ky|муз}}
+*** {{desc|alt|мус}}
+* Siberian:
+** {{desctree|oui|𐽼𐽳𐽴|id=ice|ts=buz}}
+** North Siberian:
+*** {{desc|sah|муус}}
+**** {{desc|dlg|буус}}
+** South Siberian:
+*** Sayan Turkic:
+**** {{desc|tyv|бус}}
+*** Yenisei Turkic:
+**** {{desc|kjh|пус}}
+**** {{desc|cjs|мус}}
+*** Altai-Yenisei:
+**** {{desc|atv|пус}}
+***** Kumandy: {{t|atv|пус}}
+***** Chelkan: {{t|atv|бус}}, {{t|atv|пус}}
+{{bottom}}
+
+===References===
+{{reflist}}
+
+{{c|trk-pro|Water}}

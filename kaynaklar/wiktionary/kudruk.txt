@@ -1,0 +1,92 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Derived from the unattested stem {{m|trk-pro|*kudur-|*kudu-r-}}.
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{lb|trk-pro|zootomy}} [[tail]]
+
+====Declension====
+{{trk-pro-decl-noun|o}}
+
+====Related terms====
+* {{l|trk-pro|*kudurgak}}
+* {{l|trk-pro|*kudurgun}}
+* {{l|trk-pro|*kudurčak}}
+* {{l|trk-pro|*kuduskan}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|хӳре}}
+* {{desc|xgn-pro|*kudurga|bor=1|unc=1}}
+** {{desc|mn|хударга}}
+** {{desc|yuy|ghudurgha}}
+* {{desc|trk-cmn-pro|}}
+{{top3}}
+* {{desc|xqa|قُذْرُقْ|tr=quδruq|قُیرُقْ|tr2=quyruq}} {{qualifier|Late Karakhanid}}
+** {{desc|zkh|قُذرُق|tr=quδruq}}
+* Arghu:
+** {{desc|klj|qudruq}}
+* Oghuz:
+** {{desc|trk-oat|قُيرُقْ}}
+*** {{desc|az|quyruq}}
+*** {{desc|ota|قویروق|tr=quyruq}}
+**** {{desc|gag|kuyruk}}
+**** {{desc|tr|kuyruk}}
+** {{desc|slr|quruq}}
+** {{desc|tk|guýruk}}
+* Kipchak:
+** {{desc|qwm|cuyrug|sc=Latn}}
+** {{desc|qwm|قويرق|tr=quyruɣ}}
+** {{desc|qwm-mam|قُيرُغ|tr=quyruɣ|sc=Arab|قُيرُق|tr2=quyruq|sc2=Arab}}
+** West Kipchak:
+*** {{desc|crh|quyruq}}
+*** {{desc|krc|къуйрукъ|tr=quyruq}}
+*** {{desc|kdr|-}}
+**** {{desc|kdr|куйрук|sclang=Cyrl}}
+**** {{desc|kdr|kuyruk|sclang=Latn}}
+*** {{desc|kum|къуйрукъ|tr=quyruq}}
+*** {{desc|uum|хурйух}}
+** North Kipchak:
+*** {{desc|ba|ҡойроҡ}}
+*** {{desc|tt|койрык}}
+** South Kipchak:
+*** Kipchak-Nogai:
+**** {{desc|kaa|quyrıq}}
+**** {{desc|kk|құйрық}}
+**** {{desc|nog|куйрык}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|куйрук}}
+**** {{desc|alt|куйрук}}
+* Karluk:
+** {{desc|chg|tr=quyruɣ}}
+*** {{desc|uz|quyruq}}
+*** {{desc|ug|قۇيرۇق}}
+* Siberian:
+** {{desc|otk|𐰴𐰆𐰑𐰺𐰆𐰸|tr=qudruq}}
+*** {{desc|oui|tr=qudruq}}
+**** {{desc|ybe|tr=quzruq}}
+** North Siberian:
+*** {{desc|dlg|кутурук|tr=kuturuk}}
+*** {{desc|sah|кутурук}}
+** South Siberian:
+*** Sayan Turkic:
+**** Soyot: {{l|tyv|қудуруқ}}, {{l|tyv|қудурық}}, {{l|tyv|қудырық}}
+**** {{desc|kim|ӄудуруӄ|tr=quduruq}}
+**** {{desc|tyv|кудурук}}
+*** Yenisei Turkic:
+**** {{desc|kjh|хузурух}}
+**** {{desc|kjh-fyu|guzruh|sc=Latn}}
+**** {{desc|cjs|қузуруқ|tr=quzuruq}}
+*** {{desc|atv|койрык}}
+{{bottom}}
+* East Slavic:
+** {{desc|bor=1|be|курдзю́к}}
+** {{desc|bor=1|ru|курдю́к}}
+** {{desc|bor=1|uk|курдю́к}}
+
+===References===
+* {{R:trk:Clauson|page=604|entry=kuḏruk}}

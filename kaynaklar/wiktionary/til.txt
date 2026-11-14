@@ -1,0 +1,62 @@
+{{also|Reconstruction:Proto-Turkic/tīĺ}}
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{lb|trk-pro|anatomy}} [[tongue]]
+# {{top|trk-pro|Language}} [[language]]
+
+====Declension====
+{{trk-pro-decl-noun|e}}
+
+====Derived terms====
+* {{l|trk-pro|*tïlak|t=clitoris}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|чӗлхе}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|til}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|dil}}
+*** {{desc|ota|دل|tr=dil}}
+**** {{desc|tr|dil}}
+**** {{desc|gag|dil}}
+*** {{desc|slr|dil}}
+*** {{desc|tk|dil}}
+* Karluk
+** {{desc|uz|til}}
+** {{desc|ug|تىل}}
+* Kipchak
+** West Kipchak
+*** {{desc|crh|dil|til}}
+*** {{desc|krc|тил}}
+*** {{desc|kum|тил}}
+** North Kipchak
+*** {{desc|ba|тел}}
+*** {{desc|tt|тел}}
+** South Kipchak
+*** {{desc|kk|тіл}}
+*** {{desc|kaa|til}}
+*** {{desc|nog|тил}}
+** East Kipchak
+*** {{desc|ky|тил}}
+*** {{desc|alt|тил}}
+* Siberian
+** North Siberian
+*** {{desc|dlg|тыл}} (tıl)
+*** {{desc|sah|тыл}}
+** Sayan
+*** {{desc|kim|дыл|tr=dıl}}
+*** {{desc|tyv|дыл}}
+** Yenisei
+*** {{desc|kjh|тіл}}
+*** {{desc|cjs|тил|tr=til}}
+** {{desc|atv|тил}}
+{{bottom}}

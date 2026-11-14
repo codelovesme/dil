@@ -1,0 +1,54 @@
+{{reconstructed}}
+==Proto-Turkic==
+{{ety|trk-pro|id=forty}}
+{{number box|trk-pro|40}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[forty]]
+
+====Descendants====
+* Oghur:
+** Volga {{desc|xbo|خرخ|tr=xïrïx}}
+*** {{desc|cv|хӗрӗх}}
+{{top3}}
+* Arghu:
+** {{desc|klj|qırq}}
+* Oghuz
+** West Oghuz:
+*** {{desc|trk-oat|قرق|tr=qırq|قرخ|tr2=qırḫ}}
+*** {{desc|az|qırx}}
+*** {{desc|gag|kırk}}
+*** {{desc|ota|قرق|tr=kırk}}
+**** {{desc|tr|kırk}}
+** East Oghuz:
+*** {{desc|tk|kyrk}}
+* Kipchak
+** Western Kipchak
+*** {{desc|crh|qırq}}
+*** {{desc|krc|къыркъ}}
+*** {{desc|kum|къыркъ}}
+** Kipchak-Nogai
+*** {{desc|kaa|қырық}}
+*** {{desc|kk|қырық}}
+*** {{desc|nog|кырк}}
+** Northern Kipchak
+*** {{desc|ba|ҡырҡ}}
+*** {{desc|tt|кырык}}
+** Eastern Kipchak
+*** {{desc|ky|кырк}}
+*** {{desc|alt|кырык}}
+* Karluk
+** {{desc|ug|قىرىق}}
+** {{desc|uz|qirq}}
+* Siberian
+** {{desc|otk|𐰴𐰃𐰺𐰴}}
+** {{desc|oui|𐽷𐽶𐽾𐽷|tr=kïrk}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|clw|қырық|tr=qırıq}}
+**** {{desc|kjh|хырых}}
+**** {{desc|cjs|қырық|tr=qırıq}}
+*** {{desc|atv|кырык}}
+{{bottom}}

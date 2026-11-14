@@ -1,0 +1,67 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[sand]]
+#: {{syn|trk-pro|*kayïr}}
+
+====Declension====
+{{trk-pro-decl-noun|o}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|}}
+{{top3}}
+* Oghuz:
+** {{desctree|trk-oat|قوم|tr=qum}}
+** {{desc|slr|gum}}
+** {{desc|tk|gum}}
+* Kipchak:
+** West Kipchak:
+*** {{desc|crh|qum}}
+*** {{desc|krc|къум|tr=qum}}
+*** {{desc|kum|хум}}
+*** {{desc|uum|хум}}
+** North Kipchak:
+*** {{desc|ba|ҡом}}
+*** {{desc|tt|qom}}, {{desc|tt|ком}}
+** South Kipchak:
+*** {{desc|kk|құм}}
+*** {{desc|kaa|qum}}
+*** {{desc|nog|кум}}
+** East Kipchak:
+*** {{desc|ky|кум}}
+*** {{desc|alt|кум}} , {{l|alt|кумак}}
+* Karluk:
+** {{desc|chg|قوم|tr=qum}}
+*** {{desc|ug|قۇم}}
+*** {{desc|uz|qum}}
+**** {{desc|tg|қум|bor=1}}
+* Siberian:
+** North Siberian:
+*** {{desc|dlg|кумак|tr=kumak}}
+*** {{desc|sah|кумах}}
+** South Siberian:
+*** Old Turkic:
+**** {{desc|oui|tr=qum}}
+*** Sayan Turkic:
+**** {{desc|tyv|кум}}
+*** Yenisei Turkic:
+**** {{desc|kjh|хум}}
+**** {{desc|cjs|қум|tr=qum}}
+*** {{desc|atv|кубак}} (Kumandy), {{l|atv|кум}} (Chelkan)
+*** {{desc|ybe|qum}}
+{{bottom}}
+* Non-Turkic:
+* {{desc|hu|homok|bor=1}}
+* {{desc|ce|гӏум|bor=1}}
+* {{desc|dar|гъум|bor=1}}
+* {{desc|kjj|къум|bor=1}}
+* {{desc|lez|къум|bor=1}}
+* {{desc|tab|къум|bor=1}}; {{l|tab|гъум}}
+* {{desc|udi|къум|bor=1}}
+* {{desc|kmr|qûm|bor=1}}
+
+{{top|trk-pro|Landforms}}

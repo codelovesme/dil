@@ -1,0 +1,69 @@
+{{reconstruction}}
+
+==Proto-Turkic==
+{{number box|trk-pro|1000}}
+
+===Etymology===
+{{rfe|trk-pro}}
+
+===Numeral===
+{{head|trk-pro|numeral}}
+
+# [[thousand]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|пин}}
+* Common Turkic:
+{{top3}}
+* Arghu:
+** {{desc|klj|ming}}
+* Oghuz:
+** {{desc|trk-oat|بیك}}
+*** {{desc|az|min}}
+*** {{desc|gag|bin}}
+*** {{desc|ota|بیك|tr=biñ}}
+**** {{desc|tr|bin}}
+** {{desc|tk|müň}}
+** {{desc|slr|miñ}}
+* Karluk:
+** {{desc|xqa|}}
+*** {{desctree|chg|مینک|ts=miŋ⁠}}
+* {{desc|qwm|مین|tr=min}}
+** North Kipchak:
+*** {{desc|ba|мең}}
+*** {{desc|tt|мең}}
+** West Kipchak:
+*** {{desc|crh|miñ}}
+*** {{desc|kum|минг}}
+*** {{desc|krc|минг}}
+*** {{desc|kdr|минь|мин}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|мың}}
+**** {{desc|nog|мынъ}}
+**** {{desc|kaa|}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|миң}}
+**** {{desc|alt|муҥ}}
+* Siberian:
+** {{desc|otk|𐰉𐰃𐰭|𐰋𐰃𐰭}}
+** {{desctree|oui|𐽹𐽶𐽺𐽷|ts=mïŋ}}
+** North Siberian:
+*** {{desc|sah|мыҥ}}
+*** {{desc|dlg|}}
+** South Siberian:
+*** Sayan:
+**** {{desc|tyv|муң}}
+**** {{desc|kim|}}
+*** Yenisei:
+**** {{desc|cjs|муң|tr=muñ}}
+**** {{desc|kjh|муң}}
+*** {{desc|atv|мунъ}}
+{{bottom}}
+
+===References===
+* “thousand” in Turkic Database.[https://turkic.elegantlexicon.com/turkforms.php?form=10001000]

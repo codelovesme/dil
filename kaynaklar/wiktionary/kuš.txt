@@ -1,0 +1,64 @@
+{{reconstructed}}
+
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-cmn-pro|noun}}
+
+# {{lb|trk-pro|Common Turkic}} [[bird]]
+
+====Declension====
+{{trk-cmn-decl-noun|u}}
+
+====Descendants====
+{{top3}}
+* Arghu:
+** {{desc|klj|quş}}
+* Oghuz:
+** {{desctree|trk-oat|قوش|tr=quş}}
+** {{desc|slr|guş}}
+** {{desc|tk|guş}}
+* Karluk:
+** {{desc|xqa|قُشْ|tr=quš}}
+*** {{desc|chg|قوش|ts=quš}}
+**** {{desc|uz|qush}}
+**** {{desc|ug|قۇش}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|ҡош}}
+*** {{desc|tt|кош}}
+** West Kipchak:
+*** {{desc|crh|quş}}
+*** {{desc|uum|хуш}}
+** South Kipchak:
+*** {{desc|kaa|qus}}
+*** {{desc|kk|құс}}
+*** {{desc|nog|кус}}
+** East Kipchak:
+*** {{desc|ky|куш}}
+*** {{desc|alt|куш}}
+* Siberian:
+** {{desctree|oui|𐽲𐽳𐽿|id=bird|ts=ḳuš}}
+*** {{desc|ybe|ɢus}}
+** North Siberian:
+*** {{desc|sah|кус|t=duck}}
+*** {{desc|dlg|кус|t=duck}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|clw|қус|tr=qus|t=bird with (улуғ)}}
+**** {{desc|kjh|хус}}
+**** {{desc|cjs|қуш|tr=quš}}
+*** Sayan:
+**** {{desc|kim|ӄуъш|tr=qu"š|t=wood grouse}}
+**** {{desc|tyv|куш}}
+*** {{desc|atv|куш}}
+{{bottom}}
+
+====See also====
+{{table:animals/trk-pro}}
+
+===References===
+* {{R:trk:Clauson|page=670|entry=kuš}}
+* {{R:trk:Rasanen|page=305|entry=kuš}}
+
+{{top|trk-pro|Birds}}

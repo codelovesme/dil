@@ -1,0 +1,58 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Etymology===
+Probably a deverbal, if so, from {{m|trk-pro|*bur-|t=to smell}}. For possible cognates, see {{cog|tr|burcu|t=aroma, scent}}, {{cog|tr|buram buram|t=in whirls, billowing (of smell, smoke)}}, {{cog|xqa||tr=burïɣ|t=something that smells}}, {{cog|ky||tr=bura-|t=to reek strongly}}, {{cog|ug|پۇراق|t=smell}}, {{cog|kjh||tr=puru-|t=to emit a stench, to burn (of food)}} et cetera (Dybo, 2013).
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[nose]]
+#: {{syn|trk-pro|*tumšuk|*kaŋïr|*tāna}}
+
+====Descendants====
+{{top3}}
+*Arghu:
+** {{desc|klj|burın}}
+*Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az-cls|بورون}}
+**** {{desc|az|burun}}
+**** {{desc|qxq|tr=borun}}
+*** {{desc|gag|burnu}}
+*** {{desc|ota|بورون|tr=burun}}
+**** {{desc|tr|burun}}
+** East Oghuz:
+*** {{desc|tk|burun}}
+** Uyghur-Oghuz:
+*** {{desc|slr|purun}}
+* Karluk:
+** {{desc|xqa|}}
+*** {{desc|ug|بۇرۇن}}
+*** {{desc|uz|burun}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|ba|морон}}
+*** {{desc|tt|борын}}
+** West Kipchak:
+*** {{desc|crh|burun}}
+*** {{desc|krc|бурун}}
+*** {{desc|kum||бурун}}
+** South Kipchak:
+*** Caspian:
+**** {{desc|kk|мұрын}}
+*** Kyrgyz-Kipchak:
+**** {{desc|ky|мурун}} 
+**** {{desc|alt|мурун}}
+* Siberian:
+** North Siberian:
+*** {{desc|sah|мурун}}
+** South Siberian:
+*** Yenisei:
+**** {{desc|kjh|пурун}}
+*** {{desc|atv|пурун|бурун}}
+{{bottom}}
+
+===References===
+* [[w:Anna_Dybo|Dybo, Anna Vladimirovna]] (2013). Этимологический словарь базисной лексики тюркских языков (in Russian). TOO - Prosper Print. pp. 409-14.
+* {{R:trk:Clauson|page=366-367|entry=burun}}

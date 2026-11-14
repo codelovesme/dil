@@ -31,19 +31,19 @@ Tanığı olmayan diller: Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan),
 
 | Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
 |---|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon, Moğolistan | **biz** | 𐰋𐰃𐰕 | Kül Tigin, Bilge Kağan ve Tonyukuk yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ✓ doğrulandı |
-| 8.–14. yy | Eski Türkçe | Turfan ve Dunhuang | **biz** |  | Maniheist, Budist ve hukuk belgeleri (Eski Uygurca) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ✓ doğrulandı |
+| 8. yy | Eski Türkçe | Orhon, Moğolistan | **biz** | 𐰋𐰃𐰕 | Kül Tigin, Bilge Kağan ve Tonyukuk yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/bīz; sayfanın kaynakları: yok | ✓ doğrulandı |
+| 8.–14. yy | Eski Türkçe | Turfan ve Dunhuang | **biz** |  | Maniheist, Budist ve hukuk belgeleri (Eski Uygurca) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/bīz; sayfanın kaynakları: yok | ✓ doğrulandı |
 | 11. yy | Karahanlıca | Kâşgar | **biz** | بِزْ | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 325 | ◐ tek kaynak |
 | 13. yy | Karahanlıca |  | **biz** |  | Karahanlıca Kur'an tefsiri |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **biz** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 50, 9 | ◐ tek kaynak |
-| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **biz** | بز | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 13.–15. yy | Eski Anadolu Türkçesi | Anadolu | **biz** | بز | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/bīz; sayfanın kaynakları: yok | ◑ kısmen |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **biz** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [gronbech-kuman](../../kaynaklar/KAYNAKLAR.md#gronbech-kuman), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ✓ doğrulandı |
 | 14. yy | Kuman-Kıpçakça | Kahire | **biz** |  | Kitâbü'l-İdrâk, Bulgatü'l-Müştâk, et-Tuhfetü'z-Zekiyye | Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **biz** |  | Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [najip-xiv](../../kaynaklar/KAYNAKLAR.md#najip-xiv) | ◐ tek kaynak |
 | 14. yy | Ortak Türkçe |  | **bīz** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 5, 17 | ◐ tek kaynak |
 | 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **biz** |  | el-Kavânînü'l-Külliye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) | ◐ tek kaynak |
 | 15.–18. yy | Harezm Türkçesi ve Çağatayca |  | **biz** | بیز | Çağatay edebî dili; Senglâh |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson), [senglah](../../kaynaklar/KAYNAKLAR.md#senglah) | ✓ doğrulandı |
-| 16.–19. yy | Türkiye Türkçesi | Osmanlı | **biz** | بز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◑ kısmen |
+| 16.–19. yy | Türkiye Türkçesi | Osmanlı | **biz** | بز | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — Wiktionary Reconstruction:Proto-Turkic/bīz; sayfanın kaynakları: yok | ◑ kısmen |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 

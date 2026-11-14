@@ -1,0 +1,58 @@
+{{reconstruction}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# [[snow]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** Volga bulgar: '''*xyār''' (as in [[Reconstruction:Proto-Turkic/kān|*kān]])
+*** {{desc|cv|юр}}
+* Common Turkic:
+{{top3}}
+* Karluk
+** {{desc|chg|قَارْ}}
+*** {{desc|ug|قار}}
+*** {{desc|uz|qor}}
+* Kipchak
+** North Kipchak
+*** {{desc|ba|ҡар}}
+*** {{desc|tt|qar}}
+** West Kipchak
+*** {{desc|crh|qar}}
+*** {{desc|krc|къар}}
+*** {{desc|kum|къар}}
+** South Kipchak
+*** {{desc|kk|қар}}
+** East Kipchak
+*** {{desc|ky|кар}}
+*** {{desc|alt|кар}}
+* Siberian Turkic
+** North Siberian
+*** {{desc|dlg|каар}}
+*** {{desc|sah|хаар}}
+** South Siberian
+*** {{desc|otk|𐰴𐰺|tr=qar}}
+*** Yenisei
+**** {{desc|cjs|қар}}
+**** {{desc|kjh|хар}}
+*** Sayan
+**** {{desc|tyv|хар}}
+*** {{desc|atv|кар}}
+* Arghu
+** {{desc|klj|qâr}}
+* Oghuz:
+** {{desc|trk-oat|}}
+*** {{desc|az|qar}}
+*** {{desc|gag|kaar}}
+*** {{desc|ota|قار|tr=kar}}
+**** {{desc|tr|kar}}
+** {{desc|tk|gār}}
+{{bottom}}
+
+{{top|trk-pro|Water}}

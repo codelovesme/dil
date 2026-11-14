@@ -1,0 +1,73 @@
+{{reconstructed}}
+==Proto-Turkic==
+
+===Noun===
+{{head|trk-pro|noun}}
+
+# {{top|trk-pro|Time}}
+# [[year]]
+
+====Declension====
+{{trk-pro-decl-noun|a}}
+
+====Descendants====
+* Oghur:
+** {{desc|cv|ҫул}} {{q|< {{m|trk-pro|*yāĺ}}, perhaps blended with '''*yïl'''}}
+* {{desc|trk-cmn-pro|*yïl}}
+{{top3}}
+* Arghu:
+** {{desc|klj|yıl}}
+* Oghuz:
+** {{desc|trk-oat|یل|tr=yıl}}
+*** {{desc|az|il}}
+*** {{desc|gag|yıl}}
+*** {{desctree|ota|ییل|tr=yıl}}
+** {{desc|tk|ýyl}}
+* Karluk:
+** {{desc|xqa|ییل|tr=yïl}}
+*** {{desc|chg|ییل|tr=yïl}}
+**** {{desc|uz|yil}}
+**** {{desc|ug|يىل}}
+* Kipchak:
+** North Kipchak:
+*** {{desc|tt|ел}}
+*** {{desc|ba|йыл}}
+** West Kipchak:
+*** {{desc|krc|джыл}}
+*** {{desc|crh|yıl}}
+*** {{desc|kum|йыл}}
+** South Kipchak:
+*** {{desc|kk|жыл}}
+*** {{desc|kaa|жыл|tr=jıl}}
+*** {{desc|nog|йыл}}
+** East Kipchak:
+*** {{desc|ky|жыл}}
+**** {{desc|haz|جیل|bor=1}}
+*** {{desc|alt|јыл}}
+* Siberian:
+** {{desc|otk|𐰘𐰃𐰞|ts=yïl}}
+*** {{desc|oui|}}
+**** {{desc|ybe||tr=yil}}
+** North Siberian
+*** {{desc|sah|сыл}}
+*** {{desc|dlg|һыл}}
+** South Siberian
+*** Sayan Turkic
+**** {{desc|tyv|чыл}}
+**** {{desc|kim|чыл}}
+*** Yenisei Turkic
+**** {{desc|clw|чыл}}
+**** {{desc|atv|чыл}}
+**** {{desc|cjs|чыл}}
+**** {{desc|kjh|чыл}}
+* {{desc|xgn-pro|*ǯil|bor=1}}
+** {{desc|mn|жил}}
+** {{desc|bua|жэл}}
+** {{desc|xal|җил}}
+{{bottom}}
+
+===References===
+* {{R:trk:Clauson|page=917}}
+* {{R:trk:VEWT|page=105}}
+* {{R:trk:ESTJa|vol=IV|page=275}}
+* {{R:trk:SIGTJa|page=70-71}}
