@@ -8,10 +8,10 @@ etimoloji: çöp 'ince dal, çöp'; Kazak, Karakalpak, Kırgız dillerinde ve Sa
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1958, baskakov1967', bicim: şöp, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şöp, dil: kaz, kaynak: savelyev-turkic, yazi: шөп}
-  - {atif: 'judakhin1985, judakhin1957', bicim: çöp, dil: kir, kaynak: savelyev-turkic, yazi: чөп}
-  - {atif: tenisev1976, bicim: çöp, dil: slr, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: şöp, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şöp, dil: kaz, kaynak: savelyev-turkic, yazi: шөп, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: çöp, dil: kir, kaynak: savelyev-turkic, yazi: чөп, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: çöp, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine ot (ot-bitki)

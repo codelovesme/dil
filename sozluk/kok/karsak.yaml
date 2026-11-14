@@ -8,7 +8,7 @@ etimoloji: Baraba Tatarcası karsak; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: dmitrijeva1981, bicim: karsak, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: karsak, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine kıska (kısga)

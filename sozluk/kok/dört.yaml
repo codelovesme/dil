@@ -16,6 +16,7 @@ taniklar:
     kaynak: savelyev-turkic; clauson
     atif: Clauson 1972
     bicim: dört
+    denetim: {durum: dogrulandi, bicim: [savelyev-turkic, clauson], anlam: [savelyev-turkic, clauson]}
   - dil: qwm
     yer: Kırım ve Deşt-i Kıpçak
     yuzyil: 14
@@ -25,35 +26,36 @@ taniklar:
     kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
     yabanci: true
     bicim: tört
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: dörd, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: dürt, dil: bak, kaynak: savelyev-turkic, yazi: дүрт}
-  - {atif: 'asmarin1928, savelyev2011', bicim: tăvattă, dil: chv, kaynak: savelyev-turkic, not: Oğur gelişmesi; uzun ö'nün izi., yazi: тӑваттӑ}
-  - {atif: useinov2007, bicim: dört, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: tüört, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: dört, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: tört, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: dört, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: tört, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tört, dil: kaz, kaynak: savelyev-turkic, yazi: төрт}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tört, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: tööört, dil: klj, kaynak: savelyev-turkic, not: Uzun ünlü.}
-  - {atif: 'judakhin1985, judakhin1957', bicim: tört, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: dört, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: tört, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: dört, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: tört, dil: atv, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: dürt, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: tört, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: tört, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: dürt, dil: tat, kaynak: savelyev-turkic, yazi: дүрт}
-  - {atif: 'rassadin1971, rassadin2005', bicim: dört, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: dört, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: dört, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dört, dil: tyv, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: tört, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: tört, dil: uzb, kaynak: savelyev-turkic, yazi: to'rt}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tüört, dil: sah, kaynak: savelyev-turkic, not: Uzun ünlünün izi (üö)., yazi: түөрт}
-  - {atif: dmitrijeva1981, bicim: tört, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: dörd, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005', bicim: dürt, dil: bak, kaynak: savelyev-turkic, yazi: дүрт, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011', bicim: tăvattă, dil: chv, kaynak: savelyev-turkic, not: Oğur gelişmesi; uzun ö'nün izi., yazi: тӑваттӑ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: dört, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tüört, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: dört, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tört, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: dört, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: tört, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tört, dil: kaz, kaynak: savelyev-turkic, yazi: төрт, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tört, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: tööört, dil: klj, kaynak: savelyev-turkic, not: Uzun ünlü., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: tört, dil: kir, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: dört, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: tört, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: dört, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: tört, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: dürt, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: tört, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: tört, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: dürt, dil: tat, kaynak: savelyev-turkic, yazi: дүрт, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: dört, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: dört, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: dört, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dört, dil: tyv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: tört, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: tört, dil: uzb, kaynak: savelyev-turkic, yazi: to'rt, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tüört, dil: sah, kaynak: savelyev-turkic, not: Uzun ünlünün izi (üö)., yazi: түөрт, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: tört, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok: {}
 tarihi_yok: {}

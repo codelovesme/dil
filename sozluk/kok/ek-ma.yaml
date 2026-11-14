@@ -10,29 +10,29 @@ etimoloji: Ana Türkçe *-mA. Bütün kollarda; Kazak, Karakalpak ve Nogay dille
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (12 örnek: oxuma, ağlama, saxlama)', bicim: ma, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.'}
-  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (1 örnek: buyama)', bicim: ma, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
-  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (9 örnek: kalama, sıvlama, vulama)', bicim: ma, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.'}
-  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (1 örnek: taşlama)', bicim: ma, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
-  - {bicim: ma, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: apertium-gag.gag.lexc, bicim: ma, dil: gag, kaynak: apertium, not: 'Apertium: -m{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: apertium-krc.krc.lexc, bicim: ma, dil: krc, kaynak: apertium, not: 'Apertium: -m{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {bicim: ma, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: apertium-kaa.kaa.lexc, bicim: ma, dil: kaa, kaynak: apertium, not: 'Apertium: -{M}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: ma, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{M}{A}.'}
-  - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL', bicim: ba, dil: kir, kaynak: apertium; universal-dependencies, not: 'Apertium: -{B}{A}. Kırgızcada ünlüden sonra ba.'}
-  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (3 örnek: aşama, maktama, karama)', bicim: ma, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.'}
-  - {atif: apertium-nog.nog.lexc, bicim: ma, dil: nog, kaynak: apertium, not: 'Apertium: -{M}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {bicim: ba, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: apertium-alt.alt.lexc, bicim: ba, dil: alt, kaynak: apertium, not: 'Apertium: -{B}{A}. Ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (249 örnek: karama, kazıma, uylama)', bicim: ma, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.'}
-  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: ma, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -m{A}.'}
-  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (2 örnek: okama, gurama)', bicim: ma, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.'}
-  - {atif: apertium-tyv.tyv.lexc, bicim: ba, dil: tyv, kaynak: apertium, not: 'Apertium: -{B}{A}. Apertium''da {B} b, v, m olabilir; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: 'apertium-uig.uig.lexc; Tatoeba metinleri (2 örnek: untuma, okuma)', bicim: ma, dil: uig, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.'}
-  - {atif: 'apertium-uzb.uzb.lexc; UD_Uzbek-UzUDT, UT', bicim: ma, dil: uzb, kaynak: apertium; universal-dependencies, not: 'Apertium: -ma.'}
-  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ma, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{B}{A}. Apertium {B} ile tek harf gösterir; UD derleminde ünlüden sonra ma, me, ünsüzden sonra ba, be, pa.'}
-  - {bicim: ma, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (12 örnek: oxuma, ağlama, saxlama)', bicim: ma, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (1 örnek: buyama)', bicim: ma, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}. Tatoeba''da tek örnek; zayıf kanıt.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (9 örnek: kalama, sıvlama, vulama)', bicim: ma, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (1 örnek: taşlama)', bicim: ma, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}. Tatoeba''da tek örnek; zayıf kanıt.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {bicim: ma, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: apertium-gag.gag.lexc, bicim: ma, dil: gag, kaynak: apertium, not: 'Apertium: -m{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: apertium-krc.krc.lexc, bicim: ma, dil: krc, kaynak: apertium, not: 'Apertium: -m{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {bicim: ma, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: apertium-kaa.kaa.lexc, bicim: ma, dil: kaa, kaynak: apertium, not: 'Apertium: -{M}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: ma, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{M}{A}.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL', bicim: ba, dil: kir, kaynak: apertium; universal-dependencies, not: 'Apertium: -{B}{A}. Kırgızcada ünlüden sonra ba.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (3 örnek: aşama, maktama, karama)', bicim: ma, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-nog.nog.lexc, bicim: ma, dil: nog, kaynak: apertium, not: 'Apertium: -{M}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {bicim: ba, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: apertium-alt.alt.lexc, bicim: ba, dil: alt, kaynak: apertium, not: 'Apertium: -{B}{A}. Ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (249 örnek: karama, kazıma, uylama)', bicim: ma, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: ma, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (2 örnek: okama, gurama)', bicim: ma, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-tyv.tyv.lexc, bicim: ba, dil: tyv, kaynak: apertium, not: 'Apertium: -{B}{A}. Apertium''da {B} b, v, m olabilir; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-uig.uig.lexc; Tatoeba metinleri (2 örnek: untuma, okuma)', bicim: ma, dil: uig, kaynak: apertium; tatoeba, not: 'Apertium: -m{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uzb.uzb.lexc; UD_Uzbek-UzUDT, UT', bicim: ma, dil: uzb, kaynak: apertium; universal-dependencies, not: 'Apertium: -ma.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ma, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{B}{A}. Apertium {B} ile tek harf gösterir; UD derleminde ünlüden sonra ma, me, ünsüzden sonra ba, be, pa.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {bicim: ma, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
 
 yok: {}
 tarihi_yok: {}

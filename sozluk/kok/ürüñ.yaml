@@ -15,8 +15,9 @@ taniklar:
     bicim: ürüñ
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: doerfer1980, bicim: hürün, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ürüñ, dil: sah, kaynak: savelyev-turkic, yazi: үрүҥ}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: doerfer1980, bicim: hürün, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ürüñ, dil: sah, kaynak: savelyev-turkic, yazi: үрүҥ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ak (ak)

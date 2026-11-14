@@ -8,7 +8,7 @@ etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xotuolaa, dil: sah, kaynak: savelyev-turkic, yazi: хотуолаа-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xotuolaa, dil: sah, kaynak: savelyev-turkic, yazi: хотуолаа-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine kus (kus)

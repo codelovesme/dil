@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,42 +25,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sarı Uygurca |  | **tıñna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tuvaca |  | **dıñna** | дыңна- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tofaca |  | **tıñna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine işit (eşit) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine eşit (eşit) |
-| | Başkurtça | | — | | | | kök yok: yerine işet (eşit) |
-| | Çuvaşça | | — | | | | kök yok: yerine ilt (eşit) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine eşit (eşit) |
-| | Dolganca | | — | | | | kök yok: yerine ihit (eşit) |
-| | Gagavuzca | | — | | | | kök yok: yerine işit (eşit) |
-| | Karakalpakça | | — | | | | kök yok: yerine esit (eşit) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine eşit (eşit) |
-| | Karayca | | — | | | | kök yok: yerine esit (eşit) |
-| | Kazakça | | — | | | | kök yok: yerine esit (eşit) |
-| | Hakasça | | — | | | | kök yok: yerine is (eşit) |
-| | Halaçça | | — | | | | kök yok: yerine işüt (eşit) |
-| | Kumukça | | — | | | | kök yok: yerine eşit (eşit) |
-| | Çulımca | | — | | | | kök yok: yerine äs (eşit) |
-| | Nogayca | | — | | | | kök yok: yerine esit (eşit) |
-| | Salarca | | — | | | | kök yok: yerine işti (eşit) |
-| | Tatarca | | — | | | | kök yok: yerine işet (eşit) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine işit (eşit) |
-| | Türkmence | | — | | | | kök yok: yerine eşit (eşit) |
-| | Uygurca | | — | | | | kök yok: yerine işit (eşit) |
-| | Özbekçe | | — | | | | kök yok: yerine eşit (eşit) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ihit (eşit) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine uk (uk) |
-| | Güney Altayca | | — | | | | kök yok: yerine uk (uk) |
-| | Kırgızca | | — | | | | kök yok: yerine uk (uk) |
-| | Şorca | | — | | | | kök yok: yerine uk (uk) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sarı Uygurca |  | **tıñna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tuvaca |  | **dıñna** | дыңна- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tofaca |  | **tıñna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine işit (eşit) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine eşit (eşit) |
+| | Başkurtça | | — | | | | | kök yok: yerine işet (eşit) |
+| | Çuvaşça | | — | | | | | kök yok: yerine ilt (eşit) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine eşit (eşit) |
+| | Dolganca | | — | | | | | kök yok: yerine ihit (eşit) |
+| | Gagavuzca | | — | | | | | kök yok: yerine işit (eşit) |
+| | Karakalpakça | | — | | | | | kök yok: yerine esit (eşit) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine eşit (eşit) |
+| | Karayca | | — | | | | | kök yok: yerine esit (eşit) |
+| | Kazakça | | — | | | | | kök yok: yerine esit (eşit) |
+| | Hakasça | | — | | | | | kök yok: yerine is (eşit) |
+| | Halaçça | | — | | | | | kök yok: yerine işüt (eşit) |
+| | Kumukça | | — | | | | | kök yok: yerine eşit (eşit) |
+| | Çulımca | | — | | | | | kök yok: yerine äs (eşit) |
+| | Nogayca | | — | | | | | kök yok: yerine esit (eşit) |
+| | Salarca | | — | | | | | kök yok: yerine işti (eşit) |
+| | Tatarca | | — | | | | | kök yok: yerine işet (eşit) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine işit (eşit) |
+| | Türkmence | | — | | | | | kök yok: yerine eşit (eşit) |
+| | Uygurca | | — | | | | | kök yok: yerine işit (eşit) |
+| | Özbekçe | | — | | | | | kök yok: yerine eşit (eşit) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ihit (eşit) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine uk (uk) |
+| | Güney Altayca | | — | | | | | kök yok: yerine uk (uk) |
+| | Kırgızca | | — | | | | | kök yok: yerine uk (uk) |
+| | Şorca | | — | | | | | kök yok: yerine uk (uk) |
 
 ## Kaynakça
 

@@ -18,6 +18,7 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım čibuch.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
 
 yok:
   sty-baraba: yerine tayak (tayak)

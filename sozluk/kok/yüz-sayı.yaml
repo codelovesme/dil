@@ -15,34 +15,35 @@ taniklar:
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
     yazi: یوز
-  - {bicim: yüz, dil: aze, kaynak: wiktionary-ana-turkce}
-  - {bicim: yöz, dil: bak, kaynak: wiktionary-ana-turkce, yazi: йөҙ}
-  - {bicim: şĕr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫӗр}
-  - {bicim: yüz, dil: crh, kaynak: wiktionary-ana-turkce}
-  - {bicim: hüüs, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һүүс}
-  - {bicim: üz, dil: gag, kaynak: wiktionary-ana-turkce}
-  - {bicim: cüz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: жюз}
-  - {bicim: jüz, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: júz}
-  - {bicim: jüz, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жүз}
-  - {bicim: çüs, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чӱс}
-  - {bicim: yüüz, dil: klj, kaynak: wiktionary-ana-turkce}
-  - {bicim: jüz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жүз}
-  - {bicim: yüz, dil: kum, kaynak: wiktionary-ana-turkce, yazi: юз}
-  - {bicim: şçüs, dil: clw, kaynak: wiktionary-ana-turkce, yazi: щӱс}
-  - {bicim: yüz, dil: nog, kaynak: wiktionary-ana-turkce, yazi: юз}
-  - {bicim: çüs, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чӱс}
-  - {bicim: yüz, dil: slr, kaynak: wiktionary-ana-turkce}
-  - {bicim: yöz, dil: ybe, kaynak: wiktionary-ana-turkce}
-  - {bicim: çüs, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чӱс}
-  - {bicim: yüs, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јӱс}
-  - {bicim: yöz, dil: tat, kaynak: wiktionary-ana-turkce, yazi: йөз}
-  - {bicim: çüs, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чүс}
-  - {bicim: yüz, dil: tur, kaynak: wiktionary-ana-turkce}
-  - {bicim: yüz, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýüz}
-  - {bicim: çüs, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чүс}
-  - {dil: uig, bicim: yüz, yazi: يۈز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 45 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: yuz, dil: uzb, kaynak: wiktionary-ana-turkce}
-  - {bicim: süüs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүс}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {bicim: yüz, dil: aze, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yöz, dil: bak, kaynak: wiktionary-ana-turkce, yazi: йөҙ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: şĕr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫӗр, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüz, dil: crh, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: hüüs, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һүүс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: üz, dil: gag, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: cüz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: жюз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jüz, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: júz, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jüz, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жүз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çüs, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чӱс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüüz, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jüz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жүз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüz, dil: kum, kaynak: wiktionary-ana-turkce, yazi: юз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: şçüs, dil: clw, kaynak: wiktionary-ana-turkce, yazi: щӱс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüz, dil: nog, kaynak: wiktionary-ana-turkce, yazi: юз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çüs, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чӱс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüz, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yöz, dil: ybe, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çüs, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чӱс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüs, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јӱс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yöz, dil: tat, kaynak: wiktionary-ana-turkce, yazi: йөз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çüs, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чүс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüz, dil: tur, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yüz, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýüz, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çüs, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чүс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: yüz, yazi: يۈز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 45 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yuz, dil: uzb, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: süüs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
 
 yok: {}
 tarihi_yok: {}

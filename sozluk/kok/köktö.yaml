@@ -9,7 +9,7 @@ etimoloji: kökte- 'teyellemek' fiilinin Altaycada genel 'dikmek' anlamı olabil
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: köktö, dil: alt, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: köktö, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tik (tik)

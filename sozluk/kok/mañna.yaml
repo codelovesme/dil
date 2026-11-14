@@ -8,7 +8,7 @@ etimoloji: Tuvaca mañna-; Moğolca ödünç olabilir, bu çalışmada araştır
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: mañna, dil: tyv, kaynak: savelyev-turkic, yazi: маңна-}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: mañna, dil: tyv, kaynak: savelyev-turkic, yazi: маңна-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yögir (yügür)

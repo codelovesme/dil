@@ -10,14 +10,14 @@ etimoloji: Ana Türkçe *ekšig 'ekşi' (ekşi- 'ekşimek' fiilinden). Clauson'a
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: ekşi, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: iişi, dil: gag, kaynak: savelyev-turkic, not: iyşi de.}
-  - {atif: 'baskakov1977, iz1992', bicim: ekşi, dil: tur, kaynak: savelyev-turkic}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: ekşig, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 105 (Clauson, ekşig)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: ekşi nar örneği.}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: ekşi, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 8 (Clauson, ekşig)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, not: Yazmaların çoğunda acığ.}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: ekşi, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 12 (Clauson, ekşig)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, not: Türkmence diye.}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: ekşi, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 13a 11 (Clauson, ekşig)'}
-  - {dil: chg, yuzyil: 16-18, bicim: ekşi, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 45v (Clauson, ekşig)'}
+  - {atif: useinov2007, bicim: ekşi, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: iişi, dil: gag, kaynak: savelyev-turkic, not: iyşi de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: ekşi, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: ekşig, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 105 (Clauson, ekşig)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: ekşi nar örneği., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: ekşi, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 8 (Clauson, ekşig)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, not: Yazmaların çoğunda acığ., denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: ekşi, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 12 (Clauson, ekşig)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, not: Türkmence diye., denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: ekşi, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 13a 11 (Clauson, ekşig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: ekşi, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 45v (Clauson, ekşig)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   atv: yerine acığ (açığ)

@@ -8,7 +8,7 @@ etimoloji: sırt 'sırt; dağ sırtı'; Karaçay-Malkarcada asıl 'sırt' kelime
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'tenisev1989, sujuncev1965', bicim: sırt, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: sırt, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine arğa (arka)

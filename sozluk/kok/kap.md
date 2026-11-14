@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 6 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 6 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐6**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,43 +24,43 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkiye Türkçesi |  | **kapla** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle; günlük dilde ört- de. |
-| Kıpçak kolu | Kırım Tatarcası |  | **kapat** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **xap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **kap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **kapla** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **kap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Dolganca | | — | | | | kök yok: yerine ıtır (ısır) |
-| | Hakasça | | — | | | | kök yok: yerine ızır (ısır) |
-| | Şorca | | — | | | | kök yok: yerine ızır (ısır) |
-| | Tofaca | | — | | | | kök yok: yerine ısır (ısır) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine ısır (ısır) |
-| | Tuvaca | | — | | | | kök yok: yerine ızır (ısır) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ıtır (ısır) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tişte (tişle) |
-| | Güney Altayca | | — | | | | kök yok: yerine tişte (tişle) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine dişlä (tişle) |
-| | Başkurtça | | — | | | | kök yok: yerine teşlä (tişle) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tişle (tişle) |
-| | Karakalpakça | | — | | | | kök yok: yerine tisle (tişle) |
-| | Karayca | | — | | | | kök yok: yerine tişle (tişle) |
-| | Kazakça | | — | | | | kök yok: yerine tiste (tişle) |
-| | Kırgızca | | — | | | | kök yok: yerine tiştö (tişle) |
-| | Nogayca | | — | | | | kök yok: yerine tisle (tişle) |
-| | Salarca | | — | | | | kök yok: yerine çişle (tişle) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine teste (tişle) |
-| | Tatarca | | — | | | | kök yok: yerine teşlä (tişle) |
-| | Türkmence | | — | | | | kök yok: yerine dişle (tişle) |
-| | Uygurca | | — | | | | kök yok: yerine çişlä (tişle) |
-| | Özbekçe | | — | | | | kök yok: yerine tişla (tişle) |
-| | Gagavuzca | | — | | | | kök yok: yerine dala (tala) |
-| | Çuvaşça | | — | | | | kök yok: yerine şırt (şırt) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **kapla** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | Savelyev soru işaretiyle; günlük dilde ört- de. |
+| Kıpçak kolu | Kırım Tatarcası |  | **kapat** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kumukça |  | **xap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **kap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Uygurca |  | **kapla** |  | örtmek (kapla-, kapat-) | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Çulımca |  | **kap** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Dolganca | | — | | | | | kök yok: yerine ıtır (ısır) |
+| | Hakasça | | — | | | | | kök yok: yerine ızır (ısır) |
+| | Şorca | | — | | | | | kök yok: yerine ızır (ısır) |
+| | Tofaca | | — | | | | | kök yok: yerine ısır (ısır) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine ısır (ısır) |
+| | Tuvaca | | — | | | | | kök yok: yerine ızır (ısır) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ıtır (ısır) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tişte (tişle) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tişte (tişle) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine dişlä (tişle) |
+| | Başkurtça | | — | | | | | kök yok: yerine teşlä (tişle) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tişle (tişle) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tisle (tişle) |
+| | Karayca | | — | | | | | kök yok: yerine tişle (tişle) |
+| | Kazakça | | — | | | | | kök yok: yerine tiste (tişle) |
+| | Kırgızca | | — | | | | | kök yok: yerine tiştö (tişle) |
+| | Nogayca | | — | | | | | kök yok: yerine tisle (tişle) |
+| | Salarca | | — | | | | | kök yok: yerine çişle (tişle) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine teste (tişle) |
+| | Tatarca | | — | | | | | kök yok: yerine teşlä (tişle) |
+| | Türkmence | | — | | | | | kök yok: yerine dişle (tişle) |
+| | Uygurca | | — | | | | | kök yok: yerine çişlä (tişle) |
+| | Özbekçe | | — | | | | | kök yok: yerine tişla (tişle) |
+| | Gagavuzca | | — | | | | | kök yok: yerine dala (tala) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şırt (şırt) |
 
 ## Kaynakça
 

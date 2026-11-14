@@ -9,18 +9,18 @@ etimoloji: kara- 'bakmak'; Kıpçak, Kırgız ve Karluk dillerinde asıl 'bakmak
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: kara, dil: bak, kaynak: savelyev-turkic, yazi: ҡара-}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kara, dil: krc, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: kara, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kara, dil: kaz, kaynak: savelyev-turkic, yazi: қара-}
-  - {atif: 'judakhin1985, judakhin1957', bicim: kara, dil: kir, kaynak: savelyev-turkic, yazi: кара-}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kara, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kara, dil: nog, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: kara, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: kara, dil: tat, kaynak: savelyev-turkic, yazi: кара-}
-  - {atif: nadzip1968, bicim: kara, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kara, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: kara, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: kara, dil: bak, kaynak: savelyev-turkic, yazi: ҡара-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kara, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kara, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kara, dil: kaz, kaynak: savelyev-turkic, yazi: қара-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kara, dil: kir, kaynak: savelyev-turkic, yazi: кара-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kara, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kara, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: kara, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: kara, dil: tat, kaynak: savelyev-turkic, yazi: кара-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: kara, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kara, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: kara, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine bax (bak)

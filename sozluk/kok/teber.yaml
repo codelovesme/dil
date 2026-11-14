@@ -8,8 +8,8 @@ etimoloji: tep- 'tekmelemek' + -er; Karaçay-Malkar ve Kumukçada 'itmek'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'tenisev1989, sujuncev1965', bicim: teber, dil: krc, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: teber, dil: kum, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: teber, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: teber, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine it (it)

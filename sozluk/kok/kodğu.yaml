@@ -14,7 +14,8 @@ taniklar:
     bicim: kodğu
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: doerfer1980, bicim: gudğu, dil: klj, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: doerfer1980, bicim: gudğu, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine çımın (çıbın)

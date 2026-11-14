@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,39 +24,39 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **kıarağas** | кыарағас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle. |
-| Sibirya kolu | Dolganca |  | **kıaragas** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Güney Altayca | | — | | | | kök yok: yerine tar (tar) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine dar (tar) |
-| | Başkurtça | | — | | | | kök yok: yerine tar (tar) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tar (tar) |
-| | Gagavuzca | | — | | | | kök yok: yerine dar (tar) |
-| | Karakalpakça | | — | | | | kök yok: yerine tar (tar) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine tar (tar) |
-| | Karayca | | — | | | | kök yok: yerine tar (tar) |
-| | Kazakça | | — | | | | kök yok: yerine tar (tar) |
-| | Hakasça | | — | | | | kök yok: yerine tar (tar) |
-| | Halaçça | | — | | | | kök yok: yerine taar (tar) |
-| | Kırgızca | | — | | | | kök yok: yerine tar (tar) |
-| | Kumukça | | — | | | | kök yok: yerine tar (tar) |
-| | Nogayca | | — | | | | kök yok: yerine tar (tar) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine tar (tar) |
-| | Şorca | | — | | | | kök yok: yerine tar (tar) |
-| | Tatarca | | — | | | | kök yok: yerine tar (tar) |
-| | Tofaca | | — | | | | kök yok: yerine tar (tar) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine dar (tar) |
-| | Türkmence | | — | | | | kök yok: yerine dar (tar) |
-| | Tuvaca | | — | | | | kök yok: yerine tar (tar) |
-| | Uygurca | | — | | | | kök yok: yerine tar (tar) |
-| | Özbekçe | | — | | | | kök yok: yerine tor (tar) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ıkçam (ıkçam) |
-| | Çuvaşça | | — | | | | kök yok: yerine anzĕr (anzĕr) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **kıarağas** | кыарағас |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | Savelyev soru işaretiyle. |
+| Sibirya kolu | Dolganca |  | **kıaragas** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Güney Altayca | | — | | | | | kök yok: yerine tar (tar) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine dar (tar) |
+| | Başkurtça | | — | | | | | kök yok: yerine tar (tar) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tar (tar) |
+| | Gagavuzca | | — | | | | | kök yok: yerine dar (tar) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tar (tar) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine tar (tar) |
+| | Karayca | | — | | | | | kök yok: yerine tar (tar) |
+| | Kazakça | | — | | | | | kök yok: yerine tar (tar) |
+| | Hakasça | | — | | | | | kök yok: yerine tar (tar) |
+| | Halaçça | | — | | | | | kök yok: yerine taar (tar) |
+| | Kırgızca | | — | | | | | kök yok: yerine tar (tar) |
+| | Kumukça | | — | | | | | kök yok: yerine tar (tar) |
+| | Nogayca | | — | | | | | kök yok: yerine tar (tar) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine tar (tar) |
+| | Şorca | | — | | | | | kök yok: yerine tar (tar) |
+| | Tatarca | | — | | | | | kök yok: yerine tar (tar) |
+| | Tofaca | | — | | | | | kök yok: yerine tar (tar) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine dar (tar) |
+| | Türkmence | | — | | | | | kök yok: yerine dar (tar) |
+| | Tuvaca | | — | | | | | kök yok: yerine tar (tar) |
+| | Uygurca | | — | | | | | kök yok: yerine tar (tar) |
+| | Özbekçe | | — | | | | | kök yok: yerine tor (tar) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ıkçam (ıkçam) |
+| | Çuvaşça | | — | | | | | kök yok: yerine anzĕr (anzĕr) |
 
 ## Kaynakça
 

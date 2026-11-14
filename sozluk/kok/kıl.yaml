@@ -16,8 +16,9 @@ taniklar:
     bicim: kıl
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kıl, dil: tyv, kaynak: savelyev-turkic, yazi: кыл-}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kil, dil: uzb, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kıl, dil: tyv, kaynak: savelyev-turkic, yazi: кыл-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kil, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine et (et)

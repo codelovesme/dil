@@ -9,10 +9,10 @@ etimoloji: kün 'güneş, gün' adının -eş ekli türevi; Oğuz dillerinde, K�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: günäş, dil: aze, kaynak: savelyev-turkic}
-  - {atif: useinov2007, bicim: küneş, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: güneş, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: güneş, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: günäş, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: küneş, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: güneş, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: güneş, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine koyaş (koyaş)

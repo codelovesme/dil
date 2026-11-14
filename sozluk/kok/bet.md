@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,38 +24,38 @@
 
 Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Karakalpakça, İli Türkçesi, Tofaca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Kazakça |  | **bet** | бет |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **bet** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırgızca |  | **bet** | бет |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yañak (yañak) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine yaak (yañak) |
-| | Güney Altayca | | — | | | | kök yok: yerine daak (yañak) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine yanağ (yañak) |
-| | Başkurtça | | — | | | | kök yok: yerine yañak (yañak) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yanak (yañak) |
-| | Dolganca | | — | | | | kök yok: yerine hıñaak (yañak) |
-| | Gagavuzca | | — | | | | kök yok: yerine yanak (yañak) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cayak (yañak) |
-| | Karayca | | — | | | | kök yok: yerine yayak (yañak) |
-| | Hakasça | | — | | | | kök yok: yerine naax (yañak) |
-| | Kumukça | | — | | | | kök yok: yerine yayak (yañak) |
-| | Çulımca | | — | | | | kök yok: yerine çaağ (yañak) |
-| | Salarca | | — | | | | kök yok: yerine yanax (yañak) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine yañak (yañak) |
-| | Şorca | | — | | | | kök yok: yerine naak (yañak) |
-| | Tatarca | | — | | | | kök yok: yerine yanak (yañak) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yanak (yañak) |
-| | Türkmence | | — | | | | kök yok: yerine yanak (yañak) |
-| | Tuvaca | | — | | | | kök yok: yerine çaak (yañak) |
-| | Özbekçe | | — | | | | kök yok: yerine yuz (yüz-ad) |
-| | Uygurca | | — | | | | kök yok: yerine mäñiz (mäñiz) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine iedes (iedes) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Kazakça |  | **bet** | бет |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Nogayca |  | **bet** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kırgızca |  | **bet** | бет |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yañak (yañak) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine yaak (yañak) |
+| | Güney Altayca | | — | | | | | kök yok: yerine daak (yañak) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine yanağ (yañak) |
+| | Başkurtça | | — | | | | | kök yok: yerine yañak (yañak) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yanak (yañak) |
+| | Dolganca | | — | | | | | kök yok: yerine hıñaak (yañak) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yanak (yañak) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cayak (yañak) |
+| | Karayca | | — | | | | | kök yok: yerine yayak (yañak) |
+| | Hakasça | | — | | | | | kök yok: yerine naax (yañak) |
+| | Kumukça | | — | | | | | kök yok: yerine yayak (yañak) |
+| | Çulımca | | — | | | | | kök yok: yerine çaağ (yañak) |
+| | Salarca | | — | | | | | kök yok: yerine yanax (yañak) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine yañak (yañak) |
+| | Şorca | | — | | | | | kök yok: yerine naak (yañak) |
+| | Tatarca | | — | | | | | kök yok: yerine yanak (yañak) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yanak (yañak) |
+| | Türkmence | | — | | | | | kök yok: yerine yanak (yañak) |
+| | Tuvaca | | — | | | | | kök yok: yerine çaak (yañak) |
+| | Özbekçe | | — | | | | | kök yok: yerine yuz (yüz-ad) |
+| | Uygurca | | — | | | | | kök yok: yerine mäñiz (mäñiz) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine iedes (iedes) |
 
 ## Kaynakça
 

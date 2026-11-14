@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 1/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 1/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,44 +24,44 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırımçakça, Urumca, Karakalpakça, Kırgızca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **arığ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **arığ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Salarca |  | **arığ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine orman (orman) |
-| | Başkurtça | | — | | | | kök yok: yerine urman (orman) |
-| | Çuvaşça | | — | | | | kök yok: yerine vărman (orman) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine orman (orman) |
-| | Karayca | | — | | | | kök yok: yerine orman (orman) |
-| | Kazakça | | — | | | | kök yok: yerine orman (orman) |
-| | Kumukça | | — | | | | kök yok: yerine orman (orman) |
-| | Nogayca | | — | | | | kök yok: yerine orman (orman) |
-| | Tatarca | | — | | | | kök yok: yerine urman (orman) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine orman (orman) |
-| | Uygurca | | — | | | | kök yok: yerine orman (orman) |
-| | Özbekçe | | — | | | | kök yok: yerine örmon (orman) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Güney Altayca | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine ağaç (ığaç) |
-| | Hakasça | | — | | | | kök yok: yerine ağas (ığaç) |
-| | Çulımca | | — | | | | kök yok: yerine aaç (ığaç) |
-| | Şorca | | — | | | | kök yok: yerine ağaş (ığaç) |
-| | Tuvaca | | — | | | | kök yok: yerine ıyaş (ığaç) |
-| | Gagavuzca | | — | | | | kök yok: yerine daa (tağ) |
-| | Dolganca | | — | | | | kök yok: yerine mas (mas) |
-| | Tofaca | | — | | | | kök yok: yerine neş (neş) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine tıa (tıa) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Salarca |  | **arığ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine orman (orman) |
+| | Başkurtça | | — | | | | | kök yok: yerine urman (orman) |
+| | Çuvaşça | | — | | | | | kök yok: yerine vărman (orman) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine orman (orman) |
+| | Karayca | | — | | | | | kök yok: yerine orman (orman) |
+| | Kazakça | | — | | | | | kök yok: yerine orman (orman) |
+| | Kumukça | | — | | | | | kök yok: yerine orman (orman) |
+| | Nogayca | | — | | | | | kök yok: yerine orman (orman) |
+| | Tatarca | | — | | | | | kök yok: yerine urman (orman) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine orman (orman) |
+| | Uygurca | | — | | | | | kök yok: yerine orman (orman) |
+| | Özbekçe | | — | | | | | kök yok: yerine örmon (orman) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Güney Altayca | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine ağaç (ığaç) |
+| | Hakasça | | — | | | | | kök yok: yerine ağas (ığaç) |
+| | Çulımca | | — | | | | | kök yok: yerine aaç (ığaç) |
+| | Şorca | | — | | | | | kök yok: yerine ağaş (ığaç) |
+| | Tuvaca | | — | | | | | kök yok: yerine ıyaş (ığaç) |
+| | Gagavuzca | | — | | | | | kök yok: yerine daa (tağ) |
+| | Dolganca | | — | | | | | kök yok: yerine mas (mas) |
+| | Tofaca | | — | | | | | kök yok: yerine neş (neş) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine tıa (tıa) |
 
 ## Kaynakça
 

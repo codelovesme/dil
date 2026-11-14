@@ -9,8 +9,8 @@ etimoloji: keş 'işlenmiş deri, post'; Sayan dillerinde 'deri'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: keş, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: keş, dil: tyv, kaynak: savelyev-turkic, yazi: кеш}
+  - {atif: 'rassadin1971, rassadin2005', bicim: keş, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: keş, dil: tyv, kaynak: savelyev-turkic, yazi: кеш, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine täri (teri)

@@ -9,10 +9,10 @@ etimoloji: yağ- 'yağmak' fiilinden yağış; Azerbaycan Türkçesi, Kırım Ta
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yağış, dil: aze, kaynak: savelyev-turkic}
-  - {atif: useinov2007, bicim: yağış, dil: crh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: yağış, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: yağış, dil: tuk, kaynak: savelyev-turkic, not: Ayrıca yağmır.}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: yağış, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: yağış, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: yağış, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: yağış, dil: tuk, kaynak: savelyev-turkic, not: Ayrıca yağmır., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yañgır (yağmur)

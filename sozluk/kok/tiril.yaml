@@ -17,7 +17,8 @@ taniklar:
     bicim: tiril
     kaynak: savelyev-turkic
     atif: noauthor1880
-  - {atif: baskakov1974, bicim: tiril, dil: kdr, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: baskakov1974, bicim: tiril, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yeşä (yaşa)

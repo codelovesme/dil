@@ -8,8 +8,8 @@ etimoloji: tura 'kale, sığınak'; Hakasça ve Güney Altaycada 'ev'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tura, dil: kjh, kaynak: savelyev-turkic, yazi: тура}
-  - {atif: baskakov1947, bicim: tura, dil: alt, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tura, dil: kjh, kaynak: savelyev-turkic, yazi: тура, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: tura, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ü (eb)

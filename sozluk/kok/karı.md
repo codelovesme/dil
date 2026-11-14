@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,35 +25,35 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırımçakça, Urumca, Kazakça, Kırgızca, Uygurca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Gagavuzca |  | **karı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine tişiriw (tişi) |
-| | Şorca | | — | | | | kök yok: yerine tiji kiji (tişi) |
-| | Nogayca | | — | | | | kök yok: yerine xatınkız (katun, alıntı:sogd) |
-| | Tatarca | | — | | | | kök yok: yerine xatınkız (katun, alıntı:sogd) |
-| | Baraba ağzı | | — | | | | kök yok: yerine katın (katun, alıntı:sogd) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kat (katun, alıntı:sogd) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kadın (katun, alıntı:sogd) |
-| | Başkurtça | | — | | | | kök yok: yerine katın (katun, alıntı:sogd) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kadın (katun, alıntı:sogd) |
-| | Karakalpakça | | — | | | | kök yok: yerine katın (katun, alıntı:sogd) |
-| | Karayca | | — | | | | kök yok: yerine katın (katun, alıntı:sogd) |
-| | Kumukça | | — | | | | kök yok: yerine katın giši (katun, alıntı:sogd) |
-| | Çulımca | | — | | | | kök yok: yerine katkizi (katun, alıntı:sogd) |
-| | Salarca | | — | | | | kök yok: yerine katın kiş (katun, alıntı:sogd) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kadın (katun, alıntı:sogd) |
-| | Özbekçe | | — | | | | kök yok: yerine xotin (katun, alıntı:sogd) |
-| | Hakasça | | — | | | | kök yok: yerine ipçi kizi (ipçi) |
-| | Güney Altayca | | — | | | | kök yok: yerine üy kiji (üy) |
-| | Çuvaşça | | — | | | | kök yok: yerine xĕrarăm (xĕrarăm) |
-| | Tuvaca | | — | | | | kök yok: yerine xereejen (xereejen) |
-| | Tofaca | | — | | | | kök yok: yerine kohrhınak (kohrhınak) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine säjdığ (säjdığ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Gagavuzca |  | **karı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine tişiriw (tişi) |
+| | Şorca | | — | | | | | kök yok: yerine tiji kiji (tişi) |
+| | Nogayca | | — | | | | | kök yok: yerine xatınkız (katun, alıntı:sogd) |
+| | Tatarca | | — | | | | | kök yok: yerine xatınkız (katun, alıntı:sogd) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine katın (katun, alıntı:sogd) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kat (katun, alıntı:sogd) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kadın (katun, alıntı:sogd) |
+| | Başkurtça | | — | | | | | kök yok: yerine katın (katun, alıntı:sogd) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kadın (katun, alıntı:sogd) |
+| | Karakalpakça | | — | | | | | kök yok: yerine katın (katun, alıntı:sogd) |
+| | Karayca | | — | | | | | kök yok: yerine katın (katun, alıntı:sogd) |
+| | Kumukça | | — | | | | | kök yok: yerine katın giši (katun, alıntı:sogd) |
+| | Çulımca | | — | | | | | kök yok: yerine katkizi (katun, alıntı:sogd) |
+| | Salarca | | — | | | | | kök yok: yerine katın kiş (katun, alıntı:sogd) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kadın (katun, alıntı:sogd) |
+| | Özbekçe | | — | | | | | kök yok: yerine xotin (katun, alıntı:sogd) |
+| | Hakasça | | — | | | | | kök yok: yerine ipçi kizi (ipçi) |
+| | Güney Altayca | | — | | | | | kök yok: yerine üy kiji (üy) |
+| | Çuvaşça | | — | | | | | kök yok: yerine xĕrarăm (xĕrarăm) |
+| | Tuvaca | | — | | | | | kök yok: yerine xereejen (xereejen) |
+| | Tofaca | | — | | | | | kök yok: yerine kohrhınak (kohrhınak) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine säjdığ (säjdığ) |
 
 ## Kaynakça
 

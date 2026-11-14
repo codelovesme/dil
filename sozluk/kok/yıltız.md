@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 1/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 1/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐8**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,47 +25,47 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Hakasça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **yıltız** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **yıltız** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Karluk kolu | Özbekçe |  | **ildiz** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sahaca (Yakutça) |  | **silis** | силис |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **hilis** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **yıltıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tofaca |  | **sıldıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **çıltıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **çıltıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kök (kök-bitki) |
-| | Gagavuzca | | — | | | | kök yok: yerine kök (kök-bitki) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kök (kök-bitki) |
-| | Türkmence | | — | | | | kök yok: yerine kök (kök-bitki) |
-| | Baraba ağzı | | — | | | | kök yok: yerine tamır (tamır) |
-| | Başkurtça | | — | | | | kök yok: yerine tamır (tamır) |
-| | Çuvaşça | | — | | | | kök yok: yerine tımar (tamır) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tamır (tamır) |
-| | Karakalpakça | | — | | | | kök yok: yerine tamır (tamır) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine tamır (tamır) |
-| | Karayca | | — | | | | kök yok: yerine tamur (tamır) |
-| | Kazakça | | — | | | | kök yok: yerine tamır (tamır) |
-| | Kırgızca | | — | | | | kök yok: yerine tamır (tamır) |
-| | Kumukça | | — | | | | kök yok: yerine tamur (tamır) |
-| | Nogayca | | — | | | | kök yok: yerine tamır (tamır) |
-| | Tatarca | | — | | | | kök yok: yerine tamır (tamır) |
-| | Uygurca | | — | | | | kök yok: yerine tomur (tamır) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tazıl (tazıl) |
-| | Güney Altayca | | — | | | | kök yok: yerine tazıl (tazıl) |
-| | Tuvaca | | — | | | | kök yok: yerine dazıl (tazıl) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Karluk kolu | Özbekçe |  | **ildiz** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sahaca (Yakutça) |  | **silis** | силис |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Dolganca |  | **hilis** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sarı Uygurca |  | **yıltıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tofaca |  | **sıldıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Şorca |  | **çıltıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Çulımca |  | **çıltıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kök (kök-bitki) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kök (kök-bitki) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kök (kök-bitki) |
+| | Türkmence | | — | | | | | kök yok: yerine kök (kök-bitki) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Başkurtça | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Çuvaşça | | — | | | | | kök yok: yerine tımar (tamır) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Karayca | | — | | | | | kök yok: yerine tamur (tamır) |
+| | Kazakça | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Kırgızca | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Kumukça | | — | | | | | kök yok: yerine tamur (tamır) |
+| | Nogayca | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Tatarca | | — | | | | | kök yok: yerine tamır (tamır) |
+| | Uygurca | | — | | | | | kök yok: yerine tomur (tamır) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tazıl (tazıl) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tazıl (tazıl) |
+| | Tuvaca | | — | | | | | kök yok: yerine dazıl (tazıl) |
 
 ## Kaynakça
 

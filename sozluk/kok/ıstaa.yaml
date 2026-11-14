@@ -8,8 +8,8 @@ etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: ıştaa, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıstaa, dil: sah, kaynak: savelyev-turkic, yazi: ыстаа-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: ıştaa, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıstaa, dil: sah, kaynak: savelyev-turkic, yazi: ыстаа-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine şayna (çayna)

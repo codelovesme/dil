@@ -8,8 +8,8 @@ etimoloji: Sahaca saxsırga, Dolganca haksırga; kökeni bu çalışmada araşt�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: haksırga, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: saxsırga, dil: sah, kaynak: savelyev-turkic, yazi: сахсырҕа}
+  - {atif: 'aksenova1992, stachowski1993', bicim: haksırga, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: saxsırga, dil: sah, kaynak: savelyev-turkic, yazi: сахсырҕа, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine çımın (çıbın)

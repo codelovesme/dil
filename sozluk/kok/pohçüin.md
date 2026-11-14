@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,38 +24,38 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Özbekçe, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Salarca |  | **pohçüin** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Güney Altayca | | — | | | | kök yok: yerine çımın (çıbın) |
-| | Başkurtça | | — | | | | kök yok: yerine seben (çıbın) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine çibin (çıbın) |
-| | Karakalpakça | | — | | | | kök yok: yerine şıbın (çıbın) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine çibin (çıbın) |
-| | Karayca | | — | | | | kök yok: yerine cibin (çıbın) |
-| | Kazakça | | — | | | | kök yok: yerine şıbın (çıbın) |
-| | Kırgızca | | — | | | | kök yok: yerine çımın (çıbın) |
-| | Kumukça | | — | | | | kök yok: yerine cibin (çıbın) |
-| | Nogayca | | — | | | | kök yok: yerine şıbın (çıbın) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine çivin (çıbın) |
-| | Tatarca | | — | | | | kök yok: yerine çeben (çıbın) |
-| | Uygurca | | — | | | | kök yok: yerine çivin (çıbın) |
-| | Çuvaşça | | — | | | | kök yok: yerine şăna (çıbın) |
-| | Gagavuzca | | — | | | | kök yok: yerine sinek (siñek) |
-| | Hakasça | | — | | | | kök yok: yerine seek (siñek) |
-| | Tofaca | | — | | | | kök yok: yerine seek (siñek) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine sinek (siñek) |
-| | Türkmence | | — | | | | kök yok: yerine siñek (siñek) |
-| | Tuvaca | | — | | | | kök yok: yerine seek (siñek) |
-| | Halaçça | | — | | | | kök yok: yerine gudğu (kodğu) |
-| | Dolganca | | — | | | | kök yok: yerine haksırga (saxsırga) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine saxsırga (saxsırga) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kögen (kögen) |
-| | Baraba ağzı | | — | | | | kök yok: yerine çergäy (çergäy) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Salarca |  | **pohçüin** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Güney Altayca | | — | | | | | kök yok: yerine çımın (çıbın) |
+| | Başkurtça | | — | | | | | kök yok: yerine seben (çıbın) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine çibin (çıbın) |
+| | Karakalpakça | | — | | | | | kök yok: yerine şıbın (çıbın) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine çibin (çıbın) |
+| | Karayca | | — | | | | | kök yok: yerine cibin (çıbın) |
+| | Kazakça | | — | | | | | kök yok: yerine şıbın (çıbın) |
+| | Kırgızca | | — | | | | | kök yok: yerine çımın (çıbın) |
+| | Kumukça | | — | | | | | kök yok: yerine cibin (çıbın) |
+| | Nogayca | | — | | | | | kök yok: yerine şıbın (çıbın) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine çivin (çıbın) |
+| | Tatarca | | — | | | | | kök yok: yerine çeben (çıbın) |
+| | Uygurca | | — | | | | | kök yok: yerine çivin (çıbın) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şăna (çıbın) |
+| | Gagavuzca | | — | | | | | kök yok: yerine sinek (siñek) |
+| | Hakasça | | — | | | | | kök yok: yerine seek (siñek) |
+| | Tofaca | | — | | | | | kök yok: yerine seek (siñek) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine sinek (siñek) |
+| | Türkmence | | — | | | | | kök yok: yerine siñek (siñek) |
+| | Tuvaca | | — | | | | | kök yok: yerine seek (siñek) |
+| | Halaçça | | — | | | | | kök yok: yerine gudğu (kodğu) |
+| | Dolganca | | — | | | | | kök yok: yerine haksırga (saxsırga) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine saxsırga (saxsırga) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kögen (kögen) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine çergäy (çergäy) |
 
 ## Kaynakça
 

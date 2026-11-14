@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,39 +24,39 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **vit** | вит- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yap (yap) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine yap (yap) |
-| | Güney Altayca | | — | | | | kök yok: yerine dap (yap) |
-| | Başkurtça | | — | | | | kök yok: yerine yap (yap) |
-| | Dolganca | | — | | | | kök yok: yerine hap (yap) |
-| | Karakalpakça | | — | | | | kök yok: yerine jap (yap) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cap (yap) |
-| | Karayca | | — | | | | kök yok: yerine yap (yap) |
-| | Kazakça | | — | | | | kök yok: yerine jap (yap) |
-| | Hakasça | | — | | | | kök yok: yerine çap (yap) |
-| | Kırgızca | | — | | | | kök yok: yerine jap (yap) |
-| | Kumukça | | — | | | | kök yok: yerine yap (yap) |
-| | Çulımca | | — | | | | kök yok: yerine çap (yap) |
-| | Nogayca | | — | | | | kök yok: yerine yap (yap) |
-| | Şorca | | — | | | | kök yok: yerine çap (yap) |
-| | Tatarca | | — | | | | kök yok: yerine yap (yap) |
-| | Tofaca | | — | | | | kök yok: yerine çıp (yap) |
-| | Türkmence | | — | | | | kök yok: yerine yap (yap) |
-| | Tuvaca | | — | | | | kök yok: yerine şıp (yap) |
-| | Özbekçe | | — | | | | kök yok: yerine yop (yap) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sap (yap) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine ört (ört) |
-| | Gagavuzca | | — | | | | kök yok: yerine ört (ört) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kapla (kap) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kapat (kap) |
-| | Uygurca | | — | | | | kök yok: yerine kapla (kap) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **vit** | вит- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yap (yap) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine yap (yap) |
+| | Güney Altayca | | — | | | | | kök yok: yerine dap (yap) |
+| | Başkurtça | | — | | | | | kök yok: yerine yap (yap) |
+| | Dolganca | | — | | | | | kök yok: yerine hap (yap) |
+| | Karakalpakça | | — | | | | | kök yok: yerine jap (yap) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cap (yap) |
+| | Karayca | | — | | | | | kök yok: yerine yap (yap) |
+| | Kazakça | | — | | | | | kök yok: yerine jap (yap) |
+| | Hakasça | | — | | | | | kök yok: yerine çap (yap) |
+| | Kırgızca | | — | | | | | kök yok: yerine jap (yap) |
+| | Kumukça | | — | | | | | kök yok: yerine yap (yap) |
+| | Çulımca | | — | | | | | kök yok: yerine çap (yap) |
+| | Nogayca | | — | | | | | kök yok: yerine yap (yap) |
+| | Şorca | | — | | | | | kök yok: yerine çap (yap) |
+| | Tatarca | | — | | | | | kök yok: yerine yap (yap) |
+| | Tofaca | | — | | | | | kök yok: yerine çıp (yap) |
+| | Türkmence | | — | | | | | kök yok: yerine yap (yap) |
+| | Tuvaca | | — | | | | | kök yok: yerine şıp (yap) |
+| | Özbekçe | | — | | | | | kök yok: yerine yop (yap) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sap (yap) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine ört (ört) |
+| | Gagavuzca | | — | | | | | kök yok: yerine ört (ört) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kapla (kap) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kapat (kap) |
+| | Uygurca | | — | | | | | kök yok: yerine kapla (kap) |
 
 ## Kaynakça
 

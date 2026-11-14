@@ -9,9 +9,9 @@ etimoloji: Kazakça laktır-, Karakalpakça ılaktır-, Nogayca bılaktır-; kö
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1958, baskakov1967', bicim: ılaktır, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: laktır, dil: kaz, kaynak: savelyev-turkic, yazi: лақтыр-}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bılaktır, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: ılaktır, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: laktır, dil: kaz, kaynak: savelyev-turkic, yazi: лақтыр-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bılaktır, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine at (at-fiil)

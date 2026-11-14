@@ -15,10 +15,11 @@ taniklar:
     metin: Eski Türkçe metinler
     kaynak: savelyev-turkic; clauson
     atif: Clauson 1972
-  - {atif: 'aksenova1992, stachowski1993', bicim: kanna, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: kaa, dil: klj, kaynak: savelyev-turkic, not: Ayrıca kaanı; nieredä (ne yerde) de kaydedilmiş.}
-  - {atif: nadzip1968, bicim: kani, dil: uig, kaynak: savelyev-turkic, not: Ayrıca qäyärdä (kayu yer + -da)., yazi: قېنى}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: hanna, dil: sah, kaynak: savelyev-turkic, yazi: ханна}
+    denetim: {durum: dogrulandi, bicim: [savelyev-turkic, clauson], anlam: [savelyev-turkic, clauson]}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kanna, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: kaa, dil: klj, kaynak: savelyev-turkic, not: Ayrıca kaanı; nieredä (ne yerde) de kaydedilmiş., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: kani, dil: uig, kaynak: savelyev-turkic, not: Ayrıca qäyärdä (kayu yer + -da)., yazi: قېنى, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: hanna, dil: sah, kaynak: savelyev-turkic, yazi: ханна, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kayda (kayda)

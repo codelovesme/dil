@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,41 +24,41 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **mĕnle** | мӗнле |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | mĕn 'ne' + -le. |
-| | Karakalpakça | | — | | | | kök yok: yerine kalay (neçük) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kalay (neçük) |
-| | Kazakça | | — | | | | kök yok: yerine kalay (neçük) |
-| | Nogayca | | — | | | | kök yok: yerine kalay (neçük) |
-| | Uygurca | | — | | | | kök yok: yerine kandak (kanday) |
-| | Özbekçe | | — | | | | kök yok: yerine kanday (kanday) |
-| | Baraba ağzı | | — | | | | kök yok: yerine näçik (neçük) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine necä (neçük) |
-| | Karayca | | — | | | | kök yok: yerine neçik (neçük) |
-| | Kumukça | | — | | | | kök yok: yerine neçik (neçük) |
-| | Salarca | | — | | | | kök yok: yerine neçux (neçük) |
-| | Tatarca | | — | | | | kök yok: yerine niçek (neçük) |
-| | Başkurtça | | — | | | | kök yok: yerine kalay (kalay) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kanayıp (kanday) |
-| | Güney Altayca | | — | | | | kök yok: yerine kandıy (kanday) |
-| | Kırgızca | | — | | | | kök yok: yerine kanday (kanday) |
-| | Tofaca | | — | | | | kök yok: yerine kançap (kanday) |
-| | Tuvaca | | — | | | | kök yok: yerine kançap (kanday) |
-| | Dolganca | | — | | | | kök yok: yerine kaytak (kaydı) |
-| | Hakasça | | — | | | | kök yok: yerine xaydı (kaydı) |
-| | Çulımca | | — | | | | kök yok: yerine kaynar (kaydı) |
-| | Şorca | | — | | | | kök yok: yerine kayde (kaydı) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine haydah (kaydı) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine nasıl (nasıl, alıntı:ar) |
-| | Gagavuzca | | — | | | | kök yok: yerine nasıl (nasıl, alıntı:ar) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine nasıl (nasıl, alıntı:ar) |
-| | Türkmence | | — | | | | kök yok: yerine nähili (nähili, belirsiz) |
-| | Halaçça | | — | | | | kök yok: yerine nätäydä (netäg) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **mĕnle** | мӗнле |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | mĕn 'ne' + -le. |
+| | Karakalpakça | | — | | | | | kök yok: yerine kalay (neçük) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kalay (neçük) |
+| | Kazakça | | — | | | | | kök yok: yerine kalay (neçük) |
+| | Nogayca | | — | | | | | kök yok: yerine kalay (neçük) |
+| | Uygurca | | — | | | | | kök yok: yerine kandak (kanday) |
+| | Özbekçe | | — | | | | | kök yok: yerine kanday (kanday) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine näçik (neçük) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine necä (neçük) |
+| | Karayca | | — | | | | | kök yok: yerine neçik (neçük) |
+| | Kumukça | | — | | | | | kök yok: yerine neçik (neçük) |
+| | Salarca | | — | | | | | kök yok: yerine neçux (neçük) |
+| | Tatarca | | — | | | | | kök yok: yerine niçek (neçük) |
+| | Başkurtça | | — | | | | | kök yok: yerine kalay (kalay) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kanayıp (kanday) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kandıy (kanday) |
+| | Kırgızca | | — | | | | | kök yok: yerine kanday (kanday) |
+| | Tofaca | | — | | | | | kök yok: yerine kançap (kanday) |
+| | Tuvaca | | — | | | | | kök yok: yerine kançap (kanday) |
+| | Dolganca | | — | | | | | kök yok: yerine kaytak (kaydı) |
+| | Hakasça | | — | | | | | kök yok: yerine xaydı (kaydı) |
+| | Çulımca | | — | | | | | kök yok: yerine kaynar (kaydı) |
+| | Şorca | | — | | | | | kök yok: yerine kayde (kaydı) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine haydah (kaydı) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine nasıl (nasıl, alıntı:ar) |
+| | Gagavuzca | | — | | | | | kök yok: yerine nasıl (nasıl, alıntı:ar) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine nasıl (nasıl, alıntı:ar) |
+| | Türkmence | | — | | | | | kök yok: yerine nähili (nähili, belirsiz) |
+| | Halaçça | | — | | | | | kök yok: yerine nätäydä (netäg) |
 
 ## Kaynakça
 

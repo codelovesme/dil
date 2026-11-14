@@ -8,7 +8,7 @@ etimoloji: çetin 'zor, çetin'; Gagauzcada 'katı'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çetin, dil: gag, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: çetin, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kattı (katığ)

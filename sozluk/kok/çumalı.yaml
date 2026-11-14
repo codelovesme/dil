@@ -8,10 +8,10 @@ etimoloji: çumalı 'karınca'; Uygur, Özbek ve Altay dillerinde.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1985, bicim: çubala, dil: atv, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: çımalı, dil: alt, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: çömüli, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çumoli, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: çubala, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: çımalı, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: çömüli, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çumoli, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   bak: yerine kırmıska (kumursga)

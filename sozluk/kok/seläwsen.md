@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,39 +24,39 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Başkurtça |  | **seläwsen** | селәүсен |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kort (kurt) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Güney Altayca | | — | | | | kök yok: yerine kurt 'worm' (kurt) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kurd (kurt) |
-| | Çuvaşça | | — | | | | kök yok: yerine xurt (kurt) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kurt (kurt) |
-| | Gagavuzca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Karakalpakça | | — | | | | kök yok: yerine kurt (kurt) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Karayca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Kazakça | | — | | | | kök yok: yerine kŭrt (kurt) |
-| | Hakasça | | — | | | | kök yok: yerine xurt (kurt) |
-| | Halaçça | | — | | | | kök yok: yerine kuurt (kurt) |
-| | Kırgızca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Çulımca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Nogayca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Şorca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Tatarca | | — | | | | kök yok: yerine kort (kurt) |
-| | Tofaca | | — | | | | kök yok: yerine kuˁrt (kurt) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kurt (kurt) |
-| | Türkmence | | — | | | | kök yok: yerine gurçuk (kurt) |
-| | Tuvaca | | — | | | | kök yok: yerine kurt (kurt) |
-| | Uygurca | | — | | | | kök yok: yerine kurut (kurt) |
-| | Kumukça | | — | | | | kök yok: yerine xurt (kurt) |
-| | Salarca | | — | | | | kök yok: yerine sugulcıñ (sugulcıñ) |
-| | Özbekçe | | — | | | | kök yok: yerine çuvalçañ (çuvalçañ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Başkurtça |  | **seläwsen** | селәүсен |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kort (kurt) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kurt 'worm' (kurt) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kurd (kurt) |
+| | Çuvaşça | | — | | | | | kök yok: yerine xurt (kurt) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Karayca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Kazakça | | — | | | | | kök yok: yerine kŭrt (kurt) |
+| | Hakasça | | — | | | | | kök yok: yerine xurt (kurt) |
+| | Halaçça | | — | | | | | kök yok: yerine kuurt (kurt) |
+| | Kırgızca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Çulımca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Nogayca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Şorca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Tatarca | | — | | | | | kök yok: yerine kort (kurt) |
+| | Tofaca | | — | | | | | kök yok: yerine kuˁrt (kurt) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Türkmence | | — | | | | | kök yok: yerine gurçuk (kurt) |
+| | Tuvaca | | — | | | | | kök yok: yerine kurt (kurt) |
+| | Uygurca | | — | | | | | kök yok: yerine kurut (kurt) |
+| | Kumukça | | — | | | | | kök yok: yerine xurt (kurt) |
+| | Salarca | | — | | | | | kök yok: yerine sugulcıñ (sugulcıñ) |
+| | Özbekçe | | — | | | | | kök yok: yerine çuvalçañ (çuvalçañ) |
 
 ## Kaynakça
 

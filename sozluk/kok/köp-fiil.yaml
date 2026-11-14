@@ -19,8 +19,9 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım kob-.
-  - {atif: 'tenisev1989, sujuncev1965', bicim: köp, dil: krc, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: kop, dil: clw, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: köp, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: kop, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine şiş (şiş)

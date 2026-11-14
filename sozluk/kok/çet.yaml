@@ -17,17 +17,18 @@ taniklar:
     bicim: çete
     kaynak: savelyev-turkic
     atif: noauthor1880
-  - {atif: 'uraksin1996, uraksin2005', bicim: sit, dil: bak, kaynak: savelyev-turkic, yazi: ситә}
-  - {atif: useinov2007, bicim: çet, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: şet, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şet, dil: kaz, kaynak: savelyev-turkic, yazi: шет}
-  - {atif: 'judakhin1985, judakhin1957', bicim: çet, dil: kir, kaynak: savelyev-turkic, yazi: чет}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şet, dil: nog, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: çit, dil: tat, kaynak: savelyev-turkic, yazi: читә}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: çet, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: çät, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çet, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: çit, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'uraksin1996, uraksin2005', bicim: sit, dil: bak, kaynak: savelyev-turkic, yazi: ситә, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: çet, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: şet, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şet, dil: kaz, kaynak: savelyev-turkic, yazi: шет, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: çet, dil: kir, kaynak: savelyev-turkic, yazi: чет, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şet, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: çit, dil: tat, kaynak: savelyev-turkic, yazi: читә, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: çet, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: çät, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çet, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: çit, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine kırı (kıdığ)

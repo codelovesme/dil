@@ -9,7 +9,7 @@ etimoloji: Kuzey Altaycada oñna- 'anlamak'; oñ 'doğru, sağ' gövdesinden ola
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1985, bicim: oñna, dil: atv, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: oñna, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine pil (bil)

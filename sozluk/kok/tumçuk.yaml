@@ -8,7 +8,7 @@ etimoloji: tumçuk 'gaga'; Güney Altaycada 'burun'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: tumçuk, dil: alt, kaynak: savelyev-turkic}
+  - {atif: baskakov1947, bicim: tumçuk, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine murın (burun)

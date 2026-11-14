@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 0/7 · tanık 5 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 0/7 · tanık 5 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐5**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,39 +25,39 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Kumukça, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkiye Türkçesi |  | **ince** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **incä** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **incä** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karayca |  | **inçke** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Kuzey Altayca |  | **çiçke** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Güney Altayca | | — | | | | kök yok: yerine duka (yuka) |
-| | Başkurtça | | — | | | | kök yok: yerine yoka (yuka) |
-| | Çuvaşça | | — | | | | kök yok: yerine şuğa (yuka) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yufka (yuka) |
-| | Karakalpakça | | — | | | | kök yok: yerine juka (yuka) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cuka (yuka) |
-| | Kazakça | | — | | | | kök yok: yerine juka (yuka) |
-| | Hakasça | | — | | | | kök yok: yerine çuğa (yuka) |
-| | Kırgızca | | — | | | | kök yok: yerine juka (yuka) |
-| | Çulımca | | — | | | | kök yok: yerine çuğacaak (yuka) |
-| | Nogayca | | — | | | | kök yok: yerine yuka (yuka) |
-| | Salarca | | — | | | | kök yok: yerine yoxpa (yuka) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine yuka (yuka) |
-| | Şorca | | — | | | | kök yok: yerine çuğa (yuka) |
-| | Tatarca | | — | | | | kök yok: yerine yuka (yuka) |
-| | Tofaca | | — | | | | kök yok: yerine çuğa (yuka) |
-| | Türkmence | | — | | | | kök yok: yerine yuka (yuka) |
-| | Tuvaca | | — | | | | kök yok: yerine çuğa (yuka) |
-| | Uygurca | | — | | | | kök yok: yerine yupka (yuka) |
-| | Özbekçe | | — | | | | kök yok: yerine yupka (yuka) |
-| | Dolganca | | — | | | | kök yok: yerine hinnyiges (sinnyiges) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sinnyiges (sinnyiges) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **ince** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Gagavuzca |  | **incä** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **incä** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Karayca |  | **inçke** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Kuzey Altayca |  | **çiçke** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Güney Altayca | | — | | | | | kök yok: yerine duka (yuka) |
+| | Başkurtça | | — | | | | | kök yok: yerine yoka (yuka) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şuğa (yuka) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yufka (yuka) |
+| | Karakalpakça | | — | | | | | kök yok: yerine juka (yuka) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cuka (yuka) |
+| | Kazakça | | — | | | | | kök yok: yerine juka (yuka) |
+| | Hakasça | | — | | | | | kök yok: yerine çuğa (yuka) |
+| | Kırgızca | | — | | | | | kök yok: yerine juka (yuka) |
+| | Çulımca | | — | | | | | kök yok: yerine çuğacaak (yuka) |
+| | Nogayca | | — | | | | | kök yok: yerine yuka (yuka) |
+| | Salarca | | — | | | | | kök yok: yerine yoxpa (yuka) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine yuka (yuka) |
+| | Şorca | | — | | | | | kök yok: yerine çuğa (yuka) |
+| | Tatarca | | — | | | | | kök yok: yerine yuka (yuka) |
+| | Tofaca | | — | | | | | kök yok: yerine çuğa (yuka) |
+| | Türkmence | | — | | | | | kök yok: yerine yuka (yuka) |
+| | Tuvaca | | — | | | | | kök yok: yerine çuğa (yuka) |
+| | Uygurca | | — | | | | | kök yok: yerine yupka (yuka) |
+| | Özbekçe | | — | | | | | kök yok: yerine yupka (yuka) |
+| | Dolganca | | — | | | | | kök yok: yerine hinnyiges (sinnyiges) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sinnyiges (sinnyiges) |
 
 ## Kaynakça
 

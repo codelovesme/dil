@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (1 tanık)
@@ -24,13 +24,13 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Uygurca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 11. yy | Karahanlıca | Kâşgar | **öşün** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 99 (Clauson, üşün) |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 11. yy | Karahanlıca | Kâşgar | **öşün** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT I 99 (Clauson, üşün) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -40,36 +40,36 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tofaca |  | **öhün** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **öştü** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Güney Altayca | | — | | | | kök yok: yerine iyin (egin) |
-| | Karakalpakça | | — | | | | kök yok: yerine iyin (egin) |
-| | Karayca | | — | | | | kök yok: yerine iin (egin) |
-| | Kazakça | | — | | | | kök yok: yerine iyin (egin) |
-| | Kırgızca | | — | | | | kök yok: yerine iyin (egin) |
-| | Nogayca | | — | | | | kök yok: yerine iyin (egin) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine igen (egin) |
-| | Türkmence | | — | | | | kök yok: yerine egin (egin) |
-| | Tuvaca | | — | | | | kök yok: yerine egin (egin) |
-| | Başkurtça | | — | | | | kök yok: yerine iñbaş (iñ) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine imbaş (iñ) |
-| | Hakasça | | — | | | | kök yok: yerine iñnĕ (iñ) |
-| | Kumukça | | — | | | | kök yok: yerine inbaş (iñ) |
-| | Çulımca | | — | | | | kök yok: yerine äñ (iñ) |
-| | Tatarca | | — | | | | kök yok: yerine iñbaş (iñ) |
-| | Baraba ağzı | | — | | | | kök yok: yerine yawrın (yağrın) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine carın (yağrın) |
-| | Dolganca | | — | | | | kök yok: yerine hannı (yağrın) |
-| | Salarca | | — | | | | kök yok: yerine yağrı (yağrın) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sarın (yağrın) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine omuz (omuz) |
-| | Gagavuzca | | — | | | | kök yok: yerine omuz (omuz) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine omuz (omuz) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine çiyin (çiyin) |
-| | Özbekçe | | — | | | | kök yok: yerine yelka (yelka) |
-| | Çuvaşça | | — | | | | kök yok: yerine xulpuşşi (xulpuşşi) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tofaca |  | **öhün** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Şorca |  | **öştü** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Güney Altayca | | — | | | | | kök yok: yerine iyin (egin) |
+| | Karakalpakça | | — | | | | | kök yok: yerine iyin (egin) |
+| | Karayca | | — | | | | | kök yok: yerine iin (egin) |
+| | Kazakça | | — | | | | | kök yok: yerine iyin (egin) |
+| | Kırgızca | | — | | | | | kök yok: yerine iyin (egin) |
+| | Nogayca | | — | | | | | kök yok: yerine iyin (egin) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine igen (egin) |
+| | Türkmence | | — | | | | | kök yok: yerine egin (egin) |
+| | Tuvaca | | — | | | | | kök yok: yerine egin (egin) |
+| | Başkurtça | | — | | | | | kök yok: yerine iñbaş (iñ) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine imbaş (iñ) |
+| | Hakasça | | — | | | | | kök yok: yerine iñnĕ (iñ) |
+| | Kumukça | | — | | | | | kök yok: yerine inbaş (iñ) |
+| | Çulımca | | — | | | | | kök yok: yerine äñ (iñ) |
+| | Tatarca | | — | | | | | kök yok: yerine iñbaş (iñ) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yawrın (yağrın) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine carın (yağrın) |
+| | Dolganca | | — | | | | | kök yok: yerine hannı (yağrın) |
+| | Salarca | | — | | | | | kök yok: yerine yağrı (yağrın) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sarın (yağrın) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine omuz (omuz) |
+| | Gagavuzca | | — | | | | | kök yok: yerine omuz (omuz) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine omuz (omuz) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine çiyin (çiyin) |
+| | Özbekçe | | — | | | | | kök yok: yerine yelka (yelka) |
+| | Çuvaşça | | — | | | | | kök yok: yerine xulpuşşi (xulpuşşi) |
 
 ## Kaynakça
 

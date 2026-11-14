@@ -8,9 +8,9 @@ etimoloji: toprak 'toprak'; Güney Altayca, Tofaca ve Halaççada 'toz'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: doerfer1980, bicim: turpaak, dil: klj, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: tobrax, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: toprak, dil: kim, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: turpaak, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: tobrax, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: toprak, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tos (toz)

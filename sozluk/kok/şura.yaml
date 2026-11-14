@@ -8,7 +8,7 @@ etimoloji: Tofaca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: şura, dil: kim, kaynak: savelyev-turkic, not: şıra de.}
+  - {atif: 'rassadin1971, rassadin2005', bicim: şura, dil: kim, kaynak: savelyev-turkic, not: şıra de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine säkir (sekir)

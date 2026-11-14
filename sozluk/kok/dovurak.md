@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,41 +24,41 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **dovurak** | доврак |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine yer (yer) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ter (yer) |
-| | Güney Altayca | | — | | | | kök yok: yerine der (yer) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine yer (yer) |
-| | Başkurtça | | — | | | | kök yok: yerine yer (yer) |
-| | Çuvaşça | | — | | | | kök yok: yerine şĕr (yer) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yer (yer) |
-| | Dolganca | | — | | | | kök yok: yerine hir (yer) |
-| | Gagavuzca | | — | | | | kök yok: yerine yer (yer) |
-| | Karakalpakça | | — | | | | kök yok: yerine jer (yer) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cer (yer) |
-| | Karayca | | — | | | | kök yok: yerine yer (yer) |
-| | Kazakça | | — | | | | kök yok: yerine jer (yer) |
-| | Hakasça | | — | | | | kök yok: yerine çir (yer) |
-| | Halaçça | | — | | | | kök yok: yerine yer (yer) |
-| | Kırgızca | | — | | | | kök yok: yerine jer (yer) |
-| | Kumukça | | — | | | | kök yok: yerine yer (yer) |
-| | Çulımca | | — | | | | kök yok: yerine çär (yer) |
-| | Nogayca | | — | | | | kök yok: yerine yer (yer) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine ? yer (yer) |
-| | Şorca | | — | | | | kök yok: yerine çer (yer) |
-| | Tatarca | | — | | | | kök yok: yerine cir (yer) |
-| | Tofaca | | — | | | | kök yok: yerine çer (yer) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yer (yer) |
-| | Türkmence | | — | | | | kök yok: yerine yer (yer) |
-| | Uygurca | | — | | | | kök yok: yerine yär (yer) |
-| | Özbekçe | | — | | | | kök yok: yerine yer (yer) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sir (yer) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tuvaca |  | **dovurak** | доврак |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine yer (yer) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ter (yer) |
+| | Güney Altayca | | — | | | | | kök yok: yerine der (yer) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine yer (yer) |
+| | Başkurtça | | — | | | | | kök yok: yerine yer (yer) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şĕr (yer) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yer (yer) |
+| | Dolganca | | — | | | | | kök yok: yerine hir (yer) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yer (yer) |
+| | Karakalpakça | | — | | | | | kök yok: yerine jer (yer) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cer (yer) |
+| | Karayca | | — | | | | | kök yok: yerine yer (yer) |
+| | Kazakça | | — | | | | | kök yok: yerine jer (yer) |
+| | Hakasça | | — | | | | | kök yok: yerine çir (yer) |
+| | Halaçça | | — | | | | | kök yok: yerine yer (yer) |
+| | Kırgızca | | — | | | | | kök yok: yerine jer (yer) |
+| | Kumukça | | — | | | | | kök yok: yerine yer (yer) |
+| | Çulımca | | — | | | | | kök yok: yerine çär (yer) |
+| | Nogayca | | — | | | | | kök yok: yerine yer (yer) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine ? yer (yer) |
+| | Şorca | | — | | | | | kök yok: yerine çer (yer) |
+| | Tatarca | | — | | | | | kök yok: yerine cir (yer) |
+| | Tofaca | | — | | | | | kök yok: yerine çer (yer) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yer (yer) |
+| | Türkmence | | — | | | | | kök yok: yerine yer (yer) |
+| | Uygurca | | — | | | | | kök yok: yerine yär (yer) |
+| | Özbekçe | | — | | | | | kök yok: yerine yer (yer) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sir (yer) |
 
 ## Kaynakça
 

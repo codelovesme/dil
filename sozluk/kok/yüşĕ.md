@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **yüşĕ** | йӳҫӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğur kolu | Çuvaşça |  | **yüşĕ** | йӳҫӗ | ekşi | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine acığ (açığ) |
-| | Güney Altayca | | — | | | | kök yok: yerine açu (açığ) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine acı (açığ) |
-| | Başkurtça | | — | | | | kök yok: yerine äse (açığ) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine accı (açığ) |
-| | Dolganca | | — | | | | kök yok: yerine ahıı (açığ) |
-| | Gagavuzca | | — | | | | kök yok: yerine acı (açığ) |
-| | Karakalpakça | | — | | | | kök yok: yerine aşşı (açığ) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine açı (açığ) |
-| | Karayca | | — | | | | kök yok: yerine açı (açığ) |
-| | Kazakça | | — | | | | kök yok: yerine aşşı (açığ) |
-| | Hakasça | | — | | | | kök yok: yerine açığ (açığ) |
-| | Halaçça | | — | | | | kök yok: yerine haaçuğ (açığ) |
-| | Kırgızca | | — | | | | kök yok: yerine açuu (açığ) |
-| | Kumukça | | — | | | | kök yok: yerine aççı (açığ) |
-| | Çulımca | | — | | | | kök yok: yerine açığ (açığ) |
-| | Nogayca | | — | | | | kök yok: yerine aşşı (açığ) |
-| | Salarca | | — | | | | kök yok: yerine aacı (açığ) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine açığ (açığ) |
-| | Şorca | | — | | | | kök yok: yerine açığ (açığ) |
-| | Tatarca | | — | | | | kök yok: yerine açı (açığ) |
-| | Tofaca | | — | | | | kök yok: yerine acığ (açığ) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine acı (açığ) |
-| | Türkmence | | — | | | | kök yok: yerine acı (açığ) |
-| | Tuvaca | | — | | | | kök yok: yerine ajığ (açığ) |
-| | Uygurca | | — | | | | kök yok: yerine aççik (açığ) |
-| | Özbekçe | | — | | | | kök yok: yerine aççik (açığ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ahıı (açığ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **yüşĕ** | йӳҫӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğur kolu | Çuvaşça |  | **yüşĕ** | йӳҫӗ | ekşi | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine acığ (açığ) |
+| | Güney Altayca | | — | | | | | kök yok: yerine açu (açığ) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine acı (açığ) |
+| | Başkurtça | | — | | | | | kök yok: yerine äse (açığ) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine accı (açığ) |
+| | Dolganca | | — | | | | | kök yok: yerine ahıı (açığ) |
+| | Gagavuzca | | — | | | | | kök yok: yerine acı (açığ) |
+| | Karakalpakça | | — | | | | | kök yok: yerine aşşı (açığ) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine açı (açığ) |
+| | Karayca | | — | | | | | kök yok: yerine açı (açığ) |
+| | Kazakça | | — | | | | | kök yok: yerine aşşı (açığ) |
+| | Hakasça | | — | | | | | kök yok: yerine açığ (açığ) |
+| | Halaçça | | — | | | | | kök yok: yerine haaçuğ (açığ) |
+| | Kırgızca | | — | | | | | kök yok: yerine açuu (açığ) |
+| | Kumukça | | — | | | | | kök yok: yerine aççı (açığ) |
+| | Çulımca | | — | | | | | kök yok: yerine açığ (açığ) |
+| | Nogayca | | — | | | | | kök yok: yerine aşşı (açığ) |
+| | Salarca | | — | | | | | kök yok: yerine aacı (açığ) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine açığ (açığ) |
+| | Şorca | | — | | | | | kök yok: yerine açığ (açığ) |
+| | Tatarca | | — | | | | | kök yok: yerine açı (açığ) |
+| | Tofaca | | — | | | | | kök yok: yerine acığ (açığ) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine acı (açığ) |
+| | Türkmence | | — | | | | | kök yok: yerine acı (açığ) |
+| | Tuvaca | | — | | | | | kök yok: yerine ajığ (açığ) |
+| | Uygurca | | — | | | | | kök yok: yerine aççik (açığ) |
+| | Özbekçe | | — | | | | | kök yok: yerine aççik (açığ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ahıı (açığ) |
 
 ## Kaynakça
 

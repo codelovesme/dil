@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,42 +25,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkiye Türkçesi |  | **git** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **git** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **get** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine bar (bar) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine par- ~ bar (bar) |
-| | Güney Altayca | | — | | | | kök yok: yerine bar (bar) |
-| | Başkurtça | | — | | | | kök yok: yerine bar (bar) |
-| | Çuvaşça | | — | | | | kök yok: yerine pır (bar) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine bar (bar) |
-| | Dolganca | | — | | | | kök yok: yerine bar (bar) |
-| | Karakalpakça | | — | | | | kök yok: yerine ? bar (bar) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine bar (bar) |
-| | Karayca | | — | | | | kök yok: yerine bar (bar) |
-| | Kazakça | | — | | | | kök yok: yerine bar (bar) |
-| | Hakasça | | — | | | | kök yok: yerine par (bar) |
-| | Halaçça | | — | | | | kök yok: yerine var (bar) |
-| | Kırgızca | | — | | | | kök yok: yerine bar (bar) |
-| | Kumukça | | — | | | | kök yok: yerine bar (bar) |
-| | Çulımca | | — | | | | kök yok: yerine par (bar) |
-| | Nogayca | | — | | | | kök yok: yerine bar (bar) |
-| | Salarca | | — | | | | kök yok: yerine bar (bar) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine par (bar) |
-| | Şorca | | — | | | | kök yok: yerine par (bar) |
-| | Tatarca | | — | | | | kök yok: yerine bar (bar) |
-| | Tofaca | | — | | | | kök yok: yerine bar (bar) |
-| | Türkmence | | — | | | | kök yok: yerine bar (bar) |
-| | Tuvaca | | — | | | | kök yok: yerine bar (bar) |
-| | Uygurca | | — | | | | kök yok: yerine bar (bar) |
-| | Özbekçe | | — | | | | kök yok: yerine bor (bar) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine bar (bar) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkiye Türkçesi |  | **git** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Gagavuzca |  | **git** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **get** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine bar (bar) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine par- ~ bar (bar) |
+| | Güney Altayca | | — | | | | | kök yok: yerine bar (bar) |
+| | Başkurtça | | — | | | | | kök yok: yerine bar (bar) |
+| | Çuvaşça | | — | | | | | kök yok: yerine pır (bar) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine bar (bar) |
+| | Dolganca | | — | | | | | kök yok: yerine bar (bar) |
+| | Karakalpakça | | — | | | | | kök yok: yerine ? bar (bar) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine bar (bar) |
+| | Karayca | | — | | | | | kök yok: yerine bar (bar) |
+| | Kazakça | | — | | | | | kök yok: yerine bar (bar) |
+| | Hakasça | | — | | | | | kök yok: yerine par (bar) |
+| | Halaçça | | — | | | | | kök yok: yerine var (bar) |
+| | Kırgızca | | — | | | | | kök yok: yerine bar (bar) |
+| | Kumukça | | — | | | | | kök yok: yerine bar (bar) |
+| | Çulımca | | — | | | | | kök yok: yerine par (bar) |
+| | Nogayca | | — | | | | | kök yok: yerine bar (bar) |
+| | Salarca | | — | | | | | kök yok: yerine bar (bar) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine par (bar) |
+| | Şorca | | — | | | | | kök yok: yerine par (bar) |
+| | Tatarca | | — | | | | | kök yok: yerine bar (bar) |
+| | Tofaca | | — | | | | | kök yok: yerine bar (bar) |
+| | Türkmence | | — | | | | | kök yok: yerine bar (bar) |
+| | Tuvaca | | — | | | | | kök yok: yerine bar (bar) |
+| | Uygurca | | — | | | | | kök yok: yerine bar (bar) |
+| | Özbekçe | | — | | | | | kök yok: yerine bor (bar) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine bar (bar) |
 
 ## Kaynakça
 

@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şulşă; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şulşă, dil: chv, kaynak: savelyev-turkic, yazi: ҫулҫӑ}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şulşă, dil: chv, kaynak: savelyev-turkic, yazi: ҫулҫӑ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaprak (yaprak)

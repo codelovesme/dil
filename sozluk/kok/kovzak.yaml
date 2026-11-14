@@ -8,7 +8,7 @@ etimoloji: Uygurca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: nadzip1968, bicim: kovzak, dil: uig, kaynak: savelyev-turkic}
+  - {atif: nadzip1968, bicim: kovzak, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kabık (kabuk)

@@ -8,9 +8,9 @@ etimoloji: Hakas ve Orta Çulım azır-, Tuva ajır-; kökeni bu çalışmada ar
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: azır, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: azır, dil: clw, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ajır, dil: tyv, kaynak: savelyev-turkic, yazi: ажыр-}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: azır, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: azır, dil: clw, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ajır, dil: tyv, kaynak: savelyev-turkic, yazi: ажыр-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yut (yut)

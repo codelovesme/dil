@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 22/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 22/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,34 +24,34 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Hakasça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **ta** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{T}. Sahaca yakın geçmiş; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Kumukça | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Nogayca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Kazakça | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Karakalpakça | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Kırgızca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Tatarca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Güney Altayca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Tuvaca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Gagavuzca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Türkmence | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Başkurtça | | — | | | | kök yok: yerine nı (ek-dı) |
-| | Uygurca | | — | | | | kök yok: yerine di (ek-dı) |
-| | Özbekçe | | — | | | | kök yok: yerine di (ek-dı) |
-| | Çuvaşça | | — | | | | kök yok: yerine rĕ (ek-dı) |
-| | Karayca | | — | | | | kök yok: yerine dı (ek-dı) |
-| | Sibirya Tatarcası | | — | | | | kök yok: yerine tı (ek-dı) |
-| | Şorca | | — | | | | kök yok: yerine tı (ek-dı) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **ta** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ◐ tek kaynak | Apertium: -{T}. Sahaca yakın geçmiş; ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Kumukça | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Nogayca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Kazakça | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Karakalpakça | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Kırgızca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Tatarca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Güney Altayca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Tuvaca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Gagavuzca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Türkmence | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Başkurtça | | — | | | | | kök yok: yerine nı (ek-dı) |
+| | Uygurca | | — | | | | | kök yok: yerine di (ek-dı) |
+| | Özbekçe | | — | | | | | kök yok: yerine di (ek-dı) |
+| | Çuvaşça | | — | | | | | kök yok: yerine rĕ (ek-dı) |
+| | Karayca | | — | | | | | kök yok: yerine dı (ek-dı) |
+| | Sibirya Tatarcası | | — | | | | | kök yok: yerine tı (ek-dı) |
+| | Şorca | | — | | | | | kök yok: yerine tı (ek-dı) |
 
 ## Kaynakça
 

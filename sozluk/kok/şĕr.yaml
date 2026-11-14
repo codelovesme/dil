@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şĕr; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şĕr, dil: chv, kaynak: savelyev-turkic, yazi: ҫӗр}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şĕr, dil: chv, kaynak: savelyev-turkic, yazi: ҫӗр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tön (tün)

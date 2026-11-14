@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Çulımca |  | **çaarın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine arğa (arka) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine arka (arka) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine arxa (arka) |
-| | Başkurtça | | — | | | | kök yok: yerine arka (arka) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine arka (arka) |
-| | Gagavuzca | | — | | | | kök yok: yerine arka (arka) |
-| | Karakalpakça | | — | | | | kök yok: yerine arka (arka) |
-| | Karayca | | — | | | | kök yok: yerine arka (arka) |
-| | Kazakça | | — | | | | kök yok: yerine arka (arka) |
-| | Hakasça | | — | | | | kök yok: yerine arğa (arka) |
-| | Halaçça | | — | | | | kök yok: yerine arka (arka) |
-| | Kırgızca | | — | | | | kök yok: yerine arka (arka) |
-| | Kumukça | | — | | | | kök yok: yerine arka (arka) |
-| | Nogayca | | — | | | | kök yok: yerine arka (arka) |
-| | Salarca | | — | | | | kök yok: yerine arğa (arka) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine arka (arka) |
-| | Tatarca | | — | | | | kök yok: yerine arka (arka) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine arka (arka) |
-| | Türkmence | | — | | | | kök yok: yerine arka (arka) |
-| | Uygurca | | — | | | | kök yok: yerine arka (arka) |
-| | Özbekçe | | — | | | | kök yok: yerine orka (arka) |
-| | Tofaca | | — | | | | kök yok: yerine oorha (arka) |
-| | Tuvaca | | — | | | | kök yok: yerine oorğa (arka) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine sırt (sırt) |
-| | Şorca | | — | | | | kök yok: yerine köksü (kögüz) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine köğüs (kögüz) |
-| | Güney Altayca | | — | | | | kök yok: yerine bel (bel) |
-| | Dolganca | | — | | | | kök yok: yerine his (his) |
-| | Çuvaşça | | — | | | | kök yok: yerine şurăm (şurăm) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Çulımca |  | **çaarın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine arğa (arka) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine arka (arka) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine arxa (arka) |
+| | Başkurtça | | — | | | | | kök yok: yerine arka (arka) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine arka (arka) |
+| | Gagavuzca | | — | | | | | kök yok: yerine arka (arka) |
+| | Karakalpakça | | — | | | | | kök yok: yerine arka (arka) |
+| | Karayca | | — | | | | | kök yok: yerine arka (arka) |
+| | Kazakça | | — | | | | | kök yok: yerine arka (arka) |
+| | Hakasça | | — | | | | | kök yok: yerine arğa (arka) |
+| | Halaçça | | — | | | | | kök yok: yerine arka (arka) |
+| | Kırgızca | | — | | | | | kök yok: yerine arka (arka) |
+| | Kumukça | | — | | | | | kök yok: yerine arka (arka) |
+| | Nogayca | | — | | | | | kök yok: yerine arka (arka) |
+| | Salarca | | — | | | | | kök yok: yerine arğa (arka) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine arka (arka) |
+| | Tatarca | | — | | | | | kök yok: yerine arka (arka) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine arka (arka) |
+| | Türkmence | | — | | | | | kök yok: yerine arka (arka) |
+| | Uygurca | | — | | | | | kök yok: yerine arka (arka) |
+| | Özbekçe | | — | | | | | kök yok: yerine orka (arka) |
+| | Tofaca | | — | | | | | kök yok: yerine oorha (arka) |
+| | Tuvaca | | — | | | | | kök yok: yerine oorğa (arka) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine sırt (sırt) |
+| | Şorca | | — | | | | | kök yok: yerine köksü (kögüz) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine köğüs (kögüz) |
+| | Güney Altayca | | — | | | | | kök yok: yerine bel (bel) |
+| | Dolganca | | — | | | | | kök yok: yerine his (his) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şurăm (şurăm) |
 
 ## Kaynakça
 

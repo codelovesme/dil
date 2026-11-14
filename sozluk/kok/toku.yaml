@@ -16,26 +16,27 @@ taniklar:
     bicim: tokı
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: toxu, dil: aze, kaynak: savelyev-turkic}
-  - {atif: useinov2007, bicim: toku, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: doku, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: tokı, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: toku, dil: kaz, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: toku, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: doku, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: doka, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: toku, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: toki, dil: uzb, kaynak: savelyev-turkic}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: tokı, anlam: 'vurmak, yenmek (düşmanı)', metin: Kül Tigin ve Bilge Kağan yazıtları, kaynak: clauson, atif: 'II S 8, II E 31 (Clauson, tokı:-)'}
-  - {dil: otk, yuzyil: 8-14, bicim: tokı, anlam: vurmak; dokumak, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 2; U II 61; TT VII 26 (Clauson, tokı:-)'}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tokı, anlam: vurmak; dövmek (kılıç); dokumak (bez), metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 268 (Clauson, tokı:-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı 'dövmek' anlamını Oğuzca diye verir.}
-  - {dil: xqa, yuzyil: 13, bicim: tokı, anlam: 'vurmak, çakmak', metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 307 (Clauson, tokı:-)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: doku, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 25, 3; 31, 13 (Clauson, tokı:-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: toku, metin: Nehcü'l-Feradis, kaynak: clauson, atif: 'Nehcü''l-Feradis 82 (Clauson, tokı:-)'}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: dokı, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 35, 19 (Clauson, tokı:-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: tokı, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 65 (Clauson, tokı:-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: toku, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 36b 13 (Clauson, tokı:-)'}
-  - {dil: chg, yuzyil: 16-18, bicim: toku, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 180r (Clauson, tokı:-)'}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: toxu, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: toku, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: doku, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: tokı, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: toku, dil: kaz, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: toku, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: doku, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: doka, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: toku, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: toki, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: tokı, anlam: 'vurmak, yenmek (düşmanı)', metin: Kül Tigin ve Bilge Kağan yazıtları, kaynak: clauson, atif: 'II S 8, II E 31 (Clauson, tokı:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: tokı, anlam: vurmak; dokumak, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 2; U II 61; TT VII 26 (Clauson, tokı:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tokı, anlam: vurmak; dövmek (kılıç); dokumak (bez), metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 268 (Clauson, tokı:-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Kâşgarlı 'dövmek' anlamını Oğuzca diye verir., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: tokı, anlam: 'vurmak, çakmak', metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 307 (Clauson, tokı:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: doku, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 25, 3; 31, 13 (Clauson, tokı:-)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: toku, metin: Nehcü'l-Feradis, kaynak: clauson, atif: 'Nehcü''l-Feradis 82 (Clauson, tokı:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: dokı, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 35, 19 (Clauson, tokı:-)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: tokı, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 65 (Clauson, tokı:-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: toku, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 36b 13 (Clauson, tokı:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: toku, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 180r (Clauson, tokı:-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   sty-baraba: yerine sok (sok)

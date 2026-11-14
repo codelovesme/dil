@@ -10,8 +10,8 @@ etimoloji: Sahaca ve Dolganca bıs-; Ana Türkçe *bïč- 'kesmek, biçmek' (Tü
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: bıs, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bıs, dil: sah, kaynak: savelyev-turkic, yazi: быс-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: bıs, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: bıs, dil: sah, kaynak: savelyev-turkic, yazi: быс-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kes (kes)

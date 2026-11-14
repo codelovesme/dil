@@ -17,6 +17,7 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: ایتمك
     not: Wiktionary'de mastar biçimiyle itmek.
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: tur
     yuzyil: 16-19
     bicim: it
@@ -24,34 +25,35 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: ایتمك
     not: Wiktionary'de mastar biçimiyle itmek.
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: itälä, dil: aze, kaynak: savelyev-turkic, not: it- + -ele-.}
-  - {atif: 'uraksin1996, uraksin2005', bicim: et, dil: bak, kaynak: savelyev-turkic, yazi: эт-}
-  - {atif: useinov2007, bicim: ite, dil: crh, kaynak: savelyev-turkic, not: iter- de.}
-  - {atif: 'aksenova1992, stachowski1993', bicim: üt, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: itir, dil: gag, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: iyt, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: iyter, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: iter, dil: kaz, kaynak: savelyev-turkic, yazi: итер-}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ĕt, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: iter, dil: kir, kaynak: savelyev-turkic, yazi: итер-}
-  - {atif: savelyev2015, bicim: itle, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: iyte, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: it, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: işt, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: işit, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: it, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: iyt, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: et, dil: tat, kaynak: savelyev-turkic, not: etär- de.}
-  - {atif: 'rassadin1971, rassadin2005', bicim: iˁt, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: it, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: it, dil: tuk, kaynak: savelyev-turkic, not: itele- de.}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: it, dil: tyv, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: iştär, dil: uig, kaynak: savelyev-turkic, not: iştir de.}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: itar, dil: uzb, kaynak: savelyev-turkic}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: it, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 171; III 137 (Clauson, 1 it-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: it, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 8 (Clauson, 1 it-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: it, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 16a 2 (Clauson, 1 it-)'}
-  - {dil: chg, yuzyil: 16-18, bicim: it, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 42-3, Senglâh 93 (Clauson, 1 it-)'}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: itälä, dil: aze, kaynak: savelyev-turkic, not: it- + -ele-., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005', bicim: et, dil: bak, kaynak: savelyev-turkic, yazi: эт-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: ite, dil: crh, kaynak: savelyev-turkic, not: iter- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: üt, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: itir, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: iyt, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: iyter, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: iter, dil: kaz, kaynak: savelyev-turkic, yazi: итер-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ĕt, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: iter, dil: kir, kaynak: savelyev-turkic, yazi: итер-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: itle, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: iyte, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: it, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: işt, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: işit, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: it, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: iyt, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: et, dil: tat, kaynak: savelyev-turkic, not: etär- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: iˁt, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: it, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: it, dil: tuk, kaynak: savelyev-turkic, not: itele- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: it, dil: tyv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: iştär, dil: uig, kaynak: savelyev-turkic, not: iştir de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: itar, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: it, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 171; III 137 (Clauson, 1 it-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: it, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 8 (Clauson, 1 it-)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: it, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 16a 2 (Clauson, 1 it-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: it, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 42-3, Senglâh 93 (Clauson, 1 it-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   krc: yerine teber (teber)

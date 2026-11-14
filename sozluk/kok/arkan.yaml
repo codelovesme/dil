@@ -9,10 +9,10 @@ etimoloji: arkan 'urgan' (Türkiye Türkçesi urgan); Kırım Tatarcası, Kumuk�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: arkan, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: arkan, dil: kum, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: uruxan, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: arkon, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: arkan, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: arkan, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: uruxan, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: arkon, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yip (yip)

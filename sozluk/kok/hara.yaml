@@ -8,7 +8,7 @@ etimoloji: Azerbaycan Türkçesi hara(da); *ka- soru gövdesiyle ilişkisi bu ç
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: harada, dil: aze, kaynak: savelyev-turkic, yazi: harada}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: harada, dil: aze, kaynak: savelyev-turkic, yazi: harada, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kayda (kayda)

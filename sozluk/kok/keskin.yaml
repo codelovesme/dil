@@ -8,9 +8,9 @@ etimoloji: kes- 'kesmek' + -kin. Türkiye, Gagauz ve Kırım Tatar dillerinde.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: keskin, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: keskin, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: keskin, dil: tur, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: keskin, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: keskin, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: keskin, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine iti (yitig)

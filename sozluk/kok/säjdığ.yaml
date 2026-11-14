@@ -8,7 +8,7 @@ etimoloji: Sarı Uygurca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'malov1957, tenisev1966', bicim: säjdığ, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: säjdığ, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   krc: yerine tişiriw (tişi)

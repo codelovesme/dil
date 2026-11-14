@@ -8,7 +8,7 @@ etimoloji: Dolganca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: talak, dil: dlg, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: talak, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine botak (butık)

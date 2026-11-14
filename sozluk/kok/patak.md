@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 25/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 25/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,37 +24,37 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sahaca (Yakutça), Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **patak** | патак |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine tayak (tayak) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Güney Altayca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Başkurtça | | — | | | | kök yok: yerine tayak (tayak) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tayak (tayak) |
-| | Karakalpakça | | — | | | | kök yok: yerine tayak (tayak) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Karayca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Kazakça | | — | | | | kök yok: yerine tayak (tayak) |
-| | Hakasça | | — | | | | kök yok: yerine tayax (tayak) |
-| | Kırgızca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Kumukça | | — | | | | kök yok: yerine tayak (tayak) |
-| | Nogayca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Şorca | | — | | | | kök yok: yerine ? tayak (tayak) |
-| | Tatarca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Tofaca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Türkmence | | — | | | | kök yok: yerine tayak (tayak) |
-| | Tuvaca | | — | | | | kök yok: yerine dayañgıış (tayak) |
-| | Uygurca | | — | | | | kök yok: yerine tayak (tayak) |
-| | Özbekçe | | — | | | | kök yok: yerine toyok (tayak) |
-| | Gagavuzca | | — | | | | kök yok: yerine sopa (sopa) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine sopa (sopa) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine çomak (çomak) |
-| | Dolganca | | — | | | | kök yok: yerine mas (mas) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **patak** | патак |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Başkurtça | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Karayca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Kazakça | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Hakasça | | — | | | | | kök yok: yerine tayax (tayak) |
+| | Kırgızca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Kumukça | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Nogayca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Şorca | | — | | | | | kök yok: yerine ? tayak (tayak) |
+| | Tatarca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Tofaca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Türkmence | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Tuvaca | | — | | | | | kök yok: yerine dayañgıış (tayak) |
+| | Uygurca | | — | | | | | kök yok: yerine tayak (tayak) |
+| | Özbekçe | | — | | | | | kök yok: yerine toyok (tayak) |
+| | Gagavuzca | | — | | | | | kök yok: yerine sopa (sopa) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine sopa (sopa) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine çomak (çomak) |
+| | Dolganca | | — | | | | | kök yok: yerine mas (mas) |
 
 ## Kaynakça
 

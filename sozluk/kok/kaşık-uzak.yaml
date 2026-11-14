@@ -8,7 +8,7 @@ etimoloji: Kazakça kaşık; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kaşık, dil: kaz, kaynak: savelyev-turkic, yazi: қашық}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kaşık, dil: kaz, kaynak: savelyev-turkic, yazi: қашық, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine uzak (uzak)

@@ -10,18 +10,18 @@ etimoloji: ẹrte 'erken, sabah'; Kıpçak ve Karluk dillerinde ve Türkmencede 
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: irtägä, dil: bak, kaynak: savelyev-turkic, yazi: иртәгә}
-  - {atif: 'baskakov1958, baskakov1967', bicim: erteñ, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: erteñ, dil: kaz, kaynak: savelyev-turkic, yazi: ертең}
-  - {atif: 'judakhin1985, judakhin1957', bicim: erteñ, dil: kir, kaynak: savelyev-turkic, yazi: эртең}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: erten, dil: nog, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: eetä, dil: slr, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: erten, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: irtägä, dil: tat, kaynak: savelyev-turkic, yazi: иртәгә}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: ertir, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: ätä, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: erta, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: ärtän, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: irtägä, dil: bak, kaynak: savelyev-turkic, yazi: иртәгә, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: erteñ, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: erteñ, dil: kaz, kaynak: savelyev-turkic, yazi: ертең, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: erteñ, dil: kir, kaynak: savelyev-turkic, yazi: эртең, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: erten, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: eetä, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: erten, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: irtägä, dil: tat, kaynak: savelyev-turkic, yazi: иртәгә, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: ertir, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: ätä, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: erta, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: ärtän, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   chv: yerine ıran (yarın)

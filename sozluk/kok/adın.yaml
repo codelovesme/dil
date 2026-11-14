@@ -15,8 +15,9 @@ taniklar:
     bicim: adın
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'aksenova1992, stachowski1993', bicim: atın, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: atın, dil: sah, kaynak: savelyev-turkic, yazi: атын}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'aksenova1992, stachowski1993', bicim: atın, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: atın, dil: sah, kaynak: savelyev-turkic, yazi: атын, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine paşka (başka)

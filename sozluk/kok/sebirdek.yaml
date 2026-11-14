@@ -8,8 +8,8 @@ etimoloji: Sahaca sebirdex, Dolganca hebirdek; kökeni bu çalışmada araştır
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: hebirdek, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sebirdex, dil: sah, kaynak: savelyev-turkic, yazi: сэбирдэх}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hebirdek, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sebirdex, dil: sah, kaynak: savelyev-turkic, yazi: сэбирдэх, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaprak (yaprak)

@@ -8,7 +8,7 @@ etimoloji: Tuvaca; kökeni bu çalışmada araştırılmadı (Moğolca ile karş
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: boda, dil: tyv, kaynak: savelyev-turkic, yazi: бода-}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: boda, dil: tyv, kaynak: savelyev-turkic, yazi: бода-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine oyla (oyla)

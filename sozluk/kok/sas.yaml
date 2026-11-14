@@ -8,8 +8,8 @@ etimoloji: sası- 'kokmak'; Özbekçe ve Orta Çulımca 'çürümek'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: savelyev2015, bicim: saas, dil: clw, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: sas, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: saas, dil: clw, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: sas, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine çiri (çürü)

@@ -8,7 +8,7 @@ etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: iedes, dil: sah, kaynak: savelyev-turkic, yazi: иэдэс}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: iedes, dil: sah, kaynak: savelyev-turkic, yazi: иэдэс, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yañak (yañak)

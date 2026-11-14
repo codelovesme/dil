@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 9 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 9 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1 · denetim ◐9**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,13 +25,13 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tañda** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tañda** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -41,36 +41,36 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Karayca |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kumukça |  | **tañala** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karaçay-Malkarca |  | **tambla** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **tağın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Hakasça |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **tañna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Kuzey Altayca |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Çuvaşça | | — | | | | kök yok: yerine ıran (yarın) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yarın (yarın) |
-| | Gagavuzca | | — | | | | kök yok: yerine yarın (yarın) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yarın (yarın) |
-| | Baraba ağzı | | — | | | | kök yok: yerine ärtän (erte) |
-| | Güney Altayca | | — | | | | kök yok: yerine erten (erte) |
-| | Başkurtça | | — | | | | kök yok: yerine irtägä (erte) |
-| | Karakalpakça | | — | | | | kök yok: yerine erteñ (erte) |
-| | Kazakça | | — | | | | kök yok: yerine erteñ (erte) |
-| | Kırgızca | | — | | | | kök yok: yerine erteñ (erte) |
-| | Nogayca | | — | | | | kök yok: yerine erten (erte) |
-| | Salarca | | — | | | | kök yok: yerine eetä (erte) |
-| | Tatarca | | — | | | | kök yok: yerine irtägä (erte) |
-| | Türkmence | | — | | | | kök yok: yerine ertir (erte) |
-| | Uygurca | | — | | | | kök yok: yerine ätä (erte) |
-| | Özbekçe | | — | | | | kök yok: yerine erta (erte) |
-| | Dolganca | | — | | | | kök yok: yerine harsın (sarsın) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sarsın (sarsın) |
-| | Tofaca | | — | | | | kök yok: yerine turay (turay) |
-| | Tuvaca | | — | | | | kök yok: yerine daarta (daarta) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Karayca |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kumukça |  | **tañala** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Karaçay-Malkarca |  | **tambla** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sarı Uygurca |  | **tağın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Hakasça |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Şorca |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Çulımca |  | **tañna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Kuzey Altayca |  | **tañda** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Çuvaşça | | — | | | | | kök yok: yerine ıran (yarın) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yarın (yarın) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yarın (yarın) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yarın (yarın) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine ärtän (erte) |
+| | Güney Altayca | | — | | | | | kök yok: yerine erten (erte) |
+| | Başkurtça | | — | | | | | kök yok: yerine irtägä (erte) |
+| | Karakalpakça | | — | | | | | kök yok: yerine erteñ (erte) |
+| | Kazakça | | — | | | | | kök yok: yerine erteñ (erte) |
+| | Kırgızca | | — | | | | | kök yok: yerine erteñ (erte) |
+| | Nogayca | | — | | | | | kök yok: yerine erten (erte) |
+| | Salarca | | — | | | | | kök yok: yerine eetä (erte) |
+| | Tatarca | | — | | | | | kök yok: yerine irtägä (erte) |
+| | Türkmence | | — | | | | | kök yok: yerine ertir (erte) |
+| | Uygurca | | — | | | | | kök yok: yerine ätä (erte) |
+| | Özbekçe | | — | | | | | kök yok: yerine erta (erte) |
+| | Dolganca | | — | | | | | kök yok: yerine harsın (sarsın) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sarsın (sarsın) |
+| | Tofaca | | — | | | | | kök yok: yerine turay (turay) |
+| | Tuvaca | | — | | | | | kök yok: yerine daarta (daarta) |
 
 ## Kaynakça
 

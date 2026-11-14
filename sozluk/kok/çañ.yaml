@@ -9,14 +9,14 @@ etimoloji: çañ 'toz'; Kıpçak (Kazak, Nogay, Kumuk), Kırgız ve Karluk dille
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1958, baskakov1967', bicim: şañ, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şañ, dil: kaz, kaynak: savelyev-turkic, yazi: шаң}
-  - {atif: 'judakhin1985, judakhin1957', bicim: çañ, dil: kir, kaynak: savelyev-turkic, yazi: чаң}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: çañ, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şañ, dil: nog, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: çam, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: çañ, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çañ, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1958, baskakov1967', bicim: şañ, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şañ, dil: kaz, kaynak: savelyev-turkic, yazi: шаң, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: çañ, dil: kir, kaynak: savelyev-turkic, yazi: чаң, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: çañ, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: şañ, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: çam, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: çañ, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çañ, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tos (toz)

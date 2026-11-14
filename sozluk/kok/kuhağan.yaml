@@ -8,8 +8,8 @@ etimoloji: Sahaca ve Dolganca kuhağan; kökeni bu çalışmada araştırılmad�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: kuhağan, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kuhağan, dil: sah, kaynak: savelyev-turkic, yazi: куһаҕан}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kuhağan, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kuhağan, dil: sah, kaynak: savelyev-turkic, yazi: куһаҕан, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaman (yaman)

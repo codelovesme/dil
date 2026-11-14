@@ -7,31 +7,31 @@ etimoloji: yap- 'yapmak, örtmek'; Kırım Tatarcasında ve Türkiye Türkçesin
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: yap, dil: crh, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: noauthor1880, bicim: yap, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14}
-  - {anlam: örtmek, atif: clauson1972, bicim: yap, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14}
-  - {anlam: örtmek, bicim: yapın, dil: eski-anadolu, kaynak: wiktionary-ana-turkce, metin: Eski Anadolu Türkçesi metinleri, not: Wiktionary'de mastar biçimiyle yapınmak., yazi: ياپنماق, yuzyil: 13-15}
-  - {anlam: örtmek, atif: 'uraksin1996, uraksin2005', bicim: yap, dil: bak, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'aksenova1992, stachowski1993', bicim: hap, dil: dlg, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'tenisev1989, sujuncev1965', bicim: cap, dil: krc, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: baskakov1974, bicim: yap, dil: kdr, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'baskakov1958, baskakov1967', bicim: jap, dil: kaa, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jap, dil: kaz, kaynak: savelyev-turkic, yazi: жап-}
-  - {anlam: örtmek, atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çap, dil: kjh, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'judakhin1985, judakhin1957', bicim: jap, dil: kir, kaynak: savelyev-turkic, yazi: жап-}
-  - {anlam: örtmek, atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yap, dil: kum, kaynak: savelyev-turkic, not: üstün yap- 'üstünü örtmek'.}
-  - {anlam: örtmek, atif: savelyev2015, bicim: çap, dil: clw, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yap, dil: nog, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: baskakov1985, bicim: yap, dil: atv, kaynak: savelyev-turkic, not: cap- de.}
-  - {anlam: örtmek, atif: kurpesko-tannagaseva1993, bicim: çap, dil: cjs, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: baskakov1947, bicim: dap, dil: alt, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'dmitrijev1955, osmanov1966', bicim: yap, dil: tat, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'rassadin1971, rassadin2005', bicim: çıp, dil: kim, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'baskakov1968, khamzajev1968', bicim: yap, dil: tuk, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'harrison2002, mongus1988, tenisev1968', bicim: şıp, dil: tyv, kaynak: savelyev-turkic, yazi: шып-}
-  - {anlam: örtmek, atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yop, dil: uzb, kaynak: savelyev-turkic}
-  - {anlam: örtmek, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sap, dil: sah, kaynak: savelyev-turkic, yazi: сап-}
-  - {anlam: örtmek, atif: dmitrijeva1981, bicim: yap, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: yap, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: noauthor1880, bicim: yap, dil: qwm, kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli), kaynak: savelyev-turkic, metin: Codex Cumanicus, yabanci: true, yer: Kırım ve Deşt-i Kıpçak, yuzyil: 14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: clauson1972, bicim: yap, dil: otk, kaynak: savelyev-turkic, metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre), yuzyil: 8-14, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, bicim: yapın, dil: eski-anadolu, kaynak: wiktionary-ana-turkce, metin: Eski Anadolu Türkçesi metinleri, not: Wiktionary'de mastar biçimiyle yapınmak., yazi: ياپنماق, yuzyil: 13-15, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {anlam: örtmek, atif: 'uraksin1996, uraksin2005', bicim: yap, dil: bak, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'aksenova1992, stachowski1993', bicim: hap, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'tenisev1989, sujuncev1965', bicim: cap, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: baskakov1974, bicim: yap, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'baskakov1958, baskakov1967', bicim: jap, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: jap, dil: kaz, kaynak: savelyev-turkic, yazi: жап-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çap, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'judakhin1985, judakhin1957', bicim: jap, dil: kir, kaynak: savelyev-turkic, yazi: жап-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: yap, dil: kum, kaynak: savelyev-turkic, not: üstün yap- 'üstünü örtmek'., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: savelyev2015, bicim: çap, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: yap, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: baskakov1985, bicim: yap, dil: atv, kaynak: savelyev-turkic, not: cap- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: kurpesko-tannagaseva1993, bicim: çap, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: baskakov1947, bicim: dap, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'dmitrijev1955, osmanov1966', bicim: yap, dil: tat, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'rassadin1971, rassadin2005', bicim: çıp, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'baskakov1968, khamzajev1968', bicim: yap, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'harrison2002, mongus1988, tenisev1968', bicim: şıp, dil: tyv, kaynak: savelyev-turkic, yazi: шып-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yop, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sap, dil: sah, kaynak: savelyev-turkic, yazi: сап-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: örtmek, atif: dmitrijeva1981, bicim: yap, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine et (et)

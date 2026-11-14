@@ -9,11 +9,11 @@ etimoloji: yağrın 'kürek kemiği'; Baraba, Salar, Kuzey Altay ve Sahada 'omuz
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: hannı, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: carın, dil: atv, kaynak: savelyev-turkic, not: yarın de.}
-  - {atif: tenisev1976, bicim: yağrı, dil: slr, kaynak: savelyev-turkic, not: yargı de.}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sarın, dil: sah, kaynak: savelyev-turkic, yazi: сарын}
-  - {atif: dmitrijeva1981, bicim: yawrın, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hannı, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: carın, dil: atv, kaynak: savelyev-turkic, not: yarın de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: yağrı, dil: slr, kaynak: savelyev-turkic, not: yargı de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sarın, dil: sah, kaynak: savelyev-turkic, yazi: сарын, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: yawrın, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine iyin (egin)

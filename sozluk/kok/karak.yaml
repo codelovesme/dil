@@ -9,13 +9,13 @@ etimoloji: karak 'göz bebeği, göz'; Sibirya dillerinde asıl 'göz' kelimesi 
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: karak, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xarax, dil: kjh, kaynak: savelyev-turkic, yazi: харах}
-  - {atif: savelyev2015, bicim: karak, dil: clw, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: karak, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: karak, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: karak, dil: tyv, kaynak: savelyev-turkic, yazi: карак}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xarax, dil: sah, kaynak: savelyev-turkic, yazi: харах}
+  - {atif: 'aksenova1992, stachowski1993', bicim: karak, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xarax, dil: kjh, kaynak: savelyev-turkic, yazi: харах, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: karak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: karak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: karak, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: karak, dil: tyv, kaynak: savelyev-turkic, yazi: карак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xarax, dil: sah, kaynak: savelyev-turkic, yazi: харах, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine köz (köz)

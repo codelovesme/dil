@@ -8,7 +8,7 @@ etimoloji: tık- 'tıkmak, sokmak'; Kazakçada 'saklamak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tık, dil: kaz, kaynak: savelyev-turkic, yazi: тық-}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tık, dil: kaz, kaynak: savelyev-turkic, yazi: тық-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yäşär (yaşır)

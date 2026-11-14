@@ -8,7 +8,7 @@ etimoloji: Çuvaşça tüpe 'tepe, gök'; tepe ile ilişkisi bu çalışmada ara
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: tüpe, dil: chv, kaynak: savelyev-turkic, yazi: тӳпе}
+  - {atif: 'asmarin1928, savelyev2011', bicim: tüpe, dil: chv, kaynak: savelyev-turkic, yazi: тӳпе, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kök (kök)

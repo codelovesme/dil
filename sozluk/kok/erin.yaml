@@ -8,7 +8,7 @@ etimoloji: erin 'dudak'; Tofacada 'çene' için.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: erin, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: erin, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine inäk (eñek)

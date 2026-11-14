@@ -8,7 +8,7 @@ etimoloji: Çuvaşça tu-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: tu, dil: chv, kaynak: savelyev-turkic, yazi: ту-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: tu, dil: chv, kaynak: savelyev-turkic, yazi: ту-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine et (et)

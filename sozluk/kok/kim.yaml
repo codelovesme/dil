@@ -20,6 +20,7 @@ taniklar:
     atif: Clauson s. 720-721
     not: Soru zamiri ve ilgi zamiri (ot kim ığaçda ünüp 'ağaçta beliren ateş'). Savelyev Clauson'dan
       kem okur.
+    denetim: {durum: dogrulandi, bicim: [clauson, savelyev-turkic], anlam: [clauson, savelyev-turkic]}
   - dil: xqa
     yer: Kâşgar
     yuzyil: 11
@@ -29,6 +30,7 @@ taniklar:
     atif: DLT I 338
     kaydeden: Kâşgarlı Mahmud
     not: Yazmada aşağı yukarı yarı yarıya kim ve uzun ünlüyle kīm; tekil ve çoğul için.
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: oguz
     boy: Oğuz
     yuzyil: 11
@@ -37,12 +39,14 @@ taniklar:
     kaynak: dlt; clauson
     atif: DLT I 338
     kaydeden: Kâşgarlı Mahmud
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: xqa
     yuzyil: 11-13
     bicim: kim
     metin: Kutadgu Bilig; Atebetü'l-Hakayık; Karahanlıca Kur'an tefsiri
     kaynak: clauson
     not: kayu kim 'her kim', kaçan kim 'ne zaman ki', kimse 'biri'.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: xbo
     yuzyil: 13-14
     bicim: kem
@@ -50,6 +54,7 @@ taniklar:
     metin: Volga Bulgar mezar taşları
     kaynak: wiktionary-ana-turkce
     atif: Erdal 1993 s. 69-70
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: chg
     yer: Harezm
     yuzyil: 13-14
@@ -57,6 +62,7 @@ taniklar:
     metin: Harezm Türkçesi metinleri; Nehcü'l-Feradis
     kaynak: clauson
     not: kimerse, kimse, kimesne.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: ortak
     yuzyil: 14
     bicim: kīm
@@ -64,6 +70,7 @@ taniklar:
     kaynak: ibn-muhenna; clauson
     kaydeden: İbn Mühennâ (Arapça sözlük)
     not: Soru ve ilgi zamiri olarak.
+    denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}
   - dil: qwm
     yer: Kırım ve Deşt-i Kıpçak
     yuzyil: 14
@@ -73,6 +80,7 @@ taniklar:
     kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
     yabanci: true
     not: Yazmada kym ve kim yazımları.
+    denetim: {durum: dogrulandi, bicim: [gronbech-kuman, clauson, savelyev-turkic], anlam: [gronbech-kuman, clauson, savelyev-turkic]}
   - dil: qwm
     yer: Memlük Mısır'ı
     yuzyil: 13-14
@@ -81,57 +89,60 @@ taniklar:
     kaynak: clauson
     kaydeden: Memlük sözlükçüleri (Arapça)
     yabanci: true
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: chg
     yuzyil: 15-18
     bicim: kim
     metin: Çağatay edebî dili; Senglâh
     kaynak: clauson; senglah
+    denetim: {durum: dogrulandi, bicim: [clauson, senglah], anlam: [clauson, senglah]}
   - dil: eski-anadolu
     yuzyil: 13-15
     bicim: kim
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: كم
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kim, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'uraksin1996, uraksin2005', bicim: kem, dil: bak, kaynak: savelyev-turkic}
-  - {atif: 'asmarin1928, savelyev2011', bicim: kam, dil: chv, kaynak: savelyev-turkic, not: Oğur a; miras (Volga Bulgarcası kem ile)., yazi: кам}
-  - {atif: useinov2007, bicim: kim, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'aksenova1992, stachowski1993', bicim: kim, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kim, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kim, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: kim, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1958, baskakov1967', bicim: kim, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kĭm, dil: kaz, kaynak: savelyev-turkic, yazi: кім}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: kem, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: kim, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: kim, dil: kir, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kim, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: käm, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kim, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: kem, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: kem, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: kim, dil: ybe, kaynak: savelyev-turkic, not: Soluklu k (kʰ).}
-  - {atif: kurpesko-tannagaseva1993, bicim: kem, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: kem, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: kem, dil: tat, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: kum, dil: kim, kaynak: savelyev-turkic, not: Sayan ünlü gelişmesi (i > ı/u).}
-  - {atif: 'baskakov1977, iz1992', bicim: kim, dil: tur, kaynak: savelyev-turkic}
-  - {dil: tur-ahiska, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-bkaradeniz, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-brumeli, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-dkaradeniz, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-drumeli, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-ege, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-erzurum, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-kibris, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-orta, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-teke, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: kim, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kım, dil: tyv, kaynak: savelyev-turkic, yazi: кым}
-  - {atif: nadzip1968, bicim: kim, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kim, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kim, dil: sah, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: kim, dil: sty-baraba, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kim, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005', bicim: kem, dil: bak, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011', bicim: kam, dil: chv, kaynak: savelyev-turkic, not: Oğur a; miras (Volga Bulgarcası kem ile)., yazi: кам, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: kim, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kim, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: kim, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kim, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: kim, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kim, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kĭm, dil: kaz, kaynak: savelyev-turkic, yazi: кім, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: kem, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: kim, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kim, dil: kir, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kim, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: käm, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kim, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: kem, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: kem, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: kim, dil: ybe, kaynak: savelyev-turkic, not: Soluklu k (kʰ)., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: kem, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: kem, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: kem, dil: tat, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kum, dil: kim, kaynak: savelyev-turkic, not: Sayan ünlü gelişmesi (i > ı/u)., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: kim, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: tur-ahiska, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-bkaradeniz, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-brumeli, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-dkaradeniz, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-drumeli, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-ege, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-erzurum, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-kibris, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-orta, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-teke, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: kim, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kım, dil: tyv, kaynak: savelyev-turkic, yazi: кым, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: kim, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kim, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kim, dil: sah, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: kim, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok: {}
 tarihi_yok: {}

@@ -8,8 +8,8 @@ etimoloji: Sayan dillerinde daara-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: daara, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: daara, dil: tyv, kaynak: savelyev-turkic, yazi: даара-}
+  - {atif: 'rassadin1971, rassadin2005', bicim: daara, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: daara, dil: tyv, kaynak: savelyev-turkic, yazi: даара-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tik (tik)

@@ -8,8 +8,8 @@ etimoloji: kıçkıl/kışkıl 'ekşi'; kökeni bu çalışmada araştırılmad�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kışkıl, dil: kaz, kaynak: savelyev-turkic, yazi: қышқыл}
-  - {atif: 'judakhin1985, judakhin1957', bicim: kıçkıl, dil: kir, kaynak: savelyev-turkic, yazi: кычкыл}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kışkıl, dil: kaz, kaynak: savelyev-turkic, yazi: қышқыл, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kıçkıl, dil: kir, kaynak: savelyev-turkic, yazi: кычкыл, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine acığ (açığ)

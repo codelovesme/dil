@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,35 +24,35 @@
 
 Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırım Tatarcası, Karayca, Kırımçakça, Urumca, Kumukça, Karaçay-Malkarca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **segel** | сегел |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine inäk (eñek) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine eek (eñek) |
-| | Güney Altayca | | — | | | | kök yok: yerine eek (eñek) |
-| | Başkurtça | | — | | | | kök yok: yerine eyäk (eñek) |
-| | Karakalpakça | | — | | | | kök yok: yerine iyek (eñek) |
-| | Kazakça | | — | | | | kök yok: yerine iyek (eñek) |
-| | Hakasça | | — | | | | kök yok: yerine eek (eñek) |
-| | Kırgızca | | — | | | | kök yok: yerine eek (eñek) |
-| | Çulımca | | — | | | | kök yok: yerine eeg (eñek) |
-| | Nogayca | | — | | | | kök yok: yerine iyek (eñek) |
-| | Salarca | | — | | | | kök yok: yerine enix (eñek) |
-| | Şorca | | — | | | | kök yok: yerine eek (eñek) |
-| | Tatarca | | — | | | | kök yok: yerine iyäk (eñek) |
-| | Türkmence | | — | | | | kök yok: yerine eñek (eñek) |
-| | Uygurca | | — | | | | kök yok: yerine eñäk (eñek) |
-| | Özbekçe | | — | | | | kök yok: yerine iyak (eñek) |
-| | Dolganca | | — | | | | kök yok: yerine häñiyä (eñek) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine señiye (eñek) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine çänä (çene) |
-| | Gagavuzca | | — | | | | kök yok: yerine çenä (çene) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine çene (çene) |
-| | Tofaca | | — | | | | kök yok: yerine erin (erin) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tuvaca |  | **segel** | сегел |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine inäk (eñek) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine eek (eñek) |
+| | Güney Altayca | | — | | | | | kök yok: yerine eek (eñek) |
+| | Başkurtça | | — | | | | | kök yok: yerine eyäk (eñek) |
+| | Karakalpakça | | — | | | | | kök yok: yerine iyek (eñek) |
+| | Kazakça | | — | | | | | kök yok: yerine iyek (eñek) |
+| | Hakasça | | — | | | | | kök yok: yerine eek (eñek) |
+| | Kırgızca | | — | | | | | kök yok: yerine eek (eñek) |
+| | Çulımca | | — | | | | | kök yok: yerine eeg (eñek) |
+| | Nogayca | | — | | | | | kök yok: yerine iyek (eñek) |
+| | Salarca | | — | | | | | kök yok: yerine enix (eñek) |
+| | Şorca | | — | | | | | kök yok: yerine eek (eñek) |
+| | Tatarca | | — | | | | | kök yok: yerine iyäk (eñek) |
+| | Türkmence | | — | | | | | kök yok: yerine eñek (eñek) |
+| | Uygurca | | — | | | | | kök yok: yerine eñäk (eñek) |
+| | Özbekçe | | — | | | | | kök yok: yerine iyak (eñek) |
+| | Dolganca | | — | | | | | kök yok: yerine häñiyä (eñek) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine señiye (eñek) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine çänä (çene) |
+| | Gagavuzca | | — | | | | | kök yok: yerine çenä (çene) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine çene (çene) |
+| | Tofaca | | — | | | | | kök yok: yerine erin (erin) |
 
 ## Kaynakça
 

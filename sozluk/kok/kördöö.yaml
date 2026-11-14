@@ -8,8 +8,8 @@ etimoloji: Sahaca ve Dolganca kördöö-; kör- 'görmek' ile ilişkisi bu çal�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: kördöö, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kördöö, dil: sah, kaynak: savelyev-turkic, yazi: көрдөө-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kördöö, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kördöö, dil: sah, kaynak: savelyev-turkic, yazi: көрдөө-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine sora (sora)

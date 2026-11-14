@@ -8,7 +8,7 @@ etimoloji: Tofaca çerlä-; yer 'yer' adından türemiş olabilir, bu çalışma
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: çerlä, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: çerlä, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yeşä (yaşa)

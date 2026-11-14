@@ -21,12 +21,14 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazımlar uru, ourluc.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: uruğ
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: tur
     yuzyil: 16-19
     bicim: uruk
@@ -34,20 +36,21 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: اوروق
     not: Wiktionary aktarımı uruq.
-  - {atif: 'uraksin1996, uraksin2005', bicim: orlok, dil: bak, kaynak: savelyev-turkic, yazi: орлоҡ}
-  - {atif: 'asmarin1928, savelyev2011', bicim: văra, dil: chv, kaynak: savelyev-turkic, yazi: вӑрӑ}
-  - {atif: useinov2007, bicim: urluk, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: urluk, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: urluk, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: urık, dil: kaz, kaynak: savelyev-turkic, yazi: ұрық}
-  - {atif: 'judakhin1985, judakhin1957', bicim: uruk, dil: kir, kaynak: savelyev-turkic, yazi: урук}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: urluk, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: urlık, dil: nog, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: urlux, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: orlık, dil: tat, kaynak: savelyev-turkic, yazi: орлык}
-  - {dil: tur, bicim: urluk, kaynak: bilgi, not: 'Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {atif: nadzip1968, bicim: uruk, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: uruğ, dil: uzb, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {atif: 'uraksin1996, uraksin2005', bicim: orlok, dil: bak, kaynak: savelyev-turkic, yazi: орлоҡ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011', bicim: văra, dil: chv, kaynak: savelyev-turkic, yazi: вӑрӑ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: urluk, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: urluk, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: urluk, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: urık, dil: kaz, kaynak: savelyev-turkic, yazi: ұрық, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: uruk, dil: kir, kaynak: savelyev-turkic, yazi: урук, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: urluk, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: urlık, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: urlux, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: orlık, dil: tat, kaynak: savelyev-turkic, yazi: орлык, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: tur, bicim: urluk, kaynak: bilgi, not: 'Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {atif: nadzip1968, bicim: uruk, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: uruğ, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok: {}
 tarihi_yok: {}

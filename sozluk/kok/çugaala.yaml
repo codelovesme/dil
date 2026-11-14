@@ -8,7 +8,7 @@ etimoloji: Tuvaca çugaala-; çugaa 'söz, konuşma' adından.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çugaala, dil: tyv, kaynak: savelyev-turkic, yazi: чугаала-}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çugaala, dil: tyv, kaynak: savelyev-turkic, yazi: чугаала-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine äyt (ayt)

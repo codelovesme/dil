@@ -8,7 +8,7 @@ etimoloji: Tuvaca dovurak 'toprak'; tozla ilgili olabilir, bu çalışmada araş
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dovurak, dil: tyv, kaynak: savelyev-turkic, yazi: доврак}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dovurak, dil: tyv, kaynak: savelyev-turkic, yazi: доврак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yer (yer)

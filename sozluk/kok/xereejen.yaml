@@ -8,7 +8,7 @@ etimoloji: Tuvaca xereejen; Moğolca ödünç olabilir, bu çalışmada araştı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xereejen, dil: tyv, kaynak: savelyev-turkic, yazi: херээжен}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xereejen, dil: tyv, kaynak: savelyev-turkic, yazi: херээжен, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   krc: yerine tişiriw (tişi)

@@ -7,9 +7,9 @@ etimoloji: Tofaca neş; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic}
-  - {anlam: odun, atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic}
-  - {anlam: orman, atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic}
+  - {atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: odun, atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: orman, atif: 'rassadin1971, rassadin2005', bicim: neş, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ağac (ığaç)

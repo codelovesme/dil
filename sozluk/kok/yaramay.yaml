@@ -8,7 +8,7 @@ etimoloji: yara- 'yaramak' fiilinin olumsuzu; Kırım Tatarcasında 'kötü'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: yaramay, dil: crh, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: yaramay, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaman (yaman)

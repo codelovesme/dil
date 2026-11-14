@@ -20,39 +20,41 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım tatli.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: tatığlığ
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'uraksin1996, uraksin2005', bicim: tatlı, dil: bak, kaynak: savelyev-turkic}
-  - {atif: useinov2007, bicim: tatlı, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tatlı, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: tatlı, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: tatlı, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tätti, dil: kaz, kaynak: savelyev-turkic, yazi: тәттi}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tadılığ, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: tattuu, dil: kir, kaynak: savelyev-turkic, yazi: таттуу}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tatli, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: taadlığ, dil: clw, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: tätli, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: taattu, dil: atv, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: tälli, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'malov1957, tenisev1966', bicim: tatığ, dil: ybe, kaynak: savelyev-turkic, not: tattığ de.}
-  - {atif: baskakov1947, bicim: tatu, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: tatlı, dil: tat, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: tadığlığ, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: tatlı, dil: tur, kaynak: savelyev-turkic}
-  - {dil: uig, bicim: tatlik, yazi: تاتلىق, kaynak: apertium; tatoeba, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 9 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {atif: dmitrijeva1981, bicim: tatlı, dil: sty-baraba, kaynak: savelyev-turkic}
-  - {dil: otk, yuzyil: 8-14, bicim: tatığlığ, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 46, 71; Suv. 647 (Clauson, tatığlığ)'}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tatlığ, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 45, 495, 529 (Clauson, tatığlığ)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yuzyil: 13, bicim: tatlığ, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 289 (Clauson, tatığlığ)', not: 'tatluğ, tatlu da.'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: tatlığ, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 7; 66, 3 (Clauson, tatığlığ)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: tatlığ, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 173; Nehcü''l-Feradis 163 (Clauson, tatığlığ)'}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: tatlu, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 9 (Clauson, tatığlığ)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: chg, yuzyil: 16-18, bicim: tatlığ, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 167, Senglâh 152 (Clauson, tatığlığ)', not: 'Senglâh: Rumca (Osmanlıca) tatlu.'}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'uraksin1996, uraksin2005', bicim: tatlı, dil: bak, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007, bicim: tatlı, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: tatlı, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tatlı, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: tatlı, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: tätti, dil: kaz, kaynak: savelyev-turkic, yazi: тәттi, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tadılığ, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: tattuu, dil: kir, kaynak: savelyev-turkic, yazi: таттуу, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tatli, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: taadlığ, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: tätli, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: taattu, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: tälli, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966', bicim: tatığ, dil: ybe, kaynak: savelyev-turkic, not: tattığ de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: tatu, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: tatlı, dil: tat, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tadığlığ, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: tatlı, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: uig, bicim: tatlik, yazi: تاتلىق, kaynak: apertium; tatoeba, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 9 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba]}}
+  - {atif: dmitrijeva1981, bicim: tatlı, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: otk, yuzyil: 8-14, bicim: tatığlığ, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 46, 71; Suv. 647 (Clauson, tatığlığ)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tatlığ, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 45, 495, 529 (Clauson, tatığlığ)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: tatlığ, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 289 (Clauson, tatığlığ)', not: 'tatluğ, tatlu da.', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: tatlığ, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 54, 7; 66, 3 (Clauson, tatığlığ)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: tatlığ, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 173; Nehcü''l-Feradis 163 (Clauson, tatığlığ)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: tatlu, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 27, 9 (Clauson, tatığlığ)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: tatlığ, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Abuşka 167, Senglâh 152 (Clauson, tatığlığ)', not: 'Senglâh: Rumca (Osmanlıca) tatlu.', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   tuk: yerine süyci (süçig)

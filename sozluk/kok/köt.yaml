@@ -8,8 +8,8 @@ etimoloji: Sahaca ve Dolganca köt-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: köt, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: köt, dil: sah, kaynak: savelyev-turkic, yazi: көт-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: köt, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: köt, dil: sah, kaynak: savelyev-turkic, yazi: көт-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine oç (uç)

@@ -9,9 +9,9 @@ etimoloji: köpek; Türkiye Türkçesi, Gagavuzca ve Kırım Tatarcasında asıl
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: köpek, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: köpek, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: köpek, dil: tur, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: köpek, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: köpek, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: köpek, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine it (ıt)

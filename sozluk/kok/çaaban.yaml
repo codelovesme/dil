@@ -8,7 +8,7 @@ etimoloji: Halaçça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: doerfer1980, bicim: çaaban, dil: klj, kaynak: savelyev-turkic}
+  - {atif: doerfer1980, bicim: çaaban, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine özen (özen)

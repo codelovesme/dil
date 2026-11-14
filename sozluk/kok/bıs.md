@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,42 +25,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **bıs** | быс- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **bıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kes (kes) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kes (kes) |
-| | Güney Altayca | | — | | | | kök yok: yerine kes (kes) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine käs (kes) |
-| | Başkurtça | | — | | | | kök yok: yerine kis (kes) |
-| | Çuvaşça | | — | | | | kök yok: yerine kas (kes) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kes (kes) |
-| | Gagavuzca | | — | | | | kök yok: yerine kes (kes) |
-| | Karakalpakça | | — | | | | kök yok: yerine kes (kes) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kes (kes) |
-| | Karayca | | — | | | | kök yok: yerine kes (kes) |
-| | Kazakça | | — | | | | kök yok: yerine kes (kes) |
-| | Hakasça | | — | | | | kök yok: yerine kis (kes) |
-| | Halaçça | | — | | | | kök yok: yerine käs (kes) |
-| | Kırgızca | | — | | | | kök yok: yerine kes (kes) |
-| | Kumukça | | — | | | | kök yok: yerine ges (kes) |
-| | Çulımca | | — | | | | kök yok: yerine käs (kes) |
-| | Nogayca | | — | | | | kök yok: yerine kes (kes) |
-| | Salarca | | — | | | | kök yok: yerine kes (kes) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kes (kes) |
-| | Şorca | | — | | | | kök yok: yerine kes (kes) |
-| | Tatarca | | — | | | | kök yok: yerine kis (kes) |
-| | Tofaca | | — | | | | kök yok: yerine kes (kes) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kes (kes) |
-| | Türkmence | | — | | | | kök yok: yerine kes (kes) |
-| | Tuvaca | | — | | | | kök yok: yerine kes (kes) |
-| | Uygurca | | — | | | | kök yok: yerine käs (kes) |
-| | Özbekçe | | — | | | | kök yok: yerine kes (kes) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **bıs** | быс- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Dolganca |  | **bıs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kes (kes) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kes (kes) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kes (kes) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine käs (kes) |
+| | Başkurtça | | — | | | | | kök yok: yerine kis (kes) |
+| | Çuvaşça | | — | | | | | kök yok: yerine kas (kes) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kes (kes) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kes (kes) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kes (kes) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kes (kes) |
+| | Karayca | | — | | | | | kök yok: yerine kes (kes) |
+| | Kazakça | | — | | | | | kök yok: yerine kes (kes) |
+| | Hakasça | | — | | | | | kök yok: yerine kis (kes) |
+| | Halaçça | | — | | | | | kök yok: yerine käs (kes) |
+| | Kırgızca | | — | | | | | kök yok: yerine kes (kes) |
+| | Kumukça | | — | | | | | kök yok: yerine ges (kes) |
+| | Çulımca | | — | | | | | kök yok: yerine käs (kes) |
+| | Nogayca | | — | | | | | kök yok: yerine kes (kes) |
+| | Salarca | | — | | | | | kök yok: yerine kes (kes) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kes (kes) |
+| | Şorca | | — | | | | | kök yok: yerine kes (kes) |
+| | Tatarca | | — | | | | | kök yok: yerine kis (kes) |
+| | Tofaca | | — | | | | | kök yok: yerine kes (kes) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kes (kes) |
+| | Türkmence | | — | | | | | kök yok: yerine kes (kes) |
+| | Tuvaca | | — | | | | | kök yok: yerine kes (kes) |
+| | Uygurca | | — | | | | | kök yok: yerine käs (kes) |
+| | Özbekçe | | — | | | | | kök yok: yerine kes (kes) |
 
 ## Kaynakça
 

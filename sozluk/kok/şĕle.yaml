@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şĕle, dil: chv, kaynak: savelyev-turkic, yazi: ҫӗле-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şĕle, dil: chv, kaynak: savelyev-turkic, yazi: ҫӗле-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tik (tik)

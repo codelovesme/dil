@@ -9,10 +9,10 @@ etimoloji: but 'but, bacak'; Altay ve Sayan dillerinde 'ayak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1985, bicim: but, dil: atv, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: but, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: but, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: but, dil: tyv, kaynak: savelyev-turkic}
+  - {atif: baskakov1985, bicim: but, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: but, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: but, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: but, dil: tyv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ayak (adak)

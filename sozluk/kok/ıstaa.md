@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,40 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **ıstaa** | ыстаа- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **ıştaa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine şayna (çayna) |
-| | Güney Altayca | | — | | | | kök yok: yerine çayna (çayna) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine çeynä (çayna) |
-| | Başkurtça | | — | | | | kök yok: yerine säynä (çayna) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine çayna (çayna) |
-| | Gagavuzca | | — | | | | kök yok: yerine çiyne (çayna) |
-| | Karakalpakça | | — | | | | kök yok: yerine şayna (çayna) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine çayna (çayna) |
-| | Karayca | | — | | | | kök yok: yerine çayna (çayna) |
-| | Kazakça | | — | | | | kök yok: yerine şayna (çayna) |
-| | Hakasça | | — | | | | kök yok: yerine tayna (çayna) |
-| | Halaçça | | — | | | | kök yok: yerine çäynä (çayna) |
-| | Kırgızca | | — | | | | kök yok: yerine çayna (çayna) |
-| | Kumukça | | — | | | | kök yok: yerine çayna (çayna) |
-| | Çulımca | | — | | | | kök yok: yerine tayna (çayna) |
-| | Nogayca | | — | | | | kök yok: yerine şayna (çayna) |
-| | Salarca | | — | | | | kök yok: yerine çäynä (çayna) |
-| | Şorca | | — | | | | kök yok: yerine tayna (çayna) |
-| | Tatarca | | — | | | | kök yok: yerine çäynä (çayna) |
-| | Tofaca | | — | | | | kök yok: yerine tayna (çayna) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine çiğne (çayna) |
-| | Türkmence | | — | | | | kök yok: yerine çeyne (çayna) |
-| | Tuvaca | | — | | | | kök yok: yerine dayna (çayna) |
-| | Uygurca | | — | | | | kök yok: yerine çayna (çayna) |
-| | Özbekçe | | — | | | | kök yok: yerine çayna (çayna) |
-| | Çuvaşça | | — | | | | kök yok: yerine çămla (çămla) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **ıstaa** | ыстаа- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Dolganca |  | **ıştaa** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine şayna (çayna) |
+| | Güney Altayca | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine çeynä (çayna) |
+| | Başkurtça | | — | | | | | kök yok: yerine säynä (çayna) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Gagavuzca | | — | | | | | kök yok: yerine çiyne (çayna) |
+| | Karakalpakça | | — | | | | | kök yok: yerine şayna (çayna) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Karayca | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Kazakça | | — | | | | | kök yok: yerine şayna (çayna) |
+| | Hakasça | | — | | | | | kök yok: yerine tayna (çayna) |
+| | Halaçça | | — | | | | | kök yok: yerine çäynä (çayna) |
+| | Kırgızca | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Kumukça | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Çulımca | | — | | | | | kök yok: yerine tayna (çayna) |
+| | Nogayca | | — | | | | | kök yok: yerine şayna (çayna) |
+| | Salarca | | — | | | | | kök yok: yerine çäynä (çayna) |
+| | Şorca | | — | | | | | kök yok: yerine tayna (çayna) |
+| | Tatarca | | — | | | | | kök yok: yerine çäynä (çayna) |
+| | Tofaca | | — | | | | | kök yok: yerine tayna (çayna) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine çiğne (çayna) |
+| | Türkmence | | — | | | | | kök yok: yerine çeyne (çayna) |
+| | Tuvaca | | — | | | | | kök yok: yerine dayna (çayna) |
+| | Uygurca | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Özbekçe | | — | | | | | kök yok: yerine çayna (çayna) |
+| | Çuvaşça | | — | | | | | kök yok: yerine çămla (çămla) |
 
 ## Kaynakça
 

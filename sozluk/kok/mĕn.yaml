@@ -9,7 +9,7 @@ etimoloji: Çuvaşçanın soru zamiri mĕn; Ortak Türkçe ne ile düzenli bir s
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: mĕn, dil: chv, kaynak: savelyev-turkic, yazi: мӗн}
+  - {atif: 'asmarin1928, savelyev2011', bicim: mĕn, dil: chv, kaynak: savelyev-turkic, yazi: мӗн, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine nemä (ne)

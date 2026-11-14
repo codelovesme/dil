@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **tipĕ** | типӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kuru (kuruğ) |
-| | Güney Altayca | | — | | | | kök yok: yerine kurğax (kuruğ) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine guru (kuruğ) |
-| | Başkurtça | | — | | | | kök yok: yerine koro (kuruğ) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kuru (kuruğ) |
-| | Dolganca | | — | | | | kök yok: yerine kuraanak (kuruğ) |
-| | Gagavuzca | | — | | | | kök yok: yerine kuru (kuruğ) |
-| | Karakalpakça | | — | | | | kök yok: yerine kurğak (kuruğ) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kurğak (kuruğ) |
-| | Karayca | | — | | | | kök yok: yerine kurğak (kuruğ) |
-| | Kazakça | | — | | | | kök yok: yerine kurğak (kuruğ) |
-| | Hakasça | | — | | | | kök yok: yerine xuruğ (kuruğ) |
-| | Halaçça | | — | | | | kök yok: yerine kurruğ (kuruğ) |
-| | Kırgızca | | — | | | | kök yok: yerine kurğak (kuruğ) |
-| | Kumukça | | — | | | | kök yok: yerine kuru (kuruğ) |
-| | Nogayca | | — | | | | kök yok: yerine kurı (kuruğ) |
-| | Salarca | | — | | | | kök yok: yerine kuru (kuruğ) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kurlüğ (kuruğ) |
-| | Şorca | | — | | | | kök yok: yerine kuruğ (kuruğ) |
-| | Tatarca | | — | | | | kök yok: yerine korı (kuruğ) |
-| | Tofaca | | — | | | | kök yok: yerine kurğağ (kuruğ) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kuru (kuruğ) |
-| | Türkmence | | — | | | | kök yok: yerine gurı (kuruğ) |
-| | Tuvaca | | — | | | | kök yok: yerine kurğağ (kuruğ) |
-| | Uygurca | | — | | | | kök yok: yerine kuruk (kuruğ) |
-| | Özbekçe | | — | | | | kök yok: yerine kuruk (kuruğ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine kuraanax (kuruğ) |
-| | Baraba ağzı | | — | | | | kök yok: yerine kak (kak-kuru) |
-| | Çulımca | | — | | | | kök yok: yerine keebiğ (keebiğ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **tipĕ** | типӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kuru (kuruğ) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kurğax (kuruğ) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine guru (kuruğ) |
+| | Başkurtça | | — | | | | | kök yok: yerine koro (kuruğ) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kuru (kuruğ) |
+| | Dolganca | | — | | | | | kök yok: yerine kuraanak (kuruğ) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kuru (kuruğ) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kurğak (kuruğ) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kurğak (kuruğ) |
+| | Karayca | | — | | | | | kök yok: yerine kurğak (kuruğ) |
+| | Kazakça | | — | | | | | kök yok: yerine kurğak (kuruğ) |
+| | Hakasça | | — | | | | | kök yok: yerine xuruğ (kuruğ) |
+| | Halaçça | | — | | | | | kök yok: yerine kurruğ (kuruğ) |
+| | Kırgızca | | — | | | | | kök yok: yerine kurğak (kuruğ) |
+| | Kumukça | | — | | | | | kök yok: yerine kuru (kuruğ) |
+| | Nogayca | | — | | | | | kök yok: yerine kurı (kuruğ) |
+| | Salarca | | — | | | | | kök yok: yerine kuru (kuruğ) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kurlüğ (kuruğ) |
+| | Şorca | | — | | | | | kök yok: yerine kuruğ (kuruğ) |
+| | Tatarca | | — | | | | | kök yok: yerine korı (kuruğ) |
+| | Tofaca | | — | | | | | kök yok: yerine kurğağ (kuruğ) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kuru (kuruğ) |
+| | Türkmence | | — | | | | | kök yok: yerine gurı (kuruğ) |
+| | Tuvaca | | — | | | | | kök yok: yerine kurğağ (kuruğ) |
+| | Uygurca | | — | | | | | kök yok: yerine kuruk (kuruğ) |
+| | Özbekçe | | — | | | | | kök yok: yerine kuruk (kuruğ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine kuraanax (kuruğ) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kak (kak-kuru) |
+| | Çulımca | | — | | | | | kök yok: yerine keebiğ (keebiğ) |
 
 ## Kaynakça
 

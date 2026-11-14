@@ -9,10 +9,10 @@ etimoloji: Ana Türkçe *kīn 'göbek'. Güney Altay kın, Tuva xin, Tofa hin, S
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: baskakov1947, bicim: kın, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: hin, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xin, dil: tyv, kaynak: savelyev-turkic, not: xindik de., yazi: хин}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kiin, dil: sah, kaynak: savelyev-turkic, yazi: киин}
+  - {atif: baskakov1947, bicim: kın, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: hin, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xin, dil: tyv, kaynak: savelyev-turkic, not: xindik de., yazi: хин, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kiin, dil: sah, kaynak: savelyev-turkic, yazi: киин, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kändik (kindik)

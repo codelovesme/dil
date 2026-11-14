@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 11/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 11/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,51 +24,51 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **tuoh** | туох |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine nemä (ne) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine nime (ne) |
-| | Güney Altayca | | — | | | | kök yok: yerine neme (ne) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine nä (ne) |
-| | Başkurtça | | — | | | | kök yok: yerine ni (ne) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine ne (ne) |
-| | Gagavuzca | | — | | | | kök yok: yerine ne (ne) |
-| | Karakalpakça | | — | | | | kök yok: yerine ne (ne) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine ne (ne) |
-| | Karayca | | — | | | | kök yok: yerine ne (ne) |
-| | Kazakça | | — | | | | kök yok: yerine ne (ne) |
-| | Hakasça | | — | | | | kök yok: yerine nime (ne) |
-| | Halaçça | | — | | | | kök yok: yerine nääsä (ne) |
-| | Kırgızca | | — | | | | kök yok: yerine emne (ne) |
-| | Kumukça | | — | | | | kök yok: yerine ne (ne) |
-| | Çulımca | | — | | | | kök yok: yerine nöme (ne) |
-| | Nogayca | | — | | | | kök yok: yerine ne (ne) |
-| | Salarca | | — | | | | kök yok: yerine nä (ne) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine ni (ne) |
-| | Şorca | | — | | | | kök yok: yerine no: (ne) |
-| | Tatarca | | — | | | | kök yok: yerine ni (ne) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine ne (ne) |
-| | Türkmence | | — | | | | kök yok: yerine näme (ne) |
-| | Uygurca | | — | | | | kök yok: yerine nimä (ne) |
-| | Özbekçe | | — | | | | kök yok: yerine nima (ne) |
-| | Ege ağzı | | — | | | | kök yok: yerine ne (ne) |
-| | Teke-Akdeniz ağzı | | — | | | | kök yok: yerine ne (ne) |
-| | Orta Anadolu ağzı | | — | | | | kök yok: yerine ne (ne) |
-| | Batı Karadeniz ağzı (Kastamonu-Sinop) | | — | | | | kök yok: yerine ne (ne) |
-| | Doğu Karadeniz ağzı (Trabzon-Rize) | | — | | | | kök yok: yerine ne (ne) |
-| | Erzurum-Kars ağzı | | — | | | | kök yok: yerine ne (ne) |
-| | Ahıska ağzı | | — | | | | kök yok: yerine ne (ne) |
-| | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | | — | | | | kök yok: yerine ne (ne) |
-| | Batı Rumeli ağzı (Makedonya, Kosova) | | — | | | | kök yok: yerine ne (ne) |
-| | Kıbrıs ağzı | | — | | | | kök yok: yerine ne (ne) |
-| | Çuvaşça | | — | | | | kök yok: yerine mĕn (mĕn) |
-| | Tofaca | | — | | | | kök yok: yerine çü (çü) |
-| | Tuvaca | | — | | | | kök yok: yerine çüü (çü) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **tuoh** | туох |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine nemä (ne) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine nime (ne) |
+| | Güney Altayca | | — | | | | | kök yok: yerine neme (ne) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine nä (ne) |
+| | Başkurtça | | — | | | | | kök yok: yerine ni (ne) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine ne (ne) |
+| | Gagavuzca | | — | | | | | kök yok: yerine ne (ne) |
+| | Karakalpakça | | — | | | | | kök yok: yerine ne (ne) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine ne (ne) |
+| | Karayca | | — | | | | | kök yok: yerine ne (ne) |
+| | Kazakça | | — | | | | | kök yok: yerine ne (ne) |
+| | Hakasça | | — | | | | | kök yok: yerine nime (ne) |
+| | Halaçça | | — | | | | | kök yok: yerine nääsä (ne) |
+| | Kırgızca | | — | | | | | kök yok: yerine emne (ne) |
+| | Kumukça | | — | | | | | kök yok: yerine ne (ne) |
+| | Çulımca | | — | | | | | kök yok: yerine nöme (ne) |
+| | Nogayca | | — | | | | | kök yok: yerine ne (ne) |
+| | Salarca | | — | | | | | kök yok: yerine nä (ne) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine ni (ne) |
+| | Şorca | | — | | | | | kök yok: yerine no: (ne) |
+| | Tatarca | | — | | | | | kök yok: yerine ni (ne) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine ne (ne) |
+| | Türkmence | | — | | | | | kök yok: yerine näme (ne) |
+| | Uygurca | | — | | | | | kök yok: yerine nimä (ne) |
+| | Özbekçe | | — | | | | | kök yok: yerine nima (ne) |
+| | Ege ağzı | | — | | | | | kök yok: yerine ne (ne) |
+| | Teke-Akdeniz ağzı | | — | | | | | kök yok: yerine ne (ne) |
+| | Orta Anadolu ağzı | | — | | | | | kök yok: yerine ne (ne) |
+| | Batı Karadeniz ağzı (Kastamonu-Sinop) | | — | | | | | kök yok: yerine ne (ne) |
+| | Doğu Karadeniz ağzı (Trabzon-Rize) | | — | | | | | kök yok: yerine ne (ne) |
+| | Erzurum-Kars ağzı | | — | | | | | kök yok: yerine ne (ne) |
+| | Ahıska ağzı | | — | | | | | kök yok: yerine ne (ne) |
+| | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | | — | | | | | kök yok: yerine ne (ne) |
+| | Batı Rumeli ağzı (Makedonya, Kosova) | | — | | | | | kök yok: yerine ne (ne) |
+| | Kıbrıs ağzı | | — | | | | | kök yok: yerine ne (ne) |
+| | Çuvaşça | | — | | | | | kök yok: yerine mĕn (mĕn) |
+| | Tofaca | | — | | | | | kök yok: yerine çü (çü) |
+| | Tuvaca | | — | | | | | kök yok: yerine çüü (çü) |
 
 ## Kaynakça
 

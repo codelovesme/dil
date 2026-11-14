@@ -8,8 +8,8 @@ etimoloji: Sahaca sarsın, Dolganca harsın; kökeni bu çalışmada araştırı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: harsın, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sarsın, dil: sah, kaynak: savelyev-turkic, yazi: сарсын}
+  - {atif: 'aksenova1992, stachowski1993', bicim: harsın, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sarsın, dil: sah, kaynak: savelyev-turkic, yazi: сарсын, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   chv: yerine ıran (yarın)

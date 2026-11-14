@@ -8,7 +8,7 @@ etimoloji: Çuvaşça simĕs; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: simĕs, dil: chv, kaynak: savelyev-turkic, yazi: симӗс}
+  - {atif: 'asmarin1928, savelyev2011', bicim: simĕs, dil: chv, kaynak: savelyev-turkic, yazi: симӗс, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yişil (yaşıl)

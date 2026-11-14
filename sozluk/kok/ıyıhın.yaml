@@ -8,8 +8,8 @@ etimoloji: Sahaca ıyıhın-, Dolganca ınır-; kökeni bu çalışmada araştı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: ınır, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıyıhın, dil: sah, kaynak: savelyev-turkic, yazi: ыйыһын-}
+  - {atif: 'aksenova1992, stachowski1993', bicim: ınır, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıyıhın, dil: sah, kaynak: savelyev-turkic, yazi: ыйыһын-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yut (yut)

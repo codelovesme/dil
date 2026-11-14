@@ -8,8 +8,8 @@ etimoloji: sopa; Türkiye Türkçesi ve Gagavuzcada. Kökeni bu çalışmada ara
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sopa, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: sopa, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sopa, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: sopa, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tayak (tayak)

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,39 +24,39 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası, Kuzey Altayca.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Salarca |  | **miçex** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | mişıx de. |
-| | Güney Altayca | | — | | | | kök yok: yerine dımşax (yımşak) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine yumşağ (yımşak) |
-| | Başkurtça | | — | | | | kök yok: yerine yomşak (yımşak) |
-| | Çuvaşça | | — | | | | kök yok: yerine şemşe (yımşak) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine yımşak (yımşak) |
-| | Gagavuzca | | — | | | | kök yok: yerine yımışak (yımşak) |
-| | Karakalpakça | | — | | | | kök yok: yerine jumsak (yımşak) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine cumuşak (yımşak) |
-| | Karayca | | — | | | | kök yok: yerine imşax (yımşak) |
-| | Kazakça | | — | | | | kök yok: yerine jumsak (yımşak) |
-| | Hakasça | | — | | | | kök yok: yerine nımzax (yımşak) |
-| | Kırgızca | | — | | | | kök yok: yerine jumşak (yımşak) |
-| | Kumukça | | — | | | | kök yok: yerine yımışak (yımşak) |
-| | Çulımca | | — | | | | kök yok: yerine çımçak (yımşak) |
-| | Nogayca | | — | | | | kök yok: yerine yumsak (yımşak) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine yumsak (yımşak) |
-| | Şorca | | — | | | | kök yok: yerine çımçak (yımşak) |
-| | Tatarca | | — | | | | kök yok: yerine yomşak (yımşak) |
-| | Tofaca | | — | | | | kök yok: yerine çımcak (yımşak) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine yumuşak (yımşak) |
-| | Türkmence | | — | | | | kök yok: yerine yumşak (yımşak) |
-| | Tuvaca | | — | | | | kök yok: yerine çımçak (yımşak) |
-| | Uygurca | | — | | | | kök yok: yerine yumşak (yımşak) |
-| | Özbekçe | | — | | | | kök yok: yerine yumşok (yımşak) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine sımnağas (sımnağas) |
-| | Dolganca | | — | | | | kök yok: yerine imiges (imiges) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Salarca |  | **miçex** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | mişıx de. |
+| | Güney Altayca | | — | | | | | kök yok: yerine dımşax (yımşak) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine yumşağ (yımşak) |
+| | Başkurtça | | — | | | | | kök yok: yerine yomşak (yımşak) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şemşe (yımşak) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine yımşak (yımşak) |
+| | Gagavuzca | | — | | | | | kök yok: yerine yımışak (yımşak) |
+| | Karakalpakça | | — | | | | | kök yok: yerine jumsak (yımşak) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine cumuşak (yımşak) |
+| | Karayca | | — | | | | | kök yok: yerine imşax (yımşak) |
+| | Kazakça | | — | | | | | kök yok: yerine jumsak (yımşak) |
+| | Hakasça | | — | | | | | kök yok: yerine nımzax (yımşak) |
+| | Kırgızca | | — | | | | | kök yok: yerine jumşak (yımşak) |
+| | Kumukça | | — | | | | | kök yok: yerine yımışak (yımşak) |
+| | Çulımca | | — | | | | | kök yok: yerine çımçak (yımşak) |
+| | Nogayca | | — | | | | | kök yok: yerine yumsak (yımşak) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine yumsak (yımşak) |
+| | Şorca | | — | | | | | kök yok: yerine çımçak (yımşak) |
+| | Tatarca | | — | | | | | kök yok: yerine yomşak (yımşak) |
+| | Tofaca | | — | | | | | kök yok: yerine çımcak (yımşak) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine yumuşak (yımşak) |
+| | Türkmence | | — | | | | | kök yok: yerine yumşak (yımşak) |
+| | Tuvaca | | — | | | | | kök yok: yerine çımçak (yımşak) |
+| | Uygurca | | — | | | | | kök yok: yerine yumşak (yımşak) |
+| | Özbekçe | | — | | | | | kök yok: yerine yumşok (yımşak) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine sımnağas (sımnağas) |
+| | Dolganca | | — | | | | | kök yok: yerine imiges (imiges) |
 
 ## Kaynakça
 

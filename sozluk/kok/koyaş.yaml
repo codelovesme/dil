@@ -10,12 +10,12 @@ etimoloji: Ana Türkçe *kujaĺ 'güneş'. Kıpçak-Bulgar (koyaş), Karay, Özb
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: koyaş, dil: bak, kaynak: savelyev-turkic, yazi: ҡояш}
-  - {atif: 'asmarin1928, savelyev2011', bicim: xĕvel, dil: chv, kaynak: savelyev-turkic, not: 'Oğur: *kujaĺ > xĕvel (ĺ > l).', yazi: хӗвел}
-  - {atif: baskakov1974, bicim: kuyaş, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: koyaş, dil: tat, kaynak: savelyev-turkic, yazi: кояш}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kuyoş, dil: uzb, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: koyaş, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: koyaş, dil: bak, kaynak: savelyev-turkic, yazi: ҡояш, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011', bicim: xĕvel, dil: chv, kaynak: savelyev-turkic, not: 'Oğur: *kujaĺ > xĕvel (ĺ > l).', yazi: хӗвел, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: kuyaş, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: koyaş, dil: tat, kaynak: savelyev-turkic, yazi: кояш, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kuyoş, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: koyaş, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine günäş (küneş)

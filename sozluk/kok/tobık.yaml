@@ -9,11 +9,11 @@ etimoloji: tobık 'aşık kemiği, diz'; Başkurt, Karaçay-Malkar, Kumuk ve Sah
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: tubık, dil: bak, kaynak: savelyev-turkic, yazi: тубыҡ}
-  - {atif: 'aksenova1992, stachowski1993', bicim: tobuk, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: tobuk, dil: krc, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tobuk, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tobuk, dil: sah, kaynak: savelyev-turkic, yazi: тобук}
+  - {atif: 'uraksin1996, uraksin2005', bicim: tubık, dil: bak, kaynak: savelyev-turkic, yazi: тубыҡ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: tobuk, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tobuk, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: tobuk, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tobuk, dil: sah, kaynak: savelyev-turkic, yazi: тобук, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tiz (tiz)

@@ -20,38 +20,40 @@ taniklar:
     kaynak: savelyev-turkic
     atif: noauthor1880
     not: Latin harfli yazım yrac, yrah.
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - dil: otk
     yuzyil: 8-14
     metin: Göktürk ve Eski Uygurca metinler (Clauson'a göre)
     bicim: ırak
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'uraksin1996, uraksin2005', bicim: ırak, dil: bak, kaynak: savelyev-turkic, yazi: ыраҡ}
-  - {atif: 'aksenova1992, stachowski1993', bicim: ıraak, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: ırak, dil: kdr, kaynak: savelyev-turkic, not: 'irax, yır da.'}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ırax, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: doerfer1980, bicim: hıraak, dil: klj, kaynak: savelyev-turkic}
-  - {atif: 'judakhin1985, judakhin1957', bicim: ıraak, dil: kir, kaynak: savelyev-turkic, yazi: ыраак}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ırak, dil: kum, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: ırak, dil: clw, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: ıraxar, dil: slr, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: ırak, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: ırak, dil: tat, kaynak: savelyev-turkic, yazi: ерак}
-  - {atif: 'rassadin1971, rassadin2005', bicim: ırak, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ırak, dil: tyv, kaynak: savelyev-turkic, yazi: ырак}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıraax, dil: sah, kaynak: savelyev-turkic, yazi: ыраах}
-  - {atif: dmitrijeva1981, bicim: ırak, dil: sty-baraba, kaynak: savelyev-turkic}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: ırak, metin: Tonyukuk yazıtı, kaynak: clauson, atif: 'T 5-6 (Clauson, ırak)'}
-  - {dil: otk, yuzyil: 8-14, bicim: ırak, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 38; U II 22 (Clauson, ırak)'}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yırak, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 28 (Clauson, ırak)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
-  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: yırak, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 11, 527, 781 (Clauson, ırak)'}
-  - {dil: xqa, yuzyil: 13, bicim: yırak, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 153 (Clauson, ırak)'}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: ıraak, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 83, 9 (Clauson, ırak)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true}
-  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: yırak, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 91, 206; Nehcü''l-Feradis 100, 115 (Clauson, ırak)', not: ırak da.}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: yırak, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 25, 12 (Clauson, ırak)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true}
-  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: yırak, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 93 (Clauson, ırak)', kaydeden: Ebû Hayyân (Arapça), yabanci: true}
-  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: yırak, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 8a 6 (Clauson, ırak)'}
-  - {dil: chg, yuzyil: 16-18, bicim: yırak, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 349 (Clauson, ırak)'}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'uraksin1996, uraksin2005', bicim: ırak, dil: bak, kaynak: savelyev-turkic, yazi: ыраҡ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993', bicim: ıraak, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: ırak, dil: kdr, kaynak: savelyev-turkic, not: 'irax, yır da.', denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ırax, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: doerfer1980, bicim: hıraak, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: ıraak, dil: kir, kaynak: savelyev-turkic, yazi: ыраак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ırak, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: ırak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: ıraxar, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: ırak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: ırak, dil: tat, kaynak: savelyev-turkic, yazi: ерак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ırak, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ırak, dil: tyv, kaynak: savelyev-turkic, yazi: ырак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıraax, dil: sah, kaynak: savelyev-turkic, yazi: ыраах, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: ırak, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: ırak, metin: Tonyukuk yazıtı, kaynak: clauson, atif: 'T 5-6 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: otk, yuzyil: 8-14, bicim: ırak, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 38; U II 22 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yırak, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 28 (Clauson, ırak)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
+  - {dil: xqa, yer: Balasagun / Kâşgar, yuzyil: 11, bicim: yırak, metin: Kutadgu Bilig, kaynak: clauson, atif: 'KB 11, 527, 781 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yuzyil: 13, bicim: yırak, metin: Atebetü'l-Hakayık, kaynak: clauson, atif: 'At. 153 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: ıraak, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 83, 9 (Clauson, ırak)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: chg, yer: Harezm ve Altın Orda, yuzyil: 14, bicim: yırak, metin: 'Kutb, Hüsrev ü Şirin; Nehcü''l-Feradis', kaynak: clauson, atif: 'Kutb 91, 206; Nehcü''l-Feradis 100, 115 (Clauson, ırak)', not: ırak da., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 13, bicim: yırak, metin: Leiden yazması Arapça-Türkçe sözlük (1245), kaynak: houtsma-leiden; clauson, atif: 'Houtsma 25, 12 (Clauson, ırak)', kaydeden: Memlük sarayında Arapça yazan bir sözlükçü, yabanci: true, denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}}
+  - {dil: qwm, yer: Kahire, yuzyil: 14, bicim: yırak, metin: Kitâbü'l-İdrâk, kaynak: kitab-idrak; clauson, atif: 'İdrâk 93 (Clauson, ırak)', kaydeden: Ebû Hayyân (Arapça), yabanci: true, denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}}
+  - {dil: qwm, yer: Memlük Mısır'ı, yuzyil: 15, bicim: yırak, metin: et-Tuhfetü'z-Zekiyye, kaynak: clauson, atif: 'Tuhfe 8a 6 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: chg, yuzyil: 16-18, bicim: yırak, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 349 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok:
   atv: yerine uzak (uzak)

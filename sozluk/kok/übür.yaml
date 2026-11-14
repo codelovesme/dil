@@ -8,7 +8,7 @@ etimoloji: Şorca übür-; *ür- ile bağlantısı bu çalışmada araştırılm
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: kurpesko-tannagaseva1993, bicim: übür, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: übür, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ĕs (es)

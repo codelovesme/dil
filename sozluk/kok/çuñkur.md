@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,40 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkmence |  | **çuñ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Özbekçe |  | **çukur** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **çoñkur** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine täräñ (teriñ) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Güney Altayca | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine därin (teriñ) |
-| | Başkurtça | | — | | | | kök yok: yerine tärän (teriñ) |
-| | Çuvaşça | | — | | | | kök yok: yerine tarăn (teriñ) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine teren (teriñ) |
-| | Dolganca | | — | | | | kök yok: yerine diriñ (teriñ) |
-| | Gagavuzca | | — | | | | kök yok: yerine derin (teriñ) |
-| | Karakalpakça | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine teren (teriñ) |
-| | Karayca | | — | | | | kök yok: yerine teren (teriñ) |
-| | Kazakça | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Hakasça | | — | | | | kök yok: yerine tireñ (teriñ) |
-| | Kırgızca | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Kumukça | | — | | | | kök yok: yerine teren (teriñ) |
-| | Çulımca | | — | | | | kök yok: yerine täräñ (teriñ) |
-| | Nogayca | | — | | | | kök yok: yerine teren (teriñ) |
-| | Salarca | | — | | | | kök yok: yerine tiroñ (teriñ) |
-| | Şorca | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Tatarca | | — | | | | kök yok: yerine tirän (teriñ) |
-| | Tofaca | | — | | | | kök yok: yerine dereñ (teriñ) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine derin (teriñ) |
-| | Tuvaca | | — | | | | kök yok: yerine tereñ (teriñ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine diriñ (teriñ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkmence |  | **çuñ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Özbekçe |  | **çukur** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Uygurca |  | **çoñkur** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine täräñ (teriñ) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine därin (teriñ) |
+| | Başkurtça | | — | | | | | kök yok: yerine tärän (teriñ) |
+| | Çuvaşça | | — | | | | | kök yok: yerine tarăn (teriñ) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine teren (teriñ) |
+| | Dolganca | | — | | | | | kök yok: yerine diriñ (teriñ) |
+| | Gagavuzca | | — | | | | | kök yok: yerine derin (teriñ) |
+| | Karakalpakça | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine teren (teriñ) |
+| | Karayca | | — | | | | | kök yok: yerine teren (teriñ) |
+| | Kazakça | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Hakasça | | — | | | | | kök yok: yerine tireñ (teriñ) |
+| | Kırgızca | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Kumukça | | — | | | | | kök yok: yerine teren (teriñ) |
+| | Çulımca | | — | | | | | kök yok: yerine täräñ (teriñ) |
+| | Nogayca | | — | | | | | kök yok: yerine teren (teriñ) |
+| | Salarca | | — | | | | | kök yok: yerine tiroñ (teriñ) |
+| | Şorca | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Tatarca | | — | | | | | kök yok: yerine tirän (teriñ) |
+| | Tofaca | | — | | | | | kök yok: yerine dereñ (teriñ) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine derin (teriñ) |
+| | Tuvaca | | — | | | | | kök yok: yerine tereñ (teriñ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine diriñ (teriñ) |
 
 ## Kaynakça
 

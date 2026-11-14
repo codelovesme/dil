@@ -8,7 +8,7 @@ etimoloji: Sarı Uygurca mula; Moğolca ödünç olabilir, bu çalışmada araş
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'malov1957, tenisev1966', bicim: mula, dil: ybe, kaynak: savelyev-turkic}
+  - {atif: 'malov1957, tenisev1966', bicim: mula, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine pala (bala)

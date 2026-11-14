@@ -8,8 +8,8 @@ etimoloji: Sahaca ve Dolganca kötör; köter- 'kaldırmak' ile ilişkisi bu ça
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: kötör, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kötör, dil: sah, kaynak: savelyev-turkic, yazi: көтөр}
+  - {atif: 'aksenova1992, stachowski1993', bicim: kötör, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kötör, dil: sah, kaynak: savelyev-turkic, yazi: көтөр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kuş (kuş)

@@ -8,7 +8,7 @@ etimoloji: Sahacanın soru zamiri tuoh; kökeni bu çalışmada araştırılmad�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tuoh, dil: sah, kaynak: savelyev-turkic, yazi: туох}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tuoh, dil: sah, kaynak: savelyev-turkic, yazi: туох, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine nemä (ne)

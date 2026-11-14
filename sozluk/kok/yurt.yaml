@@ -8,7 +8,7 @@ etimoloji: yurt 'yurt, ev'; Çuvaşçada şurt 'ev'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şurt, dil: chv, kaynak: savelyev-turkic, yazi: ҫурт}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şurt, dil: chv, kaynak: savelyev-turkic, yazi: ҫурт, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ü (eb)

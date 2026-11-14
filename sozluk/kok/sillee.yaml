@@ -8,7 +8,7 @@ etimoloji: Sahaca sillee- (sılın 'tükürük' ile); kökeni bu çalışmada ar
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sillee, dil: sah, kaynak: savelyev-turkic, yazi: силлээ-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sillee, dil: sah, kaynak: savelyev-turkic, yazi: силлээ-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tökür (tükür)

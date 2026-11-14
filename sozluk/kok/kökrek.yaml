@@ -9,21 +9,21 @@ etimoloji: kökrek/kökürek 'göğüs'; Kıpçak, Karluk ve Türkmen dillerinde
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: kükräk, dil: bak, kaynak: savelyev-turkic, yazi: күкрәк}
-  - {atif: 'asmarin1928, savelyev2011', bicim: kăkăr, dil: chv, kaynak: savelyev-turkic, not: '*kökrek ile denkliği bu çalışmada araştırılmadı.', yazi: кӑкӑр}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kökürek, dil: krc, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: kökräk, dil: kdr, kaynak: savelyev-turkic, not: kekrek de.}
-  - {atif: 'baskakov1958, baskakov1967', bicim: kökürek, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kökirek, dil: kaz, kaynak: savelyev-turkic, yazi: 'кеуде, көкiрек'}
-  - {atif: 'judakhin1985, judakhin1957', bicim: kökürök, dil: kir, kaynak: savelyev-turkic, yazi: көкүрөк}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kökürek, dil: kum, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle.}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kökirek, dil: nog, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: küpräx, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: kükräk, dil: tat, kaynak: savelyev-turkic, yazi: күкрәк}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: kükrek, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: nadzip1968, bicim: kökräk, dil: uig, kaynak: savelyev-turkic, not: köksä de.}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kökrak, dil: uzb, kaynak: savelyev-turkic, yazi: ko'krak}
-  - {atif: dmitrijeva1981, bicim: kökräk, dil: sty-baraba, kaynak: savelyev-turkic, not: kükräk de.}
+  - {atif: 'uraksin1996, uraksin2005', bicim: kükräk, dil: bak, kaynak: savelyev-turkic, yazi: күкрәк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011', bicim: kăkăr, dil: chv, kaynak: savelyev-turkic, not: '*kökrek ile denkliği bu çalışmada araştırılmadı.', yazi: кӑкӑр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: kökürek, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: kökräk, dil: kdr, kaynak: savelyev-turkic, not: kekrek de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: kökürek, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kökirek, dil: kaz, kaynak: savelyev-turkic, yazi: 'кеуде, көкiрек', denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: kökürök, dil: kir, kaynak: savelyev-turkic, yazi: көкүрөк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kökürek, dil: kum, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kökirek, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: küpräx, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: kükräk, dil: tat, kaynak: savelyev-turkic, yazi: күкрәк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: kükrek, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: kökräk, dil: uig, kaynak: savelyev-turkic, not: köksä de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kökrak, dil: uzb, kaynak: savelyev-turkic, yazi: ko'krak, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: kökräk, dil: sty-baraba, kaynak: savelyev-turkic, not: kükräk de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine kögüs (kögüz)

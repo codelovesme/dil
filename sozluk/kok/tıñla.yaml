@@ -10,9 +10,9 @@ etimoloji: tıñ 'ses, nefes' gövdesinden tıñla- 'dinlemek'; Sayan dillerinde
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'malov1957, tenisev1966', bicim: tıñna, dil: ybe, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: tıñna, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dıñna, dil: tyv, kaynak: savelyev-turkic, yazi: дыңна-}
+  - {atif: 'malov1957, tenisev1966', bicim: tıñna, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: tıñna, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dıñna, dil: tyv, kaynak: savelyev-turkic, yazi: дыңна-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine işit (eşit)

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,36 +24,36 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **i** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{i}n. Taban son ünlüsü düşer (ача → ачи). Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Gagavuzca | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Türkmence | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Kumukça | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Nogayca | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Kazakça | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Karakalpakça | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Kırgızca | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Tatarca | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Özbekçe | | — | | | | kök yok: yerine si (ek-sı) |
-| | Uygurca | | — | | | | kök yok: yerine si (ek-sı) |
-| | Başkurtça | | — | | | | kök yok: yerine hı (ek-sı) |
-| | Güney Altayca | | — | | | | kök yok: yerine zı (ek-sı) |
-| | Tuvaca | | — | | | | kök yok: yerine zı (ek-sı) |
-| | Hakasça | | — | | | | kök yok: yerine zı (ek-sı) |
-| | Karayca | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Sibirya Tatarcası | | — | | | | kök yok: yerine sı (ek-sı) |
-| | Şorca | | — | | | | kök yok: yerine zı (ek-sı) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ta (ek-ta) |
-| | Dolganca | | — | | | | kök yok: yerine ta (ek-ta) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **i** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ◐ tek kaynak | Apertium: -{i}n. Taban son ünlüsü düşer (ача → ачи). Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Gagavuzca | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Türkmence | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Kumukça | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Nogayca | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Kazakça | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Karakalpakça | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Kırgızca | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Tatarca | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Özbekçe | | — | | | | | kök yok: yerine si (ek-sı) |
+| | Uygurca | | — | | | | | kök yok: yerine si (ek-sı) |
+| | Başkurtça | | — | | | | | kök yok: yerine hı (ek-sı) |
+| | Güney Altayca | | — | | | | | kök yok: yerine zı (ek-sı) |
+| | Tuvaca | | — | | | | | kök yok: yerine zı (ek-sı) |
+| | Hakasça | | — | | | | | kök yok: yerine zı (ek-sı) |
+| | Karayca | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Sibirya Tatarcası | | — | | | | | kök yok: yerine sı (ek-sı) |
+| | Şorca | | — | | | | | kök yok: yerine zı (ek-sı) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ta (ek-ta) |
+| | Dolganca | | — | | | | | kök yok: yerine ta (ek-ta) |
 
 ## Kaynakça
 

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 23/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,35 +24,35 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırımçakça, Urumca, Özbekçe, İli Türkçesi, Sahaca (Yakutça), Duhaca (Tsaatan), Soyotça, Hakasça, Şorca, Çulımca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **turat** | турат |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine botak (butık) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine pudak (butık) |
-| | Güney Altayca | | — | | | | kök yok: yerine budak (butık) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine budağ (butık) |
-| | Başkurtça | | — | | | | kök yok: yerine botak (butık) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine pıtak (butık) |
-| | Gagavuzca | | — | | | | kök yok: yerine budak (butık) |
-| | Karakalpakça | | — | | | | kök yok: yerine putak (butık) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine butak (butık) |
-| | Karayca | | — | | | | kök yok: yerine butak (butık) |
-| | Kazakça | | — | | | | kök yok: yerine bŭtak (butık) |
-| | Kırgızca | | — | | | | kök yok: yerine butak (butık) |
-| | Kumukça | | — | | | | kök yok: yerine butak (butık) |
-| | Nogayca | | — | | | | kök yok: yerine butak (butık) |
-| | Salarca | | — | | | | kök yok: yerine putax (butık) |
-| | Tatarca | | — | | | | kök yok: yerine botak (butık) |
-| | Tofaca | | — | | | | kök yok: yerine butuk (butık) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine budak (butık) |
-| | Tuvaca | | — | | | | kök yok: yerine buduk (butık) |
-| | Uygurca | | — | | | | kök yok: yerine putak (butık) |
-| | Dolganca | | — | | | | kök yok: yerine talak (talak) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine çukko (çukko) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **turat** | турат |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine botak (butık) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine pudak (butık) |
+| | Güney Altayca | | — | | | | | kök yok: yerine budak (butık) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine budağ (butık) |
+| | Başkurtça | | — | | | | | kök yok: yerine botak (butık) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine pıtak (butık) |
+| | Gagavuzca | | — | | | | | kök yok: yerine budak (butık) |
+| | Karakalpakça | | — | | | | | kök yok: yerine putak (butık) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine butak (butık) |
+| | Karayca | | — | | | | | kök yok: yerine butak (butık) |
+| | Kazakça | | — | | | | | kök yok: yerine bŭtak (butık) |
+| | Kırgızca | | — | | | | | kök yok: yerine butak (butık) |
+| | Kumukça | | — | | | | | kök yok: yerine butak (butık) |
+| | Nogayca | | — | | | | | kök yok: yerine butak (butık) |
+| | Salarca | | — | | | | | kök yok: yerine putax (butık) |
+| | Tatarca | | — | | | | | kök yok: yerine botak (butık) |
+| | Tofaca | | — | | | | | kök yok: yerine butuk (butık) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine budak (butık) |
+| | Tuvaca | | — | | | | | kök yok: yerine buduk (butık) |
+| | Uygurca | | — | | | | | kök yok: yerine putak (butık) |
+| | Dolganca | | — | | | | | kök yok: yerine talak (talak) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine çukko (çukko) |
 
 ## Kaynakça
 

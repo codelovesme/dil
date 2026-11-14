@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,41 +24,41 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **kötör** | көтөр |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Dolganca |  | **kötör** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine kuş (kuş) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Güney Altayca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine kuş (kuş) |
-| | Başkurtça | | — | | | | kök yok: yerine koş (kuş) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine kuş (kuş) |
-| | Gagavuzca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Karakalpakça | | — | | | | kök yok: yerine kus (kuş) |
-| | Karayca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Kazakça | | — | | | | kök yok: yerine kus (kuş) |
-| | Hakasça | | — | | | | kök yok: yerine xus (kuş) |
-| | Kumukça | | — | | | | kök yok: yerine kuş (kuş) |
-| | Çulımca | | — | | | | kök yok: yerine kus (kuş) |
-| | Nogayca | | — | | | | kök yok: yerine kus (kuş) |
-| | Salarca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kus (kuş) |
-| | Şorca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Tatarca | | — | | | | kök yok: yerine koş (kuş) |
-| | Tofaca | | — | | | | kök yok: yerine kuşkaş (kuş) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kuş (kuş) |
-| | Türkmence | | — | | | | kök yok: yerine guş (kuş) |
-| | Tuvaca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Uygurca | | — | | | | kök yok: yerine kuş (kuş) |
-| | Özbekçe | | — | | | | kök yok: yerine kuş (kuş) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kanatlı (kanat) |
-| | Kırgızca | | — | | | | kök yok: yerine kanattuu (kanat) |
-| | Çuvaşça | | — | | | | kök yok: yerine kayăk (kayăk) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Sahaca (Yakutça) |  | **kötör** | көтөр |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Dolganca |  | **kötör** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Güney Altayca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Başkurtça | | — | | | | | kök yok: yerine koş (kuş) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Gagavuzca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Karakalpakça | | — | | | | | kök yok: yerine kus (kuş) |
+| | Karayca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Kazakça | | — | | | | | kök yok: yerine kus (kuş) |
+| | Hakasça | | — | | | | | kök yok: yerine xus (kuş) |
+| | Kumukça | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Çulımca | | — | | | | | kök yok: yerine kus (kuş) |
+| | Nogayca | | — | | | | | kök yok: yerine kus (kuş) |
+| | Salarca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kus (kuş) |
+| | Şorca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Tatarca | | — | | | | | kök yok: yerine koş (kuş) |
+| | Tofaca | | — | | | | | kök yok: yerine kuşkaş (kuş) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Türkmence | | — | | | | | kök yok: yerine guş (kuş) |
+| | Tuvaca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Uygurca | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Özbekçe | | — | | | | | kök yok: yerine kuş (kuş) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kanatlı (kanat) |
+| | Kırgızca | | — | | | | | kök yok: yerine kanattuu (kanat) |
+| | Çuvaşça | | — | | | | | kök yok: yerine kayăk (kayăk) |
 
 ## Kaynakça
 

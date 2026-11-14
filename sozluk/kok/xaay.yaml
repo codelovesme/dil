@@ -8,8 +8,8 @@ etimoloji: Tuvaca xaay, Tofaca haay; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'rassadin1971, rassadin2005', bicim: haay, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xaay, dil: tyv, kaynak: savelyev-turkic, yazi: хаай}
+  - {atif: 'rassadin1971, rassadin2005', bicim: haay, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xaay, dil: tyv, kaynak: savelyev-turkic, yazi: хаай, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine murın (burun)

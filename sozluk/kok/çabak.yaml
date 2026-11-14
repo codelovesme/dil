@@ -8,7 +8,7 @@ etimoloji: çabak 'bir tür küçük balık'; Karaçay-Malkarcada 'balık'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'tenisev1989, sujuncev1965', bicim: çabak, dil: krc, kaynak: savelyev-turkic}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: çabak, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine balık (balık)

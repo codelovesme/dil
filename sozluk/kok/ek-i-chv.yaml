@@ -8,7 +8,7 @@ etimoloji: Çuvaşça -i/-ĕ; *-(s)I ile ilişkisi bu çalışmada araştırılm
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: apertium-chv.chv.lexc, bicim: i, dil: chv, kaynak: apertium, not: 'Apertium: -{i}n. Taban son ünlüsü düşer (ача → ачи). Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-chv.chv.lexc, bicim: i, dil: chv, kaynak: apertium, not: 'Apertium: -{i}n. Taban son ünlüsü düşer (ача → ачи). Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
 
 yok:
   tur: yerine sı (ek-sı)

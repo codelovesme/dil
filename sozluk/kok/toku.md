@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
+**seviye 0 · diller 24/40 · ağızlar 1/89 · duraklar 5/7 · tanık 21 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3 · denetim ◐21**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (3 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (2 tanık)
@@ -25,23 +25,23 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Tofaca, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8. yy | Eski Türkçe | Orhon | **tokı** |  | Kül Tigin ve Bilge Kağan yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — II S 8, II E 31 (Clauson, tokı:-) |
-| 8.–14. yy | Eski Türkçe |  | **tokı** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 8.–14. yy | Eski Türkçe |  | **tokı** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — PP 2; U II 61; TT VII 26 (Clauson, tokı:-) |
-| 11. yy | Karahanlıca | Kâşgar | **tokı** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 268 (Clauson, tokı:-) |
-| 13. yy | Karahanlıca |  | **tokı** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 307 (Clauson, tokı:-) |
-| 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **dokı** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 35, 19 (Clauson, tokı:-) |
-| 14. yy | Kuman-Kıpçakça | Kahire | **tokı** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 65 (Clauson, tokı:-) |
-| 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **toku** |  | Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Nehcü'l-Feradis 82 (Clauson, tokı:-) |
-| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **doku** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 25, 3; 31, 13 (Clauson, tokı:-) |
-| 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **toku** |  | et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tuhfe 36b 13 (Clauson, tokı:-) |
-| 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **toku** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 180r (Clauson, tokı:-) |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8. yy | Eski Türkçe | Orhon | **tokı** |  | Kül Tigin ve Bilge Kağan yazıtları |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — II S 8, II E 31 (Clauson, tokı:-) | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **tokı** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 8.–14. yy | Eski Türkçe |  | **tokı** |  | Eski Uygurca metinler |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — PP 2; U II 61; TT VII 26 (Clauson, tokı:-) | ◐ tek kaynak |
+| 11. yy | Karahanlıca | Kâşgar | **tokı** |  | Dîvânu Lugâti't-Türk | Kâşgarlı Mahmud (Arapça açıklamalı) | [dlt](../../kaynaklar/KAYNAKLAR.md#dlt), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — DLT III 268 (Clauson, tokı:-) | ◐ tek kaynak |
+| 13. yy | Karahanlıca |  | **tokı** |  | Kur'an tefsiri (Rylands) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tef. 307 (Clauson, tokı:-) | ◐ tek kaynak |
+| 13. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **dokı** |  | Leiden yazması Arapça-Türkçe sözlük (1245) | Memlük sarayında Arapça yazan bir sözlükçü 🌍 | [houtsma-leiden](../../kaynaklar/KAYNAKLAR.md#houtsma-leiden), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Houtsma 35, 19 (Clauson, tokı:-) | ◐ tek kaynak |
+| 14. yy | Kuman-Kıpçakça | Kahire | **tokı** |  | Kitâbü'l-İdrâk | Ebû Hayyân (Arapça) 🌍 | [kitab-idrak](../../kaynaklar/KAYNAKLAR.md#kitab-idrak), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — İdrâk 65 (Clauson, tokı:-) | ◐ tek kaynak |
+| 14. yy | Harezm Türkçesi ve Çağatayca | Harezm ve Altın Orda | **toku** |  | Nehcü'l-Feradis |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Nehcü'l-Feradis 82 (Clauson, tokı:-) | ◐ tek kaynak |
+| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **doku** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 25, 3; 31, 13 (Clauson, tokı:-) | ◐ tek kaynak |
+| 15. yy | Kuman-Kıpçakça | Memlük Mısır'ı | **toku** |  | et-Tuhfetü'z-Zekiyye |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Tuhfe 36b 13 (Clauson, tokı:-) | ◐ tek kaynak |
+| 16.–18. yy | Harezm Türkçesi ve Çağatayca |  | **toku** |  | Çağatayca sözlükler (Abuşka, Senglâh) |  | [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Senglâh 180r (Clauson, tokı:-) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -51,32 +51,32 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Halaç kolu | Halaçça |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **doku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **doku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **toxu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkmence |  | **doka** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırım Tatarcası |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kazakça |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karakalpakça |  | **tokı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Özbekçe |  | **toki** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine sok (sok) |
-| | Güney Altayca | | — | | | | kök yok: yerine sok (sok) |
-| | Başkurtça | | — | | | | kök yok: yerine huk (sok) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine sok (sok) |
-| | Karayca | | — | | | | kök yok: yerine sox (sok) |
-| | Hakasça | | — | | | | kök yok: yerine sok (sok) |
-| | Kırgızca | | — | | | | kök yok: yerine sok (sok) |
-| | Kumukça | | — | | | | kök yok: yerine sok (sok) |
-| | Nogayca | | — | | | | kök yok: yerine sok (sok) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine sok (sok) |
-| | Tatarca | | — | | | | kök yok: yerine suk (sok) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ör (ör) |
-| | Tuvaca | | — | | | | kök yok: yerine arğı (arğı) |
-| | Çuvaşça | | — | | | | kök yok: yerine tĕrt (tĕrt) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **doku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Gagavuzca |  | **doku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **toxu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Türkmence |  | **doka** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kırım Tatarcası |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kazakça |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Karakalpakça |  | **tokı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Özbekçe |  | **toki** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Uygurca |  | **toku** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine sok (sok) |
+| | Güney Altayca | | — | | | | | kök yok: yerine sok (sok) |
+| | Başkurtça | | — | | | | | kök yok: yerine huk (sok) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine sok (sok) |
+| | Karayca | | — | | | | | kök yok: yerine sox (sok) |
+| | Hakasça | | — | | | | | kök yok: yerine sok (sok) |
+| | Kırgızca | | — | | | | | kök yok: yerine sok (sok) |
+| | Kumukça | | — | | | | | kök yok: yerine sok (sok) |
+| | Nogayca | | — | | | | | kök yok: yerine sok (sok) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine sok (sok) |
+| | Tatarca | | — | | | | | kök yok: yerine suk (sok) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ör (ör) |
+| | Tuvaca | | — | | | | | kök yok: yerine arğı (arğı) |
+| | Çuvaşça | | — | | | | | kök yok: yerine tĕrt (tĕrt) |
 
 ## Kaynakça
 

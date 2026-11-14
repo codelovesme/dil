@@ -8,10 +8,10 @@ etimoloji: katkır- 'kahkahayla gülmek'; Altay, Şor ve Sayan dillerinde 'gülm
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: kurpesko-tannagaseva1993, bicim: katkır, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: katxır, dil: alt, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: kakkır, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kattır, dil: tyv, kaynak: savelyev-turkic, yazi: каттыр-}
+  - {atif: kurpesko-tannagaseva1993, bicim: katkır, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: katxır, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: kakkır, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kattır, dil: tyv, kaynak: savelyev-turkic, yazi: каттыр-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine köl (kül)

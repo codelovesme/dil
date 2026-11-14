@@ -8,7 +8,7 @@ etimoloji: Tuvaca xöy; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xöy, dil: tyv, kaynak: savelyev-turkic, yazi: хөй}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xöy, dil: tyv, kaynak: savelyev-turkic, yazi: хөй, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine köp (köp)

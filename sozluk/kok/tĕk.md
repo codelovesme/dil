@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,40 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **tĕk** | тӗк- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine it (it) |
-| | Güney Altayca | | — | | | | kök yok: yerine iyt (it) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine itälä (it) |
-| | Başkurtça | | — | | | | kök yok: yerine et (it) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine ite (it) |
-| | Dolganca | | — | | | | kök yok: yerine üt (it) |
-| | Gagavuzca | | — | | | | kök yok: yerine itir (it) |
-| | Karakalpakça | | — | | | | kök yok: yerine iyter (it) |
-| | Karayca | | — | | | | kök yok: yerine iyt (it) |
-| | Kazakça | | — | | | | kök yok: yerine iter (it) |
-| | Hakasça | | — | | | | kök yok: yerine ĕt (it) |
-| | Kırgızca | | — | | | | kök yok: yerine iter (it) |
-| | Çulımca | | — | | | | kök yok: yerine itle (it) |
-| | Nogayca | | — | | | | kök yok: yerine iyte (it) |
-| | Salarca | | — | | | | kök yok: yerine işt (it) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine işit (it) |
-| | Şorca | | — | | | | kök yok: yerine it (it) |
-| | Tatarca | | — | | | | kök yok: yerine et (it) |
-| | Tofaca | | — | | | | kök yok: yerine iˁt (it) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine it (it) |
-| | Türkmence | | — | | | | kök yok: yerine it (it) |
-| | Tuvaca | | — | | | | kök yok: yerine it (it) |
-| | Uygurca | | — | | | | kök yok: yerine iştär (it) |
-| | Özbekçe | | — | | | | kök yok: yerine itar (it) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine teber (teber) |
-| | Kumukça | | — | | | | kök yok: yerine teber (teber) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine as (as-it) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **tĕk** | тӗк- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine it (it) |
+| | Güney Altayca | | — | | | | | kök yok: yerine iyt (it) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine itälä (it) |
+| | Başkurtça | | — | | | | | kök yok: yerine et (it) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine ite (it) |
+| | Dolganca | | — | | | | | kök yok: yerine üt (it) |
+| | Gagavuzca | | — | | | | | kök yok: yerine itir (it) |
+| | Karakalpakça | | — | | | | | kök yok: yerine iyter (it) |
+| | Karayca | | — | | | | | kök yok: yerine iyt (it) |
+| | Kazakça | | — | | | | | kök yok: yerine iter (it) |
+| | Hakasça | | — | | | | | kök yok: yerine ĕt (it) |
+| | Kırgızca | | — | | | | | kök yok: yerine iter (it) |
+| | Çulımca | | — | | | | | kök yok: yerine itle (it) |
+| | Nogayca | | — | | | | | kök yok: yerine iyte (it) |
+| | Salarca | | — | | | | | kök yok: yerine işt (it) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine işit (it) |
+| | Şorca | | — | | | | | kök yok: yerine it (it) |
+| | Tatarca | | — | | | | | kök yok: yerine et (it) |
+| | Tofaca | | — | | | | | kök yok: yerine iˁt (it) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine it (it) |
+| | Türkmence | | — | | | | | kök yok: yerine it (it) |
+| | Tuvaca | | — | | | | | kök yok: yerine it (it) |
+| | Uygurca | | — | | | | | kök yok: yerine iştär (it) |
+| | Özbekçe | | — | | | | | kök yok: yerine itar (it) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine teber (teber) |
+| | Kumukça | | — | | | | | kök yok: yerine teber (teber) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine as (as-it) |
 
 ## Kaynakça
 

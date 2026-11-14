@@ -8,8 +8,8 @@ etimoloji: sıkta- 'hıçkırarak ağlamak'; Baraba ağzında ve Çulımcada 'a�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: savelyev2015, bicim: sıkta, dil: clw, kaynak: savelyev-turkic}
-  - {atif: dmitrijeva1981, bicim: sıkta, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: savelyev2015, bicim: sıkta, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: dmitrijeva1981, bicim: sıkta, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine ıla (ığla)

@@ -8,9 +8,9 @@ etimoloji: çalbak 'yassı, geniş'; Hakas, Şor ve Orta Çulım dillerinde.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çalbax, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: savelyev2015, bicim: çalbak, dil: clw, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: çalbak, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çalbax, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: çalbak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: çalbak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine käñ (keñ)

@@ -8,9 +8,9 @@ etimoloji: bet 'yüz, çehre'; Kazak, Kırgız ve Nogaycada 'yanak' için de.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: bet, dil: kaz, kaynak: savelyev-turkic, yazi: бет}
-  - {atif: 'judakhin1985, judakhin1957', bicim: bet, dil: kir, kaynak: savelyev-turkic, yazi: бет}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bet, dil: nog, kaynak: savelyev-turkic}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: bet, dil: kaz, kaynak: savelyev-turkic, yazi: бет, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: bet, dil: kir, kaynak: savelyev-turkic, yazi: бет, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: bet, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yañak (yañak)

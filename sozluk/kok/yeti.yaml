@@ -16,42 +16,43 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یدی
-  - {dil: aze, bicim: yeddi, kaynak: tatoeba, atif: Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: yete, dil: bak, kaynak: wiktionary-ana-turkce, yazi: ете}
-  - {bicim: şiççĕ, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫиччӗ}
-  - {bicim: yedi, dil: crh, kaynak: wiktionary-ana-turkce}
-  - {bicim: hette, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һэттэ}
-  - {dil: gag, bicim: yedi, kaynak: apertium, atif: apertium-gag.gag.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: ceti, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джети}
-  - {bicim: yedi, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: йэди}
-  - {bicim: jeti, dil: kaa, kaynak: wiktionary-ana-turkce}
-  - {bicim: jeti, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жеті}
-  - {bicim: çiti, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: читі}
-  - {bicim: yetti, dil: klj, kaynak: wiktionary-ana-turkce}
-  - {bicim: jeti, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жети}
-  - {bicim: yetti, dil: kum, kaynak: wiktionary-ana-turkce, yazi: етти}
-  - {bicim: yēde, dil: clw, kaynak: wiktionary-ana-turkce, yazi: йеде}
-  - {bicim: yeti, dil: nog, kaynak: wiktionary-ana-turkce, yazi: ети}
-  - {bicim: çeti, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чети}
-  - {bicim: yide, dil: slr, kaynak: wiktionary-ana-turkce}
-  - {bicim: çetti, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: четти}
-  - {bicim: yeti, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јети}
-  - {bicim: cide, dil: tat, kaynak: wiktionary-ana-turkce, yazi: җиде}
-  - {bicim: çedi, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чеді}
-  - {dil: tur, bicim: yedi, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 1045 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: yedi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýedi}
-  - {bicim: çedi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чеди}
-  - {dil: uig, bicim: yättä, yazi: يەتتە, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 17 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
-  - {bicim: yetti, dil: uzb, kaynak: wiktionary-ana-turkce}
-  - {bicim: sette, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сэттэ}
-  - {bicim: cetä, dil: duha, kaynak: wiktionary-ana-turkce}
-  - {bicim: yetti, dil: ili, kaynak: wiktionary-ana-turkce}
-  - {bicim: yedi, dil: jct, kaynak: wiktionary-ana-turkce}
-  - {bicim: yetdi, dil: kmz, kaynak: wiktionary-ana-turkce}
-  - {bicim: yete, dil: sty, kaynak: wiktionary-ana-turkce, yazi: йете}
-  - {bicim: yedi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йеди}
-  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yeti, metin: Orhon yazıtları, kaynak: clauson, atif: 'Orhon yazıtlarında 12''den çok geçiş (Clauson, yetti:)', not: yiti de; Clauson'a göre aslı yetti.}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yeti, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT (Clauson, yetti:)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: yeti kat kök 'yedi kat gök'.}
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
+  - {dil: aze, bicim: yeddi, kaynak: tatoeba, atif: Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {bicim: yete, dil: bak, kaynak: wiktionary-ana-turkce, yazi: ете, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: şiççĕ, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫиччӗ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yedi, dil: crh, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: hette, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һэттэ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: gag, bicim: yedi, kaynak: apertium, atif: apertium-gag.gag.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium]}}
+  - {bicim: ceti, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джети, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yedi, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: йэди, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jeti, dil: kaa, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jeti, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жеті, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çiti, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: читі, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yetti, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jeti, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жети, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yetti, dil: kum, kaynak: wiktionary-ana-turkce, yazi: етти, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yēde, dil: clw, kaynak: wiktionary-ana-turkce, yazi: йеде, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yeti, dil: nog, kaynak: wiktionary-ana-turkce, yazi: ети, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çeti, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чети, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yide, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çetti, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: четти, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yeti, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јети, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: cide, dil: tat, kaynak: wiktionary-ana-turkce, yazi: җиде, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çedi, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чеді, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tur, bicim: yedi, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 1045 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba]}}
+  - {bicim: yedi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýedi, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çedi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чеди, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: yättä, yazi: يەتتە, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 17 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yetti, dil: uzb, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: sette, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сэттэ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: cetä, dil: duha, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yetti, dil: ili, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yedi, dil: jct, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yetdi, dil: kmz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yete, dil: sty, kaynak: wiktionary-ana-turkce, yazi: йете, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yedi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йеди, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yeti, metin: Orhon yazıtları, kaynak: clauson, atif: 'Orhon yazıtlarında 12''den çok geçiş (Clauson, yetti:)', not: yiti de; Clauson'a göre aslı yetti., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: yeti, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT (Clauson, yetti:)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: yeti kat kök 'yedi kat gök'., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
 
 yok: {}
 tarihi_yok: {}

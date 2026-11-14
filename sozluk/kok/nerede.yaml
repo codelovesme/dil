@@ -10,13 +10,13 @@ etimoloji: 'ne "ne" ile yer "yer" birleşiminin bulunma durumu: ne yerde > nered
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: ne yerde, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: neredi, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960', bicim: ne yerde, dil: kum, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: nerede, dil: tur, kaynak: savelyev-turkic}
-  - {dil: tur-ege, bicim: nerede, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-orta, bicim: nerde, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: nirede, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: ne yerde, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: neredi, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960', bicim: ne yerde, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: nerede, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: tur-ege, bicim: nerede, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-orta, bicim: nerde, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: nirede, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kayda (kayda)

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Güney Altayca |  | **tumçuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine murın (burun) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine burun (burun) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine burun (burun) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine burun (burun) |
-| | Dolganca | | — | | | | kök yok: yerine munnu (burun) |
-| | Gagavuzca | | — | | | | kök yok: yerine burnu (burun) |
-| | Karakalpakça | | — | | | | kök yok: yerine murın (burun) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine burun (burun) |
-| | Karayca | | — | | | | kök yok: yerine burun (burun) |
-| | Kazakça | | — | | | | kök yok: yerine murın (burun) |
-| | Hakasça | | — | | | | kök yok: yerine purun (burun) |
-| | Halaçça | | — | | | | kök yok: yerine burın (burun) |
-| | Kırgızca | | — | | | | kök yok: yerine murun (burun) |
-| | Kumukça | | — | | | | kök yok: yerine burun (burun) |
-| | Çulımca | | — | | | | kök yok: yerine purun (burun) |
-| | Nogayca | | — | | | | kök yok: yerine burın (burun) |
-| | Salarca | | — | | | | kök yok: yerine purnı (burun) |
-| | Şorca | | — | | | | kök yok: yerine purnu (burun) |
-| | Tatarca | | — | | | | kök yok: yerine borın (burun) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine burun (burun) |
-| | Türkmence | | — | | | | kök yok: yerine burun (burun) |
-| | Uygurca | | — | | | | kök yok: yerine burun (burun) |
-| | Özbekçe | | — | | | | kök yok: yerine burun (burun) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine murun (burun) |
-| | Başkurtça | | — | | | | kök yok: yerine moron (burun) |
-| | Çuvaşça | | — | | | | kök yok: yerine sămsa (burun) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kañrık (kañrık) |
-| | Tofaca | | — | | | | kök yok: yerine haay (xaay) |
-| | Tuvaca | | — | | | | kök yok: yerine xaay (xaay) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Güney Altayca |  | **tumçuk** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine murın (burun) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine burun (burun) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine burun (burun) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine burun (burun) |
+| | Dolganca | | — | | | | | kök yok: yerine munnu (burun) |
+| | Gagavuzca | | — | | | | | kök yok: yerine burnu (burun) |
+| | Karakalpakça | | — | | | | | kök yok: yerine murın (burun) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine burun (burun) |
+| | Karayca | | — | | | | | kök yok: yerine burun (burun) |
+| | Kazakça | | — | | | | | kök yok: yerine murın (burun) |
+| | Hakasça | | — | | | | | kök yok: yerine purun (burun) |
+| | Halaçça | | — | | | | | kök yok: yerine burın (burun) |
+| | Kırgızca | | — | | | | | kök yok: yerine murun (burun) |
+| | Kumukça | | — | | | | | kök yok: yerine burun (burun) |
+| | Çulımca | | — | | | | | kök yok: yerine purun (burun) |
+| | Nogayca | | — | | | | | kök yok: yerine burın (burun) |
+| | Salarca | | — | | | | | kök yok: yerine purnı (burun) |
+| | Şorca | | — | | | | | kök yok: yerine purnu (burun) |
+| | Tatarca | | — | | | | | kök yok: yerine borın (burun) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine burun (burun) |
+| | Türkmence | | — | | | | | kök yok: yerine burun (burun) |
+| | Uygurca | | — | | | | | kök yok: yerine burun (burun) |
+| | Özbekçe | | — | | | | | kök yok: yerine burun (burun) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine murun (burun) |
+| | Başkurtça | | — | | | | | kök yok: yerine moron (burun) |
+| | Çuvaşça | | — | | | | | kök yok: yerine sămsa (burun) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kañrık (kañrık) |
+| | Tofaca | | — | | | | | kök yok: yerine haay (xaay) |
+| | Tuvaca | | — | | | | | kök yok: yerine xaay (xaay) |
 
 ## Kaynakça
 

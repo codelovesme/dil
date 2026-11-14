@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 3 · yabancı kayıt 1**
+**seviye 0 · diller 26/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 3 · yabancı kayıt 1 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,46 +25,46 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Karakalpakça, İli Türkçesi, Tuvaca, Duhaca (Tsaatan), Soyotça, Şorca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **süçü** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 54, 7 (Clauson, tatığlığ) |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 14. yy | Azerbaycan Türkçesi | Azerbaycan (İlhanlı dönemi) | **süçü** |  | İbn Mühennâ Lügati | İbn Mühennâ (Arapça sözlük) 🌍 | [ibn-muhenna](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna), [clauson](../../kaynaklar/KAYNAKLAR.md#clauson) — Melioranskiy 54, 7 (Clauson, tatığlığ) | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Türkmence |  | **süyci** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev soru işaretiyle. |
-| | Baraba ağzı | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine taattu (tatlı) |
-| | Güney Altayca | | — | | | | kök yok: yerine tatu (tatlı) |
-| | Başkurtça | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Gagavuzca | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Karayca | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Kazakça | | — | | | | kök yok: yerine tätti (tatlı) |
-| | Hakasça | | — | | | | kök yok: yerine tadılığ (tatlı) |
-| | Kırgızca | | — | | | | kök yok: yerine tattuu (tatlı) |
-| | Kumukça | | — | | | | kök yok: yerine tatli (tatlı) |
-| | Çulımca | | — | | | | kök yok: yerine taadlığ (tatlı) |
-| | Nogayca | | — | | | | kök yok: yerine tätli (tatlı) |
-| | Salarca | | — | | | | kök yok: yerine tälli (tatlı) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine tatığ (tatlı) |
-| | Tatarca | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Tofaca | | — | | | | kök yok: yerine tadığlığ (tatlı) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine tatlı (tatlı) |
-| | Uygurca | | — | | | | kök yok: yerine şirin (şirin, alıntı:fa) |
-| | Dolganca | | — | | | | kök yok: yerine minnyiges (minnyiges) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine minnyiges (minnyiges) |
-| | Çuvaşça | | — | | | | kök yok: yerine pılak (pılak) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine şirin (şirin, alıntı:fa) |
-| | Özbekçe | | — | | | | kök yok: yerine şirin (şirin, alıntı:fa) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Türkmence |  | **süyci** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | Savelyev soru işaretiyle. |
+| | Baraba ağzı | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine taattu (tatlı) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tatu (tatlı) |
+| | Başkurtça | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Gagavuzca | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Karayca | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Kazakça | | — | | | | | kök yok: yerine tätti (tatlı) |
+| | Hakasça | | — | | | | | kök yok: yerine tadılığ (tatlı) |
+| | Kırgızca | | — | | | | | kök yok: yerine tattuu (tatlı) |
+| | Kumukça | | — | | | | | kök yok: yerine tatli (tatlı) |
+| | Çulımca | | — | | | | | kök yok: yerine taadlığ (tatlı) |
+| | Nogayca | | — | | | | | kök yok: yerine tätli (tatlı) |
+| | Salarca | | — | | | | | kök yok: yerine tälli (tatlı) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine tatığ (tatlı) |
+| | Tatarca | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Tofaca | | — | | | | | kök yok: yerine tadığlığ (tatlı) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine tatlı (tatlı) |
+| | Uygurca | | — | | | | | kök yok: yerine şirin (şirin, alıntı:fa) |
+| | Dolganca | | — | | | | | kök yok: yerine minnyiges (minnyiges) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine minnyiges (minnyiges) |
+| | Çuvaşça | | — | | | | | kök yok: yerine pılak (pılak) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine şirin (şirin, alıntı:fa) |
+| | Özbekçe | | — | | | | | kök yok: yerine şirin (şirin, alıntı:fa) |
 
 ## Kaynakça
 

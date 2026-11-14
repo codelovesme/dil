@@ -8,7 +8,7 @@ etimoloji: Çuvaşça -u/-ü; kökeni bu çalışmada araştırılmadı.
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: apertium-chv.chv.lexc, bicim: u, dil: chv, kaynak: apertium, not: 'Apertium: -{U}n. Çuvaşça -u, -ü; Apertium''da sonda isteğe bağlı n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-chv.chv.lexc, bicim: u, dil: chv, kaynak: apertium, not: 'Apertium: -{U}n. Çuvaşça -u, -ü; Apertium''da sonda isteğe bağlı n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
 
 yok:
   tuk: yerine ñ (ek-ıñ)

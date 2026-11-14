@@ -9,11 +9,11 @@ etimoloji: sağ 'sağlam, iyi; sağ (yön)'. Oğuz dillerinde ve Salarcada asıl
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: sağ, dil: aze, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: saa, dil: gag, kaynak: savelyev-turkic, not: saa taraf.}
-  - {atif: tenisev1976, bicim: sıx, dil: slr, kaynak: savelyev-turkic, not: ağızlarda sax.}
-  - {atif: 'baskakov1977, iz1992', bicim: sağ, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: sağ, dil: tuk, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: sağ, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: saa, dil: gag, kaynak: savelyev-turkic, not: saa taraf., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: sıx, dil: slr, kaynak: savelyev-turkic, not: ağızlarda sax., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: sağ, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: sağ, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine oñ (oñ)

@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,40 @@
 
 Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **şăn** | шӑн- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Güney Altayca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine don (toñ) |
-| | Başkurtça | | — | | | | kök yok: yerine tuñ (toñ) |
-| | Gagavuzca | | — | | | | kök yok: yerine don (toñ) |
-| | Hakasça | | — | | | | kök yok: yerine toñ (toñ) |
-| | Kırgızca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Çulımca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Salarca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Şorca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Tatarca | | — | | | | kök yok: yerine tuñ (toñ) |
-| | Tofaca | | — | | | | kök yok: yerine doñ (toñ) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine don (toñ) |
-| | Türkmence | | — | | | | kök yok: yerine doñ (toñ) |
-| | Tuvaca | | — | | | | kök yok: yerine doñ (toñ) |
-| | Uygurca | | — | | | | kök yok: yerine toñ (toñ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine toñ (toñ) |
-| | Baraba ağzı | | — | | | | kök yok: yerine pustan (buzla) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine buzla (buzla) |
-| | Karakalpakça | | — | | | | kök yok: yerine muzla (buzla) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine buzla (buzla) |
-| | Karayca | | — | | | | kök yok: yerine buzla (buzla) |
-| | Kazakça | | — | | | | kök yok: yerine muz kat (buzla) |
-| | Kumukça | | — | | | | kök yok: yerine buzla (buzla) |
-| | Nogayca | | — | | | | kök yok: yerine buzla (buzla) |
-| | Özbekçe | | — | | | | kök yok: yerine muzla (buzla) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **şăn** | шӑн- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Güney Altayca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine don (toñ) |
+| | Başkurtça | | — | | | | | kök yok: yerine tuñ (toñ) |
+| | Gagavuzca | | — | | | | | kök yok: yerine don (toñ) |
+| | Hakasça | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Kırgızca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Çulımca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Salarca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Şorca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Tatarca | | — | | | | | kök yok: yerine tuñ (toñ) |
+| | Tofaca | | — | | | | | kök yok: yerine doñ (toñ) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine don (toñ) |
+| | Türkmence | | — | | | | | kök yok: yerine doñ (toñ) |
+| | Tuvaca | | — | | | | | kök yok: yerine doñ (toñ) |
+| | Uygurca | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine toñ (toñ) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine pustan (buzla) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine buzla (buzla) |
+| | Karakalpakça | | — | | | | | kök yok: yerine muzla (buzla) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine buzla (buzla) |
+| | Karayca | | — | | | | | kök yok: yerine buzla (buzla) |
+| | Kazakça | | — | | | | | kök yok: yerine muz kat (buzla) |
+| | Kumukça | | — | | | | | kök yok: yerine buzla (buzla) |
+| | Nogayca | | — | | | | | kök yok: yerine buzla (buzla) |
+| | Özbekçe | | — | | | | | kök yok: yerine muzla (buzla) |
 
 ## Kaynakça
 

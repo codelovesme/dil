@@ -14,7 +14,8 @@ taniklar:
     bicim: arığ
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: tenisev1976, bicim: arığ, dil: slr, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: tenisev1976, bicim: arığ, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine orman (orman)

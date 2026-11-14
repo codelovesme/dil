@@ -9,16 +9,16 @@ etimoloji: öt- 'geçmek' + -kür 'geçen, kesen'. Kıpçak, Karluk, Kırgız ve
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: ütker, dil: bak, kaynak: savelyev-turkic, yazi: үткер}
-  - {atif: 'baskakov1958, baskakov1967', bicim: ötkir, dil: kaa, kaynak: savelyev-turkic}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: ötkir, dil: kaz, kaynak: savelyev-turkic, yazi: өткiр}
-  - {atif: 'judakhin1985, judakhin1957', bicim: ötkür, dil: kir, kaynak: savelyev-turkic, yazi: өткүр}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ötkir, dil: nog, kaynak: savelyev-turkic}
-  - {atif: baskakov1985, bicim: ötkür, dil: atv, kaynak: savelyev-turkic}
-  - {atif: baskakov1947, bicim: ötkür, dil: alt, kaynak: savelyev-turkic, not: ödür de.}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: ütken, dil: tat, kaynak: savelyev-turkic, yazi: үткен}
-  - {atif: nadzip1968, bicim: ötkür, dil: uig, kaynak: savelyev-turkic}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ötkir, dil: uzb, kaynak: savelyev-turkic, yazi: o'tkir}
+  - {atif: 'uraksin1996, uraksin2005', bicim: ütker, dil: bak, kaynak: savelyev-turkic, yazi: үткер, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967', bicim: ötkir, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: ötkir, dil: kaz, kaynak: savelyev-turkic, yazi: өткiр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957', bicim: ötkür, dil: kir, kaynak: savelyev-turkic, yazi: өткүр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ötkir, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1985, bicim: ötkür, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947, bicim: ötkür, dil: alt, kaynak: savelyev-turkic, not: ödür de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: ütken, dil: tat, kaynak: savelyev-turkic, yazi: үткен, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968, bicim: ötkür, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ötkir, dil: uzb, kaynak: savelyev-turkic, yazi: o'tkir, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine iti (yitig)

@@ -9,7 +9,7 @@ etimoloji: tuman 'sis'; Türkiye Türkçesinde duman 'duman'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1977, iz1992', bicim: duman, dil: tur, kaynak: savelyev-turkic}
+  - {atif: 'baskakov1977, iz1992', bicim: duman, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tötin (tütün)

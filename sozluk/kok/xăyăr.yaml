@@ -8,7 +8,7 @@ etimoloji: Çuvaşça xăyăr; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: xăyăr, dil: chv, kaynak: savelyev-turkic, yazi: хӑйӑр}
+  - {atif: 'asmarin1928, savelyev2011', bicim: xăyăr, dil: chv, kaynak: savelyev-turkic, yazi: хӑйӑр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kum (kum)

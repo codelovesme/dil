@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,41 +24,41 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **şură** | шурӑ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine ak (ak) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine ak (ak) |
-| | Güney Altayca | | — | | | | kök yok: yerine ak (ak) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine ağ (ak) |
-| | Başkurtça | | — | | | | kök yok: yerine ak (ak) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine ak (ak) |
-| | Gagavuzca | | — | | | | kök yok: yerine ak (ak) |
-| | Karakalpakça | | — | | | | kök yok: yerine ak (ak) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine ak (ak) |
-| | Karayca | | — | | | | kök yok: yerine ak (ak) |
-| | Kazakça | | — | | | | kök yok: yerine ak (ak) |
-| | Hakasça | | — | | | | kök yok: yerine ax (ak) |
-| | Kırgızca | | — | | | | kök yok: yerine ak (ak) |
-| | Kumukça | | — | | | | kök yok: yerine ak (ak) |
-| | Çulımca | | — | | | | kök yok: yerine akvus (ak) |
-| | Nogayca | | — | | | | kök yok: yerine ak (ak) |
-| | Salarca | | — | | | | kök yok: yerine ax (ak) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine ak (ak) |
-| | Şorca | | — | | | | kök yok: yerine ak (ak) |
-| | Tatarca | | — | | | | kök yok: yerine ak (ak) |
-| | Tofaca | | — | | | | kök yok: yerine ak (ak) |
-| | Türkmence | | — | | | | kök yok: yerine ak (ak) |
-| | Tuvaca | | — | | | | kök yok: yerine ak (ak) |
-| | Uygurca | | — | | | | kök yok: yerine ak (ak) |
-| | Özbekçe | | — | | | | kök yok: yerine ok (ak) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine beyaz (beyaz, alıntı:ar) |
-| | Halaçça | | — | | | | kök yok: yerine hürün (ürüñ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ürüñ (ürüñ) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğur kolu | Çuvaşça |  | **şură** | шурӑ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine ak (ak) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine ak (ak) |
+| | Güney Altayca | | — | | | | | kök yok: yerine ak (ak) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine ağ (ak) |
+| | Başkurtça | | — | | | | | kök yok: yerine ak (ak) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine ak (ak) |
+| | Gagavuzca | | — | | | | | kök yok: yerine ak (ak) |
+| | Karakalpakça | | — | | | | | kök yok: yerine ak (ak) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine ak (ak) |
+| | Karayca | | — | | | | | kök yok: yerine ak (ak) |
+| | Kazakça | | — | | | | | kök yok: yerine ak (ak) |
+| | Hakasça | | — | | | | | kök yok: yerine ax (ak) |
+| | Kırgızca | | — | | | | | kök yok: yerine ak (ak) |
+| | Kumukça | | — | | | | | kök yok: yerine ak (ak) |
+| | Çulımca | | — | | | | | kök yok: yerine akvus (ak) |
+| | Nogayca | | — | | | | | kök yok: yerine ak (ak) |
+| | Salarca | | — | | | | | kök yok: yerine ax (ak) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine ak (ak) |
+| | Şorca | | — | | | | | kök yok: yerine ak (ak) |
+| | Tatarca | | — | | | | | kök yok: yerine ak (ak) |
+| | Tofaca | | — | | | | | kök yok: yerine ak (ak) |
+| | Türkmence | | — | | | | | kök yok: yerine ak (ak) |
+| | Tuvaca | | — | | | | | kök yok: yerine ak (ak) |
+| | Uygurca | | — | | | | | kök yok: yerine ak (ak) |
+| | Özbekçe | | — | | | | | kök yok: yerine ok (ak) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine beyaz (beyaz, alıntı:ar) |
+| | Halaçça | | — | | | | | kök yok: yerine hürün (ürüñ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ürüñ (ürüñ) |
 
 ## Kaynakça
 

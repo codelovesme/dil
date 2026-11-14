@@ -24,6 +24,7 @@ taniklar:
     kaynak: clauson
     atif: s. 346
     not: Göktürk yazıtlarında yaygın biçim; Tonyukuk'ta tek biçim bän. Eğik durumlar bäni, bäniŋ, baŋa.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: otk
     yer: Moğolistan
     yuzyil: 8
@@ -32,6 +33,7 @@ taniklar:
     kaynak: clauson
     atif: s. 346
     not: Göktürk döneminde m-'li biçim de görülür; ayrım yazıtlar arasında ölçüt sayılır.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: otk
     yer: Selenga, Moğolistan
     yuzyil: 8
@@ -40,6 +42,7 @@ taniklar:
     kaynak: clauson
     atif: s. 346
     not: Yedi kez bän, bir kez män.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: otk
     yer: Yenisey, Tuva ve Hakasya
     yuzyil: 9-10
@@ -48,6 +51,7 @@ taniklar:
     kaynak: clauson
     atif: s. 346 (Malov)
     not: Yenisey yazıtlarında bän yaygın; bazılarında män.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: otk
     yer: Turfan ve Dunhuang
     yuzyil: 9-14
@@ -57,6 +61,7 @@ taniklar:
     kaynak: clauson; wiktionary-ana-turkce
     atif: s. 346
     not: Sık sık mėn diye de yazılır.
+    denetim: {durum: dogrulandi, bicim: [clauson, wiktionary-ana-turkce], anlam: [clauson, wiktionary-ana-turkce]}
   - dil: xqa
     yer: Kâşgar
     yuzyil: 11
@@ -67,6 +72,7 @@ taniklar:
     atif: DLT I 340 (Clauson s. 346)
     kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)
     not: Kâşgarlı'nın "Türkler" dediği Karahanlı çevresinin biçimi.
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: oguz
     boy: Oğuz
     yer: Sır Derya boyları
@@ -78,6 +84,7 @@ taniklar:
     atif: DLT I 31, I 339
     kaydeden: Kâşgarlı Mahmud
     not: Kâşgarlı'ya göre Oğuzlar söz başındaki m-'yi b- yapar ("bän bardım").
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: kipcak
     boy: Kıpçak
     yuzyil: 11
@@ -87,6 +94,7 @@ taniklar:
     atif: DLT I 31
     kaydeden: Kâşgarlı Mahmud
     not: Kâşgarlı Kıpçakları da b-'li söyleyenler arasında sayar; sonraki Kıpçak kaynakları m-'lidir.
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: xbo
     boy: Suvar
     yuzyil: 11
@@ -96,6 +104,7 @@ taniklar:
     atif: DLT I 31
     kaydeden: Kâşgarlı Mahmud
     not: Kâşgarlı Suvarları da b-'li söyleyenler arasında sayar.
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: xqa
     yuzyil: 13
     bicim: män
@@ -103,6 +112,7 @@ taniklar:
     kaynak: clauson
     atif: s. 346
     not: Zaman zaman mėn yazımı.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: chg
     yer: Harezm
     yuzyil: 13
@@ -111,6 +121,7 @@ taniklar:
     kaynak: clauson
     atif: s. 346
     not: İki biçim yan yana kullanılır.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: chg
     yer: Harezm ve Altın Orda
     yuzyil: 14
@@ -118,6 +129,7 @@ taniklar:
     metin: Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis
     kaynak: clauson; najip-xiv
     atif: s. 346
+    denetim: {durum: tek-kaynak, bicim: [clauson, najip-xiv], anlam: [clauson, najip-xiv]}
   - dil: qwm
     yer: Memlük Mısır'ı
     yuzyil: 13
@@ -126,6 +138,7 @@ taniklar:
     kaynak: houtsma-leiden; clauson
     atif: Houtsma 50, 9
     kaydeden: Memlük sarayında Arapça yazan bir sözlükçü
+    denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}
   - dil: qwm
     yer: Kırım ve Deşt-i Kıpçak
     yuzyil: 14
@@ -135,6 +148,7 @@ taniklar:
     atif: Grønbech s. 163
     kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
     yabanci: true
+    denetim: {durum: dogrulandi, bicim: [gronbech-kuman, clauson], anlam: [gronbech-kuman, clauson]}
   - dil: qwm
     yer: Kahire
     yuzyil: 14
@@ -145,6 +159,7 @@ taniklar:
     kaydeden: Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça)
     yabanci: true
     not: Kıpçak kaynaklarında b-/m- yer yer değişir; Bulgat'ta benim de geçer.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: oguz
     boy: Türkmen
     yer: Kahire (Memlük kaynağında)
@@ -155,6 +170,7 @@ taniklar:
     kaydeden: Ebû Hayyân (Arapça)
     yabanci: true
     not: Ebû Hayyân Kıpçakça män'e karşılık Türkmenlerin bän dediğini not eder.
+    denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}
   - dil: qwm
     yer: Memlük Mısır'ı
     yuzyil: 15
@@ -162,6 +178,7 @@ taniklar:
     metin: el-Kavânînü'l-Külliye
     kaynak: clauson
     atif: s. 346
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: aze
     yer: Azerbaycan (İlhanlı dönemi)
     yuzyil: 14
@@ -171,6 +188,7 @@ taniklar:
     atif: Melioranskiy 8, 2
     kaydeden: İbn Mühennâ (Arapça sözlük)
     not: Azerbaycan Türklerinin söz başındaki m-'yi b- yaptığını kaydeder; bugün Azerbaycan Türkçesinde mən.
+    denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}
   - dil: eski-anadolu
     yer: Anadolu
     yuzyil: 13-15
@@ -179,12 +197,14 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     not: Eki -vän biçiminde de görülür.
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: chg
     yuzyil: 15-18
     bicim: män
     metin: Çağatay edebî dili; Senglâh'ın açıklaması
     kaynak: clauson; senglah
     atif: s. 346
+    denetim: {durum: dogrulandi, bicim: [clauson, senglah], anlam: [clauson, senglah]}
   - dil: tur
     yer: Osmanlı (Rûm)
     yuzyil: 18
@@ -195,59 +215,60 @@ taniklar:
     kaydeden: Mirza Mehdi Han (Farsça yazan İranlı sözlükçü)
     yabanci: true
     not: Anadolu Türklerinin (Rûmî) bu zamiri b- ile söylediğini, eki ise -m ile kullandığını (benim sultanım) not eder.
+    denetim: {durum: dogrulandi, bicim: [clauson, senglah], anlam: [clauson, senglah]}
 
   # ================================================ yaşayan diller (günümüz)
   # Oğur
-  - { dil: chv, bicim: epĕ, yazi: эпӗ, kaynak: wiktionary-ana-turkce; clauson, not: "b- düşmüştür; eğik durumlarda man- (manăn, mana). Miras." }
+  - {dil: chv, bicim: epĕ, yazi: эпӗ, kaynak: wiktionary-ana-turkce; clauson, not: 'b- düşmüştür; eğik durumlarda man- (manăn, mana). Miras.', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, clauson], anlam: [wiktionary-ana-turkce, clauson]}}
   # Halaç
-  - { dil: klj, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: "Temel zamir; Azerbaycan Türkçesinden ödünç değil." }
+  - {dil: klj, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: Temel zamir; Azerbaycan Türkçesinden ödünç değil., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Oğuz
-  - { dil: tur, bicim: ben, kaynak: tdk-portal; wiktionary-ana-turkce }
-  - {dil: tur-ege, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-teke, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-orta, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-bkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-dkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-erzurum, bicim: ben, kaynak: gemalmaz-erzurum; dasdemir-2008, atif: 'Gemalmaz, derleme metinleri: ben sana diyorum, benüm; Daşdemir 2008: Erzurum behen/been ''bana''', not: Önceki kayıt men idi ve yanlıştı (yapay zekânın kendi bilgisi); iki kaynak b'li biçim gösteriyor.}
-  - {dil: tur-ahiska, bicim: ben, kaynak: ersoz-ahiska, atif: 'Ersöz, karşılaştırma tablosu: Ahıska bahan/bene ''bana''', not: 'Önceki kayıt men idi (yapay zekânın kendi bilgisi). Dolaylı kanıt: yönelme hâli b ile; yalın hâl kaynakta okunmadı. Kısmen doğrulandı.'}
-  - {dil: tur-drumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-brumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-kibris, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - { dil: gag, bicim: bän, yazi: ben, kaynak: wiktionary-ana-turkce }
-  - {dil: bgx, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - { dil: aze, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: "Sonkor ağzında mä (Elegant Lexicon)." }
-  - {dil: kerkuk, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı. Web aramasında görülen bir Ankara Üniversitesi ders notu, Şahbaz''ın Kerkük ağzı tezine dayanarak Kerkük ağzının çoğunlukla m''li olduğunu, b''li kullanışların da bulunduğunu söylüyor; belge bu ortamdan açılamadığı için okunmadı.'}
-  - { dil: qxq, bicim: män, yazi: من, kaynak: wiktionary-ana-turkce }
-  - { dil: tuk, bicim: men, kaynak: wiktionary-ana-turkce }
-  - {dil: kmz, bicim: men, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): 20''den çok Horasan ağzında mEn; Ağıralioğlu & Akçan 2025, Tablo 4: men', not: 'Doğrulandı: iki bağımsız kaynak.'}
-  - { dil: slr, bicim: men, kaynak: wiktionary-ana-turkce }
+  - {dil: tur, bicim: ben, kaynak: tdk-portal; wiktionary-ana-turkce, denetim: {durum: dogrulandi, bicim: [tdk-portal, wiktionary-ana-turkce], anlam: [tdk-portal, wiktionary-ana-turkce]}}
+  - {dil: tur-ege, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-teke, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-orta, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-bkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-dkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-erzurum, bicim: ben, kaynak: gemalmaz-erzurum; dasdemir-2008, atif: 'Gemalmaz, derleme metinleri: ben sana diyorum, benüm; Daşdemir 2008: Erzurum behen/been ''bana''', not: Önceki kayıt men idi ve yanlıştı (yapay zekânın kendi bilgisi); iki kaynak b'li biçim gösteriyor., denetim: {durum: dogrulandi, bicim: [gemalmaz-erzurum, dasdemir-2008], anlam: [gemalmaz-erzurum, dasdemir-2008]}}
+  - {dil: tur-ahiska, bicim: ben, kaynak: ersoz-ahiska, atif: 'Ersöz, karşılaştırma tablosu: Ahıska bahan/bene ''bana''', not: 'Önceki kayıt men idi (yapay zekânın kendi bilgisi). Dolaylı kanıt: yönelme hâli b ile; yalın hâl kaynakta okunmadı. Kısmen doğrulandı.', denetim: {durum: kismen, bicim: [ersoz-ahiska], anlam: [ersoz-ahiska]}}
+  - {dil: tur-drumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-brumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-kibris, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: gag, bicim: bän, yazi: ben, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: bgx, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: aze, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: Sonkor ağzında mä (Elegant Lexicon)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kerkuk, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı. Web aramasında görülen bir Ankara Üniversitesi ders notu, Şahbaz''ın Kerkük ağzı tezine dayanarak Kerkük ağzının çoğunlukla m''li olduğunu, b''li kullanışların da bulunduğunu söylüyor; belge bu ortamdan açılamadığı için okunmadı.', denetim: {durum: dogrulanmadi}}
+  - {dil: qxq, bicim: män, yazi: من, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tuk, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kmz, bicim: men, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): 20''den çok Horasan ağzında mEn; Ağıralioğlu & Akçan 2025, Tablo 4: men', not: 'Doğrulandı: iki bağımsız kaynak.', denetim: {durum: dogrulandi, bicim: [asjp, agiralioglu-akcan-2025], anlam: [asjp, agiralioglu-akcan-2025]}}
+  - {dil: slr, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Kıpçak
-  - { dil: tat, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
-  - { dil: bak, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
-  - {dil: sty, bicim: min, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - { dil: crh, bicim: men, kaynak: wiktionary-ana-turkce }
-  - { dil: kum, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: krc, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: kdr, bicim: men, yazi: мэн, kaynak: wiktionary-ana-turkce }
-  - {dil: jct, bicim: men, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): KRIMCHAK men', not: Tek kaynak.}
-  - {dil: uum, bicim: men, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: мен', not: Tek kaynak.}
-  - { dil: kaz, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: kaa, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: nog, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: kir, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: alt, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
+  - {dil: tat, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: bak, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: sty, bicim: min, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: crh, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kum, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: krc, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kdr, bicim: men, yazi: мэн, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: jct, bicim: men, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): KRIMCHAK men', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [asjp], anlam: [asjp]}}
+  - {dil: uum, bicim: men, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: мен', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [wiktionary-sozluk], anlam: [wiktionary-sozluk]}}
+  - {dil: kaz, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kaa, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: nog, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kir, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: alt, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Karluk
-  - { dil: uzb, bicim: men, kaynak: wiktionary-ana-turkce }
-  - { dil: uig, bicim: män, yazi: مەن, kaynak: wiktionary-ana-turkce, not: "Uygur Latin yazısında men; ە açık e (ä)." }
+  - {dil: uzb, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: män, yazi: مەن, kaynak: wiktionary-ana-turkce, not: Uygur Latin yazısında men; ە açık e (ä)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Sibirya
-  - { dil: sah, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
-  - { dil: dlg, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
-  - { dil: tyv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: kim, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: kjh, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
-  - { dil: cjs, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
-  - { dil: clw, bicim: män, kaynak: sibirya-eski-sozlukler, atif: "Lemskaya 2024, Çulımca-İngilizce sözlük", not: "Değişkenler man, men, meen; ilgi durumu meeŋ." }
-  - { dil: atv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, not: "Ayrıca бин (bin)." }
+  - {dil: sah, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: dlg, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tyv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kim, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kjh, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: cjs, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: clw, bicim: män, kaynak: sibirya-eski-sozlukler, atif: 'Lemskaya 2024, Çulımca-İngilizce sözlük', not: 'Değişkenler man, men, meen; ilgi durumu meeŋ.', denetim: {durum: tek-kaynak, bicim: [sibirya-eski-sozlukler], anlam: [sibirya-eski-sozlukler]}}
+  - {dil: atv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, not: Ayrıca бин (bin)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
 
 # Araştırılıp bu kökün bulunamadığı diller ve duraklar (kod → açıklama). Hiç
 # bakılmamış olanlar buraya yazılmaz; kapsamda "eksik" görünür.

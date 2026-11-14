@@ -9,8 +9,8 @@ etimoloji: aga 'ağabey'; Sahaca ve Dolgancada 'baba'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: aga, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: aga, dil: sah, kaynak: savelyev-turkic, yazi: аҕа}
+  - {atif: 'aksenova1992, stachowski1993', bicim: aga, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: aga, dil: sah, kaynak: savelyev-turkic, yazi: аҕа, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine ata (ata)

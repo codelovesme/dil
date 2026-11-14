@@ -8,7 +8,7 @@ etimoloji: Çuvaşça; *bogaz ile bağlantısı bu çalışmada araştırılmad�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: pır, dil: chv, kaynak: savelyev-turkic, yazi: пыр}
+  - {atif: 'asmarin1928, savelyev2011', bicim: pır, dil: chv, kaynak: savelyev-turkic, yazi: пыр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine tamak (tamak)

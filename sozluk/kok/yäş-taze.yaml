@@ -8,7 +8,7 @@ etimoloji: yaş 'yaş, taze' kelimesinin Baraba Tatarcasında 'çiğ' anlamı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: dmitrijeva1981, bicim: yäş, dil: sty-baraba, kaynak: savelyev-turkic}
+  - {atif: dmitrijeva1981, bicim: yäş, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine çig (çiğ)

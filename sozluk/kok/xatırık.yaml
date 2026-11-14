@@ -8,8 +8,8 @@ etimoloji: Sahaca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: katırık, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xatırık, dil: sah, kaynak: savelyev-turkic, yazi: хатырык}
+  - {atif: 'aksenova1992, stachowski1993', bicim: katırık, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xatırık, dil: sah, kaynak: savelyev-turkic, yazi: хатырык, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kabık (kabuk)

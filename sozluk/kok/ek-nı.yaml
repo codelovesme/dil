@@ -10,29 +10,29 @@ etimoloji: Ünlüden sonra Kıpçak, Karluk ve Sibirya dillerinde, Türkmen ve A
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {atif: apertium-aze.aze.lexc; Wiktionary ana çekim tablosu; UD_Azerbaijani-TueCL, bicim: nı, dil: aze, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{y}{I}. Apertium -{y}{I} veriyor; Wiktionary ana → ananı (ünlüden sonra nı); Wiktionary''ye uyuldu.'}
-  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (2 örnek: saranı, almanı)', bicim: nı, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.'}
-  - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: nı, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -n{Y}.'}
-  - {bicim: nı, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: 'apertium-gag.gag.lexc; Tatoeba metinleri (1 örnek: parayı)', bicim: yı, dil: gag, kaynak: apertium; tatoeba, not: 'Apertium: -{y}{I}. Tatoeba''da tek örnek; zayıf kanıt.'}
-  - {atif: apertium-krc.krc.lexc, bicim: nı, dil: krc, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {bicim: nı, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: apertium-kaa.kaa.lexc, bicim: nı, dil: kaa, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: nı, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}.'}
-  - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (1 örnek: kniganı)', bicim: nı, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}. Tatoeba''da tek örnek; zayıf kanıt.'}
-  - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: nı, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}.'}
-  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (6 örnek: dyunyanı, yarlını, paşanı)', bicim: nı, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.'}
-  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: kalanı, kniganı)', bicim: nı, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.'}
-  - {bicim: nı, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
-  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (3 örnek: mariyanı, suunı)', bicim: nı, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.'}
-  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: nı, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -n{I}.'}
-  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: yı, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{y}{I}.'}
-  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (66 örnek: almanı, awstraliyanı, grammatikanı)', bicim: nı, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{n}{Y}.'}
-  - {atif: apertium-tyv.tyv.lexc, bicim: nı, dil: tyv, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
-  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: ni, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -ni.'}
-  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: ni, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -ni.'}
-  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: nı, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{n}{I}.'}
-  - {bicim: nı, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-aze.aze.lexc; Wiktionary ana çekim tablosu; UD_Azerbaijani-TueCL, bicim: nı, dil: aze, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{y}{I}. Apertium -{y}{I} veriyor; Wiktionary ana → ananı (ünlüden sonra nı); Wiktionary''ye uyuldu.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim, universal-dependencies], anlam: [apertium, wiktionary-cekim, universal-dependencies]}}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (2 örnek: saranı, almanı)', bicim: nı, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: nı, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -n{Y}.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim], anlam: [apertium, wiktionary-cekim]}}
+  - {bicim: nı, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: 'apertium-gag.gag.lexc; Tatoeba metinleri (1 örnek: parayı)', bicim: yı, dil: gag, kaynak: apertium; tatoeba, not: 'Apertium: -{y}{I}. Tatoeba''da tek örnek; zayıf kanıt.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-krc.krc.lexc, bicim: nı, dil: krc, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {bicim: nı, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: apertium-kaa.kaa.lexc, bicim: nı, dil: kaa, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: nı, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim, universal-dependencies], anlam: [apertium, wiktionary-cekim, universal-dependencies]}}
+  - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (1 örnek: kniganı)', bicim: nı, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}. Tatoeba''da tek örnek; zayıf kanıt.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: nı, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim, universal-dependencies], anlam: [apertium, wiktionary-cekim, universal-dependencies]}}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (6 örnek: dyunyanı, yarlını, paşanı)', bicim: nı, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: kalanı, kniganı)', bicim: nı, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {bicim: nı, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
+  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (3 örnek: mariyanı, suunı)', bicim: nı, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: nı, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -n{I}.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: yı, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{y}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (66 örnek: almanı, awstraliyanı, grammatikanı)', bicim: nı, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{n}{Y}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-tyv.tyv.lexc, bicim: nı, dil: tyv, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: ni, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -ni.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim, universal-dependencies], anlam: [apertium, wiktionary-cekim, universal-dependencies]}}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: ni, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -ni.', denetim: {durum: dogrulandi, bicim: [apertium, wiktionary-cekim, universal-dependencies], anlam: [apertium, wiktionary-cekim, universal-dependencies]}}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: nı, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{n}{I}.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {bicim: nı, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).', denetim: {durum: dogrulanmadi}}
 
 yok: {}
 tarihi_yok: {}

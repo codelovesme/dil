@@ -8,7 +8,7 @@ etimoloji: Çuvaşça vĕri; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: vĕri, dil: chv, kaynak: savelyev-turkic, yazi: вӗри}
+  - {atif: 'asmarin1928, savelyev2011', bicim: vĕri, dil: chv, kaynak: savelyev-turkic, yazi: вӗри, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine isü (isig)

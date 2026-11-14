@@ -9,12 +9,12 @@ etimoloji: siñek 'sinek'; Oğuz dillerinde (sinek, siñek) ve Sayan-Hakas'ta (s
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sinek, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: seek, dil: kjh, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: seek, dil: kim, kaynak: savelyev-turkic, not: kara seek.}
-  - {atif: 'baskakov1977, iz1992', bicim: sinek, dil: tur, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: siñek, dil: tuk, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: seek, dil: tyv, kaynak: savelyev-turkic, not: kara seek., yazi: сээк}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sinek, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: seek, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: seek, dil: kim, kaynak: savelyev-turkic, not: kara seek., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: sinek, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968', bicim: siñek, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: seek, dil: tyv, kaynak: savelyev-turkic, not: kara seek., yazi: сээк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine çımın (çıbın)

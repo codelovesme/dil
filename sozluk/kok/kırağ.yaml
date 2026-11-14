@@ -8,7 +8,7 @@ etimoloji: Azerbaycan Türkçesi kırağ; kıdığ ile ilişkisi bu çalışmada
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kırağ, dil: aze, kaynak: savelyev-turkic}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kırağ, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   alt: yerine kırı (kıdığ)

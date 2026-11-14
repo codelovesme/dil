@@ -8,7 +8,7 @@ etimoloji: Çuvaşça ăşta; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: ăşta, dil: chv, kaynak: savelyev-turkic, yazi: ӑҫта}
+  - {atif: 'asmarin1928, savelyev2011', bicim: ăşta, dil: chv, kaynak: savelyev-turkic, yazi: ӑҫта, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kayda (kayda)

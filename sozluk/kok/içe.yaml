@@ -10,13 +10,13 @@ etimoloji: Ana Türkçe *ẹčä 'abla, anne'. Sibirya dillerinde ve Salarcada '
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: inye, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ice, dil: kjh, kaynak: savelyev-turkic, yazi: iҷе}
-  - {atif: savelyev2015, bicim: icä, dil: clw, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: icä, dil: slr, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: ihe, dil: kim, kaynak: savelyev-turkic}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: iye, dil: tyv, kaynak: savelyev-turkic, yazi: ие}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: iye, dil: sah, kaynak: savelyev-turkic, yazi: ийэ}
+  - {atif: 'aksenova1992, stachowski1993', bicim: inye, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ice, dil: kjh, kaynak: savelyev-turkic, yazi: iҷе, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: savelyev2015, bicim: icä, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: icä, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: ihe, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: iye, dil: tyv, kaynak: savelyev-turkic, yazi: ие, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: iye, dil: sah, kaynak: savelyev-turkic, yazi: ийэ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine inä (ana)

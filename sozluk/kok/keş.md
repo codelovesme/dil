@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 0/7 · tanık 2 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,41 +25,41 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **keş** | кеш |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Tofaca |  | **keş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine täri (teri) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tere (teri) |
-| | Güney Altayca | | — | | | | kök yok: yerine tere (teri) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine däri (teri) |
-| | Başkurtça | | — | | | | kök yok: yerine tire (teri) |
-| | Çuvaşça | | — | | | | kök yok: yerine tire (teri) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine teri (teri) |
-| | Dolganca | | — | | | | kök yok: yerine tirii (teri) |
-| | Gagavuzca | | — | | | | kök yok: yerine deri (teri) |
-| | Karakalpakça | | — | | | | kök yok: yerine teri (teri) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine teri (teri) |
-| | Karayca | | — | | | | kök yok: yerine teri (teri) |
-| | Kazakça | | — | | | | kök yok: yerine terĭ (teri) |
-| | Hakasça | | — | | | | kök yok: yerine teer (teri) |
-| | Halaçça | | — | | | | kök yok: yerine täri (teri) |
-| | Kırgızca | | — | | | | kök yok: yerine teri (teri) |
-| | Kumukça | | — | | | | kök yok: yerine teri (teri) |
-| | Nogayca | | — | | | | kök yok: yerine teri (teri) |
-| | Salarca | | — | | | | kök yok: yerine tir (teri) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine teri (teri) |
-| | Şorca | | — | | | | kök yok: yerine tere (teri) |
-| | Tatarca | | — | | | | kök yok: yerine tire (teri) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine deri (teri) |
-| | Türkmence | | — | | | | kök yok: yerine deri (teri) |
-| | Uygurca | | — | | | | kök yok: yerine terä (teri) |
-| | Özbekçe | | — | | | | kök yok: yerine teri (teri) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine tirii (teri) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Tuvaca |  | **keş** | кеш |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tofaca |  | **keş** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine täri (teri) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tere (teri) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tere (teri) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine däri (teri) |
+| | Başkurtça | | — | | | | | kök yok: yerine tire (teri) |
+| | Çuvaşça | | — | | | | | kök yok: yerine tire (teri) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine teri (teri) |
+| | Dolganca | | — | | | | | kök yok: yerine tirii (teri) |
+| | Gagavuzca | | — | | | | | kök yok: yerine deri (teri) |
+| | Karakalpakça | | — | | | | | kök yok: yerine teri (teri) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine teri (teri) |
+| | Karayca | | — | | | | | kök yok: yerine teri (teri) |
+| | Kazakça | | — | | | | | kök yok: yerine terĭ (teri) |
+| | Hakasça | | — | | | | | kök yok: yerine teer (teri) |
+| | Halaçça | | — | | | | | kök yok: yerine täri (teri) |
+| | Kırgızca | | — | | | | | kök yok: yerine teri (teri) |
+| | Kumukça | | — | | | | | kök yok: yerine teri (teri) |
+| | Nogayca | | — | | | | | kök yok: yerine teri (teri) |
+| | Salarca | | — | | | | | kök yok: yerine tir (teri) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine teri (teri) |
+| | Şorca | | — | | | | | kök yok: yerine tere (teri) |
+| | Tatarca | | — | | | | | kök yok: yerine tire (teri) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine deri (teri) |
+| | Türkmence | | — | | | | | kök yok: yerine deri (teri) |
+| | Uygurca | | — | | | | | kök yok: yerine terä (teri) |
+| | Özbekçe | | — | | | | | kök yok: yerine teri (teri) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine tirii (teri) |
 
 ## Kaynakça
 

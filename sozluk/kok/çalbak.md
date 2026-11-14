@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 27/40 · ağızlar 1/89 · duraklar 0/7 · tanık 3 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐3**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,39 +24,39 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Tuvaca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Hakasça |  | **çalbax** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Şorca |  | **çalbak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Çulımca |  | **çalbak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine käñ (keñ) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Güney Altayca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine geniş (keñ) |
-| | Başkurtça | | — | | | | kök yok: yerine kiñ (keñ) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine keñ (keñ) |
-| | Gagavuzca | | — | | | | kök yok: yerine geniş (keñ) |
-| | Karakalpakça | | — | | | | kök yok: yerine keñ (keñ) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Karayca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Kazakça | | — | | | | kök yok: yerine keñ (keñ) |
-| | Halaçça | | — | | | | kök yok: yerine kieñ (keñ) |
-| | Kırgızca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Kumukça | | — | | | | kök yok: yerine geñ (keñ) |
-| | Nogayca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine keñ (keñ) |
-| | Tatarca | | — | | | | kök yok: yerine kiñ (keñ) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine geniş (keñ) |
-| | Türkmence | | — | | | | kök yok: yerine giñ (keñ) |
-| | Uygurca | | — | | | | kök yok: yerine käñ (keñ) |
-| | Özbekçe | | — | | | | kök yok: yerine keñ (keñ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine kieñ (keñ) |
-| | Tofaca | | — | | | | kök yok: yerine aalhığ (aalhığ) |
-| | Çuvaşça | | — | | | | kök yok: yerine sarlaga (sarlaga) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Hakasça |  | **çalbax** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Şorca |  | **çalbak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Çulımca |  | **çalbak** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine käñ (keñ) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Güney Altayca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine geniş (keñ) |
+| | Başkurtça | | — | | | | | kök yok: yerine kiñ (keñ) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Gagavuzca | | — | | | | | kök yok: yerine geniş (keñ) |
+| | Karakalpakça | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Karayca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Kazakça | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Halaçça | | — | | | | | kök yok: yerine kieñ (keñ) |
+| | Kırgızca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Kumukça | | — | | | | | kök yok: yerine geñ (keñ) |
+| | Nogayca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Tatarca | | — | | | | | kök yok: yerine kiñ (keñ) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine geniş (keñ) |
+| | Türkmence | | — | | | | | kök yok: yerine giñ (keñ) |
+| | Uygurca | | — | | | | | kök yok: yerine käñ (keñ) |
+| | Özbekçe | | — | | | | | kök yok: yerine keñ (keñ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine kieñ (keñ) |
+| | Tofaca | | — | | | | | kök yok: yerine aalhığ (aalhığ) |
+| | Çuvaşça | | — | | | | | kök yok: yerine sarlaga (sarlaga) |
 
 ## Kaynakça
 

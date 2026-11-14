@@ -8,7 +8,7 @@ etimoloji: Şorca çabal; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: kurpesko-tannagaseva1993, bicim: çabal, dil: cjs, kaynak: savelyev-turkic}
+  - {atif: kurpesko-tannagaseva1993, bicim: çabal, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaman (yaman)

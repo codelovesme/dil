@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐8**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,40 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Kıpçak kolu | Kumukça |  | **çañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kazakça |  | **şañ** | шаң |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Karakalpakça |  | **şañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Nogayca |  | **şañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Kıpçak kolu | Kırgızca |  | **çañ** | чаң |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Özbekçe |  | **çañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Uygurca |  | **çañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **çam** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine tos (toz) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine tozun (toz) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine toz (toz) |
-| | Başkurtça | | — | | | | kök yok: yerine tuzan (toz) |
-| | Çuvaşça | | — | | | | kök yok: yerine tuzan (toz) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine toz (toz) |
-| | Gagavuzca | | — | | | | kök yok: yerine tooz (toz) |
-| | Karayca | | — | | | | kök yok: yerine toz (toz) |
-| | Hakasça | | — | | | | kök yok: yerine tozın (toz) |
-| | Çulımca | | — | | | | kök yok: yerine tozan (toz) |
-| | Şorca | | — | | | | kök yok: yerine tozun (toz) |
-| | Tatarca | | — | | | | kök yok: yerine tuzan (toz) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine toz (toz) |
-| | Türkmence | | — | | | | kök yok: yerine tozan (toz) |
-| | Tuvaca | | — | | | | kök yok: yerine doozun (toz) |
-| | Güney Altayca | | — | | | | kök yok: yerine tobrax (toprak) |
-| | Halaçça | | — | | | | kök yok: yerine turpaak (toprak) |
-| | Tofaca | | — | | | | kök yok: yerine toprak (toprak) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine buku (buku) |
-| | Salarca | | — | | | | kök yok: yerine taarıx (taarıx) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Kıpçak kolu | Kumukça |  | **çañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kazakça |  | **şañ** | шаң |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Karakalpakça |  | **şañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Nogayca |  | **şañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Kıpçak kolu | Kırgızca |  | **çañ** | чаң |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Özbekçe |  | **çañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Karluk kolu | Uygurca |  | **çañ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sarı Uygurca |  | **çam** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine tos (toz) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine tozun (toz) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine toz (toz) |
+| | Başkurtça | | — | | | | | kök yok: yerine tuzan (toz) |
+| | Çuvaşça | | — | | | | | kök yok: yerine tuzan (toz) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine toz (toz) |
+| | Gagavuzca | | — | | | | | kök yok: yerine tooz (toz) |
+| | Karayca | | — | | | | | kök yok: yerine toz (toz) |
+| | Hakasça | | — | | | | | kök yok: yerine tozın (toz) |
+| | Çulımca | | — | | | | | kök yok: yerine tozan (toz) |
+| | Şorca | | — | | | | | kök yok: yerine tozun (toz) |
+| | Tatarca | | — | | | | | kök yok: yerine tuzan (toz) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine toz (toz) |
+| | Türkmence | | — | | | | | kök yok: yerine tozan (toz) |
+| | Tuvaca | | — | | | | | kök yok: yerine doozun (toz) |
+| | Güney Altayca | | — | | | | | kök yok: yerine tobrax (toprak) |
+| | Halaçça | | — | | | | | kök yok: yerine turpaak (toprak) |
+| | Tofaca | | — | | | | | kök yok: yerine toprak (toprak) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine buku (buku) |
+| | Salarca | | — | | | | | kök yok: yerine taarıx (taarıx) |
 
 ## Kaynakça
 

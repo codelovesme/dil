@@ -8,7 +8,7 @@ etimoloji: Çuvaşça sur-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: sur, dil: chv, kaynak: savelyev-turkic, yazi: сур-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: sur, dil: chv, kaynak: savelyev-turkic, yazi: сур-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tökür (tükür)

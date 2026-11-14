@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şın; kişi ile denkliği kurulamadı, ayrı tutuldu.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şın, dil: chv, kaynak: savelyev-turkic, yazi: ҫын}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şın, dil: chv, kaynak: savelyev-turkic, yazi: ҫын, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kişi (kişi)

@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şıvăr-; *udï- ile denkliği bu çalışmada kurulamad�
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şıvăr, dil: chv, kaynak: savelyev-turkic, yazi: ҫывӑр-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şıvăr, dil: chv, kaynak: savelyev-turkic, yazi: ҫывӑр-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   dlg: yerine utuy (udı)

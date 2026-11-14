@@ -8,7 +8,7 @@ etimoloji: Başkurtça alama; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: alama, dil: bak, kaynak: savelyev-turkic}
+  - {atif: 'uraksin1996, uraksin2005', bicim: alama, dil: bak, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yaman (yaman)

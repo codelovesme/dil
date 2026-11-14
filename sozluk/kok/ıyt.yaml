@@ -8,7 +8,7 @@ etimoloji: Çuvaşça ıyt-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: ıyt, dil: chv, kaynak: savelyev-turkic, yazi: ыйт-}
+  - {atif: 'asmarin1928, savelyev2011', bicim: ıyt, dil: chv, kaynak: savelyev-turkic, yazi: ыйт-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine sora (sora)

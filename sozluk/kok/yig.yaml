@@ -15,6 +15,7 @@ taniklar:
     bicim: yig
     kaynak: savelyev-turkic
     atif: clauson1972
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
 
 yok:
   atv: yerine çig (çiğ)

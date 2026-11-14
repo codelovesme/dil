@@ -8,7 +8,7 @@ etimoloji: Sahaca as-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: as, dil: sah, kaynak: savelyev-turkic, yazi: ас-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: as, dil: sah, kaynak: savelyev-turkic, yazi: ас-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine it (it)

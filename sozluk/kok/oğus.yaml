@@ -8,8 +8,8 @@ etimoloji: Sahaca ve Dolganca oğus-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: oğus, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: oğus, dil: sah, kaynak: savelyev-turkic, yazi: охсуй}
+  - {atif: 'aksenova1992, stachowski1993', bicim: oğus, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: oğus, dil: sah, kaynak: savelyev-turkic, yazi: охсуй, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine vur (ur)

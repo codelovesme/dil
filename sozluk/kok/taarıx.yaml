@@ -8,7 +8,7 @@ etimoloji: Salarca; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: tenisev1976, bicim: taarıx, dil: slr, kaynak: savelyev-turkic}
+  - {atif: tenisev1976, bicim: taarıx, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tos (toz)

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 17/40 · ağızlar 0/89 · duraklar 2/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 17/40 · ağızlar 0/89 · duraklar 2/7 · tanık 8 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1 · denetim ◐8**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,14 +25,14 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Tatarca, Başkurtça, Kırım Tatarcası, Karayca, Kırımçakça, Urumca, Kumukça, Karaçay-Malkarca, Kazakça, Karakalpakça, Nogayca, Sibirya Tatarcası, Güney Altayca, Özbekçe, Uygurca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Zaman çizelgesi
 
-| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak |
-|---|---|---|---|---|---|---|---|
-| 8.–14. yy | Eski Türkçe |  | **alın** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 |
-| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **alın** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 |
+| Yüzyıl | Dil / boy | Yer | Biçim | Yazı | Metin | Kaydeden | Kaynak | Denetim |
+|---|---|---|---|---|---|---|---|---|
+| 8.–14. yy | Eski Türkçe |  | **alın** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
+| 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **alın** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
@@ -42,25 +42,25 @@ Notlar:
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Halaç kolu | Halaçça |  | **haanlı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **annı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkmence |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Sibirya kolu | Sarı Uygurca |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kabak (kabak) |
-| | Hakasça | | — | | | | kök yok: yerine xamax (kabak) |
-| | Çulımca | | — | | | | kök yok: yerine kamak (kabak) |
-| | Şorca | | — | | | | kök yok: yerine kabak (kabak) |
-| | Tuvaca | | — | | | | kök yok: yerine xavak (kabak) |
-| | Dolganca | | — | | | | kök yok: yerine hüüs (süüs) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine süüs (süüs) |
-| | Kırgızca | | — | | | | kök yok: yerine çeke (çeke) |
-| | Çuvaşça | | — | | | | kök yok: yerine şamka (şamka) |
-| | Tofaca | | — | | | | kök yok: yerine dostak (dostak) |
-| | Salarca | | — | | | | kök yok: yerine menzi (menzi) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Halaç kolu | Halaçça |  | **haanlı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Gagavuzca |  | **annı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Oğuz kolu | Türkmence |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Sarı Uygurca |  | **alın** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kabak (kabak) |
+| | Hakasça | | — | | | | | kök yok: yerine xamax (kabak) |
+| | Çulımca | | — | | | | | kök yok: yerine kamak (kabak) |
+| | Şorca | | — | | | | | kök yok: yerine kabak (kabak) |
+| | Tuvaca | | — | | | | | kök yok: yerine xavak (kabak) |
+| | Dolganca | | — | | | | | kök yok: yerine hüüs (süüs) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine süüs (süüs) |
+| | Kırgızca | | — | | | | | kök yok: yerine çeke (çeke) |
+| | Çuvaşça | | — | | | | | kök yok: yerine şamka (şamka) |
+| | Tofaca | | — | | | | | kök yok: yerine dostak (dostak) |
+| | Salarca | | — | | | | | kök yok: yerine menzi (menzi) |
 
 ## Kaynakça
 

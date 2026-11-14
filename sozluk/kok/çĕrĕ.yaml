@@ -9,7 +9,7 @@ etimoloji: Çuvaşça çĕrĕ 'diri; çiğ'; Ana Türkçe *tirig 'diri' ile bağ
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: çĕrĕ, dil: chv, kaynak: savelyev-turkic, yazi: чӗрӗ}
+  - {atif: 'asmarin1928, savelyev2011', bicim: çĕrĕ, dil: chv, kaynak: savelyev-turkic, yazi: чӗрӗ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine çig (çiğ)

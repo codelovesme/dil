@@ -24,6 +24,7 @@ taniklar:
     metin: Kül Tigin, Bilge Kağan ve Tonyukuk yazıtları
     kaynak: clauson; wiktionary-ana-turkce
     not: Hem özne hem cümle sonunda bağ olarak; Tonyukuk'ta ikisi bir arada.
+    denetim: {durum: dogrulandi, bicim: [clauson, wiktionary-ana-turkce], anlam: [clauson, wiktionary-ana-turkce]}
   - dil: otk
     yer: Turfan ve Dunhuang
     yuzyil: 8-14
@@ -31,6 +32,7 @@ taniklar:
     metin: Maniheist, Budist ve hukuk belgeleri (Eski Uygurca)
     kaynak: clauson; wiktionary-ana-turkce
     not: Hukuk belgelerinde "biz" ardından kişi adları sık geçer.
+    denetim: {durum: dogrulandi, bicim: [clauson, wiktionary-ana-turkce], anlam: [clauson, wiktionary-ana-turkce]}
   - dil: xqa
     yer: Kâşgar
     yuzyil: 11
@@ -40,12 +42,14 @@ taniklar:
     kaynak: dlt; clauson
     atif: DLT I 325
     kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)
+    denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}
   - dil: xqa
     yuzyil: 13
     bicim: biz
     metin: Karahanlıca Kur'an tefsiri
     kaynak: clauson
     not: Eğik durumlarda da yaygın.
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: qwm
     yer: Memlük Mısır'ı
     yuzyil: 13
@@ -54,6 +58,7 @@ taniklar:
     kaynak: houtsma-leiden; clauson
     atif: Houtsma 50, 9
     kaydeden: Memlük sarayında Arapça yazan bir sözlükçü
+    denetim: {durum: tek-kaynak, bicim: [houtsma-leiden, clauson], anlam: [houtsma-leiden, clauson]}
   - dil: ortak
     yuzyil: 14
     bicim: bīz
@@ -62,12 +67,14 @@ taniklar:
     atif: Melioranskiy 5, 17
     kaydeden: İbn Mühennâ (Arapça sözlük)
     not: Sözlükçü kelimeyi, i'si Arapçadaki gibi (uzun) okunan kelimelere örnek verir.
+    denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}
   - dil: chg
     yer: Harezm ve Altın Orda
     yuzyil: 14
     bicim: biz
     metin: Kutb, Hüsrev ü Şirin; Nehcü'l-Feradis
     kaynak: clauson; najip-xiv
+    denetim: {durum: tek-kaynak, bicim: [clauson, najip-xiv], anlam: [clauson, najip-xiv]}
   - dil: qwm
     yer: Kırım ve Deşt-i Kıpçak
     yuzyil: 14
@@ -76,6 +83,7 @@ taniklar:
     kaynak: gronbech-kuman; clauson
     kaydeden: İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli)
     yabanci: true
+    denetim: {durum: dogrulandi, bicim: [gronbech-kuman, clauson], anlam: [gronbech-kuman, clauson]}
   - dil: qwm
     yer: Kahire
     yuzyil: 14
@@ -85,12 +93,14 @@ taniklar:
     kaydeden: Ebû Hayyân ve öteki Memlük sözlükçüleri (Arapça)
     yabanci: true
     not: Ebû Hayyân m-'li bir söyleyişi (miz) de kaydeder.
+    denetim: {durum: tek-kaynak, bicim: [kitab-idrak, clauson], anlam: [kitab-idrak, clauson]}
   - dil: qwm
     yer: Memlük Mısır'ı
     yuzyil: 15
     bicim: biz
     metin: el-Kavânînü'l-Külliye
     kaynak: clauson
+    denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}
   - dil: eski-anadolu
     yer: Anadolu
     yuzyil: 13-15
@@ -99,6 +109,7 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     not: Eki -vüz/-üz biçiminde de görülür.
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - dil: chg
     yuzyil: 15-18
     bicim: biz
@@ -106,6 +117,7 @@ taniklar:
     metin: Çağatay edebî dili; Senglâh
     kaynak: clauson; senglah
     not: Senglâh hem zamir hem cümle sonu bağ kullanımını verir.
+    denetim: {durum: dogrulandi, bicim: [clauson, senglah], anlam: [clauson, senglah]}
   - dil: tur
     yer: Osmanlı
     yuzyil: 16-19
@@ -113,58 +125,59 @@ taniklar:
     yazi: بز
     metin: Osmanlı Türkçesi
     kaynak: wiktionary-ana-turkce
+    denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
 
   # ================================================ yaşayan diller (günümüz)
   # Oğur
-  - { dil: chv, bicim: epir, yazi: эпир, kaynak: wiktionary-ana-turkce, not: "Oğur -r (Ortak Türkçe -z); b- düşmüş. Miras." }
+  - {dil: chv, bicim: epir, yazi: эпир, kaynak: wiktionary-ana-turkce, not: Oğur -r (Ortak Türkçe -z); b- düşmüş. Miras., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Halaç
-  - { dil: klj, bicim: biz, kaynak: wiktionary-ana-turkce }
+  - {dil: klj, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Oğuz
-  - { dil: tur, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - {dil: tur-ege, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-teke, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-orta, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-bkaradeniz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-dkaradeniz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-erzurum, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-ahiska, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-drumeli, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-brumeli, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: tur-kibris, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - { dil: gag, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - {dil: bgx, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - { dil: aze, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - {dil: kerkuk, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
-  - {dil: qxq, bicim: biz, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): QASHQAI_2 biz', not: Tek kaynak.}
-  - { dil: tuk, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - {dil: kmz, bicim: biz, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): Horasan ağızlarının çoğunda biz; Ağıralioğlu & Akçan 2025, Tablo 4: biz', not: 'Doğrulandı: iki bağımsız kaynak. ASJP''de bazı ağızlarda mo, man (Farsçadan) da var.'}
-  - { dil: slr, bicim: piser, kaynak: wiktionary-ana-turkce, not: "biz'e çokluk eki -er eklenmiş türev; başta p-." }
+  - {dil: tur, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tur-ege, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-teke, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-orta, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-bkaradeniz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-dkaradeniz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-erzurum, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-ahiska, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-drumeli, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-brumeli, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: tur-kibris, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: gag, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: bgx, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: aze, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kerkuk, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
+  - {dil: qxq, bicim: biz, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): QASHQAI_2 biz', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [asjp], anlam: [asjp]}}
+  - {dil: tuk, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kmz, bicim: biz, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): Horasan ağızlarının çoğunda biz; Ağıralioğlu & Akçan 2025, Tablo 4: biz', not: 'Doğrulandı: iki bağımsız kaynak. ASJP''de bazı ağızlarda mo, man (Farsçadan) da var.', denetim: {durum: dogrulandi, bicim: [asjp, agiralioglu-akcan-2025], anlam: [asjp, agiralioglu-akcan-2025]}}
+  - {dil: slr, bicim: piser, kaynak: wiktionary-ana-turkce, not: biz'e çokluk eki -er eklenmiş türev; başta p-., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Kıpçak
-  - { dil: tat, bicim: bez, yazi: без, kaynak: wiktionary-ana-turkce, not: "Tatar ünlü kayması i > e." }
-  - { dil: bak, bicim: bez, yazi: беҙ, kaynak: wiktionary-ana-turkce, not: "ҙ diş arası sızıcı (ð); çalışma yazımında z." }
-  - { dil: crh, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: kum, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
-  - { dil: krc, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
-  - {dil: kdr, bicim: biz, kaynak: wiktionary-ana-turkce; agiralioglu-akcan-2025, atif: 'Wiktionary *bīz torun listesi; Ağıralioğlu & Akçan 2025, Tablo 4', not: 'Doğrulandı: iki kaynak.'}
-  - {dil: jct, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı ve kaynakla çelişiyor: ASJP Kırımçakça ''biz'' için buz veriyor (''kim'' için de kum); Kırımçakçada bir i > u değişimi olabilir. Üçüncü bir kaynak bulunamadı, çözülmedi.'}
-  - {dil: uum, bicim: biz, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: биз', not: Tek kaynak.}
-  - { dil: kaz, bicim: biz, yazi: біз, kaynak: wiktionary-ana-turkce }
-  - { dil: kaa, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: nog, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
-  - { dil: kir, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
-  - { dil: alt, bicim: bis, yazi: бис, kaynak: wiktionary-ana-turkce }
+  - {dil: tat, bicim: bez, yazi: без, kaynak: wiktionary-ana-turkce, not: Tatar ünlü kayması i > e., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: bak, bicim: bez, yazi: беҙ, kaynak: wiktionary-ana-turkce, not: ҙ diş arası sızıcı (ð); çalışma yazımında z., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: crh, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kum, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: krc, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kdr, bicim: biz, kaynak: wiktionary-ana-turkce; agiralioglu-akcan-2025, atif: 'Wiktionary *bīz torun listesi; Ağıralioğlu & Akçan 2025, Tablo 4', not: 'Doğrulandı: iki kaynak.', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, agiralioglu-akcan-2025], anlam: [wiktionary-ana-turkce, agiralioglu-akcan-2025]}}
+  - {dil: jct, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı ve kaynakla çelişiyor: ASJP Kırımçakça ''biz'' için buz veriyor (''kim'' için de kum); Kırımçakçada bir i > u değişimi olabilir. Üçüncü bir kaynak bulunamadı, çözülmedi.', denetim: {durum: celiski}}
+  - {dil: uum, bicim: biz, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: биз', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [wiktionary-sozluk], anlam: [wiktionary-sozluk]}}
+  - {dil: kaz, bicim: biz, yazi: біз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kaa, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: nog, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kir, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: alt, bicim: bis, yazi: бис, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Karluk
-  - { dil: uzb, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: uig, bicim: biz, yazi: بىز, kaynak: wiktionary-ana-turkce }
+  - {dil: uzb, bicim: biz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: biz, yazi: بىز, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   # Sibirya
-  - { dil: sah, bicim: bihigi, yazi: биһиги, kaynak: wiktionary-ana-turkce, not: "s > h; genişlemiş biçim." }
-  - { dil: dlg, bicim: bihigi, yazi: биһиги, kaynak: wiktionary-ana-turkce }
-  - { dil: ybe, bicim: pız, kaynak: wiktionary-ana-turkce, not: "Eski Uygurcanın devamı olarak verilir." }
-  - { dil: tyv, bicim: bis, yazi: бис, kaynak: wiktionary-ana-turkce }
-  - { dil: kim, bicim: bis, yazi: биъс, kaynak: wiktionary-ana-turkce }
-  - { dil: kjh, bicim: pis, yazi: пiс, kaynak: wiktionary-ana-turkce }
-  - { dil: cjs, bicim: pis, yazi: пiс, kaynak: wiktionary-ana-turkce }
-  - { dil: atv, bicim: pis, yazi: пис, kaynak: wiktionary-ana-turkce }
+  - {dil: sah, bicim: bihigi, yazi: биһиги, kaynak: wiktionary-ana-turkce, not: s > h; genişlemiş biçim., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: dlg, bicim: bihigi, yazi: биһиги, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: ybe, bicim: pız, kaynak: wiktionary-ana-turkce, not: Eski Uygurcanın devamı olarak verilir., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tyv, bicim: bis, yazi: бис, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kim, bicim: bis, yazi: биъс, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kjh, bicim: pis, yazi: пiс, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: cjs, bicim: pis, yazi: пiс, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: atv, bicim: pis, yazi: пис, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
 
 yok: {}
 tarihi_yok: {}

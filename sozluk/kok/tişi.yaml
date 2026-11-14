@@ -16,8 +16,9 @@ taniklar:
     bicim: tişi
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {atif: 'tenisev1989, sujuncev1965', bicim: tişiriw, dil: krc, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: tiji kiji, dil: cjs, kaynak: savelyev-turkic}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {atif: 'tenisev1989, sujuncev1965', bicim: tişiriw, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: tiji kiji, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   nog: yerine xatınkız (katun, alıntı:sogd)

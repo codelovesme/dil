@@ -9,7 +9,7 @@ etimoloji: ör- 'örmek'; Sahacada 'dokumak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ör, dil: sah, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., yazi: өр-}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ör, dil: sah, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle., yazi: өр-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine toxu (toku)

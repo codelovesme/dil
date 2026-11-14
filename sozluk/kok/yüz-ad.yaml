@@ -9,7 +9,7 @@ etimoloji: yüz 'surat'; Özbekçede 'yanak' için de.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yuz, dil: uzb, kaynak: savelyev-turkic}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yuz, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yañak (yañak)

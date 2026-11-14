@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,40 +24,40 @@
 
 Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Azerbaycan Türkçesi |  | **kırağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Güney Altayca | | — | | | | kök yok: yerine kırı (kıdığ) |
-| | Dolganca | | — | | | | kök yok: yerine kırıı (kıdığ) |
-| | Karayca | | — | | | | kök yok: yerine kırıy (kıdığ) |
-| | Hakasça | | — | | | | kök yok: yerine xırı (kıdığ) |
-| | Kumukça | | — | | | | kök yok: yerine kırıy (kıdığ) |
-| | Salarca | | — | | | | kök yok: yerine kırğı (kıdığ) |
-| | Şorca | | — | | | | kök yok: yerine kırıy (kıdığ) |
-| | Çuvaşça | | — | | | | kök yok: yerine xĕrĕ (kıdığ) |
-| | Çulımca | | — | | | | kök yok: yerine kır (kıdığ) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine kıy (kıdığ) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine kıyır (kıdığ) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine kızığ (kıdığ) |
-| | Tofaca | | — | | | | kök yok: yerine kıdığ (kıdığ) |
-| | Tuvaca | | — | | | | kök yok: yerine kıdığ (kıdığ) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine kıtıı (kıdığ) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine kenar (kenar, alıntı:fa) |
-| | Baraba ağzı | | — | | | | kök yok: yerine çit (çet) |
-| | Başkurtça | | — | | | | kök yok: yerine sit (çet) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine çet (çet) |
-| | Karakalpakça | | — | | | | kök yok: yerine şet (çet) |
-| | Kazakça | | — | | | | kök yok: yerine şet (çet) |
-| | Kırgızca | | — | | | | kök yok: yerine çet (çet) |
-| | Nogayca | | — | | | | kök yok: yerine şet (çet) |
-| | Tatarca | | — | | | | kök yok: yerine çit (çet) |
-| | Türkmence | | — | | | | kök yok: yerine çet (çet) |
-| | Uygurca | | — | | | | kök yok: yerine çät (çet) |
-| | Özbekçe | | — | | | | kök yok: yerine çet (çet) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Azerbaycan Türkçesi |  | **kırağ** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Güney Altayca | | — | | | | | kök yok: yerine kırı (kıdığ) |
+| | Dolganca | | — | | | | | kök yok: yerine kırıı (kıdığ) |
+| | Karayca | | — | | | | | kök yok: yerine kırıy (kıdığ) |
+| | Hakasça | | — | | | | | kök yok: yerine xırı (kıdığ) |
+| | Kumukça | | — | | | | | kök yok: yerine kırıy (kıdığ) |
+| | Salarca | | — | | | | | kök yok: yerine kırğı (kıdığ) |
+| | Şorca | | — | | | | | kök yok: yerine kırıy (kıdığ) |
+| | Çuvaşça | | — | | | | | kök yok: yerine xĕrĕ (kıdığ) |
+| | Çulımca | | — | | | | | kök yok: yerine kır (kıdığ) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine kıy (kıdığ) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine kıyır (kıdığ) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine kızığ (kıdığ) |
+| | Tofaca | | — | | | | | kök yok: yerine kıdığ (kıdığ) |
+| | Tuvaca | | — | | | | | kök yok: yerine kıdığ (kıdığ) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine kıtıı (kıdığ) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine kenar (kenar, alıntı:fa) |
+| | Baraba ağzı | | — | | | | | kök yok: yerine çit (çet) |
+| | Başkurtça | | — | | | | | kök yok: yerine sit (çet) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine çet (çet) |
+| | Karakalpakça | | — | | | | | kök yok: yerine şet (çet) |
+| | Kazakça | | — | | | | | kök yok: yerine şet (çet) |
+| | Kırgızca | | — | | | | | kök yok: yerine çet (çet) |
+| | Nogayca | | — | | | | | kök yok: yerine şet (çet) |
+| | Tatarca | | — | | | | | kök yok: yerine çit (çet) |
+| | Türkmence | | — | | | | | kök yok: yerine çet (çet) |
+| | Uygurca | | — | | | | | kök yok: yerine çät (çet) |
+| | Özbekçe | | — | | | | | kök yok: yerine çet (çet) |
 
 ## Kaynakça
 

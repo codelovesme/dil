@@ -8,7 +8,7 @@ etimoloji: Çuvaşça urăx; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: urăx, dil: chv, kaynak: savelyev-turkic, yazi: урӑх}
+  - {atif: 'asmarin1928, savelyev2011', bicim: urăx, dil: chv, kaynak: savelyev-turkic, yazi: урӑх, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine paşka (başka)

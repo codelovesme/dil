@@ -9,12 +9,12 @@ etimoloji: kursak 'mide, kursak'; Kırım, Kafkas Kıpçak, Tatar, Şor dillerin
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: kursak, dil: crh, kaynak: savelyev-turkic}
-  - {atif: baskakov1974, bicim: kursax, dil: kdr, kaynak: savelyev-turkic}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kursak, dil: kum, kaynak: savelyev-turkic}
-  - {atif: tenisev1976, bicim: xusax, dil: slr, kaynak: savelyev-turkic}
-  - {atif: kurpesko-tannagaseva1993, bicim: kursak, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: korsak, dil: tat, kaynak: savelyev-turkic, yazi: корсак}
+  - {atif: useinov2007, bicim: kursak, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1974, bicim: kursax, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: kursak, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: tenisev1976, bicim: xusax, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: kurpesko-tannagaseva1993, bicim: kursak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966', bicim: korsak, dil: tat, kaynak: savelyev-turkic, yazi: корсак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine ġarın (karın)

@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şătăk; teşik ile denkliği bu çalışmada kurulamadı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şătăk, dil: chv, kaynak: savelyev-turkic, yazi: шӑтӑк}
+  - {atif: 'asmarin1928, savelyev2011', bicim: şătăk, dil: chv, kaynak: savelyev-turkic, yazi: шӑтӑк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine teşik (teşik)

@@ -14,8 +14,9 @@ taniklar:
     bicim: sod
     kaynak: savelyev-turkic
     atif: clauson1972
-  - {dil: otk, yuzyil: 8-14, bicim: sod, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT III 112 (Clauson, so:d-)'}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sod, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT II 295; III 439 (Clauson, so:d-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
+  - {dil: otk, yuzyil: 8-14, bicim: sod, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT III 112 (Clauson, so:d-)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: sod, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT II 295; III 439 (Clauson, so:d-)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
 
 yok:
   sty-baraba: yerine tökür (tükür)

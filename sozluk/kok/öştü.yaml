@@ -8,9 +8,9 @@ etimoloji: Clauson'a göre DLT öşün 'omuz başı'; Şorca öştü onun iyelik
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: kurpesko-tannagaseva1993, bicim: öştü, dil: cjs, kaynak: savelyev-turkic}
-  - {atif: 'rassadin1971, rassadin2005', bicim: öhün, dil: kim, kaynak: savelyev-turkic}
-  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: öşün, anlam: omuz başı, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 99 (Clauson, üşün)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Clauson'a göre Şorca öştü bu kelimenin iyelikli biçimi.}
+  - {atif: kurpesko-tannagaseva1993, bicim: öştü, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'rassadin1971, rassadin2005', bicim: öhün, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: öşün, anlam: omuz başı, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 99 (Clauson, üşün)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), not: Clauson'a göre Şorca öştü bu kelimenin iyelikli biçimi., denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
 
 yok:
   alt: yerine iyin (egin)

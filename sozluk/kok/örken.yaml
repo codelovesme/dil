@@ -17,6 +17,7 @@ taniklar:
     bicim: örken
     kaynak: savelyev-turkic
     atif: noauthor1880
+    denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
 
 yok:
   sty-baraba: yerine yip (yip)

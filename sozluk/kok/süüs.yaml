@@ -8,8 +8,8 @@ etimoloji: Sahaca süüs, Dolganca hüüs; kökeni bu çalışmada araştırılm
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: hüüs, dil: dlg, kaynak: savelyev-turkic}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: süüs, dil: sah, kaynak: savelyev-turkic, yazi: сүүс}
+  - {atif: 'aksenova1992, stachowski1993', bicim: hüüs, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: süüs, dil: sah, kaynak: savelyev-turkic, yazi: сүүс, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine alın (alın)

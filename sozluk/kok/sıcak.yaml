@@ -9,9 +9,9 @@ etimoloji: sıcak; Türkiye Türkçesi, Gagavuzca ve Kırım Tatarcasında asıl
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: sıcak, dil: crh, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sıcak, dil: gag, kaynak: savelyev-turkic}
-  - {atif: 'baskakov1977, iz1992', bicim: sıcak, dil: tur, kaynak: savelyev-turkic}
+  - {atif: useinov2007, bicim: sıcak, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1973, radova-karanastas2016', bicim: sıcak, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992', bicim: sıcak, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine isü (isig)

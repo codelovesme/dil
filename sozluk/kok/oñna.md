@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -24,42 +24,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Kuzey Altayca |  | **oñna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| | Baraba ağzı | | — | | | | kök yok: yerine pil (bil) |
-| | Güney Altayca | | — | | | | kök yok: yerine bil (bil) |
-| | Azerbaycan Türkçesi | | — | | | | kök yok: yerine bil (bil) |
-| | Başkurtça | | — | | | | kök yok: yerine bel (bil) |
-| | Çuvaşça | | — | | | | kök yok: yerine pĕl (bil) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine bil (bil) |
-| | Dolganca | | — | | | | kök yok: yerine bil (bil) |
-| | Gagavuzca | | — | | | | kök yok: yerine bil (bil) |
-| | Karakalpakça | | — | | | | kök yok: yerine bil (bil) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine bil (bil) |
-| | Karayca | | — | | | | kök yok: yerine bil (bil) |
-| | Kazakça | | — | | | | kök yok: yerine bĭl (bil) |
-| | Hakasça | | — | | | | kök yok: yerine pil (bil) |
-| | Halaçça | | — | | | | kök yok: yerine bil (bil) |
-| | Kırgızca | | — | | | | kök yok: yerine bil (bil) |
-| | Kumukça | | — | | | | kök yok: yerine bil (bil) |
-| | Çulımca | | — | | | | kök yok: yerine pil (bil) |
-| | Nogayca | | — | | | | kök yok: yerine bil (bil) |
-| | Salarca | | — | | | | kök yok: yerine bel (bil) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine pil (bil) |
-| | Şorca | | — | | | | kök yok: yerine pil (bil) |
-| | Tatarca | | — | | | | kök yok: yerine bel (bil) |
-| | Tofaca | | — | | | | kök yok: yerine bil (bil) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine bil (bil) |
-| | Türkmence | | — | | | | kök yok: yerine bil (bil) |
-| | Tuvaca | | — | | | | kök yok: yerine bil (bil) |
-| | Uygurca | | — | | | | kök yok: yerine bil (bil) |
-| | Özbekçe | | — | | | | kök yok: yerine bil (bil) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine bil (bil) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Sibirya kolu | Kuzey Altayca |  | **oñna** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| | Baraba ağzı | | — | | | | | kök yok: yerine pil (bil) |
+| | Güney Altayca | | — | | | | | kök yok: yerine bil (bil) |
+| | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine bil (bil) |
+| | Başkurtça | | — | | | | | kök yok: yerine bel (bil) |
+| | Çuvaşça | | — | | | | | kök yok: yerine pĕl (bil) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine bil (bil) |
+| | Dolganca | | — | | | | | kök yok: yerine bil (bil) |
+| | Gagavuzca | | — | | | | | kök yok: yerine bil (bil) |
+| | Karakalpakça | | — | | | | | kök yok: yerine bil (bil) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine bil (bil) |
+| | Karayca | | — | | | | | kök yok: yerine bil (bil) |
+| | Kazakça | | — | | | | | kök yok: yerine bĭl (bil) |
+| | Hakasça | | — | | | | | kök yok: yerine pil (bil) |
+| | Halaçça | | — | | | | | kök yok: yerine bil (bil) |
+| | Kırgızca | | — | | | | | kök yok: yerine bil (bil) |
+| | Kumukça | | — | | | | | kök yok: yerine bil (bil) |
+| | Çulımca | | — | | | | | kök yok: yerine pil (bil) |
+| | Nogayca | | — | | | | | kök yok: yerine bil (bil) |
+| | Salarca | | — | | | | | kök yok: yerine bel (bil) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine pil (bil) |
+| | Şorca | | — | | | | | kök yok: yerine pil (bil) |
+| | Tatarca | | — | | | | | kök yok: yerine bel (bil) |
+| | Tofaca | | — | | | | | kök yok: yerine bil (bil) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine bil (bil) |
+| | Türkmence | | — | | | | | kök yok: yerine bil (bil) |
+| | Tuvaca | | — | | | | | kök yok: yerine bil (bil) |
+| | Uygurca | | — | | | | | kök yok: yerine bil (bil) |
+| | Özbekçe | | — | | | | | kök yok: yerine bil (bil) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine bil (bil) |
 
 ## Kaynakça
 

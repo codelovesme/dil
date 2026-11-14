@@ -8,7 +8,7 @@ etimoloji: Çuvaşça sivĕ; soğık ile denkliği bu çalışmada kurulamadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: sivĕ, dil: chv, kaynak: savelyev-turkic, yazi: сивӗ}
+  - {atif: 'asmarin1928, savelyev2011', bicim: sivĕ, dil: chv, kaynak: savelyev-turkic, yazi: сивӗ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine sook (soğık)

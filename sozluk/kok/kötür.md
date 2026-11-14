@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 1 · yabancı kayıt 0 · denetim ◐1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,42 +25,42 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
+**Denetim** (ILKELER §12): ✓ doğrulandı (biçim en az iki bağımsız kaynakta, anlam en az birinde) · ◑ kısmen (yalnız biçim ya da dolaylı kanıt) · ◐ tek kaynak · ✗ çelişki (kaynaklar çelişiyor, çözülmedi) · ⚠ doğrulanmadı (yapay zekânın kendi bilgisinden yazıldı, `kaynak: bilgi`; kanıt sayılmaz).
 
 ## Yaşayan diller ve ağızlar
 
-| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
-|---|---|---|---|---|---|---|---|
-| Oğuz kolu | Azerbaycan Türkçesi |  | **götür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Savelyev 'take' için götür veriyor; al- da kullanılır. |
-| | Baraba ağzı | | — | | | | kök yok: yerine al (al) |
-| | Kuzey Altayca | | — | | | | kök yok: yerine al (al) |
-| | Güney Altayca | | — | | | | kök yok: yerine al (al) |
-| | Başkurtça | | — | | | | kök yok: yerine al (al) |
-| | Çuvaşça | | — | | | | kök yok: yerine il (al) |
-| | Kırım Tatarcası | | — | | | | kök yok: yerine al (al) |
-| | Dolganca | | — | | | | kök yok: yerine ıl (al) |
-| | Gagavuzca | | — | | | | kök yok: yerine al (al) |
-| | Karakalpakça | | — | | | | kök yok: yerine al (al) |
-| | Karaçay-Malkarca | | — | | | | kök yok: yerine al (al) |
-| | Karayca | | — | | | | kök yok: yerine al (al) |
-| | Kazakça | | — | | | | kök yok: yerine al (al) |
-| | Hakasça | | — | | | | kök yok: yerine al (al) |
-| | Halaçça | | — | | | | kök yok: yerine al (al) |
-| | Kırgızca | | — | | | | kök yok: yerine al (al) |
-| | Kumukça | | — | | | | kök yok: yerine al (al) |
-| | Çulımca | | — | | | | kök yok: yerine al (al) |
-| | Nogayca | | — | | | | kök yok: yerine al (al) |
-| | Salarca | | — | | | | kök yok: yerine al (al) |
-| | Sarı Uygurca | | — | | | | kök yok: yerine al (al) |
-| | Şorca | | — | | | | kök yok: yerine al (al) |
-| | Tatarca | | — | | | | kök yok: yerine al (al) |
-| | Tofaca | | — | | | | kök yok: yerine al (al) |
-| | Türkiye Türkçesi | | — | | | | kök yok: yerine al (al) |
-| | Türkmence | | — | | | | kök yok: yerine al (al) |
-| | Tuvaca | | — | | | | kök yok: yerine al (al) |
-| | Uygurca | | — | | | | kök yok: yerine al (al) |
-| | Özbekçe | | — | | | | kök yok: yerine ol (al) |
-| | Sahaca (Yakutça) | | — | | | | kök yok: yerine ıl (al) |
+| Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
+|---|---|---|---|---|---|---|---|---|
+| Oğuz kolu | Azerbaycan Türkçesi |  | **götür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak | Savelyev 'take' için götür veriyor; al- da kullanılır. |
+| | Baraba ağzı | | — | | | | | kök yok: yerine al (al) |
+| | Kuzey Altayca | | — | | | | | kök yok: yerine al (al) |
+| | Güney Altayca | | — | | | | | kök yok: yerine al (al) |
+| | Başkurtça | | — | | | | | kök yok: yerine al (al) |
+| | Çuvaşça | | — | | | | | kök yok: yerine il (al) |
+| | Kırım Tatarcası | | — | | | | | kök yok: yerine al (al) |
+| | Dolganca | | — | | | | | kök yok: yerine ıl (al) |
+| | Gagavuzca | | — | | | | | kök yok: yerine al (al) |
+| | Karakalpakça | | — | | | | | kök yok: yerine al (al) |
+| | Karaçay-Malkarca | | — | | | | | kök yok: yerine al (al) |
+| | Karayca | | — | | | | | kök yok: yerine al (al) |
+| | Kazakça | | — | | | | | kök yok: yerine al (al) |
+| | Hakasça | | — | | | | | kök yok: yerine al (al) |
+| | Halaçça | | — | | | | | kök yok: yerine al (al) |
+| | Kırgızca | | — | | | | | kök yok: yerine al (al) |
+| | Kumukça | | — | | | | | kök yok: yerine al (al) |
+| | Çulımca | | — | | | | | kök yok: yerine al (al) |
+| | Nogayca | | — | | | | | kök yok: yerine al (al) |
+| | Salarca | | — | | | | | kök yok: yerine al (al) |
+| | Sarı Uygurca | | — | | | | | kök yok: yerine al (al) |
+| | Şorca | | — | | | | | kök yok: yerine al (al) |
+| | Tatarca | | — | | | | | kök yok: yerine al (al) |
+| | Tofaca | | — | | | | | kök yok: yerine al (al) |
+| | Türkiye Türkçesi | | — | | | | | kök yok: yerine al (al) |
+| | Türkmence | | — | | | | | kök yok: yerine al (al) |
+| | Tuvaca | | — | | | | | kök yok: yerine al (al) |
+| | Uygurca | | — | | | | | kök yok: yerine al (al) |
+| | Özbekçe | | — | | | | | kök yok: yerine ol (al) |
+| | Sahaca (Yakutça) | | — | | | | | kök yok: yerine ıl (al) |
 
 ## Kaynakça
 
