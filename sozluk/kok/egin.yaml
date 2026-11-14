@@ -32,13 +32,13 @@ taniklar:
     yazi: اگین
     denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
   - {atif: baskakov1974, bicim: iin, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1958, baskakov1967', bicim: iyin, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: iyin, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: iyin, dil: kaz, kaynak: savelyev-turkic, yazi: иық, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'judakhin1985, judakhin1957', bicim: iyin, dil: kir, kaynak: savelyev-turkic, yazi: ийин, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: iyin, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: iyin, dil: kir, kaynak: savelyev-turkic; apertium, yazi: ийин, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var', bicim: iyin, dil: nog, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'malov1957, tenisev1966', bicim: igen, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: baskakov1947, bicim: iyin, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1968, khamzajev1968', bicim: egin, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968; Tatoeba''da 3 kez', bicim: egin, dil: tuk, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: egin, dil: tyv, kaynak: savelyev-turkic, yazi: эгин, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {dil: otk, yuzyil: 8-14, bicim: egin, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT V 4, 24; U IV 8 (Clauson, egin)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: egin, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 78, 110 (Clauson, egin)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}

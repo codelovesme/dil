@@ -8,7 +8,7 @@ etimoloji: Çuvaşça aça; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: aça, dil: chv, kaynak: savelyev-turkic, yazi: ача, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 12 kez', bicim: aça, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: ача, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine pala (bala)

@@ -426,7 +426,7 @@ def dizin_md(maddeler: list[Madde], b: Baglam) -> str:
 
 # Biçimin dilde var olduğunu gösterir ama o kavram anlamında kullanıldığını göstermez
 YALNIZ_BICIM = {"tatoeba"}
-YALNIZ_BICIM_KELIME = {"apertium"}          # kelimede yalnız sözlükte var mı; ekte etiketli olduğu için anlamı da gösterir
+YALNIZ_BICIM_KELIME = {"apertium", "universal-dependencies"}  # kelimede yalnız sözlükte/derlemde var mı; ekte etiketli olduğu için anlamı da gösterir
 # Clauson'un aktardığı eserler: biz onları Clauson'dan okuduk, bağımsız sayılmaz
 CLAUSON_ARACILI = {"dlt", "houtsma-leiden", "kitab-idrak", "ibn-muhenna", "najip-xiv"}
 
@@ -435,6 +435,11 @@ def denetim_cikar(t: dict, ek: bool) -> dict:
     """Tanığın var olan alanlarından denetim durumunu çıkarır (kurallar: ILKELER §12)."""
     kay = [k for k in kaynak_listesi(t.get("kaynak")) if k != "bilgi"]
     not_ = " ".join(str(t.get("not") or "").split())
+    if re.search(r"çözülmedi", not_, re.I):      # notta açık bırakılmış çelişki her koşulda çelişkidir
+        d = {"durum": "celiski"}
+        if kay:
+            d["bicim"] = kay
+        return d
     if not kay:
         durum = "celiski" if re.search(r"çeliş|çözülmedi", not_, re.I) else "dogrulanmadi"
         return {"durum": durum}

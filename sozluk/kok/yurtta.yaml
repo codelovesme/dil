@@ -11,7 +11,7 @@ kaynak: savelyev-turkic
 taniklar:
   - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: çurta, dil: kjh, kaynak: savelyev-turkic, yazi: чурта-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: savelyev2015, bicim: çurta, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çurtta, dil: tyv, kaynak: savelyev-turkic, yazi: чуртта-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: çurtta, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: чуртта-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yeşä (yaşa)

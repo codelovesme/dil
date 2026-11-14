@@ -8,7 +8,7 @@ etimoloji: Türkmence; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1968, khamzajev1968', bicim: bök, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968; Tatoeba''da 1 kez', bicim: bök, dil: tuk, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine säkir (sekir)

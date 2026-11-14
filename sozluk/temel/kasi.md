@@ -22,10 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kaşı](../kok/kaşı.md) | türkçe | 0.51 (*kaşı*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~185 milyon (%95, *kaşı*) | *kašï- |
+| [kaşı](../kok/kaşı.md) | türkçe | 0.52 (*kaşı*) | Başkurtça %0 | Ana Türkçe (2 hat) | ~185 milyon (%95, *kaşı*) | *kašï- |
 | [tırma](../kok/tırma.md) | türkçe | -0.11 (*tırba*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~76 milyon (%39, *tırna*) |  |
 
-**Büyük topluluklarda *kaşı* biçiminin anlaşılırlığı:** Başkurtça %0, Sahaca %0, Çuvaşça %59, Uygurca %82, Türkmence %84, Kazakça %84, Tatarca %91, Azerbaycan Türkçesi %94, Kumukça %94, Karakalpakça %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100.
+**Büyük topluluklarda *kaşı* biçiminin anlaşılırlığı:** Başkurtça %0, Sahaca %0, Çuvaşça %72, Uygurca %82, Türkmence %84, Kazakça %84, Tatarca %91, Azerbaycan Türkçesi %94, Kumukça %94, Karakalpakça %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -34,9 +34,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
 | **Türk dilleri** | kaşı | kaşı | kaşı |  |
-| &nbsp;&nbsp;**Oğur kolu** | xıś | xıś | xıś |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | xıś | xıś | xıś | xıś |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xıś | xıś | xıś | xıś |
+| &nbsp;&nbsp;**Oğur kolu** | xış | xış | xış |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | xış | xış | xış | xış |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | xış | xış | xış | xış |
 | &nbsp;&nbsp;**Ortak Türkçe** | kaşı | kaşı | kaşı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | kaşu | kaşu | kaşu |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | kaşu | kaşu | kaşu | kaşu |
@@ -129,7 +129,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Kol | Dil | Ağız | kaşı | tırma |
 |---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | xıś |  |
+| Oğur kolu | Çuvaşça |  | xış |  |
 | Halaç kolu | Halaçça |  | kaşu |  |
 | Oğuz kolu | Türkiye Türkçesi |  | kaşı |  |
 | Oğuz kolu | Gagavuzca |  | kaşı |  |

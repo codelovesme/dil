@@ -8,9 +8,9 @@ etimoloji: çuñ/çuñkur 'derin, çukur'; Türkmen, Uygur ve Özbek dillerinde 
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1968, khamzajev1968', bicim: çuñ, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: nadzip1968, bicim: çoñkur, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: çukur, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1968, khamzajev1968; Apertium tuk sözlüğünde var', bicim: çuñ, dil: tuk, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 3 kez; UD derleminde baş biçim, bicim: çoñkur, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; UD derleminde baş biçim', bicim: çukur, dil: uzb, kaynak: savelyev-turkic; apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine täräñ (teriñ)

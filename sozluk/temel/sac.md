@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [saç](../kok/saç.md) | türkçe | 1.02 (*saç*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~184 milyon (%95, *saç*) | *sāč |
+| [saç](../kok/saç.md) | türkçe | 1.03 (*saç*) | Tuvaca %0 | Ana Türkçe (2 hat) | ~184 milyon (%95, *saç*) | *sāč |
 | [dük](../kok/dük.md) | türkçe | -0.42 (*dük*) | Çuvaşça %0 | Tuvaca (1 hat) | ~42 milyon (%22, *dük*) | *tük |
 
 **Büyük topluluklarda *saç* biçiminin anlaşılırlığı:** Tuvaca %0, Çuvaşça %71, Sahaca %75, Tatarca %83, Başkurtça %83, Kazakça %83, Karakalpakça %83, Sibirya Tatarcası %83, Özbekçe %88, Kumukça %92, Uygurca %92, Karaçay-Malkarca %92, Kırgızca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100.
@@ -38,8 +38,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | şüş | şüş | şüş | şüş |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | şüş | şüş | şüş | şüş |
 | &nbsp;&nbsp;**Ortak Türkçe** | saç | saç | saç |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | ? saç | ? saç | ? saç |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | ? saç | ? saç | ? saç | ? saç |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | saç | saç | saç |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | saç | saç | saç | saç |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | saç | saç | saç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | saç | saç | saç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | saç | saç | saç |  |
@@ -131,7 +131,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kol | Dil | Ağız | saç | dük |
 |---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  | şüş |  |
-| Halaç kolu | Halaçça |  | ? saç |  |
+| Halaç kolu | Halaçça |  | saç |  |
 | Oğuz kolu | Türkiye Türkçesi |  | saç |  |
 | Oğuz kolu | Gagavuzca |  | saç |  |
 | Oğuz kolu | Azerbaycan Türkçesi |  | saç |  |

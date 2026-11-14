@@ -17,31 +17,31 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: یگرمی
     denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
-  - {bicim: iyirmi, dil: aze, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yegerme, dil: bak, kaynak: wiktionary-ana-turkce, yazi: егерме, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: şirĕm, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫирӗм, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yigirmi, dil: crh, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: iyirmi, dil: aze, kaynak: wiktionary-ana-turkce; tatoeba, atif: Tatoeba'da 7 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yegerme, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: егерме, atif: Apertium bak sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: şirĕm, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ҫирӗм, atif: Apertium chv sözlüğünde var; Tatoeba'da 5 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yigirmi, dil: crh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium crh sözlüğünde var; Tatoeba'da 3 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: hüürbe, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һүүрбэ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yirmi, dil: gag, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: cıyırma, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джыйырма, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yirmi, dil: gag, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium gag sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: cıyırma, dil: krc, kaynak: wiktionary-ana-turkce; apertium, yazi: джыйырма, atif: Apertium krc sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yigirmi, dil: kdr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: jigirma, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: жигирма, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: jiırma, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жиырма, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jigirma, dil: kaa, kaynak: wiktionary-ana-turkce; apertium, yazi: жигирма, atif: Apertium kaa sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jiırma, dil: kaz, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: жиырма, atif: Apertium kaz sözlüğünde var; Tatoeba'da 7 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: çibirge, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чибірге, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yigirmi, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: jıyırma, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жыйырма, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yigirma, dil: kum, kaynak: wiktionary-ana-turkce, yazi: йигирма, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yırma, dil: nog, kaynak: wiktionary-ana-turkce, yazi: йырма, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jıyırma, dil: kir, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: жыйырма, atif: Apertium kir sözlüğünde var; Tatoeba'da 5 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yigirma, dil: kum, kaynak: wiktionary-ana-turkce; apertium, yazi: йигирма, atif: Apertium kum sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yırma, dil: nog, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: йырма, atif: Apertium nog sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: çigirbe, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чигирбе, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yiğirme, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: çegirbe, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чегирбе, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yegerme, dil: tat, kaynak: wiktionary-ana-turkce, yazi: егерме, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yirmi, dil: tur, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yegerme, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: егерме, atif: Apertium tat sözlüğünde var; Tatoeba'da 108 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yirmi, dil: tur, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tur sözlüğünde var; Tatoeba'da 504 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yigrimi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýigrimi, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: çeerbi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чээрби, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: uig, bicim: yigirmä, yazi: يىگىرمە, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 10 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yigirma, dil: uzb, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: süürbe, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүрбэ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çeerbi, dil: tyv, kaynak: wiktionary-ana-turkce; apertium, yazi: чээрби, atif: Apertium tyv sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: yigirmä, yazi: يىگىرمە, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 10 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yigirma, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium uzb sözlüğünde var; Tatoeba'da 3 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: süürbe, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: сүүрбэ, atif: Apertium sah sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yirmi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йирми, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: yegirmi, metin: Orhon yazıtları, kaynak: clauson, atif: 'Clauson, yegirmi (Yenisey yazıtları: yeti yegirmi ''on yedi'')', not: 'Eski sayma: yeti yegirmi = ''yirminin yedisi'' = 17.', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 

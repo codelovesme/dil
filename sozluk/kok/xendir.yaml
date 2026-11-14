@@ -8,7 +8,7 @@ etimoloji: Tuvaca xendir 'kenevir ipi'; kendir 'kenevir' ile ilgili.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: xendir, dil: tyv, kaynak: savelyev-turkic, yazi: хендир, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: xendir, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: хендир, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yip (yip)

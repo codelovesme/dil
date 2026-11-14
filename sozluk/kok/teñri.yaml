@@ -13,9 +13,9 @@ taniklar:
   - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: tiger, dil: kjh, kaynak: savelyev-turkic, yazi: тигiр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'malov1957, tenisev1966', bicim: teñir, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: kurpesko-tannagaseva1993, bicim: tegri, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: baskakov1947, bicim: teñeri, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947; Tatoeba'da 5 kez, bicim: teñeri, dil: alt, kaynak: savelyev-turkic; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'rassadin1971, rassadin2005', bicim: deere, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: deer, dil: tyv, kaynak: savelyev-turkic, yazi: дээр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: deer, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: дээр, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine kök (kök)

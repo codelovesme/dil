@@ -9,16 +9,16 @@ etimoloji: öt- 'geçmek' + -kür 'geçen, kesen'. Kıpçak, Karluk, Kırgız ve
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: ütker, dil: bak, kaynak: savelyev-turkic, yazi: үткер, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1958, baskakov1967', bicim: ötkir, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: ötkir, dil: kaz, kaynak: savelyev-turkic, yazi: өткiр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'judakhin1985, judakhin1957', bicim: ötkür, dil: kir, kaynak: savelyev-turkic, yazi: өткүр, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: ötkir, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: ütker, dil: bak, kaynak: savelyev-turkic; apertium, yazi: үткер, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: ötkir, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 3 kez', bicim: ötkir, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba, yazi: өткiр, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: ötkür, dil: kir, kaynak: savelyev-turkic; apertium, yazi: өткүр, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var', bicim: ötkir, dil: nog, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: baskakov1985, bicim: ötkür, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: baskakov1947, bicim: ötkür, dil: alt, kaynak: savelyev-turkic, not: ödür de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: ütken, dil: tat, kaynak: savelyev-turkic, yazi: үткен, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: nadzip1968, bicim: ötkür, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: ötkir, dil: uzb, kaynak: savelyev-turkic, yazi: o'tkir, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: baskakov1947; Apertium alt sözlüğünde var, bicim: ötkür, dil: alt, kaynak: savelyev-turkic; apertium, not: ödür de., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 23 kez', bicim: ütken, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba, yazi: үткен, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: nadzip1968; Apertium uig sözlüğünde var; Tatoeba'da 2 kez; UD derleminde baş biçim, bicim: ötkür, dil: uig, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; UD derleminde baş biçim', bicim: ötkir, dil: uzb, kaynak: savelyev-turkic; apertium; universal-dependencies, yazi: o'tkir, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine iti (yitig)

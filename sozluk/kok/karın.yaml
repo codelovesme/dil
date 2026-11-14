@@ -35,14 +35,14 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: قارن
     denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ġarın, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'asmarin1928, savelyev2011', bicim: xırăm, dil: chv, kaynak: savelyev-turkic, yazi: хырӑм, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {dil: aze, bicim: garın, kaynak: savelyev-turkic; asjp, atif: 'gusejnov1941, sirliyev1951, tagiyev2006; ASJP AZERBAIJANI: gorun', not: Yazım düzeltildi (ġarın → garın)., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: xırăm, dil: chv, kaynak: savelyev-turkic; apertium, yazi: хырӑм, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: karnı, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'tenisev1989, sujuncev1965', bicim: karın, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: doerfer1980, bicim: karın, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: savelyev2015, bicim: kaarın, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1977, iz1992', bicim: karın, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: korin, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 119 kez; UD derleminde baş biçim; ASJP TURKISH: karın', bicim: karın, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var', bicim: korin, dil: uzb, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine eç (iç-ad)

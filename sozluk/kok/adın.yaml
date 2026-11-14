@@ -17,7 +17,7 @@ taniklar:
     atif: clauson1972
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
   - {atif: 'aksenova1992, stachowski1993', bicim: atın, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: atın, dil: sah, kaynak: savelyev-turkic, yazi: атын, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 2 kez; UD derleminde baş biçim', bicim: atın, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: атын, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine paşka (başka)

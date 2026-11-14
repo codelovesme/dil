@@ -40,7 +40,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | sümük | süñük | sümük |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | sümük ↑ | süñük ↑ | sümük ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | sümük ↑ | süñük ↑ | sümük ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | sümük | süŋük | *kemik* (kemik) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | sümük | süñük | *kemik* (kemik) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *kemik* (kemik) | *kemik* (kemik) | kemik |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | kemik | kemik | kemik |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kemik | kemik | kemik | kemik |
@@ -52,8 +52,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | sümük | sümük | sümük | sümük |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sümük | sümük | sümük | sümük |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | sümük ↑ | sümük ↑ | sümük ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | sümük ↑ | süŋük ↑ | kemik ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | sümük ↑ | süŋük ↑ | kemik ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | sümük ↑ | süñük ↑ | kemik ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | sümük ↑ | süñük ↑ | kemik ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | süñk | süñk | *süñk* (süñük) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | süñk | süñk | süñk | süñk |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | süñk | süñk | süñk | süñk |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | söök |  |
 | Sibirya kolu | Kuzey Altayca |  | söök |  |
 
-**Tarihî tanıklar:** Eski Türkçe *süñük*; Eski Anadolu Türkçesi *süŋük*.
+**Tarihî tanıklar:** Eski Türkçe *süñük*; Eski Anadolu Türkçesi *süñük*.
 

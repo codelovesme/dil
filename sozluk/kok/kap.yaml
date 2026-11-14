@@ -8,11 +8,11 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'tenisev1989, sujuncev1965', bicim: kap, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: xap, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: xap, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: savelyev2015, bicim: kap, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: 'örtmek (kapla-, kapat-)', atif: useinov2007, bicim: kapat, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: 'örtmek (kapla-, kapat-)', atif: 'baskakov1977, iz1992', bicim: kapla, dil: tur, kaynak: savelyev-turkic, not: Savelyev soru işaretiyle; günlük dilde ört- de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: 'örtmek (kapla-, kapat-)', atif: nadzip1968, bicim: kapla, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {anlam: 'örtmek (kapla-, kapat-)', atif: useinov2007; Apertium crh sözlüğünde var, bicim: kapat, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {anlam: 'örtmek (kapla-, kapat-)', atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; UD derleminde baş biçim', bicim: kapla, dil: tur, kaynak: savelyev-turkic; apertium; universal-dependencies, not: Savelyev soru işaretiyle; günlük dilde ört- de., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {anlam: 'örtmek (kapla-, kapat-)', atif: nadzip1968; Apertium uig sözlüğünde var, bicim: kapla, dil: uig, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   dlg: yerine ıtır (ısır)

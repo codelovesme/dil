@@ -67,18 +67,18 @@ taniklar:
     metin: Çağatay edebî dili; Senglâh
     kaynak: clauson; senglah
     denetim: {durum: dogrulandi, bicim: [clauson, senglah], anlam: [clauson, senglah]}
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: necä, dil: aze, kaynak: savelyev-turkic, not: Savelyev'e göre 'nasıl'; günlük dilde necə., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'uraksin1996, uraksin2005', bicim: nisek, dil: bak, kaynak: savelyev-turkic, yazi: нисек, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'tenisev1989, sujuncev1965', bicim: kalay, dil: krc, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var; Tatoeba''da 71 kez', bicim: necä, dil: aze, kaynak: savelyev-turkic; apertium; tatoeba, not: Savelyev'e göre 'nasıl'; günlük dilde necə., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; Tatoeba''da 10 kez', bicim: nisek, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba, yazi: нисек, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var; Tatoeba''da 3 kez', bicim: kalay, dil: krc, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: baskakov1974, bicim: neçik, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1958, baskakov1967', bicim: kalay, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: kalay, dil: kaz, kaynak: savelyev-turkic, yazi: қалай, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: neçik, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007', bicim: kalay, dil: nog, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var; Tatoeba''da 1 kez', bicim: kalay, dil: kaa, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 29 kez; UD derleminde baş biçim', bicim: kalay, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: қалай, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var', bicim: neçik, dil: kum, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var; Tatoeba''da 1 kez', bicim: kalay, dil: nog, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: tenisev1976, bicim: neçux, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: niçek, dil: tat, kaynak: savelyev-turkic, yazi: ничек, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Apertium tat sözlüğünde var; Tatoeba''da 1312 kez; UD derleminde baş biçim', bicim: niçek, dil: tat, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: ничек, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: nadzip1968, bicim: neçuk, dil: uig, kaynak: savelyev-turkic, not: Asıl biçim kandak (kanday kökü); neçuk ikincil., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: kanday, dil: uzb, kaynak: savelyev-turkic, not: Ayrıca kalay., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 15 kez; UD derleminde baş biçim', bicim: kanday, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, not: Ayrıca kalay., denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: dmitrijeva1981, bicim: näçik, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:

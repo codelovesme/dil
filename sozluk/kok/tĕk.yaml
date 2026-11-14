@@ -8,7 +8,7 @@ etimoloji: Çuvaşça tĕk-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: tĕk, dil: chv, kaynak: savelyev-turkic, yazi: тӗк-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: tĕk, dil: chv, kaynak: savelyev-turkic; apertium, yazi: тӗк-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine it (it)

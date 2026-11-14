@@ -54,6 +54,7 @@ araclar/puanla.py   puanlama ve ağaç üzerinde seçim
 araclar/ceviri_veri.py  Hedef 5: Tatoeba'dan ölçüm seti seçer (ceviri/olcu/)
 araclar/ceviri_olc.py   Hedef 5: chrF ölçümü; --kopya ile çevirisiz taban çizgisi
 araclar/yazim.py    yazıları çalışma yazımına aktarır (Kiril, Latin, Uygur)
+araclar/capraz_dogrula.py  tanıkları Apertium, Tatoeba, UD ve ASJP ile çapraz doğrular (inceleme listesi: sozluk/CAPRAZ.md)
 araclar/orgu.py     örgüyü veriden ölçer, ag.yaml'daki boşlukları doldurur (gözden geçirmelerde)
 araclar/yayinla.py  bütün okunur çıktılar: kavram ve kök sayfaları, dizinler, cikti/site.json
 araclar/site.py     statik site (GitHub Pages; .github/workflows/site.yml)

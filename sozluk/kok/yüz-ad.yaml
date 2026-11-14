@@ -9,7 +9,7 @@ etimoloji: yüz 'surat'; Özbekçede 'yanak' için de.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yuz, dil: uzb, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'awde2002, kary-nijazov1941, koscanov1983; Apertium uzb sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: yuz, dil: uzb, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine yañak (yañak)

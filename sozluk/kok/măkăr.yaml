@@ -8,7 +8,7 @@ etimoloji: Çuvaşça măkăr-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: măkăr, dil: chv, kaynak: savelyev-turkic, yazi: макӑр-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: măkăr, dil: chv, kaynak: savelyev-turkic; apertium, yazi: макӑр-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine ıla (ığla)

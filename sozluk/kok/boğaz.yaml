@@ -10,16 +10,16 @@ etimoloji: Ana Türkçe *bogaz 'boğaz'. Oğuz dillerinde ve Halaççada; Sarı 
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: boğaz, dil: aze, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: useinov2007, bicim: boğaz, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006; Apertium aze sözlüğünde var', bicim: boğaz, dil: aze, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: useinov2007; Apertium crh sözlüğünde var, bicim: boğaz, dil: crh, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: buaz, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: doerfer1980, bicim: boğız, dil: klj, kaynak: savelyev-turkic, not: boğaz de., denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: tenisev1976, bicim: poğtax, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'malov1957, tenisev1966', bicim: poğıs, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'rassadin1971, rassadin2005', bicim: boos, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1977, iz1992', bicim: boğaz, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 23 kez; UD derleminde baş biçim', bicim: boğaz, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1968, khamzajev1968', bicim: boğaz, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: boostaa, dil: tyv, kaynak: savelyev-turkic, yazi: боостаа, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: boostaa, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: боостаа, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: boğuz, metin: Tonyukuk yazıtı, kaynak: clauson, atif: 'T 8 (Clauson, boğuz)', not: boğzı tok erti 'boğazları toktu'., denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: otk, yuzyil: 8-14, bicim: boğuz, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'TT V 26; H I 187 (Clauson, boğuz)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: boğuz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 364 (Clauson, boğuz)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}

@@ -10,10 +10,10 @@ etimoloji: Ana Türkçe *uk- 'anlamak, işitmek'; Kırgız, Altay ve Şor diller
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'judakhin1985, judakhin1957', bicim: uk, dil: kir, kaynak: savelyev-turkic, yazi: ук-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: baskakov1985, bicim: uk, dil: atv, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: kurpesko-tannagaseva1993, bicim: uk, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: baskakov1947, bicim: uk, dil: alt, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; UD derleminde baş biçim; ASJP KYRGYZ: ugu', bicim: uk, dil: kir, kaynak: savelyev-turkic; apertium; universal-dependencies; asjp, yazi: ук-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1985; ASJP NORTH_ALTAI: uk', bicim: uk, dil: atv, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'kurpesko-tannagaseva1993; ASJP SHOR: uğorğo', bicim: uk, dil: cjs, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: baskakov1947; Apertium alt sözlüğünde var; Tatoeba'da 1 kez, bicim: uk, dil: alt, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine işit (eşit)

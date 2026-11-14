@@ -8,7 +8,7 @@ etimoloji: Çuvaşça yun; kan ile denkliği kurulamadı, ayrı tutuldu.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: yun, dil: chv, kaynak: savelyev-turkic, yazi: юн, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 4 kez; ASJP CHUVASH: yun', bicim: yun, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: юн, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine kan (kan)

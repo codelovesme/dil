@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [kim](../kok/kim.md) | türkçe | 1.15 (*kim*) | Kazakça %83 | Ana Türkçe (2 hat) | ~191 milyon (%99, *kim*) | *kem |
+| [kim](../kok/kim.md) | türkçe | 1.15 (*kim*) | Çuvaşça %88 | Ana Türkçe (2 hat) | ~193 milyon (%99, *kim*) | *kem |
 
-**Büyük topluluklarda *kim* biçiminin anlaşılırlığı:** Kazakça %83, Çuvaşça %88, Tatarca %88, Başkurtça %88, Tuvaca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100.
+**Büyük topluluklarda *kim* biçiminin anlaşılırlığı:** Çuvaşça %88, Tatarca %88, Başkurtça %88, Tuvaca %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -92,9 +92,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kim | kim | kim | kim |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kim | kim | kim | kim |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kim | kim | kim | kim |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kim | kim | kĭm |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kĭm | kĭm | kĭm | kĭm |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kĭm | kĭm | kĭm | kĭm |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kim | kim | kim |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kim | kim | kim | kim |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kim | kim | kim | kim |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kim | kim | kim | kim |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kim | kim | kim | kim |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kim | kim | kim | kim |
@@ -167,7 +167,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | kim |
 | Kıpçak kolu | Kumukça |  | kim |
 | Kıpçak kolu | Karaçay-Malkarca |  | kim |
-| Kıpçak kolu | Kazakça |  | kĭm |
+| Kıpçak kolu | Kazakça |  | kim |
 | Kıpçak kolu | Karakalpakça |  | kim |
 | Kıpçak kolu | Nogayca |  | kim |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kim |

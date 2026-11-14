@@ -28,7 +28,7 @@
 | [hara](../kok/hara.md) | türkçe | -0.44 (*harada*) | Çuvaşça %0 | Azerbaycan Türkçesi (1 hat) | ~111 milyon (%57, *harada*) |  |
 | [ăşta](../kok/ăşta.md) | türkçe | -0.38 (*ăşta*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *ăşta*) |  |
 
-**Büyük topluluklarda *kayda* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Uygurca %0, Sahaca %0, Karakalpakça %86, Özbekçe %86, Başkurtça %90, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100, Tuvaca %100.
+**Büyük topluluklarda *kayda* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %0, Gagavuzca %0, Azerbaycan Türkçesi %0, Türkmence %0, Uygurca %0, Sahaca %0, Özbekçe %86, Başkurtça %90, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -88,8 +88,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kayda | kayda | kayda |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kayda | kayda | kayda | kayda |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kayda | kayda | kayda | kayda |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | ? kayda | ? kayda | ? kayda | ? kayda |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? kayda | ? kayda | ? kayda | ? kayda |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kayda | kayda | kayda | kayda |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kayda | kayda | kayda | kayda |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kajda | kajda | kajda | kajda |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kajda | kajda | kajda | kajda |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | kayda | kayda | kayda |  |
@@ -153,7 +153,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Kumukça |  | kayda | ne yerde (tercih 0.5) |  |  |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | kayda |  |  |  |  |
 | Kıpçak kolu | Kazakça |  | kayda |  |  |  |  |
-| Kıpçak kolu | Karakalpakça |  | ? kayda |  |  |  |  |
+| Kıpçak kolu | Karakalpakça |  | kayda |  |  |  |  |
 | Kıpçak kolu | Nogayca |  | kajda |  |  |  |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kayda |  |  |  |  |
 | Kıpçak kolu | Kırgızca |  | kayda |  |  |  |  |

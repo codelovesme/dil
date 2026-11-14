@@ -9,8 +9,8 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'baskakov1958, baskakov1967', bicim: şöp, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: şöp, dil: kaz, kaynak: savelyev-turkic, yazi: шөп, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'judakhin1985, judakhin1957', bicim: çöp, dil: kir, kaynak: savelyev-turkic, yazi: чөп, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: şöp, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: шөп, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var', bicim: çöp, dil: kir, kaynak: savelyev-turkic; apertium, yazi: чөп, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: tenisev1976, bicim: çöp, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:

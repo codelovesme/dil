@@ -9,7 +9,7 @@ etimoloji: Çuvaşçanın yakın işaret zamiri ku Ortak Türkçe bu ile denk de
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: ku, dil: chv, kaynak: savelyev-turkic, yazi: ку, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 82 kez; ASJP CHUVASH_2: ku', bicim: ku, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: ку, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine bu (bu)

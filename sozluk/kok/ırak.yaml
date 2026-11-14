@@ -33,15 +33,15 @@ taniklar:
   - {atif: baskakov1974, bicim: ırak, dil: kdr, kaynak: savelyev-turkic, not: 'irax, yır da.', denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: ırax, dil: kjh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: doerfer1980, bicim: hıraak, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'judakhin1985, judakhin1957', bicim: ıraak, dil: kir, kaynak: savelyev-turkic, yazi: ыраак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'judakhin1985, judakhin1957; Apertium kir sözlüğünde var; Tatoeba''da 4 kez', bicim: ıraak, dil: kir, kaynak: savelyev-turkic; apertium; tatoeba, yazi: ыраак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: 'adzijev1992, bammatov1960, bammatov1969', bicim: ırak, dil: kum, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: savelyev2015, bicim: ırak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: tenisev1976, bicim: ıraxar, dil: slr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: kurpesko-tannagaseva1993, bicim: ırak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: ırak, dil: tat, kaynak: savelyev-turkic, yazi: ерак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'rassadin1971, rassadin2005', bicim: ırak, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ırak, dil: tyv, kaynak: savelyev-turkic, yazi: ырак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ıraax, dil: sah, kaynak: savelyev-turkic, yazi: ыраах, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: ırak, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: ырак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim', bicim: ıraax, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: ыраах, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: dmitrijeva1981, bicim: ırak, dil: sty-baraba, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: ırak, metin: Tonyukuk yazıtı, kaynak: clauson, atif: 'T 5-6 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: otk, yuzyil: 8-14, bicim: ırak, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 38; U II 22 (Clauson, ırak)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}

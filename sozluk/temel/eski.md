@@ -22,11 +22,11 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [eski](../kok/eski.md) | türkçe | 0.71 (*eski*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~181 milyon (%93, *eski*) | *eski |
+| [eski](../kok/eski.md) | türkçe | 0.71 (*eski*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~182 milyon (%94, *eski*) | *eski |
 | [ergi](../kok/ergi.md) | türkçe | -0.19 (*erge*) | Çuvaşça %0 | Sibirya kolu (2 hat) | ~71 milyon (%37, *erke*) |  |
 | [kivĕ](../kok/kivĕ.md) | türkçe | -0.36 (*kivĕ*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *kivĕ*) |  |
 
-**Büyük topluluklarda *eski* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Tatarca %81, Başkurtça %81, Kazakça %88, Kumukça %94, Uygurca %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100.
+**Büyük topluluklarda *eski* biçiminin anlaşılırlığı:** Çuvaşça %0, Sahaca %0, Tuvaca %0, Tatarca %81, Başkurtça %81, Kumukça %94, Uygurca %94, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -79,9 +79,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | esgi | esgi | esgi | esgi |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | eski | eski | eski | eski |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eski | eski | eski | eski |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | eski | eski | eskĭ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | eskĭ | eskĭ | eskĭ | eskĭ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eskĭ | eskĭ | eskĭ | eskĭ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | eski | eski | eski |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | eski | eski | eski | eski |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eski | eski | eski | eski |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | eski | eski | eski | eski |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | eski | eski | eski | eski |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | eski | eski | eski | eski |
@@ -141,7 +141,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | eski |  |  |
 | Kıpçak kolu | Kumukça |  | esgi |  |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | eski |  |  |
-| Kıpçak kolu | Kazakça |  | eskĭ |  |  |
+| Kıpçak kolu | Kazakça |  | eski |  |  |
 | Kıpçak kolu | Karakalpakça |  | eski |  |  |
 | Kıpçak kolu | Nogayca |  | eski |  |  |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | eski |  |  |

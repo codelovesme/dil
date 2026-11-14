@@ -46,7 +46,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | erten | *erteñ* (erte) | yarın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | erten ↑ | erteñ ↑ | yarın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | erten ↑ | erteñ ↑ | yarın ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *yarın* (yarın) | *yarïn* (yarın) | yarın |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | *yarın* (yarın) | *yarın* (yarın) | yarın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | yarın | yarın | yarın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | yarın | yarın | yarın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | yarın | yarın | yarın | yarın |
@@ -58,8 +58,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | yarın ↑ | yarın ↑ | yarın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yarın ↑ | yarın ↑ | yarın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | yarın ↑ | yarın ↑ | yarın ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yarın ↑ | yarïn ↑ | yarın ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yarın ↑ | yarïn ↑ | yarın ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yarın ↑ | yarın ↑ | yarın ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yarın ↑ | yarın ↑ | yarın ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | *ertir* (erte) | *ertir* (erte) | *ertir* (erte) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ertir | ertir | ertir | ertir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ertir | ertir | ertir | ertir |
@@ -165,5 +165,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  |  |  | tañna |  |  |  |
 | Sibirya kolu | Kuzey Altayca |  |  |  | tañda |  |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *yarın*; Kuman-Kıpçakça *tañda*; Eski Anadolu Türkçesi *yarïn*.
+**Tarihî tanıklar:** Eski Türkçe *yarın*; Kuman-Kıpçakça *tañda*; Eski Anadolu Türkçesi *yarın*.
 

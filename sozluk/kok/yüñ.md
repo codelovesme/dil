@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 1 · yabancı kayıt 1 · denetim ◐4**
+**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 1/7 · tanık 4 (kaynaklı %100) · kaynak 2 · yabancı kayıt 1 · denetim ✓2 ◐2**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -43,8 +43,8 @@ Notlar:
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Denetim | Not |
 |---|---|---|---|---|---|---|---|---|
-| Sibirya kolu | Tuvaca |  | **çüg** | чүг |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
-| Sibirya kolu | Hakasça |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
+| Sibirya kolu | Tuvaca |  | **çüg** | чүг |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
+| Sibirya kolu | Hakasça |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | ✓ doğrulandı |  |
 | Sibirya kolu | Şorca |  | **çüg** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | ◐ tek kaynak |  |
 | | Kuzey Altayca | | — | | | | | kök yok: yerine tük (tük) |
 | | Azerbaycan Türkçesi | | — | | | | | kök yok: yerine tük (tük) |
@@ -66,3 +66,4 @@ Notlar:
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 4 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 2 tanık

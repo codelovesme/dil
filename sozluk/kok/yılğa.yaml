@@ -9,8 +9,8 @@ etimoloji: yılğa 'dere, ırmak'; Tatarca ve Başkurtçada 'ırmak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: yılğa, dil: bak, kaynak: savelyev-turkic, yazi: йылға, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'dmitrijev1955, osmanov1966', bicim: yılğa, dil: tat, kaynak: savelyev-turkic, yazi: елга, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var', bicim: yılğa, dil: bak, kaynak: savelyev-turkic; apertium, yazi: йылға, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'dmitrijev1955, osmanov1966; Tatoeba''da 41 kez', bicim: yılğa, dil: tat, kaynak: savelyev-turkic; tatoeba, yazi: елга, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine özen (özen)

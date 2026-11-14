@@ -17,33 +17,33 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: یوق
     denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
-  - {bicim: yox, dil: aze, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yuk, dil: bak, kaynak: wiktionary-ana-turkce, yazi: юҡ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: şuk, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫук, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yok, dil: crh, kaynak: wiktionary-ana-turkce, yazi: yoq, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yox, dil: aze, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium aze sözlüğünde var; Tatoeba'da 72 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yuk, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: юҡ, atif: Apertium bak sözlüğünde var; Tatoeba'da 9 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: şuk, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ҫук, atif: Apertium chv sözlüğünde var; Tatoeba'da 42 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yok, dil: crh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: yoq, atif: Apertium crh sözlüğünde var; Tatoeba'da 10 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: huok, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һуок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {dil: gag, bicim: yok, kaynak: apertium, atif: apertium-gag.gag.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium]}}
-  - {bicim: cok, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джокъ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: jok, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: joq, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: jok, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: жоқ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: çox, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: чох, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: cok, dil: krc, kaynak: wiktionary-ana-turkce; apertium, yazi: джокъ, atif: Apertium krc sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jok, dil: kaa, kaynak: wiktionary-ana-turkce; apertium, yazi: joq, atif: Apertium kaa sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jok, dil: kaz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: жоқ, atif: Apertium kaz sözlüğünde var; Tatoeba'da 125 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çox, dil: kjh, kaynak: wiktionary-ana-turkce; apertium, yazi: чох, atif: Apertium kjh sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yook, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: jok, dil: kir, kaynak: wiktionary-ana-turkce, yazi: жок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yok, dil: kum, kaynak: wiktionary-ana-turkce, yazi: ёкъ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yok, dil: nog, kaynak: wiktionary-ana-turkce, yazi: йок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: jok, dil: kir, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: жок, atif: Apertium kir sözlüğünde var; Tatoeba'da 23 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yok, dil: kum, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: ёкъ, atif: Apertium kum sözlüğünde var; Tatoeba'da 4 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yok, dil: nog, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: йок, atif: Apertium nog sözlüğünde var; Tatoeba'da 8 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: çok, dil: atv, kaynak: wiktionary-ana-turkce, yazi: чок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yox, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: cok, dil: ybe, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: çok, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: чок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yok, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: yuk, dil: tat, kaynak: wiktionary-ana-turkce, yazi: юк, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yok, dil: alt, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: јок, atif: Apertium alt sözlüğünde var; Tatoeba'da 40 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: yuk, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: юк, atif: Apertium tat sözlüğünde var; Tatoeba'da 1902 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {bicim: çok, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чоӄ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: tur, bicim: yok, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 8556 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba]}}
+  - {dil: tur, bicim: yok, kaynak: apertium; tatoeba; universal-dependencies, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 8556 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
   - {bicim: yook, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýōk, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: çok, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чок, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: uig, bicim: yok, yazi: يوق, kaynak: apertium; tatoeba, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 181 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba]}}
-  - {bicim: yök, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: yoʻq, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: suox, dil: sah, kaynak: wiktionary-ana-turkce, yazi: суох, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: çok, dil: tyv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: чок, atif: Apertium tyv sözlüğünde var; Tatoeba'da 4 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: yok, yazi: يوق, kaynak: apertium; tatoeba; universal-dependencies, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 181 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: kismen, bicim: [apertium, tatoeba, universal-dependencies]}}
+  - {bicim: yök, dil: uzb, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: yoʻq, atif: Apertium uzb sözlüğünde var; Tatoeba'da 25 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: suox, dil: sah, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: суох, atif: Apertium sah sözlüğünde var; Tatoeba'da 40 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {bicim: yox, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йох, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
 
 yok: {}

@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şırt-; Ana Türkçe *ïsïr- ile bağlantısı bu çalı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şırt, dil: chv, kaynak: savelyev-turkic, yazi: ҫырт-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; ASJP CHUVASH_2: şurt', bicim: şırt, dil: chv, kaynak: savelyev-turkic; apertium; asjp, yazi: ҫырт-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   dlg: yerine ıtır (ısır)

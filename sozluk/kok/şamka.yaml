@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şamka; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şamka, dil: chv, kaynak: savelyev-turkic, yazi: ҫамка, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: şamka, dil: chv, kaynak: savelyev-turkic; apertium, yazi: ҫамка, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine alın (alın)

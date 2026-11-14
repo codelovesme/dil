@@ -9,9 +9,9 @@ etimoloji: köpek; Türkiye Türkçesi, Gagavuzca ve Kırım Tatarcasında asıl
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: useinov2007, bicim: köpek, dil: crh, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1973, radova-karanastas2016', bicim: köpek, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1977, iz1992', bicim: köpek, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'useinov2007; Apertium crh sözlüğünde var; ASJP CRIMEAN_TURKISH: kopek', bicim: köpek, dil: crh, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1973, radova-karanastas2016; Apertium gag sözlüğünde var; Tatoeba''da 1 kez', bicim: köpek, dil: gag, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 1057 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: kepek', bicim: köpek, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine it (ıt)

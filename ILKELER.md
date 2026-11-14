@@ -486,6 +486,12 @@ Kurallar:
   `python3 araclar/sozluk.py --denetim-doldur` ile var olan alanlardan kurallarla
   doldurulur; tanık değişirse `--yeniden` ile yeniden hesaplanır. Ne zaman ve hangi
   komutla denetlendiği tutulmaz; yöntem bu bölümde yazılıdır.
+- **Çapraz doğrulama aracı.** `araclar/capraz_dogrula.py` yaşayan dil tanıklarını
+  Apertium sözlüklerinde, Tatoeba ve UD derlemlerinde (yalnız biçim) ve ASJP'de
+  (kavram ve kök) arar; bulunanı tanığın kaynak ve atıf alanına ekler. ASJP'de aynı
+  kavram için başka bir kelime görülen tanıklar [`sozluk/CAPRAZ.md`](sozluk/CAPRAZ.md)
+  inceleme listesine girer; araç onların durumunu değiştirmez. Notunda çözülmemiş
+  çelişki yazan tanığa hiçbir araç dokunmaz.
 - **Doğrulanmamış tanık silinmez, işaretlenir.** Hiçbir kaynakla doğrulanamayan
   biçim, yapay zekânın kendi bilgisinden (eğitim verisinden) gelir; nereden
   öğrenildiği gösterilemez. Böyle bir tanık `kaynak: bilgi` ile girilir ve notunda

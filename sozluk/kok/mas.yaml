@@ -7,12 +7,12 @@ etimoloji: Sahaca ve Dolganca mas; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: mas, dil: sah, kaynak: savelyev-turkic, yazi: мас, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: değnek, atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: odun, atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: odun, atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: mas, dil: sah, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: orman, atif: 'aksenova1992, stachowski1993', bicim: mas, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: mas', bicim: mas, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 2 kez; UD derleminde baş biçim; ASJP SAKHA: mas', bicim: mas, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, yazi: мас, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {anlam: değnek, atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: mas', bicim: mas, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {anlam: odun, atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: mas', bicim: mas, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {anlam: odun, atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 2 kez; UD derleminde baş biçim; ASJP SAKHA: mas', bicim: mas, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {anlam: orman, atif: 'aksenova1992, stachowski1993; ASJP DOLGAN: mas', bicim: mas, dil: dlg, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine ağac (ığaç)

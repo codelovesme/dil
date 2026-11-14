@@ -10,12 +10,12 @@ etimoloji: iş-/ış- 'şişmek'; Kazak, Karakalpak, Tuva, Tofa, Uygur dillerind
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1958, baskakov1967', bicim: is, dil: kaa, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954', bicim: is, dil: kaz, kaynak: savelyev-turkic, yazi: iс-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1958, baskakov1967; Apertium kaa sözlüğünde var', bicim: is, dil: kaa, kaynak: savelyev-turkic; apertium, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'bektaev1995, bekturov2001, sauranbaev1954; Apertium kaz sözlüğünde var; Tatoeba''da 20 kez; UD derleminde baş biçim', bicim: is, dil: kaz, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, yazi: iс-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'rassadin1971, rassadin2005', bicim: ış, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ış, dil: tyv, kaynak: savelyev-turkic, yazi: ыш-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: ış, dil: tyv, kaynak: savelyev-turkic; apertium, yazi: ыш-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
   - {atif: nadzip1968, bicim: işşä, dil: uig, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: is, dil: sah, kaynak: savelyev-turkic, yazi: иһий-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; UD derleminde baş biçim', bicim: is, dil: sah, kaynak: savelyev-turkic; apertium; universal-dependencies, yazi: иһий-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine şiş (şiş)

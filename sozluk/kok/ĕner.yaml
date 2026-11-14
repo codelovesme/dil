@@ -8,7 +8,7 @@ etimoloji: Çuvaşça ĕner; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: ĕner, dil: chv, kaynak: savelyev-turkic, yazi: ӗнер, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 6 kez', bicim: ĕner, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, yazi: ӗнер, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   aze: yerine dünän (tünegün)

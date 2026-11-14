@@ -8,7 +8,7 @@ etimoloji: Türkiye Türkçesi çocuk; kökeni bu çalışmada araştırılmadı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1977, iz1992', bicim: çocuk, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 2009 kez; UD derleminde baş biçim', bicim: çocuk, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine pala (bala)

@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [tuz](../kok/tuz.md) | türkçe | 1.11 (*tuz*) | Çuvaşça %62 | Ana Türkçe (2 hat) | ~187 milyon (%97, *tuz*) | *tuŕ |
+| [tuz](../kok/tuz.md) | türkçe | 1.11 (*tuz*) | Çuvaşça %62 | Ana Türkçe (2 hat) | ~189 milyon (%98, *tuz*) | *tuŕ |
 
-**Büyük topluluklarda *tuz* biçiminin anlaşılırlığı:** Çuvaşça %62, Sahaca %81, Kazakça %83, Tuvaca %83, Başkurtça %92, Azerbaycan Türkçesi %92, Türkmence %92, Tatarca %92, Karakalpakça %92, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
+**Büyük topluluklarda *tuz* biçiminin anlaşılırlığı:** Çuvaşça %62, Sahaca %81, Tuvaca %83, Başkurtça %92, Azerbaycan Türkçesi %92, Türkmence %92, Tatarca %92, Karakalpakça %92, Türkiye Türkçesi %100, Gagavuzca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -77,15 +77,15 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz | tuz | tuz | tuz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | tuz | tuz | tuz | tuz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz | tuz | tuz | tuz |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tuz | tuz | tŭz |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tŭz | tŭz | tŭz | tŭz |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tŭz | tŭz | tŭz | tŭz |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | tuz | tuz | tuz |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | tuz | tuz | tuz | tuz |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz | tuz | tuz | tuz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | duz | duz | duz | duz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | duz | duz | duz | duz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | tuz | tuz | tuz | tuz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz | tuz | tuz | tuz |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tuz ↑ | tuz ↑ | tŭz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz ↑ | tuz ↑ | tŭz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | tuz ↑ | tuz ↑ | tuz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz ↑ | tuz ↑ | tuz ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | tuz | tuz | tuz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | tuz | tuz | tuz | tuz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | tuz | tuz | tuz | tuz |
@@ -141,7 +141,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | tuz |
 | Kıpçak kolu | Kumukça |  | tuz |
 | Kıpçak kolu | Karaçay-Malkarca |  | tuz |
-| Kıpçak kolu | Kazakça |  | tŭz |
+| Kıpçak kolu | Kazakça |  | tuz |
 | Kıpçak kolu | Karakalpakça |  | duz |
 | Kıpçak kolu | Nogayca |  | tuz |
 | Kıpçak kolu | Kırgızca |  | tuz |

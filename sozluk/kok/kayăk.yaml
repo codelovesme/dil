@@ -8,7 +8,7 @@ etimoloji: Çuvaşça kayăk 'kuş, av hayvanı'; kökeni bu çalışmada araşt
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: kayăk, dil: chv, kaynak: savelyev-turkic, yazi: кайӑк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 2 kez; ASJP CHUVASH_2: kayık', bicim: kayăk, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba; asjp, yazi: кайӑк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine kuş (kuş)

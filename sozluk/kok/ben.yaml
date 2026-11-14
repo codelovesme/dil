@@ -219,11 +219,11 @@ taniklar:
 
   # ================================================ yaşayan diller (günümüz)
   # Oğur
-  - {dil: chv, bicim: epĕ, yazi: эпӗ, kaynak: wiktionary-ana-turkce; clauson, not: 'b- düşmüştür; eğik durumlarda man- (manăn, mana). Miras.', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, clauson], anlam: [wiktionary-ana-turkce, clauson]}}
+  - {dil: chv, bicim: epĕ, yazi: эпӗ, kaynak: wiktionary-ana-turkce; clauson; apertium; tatoeba; asjp, not: 'b- düşmüştür; eğik durumlarda man- (manăn, mana). Miras.', atif: 'Apertium chv sözlüğünde var; Tatoeba''da 175 kez; ASJP CHUVASH: ebı', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, clauson, apertium, tatoeba, asjp], anlam: [wiktionary-ana-turkce, clauson, asjp]}}
   # Halaç
-  - {dil: klj, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: Temel zamir; Azerbaycan Türkçesinden ödünç değil., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: klj, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce; asjp, not: Temel zamir; Azerbaycan Türkçesinden ödünç değil., atif: 'ASJP KHALAJ_IRAN: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   # Oğuz
-  - {dil: tur, bicim: ben, kaynak: tdk-portal; wiktionary-ana-turkce, denetim: {durum: dogrulandi, bicim: [tdk-portal, wiktionary-ana-turkce], anlam: [tdk-portal, wiktionary-ana-turkce]}}
+  - {dil: tur, bicim: ben, kaynak: tdk-portal; wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies; asjp, atif: 'Apertium tur sözlüğünde var; Tatoeba''da 27978 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: men', denetim: {durum: dogrulandi, bicim: [tdk-portal, wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies, asjp], anlam: [tdk-portal, wiktionary-ana-turkce, asjp]}}
   - {dil: tur-ege, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-teke, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-orta, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
@@ -234,41 +234,41 @@ taniklar:
   - {dil: tur-drumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-brumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-kibris, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {dil: gag, bicim: bän, yazi: ben, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: gag, bicim: bän, yazi: ben, kaynak: wiktionary-ana-turkce; tatoeba, atif: Tatoeba'da 15 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {dil: bgx, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {dil: aze, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: Sonkor ağzında mä (Elegant Lexicon)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: aze, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce; tatoeba; universal-dependencies; asjp, not: Sonkor ağzında mä (Elegant Lexicon)., atif: 'Tatoeba''da 1030 kez; UD derleminde baş biçim; ASJP AZERBAIJANI: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, universal-dependencies, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   - {dil: kerkuk, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı. Web aramasında görülen bir Ankara Üniversitesi ders notu, Şahbaz''ın Kerkük ağzı tezine dayanarak Kerkük ağzının çoğunlukla m''li olduğunu, b''li kullanışların da bulunduğunu söylüyor; belge bu ortamdan açılamadığı için okunmadı.', denetim: {durum: dogrulanmadi}}
-  - {dil: qxq, bicim: män, yazi: من, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: tuk, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: qxq, bicim: män, yazi: من, kaynak: wiktionary-ana-turkce; asjp, atif: 'ASJP QASHQAI: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: tuk, bicim: men, kaynak: wiktionary-ana-turkce; tatoeba; asjp, atif: 'Tatoeba''da 1069 kez; ASJP TURKMEN: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   - {dil: kmz, bicim: men, kaynak: asjp; agiralioglu-akcan-2025, atif: 'ASJP veri tabanı (lexibank/asjp): 20''den çok Horasan ağzında mEn; Ağıralioğlu & Akçan 2025, Tablo 4: men', not: 'Doğrulandı: iki bağımsız kaynak.', denetim: {durum: dogrulandi, bicim: [asjp, agiralioglu-akcan-2025], anlam: [asjp, agiralioglu-akcan-2025]}}
-  - {dil: slr, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: slr, bicim: men, kaynak: wiktionary-ana-turkce; asjp, atif: 'ASJP SALAR: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   # Kıpçak
-  - {dil: tat, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: bak, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tat, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce; apertium; tatoeba; asjp, atif: 'Apertium tat sözlüğünde var; Tatoeba''da 15195 kez; ASJP KAZAN_TATAR: min', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: bak, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce; apertium; tatoeba; asjp, atif: 'Apertium bak sözlüğünde var; Tatoeba''da 66 kez; ASJP BASHKIR: min', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   - {dil: sty, bicim: min, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {dil: crh, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kum, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: krc, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kdr, bicim: men, yazi: мэн, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: crh, bicim: men, kaynak: wiktionary-ana-turkce; tatoeba; asjp, atif: 'Tatoeba''da 85 kez; ASJP CRIMEAN_TURKISH: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: kum, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; tatoeba; asjp, atif: 'Tatoeba''da 7 kez; ASJP KUMYK: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: krc, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; apertium; tatoeba; asjp, atif: 'Apertium krc sözlüğünde var; Tatoeba''da 21 kez; ASJP KARACHAY_BALKAR: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: kdr, bicim: men, yazi: мэн, kaynak: wiktionary-ana-turkce; asjp, atif: 'ASJP KARAIM: myañ', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   - {dil: jct, bicim: men, kaynak: asjp, atif: 'ASJP veri tabanı (lexibank/asjp): KRIMCHAK men', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [asjp], anlam: [asjp]}}
   - {dil: uum, bicim: men, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: мен', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [wiktionary-sozluk], anlam: [wiktionary-sozluk]}}
-  - {dil: kaz, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kaa, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: nog, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kir, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: alt, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kaz, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies; asjp, atif: 'Apertium kaz sözlüğünde var; Tatoeba''da 625 kez; UD derleminde baş biçim; ASJP KAZAKH: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: kaa, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; apertium; tatoeba; asjp, atif: 'Apertium kaa sözlüğünde var; Tatoeba''da 15 kez; ASJP KARAKALPAK: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: nog, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; apertium; tatoeba; asjp, atif: 'Apertium nog sözlüğünde var; Tatoeba''da 46 kez; ASJP NOGAI: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: kir, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies; asjp, atif: 'Apertium kir sözlüğünde var; Tatoeba''da 55 kez; UD derleminde baş biçim; ASJP KYRGYZ: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: alt, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; tatoeba; asjp, atif: 'Tatoeba''da 144 kez; ASJP ALTAI: man', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   # Karluk
-  - {dil: uzb, bicim: men, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: uig, bicim: män, yazi: مەن, kaynak: wiktionary-ana-turkce, not: Uygur Latin yazısında men; ە açık e (ä)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uzb, bicim: men, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies; asjp, atif: 'Apertium uzb sözlüğünde var; Tatoeba''da 103 kez; UD derleminde baş biçim; ASJP UZBEK: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: uig, bicim: män, yazi: مەن, kaynak: wiktionary-ana-turkce; tatoeba; universal-dependencies; asjp, not: Uygur Latin yazısında men; ە açık e (ä)., atif: 'Tatoeba''da 900 kez; UD derleminde baş biçim; ASJP LOPNOR_UYGHUR: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, universal-dependencies, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
   # Sibirya
-  - {dil: sah, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: dlg, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: tyv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kim, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kjh, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: cjs, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: clw, bicim: män, kaynak: sibirya-eski-sozlukler, atif: 'Lemskaya 2024, Çulımca-İngilizce sözlük', not: 'Değişkenler man, men, meen; ilgi durumu meeŋ.', denetim: {durum: tek-kaynak, bicim: [sibirya-eski-sozlukler], anlam: [sibirya-eski-sozlukler]}}
-  - {dil: atv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce, not: Ayrıca бин (bin)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: sah, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies; asjp, atif: 'Apertium sah sözlüğünde var; Tatoeba''da 70 kez; UD derleminde baş biçim; ASJP SAKHA: min', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: dlg, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce; asjp, atif: 'ASJP DOLGAN: min', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: tyv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; tatoeba; asjp, atif: 'Tatoeba''da 51 kez; ASJP TUVAN: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: kim, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; asjp, atif: 'ASJP TOFA: man', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: kjh, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce; tatoeba; asjp, atif: 'Tatoeba''da 14 kez; ASJP KHAKAS: min', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: cjs, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; asjp, atif: 'ASJP SHOR: man', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
+  - {dil: clw, bicim: män, kaynak: sibirya-eski-sozlukler; asjp, atif: 'Lemskaya 2024, Çulımca-İngilizce sözlük; ASJP MIDDLE_CHULYM: men', not: 'Değişkenler man, men, meen; ilgi durumu meeŋ.', denetim: {durum: dogrulandi, bicim: [sibirya-eski-sozlukler, asjp], anlam: [sibirya-eski-sozlukler, asjp]}}
+  - {dil: atv, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce; asjp, not: Ayrıca бин (bin)., atif: 'ASJP NORTH_ALTAI: men', denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, asjp], anlam: [wiktionary-ana-turkce, asjp]}}
 
 # Araştırılıp bu kökün bulunamadığı diller ve duraklar (kod → açıklama). Hiç
 # bakılmamış olanlar buraya yazılmaz; kapsamda "eksik" görünür.

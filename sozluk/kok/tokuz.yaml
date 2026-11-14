@@ -17,37 +17,37 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: طقوز
     denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
-  - {bicim: dokkuz, dil: aze, kaynak: wiktionary-ana-turkce, yazi: doqquz, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: tuğız, dil: bak, kaynak: wiktionary-ana-turkce, yazi: туғыҙ, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: tăxxăr, dil: chv, kaynak: wiktionary-ana-turkce, yazi: тӑххӑр, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: dokuz, dil: crh, kaynak: wiktionary-ana-turkce, yazi: докъуз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: dokkuz, dil: aze, kaynak: wiktionary-ana-turkce; tatoeba, yazi: doqquz, atif: Tatoeba'da 4 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: tuğız, dil: bak, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: туғыҙ, atif: Apertium bak sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: tăxxăr, dil: chv, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: тӑххӑр, atif: Apertium chv sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: dokuz, dil: crh, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: докъуз, atif: Apertium crh sözlüğünde var; Tatoeba'da 3 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: togus, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: тогус, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: dokuz, dil: gag, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: toğuz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: тогъуз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: dokuz, dil: gag, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium gag sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: toğuz, dil: krc, kaynak: wiktionary-ana-turkce; apertium, yazi: тогъуз, atif: Apertium krc sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {bicim: toyuz, dil: kdr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: toğiz, dil: kaa, kaynak: wiktionary-ana-turkce, yazi: тоғиз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: toğız, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: тоғыз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: toğıs, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: тоғыс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: toğız, dil: kaz, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: тоғыз, atif: Apertium kaz sözlüğünde var; Tatoeba'da 7 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: toğıs, dil: kjh, kaynak: wiktionary-ana-turkce; apertium, yazi: тоғыс, atif: Apertium kjh sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {bicim: tokkuz, dil: klj, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: toguz, dil: kir, kaynak: wiktionary-ana-turkce, yazi: тогуз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: togız, dil: nog, kaynak: wiktionary-ana-turkce, yazi: тогыз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: toguz, dil: kir, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, yazi: тогуз, atif: Apertium kir sözlüğünde var; Tatoeba'da 3 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: togız, dil: nog, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: тогыз, atif: Apertium nog sözlüğünde var; Tatoeba'da 1 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: togıs, dil: atv, kaynak: wiktionary-ana-turkce, yazi: тогыс, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: dokos, dil: slr, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {bicim: toğus, dil: cjs, kaynak: wiktionary-ana-turkce, yazi: тоғус, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: togus, dil: alt, kaynak: wiktionary-ana-turkce, yazi: тогус, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: tugız, dil: tat, kaynak: wiktionary-ana-turkce, yazi: тугыз, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: togus, dil: alt, kaynak: wiktionary-ana-turkce; apertium, yazi: тогус, atif: Apertium alt sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: tugız, dil: tat, kaynak: wiktionary-ana-turkce; apertium; tatoeba, yazi: тугыз, atif: Apertium tat sözlüğünde var; Tatoeba'da 39 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {bicim: toh'os, dil: kim, kaynak: wiktionary-ana-turkce, yazi: тоъһос, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: dokuz, dil: tur, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: dokuz, dil: tuk, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: tos, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: тос, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: uig, bicim: tokkuz, yazi: توققۇز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: tökkiz, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: toʻqqiz, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {bicim: toğus, dil: sah, kaynak: wiktionary-ana-turkce, yazi: тоҕус, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: dokuz, dil: tur, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tur sözlüğünde var; Tatoeba'da 180 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: dokuz, dil: tuk, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium tuk sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: tos, dil: tyv, kaynak: wiktionary-ana-turkce; apertium, yazi: тос, atif: Apertium tyv sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: tokkuz, yazi: توققۇز, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 7 kez; UD derleminde baş biçim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi., denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: tökkiz, dil: uzb, kaynak: wiktionary-ana-turkce; apertium, yazi: toʻqqiz, atif: Apertium uzb sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {bicim: toğus, dil: sah, kaynak: wiktionary-ana-turkce; apertium, yazi: тоҕус, atif: Apertium sah sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: tokuz, metin: Orhon yazıtları, kaynak: clauson, atif: 'I N 6, 9 (Clauson, tokku:z)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: otk, yuzyil: 8-14, bicim: tokuz, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Irk Bitig 55; Şine Usu E 3 (Clauson, tokku:z)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tokuz, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 437; III 127 (Clauson, tokku:z)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı), denetim: {durum: tek-kaynak, bicim: [dlt, clauson], anlam: [dlt, clauson]}}
   - {dil: xqa, yuzyil: 13, bicim: tokuz, metin: Kur'an tefsiri (Rylands), kaynak: clauson, atif: 'Tef. 309 (Clauson, tokku:z)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
-  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: dokuz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson, atif: 'Melioranskiy 81, 8 (Clauson, tokku:z)', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: tek-kaynak, bicim: [ibn-muhenna, clauson], anlam: [ibn-muhenna, clauson]}}
+  - {dil: aze, yer: Azerbaycan (İlhanlı dönemi), yuzyil: 14, bicim: dokuz, metin: İbn Mühennâ Lügati, kaynak: ibn-muhenna; clauson; apertium, atif: 'Melioranskiy 81, 8 (Clauson, tokku:z); Apertium aze sözlüğünde var', kaydeden: İbn Mühennâ (Arapça sözlük), yabanci: true, denetim: {durum: dogrulandi, bicim: [ibn-muhenna, clauson, apertium], anlam: [ibn-muhenna, clauson]}}
   - {dil: chg, yuzyil: 16-18, bicim: tokuz, metin: 'Çağatayca sözlükler (Abuşka, Senglâh)', kaynak: clauson, atif: 'Senglâh 181r (Clauson, tokku:z)', denetim: {durum: tek-kaynak, bicim: [clauson], anlam: [clauson]}}
 
 yok: {}

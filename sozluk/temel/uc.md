@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [üç](../kok/üç.md) | türkçe | 1.08 (*üç*) | Çuvaşça %52 | Ana Türkçe (2 hat) | ~186 milyon (%96, *üç*) | *üč |
+| [üç](../kok/üç.md) | türkçe | 1.08 (*üç*) | Çuvaşça %57 | Ana Türkçe (2 hat) | ~186 milyon (%96, *üç*) | *üč |
 
-**Büyük topluluklarda *üç* biçiminin anlaşılırlığı:** Çuvaşça %52, Başkurtça %75, Tatarca %88, Kazakça %88, Karakalpakça %88, Sibirya Tatarcası %88, Özbekçe %88, Sahaca %88, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
+**Büyük topluluklarda *üç* biçiminin anlaşılırlığı:** Çuvaşça %57, Başkurtça %75, Tatarca %88, Kazakça %88, Karakalpakça %88, Sibirya Tatarcası %88, Özbekçe %88, Sahaca %88, Tuvaca %88, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kırgızca %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -33,9 +33,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Düğüm | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Günlük kullanım |
 |---|---|---|---|---|
 | **Türk dilleri** | üç | üç | üç |  |
-| &nbsp;&nbsp;**Oğur kolu** | viśśĕ | viśśĕ | viśśĕ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | viśśĕ | viśśĕ | viśśĕ | viśśĕ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | viśśĕ | viśśĕ | viśśĕ | viśśĕ |
+| &nbsp;&nbsp;**Oğur kolu** | vişşĕ | vişşĕ | vişşĕ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | vişşĕ | vişşĕ | vişşĕ | vişşĕ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | vişşĕ | vişşĕ | vişşĕ | vişşĕ |
 | &nbsp;&nbsp;**Ortak Türkçe** | üç | üç | üç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | üüç | üüç | üüç |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | üüç | üüç | üüç | üüç |
@@ -129,7 +129,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 
 | Kol | Dil | Ağız | üç |
 |---|---|---|---|
-| Oğur kolu | Çuvaşça |  | viśśĕ |
+| Oğur kolu | Çuvaşça |  | vişşĕ |
 | Halaç kolu | Halaçça |  | üüç |
 | Oğuz kolu | Türkiye Türkçesi |  | üç |
 | Oğuz kolu | Gagavuzca |  | üç |

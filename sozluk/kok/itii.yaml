@@ -9,7 +9,7 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'aksenova1992, stachowski1993', bicim: itii, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: itii, dil: sah, kaynak: savelyev-turkic, yazi: итии, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 1 kez', bicim: itii, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba, yazi: итии, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine isü (isig)

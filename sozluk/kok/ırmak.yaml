@@ -8,7 +8,7 @@ etimoloji: Türkiye Türkçesi ırmak; kökeni bu çalışmada araştırılmadı
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'baskakov1977, iz1992', bicim: ırmak, dil: tur, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; Tatoeba''da 5 kez; UD derleminde baş biçim', bicim: ırmak, dil: tur, kaynak: savelyev-turkic; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
 
 yok:
   crh: yerine özen (özen)

@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | bar | bar | bar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | vaar | vaar | vaar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | vaar | vaar | vaar | vaar |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | var | var, vār | var |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | var | var, var | var |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | var | var | var |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | var | var | var |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | var | var | var | var |
@@ -51,8 +51,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | var | var | var | var |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | var | var | var | var |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | var ↑ | var ↑ | var ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | var ↑ | var, vār ↑ | var ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | var ↑ | var, vār ↑ | var ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | var ↑ | var, var ↑ | var ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | var ↑ | var, var ↑ | var ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | baar | baar | baar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | baar | baar | baar | baar |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | baar | baar | baar | baar |
@@ -156,5 +156,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Hakasça |  | par |
 | Sibirya kolu | Kuzey Altayca |  | par |
 
-**Tarihî tanıklar:** Eski Türkçe *bar*; Karahanlıca *baar*; Eski Anadolu Türkçesi *var, vār*; Harezm Türkçesi ve Çağatayca *bar*.
+**Tarihî tanıklar:** Eski Türkçe *bar*; Karahanlıca *baar*; Eski Anadolu Türkçesi *var, var*; Harezm Türkçesi ve Çağatayca *bar*.
 

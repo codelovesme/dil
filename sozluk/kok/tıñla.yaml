@@ -10,9 +10,9 @@ etimoloji: tıñ 'ses, nefes' gövdesinden tıñla- 'dinlemek'; Sayan dillerinde
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'malov1957, tenisev1966', bicim: tıñna, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'rassadin1971, rassadin2005', bicim: tıñna, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dıñna, dil: tyv, kaynak: savelyev-turkic, yazi: дыңна-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'malov1957, tenisev1966; ASJP WEST_YUGUR: añna', bicim: tıñna, dil: ybe, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'rassadin1971, rassadin2005; ASJP TOFA: tıñnar', bicim: tıñna, dil: kim, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var; ASJP TUVAN: dıñnar', bicim: dıñna, dil: tyv, kaynak: savelyev-turkic; apertium; asjp, yazi: дыңна-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine işit (eşit)

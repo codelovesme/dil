@@ -8,7 +8,7 @@ etimoloji: Çuvaşça kivĕ; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: kivĕ, dil: chv, kaynak: savelyev-turkic, yazi: кивӗ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Tatoeba''da 5 kez', bicim: kivĕ, dil: chv, kaynak: savelyev-turkic; tatoeba, yazi: кивӗ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine eski (eski)

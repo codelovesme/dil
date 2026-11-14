@@ -8,7 +8,7 @@ etimoloji: iş 'iş' adından işle-; Başkurtçada 'yapmak'.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'uraksin1996, uraksin2005', bicim: eşlä, dil: bak, kaynak: savelyev-turkic, yazi: эшлә-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'uraksin1996, uraksin2005; Apertium bak sözlüğünde var; Tatoeba''da 1 kez', bicim: eşlä, dil: bak, kaynak: savelyev-turkic; apertium; tatoeba, yazi: эшлә-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine et (et)

@@ -131,9 +131,9 @@ taniklar:
     denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}
 
   # ================================================ yaşayan diller (günümüz)
-  - {dil: chv, bicim: esir, yazi: эсир, kaynak: wiktionary-ana-turkce, not: Oğur -r; başta e-. Miras., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: chv, bicim: esir, yazi: эсир, kaynak: wiktionary-ana-turkce; apertium; tatoeba, not: Oğur -r; başta e-. Miras., atif: Apertium chv sözlüğünde var; Tatoeba'da 31 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {dil: klj, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: tur, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tur, bicim: siz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tur sözlüğünde var; Tatoeba'da 1646 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {dil: tur-ege, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-teke, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-orta, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
@@ -144,33 +144,33 @@ taniklar:
   - {dil: tur-drumeli, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-brumeli, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: tur-kibris, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {dil: gag, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: gag, bicim: siz, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium gag sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {dil: bgx, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {dil: aze, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: aze, bicim: siz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium aze sözlüğünde var; Tatoeba'da 153 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {dil: kerkuk, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: qxq, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
-  - {dil: tuk, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tuk, bicim: siz, kaynak: wiktionary-ana-turkce; tatoeba, atif: Tatoeba'da 115 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {dil: kmz, bicim: siz, kaynak: agiralioglu-akcan-2025, atif: 'Ağıralioğlu & Akçan 2025, Tablo 4', not: Tek kaynak (ikincil derleme)., denetim: {durum: tek-kaynak, bicim: [agiralioglu-akcan-2025], anlam: [agiralioglu-akcan-2025]}}
-  - {dil: tat, bicim: sez, yazi: сез, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: bak, bicim: hez, yazi: һеҙ, kaynak: wiktionary-ana-turkce, not: s- > h-; ҙ (ð) çalışma yazımında z., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: crh, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kum, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tat, bicim: sez, yazi: сез, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium tat sözlüğünde var; Tatoeba'da 3311 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: bak, bicim: hez, yazi: һеҙ, kaynak: wiktionary-ana-turkce; apertium; tatoeba, not: s- > h-; ҙ (ð) çalışma yazımında z., atif: Apertium bak sözlüğünde var; Tatoeba'da 5 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: crh, bicim: siz, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium crh sözlüğünde var; Tatoeba'da 8 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kum, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium kum sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {dil: krc, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {dil: kdr, bicim: siz, kaynak: wiktionary-sozluk; agiralioglu-akcan-2025, atif: 'Wiktionary siz (Karayca; kaynak Baskakov); Ağıralioğlu & Akçan 2025, Tablo 4', not: 'Doğrulandı: iki kaynak.', denetim: {durum: dogrulandi, bicim: [wiktionary-sozluk, agiralioglu-akcan-2025], anlam: [wiktionary-sozluk, agiralioglu-akcan-2025]}}
   - {dil: jct, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.', denetim: {durum: dogrulanmadi}}
   - {dil: uum, bicim: siz, kaynak: wiktionary-sozluk, atif: 'Wiktionary, Appendix:Urum Swadesh list: сиз', not: Tek kaynak., denetim: {durum: tek-kaynak, bicim: [wiktionary-sozluk], anlam: [wiktionary-sozluk]}}
-  - {dil: kaz, bicim: siz, yazi: сіз, kaynak: wiktionary-ana-turkce, not: Saygı biçimi; düz çoğul sender (sen + -der)., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kaa, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: nog, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kir, bicim: siler, yazi: силер, kaynak: wiktionary-ana-turkce, not: Çoğul siler; saygı tekili siz., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: alt, bicim: sler, yazi: слер, kaynak: wiktionary-ana-turkce, not: siler'den daralma., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: uzb, bicim: siz, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: uig, bicim: siz, yazi: سىز, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: sah, bicim: ehigi, yazi: эһиги, kaynak: wiktionary-ana-turkce, not: Türev; s- > h- ve başta e-., denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kaz, bicim: siz, yazi: сіз, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, not: Saygı biçimi; düz çoğul sender (sen + -der)., atif: Apertium kaz sözlüğünde var; Tatoeba'da 128 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kaa, bicim: siz, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium kaa sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
+  - {dil: nog, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium nog sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kir, bicim: siler, yazi: силер, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, not: Çoğul siler; saygı tekili siz., atif: Apertium kir sözlüğünde var; Tatoeba'da 3 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: alt, bicim: sler, yazi: слер, kaynak: wiktionary-ana-turkce; apertium; tatoeba, not: siler'den daralma., atif: Apertium alt sözlüğünde var; Tatoeba'da 35 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uzb, bicim: siz, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium uzb sözlüğünde var; Tatoeba'da 15 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: uig, bicim: siz, yazi: سىز, kaynak: wiktionary-ana-turkce; apertium; tatoeba; universal-dependencies, atif: Apertium uig sözlüğünde var; Tatoeba'da 204 kez; UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
+  - {dil: sah, bicim: ehigi, yazi: эһиги, kaynak: wiktionary-ana-turkce; universal-dependencies, not: Türev; s- > h- ve başta e-., atif: UD derleminde baş biçim, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, universal-dependencies], anlam: [wiktionary-ana-turkce]}}
   - {dil: dlg, bicim: ehigi, yazi: эһиги, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: tyv, bicim: siler, yazi: силер, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: tyv, bicim: siler, yazi: силер, kaynak: wiktionary-ana-turkce; apertium, atif: Apertium tyv sözlüğünde var, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium], anlam: [wiktionary-ana-turkce]}}
   - {dil: kim, bicim: siler, yazi: сілер, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
-  - {dil: kjh, bicim: sirer, yazi: сірер, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
+  - {dil: kjh, bicim: sirer, yazi: сірер, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Apertium kjh sözlüğünde var; Tatoeba'da 2 kez, denetim: {durum: dogrulandi, bicim: [wiktionary-ana-turkce, apertium, tatoeba], anlam: [wiktionary-ana-turkce]}}
   - {dil: cjs, bicim: siler, yazi: силер, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
   - {dil: atv, bicim: sner, yazi: снер, kaynak: wiktionary-ana-turkce, denetim: {durum: tek-kaynak, bicim: [wiktionary-ana-turkce], anlam: [wiktionary-ana-turkce]}}
 

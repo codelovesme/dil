@@ -8,7 +8,7 @@ etimoloji: Çuvaşça vırt-; *yat- ile denkliği kurulamadı, ayrı tutuldu.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: vırt, dil: chv, kaynak: savelyev-turkic, yazi: вырт-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; ASJP CHUVASH_2: wurt', bicim: vırt, dil: chv, kaynak: savelyev-turkic; apertium; asjp, yazi: вырт-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine yat (yat)

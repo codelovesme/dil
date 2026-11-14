@@ -7,8 +7,8 @@ etimoloji: Çuvaşça yüşĕ; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: yüşĕ, dil: chv, kaynak: savelyev-turkic, yazi: йӳҫӗ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {anlam: ekşi, atif: 'asmarin1928, savelyev2011', bicim: yüşĕ, dil: chv, kaynak: savelyev-turkic, yazi: йӳҫӗ, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Tatoeba''da 1 kez', bicim: yüşĕ, dil: chv, kaynak: savelyev-turkic; tatoeba, yazi: йӳҫӗ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
+  - {anlam: ekşi, atif: 'asmarin1928, savelyev2011; Tatoeba''da 1 kez', bicim: yüşĕ, dil: chv, kaynak: savelyev-turkic; tatoeba, yazi: йӳҫӗ, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   atv: yerine acığ (açığ)

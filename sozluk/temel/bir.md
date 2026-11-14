@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [bir](../kok/bir.md) | türkçe | 1.12 (*bir*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~191 milyon (%99, *bir*) | *bīr |
+| [bir](../kok/bir.md) | türkçe | 1.13 (*bir*) | Çuvaşça %68 | Ana Türkçe (2 hat) | ~192 milyon (%99, *bir*) | *bīr |
 
-**Büyük topluluklarda *bir* biçiminin anlaşılırlığı:** Çuvaşça %68, Kazakça %83, Tatarca %88, Başkurtça %88, Sahaca %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
+**Büyük topluluklarda *bir* biçiminin anlaşılırlığı:** Çuvaşça %68, Tatarca %88, Başkurtça %88, Sahaca %88, Sibirya Tatarcası %92, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -37,8 +37,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | pĕrre | pĕrre | pĕrre | pĕrre |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | pĕrre | pĕrre | pĕrre | pĕrre |
 | &nbsp;&nbsp;**Ortak Türkçe** | bir | bir | bir |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | bi: | bi: | bi: |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | bi: | bi: | bi: | bi: |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | bii | bii | bii |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | bii | bii | bii | bii |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | bir | bir | bir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | bir | bir | bir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | bir | bir | bir |  |
@@ -77,9 +77,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bir | bir | bir | bir |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | bir | bir | bĭr |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | bĭr | bĭr | bĭr | bĭr |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bĭr | bĭr | bĭr | bĭr |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | bir | bir | bir |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | bir | bir | bir | bir |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | bir | bir | bir | bir |
@@ -100,20 +100,20 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | bir ↑ | bir ↑ | bir ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | bir | pir | bir |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | bi:r | bi:r | bi:r |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | bi:r | bi:r | bi:r | bi:r |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bi:r | bi:r | bi:r | bi:r |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | bi:r | bi:r | bi:r | bi:r |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | biir | biir | biir |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | biir | biir | biir | biir |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | biir | biir | biir | biir |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolganca | biir | biir | biir | biir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Sibirya | pir | pir | bir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarı Uygurca | per | per | per | per |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayan | bir | bir | bir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bozkır Sayan | bir | bir | bir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuvaca | bir | bir | bir | bir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | bir | bir | bir | bir |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | bĭr | bĭr | bĭr |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | bĭr | bĭr | bĭr | bĭr |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | bĭr ↑ | bĭr ↑ | bĭr ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | bĭr ↑ | bĭr ↑ | bĭr ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayga Sayan | bir | bir | bir |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofaca | bir | bir | bir | bir |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duhaca (Tsaatan) | bir ↑ | bir ↑ | bir ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyotça | bir ↑ | bir ↑ | bir ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | pir | pir | pir |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | pir | pir | pir | pir |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | pir | pir | pir | pir |
@@ -130,7 +130,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kol | Dil | Ağız | bir |
 |---|---|---|---|
 | Oğur kolu | Çuvaşça |  | pĕrre |
-| Halaç kolu | Halaçça |  | bi: |
+| Halaç kolu | Halaçça |  | bii |
 | Oğuz kolu | Türkiye Türkçesi |  | bir |
 | Oğuz kolu | Gagavuzca |  | bir |
 | Oğuz kolu | Azerbaycan Türkçesi |  | bir |
@@ -142,7 +142,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Karayca |  | bir |
 | Kıpçak kolu | Kumukça |  | bir |
 | Kıpçak kolu | Karaçay-Malkarca |  | bir |
-| Kıpçak kolu | Kazakça |  | bĭr |
+| Kıpçak kolu | Kazakça |  | bir |
 | Kıpçak kolu | Karakalpakça |  | bir |
 | Kıpçak kolu | Nogayca |  | bir |
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | pir |
@@ -150,11 +150,11 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Güney Altayca |  | bir |
 | Karluk kolu | Özbekçe |  | bir |
 | Karluk kolu | Uygurca |  | bir |
-| Sibirya kolu | Sahaca (Yakutça) |  | bi:r |
-| Sibirya kolu | Dolganca |  | bi:r |
+| Sibirya kolu | Sahaca (Yakutça) |  | biir |
+| Sibirya kolu | Dolganca |  | biir |
 | Sibirya kolu | Sarı Uygurca |  | per |
 | Sibirya kolu | Tuvaca |  | bir |
-| Sibirya kolu | Tofaca |  | bĭr |
+| Sibirya kolu | Tofaca |  | bir |
 | Sibirya kolu | Hakasça |  | pir |
 | Sibirya kolu | Şorca |  | pir |
 | Sibirya kolu | Çulımca |  | pir |

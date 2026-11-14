@@ -22,7 +22,7 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [yaman](../kok/yaman.md) | türkçe | 0.63 (*yaman*) | Başkurtça %0 | Ortak Türkçe (5 hat) | ~152 milyon (%78, *yaman*) | *yaman |
+| [yaman](../kok/yaman.md) | türkçe | 0.64 (*yaman*) | Başkurtça %0 | Ortak Türkçe (5 hat) | ~153 milyon (%79, *yaman*) | *yaman |
 | [kötü](../kok/kötü.md) | türkçe | -0.42 (*kötü*) | Azerbaycan Türkçesi %0 | Türkiye Türkçesi (1 hat) | ~139 milyon (%71, *kötü*) |  |
 | [yaramay](../kok/yaramay.md) | türkçe | -0.45 (*yaramay*) | Türkiye Türkçesi %0 | Kırım Tatarcası (1 hat) | ~101 milyon (%52, *yaramay*) |  |
 | [alama](../kok/alama.md) | türkçe | -0.40 (*alama*) | Türkiye Türkçesi %0 | Başkurtça (1 hat) | ~55 milyon (%28, *alama*) |  |
@@ -33,7 +33,7 @@
 | [çoraanda](../kok/çoraanda.md) | türkçe | -0.49 (*çoraanda*) | Türkiye Türkçesi %0 | Tofaca (1 hat) | ~43 milyon (%22, *çoraanda*) |  |
 | [bagay](../kok/bagay.md) | türkçe | -0.41 (*bagay*) | Türkiye Türkçesi %0 | Tuvaca (1 hat) | ~42 milyon (%22, *bagay*) |  |
 
-**Büyük topluluklarda *yaman* biçiminin anlaşılırlığı:** Başkurtça %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Türkiye Türkçesi %25, Özbekçe %85, Türkmence %86, Tatarca %86, Karaçay-Malkarca %90, Kazakça %95, Karakalpakça %95, Kırgızca %95, Azerbaycan Türkçesi %100, Kumukça %100, Sibirya Tatarcası %100, Uygurca %100.
+**Büyük topluluklarda *yaman* biçiminin anlaşılırlığı:** Başkurtça %0, Kırım Tatarcası %0, Sahaca %0, Tuvaca %0, Türkiye Türkçesi %25, Özbekçe %85, Karaçay-Malkarca %90, Kazakça %95, Karakalpakça %95, Kırgızca %95, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Kumukça %100, Sibirya Tatarcası %100, Uygurca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -48,8 +48,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | yaman | yaman | yaman |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yaman ↑ | yaman ↑ | yaman ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yaman ↑ | yaman ↑ | yaman ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yaman | yaman | *kötü* (kötü) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | yaman | yaman | kötü |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yaman | yaman | yaman |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | yaman | yaman | *kötü* (kötü) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | *kötü* (kötü) | *kötü* (kötü) | kötü |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | kötü | kötü | kötü | kötü |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kötü | kötü | kötü | kötü |
@@ -60,17 +60,17 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | yaman | yaman | yaman | yaman |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yaman | yaman | yaman | yaman |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | yaman ↑ | yaman ↑ | yaman ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yaman ↑ | yaman ↑ | kötü ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yaman ↑ | yaman ↑ | kötü ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | ? yaman | ? yaman | *? yaman* (yaman) |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | ? yaman | ? yaman | ? yaman | ? yaman |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? yaman | ? yaman | ? yaman | ? yaman |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | ? yaman ↑ | ? yaman ↑ | ? yaman ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yaman | yaman | *yaman* (yaman) | yaman |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yaman ↑ | yaman ↑ | yaman ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yaman ↑ | yaman ↑ | yaman ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | yaman | yaman | yaman |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | yaman | yaman | yaman | yaman |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yaman | yaman | yaman | yaman |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | yaman ↑ | yaman ↑ | yaman ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | yaman | yaman | yaman | yaman |
 | &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | yaman | yaman | jaman |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | ? yaman | *alama* (alama) | ? yaman |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | ? yaman | *? yaman* (yaman) | ? yaman | ? yaman |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | ? yaman | ? yaman | ? yaman | ? yaman |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | yaman | *alama* (alama) | yaman |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | yaman | *yaman* (yaman) | yaman | yaman |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yaman | yaman | yaman | yaman |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkurtça | *alama* (alama) | alama | *alama* (alama) | alama |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | alama | alama | alama | alama |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Oğuz (Karadeniz-Kafkas) | yaman | yaman | yaman |  |
@@ -140,9 +140,9 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Oğuz kolu | Türkiye Türkçesi |  | yaman (tercih 0.25) | kötü |  |  |  |  |  |  |  |  |
 | Oğuz kolu | Azerbaycan Türkçesi |  | yaman |  |  |  |  |  |  |  |  |  |
-| Oğuz kolu | Türkmence |  | ? yaman |  |  |  |  |  |  |  |  |  |
+| Oğuz kolu | Türkmence |  | yaman |  |  |  |  |  |  |  |  |  |
 | Oğuz kolu | Salarca |  | yaman |  |  |  |  |  |  |  |  |  |
-| Kıpçak kolu | Tatarca |  | ? yaman |  |  |  |  |  |  |  |  |  |
+| Kıpçak kolu | Tatarca |  | yaman |  |  |  |  |  |  |  |  |  |
 | Kıpçak kolu | Başkurtça |  |  |  |  | alama |  |  |  |  |  |  |
 | Kıpçak kolu | Kırım Tatarcası |  |  |  | yaramay |  |  |  |  |  |  |  |
 | Kıpçak kolu | Karayca |  | yaman |  |  |  |  |  |  |  |  |  |

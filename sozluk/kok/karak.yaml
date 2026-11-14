@@ -10,12 +10,12 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'aksenova1992, stachowski1993', bicim: karak, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: xarax, dil: kjh, kaynak: savelyev-turkic, yazi: харах, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: savelyev2015, bicim: karak, dil: clw, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: kurpesko-tannagaseva1993, bicim: karak, dil: cjs, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'rassadin1971, rassadin2005', bicim: karak, dil: kim, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: karak, dil: tyv, kaynak: savelyev-turkic, yazi: карак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: xarax, dil: sah, kaynak: savelyev-turkic, yazi: харах, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1953, cankov1961, subrakova2006; Apertium kjh sözlüğünde var', bicim: xarax, dil: kjh, kaynak: savelyev-turkic; apertium, yazi: харах, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
+  - {atif: 'savelyev2015; ASJP MIDDLE_CHULYM: karak', bicim: karak, dil: clw, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'kurpesko-tannagaseva1993; ASJP SHOR: korok', bicim: karak, dil: cjs, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'rassadin1971, rassadin2005; ASJP TOFA: karak', bicim: karak, dil: kim, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var; ASJP TUVAN: karak', bicim: karak, dil: tyv, kaynak: savelyev-turkic; apertium; asjp, yazi: карак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim; ASJP SAKHA: xarax', bicim: xarax, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, yazi: харах, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   sty-baraba: yerine köz (köz)

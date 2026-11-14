@@ -41,7 +41,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | yakşı | yakşı | yaxşı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | yakşı ↑ | yakşı ↑ | yaxşı ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | yakşı ↑ | yakşı ↑ | yaxşı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yaxşı | yaḫşı | *iyi* (edgü) |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | yaxşı | yaxşı | *iyi* (edgü) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | *eyi* (edgü) | *iyi* (edgü) | iyi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | iyi | iyi | iyi |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | iyi | iyi | iyi | iyi |
@@ -53,8 +53,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | yaxşı | *yaxşı* (yakşı) | yaxşı | yaxşı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yaxşı | yaxşı | yaxşı | yaxşı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | yaxşı ↑ | eyi ↑ | yaxşı ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yaxşı ↑ | yaḫşı ↑ | iyi ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yaxşı ↑ | yaḫşı ↑ | iyi ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | yaxşı ↑ | yaxşı ↑ | iyi ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | yaxşı ↑ | yaxşı ↑ | iyi ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | yağşı | yağşı | *yağşı* (yakşı) |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | yağşı | yağşı | yağşı | yağşı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | yağşı | yağşı | yağşı | yağşı |
@@ -160,5 +160,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Sibirya kolu | Çulımca |  | çaksı |  |  |
 | Sibirya kolu | Kuzey Altayca |  | takşı |  |  |
 
-**Tarihî tanıklar:** Eski Türkçe *edgü*; Kuman-Kıpçakça *yakşı*; Eski Anadolu Türkçesi *yaḫşı*.
+**Tarihî tanıklar:** Eski Türkçe *edgü*; Kuman-Kıpçakça *yakşı*; Eski Anadolu Türkçesi *yaxşı*.
 

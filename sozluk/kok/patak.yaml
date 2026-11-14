@@ -8,7 +8,7 @@ etimoloji: Çuvaşça patak; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: patak, dil: chv, kaynak: savelyev-turkic, yazi: патак, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: patak, dil: chv, kaynak: savelyev-turkic; apertium, yazi: патак, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine tayak (tayak)

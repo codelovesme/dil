@@ -9,7 +9,7 @@ etimoloji: tük 'kıl, tüy'; Tuvacada saç için de kullanılır.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: dük, dil: tyv, kaynak: savelyev-turkic, not: '''kıl, tüy''; saç için baş dükü.', yazi: дүк, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'harrison2002, mongus1988, tenisev1968; Apertium tyv sözlüğünde var', bicim: dük, dil: tyv, kaynak: savelyev-turkic; apertium, not: '''kıl, tüy''; saç için baş dükü.', yazi: дүк, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine caç (saç)

@@ -10,7 +10,7 @@ kaynak: savelyev-turkic
 
 taniklar:
   - {atif: 'aksenova1992, stachowski1993', bicim: tımnıı, dil: dlg, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: tımnıı, dil: sah, kaynak: savelyev-turkic, yazi: тымныы, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972; Apertium sah sözlüğünde var; Tatoeba''da 1 kez; UD derleminde baş biçim; ASJP SAKHA_2: tumnu', bicim: tımnıı, dil: sah, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies; asjp, yazi: тымныы, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:
   atv: yerine sook (soğık)

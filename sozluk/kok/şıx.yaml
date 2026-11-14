@@ -8,7 +8,7 @@ etimoloji: Çuvaşça şıx-; kökeni bu çalışmada araştırılmadı.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: şıx, dil: chv, kaynak: savelyev-turkic, yazi: ҫых-, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var', bicim: şıx, dil: chv, kaynak: savelyev-turkic; apertium, yazi: ҫых-, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium], anlam: [savelyev-turkic]}}
 
 yok:
   sty-baraba: yerine pawla (bağla)

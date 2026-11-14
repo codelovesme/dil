@@ -8,7 +8,7 @@ etimoloji: Çuvaşça mĕn "ne" ile -le eki.
 kaynak: savelyev-turkic
 
 taniklar:
-  - {atif: 'asmarin1928, savelyev2011', bicim: mĕnle, dil: chv, kaynak: savelyev-turkic, not: mĕn 'ne' + -le., yazi: мӗнле, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
+  - {atif: 'asmarin1928, savelyev2011; Apertium chv sözlüğünde var; Tatoeba''da 15 kez', bicim: mĕnle, dil: chv, kaynak: savelyev-turkic; apertium; tatoeba, not: mĕn 'ne' + -le., yazi: мӗнле, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
 
 yok:
   kaa: yerine kalay (neçük)

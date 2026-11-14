@@ -50,6 +50,11 @@
    "tur": "proje"
   },
   {
+   "yol": "sozluk/CAPRAZ.md",
+   "baslik": "Çapraz doğrulama: inceleme",
+   "tur": "dizin"
+  },
+  {
    "yol": "AGIRLIKLAR.md",
    "baslik": "Ağırlıklar",
    "tur": "dizin"
@@ -4790,10 +4795,10 @@
    "anahtar": [
     "aat",
     "ad",
+    "ad, ad",
     "at",
     "ot",
-    "yat",
-    "ād, ad"
+    "yat"
    ]
   },
   {
@@ -4862,11 +4867,11 @@
     "añak",
     "ağıs",
     "ağız",
+    "ağız, ağız",
     "eğiz",
     "oos",
     "ooz",
     "oğiz",
-    "āġız, aġız",
     "şăvar"
    ]
   },
@@ -4904,7 +4909,6 @@
    "anahtar": [
     "ak",
     "ax",
-    "aˁk",
     "ok",
     "süür",
     "yux"
@@ -5089,7 +5093,6 @@
     "atak",
     "atax",
     "ayak",
-    "ayak 1",
     "ayax",
     "azak",
     "azax",
@@ -5189,7 +5192,6 @@
     "başka",
     "başxa",
     "başğa",
-    "baˁşka",
     "boşka",
     "iieza",
     "paska",
@@ -5245,7 +5247,6 @@
    "anahtar": [
     "bel",
     "bil",
-    "bĭl",
     "oñna",
     "pil",
     "pĕl"
@@ -5278,10 +5279,9 @@
    "ozet": "Ortak dil: bir · Ana Türkçe tahmini: bir · En çok kişinin anladığı: bir",
    "anahtar": [
     "ber",
-    "bi:",
-    "bi:r",
+    "bii",
+    "biir",
     "bir",
-    "bĭr",
     "per",
     "pir",
     "pĕrre"
@@ -5806,7 +5806,6 @@
     "butak",
     "butuk",
     "butık",
-    "bŭtak",
     "pudak",
     "putak",
     "putax",
@@ -5858,7 +5857,6 @@
    "yol": "sozluk/temel/degnek.md",
    "ozet": "Ortak dil: tayak · Ana Türkçe tahmini: tayak · En çok kişinin anladığı: sopa",
    "anahtar": [
-    "? tayak",
     "dayañgıış",
     "mas",
     "patak",
@@ -5907,7 +5905,7 @@
     "deñiz",
     "diñgez",
     "däniz",
-    "däŋiz",
+    "däñiz",
     "teñis",
     "teñiz",
     "täñgis"
@@ -5927,7 +5925,6 @@
     "tere",
     "teri",
     "terä",
-    "terĭ",
     "tir",
     "tire",
     "tirii",
@@ -5974,7 +5971,6 @@
     "tik",
     "tix",
     "tĕk",
-    "tĭk",
     "şĕle"
    ]
   },
@@ -5990,7 +5986,6 @@
     "dıl",
     "tel",
     "til",
-    "tĭl",
     "tıl",
     "çĕlxe"
    ]
@@ -6009,7 +6004,6 @@
     "tis",
     "tiç",
     "tiş",
-    "tĭs",
     "tıs",
     "çiş",
     "şăl"
@@ -6129,7 +6123,6 @@
     "buzla",
     "don",
     "doñ",
-    "doŋ",
     "muz kat",
     "muzla",
     "pustan",
@@ -6341,7 +6334,7 @@
     "sor",
     "suor",
     "suır",
-    "sọr",
+    "sör",
     "ĕm",
     "şora"
    ]
@@ -6383,7 +6376,6 @@
     "erke",
     "esgi",
     "eski",
-    "eskĭ",
     "irge",
     "iske",
     "kivĕ",
@@ -6516,7 +6508,6 @@
    "yol": "sozluk/temel/git.md",
    "ozet": "Ortak dil: bar · Ana Türkçe tahmini: bar · En çok kişinin anladığı: bar",
    "anahtar": [
-    "? bar",
     "bar",
     "bor",
     "get",
@@ -6548,7 +6539,6 @@
     "kündik",
     "kăvapa",
     "kĕndĕk",
-    "kĭndĭk",
     "kın",
     "kındık",
     "xin"
@@ -6680,7 +6670,6 @@
    "yol": "sozluk/temel/gun.md",
    "ozet": "Ortak dil: kün · Ana Türkçe tahmini: kün · En çok kişinin anladığı: kün",
    "anahtar": [
-    "? kün",
     "gün",
     "hün",
     "kun",
@@ -6727,7 +6716,6 @@
     "kayhı",
     "kaysi",
     "kaysı",
-    "kaysı?",
     "kaysısı",
     "kayzı",
     "kayı",
@@ -6762,7 +6750,6 @@
    "anahtar": [
     "eki",
     "eki ~ ekki",
-    "ekĭ",
     "igä",
     "ihi",
     "ike",
@@ -6961,7 +6948,6 @@
     "işit",
     "işt",
     "iştär",
-    "iˁt",
     "teber",
     "tĕk",
     "üt",
@@ -7008,7 +6994,6 @@
     "yaxşi",
     "yaxşı",
     "yağşı",
-    "yaḫşı",
     "çaksı",
     "çakşı",
     "çaxsı",
@@ -7185,6 +7170,7 @@
    "anahtar": [
     "es",
     "eç",
+    "garın",
     "ijin",
     "is",
     "iste",
@@ -7200,7 +7186,6 @@
     "kursax",
     "xusax",
     "xırăm",
-    "ġarın",
     "ıştı"
    ]
   },
@@ -7256,7 +7241,7 @@
     "tırna",
     "tırvakta",
     "xaşı",
-    "xıś"
+    "xış"
    ]
   },
   {
@@ -7320,7 +7305,6 @@
     "süyek",
     "süñk",
     "süñük",
-    "süŋük",
     "sımık",
     "uñuox",
     "şămă"
@@ -7411,7 +7395,6 @@
     "kim",
     "kum",
     "käm",
-    "kĭm",
     "kım"
    ]
   },
@@ -7470,7 +7453,6 @@
     "kısxa",
     "kısğa",
     "kışka",
-    "kıˁska",
     "xısxa"
    ]
   },
@@ -7490,7 +7472,6 @@
     "kizi",
     "kiş",
     "kişi",
-    "kĭsĭ",
     "şın"
    ]
   },
@@ -7551,7 +7532,7 @@
     "kurk",
     "kurku",
     "kuttan",
-    "kọrk",
+    "körk",
     "xorğa",
     "xorıx",
     "xăra"
@@ -7596,7 +7577,6 @@
    "yol": "sozluk/temel/kotu.md",
    "ozet": "Ortak dil: yaman · Ana Türkçe tahmini: yaman · En çok kişinin anladığı: yaman",
    "anahtar": [
-    "? yaman",
     "alama",
     "aman",
     "bagay",
@@ -7685,14 +7665,12 @@
    "yol": "sozluk/temel/kum.md",
    "ozet": "Ortak dil: kum · Ana Türkçe tahmini: kum · En çok kişinin anladığı: kum",
    "anahtar": [
-    "? kum",
     "hum",
     "kom",
     "kum",
     "kumak",
     "kumax",
     "kuvak",
-    "kŭm",
     "xum",
     "xăyăr",
     "çäge"
@@ -7712,8 +7690,6 @@
     "kurt 'worm'",
     "kurut",
     "kuurt",
-    "kuˁrt",
-    "kŭrt",
     "seläwsen",
     "sugulcıñ",
     "xurt",
@@ -7758,8 +7734,6 @@
     "gus",
     "kos",
     "kus",
-    "kuˁs",
-    "kŭs",
     "xotuolaa",
     "xus",
     "xăs"
@@ -7802,7 +7776,6 @@
     "kuyruk",
     "kuyrık",
     "kuzuruk",
-    "kŭyrık",
     "xuzuruk",
     "xüre"
    ]
@@ -7881,7 +7854,7 @@
     "nima",
     "nime",
     "nimä",
-    "no:",
+    "noo",
     "nä",
     "näme",
     "nääsä",
@@ -7898,7 +7871,6 @@
    "yol": "sozluk/temel/nere.md",
    "ozet": "Ortak dil: kayda · Ana Türkçe tahmini: kayuda · En çok kişinin anladığı: kayda",
    "anahtar": [
-    "? kayda",
     "hanna",
     "harada",
     "kaa",
@@ -8027,7 +7999,6 @@
     "öltir",
     "öltör",
     "öltür",
-    "öltĭr",
     "ölör",
     "ölür",
     "öytir",
@@ -8182,7 +8153,6 @@
    "yol": "sozluk/temel/ot.md",
    "ozet": "Ortak dil: ot · Ana Türkçe tahmini: ot · En çok kişinin anladığı: ot",
    "anahtar": [
-    "? oˁt",
     "kurăk",
     "oht",
     "oot",
@@ -8262,7 +8232,6 @@
    "yol": "sozluk/temel/sac.md",
    "ozet": "Ortak dil: saç · Ana Türkçe tahmini: saç · En çok kişinin anladığı: saç",
    "anahtar": [
-    "? saç",
     "as",
     "caç",
     "dük",
@@ -8408,8 +8377,8 @@
    "yol": "sozluk/temel/sicak.md",
    "ozet": "Ortak dil: isig · Ana Türkçe tahmini: isig · En çok kişinin anladığı: issik",
    "anahtar": [
+    "ese",
     "esse",
-    "eśe",
     "gızgın",
     "isig",
     "issi",
@@ -8433,7 +8402,7 @@
    "ad": "sıçra-",
    "alt": "jump",
    "yol": "sozluk/temel/sicra.md",
-   "ozet": "Ortak dil: sekir · Ana Türkçe tahmini: sekri · En çok kişinin anladığı: säkrä",
+   "ozet": "Ortak dil: sekir · Ana Türkçe tahmini: sekri · En çok kişinin anladığı: sekir",
    "anahtar": [
     "atla",
     "atıl",
@@ -8446,7 +8415,6 @@
     "seker",
     "sekir",
     "sekri",
-    "sekĭr",
     "sik",
     "siker",
     "säkir",
@@ -8552,7 +8520,6 @@
    "yol": "sozluk/temel/soguk.md",
    "ozet": "Ortak dil: soğuk · Ana Türkçe tahmini: soğık · En çok kişinin anladığı: soğuk",
    "anahtar": [
-    "? sovuk",
     "hıwık",
     "sivĕ",
     "sook",
@@ -8786,12 +8753,9 @@
    "yol": "sozluk/temel/tut.md",
    "ozet": "Ortak dil: tut · Ana Türkçe tahmini: tut · En çok kişinin anladığı: tut",
    "anahtar": [
-    "? tut",
-    "?? tut",
     "dut, tut",
     "tot",
     "tut",
-    "tuˁt",
     "tıt",
     "usta"
    ]
@@ -8832,8 +8796,7 @@
     "tuuz",
     "tuz",
     "tüüs",
-    "tăvar",
-    "tŭz"
+    "tăvar"
    ]
   },
   {
@@ -8862,7 +8825,7 @@
    "anahtar": [
     "uç",
     "uş",
-    "viśśĕ",
+    "vişşĕ",
     "ös",
     "öç",
     "üs",
@@ -8974,7 +8937,7 @@
     "pur",
     "vaar",
     "var",
-    "var, vār"
+    "var, var"
    ]
   },
   {
@@ -9216,7 +9179,6 @@
     "tañna",
     "tağın",
     "turay",
-    "yarïn",
     "yarın",
     "ärtän",
     "ätä",
@@ -9278,7 +9240,6 @@
    "yol": "sozluk/temel/ye.md",
    "ozet": "Ortak dil: ye · Ana Türkçe tahmini: ye · En çok kişinin anladığı: ye",
    "anahtar": [
-    "? aşa",
     "ahaa",
     "ajan",
     "asa",
@@ -9309,13 +9270,13 @@
     "sette",
     "yeddi",
     "yedi",
+    "yeede",
     "yetdi",
     "yete",
     "yeti",
     "yetti",
     "yide",
     "yättä",
-    "yēde",
     "çedi",
     "çeti",
     "çetti",
@@ -9374,7 +9335,6 @@
    "yol": "sozluk/temel/yer.md",
    "ozet": "Ortak dil: yer · Ana Türkçe tahmini: yer · En çok kişinin anladığı: yer",
    "anahtar": [
-    "? yer",
     "cer",
     "cir",
     "der",
@@ -9781,7 +9741,6 @@
     "atak",
     "atax",
     "ayak",
-    "ayak 1",
     "ayax",
     "azak",
     "azax",
@@ -9836,7 +9795,6 @@
     "ak",
     "akmak",
     "ax",
-    "aˁk",
     "ok",
     "آقمق"
    ]
@@ -10100,10 +10058,10 @@
    "anahtar": [
     "aat",
     "ad",
+    "ad, ad",
     "at",
     "ot",
     "yat",
-    "ād, ad",
     "аат",
     "ят",
     "آد",
@@ -10315,11 +10273,11 @@
     "añak",
     "ağıs",
     "ağız",
+    "ağız, ağız",
     "eğiz",
     "oos",
     "ooz",
     "oğiz",
-    "āġız, aġız",
     "şăvar",
     "аас",
     "авыз",
@@ -10338,7 +10296,6 @@
    "yol": "sozluk/kok/aşa.md",
    "ozet": "13 tanık, en eski 8. yy",
    "anahtar": [
-    "? aşa",
     "ahaa",
     "ajan",
     "asa",
@@ -10422,7 +10379,7 @@
     "pur",
     "vaar",
     "var",
-    "var, vār",
+    "var, var",
     "баар",
     "бар",
     "пар",
@@ -10438,7 +10395,6 @@
    "yol": "sozluk/kok/bar.md",
    "ozet": "30 tanık, en eski 8. yy",
    "anahtar": [
-    "? bar",
     "bar",
     "bor",
     "par",
@@ -10581,7 +10537,6 @@
     "başka",
     "başxa",
     "başğa",
-    "baˁşka",
     "boşka",
     "paska",
     "pasxa",
@@ -10733,7 +10688,6 @@
    "anahtar": [
     "bel",
     "bil",
-    "bĭl",
     "pil",
     "pĕl",
     "бел-",
@@ -10750,10 +10704,9 @@
    "ozet": "32 tanık, en eski 8. yy",
    "anahtar": [
     "ber",
-    "bi:",
-    "bi:r",
+    "bii",
+    "biir",
     "bir",
-    "bĭr",
     "per",
     "pir",
     "pĕrre",
@@ -11093,7 +11046,6 @@
     "butak",
     "butuk",
     "butık",
-    "bŭtak",
     "pudak",
     "putak",
     "putax",
@@ -11802,7 +11754,6 @@
    "anahtar": [
     "esgi",
     "eski",
-    "eskĭ",
     "iske",
     "äski",
     "иске",
@@ -12013,7 +11964,6 @@
    "anahtar": [
     "eki",
     "eki ~ ekki",
-    "ekĭ",
     "igä",
     "ihi",
     "ike",
@@ -12098,8 +12048,8 @@
    "yol": "sozluk/kok/isig.md",
    "ozet": "25 tanık, en eski 8. yy",
    "anahtar": [
+    "ese",
     "esse",
-    "eśe",
     "isig",
     "issi",
     "issik",
@@ -12152,7 +12102,6 @@
     "işit",
     "işt",
     "iştär",
-    "iˁt",
     "üt",
     "ĕt",
     "итер-",
@@ -12586,13 +12535,13 @@
    "yol": "sozluk/kok/karın.md",
    "ozet": "11 tanık, en eski 8. yy",
    "anahtar": [
+    "garın",
     "kaarın",
     "karn, karın",
     "karnı",
     "karın",
     "korin",
     "xırăm",
-    "ġarın",
     "хырӑм",
     "قارن"
    ]
@@ -12683,7 +12632,6 @@
    "yol": "sozluk/kok/kayda.md",
    "ozet": "23 tanık, en eski 8. yy",
    "anahtar": [
-    "? kayda",
     "kajda",
     "kayda",
     "kayerda",
@@ -12728,7 +12676,6 @@
     "kayhı",
     "kaysi",
     "kaysı",
-    "kaysı?",
     "kaysısı",
     "kayzı",
     "kayı",
@@ -12868,7 +12815,7 @@
     "kaşu",
     "kaşı",
     "xaşı",
-    "xıś",
+    "xış",
     "кашы-",
     "хыҫ-",
     "қасы-"
@@ -13063,7 +13010,6 @@
     "kum",
     "käm",
     "kīm",
-    "kĭm",
     "kım",
     "кам",
     "кым",
@@ -13101,7 +13047,6 @@
     "kändik",
     "kündik",
     "kĕndĕk",
-    "kĭndĭk",
     "kındık",
     "кендек"
    ]
@@ -13207,7 +13152,6 @@
     "kizi",
     "kiş",
     "kişi",
-    "kĭsĭ",
     "кiзi",
     "кеше",
     "кижи",
@@ -13282,7 +13226,7 @@
     "korx",
     "kurk",
     "kurku",
-    "kọrk",
+    "körk",
     "xorğa",
     "xorıx",
     "xăra",
@@ -13367,7 +13311,6 @@
     "kuyruk",
     "kuyrık",
     "kuzuruk",
-    "kŭyrık",
     "xuzuruk",
     "xüre",
     "койрык",
@@ -13422,14 +13365,12 @@
    "yol": "sozluk/kok/kum.md",
    "ozet": "28 tanık, en eski 8. yy",
    "anahtar": [
-    "? kum",
     "hum",
     "kom",
     "kum",
     "kumak",
     "kumax",
     "kuvak",
-    "kŭm",
     "xum",
     "ком",
     "кумах",
@@ -13494,8 +13435,6 @@
     "kurt 'worm'",
     "kurut",
     "kuurt",
-    "kuˁrt",
-    "kŭrt",
     "xurt",
     "корт",
     "хурт"
@@ -13553,8 +13492,6 @@
     "gus",
     "kos",
     "kus",
-    "kuˁs",
-    "kŭs",
     "xus",
     "xăs",
     "кос-",
@@ -13889,7 +13826,6 @@
    "yol": "sozluk/kok/kün.md",
    "ozet": "55 tanık, en eski 8. yy",
    "anahtar": [
-    "? kün",
     "gün",
     "hün",
     "kun",
@@ -14095,7 +14031,6 @@
     "kısxa",
     "kısğa",
     "kışka",
-    "kıˁska",
     "xısxa",
     "кӗске",
     "қысқа",
@@ -14384,7 +14319,7 @@
     "nima",
     "nime",
     "nimä",
-    "no:",
+    "noo",
     "nä",
     "näme",
     "nääsä",
@@ -14602,7 +14537,6 @@
    "yol": "sozluk/kok/ot-bitki.md",
    "ozet": "16 tanık, en eski 16. yy",
    "anahtar": [
-    "? oˁt",
     "od",
     "oht",
     "oot",
@@ -14971,7 +14905,6 @@
    "yol": "sozluk/kok/saç.md",
    "ozet": "31 tanık, en eski 8. yy",
    "anahtar": [
-    "? saç",
     "as",
     "caç",
     "sas",
@@ -15039,7 +14972,6 @@
     "seker",
     "sekir",
     "sekri",
-    "sekĭr",
     "sik",
     "siker",
     "säkir",
@@ -15270,7 +15202,7 @@
     "sor",
     "suor",
     "suır",
-    "sọr",
+    "sör",
     "şora",
     "һур-"
    ]
@@ -15300,7 +15232,6 @@
    "yol": "sozluk/kok/soğık.md",
    "ozet": "27 tanık, en eski 8. yy",
    "anahtar": [
-    "? sovuk",
     "hıwık",
     "sook",
     "soox",
@@ -15417,7 +15348,6 @@
     "süyek",
     "süñk",
     "süñük",
-    "süŋük",
     "sımık",
     "uñuox",
     "şămă",
@@ -15696,7 +15626,6 @@
    "yol": "sozluk/kok/tayak.md",
    "ozet": "20 tanık, en eski günümüz",
    "anahtar": [
-    "? tayak",
     "dayañgıış",
     "tayak",
     "tayax",
@@ -15848,7 +15777,6 @@
     "tere",
     "teri",
     "terä",
-    "terĭ",
     "tir",
     "tire",
     "tirii",
@@ -15899,7 +15827,7 @@
     "deñiz",
     "diñgez",
     "däniz",
-    "däŋiz",
+    "däñiz",
     "teñis",
     "teñiz",
     "täñgis",
@@ -15970,7 +15898,6 @@
     "tik",
     "tix",
     "tĕk",
-    "tĭk",
     "тек-",
     "тик-"
    ]
@@ -16053,7 +15980,6 @@
     "tis",
     "tiç",
     "tiş",
-    "tĭs",
     "tıs",
     "çiş",
     "şăl",
@@ -16271,7 +16197,6 @@
    "anahtar": [
     "don",
     "doñ",
-    "doŋ",
     "toñ",
     "toñsı",
     "tuñ",
@@ -16380,12 +16305,9 @@
    "yol": "sozluk/kok/tut.md",
    "ozet": "33 tanık, en eski 8. yy",
    "anahtar": [
-    "? tut",
-    "?? tut",
     "dut, tut",
     "tot",
     "tut",
-    "tuˁt",
     "tıt",
     "тот-",
     "тыт-",
@@ -16408,7 +16330,6 @@
     "tuz",
     "tüüs",
     "tăvar",
-    "tŭz",
     "дус",
     "тоз",
     "тоҙ",
@@ -16648,7 +16569,6 @@
     "dıl",
     "tel",
     "til",
-    "tĭl",
     "tıl",
     "çĕlxe",
     "дыл",
@@ -17209,7 +17129,6 @@
     "yaxşi",
     "yaxşı",
     "yağşı",
-    "yaḫşı",
     "çaksı",
     "çakşı",
     "çaxsı",
@@ -17263,7 +17182,6 @@
    "yol": "sozluk/kok/yaman.md",
    "ozet": "20 tanık, en eski 8. yy",
    "anahtar": [
-    "? yaman",
     "aman",
     "daman",
     "jaman",
@@ -17364,7 +17282,6 @@
    "yol": "sozluk/kok/yarın.md",
    "ozet": "6 tanık, en eski 8. yy",
    "anahtar": [
-    "yarïn",
     "yarın",
     "ıran",
     "ыран",
@@ -17780,7 +17697,6 @@
    "yol": "sozluk/kok/yer.md",
    "ozet": "31 tanık, en eski 8. yy",
    "anahtar": [
-    "? yer",
     "cer",
     "cir",
     "der",
@@ -17827,13 +17743,13 @@
     "sette",
     "yeddi",
     "yedi",
+    "yeede",
     "yetdi",
     "yete",
     "yeti",
     "yetti",
     "yide",
     "yättä",
-    "yēde",
     "çedi",
     "çeti",
     "çetti",
@@ -19258,7 +19174,6 @@
     "öltir",
     "öltör",
     "öltür",
-    "öltĭr",
     "ölör",
     "ölür",
     "öytir",
@@ -19512,7 +19427,7 @@
    "anahtar": [
     "uç",
     "uş",
-    "viśśĕ",
+    "vişşĕ",
     "ös",
     "öç",
     "üs",

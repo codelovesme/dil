@@ -25,7 +25,7 @@
 | [kayu](../kok/kayu.md) | türkçe | 0.86 (*kaysı*) | Türkiye Türkçesi %0 | Ana Türkçe (2 hat) | ~150 milyon (%77, *kaysı*) | *kayu |
 | [kañı](../kok/kañı.md) | türkçe | -0.25 (*hangi*) | Çuvaşça %0 | Ortak Türkçe (2 hat) | ~139 milyon (%71, *hangi*) | *kaŋu |
 
-**Büyük topluluklarda *kaysı* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Çuvaşça %68, Sahaca %78, Azerbaycan Türkçesi %85, Karakalpakça %86, Tuvaca %90, Sibirya Tatarcası %92, Başkurtça %95, Özbekçe %95, Uygurca %95, Türkmence %95, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Kırgızca %100.
+**Büyük topluluklarda *kaysı* biçiminin anlaşılırlığı:** Türkiye Türkçesi %0, Gagavuzca %0, Çuvaşça %68, Sahaca %78, Azerbaycan Türkçesi %85, Karakalpakça %86, Tuvaca %90, Başkurtça %95, Özbekçe %95, Uygurca %95, Türkmence %95, Tatarca %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Sibirya Tatarcası %100, Kırgızca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -78,16 +78,16 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karaçay-Malkarca | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kaysı? | kaysı | kaysı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Nogay (Aral-Hazar) | kaysı | kaysı | kaysı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakça | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karakalpakça | kaysısı | kaysısı | kaysısı | kaysısı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysısı | kaysısı | kaysısı | kaysısı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | kaysı? | kaysı? | kaysı? |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı? ↑ | kaysı? ↑ | kaysı? ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | kaysı? | kaysı? | kaysı? | kaysı? |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | kaysı | kaysı | kaysı |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı ↑ | kaysı ↑ | kaysı ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baraba ağzı | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | kajı | kajı | kaysı |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | kaysı | kaysı | kaysı | kaysı |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | kaysı | kaysı | kaysı | kaysı |
@@ -145,7 +145,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Kazakça |  | kaysı |  |
 | Kıpçak kolu | Karakalpakça |  | kaysısı |  |
 | Kıpçak kolu | Nogayca |  | kaysı |  |
-| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kaysı? |  |
+| Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | kaysı |  |
 | Kıpçak kolu | Kırgızca |  | kaysı |  |
 | Kıpçak kolu | Güney Altayca |  | kajı |  |
 | Karluk kolu | Özbekçe |  | kaysi |  |

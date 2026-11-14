@@ -39,7 +39,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;**Ortak Türkçe** | teñiz | teñiz | deñiz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | teñiz ↑ | teñiz ↑ | deñiz ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | teñiz ↑ | teñiz ↑ | deñiz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | deniz | däŋiz | deniz |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | deñiz | däñiz | deniz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | däniz | deniz | deniz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye-Balkan grubu | deniz | deniz | deniz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkiye Türkçesi | deniz | deniz | deniz | deniz |
@@ -51,13 +51,13 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azerbaycan Türkçesi | däniz | däniz | däniz | däniz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | däniz | däniz | däniz | däniz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irak Türkmencesi (Kerkük) | däniz ↑ | däniz ↑ | däniz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | deniz ↑ | däŋiz ↑ | deniz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | deniz ↑ | däŋiz ↑ | deniz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Güney Oğuz (İran) | deñiz ↑ | däñiz ↑ | deniz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaşkayca | deñiz ↑ | däñiz ↑ | deniz ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Oğuz | deñiz | deñiz | deñiz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Türkmence | deñiz | deñiz | deñiz | deñiz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | deñiz | deñiz | deñiz | deñiz |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horasan Türkçesi | deñiz ↑ | deñiz ↑ | deñiz ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | deniz ↑ | däŋiz ↑ | deniz ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salarca | deñiz ↑ | däñiz ↑ | deniz ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Kıpçak kolu | teñiz | teñiz | teñiz |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kıpçak-Bulgar (Ural) | diñgez | diñgez | diñgez |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tatarca | diñgez | diñgez | diñgez | diñgez |
@@ -149,5 +149,5 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Karluk kolu | Uygurca |  | deñiz |
 | Sibirya kolu | Kuzey Altayca |  | teñis |
 
-**Tarihî tanıklar:** Kuman-Kıpçakça *teñiz*; Eski Anadolu Türkçesi *däŋiz*.
+**Tarihî tanıklar:** Kuman-Kıpçakça *teñiz*; Eski Anadolu Türkçesi *däñiz*.
 
