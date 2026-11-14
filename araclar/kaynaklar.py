@@ -21,7 +21,7 @@ KOK = Path(__file__).resolve().parent.parent
 KAYNAK_DOSYASI = KOK / "kaynaklar" / "kaynaklar.yaml"
 
 ALANLAR = {"kimlik", "ad", "url", "tur", "diller", "kullanim", "ne", "nasil", "erisim",
-           "bicim", "guven", "durum", "dogrulama", "yuzyil", "not"}
+           "bicim", "guven", "durum", "dogrulama", "yuzyil", "surum", "not"}
 TURLER = {
     "etimoloji": "Etimoloji ve karşılaştırmalı sözlükler",
     "veri-seti": "Karşılaştırmalı veri setleri",
@@ -185,6 +185,8 @@ def md(veri, kodlar) -> str:
               f"**Ortam:** {ortam(k, izinli)}")
             if k.get("dogrulama"):
                 y(f"- **Doğrulama:** {k['dogrulama'].strip()}")
+            if k.get("surum"):
+                y(f"- **Kullanılan sürüm:** {str(k['surum']).strip()} (dosya parmak izleri: kaynaklar/surumler.yaml)")
             if k.get("yuzyil"):
                 y(f"- **Tanıkların yüzyılı:** {k['yuzyil']}. yy (sözlük tanıklarında varsayılan)")
             if k.get("not"):

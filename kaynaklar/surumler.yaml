@@ -1,0 +1,1178 @@
+# Kaynak dosyalarının sürüm kaydı — araclar/surum_kaydet.py ile yazılır.
+agiralioglu-akcan-2025:
+- adres: dergipark.org.tr/en/download/article-file/4453399
+  dosyalar:
+    4453399.pdf:
+      bayt: 680716
+      sha256: 67f86a29dfff2f48bf32a13512a0528ca017a444e13297c81c7c80f489a443a2
+  tarih: '2026-11-14'
+apertium:
+- adres: raw.githubusercontent.com/apertium/apertium-<dil>/master/apertium-<dil>.<dil>.{lexc,twol}
+  dosyalar:
+    alt.lexc:
+      bayt: 19395
+      sha256: bbb2392016e53670ce2b60c58895acdd593e9c34bcde2f00ffd41f97f656a99e
+    alt.twol:
+      bayt: 4070
+      sha256: c3cc2eb413df83a6dbbff7d37382fdda1aebc7187d5399d2c6becf6dc2faedc8
+    aze.lexc:
+      bayt: 423695
+      sha256: 320dd76adc2ebf6214ddc79cfa0f60e9971a7ecc3107d291428cadec1bcc3d5e
+    aze.twol:
+      bayt: 9082
+      sha256: b66b4404374e24985440f241cba5ac25f498875e4cda4833ffacdfc7bc9266ca
+    bak.lexc:
+      bayt: 6366912
+      sha256: d07f73e930d20b5dcc2c415e49d705dd0ed3c73fababf4ad75340c88aef11e90
+    bak.twol:
+      bayt: 7671
+      sha256: d5f93052e32b2b24df19f6132bd241c4558595e1b6cca72e1aeef15b701ff752
+    chv.lexc:
+      bayt: 3958419
+      sha256: 1390ba529c2e90366afb396cb82fa5d4db6d2d3333343bea85a59d99758b2dcd
+    chv.twol:
+      bayt: 27600
+      sha256: 17f1c893dc645726bb32e33a13a546cf1890294a05cdf61d37ccc86abfde60c3
+    crh.lexc:
+      bayt: 539513
+      sha256: 9abd1559b26062fba62a34b31b486d833d5a928c51f118dda97d311af93acffa
+    crh.twol:
+      bayt: 5947
+      sha256: 6a48ebe0e59dd0ccdaaf599065d627f3b571609090c4e9f41abe1d1290f204e6
+    gag.lexc:
+      bayt: 212879
+      sha256: e81f93ce30c90934bca47b7dad538e5f027b7165abbbdebe43aed398be620da3
+    gag.twol:
+      bayt: 7250
+      sha256: 18e677dab76300590f4d2abcb2c3710721c748b802b4342fd707b2bcab394a6e
+    kaa.lexc:
+      bayt: 935804
+      sha256: 87aed9dc1da637c29f7e0722019a551998462c4afc475232c250800470707e03
+    kaa.twol:
+      bayt: 6892
+      sha256: 4a1d6df53a8e5d5921c4b8cb1fe2488053e7cb4d9f220dbd48ace8e03a7ed187
+    kaz.lexc:
+      bayt: 1899828
+      sha256: ea8a0eabdbd3ba98774efec755cc39f7f9dcb72da5464d93b900700a45548771
+    kaz.twol:
+      bayt: 18974
+      sha256: 937065dcb69adf079dca4745330871e0198e3cd8542610ebf862f367f6bddc39
+    kir.lexc:
+      bayt: 850771
+      sha256: a6762054a17158d649e69437f86ab1bc6009b5bc54ef62ea92fac2d6bb5cf5ad
+    kir.twol:
+      bayt: 22502
+      sha256: e1adad1fd110a9461fc6f10fe816e72f51aeb6a6898978a89c3fea733bad0524
+    kjh.lexc:
+      bayt: 36928
+      sha256: 48548fa4ddb4ed565bcd4f5ec7fc8d23f407e625bb33e228c9584344e966924f
+    kjh.twol:
+      bayt: 6018
+      sha256: 2ad89fde99dd31567c05879d08b310f7fc3a92dfcc8686ae50b9184e575d9135
+    krc.lexc:
+      bayt: 489829
+      sha256: a11199f8bd0d5a8e9736d493fb82859527dd6c427165f2e8c84f4955c937bfa5
+    krc.twol:
+      bayt: 11393
+      sha256: 16e161edd7f99ddce3f8d4526c7af8dec5278389c21b35f42a34df93b8c31ae1
+    kum.lexc:
+      bayt: 309537
+      sha256: 9b42dba6e024551bd52cba04b48981d3fe186047dafe2892cddc382dd1870808
+    kum.twol:
+      bayt: 12628
+      sha256: 9b3ea880c1337a33d1083f9d6ca68e8c664359a634416277dd65c0a2b5b2909e
+    nog.lexc:
+      bayt: 73378
+      sha256: 1af6945cf18d7929d6a8a8a3078cde53030a8eba525fa4b187d5b9d31b07b026
+    nog.twol:
+      bayt: 7402
+      sha256: 328c208b2d65d662b5bed220e9ebcdf6b73647f1dbbbe3ae4e9c8971073ca174
+    sah.lexc:
+      bayt: 1841535
+      sha256: a04d8afb37268c7cb63828abbeafaafe89e55d7fec85df22980d32e060b26773
+    sah.twol:
+      bayt: 20882
+      sha256: f9fbf08808a78e076aef21c7f203932555282db2b9580870d1172193ef1750e5
+    tat.lexc:
+      bayt: 2938153
+      sha256: 43438bc2710beae9472e1d5e09a2403793d0d059c48ff9a9e5c9100387716e73
+    tat.twol:
+      bayt: 26352
+      sha256: 66e7a145a10270e72b135f0eb6b78b8f15a143f53641d17a9c4047d3571cb52e
+    tuk.lexc:
+      bayt: 116329
+      sha256: 18cb3347ae85fd88d4922e2d04952f57e21a0cb096544d226d0cca2393f55787
+    tuk.twol:
+      bayt: 4100
+      sha256: 69661a94ca3fe533d2beebb38031594aa8535228b331a7df693c812adcacb39c
+    tur.lexc:
+      bayt: 810754
+      sha256: 9457cc32a6bf2d4ae7b50f9645e3b810fb6b3d884566f1444c3ccfcac289962e
+    tur.twol:
+      bayt: 13993
+      sha256: 22700f54c5678dac1794dbdd0153582053360f7622c90b108af961610c938d9d
+    tyv.lexc:
+      bayt: 644616
+      sha256: 966d319e295cc6cbd2b8b362eca76475f2a083a9ac8ad0f42465b2b4a3a7ad30
+    tyv.twol:
+      bayt: 23558
+      sha256: 0ca39eb96881c805219100ab97d83224b2151970b793c441cc4c78776b21ce59
+    uig.lexc:
+      bayt: 1076345
+      sha256: 3c15122acf1782f1d69433a7ced956c59a6f08d2de47cf482d09dc1b5ebc444b
+    uig.twol:
+      bayt: 5311
+      sha256: 32725a5fb9ac03a6408da046341a5aa696da334b555f95e0d11c047856130b61
+    uzb.lexc:
+      bayt: 2826758
+      sha256: 18281d405c44437f5d1b2c67e71d8b31f3d44fc316c223454714c27d81631ee4
+    uzb.twol:
+      bayt: 2914
+      sha256: a138b8f813417e433aac6cb354452a27a1435b4499beb9f86529e6c4de95dfa5
+  tarih: '2026-11-14'
+asjp:
+- adres: raw.githubusercontent.com/lexibank/asjp/master/cldf/
+  dosyalar:
+    forms.csv:
+      bayt: 51272436
+      sha256: 4ee30b771a2cba59e7e904587f7f60dc3d823824a7b9aae9dd6f73a960139321
+    languages.csv:
+      bayt: 3292247
+      sha256: 647174df2eb812eff370355b02b6843d76bfb2b082147bc263e5ccd4cc628be5
+    parameters.csv:
+      bayt: 1948
+      sha256: 2ed306c24552ea61e48ad6dc067859d8b70029abfc1d36668246214a5a1183ec
+  tarih: '2026-11-14'
+clauson:
+- adres: altaica.ru (Clauson 1972, An Etymological Dictionary of Pre-Thirteenth-Century Turkish, PDF)
+  dosyalar:
+    c.pdf:
+      bayt: 107148138
+      sha256: e6dfe699774a0f014eb7af4f0215b4120a26662c2b6540ec12b4b86087384477
+  tarih: '2026-11-12'
+dasdemir-2008:
+- adres: dergipark.org.tr/en/download/article-file/33159
+  dosyalar:
+    33159.pdf:
+      bayt: 437585
+      sha256: 8843eebdd133ef27c499d4ec27f2145f68f1f271859bbea8b8a5c0e06bf9c481
+  tarih: '2026-11-14'
+ersoz-ahiska:
+- adres: dergipark.org.tr/en/download/article-file/218529
+  dosyalar:
+    218529.pdf:
+      bayt: 446569
+      sha256: 02c733601324c420d17e38b51b2cb2f5f7300b94b399f3f786b5d5cc77088650
+  tarih: '2026-11-14'
+gemalmaz-erzurum:
+- adres: dergipark.org.tr/en/download/article-file/3761652
+  dosyalar:
+    3761652.pdf:
+      bayt: 727625
+      sha256: 547a7ce61ed9b522e4d42e1662cdc417b86a9a661180dd7ea0d1d8aab8013892
+  tarih: '2026-11-14'
+savelyev-turkic:
+- adres: raw.githubusercontent.com/lexibank/savelyevturkic/master/cldf/
+  dosyalar:
+    forms.csv:
+      bayt: 804696
+      sha256: eb86f50123fa0e0062c294434638c209f2ad15df6af0ddeccd7bb4d90b789fea
+    languages.csv:
+      bayt: 2966
+      sha256: 9224c045c86b335a6a87d402ca5b1edd47cfa6f984d6f733a09840c99151883e
+    parameters.csv:
+      bayt: 7946
+      sha256: 19408ab6ecda42f68cca156cbfdf979bf3d2740d451010893c2a5aae39ad464d
+  tarih: '2026-11-12'
+tatoeba:
+- adres: downloads.tatoeba.org/exports/per_language/<dil>/
+  dosyalar:
+    alt-eng_links.tsv.bz2:
+      bayt: 532
+      sha256: ca3296238c39866a67e775c27d84284683de1eaf95b3875eed9462f7bc4e4d43
+    alt-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: d4a1a820cec576a06028a6e555e812e7a585f9a5708239f635e3a3e434b68419
+    alt-sah_links.tsv.bz2:
+      bayt: 131
+      sha256: 5d124bce147e7f6636bbd4b394237ef3c614b1f3a4ab6a68491984c8c8b31c12
+    alt-tat_links.tsv.bz2:
+      bayt: 262
+      sha256: b4094f89470ec6abf1d9272067784ce2f72393832f8f6f671aefb0669612357c
+    alt-tur_links.tsv.bz2:
+      bayt: 183
+      sha256: 31f3e12d04504f16eeaa39e69d49823272327b1e9833ce6cd80d5a469fdd7e8a
+    alt_sentences.tsv.bz2:
+      bayt: 16438
+      sha256: 91c778204b9e6a0d97811923ef193a819718db46b7a3b18579f0a4a1a41c3d39
+    aze-bak_links.tsv.bz2:
+      bayt: 67
+      sha256: bdeec127860201b3f0257a89f2bcfffa19e3b2eebd524958236144d4fc419580
+    aze-chv_links.tsv.bz2:
+      bayt: 111
+      sha256: 96662326ec56ee5274816fa51c0598b8085516ce21dfb785cf1af045ddec7573
+    aze-crh_links.tsv.bz2:
+      bayt: 48
+      sha256: 420dee90acda27281db4e87ec480086f5391ad03daaea8dd14cbceb1119d72b8
+    aze-eng_links.tsv.bz2:
+      bayt: 65981
+      sha256: 95215358d0e6f66beab9ebe542922a60023e544f33a8780a4514fb76a5966f11
+    aze-gag_links.tsv.bz2:
+      bayt: 53
+      sha256: 2e0d74d0e1b5b300bf71239c69ba62fa5065191c49f44e694f097bd1d3f1d453
+    aze-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: fb1f982fdb9c9178e1c225eabc9344aecf5286620fd760207bbd3649aec56ebc
+    aze-kaz_links.tsv.bz2:
+      bayt: 108
+      sha256: 34f3fdfcf6211f0d309c9966e15775ae7ab46c998ca351bb778355ebfbeea404
+    aze-kir_links.tsv.bz2:
+      bayt: 49
+      sha256: 1e5e94fb2055df9466240c4b9513156182ec56d843424b4223d88dbcf47cc7cc
+    aze-kum_links.tsv.bz2:
+      bayt: 49
+      sha256: 4ba45b03e3a27598ac62d43895d23cb6ec4d047098b6b6bd9decbd3309ebdd5e
+    aze-ota_links.tsv.bz2:
+      bayt: 76
+      sha256: 521a5b34d4aa78bc7f65477a461bd4ceb85a3deed1578904354fbbd63c0abbf1
+    aze-sah_links.tsv.bz2:
+      bayt: 62
+      sha256: eb6a044c0592796ba9d03909014fe867fa90dad0dbb068af6c5decc146ee2476
+    aze-tat_links.tsv.bz2:
+      bayt: 9260
+      sha256: 972e4448f0833ef1fe85a0888931fdf7dfaebcbb1e8db7893578ec55be9ecb48
+    aze-tuk_links.tsv.bz2:
+      bayt: 239
+      sha256: 9e0df6cebf0b09d3d65868e74fff4f7a27f04e27edb0173ed88a363392d377d1
+    aze-tur_links.tsv.bz2:
+      bayt: 11979
+      sha256: 0c921a29212de15c80d2556eac187d5adcf36f75e909d74813f480818cfba8fc
+    aze-uig_links.tsv.bz2:
+      bayt: 59
+      sha256: 77728921f0e50c69216a27bba45531a37e2bf9f497be5b90115d0f2a709c5600
+    aze-uzb_links.tsv.bz2:
+      bayt: 85
+      sha256: f8255a6a4e35066bf0c4cae8324df345e2677dfb170345a571d2ca55959c9950
+    aze_sentences.tsv.bz2:
+      bayt: 148524
+      sha256: b4df8b6c9d9c8af983442a702a7b542a44707f0593c0ea1c26f9dd6b108ba124
+    bak-aze_links.tsv.bz2:
+      bayt: 68
+      sha256: aaae6be0c4e7a642850272dba8b5c3a1e94bd82cc79b807006aa5d248f44792c
+    bak-chv_links.tsv.bz2:
+      bayt: 68
+      sha256: e579408ad60cb7f136e61e019e5c596aad9014c5a9687ff32794e941ed532ff3
+    bak-crh_links.tsv.bz2:
+      bayt: 49
+      sha256: 21c6590b77c5a09789e517279f67ea272116d1212b85df14b84cc0aa60839047
+    bak-eng_links.tsv.bz2:
+      bayt: 625
+      sha256: 04fd038178bc1b37a9871e4ecfbc5122e2640ff0d9508206fe4bdd580c9534eb
+    bak-gag_links.tsv.bz2:
+      bayt: 48
+      sha256: cfeba97c324e254521dd97e5b54ced057e22deabcc0a1e175ff2e7ae97a0a363
+    bak-kaa_links.tsv.bz2:
+      bayt: 51
+      sha256: f3c0dc0ae76e751a0beed97a319cb2c776040564f66a84b70e43fb3f1ce82830
+    bak-kaz_links.tsv.bz2:
+      bayt: 110
+      sha256: bd919880e082867007a47d5a5dd77bf19fb20744d5b45b70ce19efa164512db5
+    bak-kir_links.tsv.bz2:
+      bayt: 50
+      sha256: 8ddc10e97cb2ab4092d765edeff97744b3a3e648bc8869522373083f85307aff
+    bak-ota_links.tsv.bz2:
+      bayt: 49
+      sha256: d6264a9cfcbcd6632abbff769d01ca484a8e838c0a4d5ed1970e9add9def2645
+    bak-sah_links.tsv.bz2:
+      bayt: 77
+      sha256: b0710eea3e5a26ed8161e650f9908390b5d83740d41483461640760a748f520a
+    bak-tat_links.tsv.bz2:
+      bayt: 2250
+      sha256: ad8787a3d2aff2f9d78fbb81fe44bf098221d0241d4056184f82793f3582a7d2
+    bak-tuk_links.tsv.bz2:
+      bayt: 68
+      sha256: 76a4a7025167435dbd30b2a6de3ebe9d8d3cfc5c3e9e9fed57ae6c1483b19121
+    bak-tur_links.tsv.bz2:
+      bayt: 898
+      sha256: 3af9f81c419cbf66e74240a798a85188a60d285504eda5e1de9011acde405f8c
+    bak-uig_links.tsv.bz2:
+      bayt: 73
+      sha256: 337f9fa92591329bc84d5cc7cc5166e33e92de532e1ff5a3ac8445cba17be7d1
+    bak-uzb_links.tsv.bz2:
+      bayt: 69
+      sha256: 378f905df75d975ed64b452ef401fec90d2fe25ee402304a6dff195318b7ace6
+    bak_sentences.tsv.bz2:
+      bayt: 8324
+      sha256: a29350a62ffb1d9968f70ccd6b3c736b1931229e12145fcbe32c80b7a1768752
+    chv-aze_links.tsv.bz2:
+      bayt: 112
+      sha256: 1456db4a1a2f7eae3f77878bb2f1bfed6d727ae582f103f6446fc01c4cd5e17d
+    chv-bak_links.tsv.bz2:
+      bayt: 68
+      sha256: a459937b60e40e77b09ec38d2945fe020eb7117f350d64791f70c1f6386a7b01
+    chv-crh_links.tsv.bz2:
+      bayt: 91
+      sha256: 079bb33b333b20157e4bfe2906267c41ed3def036c389c9a4014c4f18cfde307
+    chv-eng_links.tsv.bz2:
+      bayt: 2632
+      sha256: f58ec5ef4ce97c0794e9635e473b5c370d84e60557d5c3c396d262c7e2c34356
+    chv-gag_links.tsv.bz2:
+      bayt: 53
+      sha256: 5aa7413664fd73852654880dbb77741f1968ae585eefe2ae6c4a67bca300dbe2
+    chv-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: 87630b04e38e4b3551969bb89490dd3df2874aca044154e6743e1d6ae1d46d94
+    chv-kaz_links.tsv.bz2:
+      bayt: 969
+      sha256: 652fa193f64ba1b10ada5a749496fa34872377a856ac9a9f4db724a21b874e0a
+    chv-kir_links.tsv.bz2:
+      bayt: 50
+      sha256: 11ead361eb35e45ef76d6cdaa6ace35a50d38f9a522212a197a27b26d1a89048
+    chv-kjh_links.tsv.bz2:
+      bayt: 149
+      sha256: 2462c629df61fd095c9511bc6e98e4be951de972c21dda8a70159d9030d2a09d
+    chv-kum_links.tsv.bz2:
+      bayt: 49
+      sha256: c3561dfac344d7fce8b58358f342e0e7e6be34306c63f5e538f08a9152b98844
+    chv-nog_links.tsv.bz2:
+      bayt: 64
+      sha256: ea4f24e73c287534d0137736a25e199da23531e30fac5780f90beb167ed90d9c
+    chv-sah_links.tsv.bz2:
+      bayt: 144
+      sha256: 8a348080a0c41f7235a4f8fdcbdbed6837b035c4895cd4f63a4674a175a084c1
+    chv-tat_links.tsv.bz2:
+      bayt: 888
+      sha256: 11a9162fa0a493ebf65b1b33ad92e8c7c45a7d37c503e32c11ac09dff9074854
+    chv-tuk_links.tsv.bz2:
+      bayt: 78
+      sha256: 01a67d93a0afc43e49d79026154b4fe220f7afbf314744cc16c9bdb5d3a06f3f
+    chv-tur_links.tsv.bz2:
+      bayt: 3721
+      sha256: 93e7bc12628a66c11033cb3f617d81881c607c31d35b6599bb95ce7c04b9e274
+    chv-uig_links.tsv.bz2:
+      bayt: 49
+      sha256: 5d2d7477fd1c10f98328dc923568f5269daeedd20b3a5093769f0541c6f33f7a
+    chv-uzb_links.tsv.bz2:
+      bayt: 59
+      sha256: bfea2c0370beee7ae920ce50104be44155ce69d752bf01e7b6dda5034afdac5d
+    chv_sentences.tsv.bz2:
+      bayt: 21452
+      sha256: db21e686977d85d0d6d00b8155e5c4cf495f286cf5117e8451b3e95bff7b39b4
+    crh-aze_links.tsv.bz2:
+      bayt: 49
+      sha256: 6145ed9abd184c985f2488d983b4b9b99c3d773e10c40cf3167afebe63e7b7a1
+    crh-bak_links.tsv.bz2:
+      bayt: 49
+      sha256: 304f39b1e56afacf79501ce613d410de006ebe7dbea02b093b15eed645471685
+    crh-chv_links.tsv.bz2:
+      bayt: 94
+      sha256: 24ba7d63eb2da0112df4533cd82d2c0b574ded3716c968d0190f94bf7bc3550e
+    crh-eng_links.tsv.bz2:
+      bayt: 386
+      sha256: b6f19c926be1b31a290c0d1fbeb1e2b0995f978f706e47e6e322132ae86d01a6
+    crh-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: ec3d265c6ffdcf8a7f98c692b6d4dcd577e6500a4960d45c8947fb38c53195b1
+    crh-kaz_links.tsv.bz2:
+      bayt: 66
+      sha256: ccf03960a5e33458974414e216ccc33ddb40348049e4553ecc28d97727ed3f82
+    crh-kir_links.tsv.bz2:
+      bayt: 49
+      sha256: 72de2bedb7b59d7e1d44f271df005baf57305f082cc2eb25e47ec1cf0e9d545a
+    crh-sah_links.tsv.bz2:
+      bayt: 49
+      sha256: c1dff3b9dad34e1960dd3d5a9a3cf117c6947902480d775f13faa70845def2e6
+    crh-tat_links.tsv.bz2:
+      bayt: 3073
+      sha256: 70e88b95d93b9fb9e3c786c2c64e55df57e1c053344f7734d7402aa550d43ee9
+    crh-tuk_links.tsv.bz2:
+      bayt: 421
+      sha256: 2457a2125b13ece171dd82c11a96806bb7b83ef935ceed5a4d2e1b136c2b452d
+    crh-tur_links.tsv.bz2:
+      bayt: 1348
+      sha256: 47a19d0d3e5e1f68d831e36c6f76832724ac07ab095e389c97b767d1097116ce
+    crh-uig_links.tsv.bz2:
+      bayt: 267
+      sha256: 6f7aac11a0f672e0ddf46c9b98de6206d58746cda660b71f38d1cf6394d4ec89
+    crh-uzb_links.tsv.bz2:
+      bayt: 49
+      sha256: e46ec6ec91115e97c4ad0de92c7c107f9f0d69a9d53c0a3e6477ac2006f3c92c
+    crh_sentences.tsv.bz2:
+      bayt: 11856
+      sha256: e7a28bb10439d2d1ade29ff3fd6c67f8c9734896cba1a596ff833120aeebd50a
+    gag-aze_links.tsv.bz2:
+      bayt: 53
+      sha256: 11f2392c58ff5fde0570024e6b4edfabca4de8c3b70a60f2f86d45befccf6ac9
+    gag-bak_links.tsv.bz2:
+      bayt: 48
+      sha256: aa41fe3df17e2256873bd27eba4a565ba8b4f5bd3c9923d6dc3ffde7c2cb5b7a
+    gag-chv_links.tsv.bz2:
+      bayt: 52
+      sha256: 6da6eed6af64be8fdb4dfc150bd9396dbab2dcdedae95dd5eb5cf892da73c2ff
+    gag-eng_links.tsv.bz2:
+      bayt: 169
+      sha256: 8de36acd2299693703270ed4078a2eb15f3b550c3f2d0560f563821ba275dbac
+    gag-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: fd709004af2861b3bb04e7e4b321cb21e6c5757550b79d8c0c404610fedf394e
+    gag-kaz_links.tsv.bz2:
+      bayt: 49
+      sha256: db2e87e64608386ac48eb5039b65e877da1a7b70c0ac724a8a2f7048a9ae0a07
+    gag-nog_links.tsv.bz2:
+      bayt: 50
+      sha256: d69dd823294128f58503a9f2810175bc53a68d2379417cc39fe5a1a047d7d766
+    gag-sah_links.tsv.bz2:
+      bayt: 56
+      sha256: de3444ee0164e7a49be9266e841d778472e7b032f28ff3fa8c36ddfbb6177d86
+    gag-tat_links.tsv.bz2:
+      bayt: 49
+      sha256: 9be5a7c0aed39c59af3dd372bf4f75464a3f1c7bec14b73b0b3b42e92d86f6f9
+    gag-tuk_links.tsv.bz2:
+      bayt: 50
+      sha256: 97ee0e0dcdec5fdc97a1bc594dae31428fde67c2f19b05b15b0d29778261a229
+    gag-tur_links.tsv.bz2:
+      bayt: 301
+      sha256: 67e27aa6e57fc3432e96fbfb603c941b30a544bb2e13bb2edf214fd5c45d4fca
+    gag-uig_links.tsv.bz2:
+      bayt: 57
+      sha256: a4c89b7a49255aba8638a45360dc004166a3663328319e34b8f812ab2b948a8d
+    gag_sentences.tsv.bz2:
+      bayt: 1095
+      sha256: 3b66452d3d00b3ce8fa20ff1d23aaf1af34c2035f2a87c1f61c83bab31fc061e
+    kaa-alt_links.tsv.bz2:
+      bayt: 50
+      sha256: 74fc78f985779ae38f8956bbb9533ed96c7c60882c499ba1a2f27e6cfbea29cd
+    kaa-aze_links.tsv.bz2:
+      bayt: 50
+      sha256: 61f350642840687d8e2c1df6e6f03cca88084dfbcb4d85e003c7ab91c6bcd8db
+    kaa-bak_links.tsv.bz2:
+      bayt: 51
+      sha256: 9af67861feeea0a63967c77d4a3d5b2dc20fc811c7230470f2fea41b91a944cc
+    kaa-chv_links.tsv.bz2:
+      bayt: 50
+      sha256: 7bce32e23dca85be87b24b0aebe54d86ba857c689ee9caabcd29f8e662eedb49
+    kaa-crh_links.tsv.bz2:
+      bayt: 50
+      sha256: d8ad67c2e90810a6dfd7a3b0e60479a424f692ac05c6369a282a5733903d0628
+    kaa-eng_links.tsv.bz2:
+      bayt: 349
+      sha256: 56d61270d6a5f2491cf5b3f293a0afba949aa285a6d00cc4c106cc0ec0583765
+    kaa-gag_links.tsv.bz2:
+      bayt: 51
+      sha256: 6c3e6b2f80e51264b1031a4e0b654d737924b4992c5df4eaa946fa81956a69a7
+    kaa-kaz_links.tsv.bz2:
+      bayt: 61
+      sha256: 8298a8c5608bdb2d0075178edcaa4b5590c9bf3a14363452727fcd6444045a20
+    kaa-kir_links.tsv.bz2:
+      bayt: 51
+      sha256: 7f2648cdc8d94d9b66f99f55b3c0e788ffb87c0a4e55860745336fc707ad5613
+    kaa-kjh_links.tsv.bz2:
+      bayt: 51
+      sha256: 47680a0b8d67b3083086370eb74236326e6f71750b606609185668e2b0f03d42
+    kaa-krc_links.tsv.bz2:
+      bayt: 50
+      sha256: 7597d5d82dcd810f799bf66abfa1558c024895cc98ee549676c4127ed68964f7
+    kaa-kum_links.tsv.bz2:
+      bayt: 55
+      sha256: 5325d7fca38d668434cd7d9eebfd25cde9fca8c9c9227e685ce770a9672e22b1
+    kaa-nog_links.tsv.bz2:
+      bayt: 51
+      sha256: 4ea3c27bd800dd36dfe73ee2b8042533d8fc3e15160581b939c926a61d8717e4
+    kaa-sah_links.tsv.bz2:
+      bayt: 60
+      sha256: 6f568387f55f4c5731acdc6f0cc93ccb6f2987b699aa74acda92b9ea0343240b
+    kaa-tat_links.tsv.bz2:
+      bayt: 231
+      sha256: d5d24f3e3d9d5ca7ba524c7f575cfc601f6218ea8c5e62fb71486d7b5bfb57d2
+    kaa-tuk_links.tsv.bz2:
+      bayt: 51
+      sha256: a60faa7b9cdfed62f1f0740e57cf3a00c0ab580edf4d5a49104485635954b5cd
+    kaa-tur_links.tsv.bz2:
+      bayt: 212
+      sha256: d456a57ce2adf31f07112f783bf3fb9dc1e8659d1c5aaa246cfd90dc4d649e07
+    kaa-tyv_links.tsv.bz2:
+      bayt: 50
+      sha256: 2baf7f2707063281ab9729ad208af33004e58714af93dbab886082823858f849
+    kaa-uig_links.tsv.bz2:
+      bayt: 50
+      sha256: d34ee6bf8507463d03a20092b6624f563048304e8c9469526bdbe17ef270335f
+    kaa-uzb_links.tsv.bz2:
+      bayt: 51
+      sha256: 97d77bb5cd809142fed2d603d870ad463f563a395245d4c658f9460ff45d2273
+    kaa_sentences.tsv.bz2:
+      bayt: 1426
+      sha256: fde0da55390f66b394d4535a9f8a964dc3a623f0a09dbf5875f22e4f304536db
+    kaz-aze_links.tsv.bz2:
+      bayt: 106
+      sha256: de6bb7024700d393a8803537b39a33c5ea0c9669f2382456e6fa7359d466e8e5
+    kaz-bak_links.tsv.bz2:
+      bayt: 110
+      sha256: 5e06c94e2411777e3a4941722b655525c12cca932382f2e4c9b10390dcb6fdaf
+    kaz-chv_links.tsv.bz2:
+      bayt: 969
+      sha256: d646b26e547284e430854e9bafa6c16c8ba8ba020de3771a6e8bc3e494e55a52
+    kaz-crh_links.tsv.bz2:
+      bayt: 67
+      sha256: f837d6a256a275226698c5d1c80851d2371f75cccb4bcecd677dc1d3635d4aee
+    kaz-eng_links.tsv.bz2:
+      bayt: 4152
+      sha256: ec0bcc8e6594faa11b88b54e8576662cc201f82286544807ee2704350d38066f
+    kaz-gag_links.tsv.bz2:
+      bayt: 49
+      sha256: 6703d0bf7e693b13fb49179ff694fe79cfb40c542da8e3d807134a5726838c2b
+    kaz-kaa_links.tsv.bz2:
+      bayt: 61
+      sha256: 3a3d4b4f0704169bea029f979d71d58966b36821583c5ab72cde0840a62a3bee
+    kaz-kir_links.tsv.bz2:
+      bayt: 174
+      sha256: dd49d83d3ecab62ced89b6f82df5281597ea33425658caa65a055b3bab461fd5
+    kaz-kjh_links.tsv.bz2:
+      bayt: 50
+      sha256: a63f8bbbce875cc378de6fcca5dbb10579a7bc870e62cc50cbdd0e0d3972e225
+    kaz-nog_links.tsv.bz2:
+      bayt: 106
+      sha256: ec35bcae45f82c85d783b32266d96772310aa2ebf2edb9f61599e8ab50f3700f
+    kaz-sah_links.tsv.bz2:
+      bayt: 75
+      sha256: f950258b5fedc1528b6c8443f544b2ef23d26326d9620d08c81ac9c46b7a131b
+    kaz-tat_links.tsv.bz2:
+      bayt: 8201
+      sha256: e103eeb06b9eeab6c69ad884c3052a359514298371f91d386e20938150a89f55
+    kaz-tuk_links.tsv.bz2:
+      bayt: 170
+      sha256: 869c132145cf5d33fca2637de45c08a9ceb23db726c4c974c609228027b44184
+    kaz-tur_links.tsv.bz2:
+      bayt: 3337
+      sha256: 657081b2eee8c93028eb3ec84d5086468169b2cb75aeb13fffd49efc862b16d6
+    kaz-tyv_links.tsv.bz2:
+      bayt: 78
+      sha256: 86973716ee1af4969ad4218c10577b65c63d55caa293fbe7159ebf07d3611670
+    kaz-uig_links.tsv.bz2:
+      bayt: 234
+      sha256: 121772496930d9d5b202e95883c4114b221c164785b692feb4a4ff8f90140b03
+    kaz-uzb_links.tsv.bz2:
+      bayt: 233
+      sha256: cc8ff92db62e86904aae48a7af48ec5fa223ec0840c0a5d76ef4d876669485bf
+    kaz_sentences.tsv.bz2:
+      bayt: 84351
+      sha256: c28c385700b6e0c76365f981be4ad4d5a2b6f55280bc9cf2b12938a069ef27ff
+    kir-aze_links.tsv.bz2:
+      bayt: 49
+      sha256: 8004a22dba300d0482e6af5ccbc367b257b25a05f301434529d713871db9f274
+    kir-bak_links.tsv.bz2:
+      bayt: 49
+      sha256: a149fc4ec04eeeb8eb7f944def5fff7aeab32a2b0c93851a65d0879c743a9c74
+    kir-chv_links.tsv.bz2:
+      bayt: 51
+      sha256: 3ee6c0a172fe611372d27d34ca7fa994997706710ef9e12dd6ab1e6b90a01229
+    kir-crh_links.tsv.bz2:
+      bayt: 49
+      sha256: afd587079dcb667cc1e78e23bea1310940e213714efcb993c288a0e63d972c6e
+    kir-eng_links.tsv.bz2:
+      bayt: 1396
+      sha256: db4ffaa9eccfb22574070d5045b6ddfac974c6866250f001dda563f400f2a718
+    kir-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: cce41e339b3f5555af0a45ddfecf96ea5184d256c76947b4c934e5aadb6314f5
+    kir-kaz_links.tsv.bz2:
+      bayt: 172
+      sha256: b4d342ac3113a2b1a07b904be7df9c0609417ee74421560b85bd8869626d8d71
+    kir-kum_links.tsv.bz2:
+      bayt: 50
+      sha256: 8db78090a10e719b50a882a41e24e9f721c18e4d9f3bbb78ecd782e87015ca0d
+    kir-nog_links.tsv.bz2:
+      bayt: 66
+      sha256: 8badbfe2ef7cf290da7b35d361bbf530baffa545e0bbecf367a1fb06bfbab92f
+    kir-sah_links.tsv.bz2:
+      bayt: 64
+      sha256: 31d03aa8d0c75819c4830f31eae69cca1b7cb6aab2c97340bf9c6611d6e61fc2
+    kir-tat_links.tsv.bz2:
+      bayt: 2093
+      sha256: 6105aa52392df58adb35f69b5c4951b70745684e70d139521209dd46fb433eeb
+    kir-tuk_links.tsv.bz2:
+      bayt: 85
+      sha256: be9f516ac5c4343e01725b329959607ff7884308412890f998e7f80e42d25ea8
+    kir-tur_links.tsv.bz2:
+      bayt: 1840
+      sha256: d344c6b3ce7b6c0d9f446951e39454e77ab7977d715aed67aace0be5f027f546
+    kir-uig_links.tsv.bz2:
+      bayt: 84
+      sha256: 765605929485161d1281a8ef8c5d3598c871a5268a70ec8757a0f5970df864f6
+    kir-uzb_links.tsv.bz2:
+      bayt: 94
+      sha256: f27b9c7eb8a3fbcdf896dc956b50784cfcde78c824b3b28d56fe89f7228d39ce
+    kir_sentences.tsv.bz2:
+      bayt: 11117
+      sha256: 63daa7a606067aa79877d3a4ddccb1ed83b51dcf10a299f29ab419a4e450d26c
+    kjh-chv_links.tsv.bz2:
+      bayt: 147
+      sha256: c46f26c3e8e2180d63db489cee0b14941356f9e45c0e57c1ec8854e4008a0c0c
+    kjh-eng_links.tsv.bz2:
+      bayt: 187
+      sha256: 3fcc3a61d05e0b997988a187bd2e7763733038bde8bb462e4683607c0f4b0daa
+    kjh-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: 744c3bbec39c41e965b10d49595544c769604fcc932afb9de88c298174f41eb5
+    kjh-kaz_links.tsv.bz2:
+      bayt: 50
+      sha256: 4d0bb4e624d5624d56efe07cb11cff5f9490c20ccb0b18d15f8f9624735d6cdd
+    kjh-sah_links.tsv.bz2:
+      bayt: 48
+      sha256: a1bbdc074e0fc3ff2f45bca2bef75736cd1ba8b1a5669c3561a8d280ff67e72c
+    kjh-tat_links.tsv.bz2:
+      bayt: 102
+      sha256: 559cca967f556740a8604b988feb3745f3df30d53a9e954462578c05cd6b0098
+    kjh-tur_links.tsv.bz2:
+      bayt: 99
+      sha256: 561d1d1038125e57c189553c2cd982e3bc047bb53ce58b28f1ed270cbbab8cf1
+    kjh_sentences.tsv.bz2:
+      bayt: 1532
+      sha256: f45cda077dae6a3ab686f658e8fa7d68002a00cac94c842338152752382ab3e2
+    klj-tur_links.tsv.bz2:
+      bayt: 58
+      sha256: 5653676cbe0ac8ffed66cc1f3538e6f5ef28cf0612b8a8b0c0e975ce6eff65ed
+    klj_sentences.tsv.bz2:
+      bayt: 520
+      sha256: 5f09b7b5765287aefee0b05ac70272268399f72d415302b0f04fdd2d010573fd
+    krc-eng_links.tsv.bz2:
+      bayt: 976
+      sha256: 9e7e02d8934c17e879974ed9eb76c5756df00c21628313c75097cfcb28337ff1
+    krc-kaa_links.tsv.bz2:
+      bayt: 49
+      sha256: be7ea32c8bdb4a98bea84404ce189c6c939abc64fbe24c65fcb2784ade38446f
+    krc-kum_links.tsv.bz2:
+      bayt: 101
+      sha256: 7d6c5010ff5804b9305f5f3f40f7cbbe4df32ff019acd6d5b6d97d9fb800c8c5
+    krc-sah_links.tsv.bz2:
+      bayt: 49
+      sha256: 3ff8fd23e1abdd1f86ef0fe048981e57831ed062a6976de972a67f122557b8a6
+    krc-tat_links.tsv.bz2:
+      bayt: 1108
+      sha256: aa1c835f27b0c03c417cfbfd66ca41f06ee277c1a598a3d905535105d9bb6ee6
+    krc-tur_links.tsv.bz2:
+      bayt: 212
+      sha256: d4e70f296a75528ae651600928542acc957e3a98e5f12130284907bed7286cac
+    krc_sentences.tsv.bz2:
+      bayt: 5313
+      sha256: 4c794375d9917fa8d6058938bc8a4c764321630ded0e7db59c3d91112af38237
+    kum-aze_links.tsv.bz2:
+      bayt: 49
+      sha256: 9bc20d5952d7662fa1fc62326bba3e530aa2542e8941aaede45e969a02d5e683
+    kum-chv_links.tsv.bz2:
+      bayt: 49
+      sha256: 0f5d9ffab0e1cb742a0a6c5ca058525a42e47ffda1f81b1c4282fa818a3b467b
+    kum-eng_links.tsv.bz2:
+      bayt: 179
+      sha256: 37585fc517b65c3cd6de2666ba96463da80838b7f1653544aa6a6d2cc1fd2260
+    kum-kaa_links.tsv.bz2:
+      bayt: 55
+      sha256: 6a612101b61f45830a33005242fe777f375bc21397f8490be475dae084881ad0
+    kum-kir_links.tsv.bz2:
+      bayt: 50
+      sha256: 80407eb3ce01525ff0061f530d24b4071b166c59d7bea23b70181223c3f76347
+    kum-krc_links.tsv.bz2:
+      bayt: 100
+      sha256: fcdf7d29dd46c6bc3784a64b32fd0e967ad9cd55ef445f8ad22add0d3a3d5871
+    kum-sah_links.tsv.bz2:
+      bayt: 49
+      sha256: 5f07f1556ff4a774712e57e0129ff19a7719f71a0edf114162d60660e580262f
+    kum-tat_links.tsv.bz2:
+      bayt: 673
+      sha256: 5c22687a68e3383ff9365d5e47eb29a9f0215a2cff0c8a160c8fe0ae733be8b1
+    kum-tur_links.tsv.bz2:
+      bayt: 132
+      sha256: 61d7e144663a5ce03bbc61431804f6376504701be0a3da3e0fc68391a4df565e
+    kum_sentences.tsv.bz2:
+      bayt: 2971
+      sha256: 352d9d218a18abf3d9d095218081cc60abbc7e1f0df1ca793e268a7d9a1df4da
+    nog-chv_links.tsv.bz2:
+      bayt: 64
+      sha256: 254b10bc904f76c100c019ba255b58e5a976de30f0c84e50e6cd14458cb5a2cc
+    nog-eng_links.tsv.bz2:
+      bayt: 695
+      sha256: 0a807e77b7d27d3d3305f9a006d5dfad3375500799979b4521bd90a185679ea7
+    nog-gag_links.tsv.bz2:
+      bayt: 50
+      sha256: e3c643ebb8dfbed5f936eb99ebc4e628f7762bf9c4cbc77d2834fe1f09666f54
+    nog-kaa_links.tsv.bz2:
+      bayt: 51
+      sha256: ffe59753599820a1829fffe495f17cd59de95aebc6065114ffd49b84c72212a6
+    nog-kaz_links.tsv.bz2:
+      bayt: 104
+      sha256: e491ee6e504317f12105a7016ab9f96412e3c7d0d00cf2931fd72bd348989fa3
+    nog-kir_links.tsv.bz2:
+      bayt: 65
+      sha256: edd23335b0de7b7a1323fb92b988f86f28d1c7ef42897a780f6f65f5c9f0de6f
+    nog-sah_links.tsv.bz2:
+      bayt: 49
+      sha256: 0cf9080976f32f42f4ffef95246ea9336b9db5b0b8659caac4d1ba82ca5468eb
+    nog-tat_links.tsv.bz2:
+      bayt: 1266
+      sha256: 860441b83406973d4ded337d1b1dd8ebdbdaea7fc80a9b9a33ba989b09641fb0
+    nog-tur_links.tsv.bz2:
+      bayt: 532
+      sha256: c1b5ee041f54c822daa18a334fb7dbca37b7c77b39a47a53e84437a1ef7875e5
+    nog_sentences.tsv.bz2:
+      bayt: 4579
+      sha256: 4d4d8f9d68243df2a54230fc754071e74430abeb83f0ea97f7474a0c460a97ed
+    ota-aze_links.tsv.bz2:
+      bayt: 75
+      sha256: 626acedf42fe871cdf3a5b800fd9913d24a03b9ccf914bae1baa28a5655b5998
+    ota-bak_links.tsv.bz2:
+      bayt: 49
+      sha256: 06697ef4c89ebcc1be01fa896bd427521e652a76ca493372ea27d7834794e739
+    ota-eng_links.tsv.bz2:
+      bayt: 5610
+      sha256: e2dd0bdded61341369efe4c1d4b1da9459f6394b78beb38e68b10efaccf47e55
+    ota-tat_links.tsv.bz2:
+      bayt: 185
+      sha256: 78c16a1d4ea53b44a60d18a366eff5aeb4fcd9f258f5704fd88a4b8e5ab33b53
+    ota-tuk_links.tsv.bz2:
+      bayt: 49
+      sha256: 506fc4c89c14567ed5fc3276766dbef98dd9fe5e4723421040dd38bd5edc5b9c
+    ota-tur_links.tsv.bz2:
+      bayt: 10144
+      sha256: 71311f327420f3c3c47a29de24e9225b99e61c556aa51762868ffc8423830e28
+    ota-uig_links.tsv.bz2:
+      bayt: 65
+      sha256: 36949b775cc3fdd562e186665d3d027666717278da444223f29f30bfc80d212f
+    ota-uzb_links.tsv.bz2:
+      bayt: 49
+      sha256: 60ea006bf17fb3d4854d21600243b0a8d5bbbff8ca9737c23a4b05f0db04a93a
+    ota_sentences.tsv.bz2:
+      bayt: 67768
+      sha256: 5898d36afbfacacd8e9b08a9837a00092810f260e1bb381ae3f9c8b31f09570b
+    sah-alt_links.tsv.bz2:
+      bayt: 129
+      sha256: 723f3bbc7641d122a915afb2a4325508cc5f0cb26b3c79ccbd2a04c13e54e593
+    sah-aze_links.tsv.bz2:
+      bayt: 61
+      sha256: c1cdbb3be5252b1973ef15f80a3ad086761d913ccb83f3fb83210f31c714fb70
+    sah-bak_links.tsv.bz2:
+      bayt: 76
+      sha256: 0fc7e6e18ddcb1c2efbda9f35a0207c6b8eab586792bf67847223bb68eba4155
+    sah-chv_links.tsv.bz2:
+      bayt: 144
+      sha256: cafbb0ebce6b0fef3f8e52d942d3fc261df027a1711bbbd8ef8c86411ece09af
+    sah-crh_links.tsv.bz2:
+      bayt: 49
+      sha256: b1c71b748e62004cc7944ce73e146ae4ff7228c692f8f4bd30593bfd0b2df8de
+    sah-eng_links.tsv.bz2:
+      bayt: 798
+      sha256: 97d5e02dd8e347613ba84f21d153c239f95b4b5fe7e2ad399762edce13c28a45
+    sah-gag_links.tsv.bz2:
+      bayt: 57
+      sha256: 47c9924c011dd8793006b403ab734af20f50da034a9bc9eb7f63d0ffebe5fe91
+    sah-kaa_links.tsv.bz2:
+      bayt: 61
+      sha256: 40166989f9a784163858a30686268c75339d103720d0bbca3168685858817551
+    sah-kaz_links.tsv.bz2:
+      bayt: 76
+      sha256: 21fee9fe472c5a307b8896ce220a9122b7a997aaea6064ffdc0497836f9b4bb4
+    sah-kir_links.tsv.bz2:
+      bayt: 63
+      sha256: 5230be7d253d03a3bc16d4bbb6642e1b5eec72e2281045208b35041b3494ed30
+    sah-kjh_links.tsv.bz2:
+      bayt: 49
+      sha256: b1be9539d0e0828734c2721b445f56c94e420f190d06f96972ae937f13c8e213
+    sah-krc_links.tsv.bz2:
+      bayt: 49
+      sha256: d9643b155ba89834c036ebc1777b3e26426b606f5bb4d22d938c90d004657057
+    sah-kum_links.tsv.bz2:
+      bayt: 49
+      sha256: 64d72ad75ca1707100e16714269ef091ea4d9514c799b4c5d45e642eb1cde31a
+    sah-nog_links.tsv.bz2:
+      bayt: 49
+      sha256: 8328e3398623a7a02aaa513e45449810ce29b79a843f0ef5dbe1ca25c401acd9
+    sah-tat_links.tsv.bz2:
+      bayt: 5148
+      sha256: 208d2f40ec66129b1b79aa575dc325d984d36648f4d331f2bd261ae43828b05c
+    sah-tuk_links.tsv.bz2:
+      bayt: 48
+      sha256: 3b104412a2613512ffd7856b420710d0df69f0e252c4da3f4216f027831b2355
+    sah-tur_links.tsv.bz2:
+      bayt: 444
+      sha256: f5a4e0a477cc864c36a9987234df08c88eb1cffa67b759be61de5315879fc628
+    sah-tyv_links.tsv.bz2:
+      bayt: 65
+      sha256: c102db36abe355e2b4a0e01f022510d84e8c7f62b19ccc6b2fd7ad55a8a4a5d1
+    sah-uig_links.tsv.bz2:
+      bayt: 48
+      sha256: e3d6c1082a3e40f068812283f093c9e5acb7abedfcb784d0fb28319abd27d4f8
+    sah-uzb_links.tsv.bz2:
+      bayt: 76
+      sha256: 8e6ff0b585bd313b67095fe3e088a15a36ea9045ea2cd21162dfe21aaa42416a
+    sah_sentences.tsv.bz2:
+      bayt: 14987
+      sha256: 307d3416323048cd67edbaf5b8160948a280a25d717ceaabc424d3aa1b173d75
+    tat-alt_links.tsv.bz2:
+      bayt: 262
+      sha256: d59ff054f548fd1e5feb2183dc5cd4bdf2f4212d6479f1cbeae51ef3b21dd2ca
+    tat-aze_links.tsv.bz2:
+      bayt: 9254
+      sha256: f8470c050811b0ce7860fce56098ef5e68346246f8859162b1201a371d6c388c
+    tat-bak_links.tsv.bz2:
+      bayt: 2250
+      sha256: dfc4d549254b51003557b68bdf750bcd8810abc795e7eee2bac7c8ff276d2d7f
+    tat-chv_links.tsv.bz2:
+      bayt: 884
+      sha256: b08d5bad1b4dc3be7741934cdb19d6ddd774c335e664aefc4f5d93813e8021c1
+    tat-crh_links.tsv.bz2:
+      bayt: 3072
+      sha256: 0e1ddab03ec959d89ddb2778f2c5b8b263238f64157c9f4b2f62bd7b7f266955
+    tat-eng_links.tsv.bz2:
+      bayt: 79422
+      sha256: 73f384db6e46b4f49ea4a6d98aa4deff3ecbc1926a7eba79ccf2c04b433f62f1
+    tat-gag_links.tsv.bz2:
+      bayt: 49
+      sha256: 74b248e1bee3cb8aecbac351634cdad1c87317301a2f433c64bf8ac360e38321
+    tat-kaa_links.tsv.bz2:
+      bayt: 232
+      sha256: afc73f26251a10a731f917818f5d8eb88b19733baf822c66305ae8023ef03856
+    tat-kaz_links.tsv.bz2:
+      bayt: 8214
+      sha256: 6352b9ed4e13db0e8ced78fd32e8778923698c0f10498da056bd72e6bae6c366
+    tat-kir_links.tsv.bz2:
+      bayt: 2086
+      sha256: 8484b071815e75b44b54b564e06f27c760fb41d7e79cd42e55ea102bbaf0ec01
+    tat-kjh_links.tsv.bz2:
+      bayt: 101
+      sha256: fe4b68287f3acea32f41e2327477457cc2da5cd1917df4af5a2ba5b3a5a2d800
+    tat-krc_links.tsv.bz2:
+      bayt: 1105
+      sha256: 6ca195413ba25c64cfd4ba9a52b548593567fb1a39e518ca232b201e945cdb56
+    tat-kum_links.tsv.bz2:
+      bayt: 678
+      sha256: f157461304dc838c970e60b311b745947b296baec32f2af09f451e30e6d84db3
+    tat-nog_links.tsv.bz2:
+      bayt: 1267
+      sha256: 7edfa467623e4161ec32958643b241f0109c761b4045f842d711261025bf592e
+    tat-ota_links.tsv.bz2:
+      bayt: 185
+      sha256: cf66913356894032a8f25ba93fb884d29e832f5909839ccac8d5df2652669f4d
+    tat-sah_links.tsv.bz2:
+      bayt: 5136
+      sha256: b7084cb23b379d8348d76c343f0f9edc44e7e28bd653acac721a7be448e02926
+    tat-tuk_links.tsv.bz2:
+      bayt: 2911
+      sha256: 2bf296f9fd7b3031e88870b676dcc10c13b6ce31efb96f4c8bcd0d68de003756
+    tat-tur_links.tsv.bz2:
+      bayt: 32362
+      sha256: 727f235a2e954fa3152df02bd919ea22e2817dcab2e8610ccfa56ff00a6edbd9
+    tat-tyv_links.tsv.bz2:
+      bayt: 273
+      sha256: 383650373daa9d0f006d640427113cb194711b89d536a10cd8cd0b0a8f2fe64e
+    tat-uig_links.tsv.bz2:
+      bayt: 5767
+      sha256: 326aa29ef1612305566648409598d006c458caadb42f0053bf2088bdffcafc26
+    tat-uzb_links.tsv.bz2:
+      bayt: 1824
+      sha256: cfbd7106e1af0aa54dbafc7db9e9859d35faba9721e716b5cc2d7e4a79cee4eb
+    tat_sentences.tsv.bz2:
+      bayt: 1457256
+      sha256: 4f982fdff6711e7d56bb9fe10cd5bc5023cf29cd1c34bc0e20767ecfa327e841
+    tuk-aze_links.tsv.bz2:
+      bayt: 238
+      sha256: aed1b4330199a12cde50764b1459f6f04d159bd5d19b7c6faf1a47aaa26954b8
+    tuk-bak_links.tsv.bz2:
+      bayt: 67
+      sha256: c32175ff8c11e8862b6e9da643af66cf78828fa2c3d7ed631636283efc268993
+    tuk-chv_links.tsv.bz2:
+      bayt: 77
+      sha256: fff6ca3d83b7002e02795f32be9da0b3830ec2e9078e788e6027527828272067
+    tuk-crh_links.tsv.bz2:
+      bayt: 421
+      sha256: 5209dcde4c60a240d3eeb85cc8b8eaa73f572bdbbeba7ed12e29fa695a39018e
+    tuk-eng_links.tsv.bz2:
+      bayt: 37670
+      sha256: 34905bcc702d42429a8f6d0b3ebb22385c10fc695a8d10595d6762167be0c206
+    tuk-gag_links.tsv.bz2:
+      bayt: 49
+      sha256: 007ef2d81703551110dacd24f8920bf9f0f29eace6da45010edd2bd5465e996e
+    tuk-kaa_links.tsv.bz2:
+      bayt: 51
+      sha256: 9ce2fae85fc2238ac7a46b86b14d9217dd971778c2a1386bef89c536ae1fb6ac
+    tuk-kaz_links.tsv.bz2:
+      bayt: 168
+      sha256: d3df6fa30b41ab835d071959afda52b02d177ca74b5c6398b8e7dcd1b4a126e3
+    tuk-kir_links.tsv.bz2:
+      bayt: 83
+      sha256: 27ec4e502be8966a390d77c4bfcf32650fc79f78571e98d490aa2eae7927d1a0
+    tuk-ota_links.tsv.bz2:
+      bayt: 49
+      sha256: 91594945a8c44d5a570c246f25f8826515e5215db5fb48d8b49e5306b164aa42
+    tuk-sah_links.tsv.bz2:
+      bayt: 48
+      sha256: f995efbf6abd610e454558c02ac5163ae821b9f530e9c1424d44a8fe60f96fa9
+    tuk-tat_links.tsv.bz2:
+      bayt: 2896
+      sha256: 816bc88d6e17d4df80a70ff635c682f46a986128bc0e8c10231d35a99e172a87
+    tuk-tur_links.tsv.bz2:
+      bayt: 3409
+      sha256: a0de7b013b9f45d6ce5d336a25334b40d92f33cb0a60a80153a7bbdd5f95fbce
+    tuk-uig_links.tsv.bz2:
+      bayt: 98
+      sha256: 250416482f52b4544de768881ed8f70e371d89d2260d9beac59d321516604971
+    tuk-uzb_links.tsv.bz2:
+      bayt: 107
+      sha256: 09c8814a5c04a90f77217f87459b8b1eb7db1305a470c72ce64c8f01402da8d5
+    tuk_sentences.tsv.bz2:
+      bayt: 90068
+      sha256: 587dbd42fb0412288c6f03c7510d9ea1d1d0dbbea8abadeadd472545da24ba1f
+    tur-alt_links.tsv.bz2:
+      bayt: 182
+      sha256: b7867b8276b5911772e38e34256d3488b237b64a7695ae2ffceb51c341ff9922
+    tur-aze_links.tsv.bz2:
+      bayt: 12009
+      sha256: 9c565105545efe9acdd01399afb16ef4e695a306e1ec3071d9c161d581494795
+    tur-bak_links.tsv.bz2:
+      bayt: 901
+      sha256: 8371e5bac1a40ffbb6dd373e5ebdd8b9f172d0f80925c47053e8dda00d472a83
+    tur-chv_links.tsv.bz2:
+      bayt: 3721
+      sha256: f337a559a4ae53fb4b50d50ebd8a421f10eaa4f47a0b97af1ce2a1a49a180a3b
+    tur-crh_links.tsv.bz2:
+      bayt: 1347
+      sha256: 6eb7f3a18ddad3a2acb90475047dfdff6e8e91dfdddd2d62ed75d26bbdeb720b
+    tur-eng_links.tsv.bz2:
+      bayt: 4224923
+      sha256: df3f0b93560d863545f74bb6b8f40edf4b5d939c4c6d096f9266a144035382ed
+    tur-gag_links.tsv.bz2:
+      bayt: 301
+      sha256: bcf250d9197b86c8c78d27fd65f28f59e5d11684b1226374c3ad082a3da3095c
+    tur-kaa_links.tsv.bz2:
+      bayt: 212
+      sha256: c110ce9e6fb7befd9ab7d15b07b40df24c0eb43cd104054842a7ea8aa9e7edcb
+    tur-kaz_links.tsv.bz2:
+      bayt: 3343
+      sha256: 052b475de6222337841935c096fa0f984527aea7dc593dc7ccbad5da758da7d6
+    tur-kir_links.tsv.bz2:
+      bayt: 1831
+      sha256: a40832a1e5c8005ff8e45e5f437a90f2564881eaa40b830fb8c4a8092b8ed4ab
+    tur-kjh_links.tsv.bz2:
+      bayt: 99
+      sha256: d9fbe6ed9423fce0a165c9b29771baab04b9855765a4d77a654e8524f3576343
+    tur-klj_links.tsv.bz2:
+      bayt: 58
+      sha256: a2e7a0234cee7b3a64085c156d863e530267030b5d96c3a93241270881b521bd
+    tur-krc_links.tsv.bz2:
+      bayt: 211
+      sha256: f5548c7c0b52cbabea9a12651f70895125cff8f038b6be6f926795812976e239
+    tur-kum_links.tsv.bz2:
+      bayt: 131
+      sha256: 05f03e0afdcef01dc011554e34776ca25c58eae9422f569f792065a69273aa1d
+    tur-nog_links.tsv.bz2:
+      bayt: 534
+      sha256: 219700297da729d79703466d037ead9e0e6bbc84f665c7a438e4cf200c952e7f
+    tur-ota_links.tsv.bz2:
+      bayt: 10115
+      sha256: 593cbadf48f5218db9b99ee6f8ef1362f1b5d690d7072d48e942d26daef96683
+    tur-sah_links.tsv.bz2:
+      bayt: 444
+      sha256: 666e4532dd2ae37f5dbac3e2635e67db31577ac2376e40605b1d06d3c2d23f5d
+    tur-tat_links.tsv.bz2:
+      bayt: 32346
+      sha256: 2d0ca4c993b0c099f6faccfefc6479a44e978f54b7f2a9aaab95b039e97ad4ee
+    tur-tuk_links.tsv.bz2:
+      bayt: 3395
+      sha256: 7141c43f3809c142531d9ca50d29943856fe5d4c7e80bcc304cd83a575a3ec90
+    tur-tyv_links.tsv.bz2:
+      bayt: 231
+      sha256: 87c59dd9d844fff5995799757f7bb20a689561d0f4a9936d76e2c9f6a7de45e8
+    tur-uig_links.tsv.bz2:
+      bayt: 14844
+      sha256: 8d561ebf0198a961556136658f831b3f61c9d7a6aaf9809c1ace99c51df898b8
+    tur-uzb_links.tsv.bz2:
+      bayt: 2708
+      sha256: c78f4adfe5e1f44d0e86c5246c07e4ea69ef982625ff5da4eb1190dccea9d5b5
+    tur_sentences.tsv.bz2:
+      bayt: 8588542
+      sha256: 5c857f72c30ad8fdd3201744c7170d800fb7a3e7db680535e1eeb1407c2f3184
+    tyv-eng_links.tsv.bz2:
+      bayt: 264
+      sha256: 535de674bd08fe8c1006f48c2c6ca34b795995866dce5bb3a76c92414ae4ecb4
+    tyv-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: 3b8e3fb646c20e7c040163dc7053af02124c6032ef38f3e8e7ed69173981a306
+    tyv-kaz_links.tsv.bz2:
+      bayt: 79
+      sha256: aa7941f0a6bd4b8969d89ac7deef8c3892206265cddf8a7b3ebb90189a8bc39f
+    tyv-sah_links.tsv.bz2:
+      bayt: 65
+      sha256: 12477102e3cb2b69884ce9943249ba91789070c16eed90d13b4e7fd4f7a48066
+    tyv-tat_links.tsv.bz2:
+      bayt: 275
+      sha256: 18098ee3f43e00d0c3e3f762a6a417ce7e828e4c52e44818ec25ba0280e1ff37
+    tyv-tur_links.tsv.bz2:
+      bayt: 232
+      sha256: c97d00a40225d5194910a1d68b9137be1e85c2cb049e89bb25bc29e44f6a6304
+    tyv-uzb_links.tsv.bz2:
+      bayt: 50
+      sha256: 0d240bf2e2ab1f17fef683e8b4a42e3b61d621ce137e54243b936b54c9b2f95e
+    tyv_sentences.tsv.bz2:
+      bayt: 1311
+      sha256: 7b79e6df3301fd82c53450cb1edd976bc44f0f7f3e6d850978611666bdcf8210
+    uig-aze_links.tsv.bz2:
+      bayt: 59
+      sha256: a5254e639d44c1968a02be4f49b6a36a7989589af1ead097bd6035cba0510498
+    uig-bak_links.tsv.bz2:
+      bayt: 73
+      sha256: 2138dd868961c76b434d7df953a77fc3ed1701545bdffc248fd4757758dca4bb
+    uig-chv_links.tsv.bz2:
+      bayt: 49
+      sha256: 4ea02452db4d9fa940ff276f1856759cfed1c7a3d487bf0362ef8b6ab21f8e1f
+    uig-crh_links.tsv.bz2:
+      bayt: 266
+      sha256: d3925f6c46c6f2d6f74ce705a2abb5224b1141e551a2860573376fcf310af02f
+    uig-eng_links.tsv.bz2:
+      bayt: 23158
+      sha256: 83bfbab9c19d6363a2d88256019c175571668f3eb0eee031cc54c067e0ffe7c3
+    uig-gag_links.tsv.bz2:
+      bayt: 57
+      sha256: 424baab59496e9ca8cc0a6a1436b7a692392987de03d493fea0ad4983d5f2b8c
+    uig-kaa_links.tsv.bz2:
+      bayt: 49
+      sha256: d1c66acbbe110d914ce763289b5d138b12582acdf4a2bfbd02fe8ca2c0dd315c
+    uig-kaz_links.tsv.bz2:
+      bayt: 233
+      sha256: 214c8e0dd8b7e4787afac01ad538e0f44ad0817766f483a8904010135deb899e
+    uig-kir_links.tsv.bz2:
+      bayt: 83
+      sha256: fbedeb9075d6c7031461dd7e6771469bb72d36c6a1b75005079b3f6f711a1bda
+    uig-ota_links.tsv.bz2:
+      bayt: 66
+      sha256: 06cf3edd6d07f1ae23a0f6e294b96fa5b94638878c35157118aeca566b4605b1
+    uig-sah_links.tsv.bz2:
+      bayt: 49
+      sha256: bdae9d31f5b88e2fc1ace8839f26a6645c673c831cebc932ea93deac89bf6e50
+    uig-tat_links.tsv.bz2:
+      bayt: 5774
+      sha256: 9b4caed0d48bc2a794e5368d2ce26b221d67f681cb214e8e5ca114fe52dc0b3b
+    uig-tuk_links.tsv.bz2:
+      bayt: 96
+      sha256: 30f951f3dea652fc17c6bd5ced985943b89eaa08db8d3f2c00d3c3a347473f87
+    uig-tur_links.tsv.bz2:
+      bayt: 14855
+      sha256: c681ef49eb7d6c57fc1008190223a0da0b41844df60d143c5358980e3d311263
+    uig-uzb_links.tsv.bz2:
+      bayt: 1146
+      sha256: 9ff1d7f18d8a48376e8b4c7cfd2823eb31f2ff486fd05b68f8a079502ea6eb40
+    uig_sentences.tsv.bz2:
+      bayt: 119523
+      sha256: 73e8526f60d8736c6672d9d1e6289a03257cf5bb9efa58c30f947b07c1d60417
+    uzb-aze_links.tsv.bz2:
+      bayt: 84
+      sha256: 0c26cde2a4f346084b4793da4ffaa01823f6abb1f73f8c89a1e04b03b325bd10
+    uzb-bak_links.tsv.bz2:
+      bayt: 70
+      sha256: 5a75393d23d5ac26a04503526493437706e493346e3fc9480199dbbda064427e
+    uzb-chv_links.tsv.bz2:
+      bayt: 60
+      sha256: f2ff83911ec357ed856aa63679479254e20f4d0c09188a0c56fb15dbf494a012
+    uzb-crh_links.tsv.bz2:
+      bayt: 49
+      sha256: fbfbc9dd1bdaf3aaecf6249bdc25f57b1f73117e537ced19d9b5fe102b7f2af1
+    uzb-eng_links.tsv.bz2:
+      bayt: 3830
+      sha256: bd43207f9fc39866286e5074403ab54741a3e7d4eb1c4c27446685f08180db6a
+    uzb-kaa_links.tsv.bz2:
+      bayt: 50
+      sha256: f4a4db9a0395b923d5fc1875fdd272fe3413149e9a843ad00e11a71bb5a967f2
+    uzb-kaz_links.tsv.bz2:
+      bayt: 234
+      sha256: 8153ed9cff1ca738baad7817b0106e81c59d6afeeacd56540378978682b4bc74
+    uzb-kir_links.tsv.bz2:
+      bayt: 94
+      sha256: 41d593f1dbd10f8e2c8237d3a399407b7a483c79ebca458ef839299925011432
+    uzb-ota_links.tsv.bz2:
+      bayt: 49
+      sha256: dbe1722a272b99a95aa51ab3f08122593e5936112ce747c2b78cf7f452850460
+    uzb-sah_links.tsv.bz2:
+      bayt: 73
+      sha256: 01a9d2c93b88e7eda66860a95700c90a44031a64c5612da6a251084b3551ab7b
+    uzb-tat_links.tsv.bz2:
+      bayt: 1816
+      sha256: cc8ecb0dc94c531c1dde4b6b4ba6f35a501955641a38e24b3ff0f5f40514de0b
+    uzb-tuk_links.tsv.bz2:
+      bayt: 109
+      sha256: 525a01d67fe1b2da53210430524ce29b81779efe1aebde63248d4c7278270cf9
+    uzb-tur_links.tsv.bz2:
+      bayt: 2713
+      sha256: e866606a35de136e0060a6768052b6af7bd6ddf0c2a6769d160e5a2c0d9060a9
+    uzb-tyv_links.tsv.bz2:
+      bayt: 50
+      sha256: 5b6bb435c3c7bf92ea9bca13bad057a1c52e4c79af6c5aa4acf016611a19c528
+    uzb-uig_links.tsv.bz2:
+      bayt: 1149
+      sha256: 8f924b00ef3a8807869599837e422c3915931ae7f9767f639a2306322313690c
+    uzb_sentences.tsv.bz2:
+      bayt: 16715
+      sha256: b5081772b744122f0cde7c13ff1a6d8fefb87175f38f55a1fa553a8b049e12b7
+  tarih: '2026-11-13'
+universal-dependencies:
+- adres: raw.githubusercontent.com/UniversalDependencies/UD_<Dil>-<Derlem>/master/
+  dosyalar:
+    az_tuecl-test.conllu:
+      bayt: 84678
+      sha256: 8b315f8b065f094e38482465706ba44a9caf1b082fc8bbc94908f6fdeee8c3b5
+    kk_ktb-test.conllu:
+      bayt: 809032
+      sha256: 706fe3d8951649a8a302fe7ebf0866f808750b67a703b0512b732eb966e4a6ed
+    kk_ktb-train.conllu:
+      bayt: 40712
+      sha256: 6297597914a3f319db573573f927a6577c702f5fa00dcd653162aab46026aeaa
+    ky_ktmu-test.conllu:
+      bayt: 1076536
+      sha256: 843061f0ad2204d5d65ee77edf2e576fa54887415ec8e1bb0cd928fd7b23877b
+    ky_ktmu-train.conllu:
+      bayt: 1147292
+      sha256: 7652f9b54ec96a778133cb1528769ceb2de83d0812076495f9943704b9672ea9
+    ky_tuecl-test.conllu:
+      bayt: 145060
+      sha256: 08224be6b74346f582234f54527412dd6265c8d8b42e7d6ef463aade85bdcd9b
+    otk_clausal-test.conllu:
+      bayt: 10688
+      sha256: 5e3faa1555cdbeece7ea52948101825b2972760d1fad3b8eee2dda238d953724
+    sah_yktdt-test.conllu:
+      bayt: 152123
+      sha256: 902c7763b04d8cc980aded82c751462b918992bb0e399fb087eb776720f5d0d6
+    tr_boun-dev.conllu:
+      bayt: 977609
+      sha256: b3531bb26337b3ef258796e6948d2c3469e71704613b9373cd87f341409e2d8d
+    tr_boun-test.conllu:
+      bayt: 965937
+      sha256: c7f234f6a7c1b7025f8cab9025239286836e971b653fb1dd3f266a84ac74dbeb
+    tr_boun-train.conllu:
+      bayt: 7975961
+      sha256: ae54aef82e69cb7ccc54703a07e2ebcde66c2e4453a5debfac1eb78dfed60e9f
+    tr_imst-dev.conllu:
+      bayt: 899931
+      sha256: f58d60666d3a9a7fea843b36444da5d6a7849b1172a851b2223479682c53d0d4
+    tr_imst-test.conllu:
+      bayt: 846218
+      sha256: 299d3af2adb8722b5dd09cd17a20302af3670d36f2e57ed26170bf21526fd3d4
+    tr_imst-train.conllu:
+      bayt: 3139065
+      sha256: d7d65fb10bd0f6ed6ecb0258938d6d126a2b93b409582759d2b52195dd5b7313
+    tt_nmctt-test.conllu:
+      bayt: 225833
+      sha256: d77eeab4bbd7caa70b8f6272ca8a9b2781ff4f9cfe232d88a48f20c566c6311f
+    ug_udt-dev.conllu:
+      bayt: 1106136
+      sha256: c2a7762b3383c756e512027891325330b5c6c25dc16bd045fa148f46d2c9ef5a
+    ug_udt-test.conllu:
+      bayt: 1074588
+      sha256: fd314c6478d00be84d843ba1a83b017b5cd4d7c7f3edb805644cd910b198327d
+    ug_udt-train.conllu:
+      bayt: 2022309
+      sha256: 4e3c06c276cb4012612e08ad69fb2cc973111bac90c3ced9f9aab7e65aa6c083
+    uz_ut-test.conllu:
+      bayt: 368916
+      sha256: 0a11276eed9f2d9332e211a7f2b7cde1b6532be44acf547679f914814d758808
+    uz_uzudt-test.conllu:
+      bayt: 116727
+      sha256: 6a191e59b6cbaade250463109581e95350702eb85fff765f407eca00ed1937dc
+    uz_uzudt-train.conllu:
+      bayt: 297818
+      sha256: c1fb9548cbba34e3dddd5ca2af7d5eb3e37f1e8a6e640e29061ff5b9e581aa12
+  tarih: '2026-11-14'

@@ -32,7 +32,7 @@ taniklar:
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: annı, dil: gag, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: doerfer1980, bicim: haanlı, dil: klj, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
   - {atif: 'malov1957, tenisev1966', bicim: alın, dil: ybe, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'baskakov1977, iz1992; Apertium tur sözlüğünde var; Tatoeba''da 186 kez; UD derleminde baş biçim', bicim: alın, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
+  - {atif: 'baskakov1977, iz1992; apertium-tur.tur.lexc: sözlükte var; tatoeba tur_sentences: 186 kez; UD_Turkish-BOUN/IMST: baş biçim', bicim: alın, dil: tur, kaynak: savelyev-turkic; apertium; tatoeba; universal-dependencies, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba, universal-dependencies], anlam: [savelyev-turkic]}}
   - {atif: 'baskakov1968, khamzajev1968', bicim: alın, dil: tuk, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
 
 yok:

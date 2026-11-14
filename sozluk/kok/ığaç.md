@@ -34,7 +34,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 8.–14. yy | Eski Türkçe |  | **ığaç** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 | 8.–14. yy | Eski Türkçe |  | **ığaç** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **ağaç** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **ağaç** | آغاج | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — Tatoeba'da 317 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: araç | ✓ doğrulandı |
+| 16.–19. yy | Türkiye Türkçesi |  | **ağaç** | آغاج | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — tatoeba tur_sentences: 317 kez; UD_Turkish-BOUN/IMST: baş biçim; ASJP IRAN_TURKIC: araç | ✓ doğrulandı |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 

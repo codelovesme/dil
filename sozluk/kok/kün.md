@@ -36,7 +36,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 | 13.–15. yy | Eski Anadolu Türkçesi |  | **gün** | كُونْ | Eski Anadolu Türkçesi metinleri |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kun** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **kün** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **gün** | گون | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — Apertium tur sözlüğünde var; Tatoeba'da 5197 kez; UD derleminde baş biçim | ✓ doğrulandı |
+| 16.–19. yy | Türkiye Türkçesi |  | **gün** | گون | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) — apertium-tur.tur.lexc: sözlükte var; tatoeba tur_sentences: 5197 kez; UD_Turkish-BOUN/IMST: baş biçim | ✓ doğrulandı |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 

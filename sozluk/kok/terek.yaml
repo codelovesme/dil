@@ -20,11 +20,11 @@ taniklar:
     atif: noauthor1880
     not: Latin harfli yazım terac.
     denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}
-  - {atif: 'useinov2007; Apertium crh sözlüğünde var; ASJP CRIMEAN_TURKISH: terek', bicim: terek, dil: crh, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
-  - {atif: 'tenisev1989, sujuncev1965; Apertium krc sözlüğünde var; Tatoeba''da 1 kez', bicim: terek, dil: krc, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
+  - {atif: 'useinov2007; apertium-crh.crh.lexc: sözlükte var; ASJP CRIMEAN_TURKISH: terek', bicim: terek, dil: crh, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'tenisev1989, sujuncev1965; apertium-krc.krc.lexc: sözlükte var; tatoeba krc_sentences: 1 kez', bicim: terek, dil: krc, kaynak: savelyev-turkic; apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, tatoeba], anlam: [savelyev-turkic]}}
   - {atif: baskakov1974, bicim: töräk, dil: kdr, kaynak: savelyev-turkic, denetim: {durum: tek-kaynak, bicim: [savelyev-turkic], anlam: [savelyev-turkic]}}
-  - {atif: 'adzijev1992, bammatov1960, bammatov1969; Apertium kum sözlüğünde var; ASJP KUMYK: terek', bicim: terek, dil: kum, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
-  - {atif: 'baskakov1963, baskakov1956, kapajev2007; Apertium nog sözlüğünde var; ASJP NOGAI: terek', bicim: terek, dil: nog, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'adzijev1992, bammatov1960, bammatov1969; apertium-kum.kum.lexc: sözlükte var; ASJP KUMYK: terek', bicim: terek, dil: kum, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
+  - {atif: 'baskakov1963, baskakov1956, kapajev2007; apertium-nog.nog.lexc: sözlükte var; ASJP NOGAI: terek', bicim: terek, dil: nog, kaynak: savelyev-turkic; apertium; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, apertium, asjp], anlam: [savelyev-turkic, asjp]}}
   - {atif: 'malov1957, tenisev1966; ASJP WEST_YUGUR: terik', bicim: terek, dil: ybe, kaynak: savelyev-turkic; asjp, denetim: {durum: dogrulandi, bicim: [savelyev-turkic, asjp], anlam: [savelyev-turkic, asjp]}}
 
 yok:

@@ -492,6 +492,18 @@ Kurallar:
   kavram için başka bir kelime görülen tanıklar [`sozluk/CAPRAZ.md`](sozluk/CAPRAZ.md)
   inceleme listesine girer; araç onların durumunu değiştirmez. Notunda çözülmemiş
   çelişki yazan tanığa hiçbir araç dokunmaz.
+- **İzlenebilirlik.** Bir kaynakta sonradan hata bulunursa etkilenen tanıklar
+  bulunabilmelidir. Bunun için:
+  - tanığın `kaynak` alanı kaynağı, `atif` alanı kaynağın neresi olduğunu
+    (dosya, derlem, ASJP dil kaydı, Savelyev'in özgün sözlük künyesi) yazar;
+  - kaynak sözlüğünde `surum` alanı kullanılan sürümü, `kaynaklar/surumler.yaml`
+    indirilen her dosyanın tarihini ve SHA-256 parmak izini tutar
+    (`araclar/surum_kaydet.py`). Canlı okunan sayfalar (Wiktionary) için parmak
+    izi yoktur; bu `surum` alanında yazar;
+  - `python3 araclar/sozluk.py --etki KAYNAK [--atif DESEN]` o kaynağa (ya da
+    atfı desene uyan kısmına) dayanan tanıkları ve kaynak çıkarılırsa durumu
+    düşecek olanları listeler. Örnek: `--etki apertium --atif apertium-aze`,
+    `--etki savelyev-turkic --atif uraksin1996`.
 - **Doğrulanmamış tanık silinmez, işaretlenir.** Hiçbir kaynakla doğrulanamayan
   biçim, yapay zekânın kendi bilgisinden (eğitim verisinden) gelir; nereden
   öğrenildiği gösterilemez. Böyle bir tanık `kaynak: bilgi` ile girilir ve notunda

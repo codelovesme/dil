@@ -40,6 +40,8 @@ KOK = Path(__file__).resolve().parent.parent
 KOK_DIZIN = KOK / "sozluk" / "kok"
 RAPOR = KOK / "sozluk" / "CAPRAZ.md"
 UD_KOD = {"tr": "tur", "kk": "kaz", "ug": "uig", "ky": "kir", "tt": "tat", "uz": "uzb", "az": "aze", "sah": "sah"}
+UD_DERLEM = {"tur": "UD_Turkish-BOUN/IMST", "kaz": "UD_Kazakh-KTB", "kir": "UD_Kyrgyz-KTMU/TueCL", "tat": "UD_Tatar-NMCTT",
+             "uig": "UD_Uyghur-UDT", "uzb": "UD_Uzbek-UzUDT/UT", "aze": "UD_Azerbaijani-TueCL", "sah": "UD_Yakut-YKTDT"}
 ASJP_ISO = {"azj": "aze", "uzn": "uzb"}             # öbürleri aynı kodla
 ASJP_KAVRAM = {"I": "ben", "you": "sen", "we": "biz", "this": "bu", "who": "kim", "what": "ne", "many": "cok",
                "one": "bir", "two": "iki", "big": "buyuk", "long": "uzun", "small": "kucuk", "woman": "kadin",
@@ -207,11 +209,11 @@ def main():
             kay = [k.strip() for k in kay]
             yeni, atif = [], []
             if dil in AP and b in AP[dil] and "apertium" not in kay:
-                yeni.append("apertium"); atif.append(f"Apertium {dil} sözlüğünde var")
+                yeni.append("apertium"); atif.append(f"apertium-{dil}.{dil}.lexc: sözlükte var")
             if dil in TA and TA[dil].get(b) and "tatoeba" not in kay:
-                yeni.append("tatoeba"); atif.append(f"Tatoeba'da {TA[dil][b]} kez")
+                yeni.append("tatoeba"); atif.append(f"tatoeba {dil}_sentences: {TA[dil][b]} kez")
             if dil in UD and b in UD[dil] and "universal-dependencies" not in kay:
-                yeni.append("universal-dependencies"); atif.append("UD derleminde baş biçim")
+                yeni.append("universal-dependencies"); atif.append(f"{UD_DERLEM.get(dil, 'UD')}: baş biçim")
             asjp = [x for kv in kavramlar if (kv, v["kok"], dil) in KD for x in AS.get((dil, kv), [])]
             if asjp:
                 eslesen = [x for x in asjp if benzer_asjp(b, x[1]) >= 0.6]

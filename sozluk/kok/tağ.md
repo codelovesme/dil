@@ -33,7 +33,7 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 |---|---|---|---|---|---|---|---|---|
 | 8.–14. yy | Eski Türkçe |  | **tağ** |  | Göktürk ve Eski Uygurca metinler (Clauson'a göre) |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — clauson1972 | ◐ tek kaynak |
 | 14. yy | Kuman-Kıpçakça | Kırım ve Deşt-i Kıpçak | **tağ** |  | Codex Cumanicus | İtalyan tüccarlar ve Alman Fransisken misyonerler (Latin harfli) 🌍 | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — noauthor1880 | ◐ tek kaynak |
-| 16.–19. yy | Türkiye Türkçesi |  | **dağ** | داغ | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — Apertium tur sözlüğünde var; Tatoeba'da 132 kez; UD derleminde baş biçim; ASJP IRAN_TURKIC: dax | ✓ doğrulandı |
+| 16.–19. yy | Türkiye Türkçesi |  | **dağ** | داغ | Osmanlı Türkçesi |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce), [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies), [asjp](../../kaynaklar/KAYNAKLAR.md#asjp) — apertium-tur.tur.lexc: sözlükte var; tatoeba tur_sentences: 132 kez; UD_Turkish-BOUN/IMST: baş biçim; ASJP IRAN_TURKIC: dax | ✓ doğrulandı |
 
 🌍 yabancı gözlemcinin ya da Türkçe olmayan bir dilde yazılmış sözlüğün kaydı.
 
