@@ -22,9 +22,9 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [et-ad](../kok/et-ad.md) | türkçe | 1.12 (*et*) | Uygurca %53 | Ana Türkçe (2 hat) | ~185 milyon (%95, *et*) | *ẹt |
+| [et-ad](../kok/et-ad.md) | türkçe | 1.12 (*et*) | Uygurca %54 | Ana Türkçe (2 hat) | ~185 milyon (%95, *et*) | *ẹt |
 
-**Büyük topluluklarda *et* biçiminin anlaşılırlığı:** Uygurca %53, Çuvaşça %62, Tatarca %81, Başkurtça %81, Azerbaycan Türkçesi %88, Türkiye Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Sahaca %100, Tuvaca %100.
+**Büyük topluluklarda *et* biçiminin anlaşılırlığı:** Uygurca %54, Çuvaşça %62, Tatarca %81, Başkurtça %81, Azerbaycan Türkçesi %88, Türkiye Türkçesi %100, Türkmence %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Sahaca %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -95,10 +95,10 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;Karluk kolu | et | et | et |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özbekçe | et | et | et | et |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | et | et | et | et |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | gösh | gösh | gösh |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | gösh | gösh | gösh | gösh |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | gösh | gösh | gösh | gösh |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | gösh ↑ | gösh ↑ | gösh ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğu Karluk | göş | göş | göş |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygurca | göş | göş | göş | göş |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | göş | göş | göş | göş |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İli Türkçesi | göş ↑ | göş ↑ | göş ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Sibirya kolu | et | et | et |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuzey Sibirya | et | et | et |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahaca (Yakutça) | et | et | et | et |
@@ -148,7 +148,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Kırgızca |  | et |
 | Kıpçak kolu | Güney Altayca |  | et |
 | Karluk kolu | Özbekçe |  | et |
-| Karluk kolu | Uygurca |  | gösh |
+| Karluk kolu | Uygurca |  | göş |
 | Sibirya kolu | Sahaca (Yakutça) |  | et |
 | Sibirya kolu | Dolganca |  | et |
 | Sibirya kolu | Sarı Uygurca |  | et |

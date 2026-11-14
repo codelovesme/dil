@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -64,30 +64,30 @@ Notlar:
 | Oğur kolu | Çuvaşça |  | **epir** | эпир |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Oğur -r (Ortak Türkçe -z); b- düşmüş. Miras. |
 | Halaç kolu | Halaçça |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Türkiye Türkçesi | Ege ağzı | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Kıbrıs ağzı | **biz** |  |  | bilgi* |  |
+| Oğuz kolu | Türkiye Türkçesi | Ege ağzı | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Kıbrıs ağzı | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Gagavuzca |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Balkan Gagavuz Türkçesi |  | **biz** |  |  | bilgi* |  |
+| Oğuz kolu | Balkan Gagavuz Türkçesi |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **biz** |  |  | bilgi* |  |
-| Oğuz kolu | Kaşkayca |  | **biz** |  |  | bilgi* |  |
+| Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Kaşkayca |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkmence |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Horasan Türkçesi |  | **biz** |  |  | bilgi* |  |
+| Oğuz kolu | Horasan Türkçesi |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Salarca |  | **piser** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | biz'e çokluk eki -er eklenmiş türev; başta p-. |
 | Kıpçak kolu | Tatarca |  | **bez** | без |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Tatar ünlü kayması i > e. |
 | Kıpçak kolu | Başkurtça |  | **bez** | беҙ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | ҙ diş arası sızıcı (ð); çalışma yazımında z. |
 | Kıpçak kolu | Kırım Tatarcası |  | **biz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Kıpçak kolu | Karayca |  | **biz** |  |  | bilgi* |  |
-| Kıpçak kolu | Kırımçakça |  | **biz** |  |  | bilgi* |  |
-| Kıpçak kolu | Urumca |  | **biz** |  |  | bilgi* |  |
+| Kıpçak kolu | Karayca |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Kırımçakça |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Urumca |  | **biz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Kıpçak kolu | Kumukça |  | **biz** | биз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **biz** | биз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Kazakça |  | **biz** | біз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |

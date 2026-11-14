@@ -5,37 +5,36 @@ koken: türkçe
 ana_turkce: '*-lAr'
 kavramlar:
 - cogul
-etimoloji: Ana Türkçe *-lAr çoğul eki. Göktürkçeden beri (begler 'beyler'); bütün Ortak Türkçe
-  dillerinde. Önceki sese göre l > n, d, t, z olur (Kıpçak, Sibirya); ünlüsü ünlü uyumuna
-  uyar. Çuvaşçada yerini -sem almış.
-kaynak: savelyev-turkic
+etimoloji: Ana Türkçe *-lAr. Bütün Ortak Türkçe dillerinde; Kıpçak ve Sibirya dillerinde önceki
+  sese göre l, d, t, n, z. Çuvaşçada -sem.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
-  - {bicim: lar, dil: aze, kaynak: bilgi, not: 'Biçimler: lar, lär'}
-  - {bicim: lar, dil: bak, kaynak: bilgi, not: 'Biçimler: lar, lär; dar, där; tar, tär; nar, när; zar, zär'}
-  - {bicim: lar, dil: crh, kaynak: bilgi, not: 'Biçimler: lar, ler'}
-  - {bicim: lar, dil: dlg, kaynak: bilgi, not: 'Biçimler: lar, ler; tar…, dar…, nar…'}
-  - {bicim: lar, dil: gag, kaynak: bilgi, not: 'Biçimler: lar, ler'}
-  - {bicim: lar, dil: krc, kaynak: bilgi, not: 'Biçimler: lar, ler'}
-  - {bicim: lar, dil: kdr, kaynak: bilgi, not: 'Biçimler: lar, lär'}
-  - {bicim: lar, dil: kaa, kaynak: bilgi, not: 'Biçimler: lar, ler; dar, der; tar, ter'}
-  - {bicim: lar, dil: kaz, kaynak: bilgi, not: 'Biçimler: lar, ler; dar, der; tar, ter'}
-  - {bicim: lar, dil: kjh, kaynak: bilgi, not: 'Biçimler: lar, ler; nar, ner; tar, ter'}
-  - {bicim: lar, dil: klj, kaynak: bilgi, not: 'Biçimler: lar, lär'}
-  - {bicim: lar, dil: kir, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; dar…, tar… (dört yönlü ünlü uyumu)'}
-  - {bicim: lar, dil: kum, kaynak: bilgi, not: 'Biçimler: lar, ler'}
-  - {bicim: lar, dil: nog, kaynak: bilgi, not: 'Biçimler: lar, ler; dar, der; tar, ter (önceki sese göre)'}
-  - {bicim: lar, dil: slr, kaynak: bilgi, not: 'Biçimler: lar'}
-  - {bicim: lar, dil: cjs, kaynak: bilgi, not: 'Biçimler: lar, ler; nar, ner; tar, ter'}
-  - {bicim: lar, dil: alt, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; dar…, tar…, nar…'}
-  - {bicim: lar, dil: tat, kaynak: bilgi, not: 'Biçimler: lar, lär; nar, när (genizsilden sonra)'}
-  - {bicim: lar, dil: tur, kaynak: bilgi, not: 'Biçimler: lar, ler (ünlü uyumu)'}
-  - {bicim: lar, dil: tuk, kaynak: bilgi, not: 'Biçimler: lar, ler'}
-  - {bicim: lar, dil: tyv, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; nar…, dar…, tar…'}
-  - {bicim: lar, dil: uig, kaynak: bilgi, not: 'Biçimler: lar, lär'}
-  - {bicim: lar, dil: uzb, kaynak: bilgi, not: 'Biçimler: yalnız lar (ünlü uyumu yok)'}
-  - {bicim: lar, dil: sah, kaynak: bilgi, not: 'Biçimler: lar, ler, lor, lör; tar…, dar…, nar…'}
-  - {bicim: lar, dil: sty, kaynak: bilgi, not: 'Biçimler: lar, lär; nar; tar'}
+  - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (28 örnek: adalar, kapılar, ayakkabılar)', bicim: lar, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (7 örnek: balalar, aldılar, suskalar)', bicim: lar, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (5 örnek: adalar, okuyıcılar, parçalar)', bicim: lar, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
+  - {bicim: lar, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu, bicim: lar, dil: gag, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{L}{A}r.'}
+  - {atif: apertium-krc.krc.lexc, bicim: lar, dil: krc, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: lar, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: 'apertium-kaa.kaa.lexc; Tatoeba metinleri (1 örnek: okıwshılar)', bicim: lar, dil: kaa, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: lar, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (1 örnek: çardılar)', bicim: lar, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {bicim: lar, dil: klj, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL', bicim: lar, dil: kir, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {atif: apertium-kum.kum.lexc, bicim: lar, dil: kum, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-nog.nog.lexc, bicim: lar, dil: nog, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: lar, dil: slr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {bicim: lar, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (3 örnek: amadular, ayular)', bicim: lar, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: lar, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: lar, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (22 örnek: adalar, çagalar, atalar)', bicim: lar, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
+  - {atif: apertium-tyv.tyv.lexc, bicim: lar, dil: tyv, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: lar, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: lar, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -lar (ünlü uyumu yok).'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: lar, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {bicim: lar, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
 
 yok:
   chv: yerine sem (ek-sem)

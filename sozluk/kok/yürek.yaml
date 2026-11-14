@@ -51,7 +51,7 @@ taniklar:
   - {atif: baskakov1947, bicim: dürek, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: yöräk, dil: tat, kaynak: savelyev-turkic, yazi: йөрәк}
   - {atif: 'rassadin1971, rassadin2005', bicim: çürek, dil: kim, kaynak: savelyev-turkic}
-  - {bicim: yürek, dil: tur, kaynak: bilgi, not: '''Kalp'' anlamında Arapça kalp de yaygın.'}
+  - {dil: tur, bicim: yürek, kaynak: tatoeba, atif: Tatoeba metinlerinde 29 kez, not: '''Kalp'' anlamında Arapça kalp de yaygın. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.'}
   - {atif: 'baskakov1968, khamzajev1968', bicim: yürek, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: çürek, dil: tyv, kaynak: savelyev-turkic, yazi: чүрек}
   - {atif: nadzip1968, bicim: yüräk, dil: uig, kaynak: savelyev-turkic}

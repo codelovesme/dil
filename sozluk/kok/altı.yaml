@@ -20,7 +20,7 @@ taniklar:
   - {bicim: ulttă, dil: chv, kaynak: wiktionary-ana-turkce, yazi: улттӑ}
   - {bicim: altı, dil: crh, kaynak: wiktionary-ana-turkce}
   - {bicim: alta, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: алта}
-  - {bicim: altı, dil: gag, kaynak: bilgi}
+  - {dil: gag, bicim: altı, kaynak: apertium, atif: apertium-gag.gag.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: altı, dil: krc, kaynak: wiktionary-ana-turkce, yazi: алты}
   - {bicim: alti, dil: kaa, kaynak: wiktionary-ana-turkce}
   - {bicim: altı, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: алты}
@@ -35,11 +35,10 @@ taniklar:
   - {bicim: altı, dil: alt, kaynak: wiktionary-ana-turkce, yazi: алты}
   - {bicim: altı, dil: tat, kaynak: wiktionary-ana-turkce, yazi: алты}
   - {bicim: altı, dil: kim, kaynak: wiktionary-ana-turkce, yazi: аълты}
-  - {bicim: altı, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: altı, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 749 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: altı, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: alty}
   - {bicim: aldı, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: алды}
-  - {bicim: altä, dil: uig, kaynak: bilgi, yazi: ئالتە}
-  - {bicim: altä, dil: uig, kaynak: bilgi, yazi: ئالتە}
+  - {dil: uig, bicim: altä, yazi: ئالتە, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 10 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: olti, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: alta, dil: sah, kaynak: wiktionary-ana-turkce, yazi: алта}
   - {bicim: altı, dil: duha, kaynak: wiktionary-ana-turkce, yazi: аълты}

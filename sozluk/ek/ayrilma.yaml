@@ -1,0 +1,39 @@
+kavram: ayrılma hâli eki
+ingilizce: ablative suffix
+anlam: Ayrılma hâli eki.
+dogrulandi: false
+kokler:
+- kok: ek-dan
+  koken: türkçe
+  ana_turkce: '*-DAn'
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-dan.yaml).
+  bicimler:
+    aze: dan
+    bak: nan
+    chv:
+      bicim: ran
+      miras: true
+    crh: dan
+    dlg: ttan
+    gag: dan
+    krc: dan
+    kdr: dan
+    kaa: dan
+    kaz: dan
+    kjh: dañ
+    kir: dan
+    kum: dan
+    nog: dan
+    cjs: tan
+    alt: dañ
+    tat: dan
+    tur: dan
+    tuk: dan
+    tyv: dan
+    uig: din
+    uzb: dan
+    sah: ttan
+    sty: tan
+yok: []
+tarihi_yok: []

@@ -1,0 +1,43 @@
+kavram: şart eki
+ingilizce: conditional suffix
+anlam: Şart eki (-sA).
+dogrulandi: false
+kokler:
+- kok: ek-sa
+  koken: türkçe
+  ana_turkce: '*-sA'
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sa.yaml).
+  bicimler:
+    aze: sa
+    bak: ha
+    chv:
+      bicim: san
+      miras: true
+    crh: sa
+    gag: sa
+    krc: sa
+    kdr: sa
+    kaa: sa
+    kaz: sa
+    kir: sa
+    kum: sa
+    nog: sa
+    cjs: za
+    alt: za
+    tat: sa
+    tur: sa
+    tuk: sa
+    tyv: za
+    uig: sa
+    uzb: sa
+    sty: sa
+- kok: ek-tar
+  koken: türkçe
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-tar.yaml).
+  bicimler:
+    dlg: tar
+    sah: tar
+yok: []
+tarihi_yok: []

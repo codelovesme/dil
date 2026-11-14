@@ -39,8 +39,7 @@ taniklar:
   - {bicim: dokuz, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: dokuz, dil: tuk, kaynak: wiktionary-ana-turkce}
   - {bicim: tos, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: тос}
-  - {bicim: tokkuz, dil: uig, kaynak: bilgi, yazi: توققۇز}
-  - {bicim: tokkuz, dil: uig, kaynak: bilgi, yazi: توققۇز}
+  - {dil: uig, bicim: tokkuz, yazi: توققۇز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: tökkiz, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: toʻqqiz}
   - {bicim: toğus, dil: sah, kaynak: wiktionary-ana-turkce, yazi: тоҕус}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: tokuz, metin: Orhon yazıtları, kaynak: clauson, atif: 'I N 6, 9 (Clauson, tokku:z)'}

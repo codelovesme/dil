@@ -53,7 +53,7 @@ taniklar:
   - {atif: baskakov1947, bicim: ot, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: ut, dil: tat, kaynak: savelyev-turkic, yazi: ут}
   - {atif: 'rassadin1971, rassadin2005', bicim: ot, dil: kim, kaynak: savelyev-turkic}
-  - {bicim: od, dil: tur, kaynak: bilgi, not: 'Eski ve yazı dilinde (od, ocak).'}
+  - {dil: tur, bicim: od, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 1 kez, not: 'Eski ve yazı dilinde (od, ocak). Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.'}
   - {atif: 'baskakov1968, khamzajev1968', bicim: oot, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ot, dil: tyv, kaynak: savelyev-turkic}
   - {atif: nadzip1968, bicim: ot, dil: uig, kaynak: savelyev-turkic}

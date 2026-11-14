@@ -1,0 +1,39 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-dan
+anlam: '"ayrılma hâli eki -DAn"'
+koken: türkçe
+ana_turkce: '*-DAn'
+kavramlar:
+- ayrilma
+etimoloji: Bütün kollarda dan; Başkurtça ünlüden sonra nan, Altay ve Hakas dañ, Uygur din,
+  Saha ttan; Çuvaşça -ran/-tan.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: apertium-aze.aze.lexc; UD_Azerbaijani-TueCL, bicim: dan, dil: aze, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (1 örnek: avstraliyanan)', bicim: nan, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{A}n. Başkurtçada ünlüden sonra nan. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (1 örnek: açaran)', bicim: ran, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{T}{A}n. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: dan, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{D}{A}n.'}
+  - {bicim: ttan, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu, bicim: dan, dil: gag, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (1 örnek: altıdan)', bicim: dan, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}n. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {bicim: dan, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: dan, dil: kaa, kaynak: apertium, not: 'Apertium: -{D}{A}n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: dan, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: apertium-kjh.kjh.lexc, bicim: dañ, dil: kjh, kaynak: apertium, not: 'Apertium: -{D}{A}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: dan, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (1 örnek: platformadan)', bicim: dan, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}n. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: moskvadan, anadan)', bicim: dan, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}n.'}
+  - {bicim: tan, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-alt.alt.lexc, bicim: dañ, dil: alt, kaynak: apertium, not: 'Apertium: -{D}{A}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: dan, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: dan, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}n.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (29 örnek: garañkıdan, yaponiyadan, rewolyusiyadan)', bicim: dan, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -d{A}n.'}
+  - {atif: apertium-tyv.tyv.lexc, bicim: dan, dil: tyv, kaynak: apertium, not: 'Apertium: -{D}{A}n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: din, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}in.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: dan, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -dan.'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ttan, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -tt{A}n.'}
+  - {bicim: tan, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+
+yok: {}
+tarihi_yok: {}

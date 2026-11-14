@@ -10,7 +10,7 @@ etimoloji: Ana Türkçe *sora- (Türkiye Türkçesi sor-). Kıpçak ve Altay'da 
 kaynak: savelyev-turkic; wiktionary-ana-turkce
 
 taniklar:
-  - {bicim: soruş, dil: aze, kaynak: bilgi}
+  - {dil: aze, bicim: soruş, kaynak: apertium; tatoeba, atif: apertium-aze.aze.lexc; Tatoeba metinlerinde 5 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'uraksin1996, uraksin2005', bicim: hora, dil: bak, kaynak: savelyev-turkic, not: s- > h-., yazi: һора-}
   - {atif: useinov2007, bicim: sora, dil: crh, kaynak: savelyev-turkic}
   - {atif: 'baskakov1958, baskakov1967', bicim: sora, dil: kaa, kaynak: savelyev-turkic}

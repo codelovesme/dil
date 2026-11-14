@@ -116,16 +116,16 @@ taniklar:
   - {atif: 'dmitrijev1955, osmanov1966', bicim: kem, dil: tat, kaynak: savelyev-turkic}
   - {atif: 'rassadin1971, rassadin2005', bicim: kum, dil: kim, kaynak: savelyev-turkic, not: Sayan ünlü gelişmesi (i > ı/u).}
   - {atif: 'baskakov1977, iz1992', bicim: kim, dil: tur, kaynak: savelyev-turkic}
-  - {bicim: kim, dil: tur-ahiska, kaynak: bilgi}
-  - {bicim: kim, dil: tur-bkaradeniz, kaynak: bilgi}
-  - {bicim: kim, dil: tur-brumeli, kaynak: bilgi}
-  - {bicim: kim, dil: tur-dkaradeniz, kaynak: bilgi}
-  - {bicim: kim, dil: tur-drumeli, kaynak: bilgi}
-  - {bicim: kim, dil: tur-ege, kaynak: bilgi}
-  - {bicim: kim, dil: tur-erzurum, kaynak: bilgi}
-  - {bicim: kim, dil: tur-kibris, kaynak: bilgi}
-  - {bicim: kim, dil: tur-orta, kaynak: bilgi}
-  - {bicim: kim, dil: tur-teke, kaynak: bilgi}
+  - {dil: tur-ahiska, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-bkaradeniz, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-brumeli, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-dkaradeniz, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-drumeli, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-ege, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-erzurum, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-kibris, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-orta, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-teke, bicim: kim, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {atif: 'baskakov1968, khamzajev1968', bicim: kim, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kım, dil: tyv, kaynak: savelyev-turkic, yazi: кым}
   - {atif: nadzip1968, bicim: kim, dil: uig, kaynak: savelyev-turkic}

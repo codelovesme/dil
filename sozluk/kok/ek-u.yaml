@@ -1,0 +1,37 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-u
+anlam: Çuvaşçada "2. tekil iyelik eki"
+koken: türkçe
+kavramlar:
+- iyelik-2t
+etimoloji: Çuvaşça -u/-ü; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: apertium-chv.chv.lexc, bicim: u, dil: chv, kaynak: apertium, not: 'Apertium: -{U}n. Çuvaşça -u, -ü; Apertium''da sonda isteğe bağlı n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+
+yok:
+  tuk: yerine ñ (ek-ıñ)
+  crh: yerine ñ (ek-ıñ)
+  kum: yerine ñ (ek-ıñ)
+  krc: yerine ñ (ek-ıñ)
+  nog: yerine ñ (ek-ıñ)
+  kaz: yerine ñ (ek-ıñ)
+  kaa: yerine ñ (ek-ıñ)
+  kir: yerine ñ (ek-ıñ)
+  tat: yerine ñ (ek-ıñ)
+  bak: yerine ñ (ek-ıñ)
+  alt: yerine ñ (ek-ıñ)
+  kjh: yerine ñ (ek-ıñ)
+  tyv: yerine ñ (ek-ıñ)
+  sah: yerine ñ (ek-ıñ)
+  uig: yerine ñ (ek-ıñ)
+  uzb: yerine ñ (ek-ıñ)
+  tur: yerine n (ek-ıñ)
+  aze: yerine n (ek-ıñ)
+  gag: yerine n (ek-ıñ)
+  kdr: yerine ñ (ek-ıñ)
+  sty: yerine ñ (ek-ıñ)
+  cjs: yerine ñ (ek-ıñ)
+  dlg: yerine ñ (ek-ıñ)
+tarihi_yok: {}

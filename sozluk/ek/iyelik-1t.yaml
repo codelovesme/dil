@@ -1,0 +1,39 @@
+kavram: iyelik eki (1. tekil)
+ingilizce: 1sg possessive
+anlam: Birinci tekil kişi iyelik eki (benim …).
+dogrulandi: false
+kokler:
+- kok: ek-ım
+  koken: türkçe
+  ana_turkce: '*-(I)m'
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ım.yaml).
+  bicimler:
+    aze: m
+    bak: m
+    chv:
+      bicim: m
+      miras: true
+    crh: m
+    dlg: m
+    gag: m
+    krc: m
+    kdr: m
+    kaa: m
+    kaz: m
+    kjh: m
+    kir: m
+    kum: m
+    nog: m
+    cjs: m
+    alt: m
+    tat: m
+    tur: m
+    tuk: m
+    tyv: m
+    uig: m
+    uzb: m
+    sah: m
+    sty: m
+yok: []
+tarihi_yok: []

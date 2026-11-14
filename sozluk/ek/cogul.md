@@ -22,8 +22,10 @@
 
 | Kök | Köken | 1. Yaygınlık | En az anlayan büyük topluluk | 2. Kök yaşı | 3. Anlayan kişi | Ana Türkçe |
 |---|---|---|---|---|---|---|
-| [ek-lar](../kok/ek-lar.md) | türkçe | 0.87 (*lar*) | Çuvaşça %0 | Ortak Türkçe (5 hat) | ~193 milyon (%99, *lar*) | *-lAr |
+| [ek-lar](../kok/ek-lar.md) | türkçe | 0.87 (*lar*) | Çuvaşça %0 | Ortak Türkçe (4 hat) | ~193 milyon (%99, *lar*) | *-lAr |
 | [ek-sem](../kok/ek-sem.md) | türkçe | -0.37 (*sem*) | Türkiye Türkçesi %0 | Çuvaşça (1 hat) | ~1 milyon (%1, *sem*) |  |
+
+- ⚠ Halaçça'daki *ek-lar* biçimi Azerbaycan Türkçesi'dan ödünç olabilir; kök yaşında sayılmadı.
 
 **Büyük topluluklarda *lar* biçiminin anlaşılırlığı:** Çuvaşça %0, Türkiye Türkçesi %100, Gagavuzca %100, Azerbaycan Türkçesi %100, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kumukça %100, Karaçay-Malkarca %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Kırgızca %100, Özbekçe %100, Uygurca %100, Sahaca %100, Tuvaca %100.
 
@@ -38,7 +40,7 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;Çuvaşça | sem | sem | sem | sem |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | sem | sem | sem | sem |
 | &nbsp;&nbsp;**Ortak Türkçe** | lar | lar | lar |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | lar | lar | lar |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Halaç kolu | lar | lar ↑ | lar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halaçça | lar | lar | lar | lar |
 | &nbsp;&nbsp;&nbsp;&nbsp;Oğuz kolu | lar | lar | lar |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batı Oğuz | lar | lar | lar |  |

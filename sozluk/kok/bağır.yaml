@@ -42,7 +42,7 @@ taniklar:
   - {atif: baskakov1947, bicim: buur, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: bawır, dil: tat, kaynak: savelyev-turkic, yazi: бавыр}
   - {atif: 'rassadin1971, rassadin2005', bicim: baar, dil: kim, kaynak: savelyev-turkic}
-  - {anlam: 'göğüs, bağır', bicim: bağır, dil: tur, kaynak: bilgi, not: Türkiye Türkçesinde anlamı 'göğüs'e kaymış; 'karaciğer' için ciğer.}
+  - {dil: tur, bicim: bağır, anlam: 'göğüs, bağır', kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 5 kez, not: Türkiye Türkçesinde anlamı 'göğüs'e kaymış; 'karaciğer' için ciğer. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'baskakov1968, khamzajev1968', bicim: bağır, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: baar, dil: tyv, kaynak: savelyev-turkic, yazi: баар}
   - {atif: nadzip1968, bicim: beğir, dil: uig, kaynak: savelyev-turkic}

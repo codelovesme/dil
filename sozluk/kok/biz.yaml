@@ -121,23 +121,23 @@ taniklar:
   - { dil: klj, bicim: biz, kaynak: wiktionary-ana-turkce }
   # Oğuz
   - { dil: tur, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: tur-ege, bicim: biz, kaynak: bilgi }
-  - { dil: tur-teke, bicim: biz, kaynak: bilgi }
-  - { dil: tur-orta, bicim: biz, kaynak: bilgi }
-  - { dil: tur-bkaradeniz, bicim: biz, kaynak: bilgi }
-  - { dil: tur-dkaradeniz, bicim: biz, kaynak: bilgi }
-  - { dil: tur-erzurum, bicim: biz, kaynak: bilgi }
-  - { dil: tur-ahiska, bicim: biz, kaynak: bilgi }
-  - { dil: tur-drumeli, bicim: biz, kaynak: bilgi }
-  - { dil: tur-brumeli, bicim: biz, kaynak: bilgi }
-  - { dil: tur-kibris, bicim: biz, kaynak: bilgi }
+  - {dil: tur-ege, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-teke, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-orta, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-bkaradeniz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-dkaradeniz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-erzurum, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-ahiska, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-drumeli, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-brumeli, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-kibris, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: gag, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: bgx, bicim: biz, kaynak: bilgi }
+  - {dil: bgx, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: aze, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: kerkuk, bicim: biz, kaynak: bilgi }
-  - { dil: qxq, bicim: biz, kaynak: bilgi }
+  - {dil: kerkuk, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: qxq, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: tuk, bicim: biz, kaynak: wiktionary-ana-turkce }
-  - { dil: kmz, bicim: biz, kaynak: bilgi }
+  - {dil: kmz, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: slr, bicim: piser, kaynak: wiktionary-ana-turkce, not: "biz'e çokluk eki -er eklenmiş türev; başta p-." }
   # Kıpçak
   - { dil: tat, bicim: bez, yazi: без, kaynak: wiktionary-ana-turkce, not: "Tatar ünlü kayması i > e." }
@@ -145,9 +145,9 @@ taniklar:
   - { dil: crh, bicim: biz, kaynak: wiktionary-ana-turkce }
   - { dil: kum, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
   - { dil: krc, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }
-  - { dil: kdr, bicim: biz, kaynak: bilgi }
-  - { dil: jct, bicim: biz, kaynak: bilgi }
-  - { dil: uum, bicim: biz, kaynak: bilgi }
+  - {dil: kdr, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: jct, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: uum, bicim: biz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: kaz, bicim: biz, yazi: біз, kaynak: wiktionary-ana-turkce }
   - { dil: kaa, bicim: biz, kaynak: wiktionary-ana-turkce }
   - { dil: nog, bicim: biz, yazi: биз, kaynak: wiktionary-ana-turkce }

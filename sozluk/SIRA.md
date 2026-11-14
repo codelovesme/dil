@@ -84,11 +84,15 @@ aşamasında ele alınacak.
 
 Ekler de kavram gibi tutulur (`sozluk/ek/`): her ekin dillerdeki biçimleri kök
 dosyalarına (`sozluk/kok/ek-*.yaml`) tanık olarak yazılır, üç hedef ortak dil
-için eki de kelime gibi seçer. Biçim olarak ünlüden ya da akıcı ünsüzden sonraki
-kalın sıralı biçim yazılır; öteki biçimler tanığın notundadır.
+için eki de kelime gibi seçer. Biçim olarak ünlüyle biten kalın sıralı bir tabandan (bala)
+sonraki biçim yazılır. Her tanık birkaç kaynakla doğrulanır: Apertium biçimbilim dosyası, Wiktionary
+çekim tabloları, Universal Dependencies derlemleri ve Tatoeba metinleri (ILKELER §12);
+ekin arşifonem kalıbı (ör. -{L}{A}r) ve tek kaynaklı olduğu notta yazılır. Kaynağı
+bulunamayan dillerin (Karay, Şor, Halaç, Salar, Sibirya Tatar, Dolgan) biçimleri
+"Doğrulanmadı" işaretiyle durur.
 
-- **İsim:** [x] [çoğul](ek/cogul.yaml) · [ ] iyelik (1., 2., 3. kişi; tekil, çoğul) · [ ] ilgi hâli · [ ] yönelme · [ ] belirtme · [ ] bulunma · [ ] ayrılma · [ ] vasıta (ile)
-- **Fiil:** [ ] olumsuzluk (-mA) · [ ] geçmiş zaman (-DI) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [ ] şart (-sA) · [ ] emir · [ ] istek
+- **İsim:** [x] [çoğul](ek/cogul.yaml) · iyelik: [x] [1. tekil](ek/iyelik-1t.yaml) · [x] [2. tekil](ek/iyelik-2t.yaml) · [x] [3. kişi](ek/iyelik-3.yaml) · [ ] 1. çoğul · [ ] 2. çoğul · [x] [ilgi hâli](ek/ilgi.yaml) · [x] [yönelme](ek/yonelme.yaml) · [x] [belirtme](ek/belirtme.yaml) · [x] [bulunma](ek/bulunma.yaml) · [x] [ayrılma](ek/ayrilma.yaml) · [ ] vasıta (ile)
+- **Fiil:** [x] [olumsuzluk (-mA)](ek/olumsuzluk.yaml) · [x] [geçmiş zaman (-DI)](ek/gecmis.yaml) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [x] [şart (-sA)](ek/sart.yaml) · [ ] emir · [ ] istek
 - **Kişi ekleri:** [ ] 1., 2., 3. kişi (tekil, çoğul)
 - **Türetme ve diğer:** [ ] soru eki (mI) · [ ] bildirme · [ ] sıfat-fiil · [ ] zarf-fiil (-p, -A) · [ ] -lI · [ ] -sIz · [ ] -CI · [ ] -lIK
 

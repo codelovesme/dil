@@ -460,6 +460,23 @@ Kurallar:
   savelyev-turkic`).
 - Güveni düşük kaynaklar (küçük kelime listeleri, kaba tahminler) tek başına
   kanıt sayılmaz.
+- **Çok kaynaklı doğrulama.** Bir biçim mümkün olduğunca birbirinden bağımsız
+  birkaç kaynakla doğrulanır. Kural tabanlı bir araç (ör. Apertium), bir sözlük
+  ya da çekim tablosu (ör. Wiktionary) ve gerçek metin (ör. Universal Dependencies
+  derlemleri, Tatoeba) farklı türden kanıtlardır.
+- **Çelişki incelenir, geçiştirilmez.** Kaynaklar birbirleriyle ya da yapay
+  zekânın bilgisiyle çelişiyorsa, biri seçilip geçilmez. Nedeni aranır ve üçüncü
+  bir kaynağa bakılır. Örnek: Azerbaycan Türkçesinde belirtme hâli. Apertium
+  ünlüden sonra -yı veriyordu, Wiktionary ve UD derlemi -nı gösterdi; Apertium'un
+  bu dosyası Türkiye Türkçesinden uyarlanmıştı.
+- **Tek kaynaklı tanık işaretlenir.** Yalnız bir kaynağa dayanan tanığın notunda
+  bu açıkça yazılır ("Tek kaynak").
+- **Doğrulanmamış tanık silinmez, işaretlenir.** Hiçbir kaynakla doğrulanamayan
+  biçim, yapay zekânın kendi bilgisinden (eğitim verisinden) gelir; nereden
+  öğrenildiği gösterilemez. Böyle bir tanık `kaynak: bilgi` ile girilir ve notunda
+  "Doğrulanmadı" yazar; sayfalarda ⚠ işaretiyle görünür. Kaynakla denetlenene kadar
+  kanıt sayılmaz. Bir kaynak biçimin dilde var olduğunu gösterip anlamını
+  göstermiyorsa bu da notta ayrıca yazılır.
 
 ## 13. Parametreler
 

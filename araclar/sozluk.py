@@ -292,7 +292,7 @@ def _hucre(s) -> str:
 
 
 def _kaynak_bag(kimlikler: list[str], b: Baglam) -> str:
-    return ", ".join("bilgi*" if k == "bilgi" else f"[{k}](../../kaynaklar/KAYNAKLAR.md#{k})"
+    return ", ".join("⚠ doğrulanmadı" if k == "bilgi" else f"[{k}](../../kaynaklar/KAYNAKLAR.md#{k})"
                      for k in kimlikler)
 
 
@@ -323,7 +323,8 @@ def madde_md(m: Madde, b: Baglam) -> str:
         y.append(f"- {isaret} {d['ad']}, {d['yuzyil']}. yy{ek}")
     if k.eksik_diller:
         y.append(f"\nTanığı olmayan diller: {', '.join(L.ad for L in k.eksik_diller)}.")
-    y.append("\n`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.\n")
+    y.append("\n⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi "
+             "bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.\n")
 
     tarihi = sorted((t for t in m.taniklar if not t.gunumuz),
                     key=lambda t: (t.yuzyil, b.sira.get(t.dil, 999)))

@@ -1,0 +1,37 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ta
+anlam: Sahacada "3. kişi iyelik eki"
+koken: türkçe
+kavramlar:
+- iyelik-3
+etimoloji: Sahaca -(t)A; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+
+taniklar:
+  - {bicim: ta, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ta, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{t}{A}. Ünsüzden sonra a.'}
+
+yok:
+  tur: yerine sı (ek-sı)
+  aze: yerine sı (ek-sı)
+  gag: yerine sı (ek-sı)
+  tuk: yerine sı (ek-sı)
+  crh: yerine sı (ek-sı)
+  kum: yerine sı (ek-sı)
+  krc: yerine sı (ek-sı)
+  nog: yerine sı (ek-sı)
+  kaz: yerine sı (ek-sı)
+  kaa: yerine sı (ek-sı)
+  kir: yerine sı (ek-sı)
+  tat: yerine sı (ek-sı)
+  uzb: yerine si (ek-sı)
+  uig: yerine si (ek-sı)
+  bak: yerine hı (ek-sı)
+  alt: yerine zı (ek-sı)
+  tyv: yerine zı (ek-sı)
+  kjh: yerine zı (ek-sı)
+  kdr: yerine sı (ek-sı)
+  sty: yerine sı (ek-sı)
+  cjs: yerine zı (ek-sı)
+  chv: yerine i (ek-i-chv)
+tarihi_yok: {}

@@ -120,31 +120,31 @@ taniklar:
   - { dil: chv, bicim: esir, yazi: эсир, kaynak: wiktionary-ana-turkce, not: "Oğur -r; başta e-. Miras." }
   - { dil: klj, bicim: siz, kaynak: wiktionary-ana-turkce }
   - { dil: tur, bicim: siz, kaynak: wiktionary-ana-turkce }
-  - { dil: tur-ege, bicim: siz, kaynak: bilgi }
-  - { dil: tur-teke, bicim: siz, kaynak: bilgi }
-  - { dil: tur-orta, bicim: siz, kaynak: bilgi }
-  - { dil: tur-bkaradeniz, bicim: siz, kaynak: bilgi }
-  - { dil: tur-dkaradeniz, bicim: siz, kaynak: bilgi }
-  - { dil: tur-erzurum, bicim: siz, kaynak: bilgi }
-  - { dil: tur-ahiska, bicim: siz, kaynak: bilgi }
-  - { dil: tur-drumeli, bicim: siz, kaynak: bilgi }
-  - { dil: tur-brumeli, bicim: siz, kaynak: bilgi }
-  - { dil: tur-kibris, bicim: siz, kaynak: bilgi }
+  - {dil: tur-ege, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-teke, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-orta, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-bkaradeniz, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-dkaradeniz, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-erzurum, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-ahiska, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-drumeli, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-brumeli, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-kibris, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: gag, bicim: siz, kaynak: wiktionary-ana-turkce }
-  - { dil: bgx, bicim: siz, kaynak: bilgi }
+  - {dil: bgx, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: aze, bicim: siz, kaynak: wiktionary-ana-turkce }
-  - { dil: kerkuk, bicim: siz, kaynak: bilgi }
-  - { dil: qxq, bicim: siz, kaynak: bilgi }
+  - {dil: kerkuk, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: qxq, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: tuk, bicim: siz, kaynak: wiktionary-ana-turkce }
-  - { dil: kmz, bicim: siz, kaynak: bilgi }
+  - {dil: kmz, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: tat, bicim: sez, yazi: сез, kaynak: wiktionary-ana-turkce }
   - { dil: bak, bicim: hez, yazi: һеҙ, kaynak: wiktionary-ana-turkce, not: "s- > h-; ҙ (ð) çalışma yazımında z." }
   - { dil: crh, bicim: siz, kaynak: wiktionary-ana-turkce }
   - { dil: kum, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce }
   - { dil: krc, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce }
-  - { dil: kdr, bicim: siz, kaynak: bilgi }
-  - { dil: jct, bicim: siz, kaynak: bilgi }
-  - { dil: uum, bicim: siz, kaynak: bilgi }
+  - {dil: kdr, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: jct, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: uum, bicim: siz, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: kaz, bicim: siz, yazi: сіз, kaynak: wiktionary-ana-turkce, not: "Saygı biçimi; düz çoğul sender (sen + -der)." }
   - { dil: kaa, bicim: siz, kaynak: wiktionary-ana-turkce }
   - { dil: nog, bicim: siz, yazi: сиз, kaynak: wiktionary-ana-turkce }

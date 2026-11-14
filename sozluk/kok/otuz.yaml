@@ -24,7 +24,7 @@ taniklar:
   - {bicim: otuz, dil: gag, kaynak: wiktionary-ana-turkce}
   - {bicim: otuz, dil: krc, kaynak: wiktionary-ana-turkce, yazi: отуз}
   - {bicim: otuz, dil: kdr, kaynak: wiktionary-ana-turkce}
-  - {bicim: otız, dil: kaa, kaynak: bilgi, yazi: отыз}
+  - {dil: kaa, bicim: otız, yazi: отыз, kaynak: apertium, atif: apertium-kaa.kaa.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: otız, dil: kaz, kaynak: wiktionary-ana-turkce, yazi: отыз}
   - {bicim: otıs, dil: kjh, kaynak: wiktionary-ana-turkce, yazi: отыс}
   - {bicim: hottuz, dil: klj, kaynak: wiktionary-ana-turkce}
@@ -41,8 +41,7 @@ taniklar:
   - {bicim: otuz, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: otuz, dil: tuk, kaynak: wiktionary-ana-turkce}
   - {bicim: odus, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: одус}
-  - {bicim: ottuz, dil: uig, kaynak: bilgi, yazi: ئوتتۇز}
-  - {bicim: ottuz, dil: uig, kaynak: bilgi, yazi: ئوتتۇز}
+  - {dil: uig, bicim: ottuz, yazi: ئوتتۇز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 5 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: öttiz, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: oʻttiz}
   - {bicim: otut, dil: sah, kaynak: wiktionary-ana-turkce, yazi: отут}
   - {bicim: ottuz, dil: ili, kaynak: wiktionary-ana-turkce}

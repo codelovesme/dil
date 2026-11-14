@@ -40,7 +40,7 @@ taniklar:
   - {atif: baskakov1947, bicim: ada, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: ata, dil: tat, kaynak: savelyev-turkic}
   - {atif: 'rassadin1971, rassadin2005', bicim: ata, dil: kim, kaynak: savelyev-turkic}
-  - {bicim: ata, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: ata, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 321 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'baskakov1968, khamzajev1968', bicim: ata, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: ada, dil: tyv, kaynak: savelyev-turkic, yazi: ада}
   - {atif: nadzip1968, bicim: ata, dil: uig, kaynak: savelyev-turkic}

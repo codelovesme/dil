@@ -52,7 +52,7 @@ taniklar:
   - {atif: kurpesko-tannagaseva1993, bicim: çügür, dil: cjs, kaynak: savelyev-turkic}
   - {atif: baskakov1947, bicim: dügür, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: yöger, dil: tat, kaynak: savelyev-turkic, yazi: йөгер-}
-  - {bicim: yügür, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: yügür, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: süür, dil: sah, kaynak: savelyev-turkic, not: Sahaca s- (y-)., yazi: сүүр-}
   - {atif: dmitrijeva1981, bicim: yögir, dil: sty-baraba, kaynak: savelyev-turkic}
 

@@ -27,7 +27,7 @@ taniklar:
     kaynak: savelyev-turkic
     atif: clauson1972
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: kiçik, dil: aze, kaynak: savelyev-turkic}
-  - {bicim: pĕçĕk, dil: chv, kaynak: bilgi, not: kiçig ile Oğur denkliği tartışmalı., yazi: пӗчӗк}
+  - {dil: chv, bicim: pĕçĕk, yazi: пӗчӗк, kaynak: apertium; tatoeba, atif: apertium-chv.chv.lexc; Tatoeba metinlerinde 1 kez, not: kiçig ile Oğur denkliği tartışmalı. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'aksenova1992, stachowski1993', bicim: küççügüy, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: küçücük, dil: gag, kaynak: savelyev-turkic}
   - {atif: 'tenisev1989, sujuncev1965', bicim: gitçe, dil: krc, kaynak: savelyev-turkic}

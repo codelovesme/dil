@@ -1,0 +1,39 @@
+kavram: yönelme hâli eki
+ingilizce: dative suffix
+anlam: Yönelme hâli eki.
+dogrulandi: false
+kokler:
+- kok: ek-ğa
+  koken: türkçe
+  ana_turkce: '*-GA'
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ğa.yaml).
+  bicimler:
+    aze: ya
+    bak: ğa
+    chv:
+      bicim: na
+      miras: true
+    crh: ğa
+    dlg: ğa
+    gag: ya
+    krc: ğa
+    kdr: ğa
+    kaa: ğa
+    kaz: ğa
+    kjh: ğa
+    kir: ga
+    kum: ğa
+    nog: ga
+    cjs: ğa
+    alt: ga
+    tat: ga
+    tur: ya
+    tuk: a
+    tyv: ga
+    uig: ğa
+    uzb: ga
+    sah: ğa
+    sty: ğa
+yok: []
+tarihi_yok: []

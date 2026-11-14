@@ -30,7 +30,7 @@ taniklar:
   - {atif: 'asmarin1928, savelyev2011', bicim: pilĕk, dil: chv, kaynak: savelyev-turkic, not: 'Oğur ş > l: *bēš > pilĕk. Ana Türkçe *ĺ''nin kanıtlarından.', yazi: пилӗк}
   - {atif: useinov2007, bicim: beş, dil: crh, kaynak: savelyev-turkic}
   - {atif: 'aksenova1992, stachowski1993', bicim: bies, dil: dlg, kaynak: savelyev-turkic}
-  - {bicim: beş, dil: gag, kaynak: bilgi, not: Savelyev'deki 'bulaşık' kaydı veri hatası.}
+  - {dil: gag, bicim: beş, kaynak: apertium, atif: apertium-gag.gag.lexc, not: Savelyev'deki 'bulaşık' kaydı veri hatası. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'tenisev1989, sujuncev1965', bicim: beş, dil: krc, kaynak: savelyev-turkic}
   - {atif: baskakov1974, bicim: beş, dil: kdr, kaynak: savelyev-turkic}
   - {atif: 'baskakov1958, baskakov1967', bicim: bes, dil: kaa, kaynak: savelyev-turkic}

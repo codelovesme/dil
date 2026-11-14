@@ -6,7 +6,18 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 
 | Kavram | İngilizce | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|---|
+| [ayrılma hâli eki](ek/ayrilma.md) | ablative suffix | **dan** | **dan** | **dan** | uyuşuyor |
+| [belirtme hâli eki](ek/belirtme.md) | accusative suffix | **nı** | **nı** | **nı** | uyuşuyor |
+| [bulunma hâli eki](ek/bulunma.md) | locative suffix | **da** | **da** | **da** | uyuşuyor |
 | [çoğul eki](ek/cogul.md) | plural suffix | **lar** | **lar** | **lar** | uyuşuyor |
+| [görülen geçmiş zaman eki](ek/gecmis.md) | past tense suffix | **dı** | **dı** | **dı** | uyuşuyor |
+| [ilgi hâli eki](ek/ilgi.md) | genitive suffix | **nıñ** | **nıñ** | **nın** | uyuşuyor |
+| [iyelik eki (1. tekil)](ek/iyelik-1t.md) | 1sg possessive | **m** | **m** | **m** | uyuşuyor |
+| [iyelik eki (2. tekil)](ek/iyelik-2t.md) | 2sg possessive | **ñ** | **ñ** | **n** | uyuşuyor |
+| [iyelik eki (3. kişi)](ek/iyelik-3.md) | 3rd person possessive | **sı** | **sı** | **sı** | uyuşuyor |
+| [olumsuzluk eki](ek/olumsuzluk.md) | negative suffix | **ma** | **ma** | **ma** | uyuşuyor |
+| [şart eki](ek/sart.md) | conditional suffix | **sa** | **sa** | **sa** | uyuşuyor |
+| [yönelme hâli eki](ek/yonelme.md) | dative suffix | **ğa** | **ğa** | **ya** | uyuşuyor |
 | [aç-](temel/ac.md) | open | **aç** | **aç** | **aç** | uyuşuyor |
 | [acı](temel/aci.md) | bitter | **açığ** | **açığ** | **acı** | uyuşuyor |
 | [ad](temel/ad.md) | name | **at** | **at** | **at** | uyuşuyor |

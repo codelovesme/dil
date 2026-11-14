@@ -6,7 +6,7 @@ kokler:
 - kok: ek-lar
   koken: türkçe
   ana_turkce: '*-lAr'
-  kaynak: savelyev-turkic
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
   not: Tanıklar sözlük maddesinde (sozluk/kok/ek-lar.yaml).
   bicimler:
     aze: lar
@@ -19,9 +19,7 @@ kokler:
     kaa: lar
     kaz: lar
     kjh: lar
-    klj:
-      bicim: lar
-      miras: true
+    klj: lar
     kir: lar
     kum: lar
     nog: lar
@@ -38,9 +36,11 @@ kokler:
     sty: lar
 - kok: ek-sem
   koken: türkçe
-  kaynak: savelyev-turkic
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
   not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sem.yaml).
   bicimler:
-    chv: sem
+    chv:
+      bicim: sem
+      miras: true
 yok: []
 tarihi_yok: []

@@ -50,7 +50,7 @@ taniklar:
   - {atif: 'rassadin1971, rassadin2005', bicim: çer, dil: kim, kaynak: savelyev-turkic}
   - {atif: 'baskakov1977, iz1992', bicim: yer, dil: tur, kaynak: savelyev-turkic}
   - {atif: 'baskakov1968, khamzajev1968', bicim: yer, dil: tuk, kaynak: savelyev-turkic}
-  - {bicim: çer, dil: tyv, kaynak: bilgi, yazi: чер}
+  - {dil: tyv, bicim: çer, yazi: чер, kaynak: apertium, atif: apertium-tyv.tyv.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: nadzip1968, bicim: yär, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yer, dil: uzb, kaynak: savelyev-turkic}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: sir, dil: sah, kaynak: savelyev-turkic, yazi: сир}

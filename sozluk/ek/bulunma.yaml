@@ -1,0 +1,37 @@
+kavram: bulunma hâli eki
+ingilizce: locative suffix
+anlam: Bulunma hâli eki.
+dogrulandi: false
+kokler:
+- kok: ek-da
+  koken: türkçe
+  ana_turkce: '*-DA'
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-da.yaml).
+  bicimler:
+    aze: da
+    bak: la
+    chv:
+      bicim: ra
+      miras: true
+    crh: da
+    gag: da
+    krc: da
+    kdr: da
+    kaa: da
+    kaz: da
+    kjh: da
+    kir: da
+    kum: da
+    nog: da
+    cjs: ta
+    alt: da
+    tat: da
+    tur: da
+    tuk: da
+    tyv: da
+    uig: da
+    uzb: da
+    sty: ta
+yok: []
+tarihi_yok: []

@@ -1,0 +1,37 @@
+kavram: ilgi hâli eki
+ingilizce: genitive suffix
+anlam: İlgi (tamlayan) hâli eki.
+dogrulandi: false
+kokler:
+- kok: ek-nıñ
+  koken: türkçe
+  ana_turkce: '*-nIŋ'
+  kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-nıñ.yaml).
+  bicimler:
+    aze: nın
+    bak: nıñ
+    chv:
+      bicim: n
+      miras: true
+    crh: nıñ
+    gag: nın
+    krc: nı
+    kdr: nıñ
+    kaa: nıñ
+    kaz: nıñ
+    kjh: nıñ
+    kir: nın
+    kum: nı
+    nog: nıñ
+    cjs: nıñ
+    alt: nıñ
+    tat: nıñ
+    tur: nın
+    tuk: nıñ
+    tyv: nıñ
+    uig: niñ
+    uzb: niñ
+    sty: nıñ
+yok: []
+tarihi_yok: []

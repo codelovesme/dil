@@ -1,0 +1,38 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ıñ
+anlam: '"2. tekil iyelik eki -(I)ñ"'
+koken: türkçe
+ana_turkce: '*-(I)ŋ'
+kavramlar:
+- iyelik-2t
+etimoloji: Ana Türkçe *-(I)ŋ. Türkiye, Azerbaycan ve Gagauz Türkçesinde ñ > n.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: apertium-aze.aze.lexc, bicim: n, dil: aze, kaynak: apertium, not: 'Apertium: -{i}n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (21 örnek: kabalandıñ, unıñ, kayğıñ)', bicim: ñ, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ.'}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (1 örnek: babañ)', bicim: ñ, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {bicim: ñ, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-gag.gag.lexc, bicim: n, dil: gag, kaynak: apertium, not: 'Apertium: -{i}n. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-krc.krc.lexc, bicim: ñ, dil: krc, kaynak: apertium, not: 'Apertium: -{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: ñ, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: ñ, dil: kaa, kaynak: apertium, not: 'Apertium: -{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: ñ, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}ñ.'}
+  - {atif: apertium-kjh.kjh.lexc, bicim: ñ, dil: kjh, kaynak: apertium, not: 'Apertium: -{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kir.kir.lexc; Wiktionary бала çekim tablosu, bicim: ñ, dil: kir, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{I}ñ.'}
+  - {atif: apertium-kum.kum.lexc, bicim: ñ, dil: kum, kaynak: apertium, not: 'Apertium: -{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-nog.nog.lexc, bicim: ñ, dil: nog, kaynak: apertium, not: 'Apertium: -{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: ñ, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (2 örnek: amaduñ)', bicim: ñ, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ.'}
+  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (333 örnek: akçañ, aldıñ, atıñ)', bicim: ñ, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: n, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{i}n.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (14 örnek: teoriyañ, çorbañ, maşgalañ)', bicim: ñ, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ.'}
+  - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (1 örnek: ooñ)', bicim: ñ, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: apertium-uig.uig.lexc; UD_Uyghur-UDT, bicim: ñ, dil: uig, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}ñ.'}
+  - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: ñ, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{I}ñ.'}
+  - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: ñ, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{I}ñ.'}
+  - {bicim: ñ, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+
+yok:
+  chv: yerine u (ek-u)
+tarihi_yok: {}

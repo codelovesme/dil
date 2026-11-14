@@ -1,0 +1,37 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-dı
+anlam: '"görülen geçmiş zaman eki -DI"'
+koken: türkçe
+ana_turkce: '*-DI'
+kavramlar:
+- gecmis
+etimoloji: Ana Türkçe *-DI. Bütün Ortak Türkçe dillerinde; Başkurtça ünlüden sonra nı; Uygur
+  ve Özbek di; Çuvaşça -r-/-t-.
+kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (31 örnek: anladı, yaşadı, salamladı)', bicim: dı, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.'}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (9 örnek: başlanı, aşıkmanı, añlanı)', bicim: nı, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}. Başkurtçada ünlüden sonra nı.'}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (17 örnek: puşlarĕ, kalarĕ, şănkăravlarĕ)', bicim: rĕ, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{T}. Ünlüden sonra r; kişi ekiyle -rĕ.'}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (14 örnek: kuçakladı, okudı, ağladı)', bicim: dı, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.'}
+  - {atif: apertium-gag.gag.lexc, bicim: dı, dil: gag, kaynak: apertium, not: 'Apertium: -{y}{D}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (2 örnek: aşadı)', bicim: dı, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.'}
+  - {bicim: dı, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-kaa.kaa.lexc, bicim: dı, dil: kaa, kaynak: apertium, not: 'Apertium: -{D}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-kaz.kaz.lexc; UD_Kazakh-KTB, bicim: dı, dil: kaz, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{I}.'}
+  - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL', bicim: dı, dil: kir, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{I}.'}
+  - {atif: apertium-kum.kum.lexc, bicim: dı, dil: kum, kaynak: apertium, not: 'Apertium: -{D}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: yaradı)', bicim: dı, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}.'}
+  - {bicim: tı, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {atif: apertium-alt.alt.lexc, bicim: dı, dil: alt, kaynak: apertium, not: 'Apertium: -{D}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: dı, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{I}.'}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: dı, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{I}.'}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (42 örnek: başladı, okadı, soradı)', bicim: dı, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -d{U}.'}
+  - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (1 örnek: kıskaladı)', bicim: dı, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{I}. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {atif: 'apertium-uig.uig.lexc; Tatoeba metinleri (7 örnek: okudi, buyrudi, koçudi)', bicim: di, dil: uig, kaynak: apertium; tatoeba, not: 'Apertium: -{D}.'}
+  - {atif: 'apertium-uzb.uzb.lexc; UD_Uzbek-UzUDT, UT', bicim: di, dil: uzb, kaynak: apertium; universal-dependencies, not: 'Apertium: -di.'}
+  - {bicim: tı, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+
+yok:
+  sah: yerine ta (ek-ta-gec)
+tarihi_yok: {}

@@ -16,12 +16,12 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: وار
-  - {bicim: var, dil: aze, kaynak: bilgi}
+  - {dil: aze, bicim: var, kaynak: apertium; tatoeba, atif: apertium-aze.aze.lexc; Tatoeba metinlerinde 455 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: bar, dil: bak, kaynak: wiktionary-ana-turkce, yazi: бар}
   - {bicim: pur, dil: chv, kaynak: wiktionary-ana-turkce, yazi: пур}
   - {bicim: bar, dil: crh, kaynak: wiktionary-ana-turkce}
   - {bicim: baar, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: баар}
-  - {bicim: var, dil: gag, kaynak: bilgi}
+  - {dil: gag, bicim: var, kaynak: apertium; tatoeba, atif: apertium-gag.gag.lexc; Tatoeba metinlerinde 11 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: bar, dil: krc, kaynak: wiktionary-ana-turkce, yazi: бар}
   - {bicim: bar, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: бар}
   - {bicim: bar, dil: kaa, kaynak: wiktionary-ana-turkce}
@@ -37,11 +37,10 @@ taniklar:
   - {bicim: bar, dil: alt, kaynak: wiktionary-ana-turkce, yazi: бар}
   - {bicim: bar, dil: tat, kaynak: wiktionary-ana-turkce, yazi: бар}
   - {bicim: bar, dil: kim, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: var, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: var, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 24220 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: baar, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: bār}
   - {bicim: bar, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: бар}
-  - {bicim: bar, dil: uig, kaynak: bilgi, yazi: بار}
-  - {bicim: bar, dil: uig, kaynak: bilgi, yazi: بار}
+  - {dil: uig, bicim: bar, yazi: بار, kaynak: apertium; tatoeba, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 373 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: bor, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: baar, dil: sah, kaynak: wiktionary-ana-turkce, yazi: баар}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: bar, metin: Orhon yazıtları, kaynak: clauson, atif: 'I S 9; II N 7; T 10 (Clauson, ba:r)', not: özüm kutım bar üçün 'kendimde kut olduğu için'.}

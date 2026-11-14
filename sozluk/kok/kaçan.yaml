@@ -48,7 +48,7 @@ taniklar:
   - {atif: baskakov1947, bicim: kaçan, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: kayçan, dil: tat, kaynak: savelyev-turkic, yazi: кайчан}
   - {atif: 'rassadin1971, rassadin2005', bicim: kahın, dil: kim, kaynak: savelyev-turkic}
-  - {bicim: haçan, dil: tur, kaynak: bilgi, not: Ağızlarda ve eski dilde.}
+  - {dil: tur, bicim: haçan, kaynak: tatoeba, atif: Tatoeba metinlerinde 5 kez, not: Ağızlarda ve eski dilde. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'baskakov1968, khamzajev1968', bicim: haçan, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kajan, dil: tyv, kaynak: savelyev-turkic, yazi: качан}
   - {atif: nadzip1968, bicim: kaçan, dil: uig, kaynak: savelyev-turkic}

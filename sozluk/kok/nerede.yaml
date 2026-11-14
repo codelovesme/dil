@@ -14,8 +14,8 @@ taniklar:
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: neredi, dil: gag, kaynak: savelyev-turkic}
   - {atif: 'adzijev1992, bammatov1960', bicim: ne yerde, dil: kum, kaynak: savelyev-turkic}
   - {atif: 'baskakov1977, iz1992', bicim: nerede, dil: tur, kaynak: savelyev-turkic}
-  - {bicim: nerede, dil: tur-ege, kaynak: bilgi}
-  - {bicim: nerde, dil: tur-orta, kaynak: bilgi}
+  - {dil: tur-ege, bicim: nerede, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-orta, bicim: nerde, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {atif: 'baskakov1968, khamzajev1968', bicim: nirede, dil: tuk, kaynak: savelyev-turkic}
 
 yok:

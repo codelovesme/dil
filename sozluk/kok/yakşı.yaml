@@ -44,7 +44,7 @@ taniklar:
   - {atif: kurpesko-tannagaseva1993, bicim: çakşı, dil: cjs, kaynak: savelyev-turkic}
   - {atif: baskakov1947, bicim: daxşı, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: yaxşı, dil: tat, kaynak: savelyev-turkic, yazi: яхшы}
-  - {bicim: yahşi, dil: tur, kaynak: bilgi, not: Ağızlarda.}
+  - {dil: tur, bicim: yahşi, kaynak: bilgi, not: 'Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {atif: 'baskakov1968, khamzajev1968', bicim: yağşı, dil: tuk, kaynak: savelyev-turkic}
   - {atif: nadzip1968, bicim: yaxşi, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yaxşi, dil: uzb, kaynak: savelyev-turkic}

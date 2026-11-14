@@ -44,7 +44,7 @@ taniklar:
   - {atif: 'dmitrijev1955, osmanov1966', bicim: tatlı, dil: tat, kaynak: savelyev-turkic}
   - {atif: 'rassadin1971, rassadin2005', bicim: tadığlığ, dil: kim, kaynak: savelyev-turkic}
   - {atif: 'baskakov1977, iz1992', bicim: tatlı, dil: tur, kaynak: savelyev-turkic}
-  - {bicim: tatlik, dil: uig, kaynak: bilgi, yazi: تاتلىق}
+  - {dil: uig, bicim: tatlik, yazi: تاتلىق, kaynak: apertium; tatoeba, atif: apertium-uig.uig.lexc; Tatoeba metinlerinde 9 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: dmitrijeva1981, bicim: tatlı, dil: sty-baraba, kaynak: savelyev-turkic}
   - {dil: otk, yuzyil: 8-14, bicim: tatığlığ, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'PP 46, 71; Suv. 647 (Clauson, tatığlığ)'}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: tatlığ, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT I 45, 495, 529 (Clauson, tatığlığ)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}
