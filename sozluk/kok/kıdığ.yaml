@@ -29,7 +29,7 @@ taniklar:
   - {atif: kurpesko-tannagaseva1993, bicim: kırıy, dil: cjs, kaynak: savelyev-turkic}
   - {atif: baskakov1947, bicim: kırı, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'rassadin1971, rassadin2005', bicim: kıdığ, dil: kim, kaynak: savelyev-turkic}
-  - {bicim: kıyı, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: kıyı, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 32 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: kıdığ, dil: tyv, kaynak: savelyev-turkic, yazi: кыдыг}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: kıtıı, dil: sah, kaynak: savelyev-turkic, yazi: кытыы}
 

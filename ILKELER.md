@@ -470,8 +470,13 @@ Kurallar:
   ünlüden sonra -yı veriyordu, Wiktionary ve UD derlemi -nı gösterdi; Apertium'un
   bu dosyası Türkiye Türkçesinden uyarlanmıştı.
 - **Tek kaynaklı tanık işaretlenir.** Yalnız bir kaynağa dayanan tanığın notunda
-  bu açıkça yazılır ("Tek kaynak"). Hiç kaynağı bulunamayan biçim girilmez ya da
-  `kaynak: bilgi` ile girilir ve doğrulanmış sayılmaz.
+  bu açıkça yazılır ("Tek kaynak").
+- **Doğrulanmamış tanık silinmez, işaretlenir.** Hiçbir kaynakla doğrulanamayan
+  biçim, yapay zekânın kendi bilgisinden (eğitim verisinden) gelir; nereden
+  öğrenildiği gösterilemez. Böyle bir tanık `kaynak: bilgi` ile girilir ve notunda
+  "Doğrulanmadı" yazar; sayfalarda ⚠ işaretiyle görünür. Kaynakla denetlenene kadar
+  kanıt sayılmaz. Bir kaynak biçimin dilde var olduğunu gösterip anlamını
+  göstermiyorsa bu da notta ayrıca yazılır.
 
 ## 13. Parametreler
 

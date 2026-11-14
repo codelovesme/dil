@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Dolganca, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -47,7 +47,7 @@ Notlar:
 | Oğur kolu | Çuvaşça |  | **şüre** | ҫӳре- |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Halaç kolu | Halaçça |  | **yorı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **yürü** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Gagavuzca |  | **yürü** |  |  | bilgi* |  |
+| Oğuz kolu | Gagavuzca |  | **yürü** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **yeri** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkmence |  | **yöre** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Salarca |  | **yür** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |

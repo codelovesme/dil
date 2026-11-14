@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 6/7 · tanık 36 (kaynaklı %94) · kaynak 6 · yabancı kayıt 3**
+**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 6/7 · tanık 35 (kaynaklı %100) · kaynak 6 · yabancı kayıt 3**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (3 tanık)
@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Karayca, Kırımçakça, Urumca, Sahaca (Yakutça), Dolganca, Sarı Uygurca, Tuvaca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -72,8 +72,7 @@ Notlar:
 | Kıpçak kolu | Kırgızca |  | **elüü** | элүү |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Güney Altayca |  | **ölü** | ӧлӱ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Karluk kolu | Özbekçe |  | **ellik** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Karluk kolu | Uygurca |  | **ellik** | ئەللىك |  | bilgi* |  |
-| Karluk kolu | Uygurca |  | **ellik** | ئەللىك |  | bilgi* |  |
+| Karluk kolu | Uygurca |  | **ellik** | ئەللىك |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Karluk kolu | İli Türkçesi |  | **ellik** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Sibirya kolu | Hakasça |  | **ilig** | иліг |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Sibirya kolu | Şorca |  | **elig** | элиг |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
@@ -81,7 +80,7 @@ Notlar:
 
 ## Kaynakça
 
-- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 24 tanık
+- [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 25 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 10 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

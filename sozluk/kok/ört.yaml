@@ -11,7 +11,7 @@ kaynak: savelyev-turkic
 taniklar:
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ört, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: ört, dil: gag, kaynak: savelyev-turkic}
-  - {bicim: ört, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: ört, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
 
 yok:
   sty-baraba: yerine yap (yap)

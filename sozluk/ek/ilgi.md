@@ -5,7 +5,7 @@
 - **Anlam:** İlgi (tamlayan) hâli eki.
 - **İngilizce:** genitive suffix
 - **Durum:** henüz kaynakla doğrulanmadı
-- **Veri kapsaması:** %56 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
+- **Veri kapsaması:** %62 (Hedef 1 ağırlığıyla) · **Tarihî tanık:** 0/6
 
 ## Dört hedef
 
@@ -24,7 +24,7 @@
 |---|---|---|---|---|---|---|
 | [ek-nıñ](../kok/ek-nıñ.md) | türkçe | 0.93 (*nıñ*) | Çuvaşça %67 | Ana Türkçe (2 hat) | ~183 milyon (%94, *nın*) | *-nIŋ |
 
-**Büyük topluluklarda *nıñ* biçiminin anlaşılırlığı:** Çuvaşça %67, Kumukça %83, Karaçay-Malkarca %83, Özbekçe %92, Uygurca %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Kırgızca %92, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kazakça %100, Karakalpakça %100, Tuvaca %100.
+**Büyük topluluklarda *nıñ* biçiminin anlaşılırlığı:** Çuvaşça %67, Kumukça %83, Karaçay-Malkarca %83, Özbekçe %92, Uygurca %92, Türkiye Türkçesi %92, Gagavuzca %92, Azerbaycan Türkçesi %92, Kırgızca %92, Türkmence %100, Tatarca %100, Başkurtça %100, Kırım Tatarcası %100, Kazakça %100, Karakalpakça %100, Sibirya Tatarcası %100, Tuvaca %100.
 
 ## Ağaç üzerinde seçimler
 
@@ -68,8 +68,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım grubu | nıñ | nıñ | nıñ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırım Tatarcası | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karayca | nıñ | nıñ | nıñ | nıñ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırımçakça | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urumca | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafkas grubu | nı | nı | nı |  |
@@ -84,8 +84,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nogayca | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sibirya Tatarcası | nıñ | nıñ | nıñ | nıñ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgız-Kıpçak | nıñ | nın | nın |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kırgızca | nın | nın | nın | nın |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nın | nın | nın | nın |
@@ -116,8 +116,8 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yenisey-Altay (Hakas, Şor, Çulım, Kuzey Altay) | nıñ | nıñ | nıñ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hakasça | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şorca | nıñ | nıñ | nıñ | nıñ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ | nıñ | nıñ | nıñ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çulımca | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yazı dili | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuyu Kırgızcası | nıñ ↑ | nıñ ↑ | nıñ ↑ |  |
@@ -136,15 +136,18 @@ Her düğüm yalnız kendi altına bakarak seçer. *İtalik*: farklı kök; **�
 | Kıpçak kolu | Tatarca |  | nıñ |
 | Kıpçak kolu | Başkurtça |  | nıñ |
 | Kıpçak kolu | Kırım Tatarcası |  | nıñ |
+| Kıpçak kolu | Karayca |  | nıñ |
 | Kıpçak kolu | Kumukça |  | nı |
 | Kıpçak kolu | Karaçay-Malkarca |  | nı |
 | Kıpçak kolu | Kazakça |  | nıñ |
 | Kıpçak kolu | Karakalpakça |  | nıñ |
 | Kıpçak kolu | Nogayca |  | nıñ |
+| Kıpçak kolu | Sibirya Tatarcası |  | nıñ |
 | Kıpçak kolu | Kırgızca |  | nın |
 | Kıpçak kolu | Güney Altayca |  | nıñ |
 | Karluk kolu | Özbekçe |  | niñ |
 | Karluk kolu | Uygurca |  | niñ |
 | Sibirya kolu | Tuvaca |  | nıñ |
 | Sibirya kolu | Hakasça |  | nıñ |
+| Sibirya kolu | Şorca |  | nıñ |
 

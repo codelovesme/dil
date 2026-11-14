@@ -34,7 +34,7 @@ taniklar:
     yazi: صاری
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: sarı, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: harı, dil: bak, kaynak: savelyev-turkic, yazi: һары}
-  - {bicim: sară, dil: chv, kaynak: bilgi, yazi: сарӑ}
+  - {dil: chv, bicim: sară, yazi: сарӑ, kaynak: tatoeba, atif: Tatoeba metinlerinde 1 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: useinov2007, bicim: sarı, dil: crh, kaynak: savelyev-turkic}
   - {atif: 'aksenova1992, stachowski1993', bicim: hahıl, dil: dlg, kaynak: savelyev-turkic, not: 'Savelyev haharkay, hahıl.'}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: sarı, dil: gag, kaynak: savelyev-turkic}

@@ -12,14 +12,17 @@ kokler:
     aze: n
     bak: ñ
     crh: ñ
+    dlg: ñ
     gag: n
     krc: ñ
+    kdr: ñ
     kaa: ñ
     kaz: ñ
     kjh: ñ
     kir: ñ
     kum: ñ
     nog: ñ
+    cjs: ñ
     alt: ñ
     tat: ñ
     tur: n
@@ -28,6 +31,7 @@ kokler:
     uig: ñ
     uzb: ñ
     sah: ñ
+    sty: ñ
 - kok: ek-u
   koken: türkçe
   kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba

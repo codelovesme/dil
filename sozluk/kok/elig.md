@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 8 (kaynaklı %38) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 30/40 · ağızlar 1/89 · duraklar 1/7 · tanık 8 (kaynaklı %100) · kaynak 3 · yabancı kayıt 1**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -39,11 +39,11 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **ală** | алӑ |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **el** |  |  | bilgi* |  |
-| Oğuz kolu | Gagavuzca |  | **el** |  |  | bilgi* |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **äl** | əl |  | bilgi* |  |
-| Oğuz kolu | Türkmence |  | **el** |  |  | bilgi* |  |
+| Oğur kolu | Çuvaşça |  | **ală** | алӑ |  | [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Gagavuzca |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **äl** | əl |  | [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Türkmence |  | **el** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Sibirya kolu | Sahaca (Yakutça) |  | **ilii** | илии |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Dolganca |  | **ilii** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Baraba ağzı | | — | | | | kök yok: yerine kol (kol-ad) |
@@ -72,4 +72,6 @@ Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük)
 
 ## Kaynakça
 
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 5 tanık
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 3 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık

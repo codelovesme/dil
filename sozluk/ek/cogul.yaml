@@ -12,14 +12,19 @@ kokler:
     aze: lar
     bak: lar
     crh: lar
+    dlg: lar
     gag: lar
     krc: lar
+    kdr: lar
     kaa: lar
     kaz: lar
     kjh: lar
+    klj: lar
     kir: lar
     kum: lar
     nog: lar
+    slr: lar
+    cjs: lar
     alt: lar
     tat: lar
     tur: lar
@@ -28,6 +33,7 @@ kokler:
     uig: lar
     uzb: lar
     sah: lar
+    sty: lar
 - kok: ek-sem
   koken: türkçe
   kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba

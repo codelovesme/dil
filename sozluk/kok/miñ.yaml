@@ -37,7 +37,7 @@ taniklar:
   - {bicim: bin, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: müñ, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: müň}
   - {bicim: muñ, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: муң}
-  - {bicim: miñ, dil: uig, kaynak: bilgi, yazi: مىڭ}
+  - {dil: uig, bicim: miñ, yazi: مىڭ, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: mıñ, dil: sah, kaynak: wiktionary-ana-turkce, yazi: мыҥ}
   - {dil: otk, yuzyil: 8-14, bicim: biñ, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Şine Usu E 9, 11 (Clauson, biŋ)', not: Eski yazıtlarda biñ; Uygur metinlerinde miñ yaygın.}
   - {dil: xqa, yer: Kâşgar, yuzyil: 11, bicim: miñ, metin: Dîvânu Lugâti't-Türk, kaynak: dlt; clauson, atif: 'DLT III 360 (Clauson, biŋ)', kaydeden: Kâşgarlı Mahmud (Arapça açıklamalı)}

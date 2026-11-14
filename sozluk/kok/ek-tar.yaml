@@ -8,6 +8,7 @@ etimoloji: Sahaca -TAr; kökeni bu çalışmada araştırılmadı.
 kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
 
 taniklar:
+  - {bicim: tar, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: apertium-sah.sah.lexc, bicim: tar, dil: sah, kaynak: apertium, not: 'Apertium: -{T}{A}r. Ünlüden sonraki biçim denetlenmedi. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
 
 yok:
@@ -29,4 +30,7 @@ yok:
   alt: yerine za (ek-sa)
   tyv: yerine za (ek-sa)
   chv: yerine san (ek-sa)
+  kdr: yerine sa (ek-sa)
+  sty: yerine sa (ek-sa)
+  cjs: yerine za (ek-sa)
 tarihi_yok: {}

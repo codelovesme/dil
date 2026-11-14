@@ -41,8 +41,7 @@ taniklar:
   - {bicim: sekiz, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: sekiz, dil: tuk, kaynak: wiktionary-ana-turkce}
   - {bicim: ses, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: сес}
-  - {bicim: säkkiz, dil: uig, kaynak: bilgi, yazi: سەككىز}
-  - {bicim: säkkiz, dil: uig, kaynak: bilgi, yazi: سەككىز}
+  - {dil: uig, bicim: säkkiz, yazi: سەككىز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 21 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: sakkiz, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: ağıs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: аҕыс}
   - {bicim: sekkiz, dil: ili, kaynak: wiktionary-ana-turkce}

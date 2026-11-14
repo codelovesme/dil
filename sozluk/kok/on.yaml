@@ -40,8 +40,7 @@ taniklar:
   - {bicim: 'on', dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: 'on', dil: tuk, kaynak: wiktionary-ana-turkce}
   - {bicim: 'on', dil: tyv, kaynak: wiktionary-ana-turkce, yazi: он}
-  - {bicim: 'on', dil: uig, kaynak: bilgi, yazi: ئون}
-  - {bicim: 'on', dil: uig, kaynak: bilgi, yazi: ئون}
+  - {dil: uig, bicim: 'on', yazi: ئون, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 50 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: ön, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: oʻn}
   - {bicim: uon, dil: sah, kaynak: wiktionary-ana-turkce, yazi: уон}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: 'on', metin: Orhon yazıtları, kaynak: clauson, atif: 'I N 7; T 26 (Clauson, o:n)'}

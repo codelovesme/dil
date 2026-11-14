@@ -27,7 +27,7 @@ taniklar:
     atif: clauson1972
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: ät, dil: aze, kaynak: savelyev-turkic}
   - {atif: 'uraksin1996, uraksin2005', bicim: it, dil: bak, kaynak: savelyev-turkic, yazi: ит}
-  - {bicim: ăş, dil: chv, kaynak: bilgi, not: Çuvaşçada 'et' için ăş (< aş 'yemek') ve ăşă kullanılır., yazi: ӑш}
+  - {dil: chv, bicim: ăş, yazi: ӑш, kaynak: apertium, atif: apertium-chv.chv.lexc, not: Çuvaşçada 'et' için ăş (< aş 'yemek') ve ăşă kullanılır. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: useinov2007, bicim: et, dil: crh, kaynak: savelyev-turkic}
   - {atif: 'aksenova1992, stachowski1993', bicim: et, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'tenisev1989, sujuncev1965', bicim: et, dil: krc, kaynak: savelyev-turkic}
@@ -48,11 +48,11 @@ taniklar:
   - {atif: 'dmitrijev1955, osmanov1966', bicim: it, dil: tat, kaynak: savelyev-turkic, yazi: ит}
   - {atif: 'rassadin1971, rassadin2005', bicim: et, dil: kim, kaynak: savelyev-turkic}
   - {atif: 'baskakov1977, iz1992', bicim: et, dil: tur, kaynak: savelyev-turkic}
-  - {bicim: et, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: et, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 1631 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'baskakov1968, khamzajev1968', bicim: et, dil: tuk, kaynak: savelyev-turkic}
   - {atif: 'harrison2002, mongus1988, tenisev1968', bicim: et, dil: tyv, kaynak: savelyev-turkic, yazi: эът}
-  - {bicim: gösh, dil: uig, kaynak: bilgi, not: Uygurca göş Farsçadan; et 'beden eti' anlamında.}
-  - {bicim: et, dil: uzb, kaynak: bilgi}
+  - {dil: uig, bicim: göş, kaynak: bilgi, not: 'Uygurca göş Farsçadan; et ''beden eti'' anlamında. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: uzb, bicim: et, kaynak: apertium, atif: apertium-uzb.uzb.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: et, dil: sah, kaynak: savelyev-turkic}
   - {atif: dmitrijeva1981, bicim: et, dil: sty-baraba, kaynak: savelyev-turkic}
 

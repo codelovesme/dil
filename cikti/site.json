@@ -4,7 +4,7 @@
  "sayilar": {
   "kavram": 238,
   "kok": 663,
-  "tanik": 7584,
+  "tanik": 7619,
   "kaynak": 171,
   "dil": 40
  },
@@ -4593,6 +4593,7 @@
     "din",
     "nan",
     "ran",
+    "tan",
     "ttan"
    ]
   },
@@ -4617,7 +4618,8 @@
    "anahtar": [
     "da",
     "la",
-    "ra"
+    "ra",
+    "ta"
    ]
   },
   {
@@ -4642,7 +4644,8 @@
     "dı",
     "nı",
     "rĕ",
-    "ta"
+    "ta",
+    "tı"
    ]
   },
   {
@@ -6396,7 +6399,7 @@
    "ozet": "Ortak dil: et · Ana Türkçe tahmini: et · En çok kişinin anladığı: et",
    "anahtar": [
     "et",
-    "gösh",
+    "göş",
     "it",
     "ät",
     "ăş"
@@ -9894,7 +9897,7 @@
    "ad": "altı",
    "alt": "\"altı (sayı)\"",
    "yol": "sozluk/kok/altı.md",
-   "ozet": "37 tanık, en eski 8. yy",
+   "ozet": "36 tanık, en eski 8. yy",
    "anahtar": [
     "aldı",
     "alta",
@@ -10409,7 +10412,7 @@
    "ad": "bar-var",
    "alt": "\"var (bulunan)\"",
    "yol": "sozluk/kok/bar-var.md",
-   "ozet": "37 tanık, en eski 8. yy",
+   "ozet": "36 tanık, en eski 8. yy",
    "anahtar": [
     "baar",
     "bar",
@@ -11415,11 +11418,12 @@
    "ad": "ek-da",
    "alt": "\"bulunma hâli eki -DA\"",
    "yol": "sozluk/kok/ek-da.md",
-   "ozet": "19 tanık, en eski günümüz",
+   "ozet": "22 tanık, en eski günümüz",
    "anahtar": [
     "da",
     "la",
-    "ra"
+    "ra",
+    "ta"
    ]
   },
   {
@@ -11427,13 +11431,14 @@
    "ad": "ek-dan",
    "alt": "\"ayrılma hâli eki -DAn\"",
    "yol": "sozluk/kok/ek-dan.md",
-   "ozet": "20 tanık, en eski günümüz",
+   "ozet": "24 tanık, en eski günümüz",
    "anahtar": [
     "dan",
     "dañ",
     "din",
     "nan",
     "ran",
+    "tan",
     "ttan"
    ]
   },
@@ -11442,12 +11447,13 @@
    "ad": "ek-dı",
    "alt": "\"görülen geçmiş zaman eki -DI\"",
    "yol": "sozluk/kok/ek-dı.md",
-   "ozet": "18 tanık, en eski günümüz",
+   "ozet": "21 tanık, en eski günümüz",
    "anahtar": [
     "di",
     "dı",
     "nı",
-    "rĕ"
+    "rĕ",
+    "tı"
    ]
   },
   {
@@ -11465,7 +11471,7 @@
    "ad": "ek-lar",
    "alt": "\"çoğul eki -lAr\"",
    "yol": "sozluk/kok/ek-lar.md",
-   "ozet": "19 tanık, en eski günümüz",
+   "ozet": "25 tanık, en eski günümüz",
    "anahtar": [
     "lar"
    ]
@@ -11475,7 +11481,7 @@
    "ad": "ek-ma",
    "alt": "\"olumsuzluk eki -mA\"",
    "yol": "sozluk/kok/ek-ma.md",
-   "ozet": "19 tanık, en eski günümüz",
+   "ozet": "23 tanık, en eski günümüz",
    "anahtar": [
     "ba",
     "ma"
@@ -11486,7 +11492,7 @@
    "ad": "ek-nı",
    "alt": "\"belirtme hâli eki -(n)I\"",
    "yol": "sozluk/kok/ek-nı.md",
-   "ozet": "19 tanık, en eski günümüz",
+   "ozet": "23 tanık, en eski günümüz",
    "anahtar": [
     "ni",
     "nı",
@@ -11498,7 +11504,7 @@
    "ad": "ek-nıñ",
    "alt": "\"ilgi hâli eki -nIñ\"",
    "yol": "sozluk/kok/ek-nıñ.md",
-   "ozet": "19 tanık, en eski günümüz",
+   "ozet": "22 tanık, en eski günümüz",
    "anahtar": [
     "n",
     "niñ",
@@ -11512,7 +11518,7 @@
    "ad": "ek-sa",
    "alt": "\"şart eki -sA\"",
    "yol": "sozluk/kok/ek-sa.md",
-   "ozet": "18 tanık, en eski günümüz",
+   "ozet": "21 tanık, en eski günümüz",
    "anahtar": [
     "ha",
     "sa",
@@ -11535,7 +11541,7 @@
    "ad": "ek-sı",
    "alt": "\"3. kişi iyelik eki -(s)I\"",
    "yol": "sozluk/kok/ek-sı.md",
-   "ozet": "18 tanık, en eski günümüz",
+   "ozet": "21 tanık, en eski günümüz",
    "anahtar": [
     "hı",
     "si",
@@ -11558,7 +11564,7 @@
    "ad": "ek-ta",
    "alt": "Sahacada \"3. kişi iyelik eki\"",
    "yol": "sozluk/kok/ek-ta.md",
-   "ozet": "1 tanık, en eski günümüz",
+   "ozet": "2 tanık, en eski günümüz",
    "anahtar": [
     "ta"
    ]
@@ -11568,7 +11574,7 @@
    "ad": "ek-tar",
    "alt": "Sahacada \"şart eki\"",
    "yol": "sozluk/kok/ek-tar.md",
-   "ozet": "1 tanık, en eski günümüz",
+   "ozet": "2 tanık, en eski günümüz",
    "anahtar": [
     "tar"
    ]
@@ -11588,7 +11594,7 @@
    "ad": "ek-ğa",
    "alt": "\"yönelme hâli eki -GA\"",
    "yol": "sozluk/kok/ek-ğa.md",
-   "ozet": "20 tanık, en eski günümüz",
+   "ozet": "24 tanık, en eski günümüz",
    "anahtar": [
     "a",
     "ga",
@@ -11602,7 +11608,7 @@
    "ad": "ek-ım",
    "alt": "\"1. tekil iyelik eki -(I)m\"",
    "yol": "sozluk/kok/ek-ım.md",
-   "ozet": "20 tanık, en eski günümüz",
+   "ozet": "24 tanık, en eski günümüz",
    "anahtar": [
     "m"
    ]
@@ -11612,7 +11618,7 @@
    "ad": "ek-ıñ",
    "alt": "\"2. tekil iyelik eki -(I)ñ\"",
    "yol": "sozluk/kok/ek-ıñ.md",
-   "ozet": "19 tanık, en eski günümüz",
+   "ozet": "23 tanık, en eski günümüz",
    "anahtar": [
     "n",
     "ñ"
@@ -11651,7 +11657,7 @@
    "ad": "ellig",
    "alt": "\"elli (sayı)\"",
    "yol": "sozluk/kok/ellig.md",
-   "ozet": "36 tanık, en eski 8. yy",
+   "ozet": "35 tanık, en eski 8. yy",
    "anahtar": [
     "allă",
     "elig",
@@ -11811,7 +11817,7 @@
    "ozet": "32 tanık, en eski 8. yy",
    "anahtar": [
     "et",
-    "gösh",
+    "göş",
     "it",
     "ät",
     "ăş",
@@ -14049,7 +14055,7 @@
    "ad": "kırk",
    "alt": "\"kırk (sayı)\"",
    "yol": "sozluk/kok/kırk.md",
-   "ozet": "34 tanık, en eski 8. yy",
+   "ozet": "33 tanık, en eski 8. yy",
    "anahtar": [
     "gırx",
     "kirk",
@@ -14536,7 +14542,7 @@
    "ad": "on",
    "alt": "\"on (sayı)\"",
    "yol": "sozluk/kok/on.md",
-   "ozet": "36 tanık, en eski 8. yy",
+   "ozet": "35 tanık, en eski 8. yy",
    "anahtar": [
     "on",
     "oon",
@@ -14630,7 +14636,7 @@
    "ad": "otuz",
    "alt": "\"otuz (sayı)\"",
    "yol": "sozluk/kok/otuz.md",
-   "ozet": "40 tanık, en eski 8. yy",
+   "ozet": "39 tanık, en eski 8. yy",
    "anahtar": [
     "hottuz",
     "odus",
@@ -15048,7 +15054,7 @@
    "ad": "sekiz",
    "alt": "\"sekiz (sayı)\"",
    "yol": "sozluk/kok/sekiz.md",
-   "ozet": "39 tanık, en eski 8. yy",
+   "ozet": "38 tanık, en eski 8. yy",
    "anahtar": [
     "agıs",
     "ağıs",
@@ -16139,7 +16145,7 @@
    "ad": "tokuz",
    "alt": "\"dokuz (sayı)\"",
    "yol": "sozluk/kok/tokuz.md",
-   "ozet": "34 tanık, en eski 8. yy",
+   "ozet": "33 tanık, en eski 8. yy",
    "anahtar": [
     "dokkuz",
     "dokos",
@@ -17683,7 +17689,7 @@
    "ad": "yegirmi",
    "alt": "\"yirmi (sayı)\"",
    "yol": "sozluk/kok/yegirmi.md",
-   "ozet": "29 tanık, en eski 8. yy",
+   "ozet": "28 tanık, en eski 8. yy",
    "anahtar": [
     "cıyırma",
     "hüürbe",
@@ -17811,7 +17817,7 @@
    "ad": "yeti",
    "alt": "\"yedi (sayı)\"",
    "yol": "sozluk/kok/yeti.md",
-   "ozet": "38 tanık, en eski 8. yy",
+   "ozet": "37 tanık, en eski 8. yy",
    "anahtar": [
     "ceti",
     "cetä",
@@ -17912,7 +17918,7 @@
    "ad": "yok",
    "alt": "\"yok (bulunmayan)\"",
    "yol": "sozluk/kok/yok.md",
-   "ozet": "30 tanık, en eski 16. yy",
+   "ozet": "29 tanık, en eski 16. yy",
    "anahtar": [
     "cok",
     "huok",
@@ -18346,7 +18352,7 @@
    "ad": "yüz-sayı",
    "alt": "\"yüz (sayı)\"",
    "yol": "sozluk/kok/yüz-sayı.md",
-   "ozet": "30 tanık, en eski 16. yy",
+   "ozet": "29 tanık, en eski 16. yy",
    "anahtar": [
     "cüz",
     "hüüs",

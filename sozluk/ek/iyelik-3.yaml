@@ -14,12 +14,14 @@ kokler:
     crh: sı
     gag: sı
     krc: sı
+    kdr: sı
     kaa: sı
     kaz: sı
     kjh: zı
     kir: sı
     kum: sı
     nog: sı
+    cjs: zı
     alt: zı
     tat: sı
     tur: sı
@@ -27,11 +29,13 @@ kokler:
     tyv: zı
     uig: si
     uzb: si
+    sty: sı
 - kok: ek-ta
   koken: türkçe
   kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba
   not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ta.yaml).
   bicimler:
+    dlg: ta
     sah: ta
 - kok: ek-i-chv
   koken: türkçe

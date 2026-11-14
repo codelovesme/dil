@@ -32,8 +32,8 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: بورون
   - {atif: 'gusejnov1941, sirliyev1951, tagiyev2006', bicim: burun, dil: aze, kaynak: savelyev-turkic}
-  - {bicim: moron, dil: bak, kaynak: bilgi, yazi: морон}
-  - {bicim: sămsa, dil: chv, kaynak: bilgi, not: Çuvaşça sămsa ayrı bir kelime; burun ile denk değil., yazi: сӑмса}
+  - {dil: bak, bicim: moron, yazi: морон, kaynak: apertium, atif: apertium-bak.bak.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
+  - {dil: chv, bicim: sămsa, yazi: сӑмса, kaynak: apertium, atif: apertium-chv.chv.lexc, not: Çuvaşça sămsa ayrı bir kelime; burun ile denk değil. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: useinov2007, bicim: burun, dil: crh, kaynak: savelyev-turkic}
   - {atif: 'aksenova1992, stachowski1993', bicim: munnu, dil: dlg, kaynak: savelyev-turkic}
   - {atif: 'baskakov1973, radova-karanastas2016', bicim: burnu, dil: gag, kaynak: savelyev-turkic}

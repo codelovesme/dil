@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 4/7 · tanık 37 (kaynaklı %86) · kaynak 4 · yabancı kayıt 1**
+**seviye 0 · diller 27/40 · ağızlar 0/89 · duraklar 4/7 · tanık 36 (kaynaklı %100) · kaynak 6 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (2 tanık)
 - ✓ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy (4 tanık)
@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -57,9 +57,9 @@ Notlar:
 |---|---|---|---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  | **pur** | пур |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Halaç kolu | Halaçça |  | **vaar** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **var** |  |  | bilgi* |  |
-| Oğuz kolu | Gagavuzca |  | **var** |  |  | bilgi* |  |
-| Oğuz kolu | Azerbaycan Türkçesi |  | **var** |  |  | bilgi* |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **var** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Gagavuzca |  | **var** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Oğuz kolu | Azerbaycan Türkçesi |  | **var** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Oğuz kolu | Türkmence |  | **baar** | bār |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Oğuz kolu | Salarca |  | **var** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Tatarca |  | **bar** | бар |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
@@ -74,8 +74,7 @@ Notlar:
 | Kıpçak kolu | Kırgızca |  | **bar** | бар |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Güney Altayca |  | **bar** | бар |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Karluk kolu | Özbekçe |  | **bor** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Karluk kolu | Uygurca |  | **bar** | بار |  | bilgi* |  |
-| Karluk kolu | Uygurca |  | **bar** | بار |  | bilgi* |  |
+| Karluk kolu | Uygurca |  | **bar** | بار |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Sibirya kolu | Sahaca (Yakutça) |  | **baar** | баар |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Sibirya kolu | Dolganca |  | **baar** | баар |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Sibirya kolu | Sarı Uygurca |  | **bar** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
@@ -88,5 +87,7 @@ Notlar:
 
 - [Wiktionary — Ana Türkçe (Proto-Turkic) maddeleri](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) — 24 tanık
 - [Clauson — An Etymological Dictionary of Pre-Thirteenth-Century Turkish (1972)](../../kaynaklar/KAYNAKLAR.md#clauson) — 8 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 4 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 4 tanık
 - [Kâşgarlı Mahmud — Dîvânu Lugâti't-Türk (Ercilasun & Akkoyunlu 2014, TDK)](../../kaynaklar/KAYNAKLAR.md#dlt) — 1 tanık
 - [İbn Mühennâ Lügati (13.-14. yy; Battal 1934, TDK)](../../kaynaklar/KAYNAKLAR.md#ibn-muhenna) — 1 tanık

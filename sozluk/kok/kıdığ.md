@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 17 (kaynaklı %94) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 17 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -40,7 +40,7 @@ Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Irak 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  | **xĕrĕ** | хӗрӗ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | Oğur -r- (Ortak Türkçe -d-/-y-). |
-| Oğuz kolu | Türkiye Türkçesi |  | **kıyı** |  |  | bilgi* |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **kıyı** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Oğuz kolu | Salarca |  | **kırğı** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Karayca |  | **kırıy** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kumukça |  | **kırıy** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -71,3 +71,5 @@ Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Irak 
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 16 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık

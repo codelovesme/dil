@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırımçakça, Urumca, Karakalpakça, Sibirya Tatarcası, Güney Altayca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Sarı Uygurca, Tuvaca, Tofaca, Duhaca (Tsaatan), Soyotça, Hakasça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -47,7 +47,7 @@ Notlar:
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Oğur kolu | Çuvaşça |  | **văra** | вӑрӑ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **urluk** |  |  | bilgi* | Ağızlarda. |
+| Oğuz kolu | Türkiye Türkçesi |  | **urluk** |  |  | ⚠ doğrulanmadı | Ağızlarda. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Salarca |  | **urlux** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Tatarca |  | **orlık** | орлык |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Başkurtça |  | **orlok** | орлоҡ |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |

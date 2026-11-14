@@ -52,7 +52,7 @@ taniklar:
   - {atif: 'dmitrijev1955, osmanov1966', bicim: öy, dil: tat, kaynak: savelyev-turkic, yazi: өй}
   - {atif: 'rassadin1971, rassadin2005', bicim: öğ, dil: kim, kaynak: savelyev-turkic}
   - {atif: 'baskakov1977, iz1992', bicim: ev, dil: tur, kaynak: savelyev-turkic}
-  - {bicim: ög, dil: tyv, kaynak: bilgi, yazi: өг}
+  - {dil: tyv, bicim: ög, yazi: өг, kaynak: apertium, atif: apertium-tyv.tyv.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: nadzip1968, bicim: öy, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: uy, dil: uzb, kaynak: savelyev-turkic}
   - {atif: dmitrijeva1981, bicim: ü, dil: sty-baraba, kaynak: savelyev-turkic}

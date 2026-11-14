@@ -17,11 +17,13 @@ kokler:
     crh: dı
     gag: dı
     krc: dı
+    kdr: dı
     kaa: dı
     kaz: dı
     kir: dı
     kum: dı
     nog: dı
+    cjs: tı
     alt: dı
     tat: dı
     tur: dı
@@ -29,6 +31,7 @@ kokler:
     tyv: dı
     uig: di
     uzb: di
+    sty: tı
 - kok: ek-ta-gec
   koken: türkçe
   kaynak: apertium; wiktionary-cekim; universal-dependencies; tatoeba

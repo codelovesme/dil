@@ -41,8 +41,7 @@ taniklar:
   - {bicim: kırık, dil: tat, kaynak: wiktionary-ana-turkce, yazi: кырык}
   - {bicim: kırk, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: kırk, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: kyrk}
-  - {bicim: kırık, dil: uig, kaynak: bilgi, yazi: قىرىق}
-  - {bicim: kırık, dil: uig, kaynak: bilgi, yazi: قىرىق}
+  - {dil: uig, bicim: kırık, yazi: قىرىق, kaynak: wiktionary-ana-turkce, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: kirk, dil: uzb, kaynak: wiktionary-ana-turkce, yazi: qirq}
   - {dil: otk, yer: Orhon, yuzyil: 8, bicim: kırk, metin: Orhon yazıtları, kaynak: clauson, atif: 'I E 15 (Clauson, kırk)', not: kırk artukı yeti yolı süledi 'kırk yedi sefer yaptı'.}
   - {dil: otk, yuzyil: 8-14, bicim: kırk, metin: Eski Uygurca metinler, kaynak: clauson, atif: 'Chuas. 54; Suv. (Clauson, kırk)'}

@@ -39,7 +39,7 @@ taniklar:
     kaynak: wiktionary-ana-turkce
     yazi: آلمق
     not: Wiktionary'de mastar biçimiyle almak.
-  - {bicim: al, dil: aze, kaynak: bilgi}
+  - {dil: aze, bicim: al, kaynak: apertium; tatoeba, atif: apertium-aze.aze.lexc; Tatoeba metinlerinde 16 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'uraksin1996, uraksin2005', bicim: al, dil: bak, kaynak: savelyev-turkic}
   - {atif: 'asmarin1928, savelyev2011', bicim: il, dil: chv, kaynak: savelyev-turkic, yazi: ил-}
   - {atif: useinov2007, bicim: al, dil: crh, kaynak: savelyev-turkic}

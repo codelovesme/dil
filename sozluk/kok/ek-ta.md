@@ -10,7 +10,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 20/40 · ağızlar 0/89 · duraklar 0/7 · tanık 1 (kaynaklı %100) · kaynak 2 · yabancı kayıt 0**
+**seviye 0 · diller 24/40 · ağızlar 0/89 · duraklar 0/7 · tanık 2 (kaynaklı %50) · kaynak 2 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -22,15 +22,16 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Karayca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
+Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Yaşayan diller ve ağızlar
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
 | Sibirya kolu | Sahaca (Yakutça) |  | **ta** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{t}{A}. Ünsüzden sonra a. |
+| Sibirya kolu | Dolganca |  | **ta** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba'da bu dil için veri yok ya da yetersiz). |
 | | Türkiye Türkçesi | | — | | | | kök yok: yerine sı (ek-sı) |
 | | Azerbaycan Türkçesi | | — | | | | kök yok: yerine sı (ek-sı) |
 | | Gagavuzca | | — | | | | kök yok: yerine sı (ek-sı) |
@@ -49,6 +50,9 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | | Güney Altayca | | — | | | | kök yok: yerine zı (ek-sı) |
 | | Tuvaca | | — | | | | kök yok: yerine zı (ek-sı) |
 | | Hakasça | | — | | | | kök yok: yerine zı (ek-sı) |
+| | Karayca | | — | | | | kök yok: yerine sı (ek-sı) |
+| | Sibirya Tatarcası | | — | | | | kök yok: yerine sı (ek-sı) |
+| | Şorca | | — | | | | kök yok: yerine zı (ek-sı) |
 | | Çuvaşça | | — | | | | kök yok: yerine i (ek-i-chv) |
 
 ## Kaynakça

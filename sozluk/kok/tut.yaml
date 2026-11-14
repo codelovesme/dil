@@ -40,7 +40,7 @@ taniklar:
   - {atif: 'tenisev1989, sujuncev1965', bicim: tut, dil: krc, kaynak: savelyev-turkic, not: sermeb tut- 'yakalamak'.}
   - {atif: baskakov1974, bicim: tut, dil: kdr, kaynak: savelyev-turkic}
   - {atif: 'baskakov1958, baskakov1967', bicim: tut, dil: kaa, kaynak: savelyev-turkic}
-  - {bicim: tut, dil: kaz, kaynak: bilgi}
+  - {dil: kaz, bicim: tut, kaynak: apertium, atif: apertium-kaz.kaz.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'baskakov1953, cankov1961, subrakova2006', bicim: '? tut', dil: kjh, kaynak: savelyev-turkic}
   - {atif: doerfer1980, bicim: tut, dil: klj, kaynak: savelyev-turkic}
   - {atif: 'judakhin1985, judakhin1957', bicim: '? tut', dil: kir, kaynak: savelyev-turkic}

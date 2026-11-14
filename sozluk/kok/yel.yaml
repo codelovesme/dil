@@ -41,7 +41,7 @@ taniklar:
   - {atif: tenisev1976, bicim: yel, dil: slr, kaynak: savelyev-turkic}
   - {atif: 'malov1957, tenisev1966', bicim: yil, dil: ybe, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: cil, dil: tat, kaynak: savelyev-turkic, yazi: җил}
-  - {bicim: yel, dil: tur, kaynak: bilgi, not: Günlük dilde rüzgâr (Farsça).}
+  - {dil: tur, bicim: yel, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 19 kez, not: Günlük dilde rüzgâr (Farsça). Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'baskakov1968, khamzajev1968', bicim: yel, dil: tuk, kaynak: savelyev-turkic}
   - {atif: dmitrijeva1981, bicim: yel, dil: sty-baraba, kaynak: savelyev-turkic}
 

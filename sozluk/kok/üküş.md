@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 3 (kaynaklı %67) · kaynak 1 · yabancı kayıt 0**
+**seviye 0 · diller 28/40 · ağızlar 1/89 · duraklar 1/7 · tanık 3 (kaynaklı %100) · kaynak 3 · yabancı kayıt 0**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -39,7 +39,7 @@ Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Sibirya kolu | Sahaca (Yakutça) |  | **elbex** |  |  | bilgi* | Sahacada ügüs ve elbex. |
+| Sibirya kolu | Sahaca (Yakutça) |  | **elbex** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Sahacada ügüs ve elbex. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Sibirya kolu | Dolganca |  | **ügüs** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | | Baraba ağzı | | — | | | | kök yok: yerine köp (köp) |
 | | Kuzey Altayca | | — | | | | kök yok: yerine köp (köp) |
@@ -71,3 +71,5 @@ Tanığı olmayan diller: Çuvaşça, Halaçça, Balkan Gagavuz Türkçesi, Irak
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 2 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 1 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık

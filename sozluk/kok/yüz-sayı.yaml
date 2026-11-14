@@ -40,8 +40,7 @@ taniklar:
   - {bicim: yüz, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: yüz, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýüz}
   - {bicim: çüs, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чүс}
-  - {bicim: yüz, dil: uig, kaynak: bilgi, yazi: يۈز}
-  - {bicim: yüz, dil: uig, kaynak: bilgi, yazi: يۈز}
+  - {dil: uig, bicim: yüz, yazi: يۈز, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 45 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: yuz, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: süüs, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүс}
 

@@ -19,12 +19,12 @@ taniklar:
     bicim: el
     kaynak: savelyev-turkic
     atif: noauthor1880
-  - {bicim: äl, dil: aze, kaynak: bilgi, yazi: əl}
-  - {bicim: ală, dil: chv, kaynak: bilgi, yazi: алӑ}
+  - {dil: aze, bicim: äl, yazi: əl, kaynak: tatoeba, atif: Tatoeba metinlerinde 28 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
+  - {dil: chv, bicim: ală, yazi: алӑ, kaynak: tatoeba, atif: Tatoeba metinlerinde 1 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'aksenova1992, stachowski1993', bicim: ilii, dil: dlg, kaynak: savelyev-turkic}
-  - {bicim: el, dil: gag, kaynak: bilgi}
-  - {bicim: el, dil: tur, kaynak: bilgi}
-  - {bicim: el, dil: tuk, kaynak: bilgi}
+  - {dil: gag, bicim: el, kaynak: apertium; tatoeba, atif: apertium-gag.gag.lexc; Tatoeba metinlerinde 1 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
+  - {dil: tur, bicim: el, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 714 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
+  - {dil: tuk, bicim: el, kaynak: apertium; tatoeba, atif: apertium-tuk.tuk.lexc; Tatoeba metinlerinde 5 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {atif: 'afanasjev1968, pekarskij1907, sleptsov1972', bicim: ilii, dil: sah, kaynak: savelyev-turkic, yazi: илии}
 
 yok:

@@ -15,14 +15,17 @@ kokler:
       bicim: m
       miras: true
     crh: m
+    dlg: m
     gag: m
     krc: m
+    kdr: m
     kaa: m
     kaz: m
     kjh: m
     kir: m
     kum: m
     nog: m
+    cjs: m
     alt: m
     tat: m
     tur: m
@@ -31,5 +34,6 @@ kokler:
     uig: m
     uzb: m
     sah: m
+    sty: m
 yok: []
 tarihi_yok: []

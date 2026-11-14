@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -63,16 +63,16 @@ Notlar:
 |---|---|---|---|---|---|---|---|
 | Halaç kolu | Halaçça |  | **bo** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) | u > o. |
 | Oğuz kolu | Türkiye Türkçesi |  | **bu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi | Ege ağzı | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **bu** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Kıbrıs ağzı | **bu** |  |  | bilgi* |  |
+| Oğuz kolu | Türkiye Türkçesi | Ege ağzı | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Kıbrıs ağzı | **bu** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Gagavuzca |  | **bu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **bu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkmence |  | **bu** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |

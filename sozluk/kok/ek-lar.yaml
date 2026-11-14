@@ -13,14 +13,19 @@ taniklar:
   - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (28 örnek: adalar, kapılar, ayakkabılar)', bicim: lar, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
   - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (7 örnek: balalar, aldılar, suskalar)', bicim: lar, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
   - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (5 örnek: adalar, okuyıcılar, parçalar)', bicim: lar, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
+  - {bicim: lar, dil: dlg, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu, bicim: lar, dil: gag, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{L}{A}r.'}
   - {atif: apertium-krc.krc.lexc, bicim: lar, dil: krc, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: lar, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: 'apertium-kaa.kaa.lexc; Tatoeba metinleri (1 örnek: okıwshılar)', bicim: lar, dil: kaa, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r. Tatoeba''da tek örnek; zayıf kanıt.'}
   - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: lar, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
   - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (1 örnek: çardılar)', bicim: lar, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r. Tatoeba''da tek örnek; zayıf kanıt.'}
+  - {bicim: lar, dil: klj, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL', bicim: lar, dil: kir, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
   - {atif: apertium-kum.kum.lexc, bicim: lar, dil: kum, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: apertium-nog.nog.lexc, bicim: lar, dil: nog, kaynak: apertium, not: 'Apertium: -{L}{A}r. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: lar, dil: slr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
+  - {bicim: lar, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (3 örnek: amadular, ayular)', bicim: lar, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{L}{A}r.'}
   - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: lar, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
   - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: lar, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
@@ -29,6 +34,7 @@ taniklar:
   - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: lar, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
   - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: lar, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -lar (ünlü uyumu yok).'}
   - {atif: apertium-sah.sah.lexc; UD_Yakut-YKTDT, bicim: lar, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{L}{A}r.'}
+  - {bicim: lar, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
 
 yok:
   chv: yerine sem (ek-sem)

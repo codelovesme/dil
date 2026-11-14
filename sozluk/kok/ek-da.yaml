@@ -16,12 +16,14 @@ taniklar:
   - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: da, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{D}{A}.'}
   - {atif: 'apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu; Tatoeba metinleri (3 örnek: kişinêuda, başçada)', bicim: da, dil: gag, kaynak: apertium; wiktionary-cekim; tatoeba, not: 'Apertium: -{D}{A}.'}
   - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (2 örnek: suuda, duniyada)', bicim: da, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}.'}
+  - {bicim: da, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: apertium-kaa.kaa.lexc, bicim: da, dil: kaa, kaynak: apertium, not: 'Apertium: -{D}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: da, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}.'}
   - {atif: 'apertium-kjh.kjh.lexc; Tatoeba metinleri (2 örnek: çazıda, şkolada)', bicim: da, dil: kjh, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}.'}
   - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: da, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}.'}
   - {atif: apertium-kum.kum.lexc, bicim: da, dil: kum, kaynak: apertium, not: 'Apertium: -{D}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (2 örnek: kalada, balada)', bicim: da, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}.'}
+  - {bicim: ta, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (2 örnek: suuda)', bicim: da, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}.'}
   - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: da, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}.'}
   - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: da, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{D}{A}.'}
@@ -29,6 +31,7 @@ taniklar:
   - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (1 örnek: karañgıda)', bicim: da, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -{D}{A}. Tatoeba''da tek örnek; zayıf kanıt.'}
   - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: da, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{D}{A}.'}
   - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: da, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -da.'}
+  - {bicim: ta, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
 
 yok: {}
 tarihi_yok: {}

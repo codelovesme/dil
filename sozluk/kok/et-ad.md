@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 2/7 · tanık 32 (kaynaklı %88) · kaynak 1 · yabancı kayıt 1**
+**seviye 0 · diller 29/40 · ağızlar 1/89 · duraklar 2/7 · tanık 32 (kaynaklı %97) · kaynak 3 · yabancı kayıt 1**
 
 - ✓ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy (1 tanık)
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Kırımçakça, Urumca, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -40,10 +40,10 @@ Tanığı olmayan diller: Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmences
 
 | Kol | Dil | Ağız | Biçim | Yazı | Anlam | Kaynak | Not |
 |---|---|---|---|---|---|---|---|
-| Oğur kolu | Çuvaşça |  | **ăş** | ӑш |  | bilgi* | Çuvaşçada 'et' için ăş (< aş 'yemek') ve ăşă kullanılır. |
+| Oğur kolu | Çuvaşça |  | **ăş** | ӑш |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Çuvaşçada 'et' için ăş (< aş 'yemek') ve ăşă kullanılır. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Halaç kolu | Halaçça |  | **ät** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Oğuz kolu | Türkiye Türkçesi |  | **et** |  |  | bilgi* |  |
+| Oğuz kolu | Türkiye Türkçesi |  | **et** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **ät** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Türkmence |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Oğuz kolu | Salarca |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -59,8 +59,8 @@ Tanığı olmayan diller: Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Kıpçak kolu | Sibirya Tatarcası | Baraba ağzı | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Kırgızca |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Kıpçak kolu | Güney Altayca |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
-| Karluk kolu | Özbekçe |  | **et** |  |  | bilgi* |  |
-| Karluk kolu | Uygurca |  | **gösh** |  |  | bilgi* | Uygurca göş Farsçadan; et 'beden eti' anlamında. |
+| Karluk kolu | Özbekçe |  | **et** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi. |
+| Karluk kolu | Uygurca |  | **göş** |  |  | ⚠ doğrulanmadı | Uygurca göş Farsçadan; et 'beden eti' anlamında. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Sibirya kolu | Sahaca (Yakutça) |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Dolganca |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
 | Sibirya kolu | Sarı Uygurca |  | **et** |  |  | [savelyev-turkic](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) |  |
@@ -74,3 +74,5 @@ Tanığı olmayan diller: Gagavuzca, Balkan Gagavuz Türkçesi, Irak Türkmences
 ## Kaynakça
 
 - [Savelyev & Robbeets — Turkic Basic Vocabularies (lexibank/savelyevturkic)](../../kaynaklar/KAYNAKLAR.md#savelyev-turkic) — 28 tanık
+- [Apertium — Türk dillerinin biçimbilim çözümleyicileri (apertium-<dil>)](../../kaynaklar/KAYNAKLAR.md#apertium) — 3 tanık
+- [Tatoeba — çok dilli cümle derlemi](../../kaynaklar/KAYNAKLAR.md#tatoeba) — 1 tanık

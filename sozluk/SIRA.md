@@ -88,7 +88,8 @@ için eki de kelime gibi seçer. Biçim olarak ünlüyle biten kalın sıralı b
 sonraki biçim yazılır. Her tanık birkaç kaynakla doğrulanır: Apertium biçimbilim dosyası, Wiktionary
 çekim tabloları, Universal Dependencies derlemleri ve Tatoeba metinleri (ILKELER §12);
 ekin arşifonem kalıbı (ör. -{L}{A}r) ve tek kaynaklı olduğu notta yazılır. Kaynağı
-bulunamayan diller (Karay, Şor, Halaç, Salar, Sibirya Tatar, Dolgan) şimdilik boş.
+bulunamayan dillerin (Karay, Şor, Halaç, Salar, Sibirya Tatar, Dolgan) biçimleri
+"Doğrulanmadı" işaretiyle durur.
 
 - **İsim:** [x] [çoğul](ek/cogul.yaml) · iyelik: [x] [1. tekil](ek/iyelik-1t.yaml) · [x] [2. tekil](ek/iyelik-2t.yaml) · [x] [3. kişi](ek/iyelik-3.yaml) · [ ] 1. çoğul · [ ] 2. çoğul · [x] [ilgi hâli](ek/ilgi.yaml) · [x] [yönelme](ek/yonelme.yaml) · [x] [belirtme](ek/belirtme.yaml) · [x] [bulunma](ek/bulunma.yaml) · [x] [ayrılma](ek/ayrilma.yaml) · [ ] vasıta (ile)
 - **Fiil:** [x] [olumsuzluk (-mA)](ek/olumsuzluk.yaml) · [x] [geçmiş zaman (-DI)](ek/gecmis.yaml) · [ ] öğrenilen geçmiş (-mIş/-GAn) · [ ] geniş zaman (-Ar) · [ ] şimdiki zaman · [ ] gelecek zaman · [x] [şart (-sA)](ek/sart.yaml) · [ ] emir · [ ] istek

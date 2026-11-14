@@ -30,7 +30,7 @@ taniklar:
   - {atif: 'uraksin1996, uraksin2005', bicim: yörö, dil: bak, kaynak: savelyev-turkic, yazi: йөрө-}
   - {atif: 'asmarin1928, savelyev2011', bicim: şüre, dil: chv, kaynak: savelyev-turkic, yazi: ҫӳре-}
   - {atif: useinov2007, bicim: yür, dil: crh, kaynak: savelyev-turkic}
-  - {bicim: yürü, dil: gag, kaynak: bilgi}
+  - {dil: gag, bicim: yürü, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - {atif: 'tenisev1989, sujuncev1965', bicim: cürü, dil: krc, kaynak: savelyev-turkic}
   - {atif: baskakov1974, bicim: yürü, dil: kdr, kaynak: savelyev-turkic}
   - {atif: 'baskakov1958, baskakov1967', bicim: jür, dil: kaa, kaynak: savelyev-turkic}

@@ -44,7 +44,7 @@ taniklar:
   - {atif: tenisev1976, bicim: yaman, dil: slr, kaynak: savelyev-turkic}
   - {atif: baskakov1947, bicim: daman, dil: alt, kaynak: savelyev-turkic}
   - {atif: 'dmitrijev1955, osmanov1966', bicim: '? yaman', dil: tat, kaynak: savelyev-turkic}
-  - {bicim: yaman, dil: tur, kaynak: bilgi, not: '''Çok kötü, belalı'' anlamında.'}
+  - {dil: tur, bicim: yaman, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 6 kez, not: '''Çok kötü, belalı'' anlamında. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.'}
   - {atif: 'baskakov1968, khamzajev1968', bicim: '? yaman', dil: tuk, kaynak: savelyev-turkic}
   - {atif: nadzip1968, bicim: yaman, dil: uig, kaynak: savelyev-turkic}
   - {atif: 'awde2002, kary-nijazov1941, koscanov1983', bicim: yomon, dil: uzb, kaynak: savelyev-turkic}

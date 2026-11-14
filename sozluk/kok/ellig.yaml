@@ -35,8 +35,7 @@ taniklar:
   - {bicim: ille, dil: tat, kaynak: wiktionary-ana-turkce, yazi: илле}
   - {bicim: elli, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: elli, dil: tuk, kaynak: wiktionary-ana-turkce}
-  - {bicim: ellik, dil: uig, kaynak: bilgi, yazi: ئەللىك}
-  - {bicim: ellik, dil: uig, kaynak: bilgi, yazi: ئەللىك}
+  - {dil: uig, bicim: ellik, yazi: ئەللىك, kaynak: wiktionary-ana-turkce, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: ellik, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: ellik, dil: ili, kaynak: wiktionary-ana-turkce}
   - {bicim: ille, dil: sty, kaynak: wiktionary-ana-turkce, yazi: илле}

@@ -11,7 +11,7 @@
 
 ## Kapsam
 
-**seviye 0 · diller 19/40 · ağızlar 0/89 · duraklar 0/7 · tanık 19 (kaynaklı %100) · kaynak 4 · yabancı kayıt 0**
+**seviye 0 · diller 22/40 · ağızlar 0/89 · duraklar 0/7 · tanık 22 (kaynaklı %86) · kaynak 4 · yabancı kayıt 0**
 
 - ✗ Eski Türkçe (Göktürk, Yenisey, Uygur), 7-14. yy
 - ✗ Karahanlıca (DLT, Kutadgu Bilig), 11-13. yy
@@ -23,9 +23,9 @@
 - ✗ Osmanlıca, 16-19. yy
 - · 18.-19. yüzyıl derlemeleri (Pallas, Radloff, Budagov…), 18-19. yy
 
-Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Karayca, Kırımçakça, Urumca, Sibirya Tatarcası, İli Türkçesi, Sahaca (Yakutça), Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Şorca, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
+Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Horasan Türkçesi, Salarca, Kırımçakça, Urumca, İli Türkçesi, Sahaca (Yakutça), Dolganca, Sarı Uygurca, Tofaca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası, Kuzey Altayca.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Yaşayan diller ve ağızlar
 
@@ -39,17 +39,20 @@ Tanığı olmayan diller: Halaçça, Balkan Gagavuz Türkçesi, Irak Türkmences
 | Kıpçak kolu | Tatarca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{D}{A}. |
 | Kıpçak kolu | Başkurtça |  | **la** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{L}{A}. Başkurtçada ünlüden sonra la. |
 | Kıpçak kolu | Kırım Tatarcası |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim) | Apertium: -{D}{A}. |
+| Kıpçak kolu | Karayca |  | **da** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba'da bu dil için veri yok ya da yetersiz). |
 | Kıpçak kolu | Kumukça |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{D}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
 | Kıpçak kolu | Karaçay-Malkarca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{D}{A}. |
 | Kıpçak kolu | Kazakça |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{D}{A}. |
 | Kıpçak kolu | Karakalpakça |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium) | Apertium: -{D}{A}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı. |
 | Kıpçak kolu | Nogayca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{D}{A}. |
+| Kıpçak kolu | Sibirya Tatarcası |  | **ta** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba'da bu dil için veri yok ya da yetersiz). |
 | Kıpçak kolu | Kırgızca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{D}{A}. |
 | Kıpçak kolu | Güney Altayca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{D}{A}. |
 | Karluk kolu | Özbekçe |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -da. |
 | Karluk kolu | Uygurca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [wiktionary-cekim](../../kaynaklar/KAYNAKLAR.md#wiktionary-cekim), [universal-dependencies](../../kaynaklar/KAYNAKLAR.md#universal-dependencies) | Apertium: -{D}{A}. |
 | Sibirya kolu | Tuvaca |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{D}{A}. Tatoeba'da tek örnek; zayıf kanıt. |
 | Sibirya kolu | Hakasça |  | **da** |  |  | [apertium](../../kaynaklar/KAYNAKLAR.md#apertium), [tatoeba](../../kaynaklar/KAYNAKLAR.md#tatoeba) | Apertium: -{D}{A}. |
+| Sibirya kolu | Şorca |  | **ta** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba'da bu dil için veri yok ya da yetersiz). |
 
 ## Kaynakça
 

@@ -203,34 +203,34 @@ taniklar:
   - { dil: klj, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: "Temel zamir; Azerbaycan Türkçesinden ödünç değil." }
   # Oğuz
   - { dil: tur, bicim: ben, kaynak: tdk-portal; wiktionary-ana-turkce }
-  - { dil: tur-ege, bicim: ben, kaynak: bilgi }
-  - { dil: tur-teke, bicim: ben, kaynak: bilgi }
-  - { dil: tur-orta, bicim: ben, kaynak: bilgi }
-  - { dil: tur-bkaradeniz, bicim: ben, kaynak: bilgi }
-  - { dil: tur-dkaradeniz, bicim: ben, kaynak: bilgi }
-  - { dil: tur-erzurum, bicim: men, kaynak: bilgi, not: "Doğu Anadolu ağızlarında men." }
-  - { dil: tur-ahiska, bicim: men, kaynak: bilgi }
-  - { dil: tur-drumeli, bicim: ben, kaynak: bilgi }
-  - { dil: tur-brumeli, bicim: ben, kaynak: bilgi }
-  - { dil: tur-kibris, bicim: ben, kaynak: bilgi }
+  - {dil: tur-ege, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-teke, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-orta, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-bkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-dkaradeniz, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-erzurum, bicim: men, kaynak: bilgi, not: 'Doğu Anadolu ağızlarında men. Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-ahiska, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-drumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-brumeli, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: tur-kibris, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: gag, bicim: bän, yazi: ben, kaynak: wiktionary-ana-turkce }
-  - { dil: bgx, bicim: ben, kaynak: bilgi }
+  - {dil: bgx, bicim: ben, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: aze, bicim: män, yazi: mən, kaynak: wiktionary-ana-turkce, not: "Sonkor ağzında mä (Elegant Lexicon)." }
-  - { dil: kerkuk, bicim: men, kaynak: bilgi }
+  - {dil: kerkuk, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: qxq, bicim: män, yazi: من, kaynak: wiktionary-ana-turkce }
   - { dil: tuk, bicim: men, kaynak: wiktionary-ana-turkce }
-  - { dil: kmz, bicim: men, kaynak: bilgi }
+  - {dil: kmz, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: slr, bicim: men, kaynak: wiktionary-ana-turkce }
   # Kıpçak
   - { dil: tat, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
   - { dil: bak, bicim: min, yazi: мин, kaynak: wiktionary-ana-turkce }
-  - { dil: sty, bicim: min, kaynak: bilgi }
+  - {dil: sty, bicim: min, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: crh, bicim: men, kaynak: wiktionary-ana-turkce }
   - { dil: kum, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: krc, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: kdr, bicim: men, yazi: мэн, kaynak: wiktionary-ana-turkce }
-  - { dil: jct, bicim: men, kaynak: bilgi }
-  - { dil: uum, bicim: men, kaynak: bilgi }
+  - {dil: jct, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
+  - {dil: uum, bicim: men, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi.'}
   - { dil: kaz, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: kaa, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }
   - { dil: nog, bicim: men, yazi: мен, kaynak: wiktionary-ana-turkce }

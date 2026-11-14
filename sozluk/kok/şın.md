@@ -24,7 +24,7 @@
 
 Tanığı olmayan diller: Halaçça, Gagavuzca, Balkan Gagavuz Türkçesi, Azerbaycan Türkçesi, Irak Türkmencesi (Kerkük), Kaşkayca, Türkmence, Horasan Türkçesi, Kırım Tatarcası, Kırımçakça, Urumca, Karaçay-Malkarca, Karakalpakça, İli Türkçesi, Duhaca (Tsaatan), Soyotça, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Yaşayan diller ve ağızlar
 

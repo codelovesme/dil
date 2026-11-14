@@ -16,7 +16,7 @@ taniklar:
     kaynak: savelyev-turkic
     atif: clauson1972
   - {atif: 'aksenova1992, stachowski1993', bicim: ügüs, dil: dlg, kaynak: savelyev-turkic}
-  - {bicim: elbex, dil: sah, kaynak: bilgi, not: Sahacada ügüs ve elbex.}
+  - {dil: sah, bicim: elbex, kaynak: apertium; tatoeba, atif: apertium-sah.sah.lexc; Tatoeba metinlerinde 9 kez, not: Sahacada ügüs ve elbex. Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
 
 yok:
   sty-baraba: yerine köp (köp)

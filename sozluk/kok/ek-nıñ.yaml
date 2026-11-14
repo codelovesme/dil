@@ -16,12 +16,14 @@ taniklar:
   - {atif: apertium-crh.crh.lexc; Wiktionary bala çekim tablosu, bicim: nıñ, dil: crh, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -n{Y}ñ.'}
   - {atif: apertium-gag.gag.lexc; Wiktionary uşak çekim tablosu, bicim: nın, dil: gag, kaynak: apertium; wiktionary-cekim, not: 'Apertium: -{N}{I}n. Wiktionary: uşaan (ünsüzden sonra).'}
   - {atif: apertium-krc.krc.lexc, bicim: nı, dil: krc, kaynak: apertium, not: 'Apertium: -{N}{I}. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: nıñ, dil: kdr, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: apertium-kaa.kaa.lexc, bicim: nıñ, dil: kaa, kaynak: apertium, not: 'Apertium: -{N}{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: apertium-kaz.kaz.lexc; Wiktionary бала çekim tablosu; UD_Kazakh-KTB, bicim: nıñ, dil: kaz, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}ñ.'}
   - {atif: apertium-kjh.kjh.lexc, bicim: nıñ, dil: kjh, kaynak: apertium, not: 'Apertium: -{N}{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: 'apertium-kir.kir.lexc; Wiktionary бала çekim tablosu; UD_Kyrgyz-KTMU, TueCL', bicim: nın, dil: kir, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -{N}{I}n.'}
   - {atif: apertium-kum.kum.lexc, bicim: nı, dil: kum, kaynak: apertium, not: 'Apertium: -{N}{I}{ñ}. Sondaki ñ Apertium''da isteğe bağlı. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: apertium-nog.nog.lexc, bicim: nıñ, dil: nog, kaynak: apertium, not: 'Apertium: -{D}{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
+  - {bicim: nıñ, dil: cjs, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
   - {atif: 'apertium-alt.alt.lexc; Tatoeba metinleri (2 örnek: mariyanıñ, akçanıñ)', bicim: nıñ, dil: alt, kaynak: apertium; tatoeba, not: 'Apertium: -{N}{I}ñ.'}
   - {atif: apertium-tat.tat.lexc; UD_Tatar-NMCTT, bicim: nıñ, dil: tat, kaynak: apertium; universal-dependencies, not: 'Apertium: -n{I}ñ.'}
   - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST', bicim: nın, dil: tur, kaynak: apertium; universal-dependencies, not: 'Apertium: -{N}{I}n.'}
@@ -29,6 +31,7 @@ taniklar:
   - {atif: apertium-tyv.tyv.lexc, bicim: nıñ, dil: tyv, kaynak: apertium, not: 'Apertium: -{N}{I}ñ. Tek kaynak (Apertium); ikinci kaynakla doğrulanmadı.'}
   - {atif: apertium-uig.uig.lexc; Wiktionary بالا çekim tablosu; UD_Uyghur-UDT, bicim: niñ, dil: uig, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -niñ.'}
   - {atif: 'apertium-uzb.uzb.lexc; Wiktionary bola çekim tablosu; UD_Uzbek-UzUDT, UT', bicim: niñ, dil: uzb, kaynak: apertium; wiktionary-cekim; universal-dependencies, not: 'Apertium: -niñ.'}
+  - {bicim: nıñ, dil: sty, kaynak: bilgi, not: 'Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi (Apertium, UD ve Tatoeba''da bu dil için veri yok ya da yetersiz).'}
 
 yok: {}
 tarihi_yok: {}

@@ -38,8 +38,7 @@ taniklar:
   - {bicim: yirmi, dil: tur, kaynak: wiktionary-ana-turkce}
   - {bicim: yigrimi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýigrimi}
   - {bicim: çeerbi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чээрби}
-  - {bicim: yigirmä, dil: uig, kaynak: bilgi, yazi: يىگىرمە}
-  - {bicim: yigirmä, dil: uig, kaynak: bilgi, yazi: يىگىرمە}
+  - {dil: uig, bicim: yigirmä, yazi: يىگىرمە, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 10 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: yigirma, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: süürbe, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сүүрбэ}
   - {bicim: yirmi, dil: uum, kaynak: wiktionary-ana-turkce, yazi: йирми}

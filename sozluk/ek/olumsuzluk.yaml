@@ -15,13 +15,16 @@ kokler:
       bicim: ma
       miras: true
     crh: ma
+    dlg: ma
     gag: ma
     krc: ma
+    kdr: ma
     kaa: ma
     kaz: ma
     kir: ba
     kum: ma
     nog: ma
+    cjs: ba
     alt: ba
     tat: ma
     tur: ma
@@ -30,5 +33,6 @@ kokler:
     uig: ma
     uzb: ma
     sah: ma
+    sty: ma
 yok: []
 tarihi_yok: []

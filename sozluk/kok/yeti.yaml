@@ -16,12 +16,12 @@ taniklar:
     metin: Eski Anadolu Türkçesi metinleri
     kaynak: wiktionary-ana-turkce
     yazi: یدی
-  - {bicim: yeddi, dil: aze, kaynak: bilgi}
+  - {dil: aze, bicim: yeddi, kaynak: tatoeba, atif: Tatoeba metinlerinde 7 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: yete, dil: bak, kaynak: wiktionary-ana-turkce, yazi: ете}
   - {bicim: şiççĕ, dil: chv, kaynak: wiktionary-ana-turkce, yazi: ҫиччӗ}
   - {bicim: yedi, dil: crh, kaynak: wiktionary-ana-turkce}
   - {bicim: hette, dil: dlg, kaynak: wiktionary-ana-turkce, yazi: һэттэ}
-  - {bicim: yedi, dil: gag, kaynak: bilgi}
+  - {dil: gag, bicim: yedi, kaynak: apertium, atif: apertium-gag.gag.lexc, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: ceti, dil: krc, kaynak: wiktionary-ana-turkce, yazi: джети}
   - {bicim: yedi, dil: kdr, kaynak: wiktionary-ana-turkce, yazi: йэди}
   - {bicim: jeti, dil: kaa, kaynak: wiktionary-ana-turkce}
@@ -38,11 +38,10 @@ taniklar:
   - {bicim: yeti, dil: alt, kaynak: wiktionary-ana-turkce, yazi: јети}
   - {bicim: cide, dil: tat, kaynak: wiktionary-ana-turkce, yazi: җиде}
   - {bicim: çedi, dil: kim, kaynak: wiktionary-ana-turkce, yazi: чеді}
-  - {bicim: yedi, dil: tur, kaynak: bilgi}
+  - {dil: tur, bicim: yedi, kaynak: apertium; tatoeba, atif: apertium-tur.tur.lexc; Tatoeba metinlerinde 1045 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: yedi, dil: tuk, kaynak: wiktionary-ana-turkce, yazi: ýedi}
   - {bicim: çedi, dil: tyv, kaynak: wiktionary-ana-turkce, yazi: чеди}
-  - {bicim: yättä, dil: uig, kaynak: bilgi, yazi: يەتتە}
-  - {bicim: yättä, dil: uig, kaynak: bilgi, yazi: يەتتە}
+  - {dil: uig, bicim: yättä, yazi: يەتتە, kaynak: wiktionary-ana-turkce; apertium; tatoeba, atif: Arap harfli biçim Wiktionary torun listesinden; Latin aktarımı bizim; apertium-uig.uig.lexc; Tatoeba metinlerinde 17 kez, not: Biçimin bu dilde kullanıldığı kaynakla doğrulandı; bu kavram anlamında kullanıldığı ayrıca denetlenmedi.}
   - {bicim: yetti, dil: uzb, kaynak: wiktionary-ana-turkce}
   - {bicim: sette, dil: sah, kaynak: wiktionary-ana-turkce, yazi: сэттэ}
   - {bicim: cetä, dil: duha, kaynak: wiktionary-ana-turkce}

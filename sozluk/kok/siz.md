@@ -25,7 +25,7 @@
 
 Tanığı olmayan diller: Salarca, Sibirya Tatarcası, İli Türkçesi, Sarı Uygurca, Duhaca (Tsaatan), Soyotça, Çulımca, Fuyu Kırgızcası.
 
-`bilgi*`: kaynakla doğrulanmamış, genel Türkoloji bilgisine dayanan tanık.
+⚠ **doğrulanmadı**: bu tanık hiçbir kaynağa bakılmadan, yapay zekânın kendi bilgisinden yazıldı (`kaynak: bilgi`). Kaynakla denetlenene kadar kanıt sayılmaz.
 
 ## Zaman çizelgesi
 
@@ -63,29 +63,29 @@ Notlar:
 | Oğur kolu | Çuvaşça |  | **esir** | эсир |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Oğur -r; başta e-. Miras. |
 | Halaç kolu | Halaçça |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Oğuz kolu | Türkiye Türkçesi |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Türkiye Türkçesi | Ege ağzı | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Türkiye Türkçesi | Kıbrıs ağzı | **siz** |  |  | bilgi* |  |
+| Oğuz kolu | Türkiye Türkçesi | Ege ağzı | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Teke-Akdeniz ağzı | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Orta Anadolu ağzı | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Batı Karadeniz ağzı (Kastamonu-Sinop) | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Erzurum-Kars ağzı | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Ahıska ağzı | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Doğu Karadeniz ağzı (Trabzon-Rize) | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Doğu Rumeli ağzı (Bulgaristan, Batı Trakya) | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Batı Rumeli ağzı (Makedonya, Kosova) | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Türkiye Türkçesi | Kıbrıs ağzı | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Gagavuzca |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Balkan Gagavuz Türkçesi |  | **siz** |  |  | bilgi* |  |
+| Oğuz kolu | Balkan Gagavuz Türkçesi |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Azerbaycan Türkçesi |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **siz** |  |  | bilgi* |  |
-| Oğuz kolu | Kaşkayca |  | **siz** |  |  | bilgi* |  |
+| Oğuz kolu | Irak Türkmencesi (Kerkük) |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Oğuz kolu | Kaşkayca |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Oğuz kolu | Türkmence |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Oğuz kolu | Horasan Türkçesi |  | **siz** |  |  | bilgi* |  |
+| Oğuz kolu | Horasan Türkçesi |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Kıpçak kolu | Tatarca |  | **sez** | сез |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Başkurtça |  | **hez** | һеҙ |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | s- > h-; ҙ (ð) çalışma yazımında z. |
 | Kıpçak kolu | Kırım Tatarcası |  | **siz** |  |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
-| Kıpçak kolu | Karayca |  | **siz** |  |  | bilgi* |  |
-| Kıpçak kolu | Kırımçakça |  | **siz** |  |  | bilgi* |  |
-| Kıpçak kolu | Urumca |  | **siz** |  |  | bilgi* |  |
+| Kıpçak kolu | Karayca |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Kırımçakça |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
+| Kıpçak kolu | Urumca |  | **siz** |  |  | ⚠ doğrulanmadı | Doğrulanmadı: yapay zekânın kendi bilgisinden yazıldı; hiçbir kaynakla denetlenmedi. |
 | Kıpçak kolu | Kumukça |  | **siz** | сиз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Karaçay-Malkarca |  | **siz** | сиз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) |  |
 | Kıpçak kolu | Kazakça |  | **siz** | сіз |  | [wiktionary-ana-turkce](../../kaynaklar/KAYNAKLAR.md#wiktionary-ana-turkce) | Saygı biçimi; düz çoğul sender (sen + -der). |
