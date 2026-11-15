@@ -1,0 +1,35 @@
+kavram: kişi eki (1. çoğul)
+ingilizce: 1pl personal ending
+anlam: 'Birinci çoğul kişi eki (yüklemde: öğretmeniz, geliriz).'
+dogrulandi: false
+kokler:
+- kok: ek-bız
+  koken: türkçe
+  ana_turkce: '*-bIz'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-bız.yaml).
+  bicimler:
+    bak: bız
+    chv: păr
+    crh: mız
+    gag: yız
+    krc: bız
+    kaa: mız
+    kaz: mız
+    kjh: bıs
+    kir: bız
+    kum: bız
+    nog: mız
+    tat: bız
+    tur: yız
+    uig: miz
+    uzb: miz
+    sah: bıt
+- kok: ek-ık
+  koken: türkçe
+  kaynak: universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ık.yaml).
+  bicimler:
+    aze: yık
+yok: []
+tarihi_yok: []

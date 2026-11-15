@@ -1,0 +1,30 @@
+kavram: -sIz eki (yoksunluk)
+ingilizce: -sIz (without) suffix
+anlam: Yoksunluk bildiren sıfat yapım eki (tuzsuz, atsız).
+dogrulandi: false
+kokler:
+- kok: ek-sız
+  koken: türkçe
+  ana_turkce: '*-sIz'
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sız.yaml).
+  bicimler:
+    aze: sız
+    bak: hız
+    chv:
+      bicim: săr
+      miras: true
+    crh: sız
+    gag: sız
+    krc: sız
+    kaa: sız
+    kaz: sız
+    kir: sız
+    kum: sız
+    tat: sız
+    tur: sız
+    tuk: sız
+    uig: siz
+    uzb: siz
+yok: []
+tarihi_yok: []

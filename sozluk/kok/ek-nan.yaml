@@ -1,0 +1,29 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-nan
+anlam: Sahacada "vasıta hâli eki -nAn"
+koken: türkçe
+kavramlar:
+- vasita
+etimoloji: Sahaca -nAn; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; universal-dependencies
+
+taniklar:
+  - {atif: 'apertium-sah.sah.lexc: %<ins%> -n{A}n; UD_Yakut-YKTDT: Case=Ins: ınan, unan', bicim: nan, dil: sah, kaynak: apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  tur: yerine yla (ek-birle)
+  aze: yerine yla (ek-birle)
+  gag: yerine yla (ek-birle)
+  alt: yerine la (ek-birle)
+  crh: yerine nen (ek-birle)
+  kaz: yerine men (ek-birle)
+  kaa: yerine menen (ek-birle)
+  kir: yerine menen (ek-birle)
+  bak: yerine menän (ek-birle)
+  tat: yerine belän (ek-birle)
+  uig: yerine bilän (ek-birle)
+  uzb: yerine bilan (ek-birle)
+  tuk: yerine bilen (ek-birle)
+  kjh: yerine nañ (ek-nañ)
+  chv: yerine pa (ek-pa)
+tarihi_yok: {}

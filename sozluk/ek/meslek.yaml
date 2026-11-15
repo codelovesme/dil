@@ -1,0 +1,33 @@
+kavram: -CI eki (meslek, uğraş)
+ingilizce: -CI (agent) suffix
+anlam: Meslek ya da uğraş bildiren isim yapım eki (balıkçı, yazıcı).
+dogrulandi: false
+kokler:
+- kok: ek-çı
+  koken: türkçe
+  ana_turkce: '*-čI'
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-çı.yaml).
+  bicimler:
+    aze: çı
+    bak: sı
+    crh: cı
+    gag: cı
+    krc: çı
+    kaz: şı
+    kir: çı
+    kum: çı
+    tat: çı
+    tur: cı
+    tuk: çı
+    tyv: çı
+    uig: çi
+    uzb: çi
+- kok: ek-hıt
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-hıt.yaml).
+  bicimler:
+    sah: hıt
+yok: []
+tarihi_yok: []

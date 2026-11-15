@@ -1,0 +1,37 @@
+kavram: kişi eki (2. çoğul)
+ingilizce: 2pl personal ending
+anlam: 'İkinci çoğul kişi eki (yüklemde: öğretmensiniz, gelirsiniz).'
+dogrulandi: false
+kokler:
+- kok: ek-sınız
+  koken: türkçe
+  ana_turkce: '*-sIz'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sınız.yaml).
+  bicimler:
+    aze: sınız
+    bak: hığız
+    crh: sız
+    gag: sınız
+    krc: sız
+    kum: sız
+    nog: sız
+    tat: sız
+    tur: sınız
+    sah: ğıt
+- kok: ek-sıñlar
+  koken: türkçe
+  kaynak: apertium; universal-dependencies
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sıñlar.yaml).
+  bicimler:
+    kaz: sıñdar
+    kir: sıñar
+- kok: ek-silär
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-silär.yaml).
+  bicimler:
+    uig: silär
+    uzb: silar
+yok: []
+tarihi_yok: []

@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ăn-chv
+anlam: Çuvaşçada "2. tekil kişi eki"
+koken: türkçe
+kavramlar:
+- kisi-2t
+etimoloji: Çuvaşça -ăn; ilişkisi bu çalışmada araştırılmadı.
+kaynak: apertium
+
+taniklar:
+  - {atif: 'apertium-chv.chv.lexc: -{Ă}n', bicim: ăn, dil: chv, kaynak: apertium, not: Ünlüden sonraki davranış denetlenmedi. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+
+yok:
+  tur: yerine sın (ek-sıñ)
+  aze: yerine san (ek-sıñ)
+  gag: yerine sın (ek-sıñ)
+  crh: yerine sıñ (ek-sıñ)
+  kaz: yerine sıñ (ek-sıñ)
+  kaa: yerine sañ (ek-sıñ)
+  nog: yerine sıñ (ek-sıñ)
+  kir: yerine sıñ (ek-sıñ)
+  tat: yerine sıñ (ek-sıñ)
+  bak: yerine hıñ (ek-sıñ)
+  krc: yerine sa (ek-sıñ)
+  kum: yerine san (ek-sıñ)
+  uzb: yerine san (ek-sıñ)
+  uig: yerine sän (ek-sıñ)
+  kjh: yerine sıñ (ek-sıñ)
+  sah: yerine ğın (ek-sıñ)
+tarihi_yok: {}

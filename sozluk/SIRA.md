@@ -91,10 +91,10 @@ ekin arşifonem kalıbı (ör. -{L}{A}r) ve tek kaynaklı olduğu notta yazılı
 bulunamayan dillerin (Karay, Şor, Halaç, Salar, Sibirya Tatar, Dolgan) biçimleri
 "Doğrulanmadı" işaretiyle durur.
 
-- **İsim:** [x] [çoğul](ek/cogul.yaml) · iyelik: [x] [1. tekil](ek/iyelik-1t.yaml) · [x] [2. tekil](ek/iyelik-2t.yaml) · [x] [3. kişi](ek/iyelik-3.yaml) · [x] [1. çoğul](ek/iyelik-1c.yaml) · [x] [2. çoğul](ek/iyelik-2c.yaml) · [x] [ilgi hâli](ek/ilgi.yaml) · [x] [yönelme](ek/yonelme.yaml) · [x] [belirtme](ek/belirtme.yaml) · [x] [bulunma](ek/bulunma.yaml) · [x] [ayrılma](ek/ayrilma.yaml) · [ ] vasıta (ile)
+- **İsim:** [x] [çoğul](ek/cogul.yaml) · iyelik: [x] [1. tekil](ek/iyelik-1t.yaml) · [x] [2. tekil](ek/iyelik-2t.yaml) · [x] [3. kişi](ek/iyelik-3.yaml) · [x] [1. çoğul](ek/iyelik-1c.yaml) · [x] [2. çoğul](ek/iyelik-2c.yaml) · [x] [ilgi hâli](ek/ilgi.yaml) · [x] [yönelme](ek/yonelme.yaml) · [x] [belirtme](ek/belirtme.yaml) · [x] [bulunma](ek/bulunma.yaml) · [x] [ayrılma](ek/ayrilma.yaml) · [x] [vasıta (ile)](ek/vasita.yaml)
 - **Fiil:** [x] [olumsuzluk (-mA)](ek/olumsuzluk.yaml) · [x] [geçmiş zaman (-DI)](ek/gecmis.yaml) · [x] [öğrenilen geçmiş (-mIş/-GAn)](ek/ogrenilen-gecmis.yaml) · [x] [geniş zaman (-Ar)](ek/genis-zaman.yaml) · [ ] şimdiki zaman · [x] [gelecek zaman (-AcAk)](ek/gelecek.yaml) · [x] [şart (-sA)](ek/sart.yaml) · [ ] emir · [ ] istek
-- **Kişi ekleri:** [ ] 1., 2., 3. kişi (tekil, çoğul)
-- **Türetme ve diğer:** [x] [soru eki (mI)](ek/soru.yaml) · [ ] bildirme · [ ] sıfat-fiil · [ ] zarf-fiil (-p, -A) · [ ] -lI · [ ] -sIz · [ ] -CI · [ ] -lIK
+- **Kişi ekleri:** [x] [1. tekil](ek/kisi-1t.yaml) · [x] [2. tekil](ek/kisi-2t.yaml) · [x] [1. çoğul](ek/kisi-1c.yaml) · [x] [2. çoğul](ek/kisi-2c.yaml) (zamir kökenli; 3. kişi çoğu dilde eksizdir)
+- **Türetme ve diğer:** [x] [soru eki (mI)](ek/soru.yaml) · [ ] bildirme · [ ] sıfat-fiil · [ ] zarf-fiil (-p, -A) · [x] [-lI](ek/sahiplik.yaml) · [x] [-sIz](ek/yoksunluk.yaml) · [x] [-CI](ek/meslek.yaml) · [x] [-lIK](ek/soyut-isim.yaml)
 
 > Biçimlerin çoğu Savelyev & Robbeets veri setinden (özgün sözlük künyeleriyle) ve
 > Clauson, DLT, Wiktionary gibi kaynaklardan alındı; `kaynak: bilgi` olanlar henüz

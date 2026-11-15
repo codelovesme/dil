@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 244,
-  "kok": 678,
-  "tanik": 7720,
+  "kavram": 253,
+  "kok": 695,
+  "tanik": 7865,
   "kaynak": 176,
   "dil": 40
  },
@@ -145,6 +145,31 @@
    "tur": "dizin"
   },
   {
+   "yol": "sozluk/ek/kisi-1c.md",
+   "baslik": "kişi eki (1. çoğul)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/kisi-1t.md",
+   "baslik": "kişi eki (1. tekil)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/kisi-2c.md",
+   "baslik": "kişi eki (2. çoğul)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/kisi-2t.md",
+   "baslik": "kişi eki (2. tekil)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/meslek.md",
+   "baslik": "-CI eki (meslek, uğraş)",
+   "tur": "dizin"
+  },
+  {
    "yol": "sozluk/ek/ogrenilen-gecmis.md",
    "baslik": "öğrenilen geçmiş zaman eki",
    "tur": "dizin"
@@ -155,6 +180,11 @@
    "tur": "dizin"
   },
   {
+   "yol": "sozluk/ek/sahiplik.md",
+   "baslik": "-lI eki (sahiplik sıfatı)",
+   "tur": "dizin"
+  },
+  {
    "yol": "sozluk/ek/sart.md",
    "baslik": "şart eki",
    "tur": "dizin"
@@ -162,6 +192,21 @@
   {
    "yol": "sozluk/ek/soru.md",
    "baslik": "soru eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/soyut-isim.md",
+   "baslik": "-lIk eki (soyut isim)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/vasita.md",
+   "baslik": "vasıta eki",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/yoksunluk.md",
+   "baslik": "-sIz eki (yoksunluk)",
    "tur": "dizin"
   },
   {
@@ -710,8 +755,18 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-birle.md",
+   "baslik": "ek-birle",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-bıt.md",
    "baslik": "ek-bıt",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-bız.md",
+   "baslik": "ek-bız",
    "tur": "kok"
   },
   {
@@ -740,6 +795,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-hıt.md",
+   "baslik": "ek-hıt",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-i-chv.md",
    "baslik": "ek-i-chv",
    "tur": "kok"
@@ -760,6 +820,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-lıg.md",
+   "baslik": "ek-lıg",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-lık.md",
+   "baslik": "ek-lık",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-ma.md",
    "baslik": "ek-ma",
    "tur": "kok"
@@ -770,8 +840,23 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-mın.md",
+   "baslik": "ek-mın",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-mış.md",
    "baslik": "ek-mış",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-nan.md",
+   "baslik": "ek-nan",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-nañ.md",
+   "baslik": "ek-nañ",
    "tur": "kok"
   },
   {
@@ -790,6 +875,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-pa.md",
+   "baslik": "ek-pa",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-sa.md",
    "baslik": "ek-sa",
    "tur": "kok"
@@ -800,8 +890,33 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-silär.md",
+   "baslik": "ek-silär",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-sı.md",
    "baslik": "ek-sı",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-sınız.md",
+   "baslik": "ek-sınız",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-sız.md",
+   "baslik": "ek-sız",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-sıñ.md",
+   "baslik": "ek-sıñ",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-sıñlar.md",
+   "baslik": "ek-sıñlar",
    "tur": "kok"
   },
   {
@@ -825,6 +940,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-çı.md",
+   "baslik": "ek-çı",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ăn-chv.md",
+   "baslik": "ek-ăn-chv",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-ăr-chv.md",
    "baslik": "ek-ăr-chv",
    "tur": "kok"
@@ -832,6 +957,11 @@
   {
    "yol": "sozluk/kok/ek-ğa.md",
    "baslik": "ek-ğa",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-ık.md",
+   "baslik": "ek-ık",
    "tur": "kok"
   },
   {
@@ -4870,6 +5000,90 @@
   },
   {
    "t": "kavram",
+   "ad": "kişi eki (1. çoğul)",
+   "alt": "1pl personal ending",
+   "yol": "sozluk/ek/kisi-1c.md",
+   "ozet": "Ortak dil: bız · Ana Türkçe tahmini: bız · En çok kişinin anladığı: yız",
+   "anahtar": [
+    "bıs",
+    "bıt",
+    "bız",
+    "miz",
+    "mız",
+    "păr",
+    "yık",
+    "yız"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "kişi eki (1. tekil)",
+   "alt": "1sg personal ending",
+   "yol": "sozluk/ek/kisi-1t.md",
+   "ozet": "Ortak dil: mın · Ana Türkçe tahmini: man · En çok kişinin anladığı: yım",
+   "anahtar": [
+    "bın",
+    "ma",
+    "man",
+    "män",
+    "mın",
+    "yam",
+    "yım",
+    "ăp"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "kişi eki (2. çoğul)",
+   "alt": "2pl personal ending",
+   "yol": "sozluk/ek/kisi-2c.md",
+   "ozet": "Ortak dil: sız · Ana Türkçe tahmini: sız · En çok kişinin anladığı: sınız",
+   "anahtar": [
+    "hığız",
+    "silar",
+    "silär",
+    "sınız",
+    "sız",
+    "sıñar",
+    "sıñdar",
+    "ğıt"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "kişi eki (2. tekil)",
+   "alt": "2sg personal ending",
+   "yol": "sozluk/ek/kisi-2t.md",
+   "ozet": "Ortak dil: sın · Ana Türkçe tahmini: sıñ · En çok kişinin anladığı: sın",
+   "anahtar": [
+    "hıñ",
+    "sa",
+    "san",
+    "sañ",
+    "sän",
+    "sın",
+    "sıñ",
+    "ăn",
+    "ğın"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "-CI eki (meslek, uğraş)",
+   "alt": "-CI (agent) suffix",
+   "yol": "sozluk/ek/meslek.md",
+   "ozet": "Ortak dil: çı · Ana Türkçe tahmini: çı · En çok kişinin anladığı: çı",
+   "anahtar": [
+    "cı",
+    "hıt",
+    "sı",
+    "çi",
+    "çı",
+    "şı"
+   ]
+  },
+  {
+   "t": "kavram",
    "ad": "öğrenilen geçmiş zaman eki",
    "alt": "evidential / perfect past suffix",
    "yol": "sozluk/ek/ogrenilen-gecmis.md",
@@ -4893,6 +5107,21 @@
    "anahtar": [
     "ba",
     "ma"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "-lI eki (sahiplik sıfatı)",
+   "alt": "-lI (having) suffix",
+   "yol": "sozluk/ek/sahiplik.md",
+   "ozet": "Ortak dil: lı · Ana Türkçe tahmini: lı · En çok kişinin anladığı: lı",
+   "anahtar": [
+    "laax",
+    "li",
+    "llă",
+    "luu",
+    "lı",
+    "lıg"
    ]
   },
   {
@@ -4925,6 +5154,53 @@
     "mi",
     "mu",
     "mı"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "-lIk eki (soyut isim)",
+   "alt": "-lIk (abstract noun) suffix",
+   "yol": "sozluk/ek/soyut-isim.md",
+   "ozet": "Ortak dil: lık · Ana Türkçe tahmini: lık · En çok kişinin anladığı: lık",
+   "anahtar": [
+    "lik",
+    "lăx",
+    "lık"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "vasıta eki",
+   "alt": "instrumental / comitative",
+   "yol": "sozluk/ek/vasita.md",
+   "ozet": "Ortak dil: bilan · Ana Türkçe tahmini: yla · En çok kişinin anladığı: yla",
+   "anahtar": [
+    "belän",
+    "bilan",
+    "bilen",
+    "bilän",
+    "la",
+    "men",
+    "menen",
+    "menän",
+    "nan",
+    "nañ",
+    "nen",
+    "pa",
+    "yla"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "-sIz eki (yoksunluk)",
+   "alt": "-sIz (without) suffix",
+   "yol": "sozluk/ek/yoksunluk.md",
+   "ozet": "Ortak dil: sız · Ana Türkçe tahmini: sız · En çok kişinin anladığı: sız",
+   "anahtar": [
+    "hız",
+    "siz",
+    "săr",
+    "sız"
    ]
   },
   {
@@ -11598,12 +11874,47 @@
   },
   {
    "t": "kok",
+   "ad": "ek-birle",
+   "alt": "\"vasıta edatı ve eki ile < birle\"",
+   "yol": "sozluk/kok/ek-birle.md",
+   "ozet": "13 tanık, en eski günümüz",
+   "anahtar": [
+    "belän",
+    "bilan",
+    "bilen",
+    "bilän",
+    "la",
+    "men",
+    "menen",
+    "menän",
+    "nen",
+    "yla"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-bıt",
    "alt": "Sahacada \"geçmiş (sonuç) zaman eki -BIt\"",
    "yol": "sozluk/kok/ek-bıt.md",
    "ozet": "1 tanık, en eski günümüz",
    "anahtar": [
     "bıt"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-bız",
+   "alt": "\"1. çoğul kişi eki -(y)Iz, -bIz\"",
+   "yol": "sozluk/kok/ek-bız.md",
+   "ozet": "16 tanık, en eski günümüz",
+   "anahtar": [
+    "bıs",
+    "bıt",
+    "bız",
+    "miz",
+    "mız",
+    "păr",
+    "yız"
    ]
   },
   {
@@ -11672,6 +11983,16 @@
   },
   {
    "t": "kok",
+   "ad": "ek-hıt",
+   "alt": "Sahacada \"meslek eki -hIt\"",
+   "yol": "sozluk/kok/ek-hıt.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "hıt"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-i-chv",
    "alt": "Çuvaşçada \"3. kişi iyelik eki\"",
    "yol": "sozluk/kok/ek-i-chv.md",
@@ -11712,6 +12033,33 @@
   },
   {
    "t": "kok",
+   "ad": "ek-lıg",
+   "alt": "\"sahiplik sıfatı eki -lI\"",
+   "yol": "sozluk/kok/ek-lıg.md",
+   "ozet": "17 tanık, en eski günümüz",
+   "anahtar": [
+    "laax",
+    "li",
+    "llă",
+    "luu",
+    "lı",
+    "lıg"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-lık",
+   "alt": "\"soyut isim eki -lIk\"",
+   "yol": "sozluk/kok/ek-lık.md",
+   "ozet": "17 tanık, en eski günümüz",
+   "anahtar": [
+    "lik",
+    "lăx",
+    "lık"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-ma",
    "alt": "\"olumsuzluk eki -mA\"",
    "yol": "sozluk/kok/ek-ma.md",
@@ -11739,6 +12087,23 @@
   },
   {
    "t": "kok",
+   "ad": "ek-mın",
+   "alt": "\"1. tekil kişi eki -(y)Im, -mIn\"",
+   "yol": "sozluk/kok/ek-mın.md",
+   "ozet": "17 tanık, en eski günümüz",
+   "anahtar": [
+    "bın",
+    "ma",
+    "man",
+    "män",
+    "mın",
+    "yam",
+    "yım",
+    "ăp"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-mış",
    "alt": "\"öğrenilen geçmiş zaman eki -mIş\"",
    "yol": "sozluk/kok/ek-mış.md",
@@ -11746,6 +12111,26 @@
    "anahtar": [
     "miş",
     "mış"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-nan",
+   "alt": "Sahacada \"vasıta hâli eki -nAn\"",
+   "yol": "sozluk/kok/ek-nan.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "nan"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-nañ",
+   "alt": "Hakasçada \"vasıta hâli eki -nAñ\"",
+   "yol": "sozluk/kok/ek-nañ.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "nañ"
    ]
   },
   {
@@ -11786,6 +12171,16 @@
   },
   {
    "t": "kok",
+   "ad": "ek-pa",
+   "alt": "Çuvaşçada \"vasıta hâli eki -pA\"",
+   "yol": "sozluk/kok/ek-pa.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "pa"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-sa",
    "alt": "\"şart eki -sA\"",
    "yol": "sozluk/kok/ek-sa.md",
@@ -11809,6 +12204,17 @@
   },
   {
    "t": "kok",
+   "ad": "ek-silär",
+   "alt": "\"2. çoğul kişi eki -silAr\"",
+   "yol": "sozluk/kok/ek-silär.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "silar",
+    "silär"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-sı",
    "alt": "\"3. kişi iyelik eki -(s)I\"",
    "yol": "sozluk/kok/ek-sı.md",
@@ -11818,6 +12224,60 @@
     "si",
     "sı",
     "zı"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-sınız",
+   "alt": "\"2. çoğul kişi eki -sInIz, -sIz\"",
+   "yol": "sozluk/kok/ek-sınız.md",
+   "ozet": "10 tanık, en eski günümüz",
+   "anahtar": [
+    "hığız",
+    "sınız",
+    "sız",
+    "ğıt"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-sız",
+   "alt": "\"yoksunluk eki -sIz\"",
+   "yol": "sozluk/kok/ek-sız.md",
+   "ozet": "15 tanık, en eski günümüz",
+   "anahtar": [
+    "hız",
+    "siz",
+    "săr",
+    "sız"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-sıñ",
+   "alt": "\"2. tekil kişi eki -sIn, -sIñ\"",
+   "yol": "sozluk/kok/ek-sıñ.md",
+   "ozet": "16 tanık, en eski günümüz",
+   "anahtar": [
+    "hıñ",
+    "sa",
+    "san",
+    "sañ",
+    "sän",
+    "sın",
+    "sıñ",
+    "ğın"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-sıñlar",
+   "alt": "\"2. çoğul kişi eki -sIñlAr (senli çoğul)\"",
+   "yol": "sozluk/kok/ek-sıñlar.md",
+   "ozet": "2 tanık, en eski günümüz",
+   "anahtar": [
+    "sıñar",
+    "sıñdar"
    ]
   },
   {
@@ -11862,6 +12322,30 @@
   },
   {
    "t": "kok",
+   "ad": "ek-çı",
+   "alt": "\"meslek eki -CI\"",
+   "yol": "sozluk/kok/ek-çı.md",
+   "ozet": "14 tanık, en eski günümüz",
+   "anahtar": [
+    "cı",
+    "sı",
+    "çi",
+    "çı",
+    "şı"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ăn-chv",
+   "alt": "Çuvaşçada \"2. tekil kişi eki\"",
+   "yol": "sozluk/kok/ek-ăn-chv.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "ăn"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-ăr-chv",
    "alt": "Çuvaşçada \"2. çoğul iyelik eki\"",
    "yol": "sozluk/kok/ek-ăr-chv.md",
@@ -11882,6 +12366,16 @@
     "na",
     "ya",
     "ğa"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-ık",
+   "alt": "Azerbaycan Türkçesinde \"1. çoğul kişi eki -(y)Iq\"",
+   "yol": "sozluk/kok/ek-ık.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "yık"
    ]
   },
   {

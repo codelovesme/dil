@@ -1,0 +1,31 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-lık
+anlam: '"soyut isim eki -lIk"'
+koken: türkçe
+ana_turkce: '*-lIk'
+kavramlar:
+- soyut-isim
+etimoloji: Bütün kollarda; Özbek ve Uygur lik, Çuvaş lăx.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'Tatoeba metinleri (4 örnek: yaxşılık, kayalık, aralık)', bicim: lık, dil: aze, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-bak.bak.lexc: 345 türemiş madde (abağalık, abruylılık, akıllılık); Tatoeba metinleri (1 örnek: haulık)', bicim: lık, dil: bak, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-chv.chv.lexc: 155 türemiş madde (amalăx, analăx, anlălăx); Tatoeba metinleri (5 örnek: patşalăx, çuralăx, ăslălăx)', bicim: lăx, dil: chv, kaynak: apertium; tatoeba, not: 'Çuvaşçada -lăx, -lĕx.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc: 77 türemiş madde (acılık, aftalık, aklılık); Tatoeba metinleri (1 örnek: hastalık)', bicim: lık, dil: crh, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-gag.gag.lexc: 2 türemiş madde (aslılık, eurolık)', bicim: lık, dil: gag, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı. Apertium sözlüğünde az madde; zayıf kanıt., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc: 83 türemiş madde (adriatikalık, antarktikalık, aralık); Tatoeba metinleri (2 örnek: sıralık, razılık)', bicim: lık, dil: krc, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-kaa.kaa.lexc: 387 türemiş madde (abatlılık, abstrakciyalık, agressiyalık)', bicim: lık, dil: kaa, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kaz.kaz.lexc: 597 türemiş madde (abduktsiyalık, abıroylılık, aeronavigatsiyalık); Tatoeba metinleri (184 örnek: ekonomikalık, yadrolık, ximiyalık)', bicim: lık, dil: kaz, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-kir.kir.lexc: 152 türemiş madde (agrotexnikalık, akademiyalık, akustikalık); Tatoeba metinleri (8 örnek: mınçalık, informatsiyalık, karşılık)', bicim: lık, dil: kir, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-kum.kum.lexc: 31 türemiş madde (agamiyatlılık, analık, aralık)', bicim: lık, dil: kum, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc: 9 türemiş madde (demokratiyalık, ekonomikalık, informatsiyalık); Tatoeba metinleri (1 örnek: yaxşılık)', bicim: lık, dil: nog, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc: 343 türemiş madde (abagalık, abruylılık, aermalık); Tatoeba metinleri (376 örnek: yaxşılık, karşılık, yaktılık)', bicim: lık, dil: tat, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc: 28 türemiş madde (akrabalık, akıllılık, aralık); Tatoeba metinleri (1017 örnek: hastalık, karşılık, aralık)', bicim: lık, dil: tur, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tuk.tuk.lexc: 16 türemiş madde (aralık, biwepalık, durnuklılık); Tatoeba metinleri (6 örnek: durnuklılık, garañkılık, bagtlılık)', bicim: lık, dil: tuk, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uig.uig.lexc: 39 türemiş madde (algebralik, aralik, aşnalik); Tatoeba metinleri (13 örnek: xatalik, capalik, xälkaralik)', bicim: lik, dil: uig, kaynak: apertium; tatoeba, not: Uygurcada -lIk sıfat yapımında da kullanılır., denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uzb.uzb.lexc: 204 türemiş madde (afrikalik, alamzadalik, alohidalik); Tatoeba metinleri (3 örnek: kançalik, norvegiyalik, şunçalik)', bicim: lik, dil: uzb, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-sah.sah.lexc: 13 türemiş madde (añaalık, bıalık, caralık)', bicim: lık, dil: sah, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+
+yok: {}
+tarihi_yok: {}

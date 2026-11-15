@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ık
+anlam: Azerbaycan Türkçesinde "1. çoğul kişi eki -(y)Iq"
+koken: türkçe
+kavramlar:
+- kisi-1c
+etimoloji: Azerbaycan -(y)Iq; geçmiş zamandaki -k ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'UD_Azerbaijani-TueCL: iyik, ırax; Tatoeba metinleri (nişanlıyık, yaxşıyık)', bicim: yık, dil: aze, kaynak: universal-dependencies; tatoeba, not: 'Apertium -{y}{I}z veriyor; UD derlemi (iyik) ve Tatoeba (yıq 3 kez) başka biçim gösteriyor. Apertium''un Azerbaycan dosyası Türkiye Türkçesinden uyarlanmıştır (belirtme hâlinde de görüldü); UD ve Tatoeba''ya uyuldu. Yazıda -(y)ıq.', denetim: {durum: dogrulandi, bicim: [universal-dependencies, tatoeba], anlam: [universal-dependencies]}}
+
+yok:
+  tur: yerine yız (ek-bız)
+  gag: yerine yız (ek-bız)
+  crh: yerine mız (ek-bız)
+  kaz: yerine mız (ek-bız)
+  kaa: yerine mız (ek-bız)
+  nog: yerine mız (ek-bız)
+  kir: yerine bız (ek-bız)
+  tat: yerine bız (ek-bız)
+  bak: yerine bız (ek-bız)
+  krc: yerine bız (ek-bız)
+  kum: yerine bız (ek-bız)
+  uzb: yerine miz (ek-bız)
+  uig: yerine miz (ek-bız)
+  sah: yerine bıt (ek-bız)
+  kjh: yerine bıs (ek-bız)
+  chv: yerine păr (ek-bız)
+tarihi_yok: {}

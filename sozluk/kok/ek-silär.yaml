@@ -1,0 +1,27 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-silär
+anlam: '"2. çoğul kişi eki -silAr"'
+koken: türkçe
+kavramlar:
+- kisi-2c
+etimoloji: 'Uygur silär, Özbek silar: siler zamirinden; bu çalışmada denetlenmedi.'
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-uig.uig.lexc: -سىلەر; UD_Uyghur-UDT: ilär; Tatoeba metinleri (barisilär)', bicim: silär, dil: uig, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-uzb.uzb.lexc: -silar', bicim: silar, dil: uzb, kaynak: apertium, not: 'Apertium -silar; yazı dilinde -sizlar da kullanılır, denetlenmedi. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+
+yok:
+  tur: yerine sınız (ek-sınız)
+  aze: yerine sınız (ek-sınız)
+  gag: yerine sınız (ek-sınız)
+  crh: yerine sız (ek-sınız)
+  nog: yerine sız (ek-sınız)
+  krc: yerine sız (ek-sınız)
+  kum: yerine sız (ek-sınız)
+  tat: yerine sız (ek-sınız)
+  bak: yerine hığız (ek-sınız)
+  sah: yerine ğıt (ek-sınız)
+  kaz: yerine sıñdar (ek-sıñlar)
+  kir: yerine sıñar (ek-sıñlar)
+tarihi_yok: {}

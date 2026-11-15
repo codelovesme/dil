@@ -1,0 +1,44 @@
+kavram: vasıta eki
+ingilizce: instrumental / comitative
+anlam: Vasıta ve birliktelik eki ya da edatı (ile).
+dogrulandi: false
+kokler:
+- kok: ek-birle
+  koken: türkçe
+  ana_turkce: '*birle'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-birle.yaml).
+  bicimler:
+    aze: yla
+    bak: menän
+    crh: nen
+    gag: yla
+    kaa: menen
+    kaz: men
+    kir: menen
+    alt: la
+    tat: belän
+    tur: yla
+    tuk: bilen
+    uig: bilän
+    uzb: bilan
+- kok: ek-nan
+  koken: türkçe
+  kaynak: apertium; universal-dependencies
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-nan.yaml).
+  bicimler:
+    sah: nan
+- kok: ek-nañ
+  koken: türkçe
+  kaynak: apertium
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-nañ.yaml).
+  bicimler:
+    kjh: nañ
+- kok: ek-pa
+  koken: türkçe
+  kaynak: apertium
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-pa.yaml).
+  bicimler:
+    chv: pa
+yok: []
+tarihi_yok: []
