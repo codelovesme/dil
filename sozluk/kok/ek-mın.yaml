@@ -1,0 +1,33 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-mın
+anlam: '"1. tekil kişi eki -(y)Im, -mIn"'
+koken: türkçe
+ana_turkce: '*-bIn'
+kavramlar:
+- kisi-1t
+etimoloji: Ben, men zamirinden. Oğuz -(y)Im, Azerbaycan -(y)Am; Kıpçak mın, man; Karluk man,
+  män; Saha ve Hakas bın; Çuvaş -ăp. Hepsinin bu köke bağlanması yaygın görüştür; bu çalışmada
+  ayrı bir kaynakla denetlenmedi.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'UD_Azerbaijani-TueCL: iräm; Tatoeba metinleri (yaxşıyam, kişiyäm, hamiläyäm)', bicim: yam, dil: aze, kaynak: universal-dependencies; tatoeba, not: 'Apertium -{y}{I}m veriyor; UD derlemi (iräm) ve Tatoeba (yam, yäm 31 kez; yım 1 kez) başka biçim gösteriyor. Apertium''un Azerbaycan dosyası Türkiye Türkçesinden uyarlanmıştır (belirtme hâlinde de görüldü); UD ve Tatoeba''ya uyuldu.', denetim: {durum: dogrulandi, bicim: [universal-dependencies, tatoeba], anlam: [universal-dependencies]}}
+  - {atif: 'apertium-bak.bak.lexc: -m{I}n', bicim: mın, dil: bak, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-chv.chv.lexc: -{Ă}p; Tatoeba metinleri (tăvatăp)', bicim: ăp, dil: chv, kaynak: apertium; tatoeba, not: 'Çuvaşçada b > p ve ünlü düşmesi; *-bIn ile ilişkisi yaygın görüş, denetlenmedi.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc: -{j}{I}m; Tatoeba metinleri (añlayım)', bicim: yım, dil: crh, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-gag.gag.lexc: -{y}{I}m; Tatoeba metinleri (aktrisayım)', bicim: yım, dil: gag, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc: -m{A}', bicim: ma, dil: krc, kaynak: apertium, not: Karaçay-Malkarcada sondaki n düşer. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kaa.kaa.lexc: -{M}{A}n', bicim: man, dil: kaa, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kaz.kaz.lexc: -{M}{I}n; UD_Kazakh-KTB: amın, ymın; Tatoeba metinleri (alamın, turamın)', bicim: mın, dil: kaz, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kjh.kjh.lexc: -{B}{I}n', bicim: bın, dil: kjh, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kir.kir.lexc: -m{I}n; UD_Kyrgyz-KTMU, TueCL: amın', bicim: mın, dil: kir, kaynak: apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kum.kum.lexc: -m{A}n; Tatoeba metinleri (oxuvçuman)', bicim: man, dil: kum, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc: -{M}{A}n; Tatoeba metinleri (okıtuvşıman)', bicim: man, dil: nog, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc: -m{I}n; Tatoeba metinleri (kaytamın, burıçlımın)', bicim: mın, dil: tat, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc: -{y}{I}m; Tatoeba metinleri (buradayım, yaşlıyım)', bicim: yım, dil: tur, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uig.uig.lexc: -män; UD_Uyghur-UDT: imän, ymän; Tatoeba metinleri (barimän, bilimän)', bicim: män, dil: uig, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-uzb.uzb.lexc: -man; UD_Uzbek-UzUDT, UT: aman, yman; Tatoeba metinleri (köraman, xavfliman)', bicim: man, dil: uzb, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-sah.sah.lexc: -{B}{I}n; UD_Yakut-YKTDT: abın; Tatoeba metinleri (aağabın, barabın)', bicim: bın, dil: sah, kaynak: apertium; universal-dependencies; tatoeba, not: Sahacada m > b., denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+
+yok: {}
+tarihi_yok: {}

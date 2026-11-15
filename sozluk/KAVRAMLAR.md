@@ -19,6 +19,10 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [iyelik eki (2. çoğul)](ek/iyelik-2c.md) | 2pl possessive | **ñız** | **nız** | **nız** | uyuşuyor |
 | [iyelik eki (2. tekil)](ek/iyelik-2t.md) | 2sg possessive | **ñ** | **ñ** | **n** | uyuşuyor |
 | [iyelik eki (3. kişi)](ek/iyelik-3.md) | 3rd person possessive | **sı** | **sı** | **sı** | uyuşuyor |
+| [kişi eki (1. çoğul)](ek/kisi-1c.md) | 1pl personal ending | **bız** | **bız** | **yız** | uyuşuyor |
+| [kişi eki (1. tekil)](ek/kisi-1t.md) | 1sg personal ending | **mın** | **man** | **yım** | uyuşuyor |
+| [kişi eki (2. çoğul)](ek/kisi-2c.md) | 2pl personal ending | **sız** | **sız** | **sınız** | uyuşuyor |
+| [kişi eki (2. tekil)](ek/kisi-2t.md) | 2sg personal ending | **sın** | **sıñ** | **sın** | uyuşuyor |
 | [-CI eki (meslek, uğraş)](ek/meslek.md) | -CI (agent) suffix | **çı** | **çı** | **çı** | uyuşuyor |
 | [öğrenilen geçmiş zaman eki](ek/ogrenilen-gecmis.md) | evidential / perfect past suffix | **ğan** | **ğan** | **mış** | ayrişiyor |
 | [olumsuzluk eki](ek/olumsuzluk.md) | negative suffix | **ma** | **ma** | **ma** | uyuşuyor |

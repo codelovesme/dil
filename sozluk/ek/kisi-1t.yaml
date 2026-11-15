@@ -1,0 +1,30 @@
+kavram: kişi eki (1. tekil)
+ingilizce: 1sg personal ending
+anlam: 'Birinci tekil kişi eki (yüklemde: öğretmenim, gelirim).'
+dogrulandi: false
+kokler:
+- kok: ek-mın
+  koken: türkçe
+  ana_turkce: '*-bIn'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-mın.yaml).
+  bicimler:
+    aze: yam
+    bak: mın
+    chv: ăp
+    crh: yım
+    gag: yım
+    krc: ma
+    kaa: man
+    kaz: mın
+    kjh: bın
+    kir: mın
+    kum: man
+    nog: man
+    tat: mın
+    tur: yım
+    uig: män
+    uzb: man
+    sah: bın
+yok: []
+tarihi_yok: []

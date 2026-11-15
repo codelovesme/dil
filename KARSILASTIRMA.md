@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 249 kavram, 33 tanesi ayrışıyor.
+Toplam 253 kavram, 33 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -21,6 +21,10 @@ Toplam 249 kavram, 33 tanesi ayrışıyor.
 | iyelik eki (2. çoğul) | ñız *(ek-ıñız)* | nız *(ek-ıñız)* | nız *(ek-ıñız)* | UYUŞUYOR |
 | iyelik eki (2. tekil) | ñ *(ek-ıñ)* | ñ *(ek-ıñ)* | n *(ek-ıñ)* | UYUŞUYOR |
 | iyelik eki (3. kişi) | sı *(ek-sı)* | sı *(ek-sı)* | sı *(ek-sı)* | UYUŞUYOR |
+| kişi eki (1. çoğul) | bız *(ek-bız)* | bız *(ek-bız)* | yız *(ek-bız)* | UYUŞUYOR |
+| kişi eki (1. tekil) | mın *(ek-mın)* | man *(ek-mın)* | yım *(ek-mın)* | UYUŞUYOR |
+| kişi eki (2. çoğul) | sız *(ek-sınız)* | sız *(ek-sınız)* | sınız *(ek-sınız)* | UYUŞUYOR |
+| kişi eki (2. tekil) | sın *(ek-sıñ)* | sıñ *(ek-sıñ)* | sın *(ek-sıñ)* | UYUŞUYOR |
 | -CI eki (meslek, uğraş) | çı *(ek-çı)* | çı *(ek-çı)* | çı *(ek-çı)* | UYUŞUYOR |
 | öğrenilen geçmiş zaman eki | ğan *(ek-gan)* | ğan *(ek-gan)* | mış *(ek-mış)* | AYRIŞIYOR |
 | olumsuzluk eki | ma *(ek-ma)* | ma *(ek-ma)* | ma *(ek-ma)* | UYUŞUYOR |

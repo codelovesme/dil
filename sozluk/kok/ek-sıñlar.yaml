@@ -1,0 +1,27 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-sıñlar
+anlam: '"2. çoğul kişi eki -sIñlAr (senli çoğul)"'
+koken: türkçe
+kavramlar:
+- kisi-2c
+etimoloji: 'Kazak sıñdar, Kırgız sıñar: -sIñ + -lAr.'
+kaynak: apertium; universal-dependencies
+
+taniklar:
+  - {atif: 'apertium-kaz.kaz.lexc: -s{I}ñd{A}r; UD_Kazakh-KTB: zdar, ñdar', bicim: sıñdar, dil: kaz, kaynak: apertium; universal-dependencies, not: Senli çoğul; saygılı çoğul -sızdar., denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kir.kir.lexc: -s{I}ñ{A}r', bicim: sıñar, dil: kir, kaynak: apertium, not: Senli çoğul. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+
+yok:
+  tur: yerine sınız (ek-sınız)
+  aze: yerine sınız (ek-sınız)
+  gag: yerine sınız (ek-sınız)
+  crh: yerine sız (ek-sınız)
+  nog: yerine sız (ek-sınız)
+  krc: yerine sız (ek-sınız)
+  kum: yerine sız (ek-sınız)
+  tat: yerine sız (ek-sınız)
+  bak: yerine hığız (ek-sınız)
+  sah: yerine ğıt (ek-sınız)
+  uig: yerine silär (ek-silär)
+  uzb: yerine silar (ek-silär)
+tarihi_yok: {}

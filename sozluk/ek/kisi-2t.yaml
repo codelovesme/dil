@@ -1,0 +1,35 @@
+kavram: kişi eki (2. tekil)
+ingilizce: 2sg personal ending
+anlam: 'İkinci tekil kişi eki (yüklemde: öğretmensin, gelirsin).'
+dogrulandi: false
+kokler:
+- kok: ek-sıñ
+  koken: türkçe
+  ana_turkce: '*-sIŋ'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sıñ.yaml).
+  bicimler:
+    aze: san
+    bak: hıñ
+    crh: sıñ
+    gag: sın
+    krc: sa
+    kaa: sañ
+    kaz: sıñ
+    kjh: sıñ
+    kir: sıñ
+    kum: san
+    nog: sıñ
+    tat: sıñ
+    tur: sın
+    uig: sän
+    uzb: san
+    sah: ğın
+- kok: ek-ăn-chv
+  koken: türkçe
+  kaynak: apertium
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ăn-chv.yaml).
+  bicimler:
+    chv: ăn
+yok: []
+tarihi_yok: []

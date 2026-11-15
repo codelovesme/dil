@@ -1,0 +1,29 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-sınız
+anlam: '"2. çoğul kişi eki -sInIz, -sIz"'
+koken: türkçe
+ana_turkce: '*-sIz'
+kavramlar:
+- kisi-2c
+etimoloji: Siz zamirinden. Türkiye, Azerbaycan, Gagauz sınız; Kıpçak sız; Başkurt hığız; Saha
+  ğıt.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-aze.aze.lexc: -s{I}n{I}z; UD_Azerbaijani-TueCL: iniz; Tatoeba metinleri (yaxşısınız)', bicim: sınız, dil: aze, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-bak.bak.lexc: -h{I}{G}{I}ð; Tatoeba metinleri (haumıhığız)', bicim: hığız, dil: bak, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc: -s{I}z', bicim: sız, dil: crh, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-gag.gag.lexc: -s{I}n{I}z', bicim: sınız, dil: gag, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc: -s{I}z', bicim: sız, dil: krc, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kum.kum.lexc: -s{I}z', bicim: sız, dil: kum, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc: -s{I}z', bicim: sız, dil: nog, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc: -s{I}z; UD_Tatar-NMCTT: agız; Tatoeba metinleri (alasız, barasız)', bicim: sız, dil: tat, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tur.tur.lexc: -s{I}n{I}z; UD_Turkish-BOUN, IMST: iniz, ınız; Tatoeba metinleri (buradasınız, haklısınız)', bicim: sınız, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, not: Hem çoğul hem saygı., denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-sah.sah.lexc: -{G}{I}t; UD_Yakut-YKTDT: eğit', bicim: ğıt, dil: sah, kaynak: apertium; universal-dependencies, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  kaz: yerine sıñdar (ek-sıñlar)
+  kir: yerine sıñar (ek-sıñlar)
+  uig: yerine silär (ek-silär)
+  uzb: yerine silar (ek-silär)
+tarihi_yok: {}
