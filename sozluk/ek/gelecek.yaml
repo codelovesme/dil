@@ -1,0 +1,24 @@
+kavram: gelecek zaman eki
+ingilizce: future suffix
+anlam: Gelecek zaman eki -AcAk.
+dogrulandi: false
+kokler:
+- kok: ek-acak
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-acak.yaml).
+  bicimler:
+    aze: acak
+    gag: acak
+    kum: ajak
+    tat: açak
+    tur: acak
+    uzb: ajak
+- kok: ek-jak-tuk
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-jak-tuk.yaml).
+  bicimler:
+    tuk: jak
+yok: []
+tarihi_yok: []

@@ -1,0 +1,54 @@
+kavram: öğrenilen geçmiş zaman eki
+ingilizce: evidential / perfect past suffix
+anlam: Öğrenilen (dolaylı) ya da sonucu süren geçmiş zaman ve geçmiş sıfat-fiil eki.
+dogrulandi: false
+kokler:
+- kok: ek-mış
+  koken: türkçe
+  ana_turkce: '*-mIš'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-mış.yaml).
+  bicimler:
+    aze: mış
+    gag: mış
+    tur: mış
+    uzb: miş
+- kok: ek-gan
+  koken: türkçe
+  ana_turkce: '*-GAn'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-gan.yaml).
+  bicimler:
+    bak: ğan
+    crh: ğan
+    krc: ğan
+    kaa: ğan
+    kaz: ğan
+    kjh: ğan
+    kir: gan
+    kum: ğan
+    nog: gan
+    alt: gan
+    tat: gan
+    uig: ğan
+    uzb: gan
+- kok: ek-an-tuk
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-an-tuk.yaml).
+  bicimler:
+    tuk: an
+- kok: ek-bıt
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-bıt.yaml).
+  bicimler:
+    sah: bıt
+- kok: ek-nă
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-nă.yaml).
+  bicimler:
+    chv: nă
+yok: []
+tarihi_yok: []
