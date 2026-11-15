@@ -1,0 +1,32 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ăr-chv
+anlam: Çuvaşçada "2. çoğul iyelik eki"
+koken: türkçe
+kavramlar:
+- iyelik-2c
+etimoloji: Çuvaşça -(ă)r; *-(I)ŋIz ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: apertium
+
+taniklar:
+  - {atif: apertium-chv.chv.lexc, bicim: ăr, dil: chv, kaynak: apertium, not: 'Apertium: -{Ĕ}r. Ünlüden sonraki davranış denetlenmedi. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+
+yok:
+  tur: yerine nız (ek-ıñız)
+  aze: yerine nız (ek-ıñız)
+  gag: yerine nız (ek-ıñız)
+  crh: yerine ñız (ek-ıñız)
+  tuk: yerine ñız (ek-ıñız)
+  nog: yerine ñız (ek-ıñız)
+  krc: yerine ğız (ek-ıñız)
+  kum: yerine ğız (ek-ıñız)
+  tat: yerine gız (ek-ıñız)
+  bak: yerine ğız (ek-ıñız)
+  sah: yerine ğıt (ek-ıñız)
+  uzb: yerine ñiz (ek-ıñız)
+  kaz: yerine ñdar (ek-ıñlar)
+  kaa: yerine ñlar (ek-ıñlar)
+  kir: yerine ñar (ek-ıñlar)
+  kjh: yerine ñar (ek-ıñlar)
+  tyv: yerine ñar (ek-ıñlar)
+  uig: yerine ñlar (ek-ıñlar)
+tarihi_yok: {}

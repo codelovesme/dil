@@ -1,0 +1,34 @@
+kavram: iyelik eki (1. çoğul)
+ingilizce: 1pl possessive
+anlam: Birinci çoğul kişi iyelik eki (bizim …).
+dogrulandi: false
+kokler:
+- kok: ek-ımız
+  koken: türkçe
+  ana_turkce: '*-(I)mIz'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ımız.yaml).
+  bicimler:
+    aze: mız
+    bak: bız
+    chv:
+      bicim: măr
+      miras: true
+    crh: mız
+    gag: mız
+    krc: bız
+    kaa: mız
+    kaz: mız
+    kjh: bıs
+    kir: bız
+    kum: bız
+    nog: mız
+    tat: bız
+    tur: mız
+    tuk: mız
+    tyv: vıs
+    uig: miz
+    uzb: miz
+    sah: bıt
+yok: []
+tarihi_yok: []

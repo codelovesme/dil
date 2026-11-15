@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 238 kavram, 32 tanesi ayrışıyor.
+Toplam 241 kavram, 32 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -14,11 +14,14 @@ Toplam 238 kavram, 32 tanesi ayrışıyor.
 | çoğul eki | lar *(ek-lar)* | lar *(ek-lar)* | lar *(ek-lar)* | UYUŞUYOR |
 | görülen geçmiş zaman eki | dı *(ek-dı)* | dı *(ek-dı)* | dı *(ek-dı)* | UYUŞUYOR |
 | ilgi hâli eki | nıñ *(ek-nıñ)* | nıñ *(ek-nıñ)* | nın *(ek-nıñ)* | UYUŞUYOR |
+| iyelik eki (1. çoğul) | mız *(ek-ımız)* | mız *(ek-ımız)* | mız *(ek-ımız)* | UYUŞUYOR |
 | iyelik eki (1. tekil) | m *(ek-ım)* | m *(ek-ım)* | m *(ek-ım)* | UYUŞUYOR |
+| iyelik eki (2. çoğul) | ñız *(ek-ıñız)* | nız *(ek-ıñız)* | nız *(ek-ıñız)* | UYUŞUYOR |
 | iyelik eki (2. tekil) | ñ *(ek-ıñ)* | ñ *(ek-ıñ)* | n *(ek-ıñ)* | UYUŞUYOR |
 | iyelik eki (3. kişi) | sı *(ek-sı)* | sı *(ek-sı)* | sı *(ek-sı)* | UYUŞUYOR |
 | olumsuzluk eki | ma *(ek-ma)* | ma *(ek-ma)* | ma *(ek-ma)* | UYUŞUYOR |
 | şart eki | sa *(ek-sa)* | sa *(ek-sa)* | sa *(ek-sa)* | UYUŞUYOR |
+| soru eki | mı *(ek-mı)* | mı *(ek-mı)* | mı *(ek-mı)* | UYUŞUYOR |
 | yönelme hâli eki | ğa *(ek-ğa)* | ğa *(ek-ğa)* | ya *(ek-ğa)* | UYUŞUYOR |
 | aç- | aç *(aç)* | aç *(aç)* | aç *(aç)* | UYUŞUYOR |
 | acı | açığ *(açığ)* | açığ *(açığ)* | acı *(açığ)* | UYUŞUYOR |
