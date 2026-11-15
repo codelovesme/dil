@@ -26,6 +26,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [şart eki](ek/sart.md) | conditional suffix | **sa** | **sa** | **sa** | uyuşuyor |
 | [soru eki](ek/soru.md) | question particle | **mı** | **mı** | **mı** | uyuşuyor |
 | [-lIk eki (soyut isim)](ek/soyut-isim.md) | -lIk (abstract noun) suffix | **lık** | **lık** | **lık** | uyuşuyor |
+| [vasıta eki](ek/vasita.md) | instrumental / comitative | **bilan** | **yla** | **yla** | uyuşuyor |
 | [-sIz eki (yoksunluk)](ek/yoksunluk.md) | -sIz (without) suffix | **sız** | **sız** | **sız** | uyuşuyor |
 | [yönelme hâli eki](ek/yonelme.md) | dative suffix | **ğa** | **ğa** | **ya** | uyuşuyor |
 | [aç-](temel/ac.md) | open | **aç** | **aç** | **aç** | uyuşuyor |

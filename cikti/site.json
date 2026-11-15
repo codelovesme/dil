@@ -2,9 +2,9 @@
  "ad": "Bitig",
  "aciklama": "Ortak Türk dili: öz Türkçe kökler, tanıklı sözlük ve kaynaklar",
  "sayilar": {
-  "kavram": 248,
-  "kok": 683,
-  "tanik": 7784,
+  "kavram": 249,
+  "kok": 687,
+  "tanik": 7800,
   "kaynak": 176,
   "dil": 40
  },
@@ -177,6 +177,11 @@
   {
    "yol": "sozluk/ek/soyut-isim.md",
    "baslik": "-lIk eki (soyut isim)",
+   "tur": "dizin"
+  },
+  {
+   "yol": "sozluk/ek/vasita.md",
+   "baslik": "vasıta eki",
    "tur": "dizin"
   },
   {
@@ -730,6 +735,11 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-birle.md",
+   "baslik": "ek-birle",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-bıt.md",
    "baslik": "ek-bıt",
    "tur": "kok"
@@ -810,6 +820,16 @@
    "tur": "kok"
   },
   {
+   "yol": "sozluk/kok/ek-nan.md",
+   "baslik": "ek-nan",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-nañ.md",
+   "baslik": "ek-nañ",
+   "tur": "kok"
+  },
+  {
    "yol": "sozluk/kok/ek-nă.md",
    "baslik": "ek-nă",
    "tur": "kok"
@@ -822,6 +842,11 @@
   {
    "yol": "sozluk/kok/ek-nıñ.md",
    "baslik": "ek-nıñ",
+   "tur": "kok"
+  },
+  {
+   "yol": "sozluk/kok/ek-pa.md",
+   "baslik": "ek-pa",
    "tur": "kok"
   },
   {
@@ -5012,6 +5037,28 @@
     "lik",
     "lăx",
     "lık"
+   ]
+  },
+  {
+   "t": "kavram",
+   "ad": "vasıta eki",
+   "alt": "instrumental / comitative",
+   "yol": "sozluk/ek/vasita.md",
+   "ozet": "Ortak dil: bilan · Ana Türkçe tahmini: yla · En çok kişinin anladığı: yla",
+   "anahtar": [
+    "belän",
+    "bilan",
+    "bilen",
+    "bilän",
+    "la",
+    "men",
+    "menen",
+    "menän",
+    "nan",
+    "nañ",
+    "nen",
+    "pa",
+    "yla"
    ]
   },
   {
@@ -11698,6 +11745,25 @@
   },
   {
    "t": "kok",
+   "ad": "ek-birle",
+   "alt": "\"vasıta edatı ve eki ile < birle\"",
+   "yol": "sozluk/kok/ek-birle.md",
+   "ozet": "13 tanık, en eski günümüz",
+   "anahtar": [
+    "belän",
+    "bilan",
+    "bilen",
+    "bilän",
+    "la",
+    "men",
+    "menen",
+    "menän",
+    "nen",
+    "yla"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-bıt",
    "alt": "Sahacada \"geçmiş (sonuç) zaman eki -BIt\"",
    "yol": "sozluk/kok/ek-bıt.md",
@@ -11887,6 +11953,26 @@
   },
   {
    "t": "kok",
+   "ad": "ek-nan",
+   "alt": "Sahacada \"vasıta hâli eki -nAn\"",
+   "yol": "sozluk/kok/ek-nan.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "nan"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-nañ",
+   "alt": "Hakasçada \"vasıta hâli eki -nAñ\"",
+   "yol": "sozluk/kok/ek-nañ.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "nañ"
+   ]
+  },
+  {
+   "t": "kok",
    "ad": "ek-nă",
    "alt": "Çuvaşçada \"geçmiş sıfat-fiil eki -nĂ\"",
    "yol": "sozluk/kok/ek-nă.md",
@@ -11919,6 +12005,16 @@
     "nı",
     "nın",
     "nıñ"
+   ]
+  },
+  {
+   "t": "kok",
+   "ad": "ek-pa",
+   "alt": "Çuvaşçada \"vasıta hâli eki -pA\"",
+   "yol": "sozluk/kok/ek-pa.md",
+   "ozet": "1 tanık, en eski günümüz",
+   "anahtar": [
+    "pa"
    ]
   },
   {
