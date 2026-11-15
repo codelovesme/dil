@@ -1,0 +1,20 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-jak-tuk
+anlam: Türkmencede "gelecek zaman eki -jAk"
+koken: türkçe
+kavramlar:
+- gelecek
+etimoloji: Türkmence -jAk (ünlü almaz); -AcAk ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (55 örnek: boljakdıgını, boljak, aljak)', bicim: jak, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -j{A}g. Ünsüzden sonra da ünlüsüz: al-jak.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine acak (ek-acak)
+  aze: yerine acak (ek-acak)
+  gag: yerine acak (ek-acak)
+  tat: yerine açak (ek-acak)
+  kum: yerine ajak (ek-acak)
+  uzb: yerine ajak (ek-acak)
+tarihi_yok: {}

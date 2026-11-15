@@ -1,0 +1,29 @@
+kavram: geniş zaman eki
+ingilizce: aorist suffix
+anlam: Geniş zaman eki -Ar / -Ir; Kıpçak dillerinde ve Özbekçede tahmini gelecek ve sıfat-fiil.
+dogrulandi: false
+kokler:
+- kok: ek-ar
+  koken: türkçe
+  ana_turkce: '*-Ar'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ar.yaml).
+  bicimler:
+    aze: ar
+    bak: ır
+    gag: ar
+    krc: ır
+    kaa: ar
+    kaz: ar
+    kir: ar
+    kum: ar
+    nog: ar
+    alt: ar
+    tat: ır
+    tur: ar
+    tuk: ar
+    tyv: ar
+    uzb: ar
+    sah: ar
+yok: []
+tarihi_yok: []

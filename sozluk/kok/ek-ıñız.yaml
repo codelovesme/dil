@@ -1,0 +1,34 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ıñız
+anlam: '"2. çoğul iyelik eki -(I)ñIz"'
+koken: türkçe
+ana_turkce: '*-(I)ŋIz'
+kavramlar:
+- iyelik-2c
+etimoloji: 2. tekil -(I)ñ + çokluk -Iz. Oğuz'da nız/ñız; Tatar, Başkurt, Karaçay-Malkar, Kumuk
+  ve Sahada ñ > g, ğ. Kazak, Kırgız, Uygurda saygı biçimidir.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (24 örnek: sabahınız, hamınız, nişanınız)', bicim: nız, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -{i}n{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (4 örnek: alhağız, tuğız, tıumışığız)', bicim: ğız, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{I}{G}{I}ð. ñ > ğ; yazıda ҙ.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (10 örnek: adıñız, yılıñız, saatıñız)', bicim: ñız, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{i}ñ{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-gag.gag.lexc, bicim: nız, dil: gag, kaynak: apertium, not: 'Apertium: -{i}n{I}z. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (3 örnek: kaçığız, xalığız, cazığız)', bicim: ğız, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{I}g{ъ}{I}z. ñ > ğ.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-kum.kum.lexc, bicim: ğız, dil: kum, kaynak: apertium, not: 'Apertium: -{I}g{ъ}{I}z. ñ > ğ. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc; Tatoeba metinleri (3 örnek: suvıñız, atıñız)', bicim: ñız, dil: nog, kaynak: apertium; tatoeba, not: 'Apertium: -{I}ñ{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (713 örnek: karagız, barıgız, alıgız)', bicim: gız, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -{I}g{I}z. ñ > g.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST: ınız, nız; Tatoeba metinleri (1196 örnek: ihtiyacınız, yapmanız, adınız)', bicim: nız, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{i}n{I}z. Hem çoğul hem saygı.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (29 örnek: jogabıñız, zadıñız, wagtıñız)', bicim: ñız, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{y}ň{Y}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uzb.uzb.lexc; Tatoeba metinleri (20 örnek: kitobiñiz, uyiñiz, boriñiz)', bicim: ñiz, dil: uzb, kaynak: apertium; tatoeba, not: 'Apertium: -{ʻ}{i}ngiz.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-sah.sah.lexc; UD_Yakut-YKTDT: ğıt', bicim: ğıt, dil: sah, kaynak: apertium; universal-dependencies, not: 'Apertium: -{G}{I}t. ñ > ğ, z > t.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  kaz: yerine ñdar (ek-ıñlar)
+  kaa: yerine ñlar (ek-ıñlar)
+  kir: yerine ñar (ek-ıñlar)
+  kjh: yerine ñar (ek-ıñlar)
+  tyv: yerine ñar (ek-ıñlar)
+  uig: yerine ñlar (ek-ıñlar)
+  chv: yerine ăr (ek-ăr-chv)
+tarihi_yok: {}

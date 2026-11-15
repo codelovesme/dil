@@ -1,0 +1,42 @@
+kavram: iyelik eki (2. çoğul)
+ingilizce: 2pl possessive
+anlam: İkinci çoğul kişi iyelik eki (sizin …).
+dogrulandi: false
+kokler:
+- kok: ek-ıñız
+  koken: türkçe
+  ana_turkce: '*-(I)ŋIz'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ıñız.yaml).
+  bicimler:
+    aze: nız
+    bak: ğız
+    crh: ñız
+    gag: nız
+    krc: ğız
+    kum: ğız
+    nog: ñız
+    tat: gız
+    tur: nız
+    tuk: ñız
+    uzb: ñiz
+    sah: ğıt
+- kok: ek-ıñlar
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ıñlar.yaml).
+  bicimler:
+    kaa: ñlar
+    kaz: ñdar
+    kjh: ñar
+    kir: ñar
+    tyv: ñar
+    uig: ñlar
+- kok: ek-ăr-chv
+  koken: türkçe
+  kaynak: apertium
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ăr-chv.yaml).
+  bicimler:
+    chv: ăr
+yok: []
+tarihi_yok: []

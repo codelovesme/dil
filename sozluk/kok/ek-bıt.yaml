@@ -1,0 +1,32 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-bıt
+anlam: Sahacada "geçmiş (sonuç) zaman eki -BIt"
+koken: türkçe
+kavramlar:
+- ogrenilen-gecmis
+etimoloji: Sahaca -BIt; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-sah.sah.lexc; UD_Yakut-YKTDT: bıt, bit, pit (Tense=Past); Tatoeba metinleri (13 örnek: kıraabıtın, tarbaabıt, kıaraabıt)', bicim: bıt, dil: sah, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{B}{I}t. Sonucu süren geçmiş.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  tur: yerine mış (ek-mış)
+  aze: yerine mış (ek-mış)
+  gag: yerine mış (ek-mış)
+  uzb: yerine gan (ek-gan)
+  kaz: yerine ğan (ek-gan)
+  kaa: yerine ğan (ek-gan)
+  nog: yerine gan (ek-gan)
+  tat: yerine gan (ek-gan)
+  bak: yerine ğan (ek-gan)
+  crh: yerine ğan (ek-gan)
+  alt: yerine gan (ek-gan)
+  kir: yerine gan (ek-gan)
+  kum: yerine ğan (ek-gan)
+  krc: yerine ğan (ek-gan)
+  kjh: yerine ğan (ek-gan)
+  uig: yerine ğan (ek-gan)
+  tuk: yerine an (ek-an-tuk)
+  chv: yerine nă (ek-nă)
+tarihi_yok: {}

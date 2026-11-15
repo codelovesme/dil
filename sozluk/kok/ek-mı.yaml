@@ -1,0 +1,34 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-mı
+anlam: '"soru eki mI"'
+koken: türkçe
+kavramlar:
+- soru
+etimoloji: Oğuz, Karluk ve Kıpçak'ın bir kısmında mı (ünlüsü uyuma girer); Kırgızcada ünlüden
+  sonra bı; Kazak, Karakalpak ve Nogayda ma; Altay ba; Tuva be. Kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'Tatoeba metinleri (13 örnek: mı)', bicim: mı, dil: aze, kaynak: tatoeba, not: Apertium'da bu ek yok. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (11 örnek: mı)', bicim: mı, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -m{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (16 örnek: mı)', bicim: mı, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -m{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-gag.gag.lexc; Tatoeba metinleri (2 örnek: mı)', bicim: mı, dil: gag, kaynak: apertium; tatoeba, not: 'Apertium: -mı/mi/mu.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (2 örnek: mı)', bicim: mı, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -m{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-kaa.kaa.lexc; Tatoeba metinleri (2 örnek: ma)', bicim: ma, dil: kaa, kaynak: apertium; tatoeba, not: 'Apertium: -{M}{A}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'UD_Kazakh-KTB: ma (PART, 21); Tatoeba metinleri (60 örnek: ma)', bicim: ma, dil: kaz, kaynak: universal-dependencies; tatoeba, not: 'Apertium''da bu ek yok. Kazakçada ünlüden sonra ma, me; m, n, ñ, z''den sonra ba, be; ötümsüzden sonra pa, pe.', denetim: {durum: dogrulandi, bicim: [universal-dependencies, tatoeba], anlam: [universal-dependencies]}}
+  - {atif: 'Tatoeba metinleri (4 örnek: ba, be, ma)', bicim: ba, dil: kjh, kaynak: tatoeba, not: 'Apertium''da bu ek yok. Tatoeba''da ba, be ve ma görüldü; ünlüden sonraki biçim belirsiz. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı.', denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-kir.kir.lexc; UD_Kyrgyz-KTMU, TueCL: bı (PART, 26); Tatoeba metinleri (29 örnek: bı)', bicim: bı, dil: kir, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{B}{I}. Kırgızcada ünlüden sonra b.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kum.kum.lexc; Tatoeba metinleri (2 örnek: mı)', bicim: mı, dil: kum, kaynak: apertium; tatoeba, not: 'Apertium: -m{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'Tatoeba metinleri (18 örnek: ma)', bicim: ma, dil: nog, kaynak: tatoeba, not: Apertium'da bu ek yok. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'Tatoeba metinleri (72 örnek: ba)', bicim: ba, dil: alt, kaynak: tatoeba, not: Apertium'da bu ek yok. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-tat.tat.lexc; Tatoeba metinleri (3680 örnek: mı)', bicim: mı, dil: tat, kaynak: apertium; tatoeba, not: 'Apertium: -m{I}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST: mi (AUX, 520); Tatoeba metinleri (8691 örnek: mı)', bicim: mı, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -mı/mi/mu/mü. Ayrı yazılır.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (188 örnek: mı)', bicim: mı, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -m{Y}.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-tyv.tyv.lexc; Tatoeba metinleri (7 örnek: be)', bicim: be, dil: tyv, kaynak: apertium; tatoeba, not: 'Apertium: -бе.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uig.uig.lexc; Tatoeba metinleri (432 örnek: barmu, ämäsmu, issikmu)', bicim: mu, dil: uig, kaynak: apertium; tatoeba, not: 'Apertium: -مۇ.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-uzb.uzb.lexc; Tatoeba metinleri (113 örnek: mi)', bicim: mi, dil: uzb, kaynak: apertium; tatoeba, not: 'Apertium: -mi.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  sah: yerine duo (ek-duo)
+  chv: yerine i (ek-i-soru)
+tarihi_yok: {}

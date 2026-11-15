@@ -11,12 +11,18 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [bulunma hâli eki](ek/bulunma.md) | locative suffix | **da** | **da** | **da** | uyuşuyor |
 | [çoğul eki](ek/cogul.md) | plural suffix | **lar** | **lar** | **lar** | uyuşuyor |
 | [görülen geçmiş zaman eki](ek/gecmis.md) | past tense suffix | **dı** | **dı** | **dı** | uyuşuyor |
+| [gelecek zaman eki](ek/gelecek.md) | future suffix | **acak** | **acak** | **acak** | uyuşuyor |
+| [geniş zaman eki](ek/genis-zaman.md) | aorist suffix | **ar** | **ar** | **ar** | uyuşuyor |
 | [ilgi hâli eki](ek/ilgi.md) | genitive suffix | **nıñ** | **nıñ** | **nın** | uyuşuyor |
+| [iyelik eki (1. çoğul)](ek/iyelik-1c.md) | 1pl possessive | **mız** | **mız** | **mız** | uyuşuyor |
 | [iyelik eki (1. tekil)](ek/iyelik-1t.md) | 1sg possessive | **m** | **m** | **m** | uyuşuyor |
+| [iyelik eki (2. çoğul)](ek/iyelik-2c.md) | 2pl possessive | **ñız** | **nız** | **nız** | uyuşuyor |
 | [iyelik eki (2. tekil)](ek/iyelik-2t.md) | 2sg possessive | **ñ** | **ñ** | **n** | uyuşuyor |
 | [iyelik eki (3. kişi)](ek/iyelik-3.md) | 3rd person possessive | **sı** | **sı** | **sı** | uyuşuyor |
+| [öğrenilen geçmiş zaman eki](ek/ogrenilen-gecmis.md) | evidential / perfect past suffix | **ğan** | **ğan** | **mış** | ayrişiyor |
 | [olumsuzluk eki](ek/olumsuzluk.md) | negative suffix | **ma** | **ma** | **ma** | uyuşuyor |
 | [şart eki](ek/sart.md) | conditional suffix | **sa** | **sa** | **sa** | uyuşuyor |
+| [soru eki](ek/soru.md) | question particle | **mı** | **mı** | **mı** | uyuşuyor |
 | [yönelme hâli eki](ek/yonelme.md) | dative suffix | **ğa** | **ğa** | **ya** | uyuşuyor |
 | [aç-](temel/ac.md) | open | **aç** | **aç** | **aç** | uyuşuyor |
 | [acı](temel/aci.md) | bitter | **açığ** | **açığ** | **acı** | uyuşuyor |

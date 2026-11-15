@@ -1,0 +1,34 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-mış
+anlam: '"öğrenilen geçmiş zaman eki -mIş"'
+koken: türkçe
+ana_turkce: '*-mIš'
+kavramlar:
+- ogrenilen-gecmis
+etimoloji: Oğuz dillerinde (Türkiye, Azerbaycan, Gagauz) öğrenilen geçmiş; Özbek yazı dilinde
+  de var.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-aze.aze.lexc; UD_Azerbaijani-TueCL: mış (Evident=Nfh); Tatoeba metinleri (11 örnek: acımışam, yoxlamışık, yoxlamışam)', bicim: mış, dil: aze, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -m{I}ş.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: apertium-gag.gag.lexc, bicim: mış, dil: gag, kaynak: apertium, not: 'Apertium: -{y}m{I}ş. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST: mış, miş, muş (Evident=Nfh); Tatoeba metinleri (932 örnek: uğramış, patlamış, susamış)', bicim: mış, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -m{I}ş. Öğrenilen geçmiş ve sıfat-fiil.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: apertium-uzb.uzb.lexc, bicim: miş, dil: uzb, kaynak: apertium, not: 'Apertium: -mish. Yazı dilinde öğrenilen geçmiş; günlük dilde -GAn ve -(I)b. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+
+yok:
+  kaz: yerine ğan (ek-gan)
+  kaa: yerine ğan (ek-gan)
+  nog: yerine gan (ek-gan)
+  tat: yerine gan (ek-gan)
+  bak: yerine ğan (ek-gan)
+  crh: yerine ğan (ek-gan)
+  alt: yerine gan (ek-gan)
+  kir: yerine gan (ek-gan)
+  kum: yerine ğan (ek-gan)
+  krc: yerine ğan (ek-gan)
+  kjh: yerine ğan (ek-gan)
+  uig: yerine ğan (ek-gan)
+  tuk: yerine an (ek-an-tuk)
+  sah: yerine bıt (ek-bıt)
+  chv: yerine nă (ek-nă)
+tarihi_yok: {}

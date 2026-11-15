@@ -1,0 +1,35 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ımız
+anlam: '"1. çoğul iyelik eki -(I)mIz"'
+koken: türkçe
+ana_turkce: '*-(I)mIz'
+kavramlar:
+- iyelik-1c
+etimoloji: 1. tekil -(I)m + çokluk -Iz. Ünlüden sonra Oğuz, Karluk ve Kıpçak'ın bir kısmında
+  mız; Kırgız, Tatar, Başkurt, Karaçay-Malkar ve Kumukta bız; Hakas bıs, Tuva vıs; Saha bıt;
+  Çuvaş măr (z > r).
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-aze.aze.lexc; Tatoeba metinleri (26 örnek: hamımız, kızımız, papamız)', bicim: mız, dil: aze, kaynak: apertium; tatoeba, not: 'Apertium: -{i}m{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-bak.bak.lexc; Tatoeba metinleri (2 örnek: atayıbız, alabız)', bicim: bız, dil: bak, kaynak: apertium; tatoeba, not: 'Apertium: -{I}b{I}ð. Yazıda ҙ (peltek z).', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-chv.chv.lexc; Tatoeba metinleri (10 örnek: şumăr, tănămăr, patămăr)', bicim: măr, dil: chv, kaynak: apertium; tatoeba, not: 'Apertium: -{ă}m{Ă}r. Oğur z > r.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc; Tatoeba metinleri (2 örnek: yaşayışımız, altımız)', bicim: mız, dil: crh, kaynak: apertium; tatoeba, not: 'Apertium: -{i}m{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-gag.gag.lexc, bicim: mız, dil: gag, kaynak: apertium, not: 'Apertium: -{i}m{I}z. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc; Tatoeba metinleri (2 örnek: kobanıbız, arabız)', bicim: bız, dil: krc, kaynak: apertium; tatoeba, not: 'Apertium: -{I}b{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-kaa.kaa.lexc, bicim: mız, dil: kaa, kaynak: apertium, not: 'Apertium: -{I}m{I}z. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kaz.kaz.lexc; UD_Kazakh-KTB: ımız, imiz; Tatoeba metinleri (12 örnek: maksatımız, tamız, otanımız)', bicim: mız, dil: kaz, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{I}m{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: apertium-kjh.kjh.lexc, bicim: bıs, dil: kjh, kaynak: apertium, not: 'Apertium: -{I}b{I}s. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kir.kir.lexc; Tatoeba metinleri (1 örnek: kızıbız)', bicim: bız, dil: kir, kaynak: apertium; tatoeba, not: 'Apertium: -{I}b{I}z. Kırgızcada ünlüden sonra b. Tatoeba''da tek örnek; zayıf kanıt.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-kum.kum.lexc, bicim: bız, dil: kum, kaynak: apertium, not: 'Apertium: -{I}b{I}z. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: apertium-nog.nog.lexc, bicim: mız, dil: nog, kaynak: apertium, not: 'Apertium: -{I}m{I}z. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-tat.tat.lexc; UD_Tatar-NMCTT: ıbız; Tatoeba metinleri (333 örnek: barıbız, barabız, vakıtıbız)', bicim: bız, dil: tat, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{I}b{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tur.tur.lexc; UD_Turkish-BOUN, IMST: imiz, ımız, miz; Tatoeba metinleri (3273 örnek: ihtiyacımız, yapmamız, zamanımız)', bicim: mız, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{i}m{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-tuk.tuk.lexc; Tatoeba metinleri (12 örnek: zadımız, wagtımız, yurdumız)', bicim: mız, dil: tuk, kaynak: apertium; tatoeba, not: 'Apertium: -{y}m{Y}z.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: apertium-tyv.tyv.lexc, bicim: vıs, dil: tyv, kaynak: apertium, not: 'Apertium: -{i}v{I}s. Tek kaynak (apertium); ikinci kaynakla doğrulanmadı.', denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-uig.uig.lexc; UD_Uyghur-UDT: miz; Tatoeba metinleri (101 örnek: kilimiz, barimiz, körüşimiz)', bicim: miz, dil: uig, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{i}m{I}z.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-uzb.uzb.lexc; UD_Uzbek-UzUDT, UT: imiz; Tatoeba metinleri (9 örnek: mamlakatimiz, fikrimiz, aylanamiz)', bicim: miz, dil: uzb, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -{i}miz.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-sah.sah.lexc; Tatoeba metinleri (3 örnek: ağabıt, cıalabıt, barabıt)', bicim: bıt, dil: sah, kaynak: apertium; tatoeba, not: 'Apertium: -{B}{I}t{I}. Sahacada sonda z > t.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok: {}
+tarihi_yok: {}

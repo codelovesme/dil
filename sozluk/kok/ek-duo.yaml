@@ -1,0 +1,33 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-duo
+anlam: Sahacada "soru eki"
+koken: türkçe
+kavramlar:
+- soru
+etimoloji: Sahaca duo; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-sah.sah.lexc; UD_Yakut-YKTDT: duo (PART, 27); Tatoeba metinleri (38 örnek: duo)', bicim: duo, dil: sah, kaynak: apertium; universal-dependencies; tatoeba, not: 'Apertium: -дуо.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  tur: yerine mı (ek-mı)
+  aze: yerine mı (ek-mı)
+  gag: yerine mı (ek-mı)
+  crh: yerine mı (ek-mı)
+  tuk: yerine mı (ek-mı)
+  bak: yerine mı (ek-mı)
+  tat: yerine mı (ek-mı)
+  kum: yerine mı (ek-mı)
+  krc: yerine mı (ek-mı)
+  uzb: yerine mi (ek-mı)
+  uig: yerine mu (ek-mı)
+  kir: yerine bı (ek-mı)
+  kaz: yerine ma (ek-mı)
+  kaa: yerine ma (ek-mı)
+  nog: yerine ma (ek-mı)
+  alt: yerine ba (ek-mı)
+  tyv: yerine be (ek-mı)
+  kjh: yerine ba (ek-mı)
+  chv: yerine i (ek-i-soru)
+tarihi_yok: {}

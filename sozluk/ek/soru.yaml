@@ -1,0 +1,42 @@
+kavram: soru eki
+ingilizce: question particle
+anlam: Evet-hayır soru eki (mI).
+dogrulandi: false
+kokler:
+- kok: ek-mı
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-mı.yaml).
+  bicimler:
+    aze: mı
+    bak: mı
+    crh: mı
+    gag: mı
+    krc: mı
+    kaa: ma
+    kaz: ma
+    kjh: ba
+    kir: bı
+    kum: mı
+    nog: ma
+    alt: ba
+    tat: mı
+    tur: mı
+    tuk: mı
+    tyv: be
+    uig: mu
+    uzb: mi
+- kok: ek-duo
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-duo.yaml).
+  bicimler:
+    sah: duo
+- kok: ek-i-soru
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-i-soru.yaml).
+  bicimler:
+    chv: i
+yok: []
+tarihi_yok: []
