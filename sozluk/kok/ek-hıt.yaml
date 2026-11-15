@@ -1,0 +1,28 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-hıt
+anlam: Sahacada "meslek eki -hIt"
+koken: türkçe
+kavramlar:
+- meslek
+etimoloji: Sahaca -hIt; *-čI ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-sah.sah.lexc: 81 türemiş madde (andıhıt, anyııhıt, arañaççıhıt); Tatoeba metinleri (1 örnek: ırıahıt)', bicim: hıt, dil: sah, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine cı (ek-çı)
+  aze: yerine çı (ek-çı)
+  gag: yerine cı (ek-çı)
+  tuk: yerine çı (ek-çı)
+  crh: yerine cı (ek-çı)
+  kaz: yerine şı (ek-çı)
+  tat: yerine çı (ek-çı)
+  bak: yerine sı (ek-çı)
+  kir: yerine çı (ek-çı)
+  krc: yerine çı (ek-çı)
+  kum: yerine çı (ek-çı)
+  tyv: yerine çı (ek-çı)
+  uzb: yerine çi (ek-çı)
+  uig: yerine çi (ek-çı)
+tarihi_yok: {}

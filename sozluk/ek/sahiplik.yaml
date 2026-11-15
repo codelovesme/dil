@@ -1,0 +1,30 @@
+kavram: -lI eki (sahiplik sıfatı)
+ingilizce: -lI (having) suffix
+anlam: Bir şeye sahip olmayı bildiren sıfat yapım eki (tuzlu, atlı).
+dogrulandi: false
+kokler:
+- kok: ek-lıg
+  koken: türkçe
+  ana_turkce: '*-lIg'
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-lıg.yaml).
+  bicimler:
+    aze: lı
+    bak: lı
+    chv: llă
+    crh: lı
+    gag: lı
+    krc: lı
+    kaa: lı
+    kaz: lı
+    kir: luu
+    kum: lı
+    nog: lı
+    tat: lı
+    tur: lı
+    tuk: lı
+    tyv: lıg
+    uzb: li
+    sah: laax
+yok: []
+tarihi_yok: []

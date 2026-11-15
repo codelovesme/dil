@@ -1,0 +1,32 @@
+kavram: -lIk eki (soyut isim)
+ingilizce: -lIk (abstract noun) suffix
+anlam: Soyut isim ya da yer, alet ismi yapan ek (iyilik, tuzluk).
+dogrulandi: false
+kokler:
+- kok: ek-lık
+  koken: türkçe
+  ana_turkce: '*-lIk'
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-lık.yaml).
+  bicimler:
+    aze: lık
+    bak: lık
+    chv:
+      bicim: lăx
+      miras: true
+    crh: lık
+    gag: lık
+    krc: lık
+    kaa: lık
+    kaz: lık
+    kir: lık
+    kum: lık
+    nog: lık
+    tat: lık
+    tur: lık
+    tuk: lık
+    uig: lik
+    uzb: lik
+    sah: lık
+yok: []
+tarihi_yok: []

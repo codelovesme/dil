@@ -19,10 +19,14 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [iyelik eki (2. çoğul)](ek/iyelik-2c.md) | 2pl possessive | **ñız** | **nız** | **nız** | uyuşuyor |
 | [iyelik eki (2. tekil)](ek/iyelik-2t.md) | 2sg possessive | **ñ** | **ñ** | **n** | uyuşuyor |
 | [iyelik eki (3. kişi)](ek/iyelik-3.md) | 3rd person possessive | **sı** | **sı** | **sı** | uyuşuyor |
+| [-CI eki (meslek, uğraş)](ek/meslek.md) | -CI (agent) suffix | **çı** | **çı** | **çı** | uyuşuyor |
 | [öğrenilen geçmiş zaman eki](ek/ogrenilen-gecmis.md) | evidential / perfect past suffix | **ğan** | **ğan** | **mış** | ayrişiyor |
 | [olumsuzluk eki](ek/olumsuzluk.md) | negative suffix | **ma** | **ma** | **ma** | uyuşuyor |
+| [-lI eki (sahiplik sıfatı)](ek/sahiplik.md) | -lI (having) suffix | **lı** | **lı** | **lı** | uyuşuyor |
 | [şart eki](ek/sart.md) | conditional suffix | **sa** | **sa** | **sa** | uyuşuyor |
 | [soru eki](ek/soru.md) | question particle | **mı** | **mı** | **mı** | uyuşuyor |
+| [-lIk eki (soyut isim)](ek/soyut-isim.md) | -lIk (abstract noun) suffix | **lık** | **lık** | **lık** | uyuşuyor |
+| [-sIz eki (yoksunluk)](ek/yoksunluk.md) | -sIz (without) suffix | **sız** | **sız** | **sız** | uyuşuyor |
 | [yönelme hâli eki](ek/yonelme.md) | dative suffix | **ğa** | **ğa** | **ya** | uyuşuyor |
 | [aç-](temel/ac.md) | open | **aç** | **aç** | **aç** | uyuşuyor |
 | [acı](temel/aci.md) | bitter | **açığ** | **açığ** | **acı** | uyuşuyor |
