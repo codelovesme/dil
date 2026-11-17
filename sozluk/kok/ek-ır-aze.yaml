@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ır-aze
+anlam: Azerbaycan Türkçesinde "şimdiki zaman eki -Ir"
+koken: türkçe
+kavramlar:
+- simdiki-zaman
+etimoloji: Azerbaycan -Ir; kökeni bu çalışmada araştırılmadı.
+kaynak: universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'UD_Azerbaijani-TueCL: Aspect=Prog: iräm, ıran; Tatoeba metinleri (otomatik eşleşme; elle seçilen örnekler: danışır, danışırsan, danışırlar)', bicim: ır, dil: aze, kaynak: universal-dependencies; tatoeba, not: 'Yazıda -ır, -ir, -ur, -ür; ünlüden sonra -yır.', denetim: {durum: dogrulandi, bicim: [universal-dependencies, tatoeba], anlam: [universal-dependencies]}}
+
+yok:
+  tur: yerine ıyor (ek-yor)
+  tuk: yerine yar (ek-yar-tuk)
+  gag: yerine êr (ek-er-gag)
+  kaz: yerine a (ek-a-simdi)
+  kaa: yerine a (ek-a-simdi)
+  kir: yerine a (ek-a-simdi)
+  tat: yerine a (ek-a-simdi)
+  bak: yerine a (ek-a-simdi)
+  krc: yerine a (ek-a-simdi)
+  kum: yerine a (ek-a-simdi)
+  nog: yerine a (ek-a-simdi)
+  crh: yerine a (ek-a-simdi)
+  uzb: yerine yap (ek-yap)
+  uig: yerine ivat (ek-ivat)
+  sah: yerine a (ek-a-simdi)
+  chv: yerine at (ek-at-chv)
+tarihi_yok: {}

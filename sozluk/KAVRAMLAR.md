@@ -31,6 +31,7 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [olumsuzluk eki](ek/olumsuzluk.md) | negative suffix | **ma** | **ma** | **ma** | uyuşuyor |
 | [-lI eki (sahiplik sıfatı)](ek/sahiplik.md) | -lI (having) suffix | **lı** | **lı** | **lı** | uyuşuyor |
 | [şart eki](ek/sart.md) | conditional suffix | **sa** | **sa** | **sa** | uyuşuyor |
+| [şimdiki zaman eki](ek/simdiki-zaman.md) | present tense suffix | **a** | **a** | **ıyor** | ayrişiyor |
 | [soru eki](ek/soru.md) | question particle | **mı** | **mı** | **mı** | uyuşuyor |
 | [-lIk eki (soyut isim)](ek/soyut-isim.md) | -lIk (abstract noun) suffix | **lık** | **lık** | **lık** | uyuşuyor |
 | [vasıta eki](ek/vasita.md) | instrumental / comitative | **bilan** | **yla** | **yla** | uyuşuyor |

@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-yar-tuk
+anlam: Türkmencede "şimdiki zaman eki -yAr"
+koken: türkçe
+kavramlar:
+- simdiki-zaman
+etimoloji: Türkmence -ýar; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-tuk.tuk.lexc: %<prog%> -ý{Ä}r; Tatoeba metinleri (otomatik eşleşme; elle seçilen örnekler: bolyar, aydyar, baryar)', bicim: yar, dil: tuk, kaynak: apertium; tatoeba, not: 'Yazıda -ýar, -ýär.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine ıyor (ek-yor)
+  aze: yerine ır (ek-ır-aze)
+  gag: yerine êr (ek-er-gag)
+  kaz: yerine a (ek-a-simdi)
+  kaa: yerine a (ek-a-simdi)
+  kir: yerine a (ek-a-simdi)
+  tat: yerine a (ek-a-simdi)
+  bak: yerine a (ek-a-simdi)
+  krc: yerine a (ek-a-simdi)
+  kum: yerine a (ek-a-simdi)
+  nog: yerine a (ek-a-simdi)
+  crh: yerine a (ek-a-simdi)
+  uzb: yerine yap (ek-yap)
+  uig: yerine ivat (ek-ivat)
+  sah: yerine a (ek-a-simdi)
+  chv: yerine at (ek-at-chv)
+tarihi_yok: {}

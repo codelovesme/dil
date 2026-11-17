@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 258 kavram, 34 tanesi ayrışıyor.
+Toplam 259 kavram, 35 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@ Toplam 258 kavram, 34 tanesi ayrışıyor.
 | olumsuzluk eki | ma *(ek-ma)* | ma *(ek-ma)* | ma *(ek-ma)* | UYUŞUYOR |
 | -lI eki (sahiplik sıfatı) | lı *(ek-lıg)* | lı *(ek-lıg)* | lı *(ek-lıg)* | UYUŞUYOR |
 | şart eki | sa *(ek-sa)* | sa *(ek-sa)* | sa *(ek-sa)* | UYUŞUYOR |
+| şimdiki zaman eki | a *(ek-a-simdi)* | a *(ek-a-simdi)* | ıyor *(ek-yor)* | AYRIŞIYOR |
 | soru eki | mı *(ek-mı)* | mı *(ek-mı)* | mı *(ek-mı)* | UYUŞUYOR |
 | -lIk eki (soyut isim) | lık *(ek-lık)* | lık *(ek-lık)* | lık *(ek-lık)* | UYUŞUYOR |
 | vasıta eki | bilan *(ek-birle)* | yla *(ek-birle)* | yla *(ek-birle)* | UYUŞUYOR |
