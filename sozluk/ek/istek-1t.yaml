@@ -1,0 +1,39 @@
+kavram: istek eki (1. tekil)
+ingilizce: 1sg optative
+anlam: Birinci tekil kişi istek eki (alayım).
+dogrulandi: false
+kokler:
+- kok: ek-ayın
+  koken: türkçe
+  ana_turkce: '*-AyIn'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ayın.yaml).
+  bicimler:
+    bak: ayım
+    crh: ayım
+    gag: ayım
+    krc: ayım
+    kaa: ayın
+    kaz: ayın
+    kir: ayın
+    kum: ayım
+    nog: ayım
+    tur: ayım
+    tuk: ayın
+    tyv: ayın
+    uig: ay
+    uzb: ay
+- kok: ek-ım-aze
+  koken: türkçe
+  kaynak: tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ım-aze.yaml).
+  bicimler:
+    aze: ım
+- kok: ek-am-chv
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-am-chv.yaml).
+  bicimler:
+    chv: am
+yok: []
+tarihi_yok: []

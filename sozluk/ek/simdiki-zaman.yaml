@@ -1,0 +1,67 @@
+kavram: şimdiki zaman eki
+ingilizce: present tense suffix
+anlam: Şimdiki zaman eki (alıyor). Kollar farklı yapılar kullanır.
+dogrulandi: false
+kokler:
+- kok: ek-yor
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-yor.yaml).
+  bicimler:
+    tur: ıyor
+- kok: ek-ır-aze
+  koken: türkçe
+  kaynak: universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ır-aze.yaml).
+  bicimler:
+    aze: ır
+- kok: ek-yar-tuk
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-yar-tuk.yaml).
+  bicimler:
+    tuk: yar
+- kok: ek-er-gag
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-er-gag.yaml).
+  bicimler:
+    gag: êr
+- kok: ek-a-simdi
+  koken: türkçe
+  ana_turkce: '*-A'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-a-simdi.yaml).
+  bicimler:
+    bak: a
+    crh: a
+    krc: a
+    kaa: a
+    kaz: a
+    kir: a
+    kum: a
+    nog: a
+    tat: a
+    uig: i
+    uzb: a
+    sah: a
+- kok: ek-yap
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-yap.yaml).
+  bicimler:
+    uzb: yap
+- kok: ek-ivat
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ivat.yaml).
+  bicimler:
+    uig: ivat
+- kok: ek-at-chv
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-at-chv.yaml).
+  bicimler:
+    chv: at
+yok: []
+tarihi_yok: []

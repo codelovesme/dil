@@ -1,0 +1,29 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ım-aze
+anlam: Azerbaycan Türkçesinde "1. tekil istek eki -(y)Im"
+koken: türkçe
+kavramlar:
+- istek-1t
+etimoloji: Azerbaycan -(y)Im; -AyIn ile ilişkisi bu çalışmada araştırılmadı.
+kaynak: tatoeba
+
+taniklar:
+  - {atif: 'Tatoeba metinleri (27 örnek: danışım, yatım, kalım)', bicim: ım, dil: aze, kaynak: tatoeba, not: 'Azerbaycan -(y)Im; Tatoeba örnekleri danışım, yatım (öbür eşleşmelerin bir kısmı iyelik eki). Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı.', denetim: {durum: kismen, bicim: [tatoeba]}}
+
+yok:
+  tur: yerine ayım (ek-ayın)
+  gag: yerine ayım (ek-ayın)
+  crh: yerine ayım (ek-ayın)
+  kaz: yerine ayın (ek-ayın)
+  kaa: yerine ayın (ek-ayın)
+  kir: yerine ayın (ek-ayın)
+  krc: yerine ayım (ek-ayın)
+  kum: yerine ayım (ek-ayın)
+  nog: yerine ayım (ek-ayın)
+  bak: yerine ayım (ek-ayın)
+  tyv: yerine ayın (ek-ayın)
+  tuk: yerine ayın (ek-ayın)
+  uzb: yerine ay (ek-ayın)
+  uig: yerine ay (ek-ayın)
+  chv: yerine am (ek-am-chv)
+tarihi_yok: {}

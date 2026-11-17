@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ivat
+anlam: Uygurcada "sürmekte olan şimdiki zaman eki -ivat"
+koken: türkçe
+kavramlar:
+- simdiki-zaman
+etimoloji: Uygurca -ivat < -(I)p yat-.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-uig.uig.lexc: %<prog%> -{U}vatı; Tatoeba metinleri (otomatik eşleşme; elle seçilen örnekler: kilivatimän, kelivatidu, işlävatidu)', bicim: ivat, dil: uig, kaynak: apertium; tatoeba, not: Sürmekte olan şimdiki zaman; -(I)p yat- birleşiminden., denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine ıyor (ek-yor)
+  aze: yerine ır (ek-ır-aze)
+  tuk: yerine yar (ek-yar-tuk)
+  gag: yerine êr (ek-er-gag)
+  kaz: yerine a (ek-a-simdi)
+  kaa: yerine a (ek-a-simdi)
+  kir: yerine a (ek-a-simdi)
+  tat: yerine a (ek-a-simdi)
+  bak: yerine a (ek-a-simdi)
+  krc: yerine a (ek-a-simdi)
+  kum: yerine a (ek-a-simdi)
+  nog: yerine a (ek-a-simdi)
+  crh: yerine a (ek-a-simdi)
+  uzb: yerine yap (ek-yap)
+  sah: yerine a (ek-a-simdi)
+  chv: yerine at (ek-at-chv)
+tarihi_yok: {}

@@ -1,0 +1,28 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-aylı
+anlam: '"1. çoğul istek eki -AylI(k)"'
+koken: türkçe
+kavramlar:
+- istek-1c
+etimoloji: Özbek -aylik, Uygur -ayli.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'Tatoeba metinleri (9 örnek: setivalayli, kaytayli, buyrutayli)', bicim: ayli, dil: uig, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-uzb.uzb.lexc: -{E}ylik; UD_Uzbek-UzUDT, UT: Person=1 Plur: aylik; Tatoeba metinleri (4 örnek: örganaylik, koçaylik, oçaylik)', bicim: aylik, dil: uzb, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  tur: yerine alım (ek-alım)
+  gag: yerine alım (ek-alım)
+  kir: yerine alı (ek-alım)
+  tuk: yerine alı (ek-alım)
+  kaz: yerine ayık (ek-ayık)
+  kaa: yerine ayık (ek-ayık)
+  crh: yerine ayık (ek-ayık)
+  kum: yerine ayık (ek-ayık)
+  krc: yerine ayık (ek-ayık)
+  tat: yerine ayık (ek-ayık)
+  bak: yerine ayık (ek-ayık)
+  aze: yerine ak (ek-ak-aze)
+  chv: yerine ar (ek-ar-chv)
+tarihi_yok: {}
