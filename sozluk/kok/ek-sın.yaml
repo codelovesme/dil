@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-sın
+anlam: '"3. kişi emir eki -sIn"'
+koken: türkçe
+ana_turkce: '*-zUn'
+kavramlar:
+- emir-3
+etimoloji: Bütün kollarda -sIn; Uygur -sun, Başkurt -hın, Altay ve Tuva -zın, Saha -tın.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'Tatoeba metinleri (5 örnek: kalsın, varsın, assın)', bicim: sın, dil: aze, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'Tatoeba metinleri (2 örnek: bulhın)', bicim: hın, dil: bak, kaynak: tatoeba, not: Başkurtçada s > h. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-crh.crh.lexc: -s{I}n; Tatoeba metinleri (2 örnek: olsın, yapsın)', bicim: sın, dil: crh, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-gag.gag.lexc: -s{I}n', bicim: sın, dil: gag, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'Tatoeba metinleri (1 örnek: çıksın)', bicim: sın, dil: krc, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'Tatoeba metinleri (21 örnek: bolsın, kursın, tossın)', bicim: sın, dil: kaz, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'Tatoeba metinleri (3 örnek: bolsın, tolsın)', bicim: sın, dil: nog, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'Tatoeba metinleri (7 örnek: bolzın, barzın)', bicim: zın, dil: alt, kaynak: tatoeba, not: Altay ve Tuvada -zIn. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'UD_Tatar-NMCTT: Mood=Imp Person=3: sın; Tatoeba metinleri (318 örnek: bulsın, alsın, kalsın)', bicim: sın, dil: tat, kaynak: universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [universal-dependencies, tatoeba], anlam: [universal-dependencies]}}
+  - {atif: 'apertium-tur.tur.lexc: -s{I}n; UD_Turkish-BOUN, IMST: Mood=Imp Person=3: sın, sun, sin; Tatoeba metinleri (402 örnek: kalsın, yapsın, kızsın)', bicim: sın, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'Tatoeba metinleri (2 örnek: çıksın)', bicim: sın, dil: tuk, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-tyv.tyv.lexc: -{Z}{I}n', bicim: zın, dil: tyv, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'Tatoeba metinleri (25 örnek: bolsun, tursun, becirsun)', bicim: sun, dil: uig, kaynak: tatoeba, not: 'Uygurcada -sun, -sün. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı.', denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'UD_Uzbek-UzUDT, UT: Mood=Imp Person=3: sin; Tatoeba metinleri (1 örnek: yiğsin)', bicim: sin, dil: uzb, kaynak: universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [universal-dependencies, tatoeba], anlam: [universal-dependencies]}}
+  - {atif: 'UD_Yakut-YKTDT: Mood=Imp Person=3: tin', bicim: tın, dil: sah, kaynak: universal-dependencies, not: Sahacada s > t. Tek kaynak (universal-dependencies); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [universal-dependencies], anlam: [universal-dependencies]}}
+
+yok:
+  chv: yerine tăr (ek-tăr)
+tarihi_yok: {}

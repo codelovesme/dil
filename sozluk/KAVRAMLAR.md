@@ -10,10 +10,13 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [belirtme hâli eki](ek/belirtme.md) | accusative suffix | **nı** | **nı** | **nı** | uyuşuyor |
 | [bulunma hâli eki](ek/bulunma.md) | locative suffix | **da** | **da** | **da** | uyuşuyor |
 | [çoğul eki](ek/cogul.md) | plural suffix | **lar** | **lar** | **lar** | uyuşuyor |
+| [emir eki (3. kişi)](ek/emir-3.md) | 3rd person imperative | **sın** | **sın** | **sın** | uyuşuyor |
 | [görülen geçmiş zaman eki](ek/gecmis.md) | past tense suffix | **dı** | **dı** | **dı** | uyuşuyor |
 | [gelecek zaman eki](ek/gelecek.md) | future suffix | **acak** | **acak** | **acak** | uyuşuyor |
 | [geniş zaman eki](ek/genis-zaman.md) | aorist suffix | **ar** | **ar** | **ar** | uyuşuyor |
 | [ilgi hâli eki](ek/ilgi.md) | genitive suffix | **nıñ** | **nıñ** | **nın** | uyuşuyor |
+| [istek eki (1. çoğul)](ek/istek-1c.md) | 1pl optative | **ayık** | **alım** | **alım** | ayrişiyor |
+| [istek eki (1. tekil)](ek/istek-1t.md) | 1sg optative | **ayım** | **ayım** | **ayım** | uyuşuyor |
 | [iyelik eki (1. çoğul)](ek/iyelik-1c.md) | 1pl possessive | **mız** | **mız** | **mız** | uyuşuyor |
 | [iyelik eki (1. tekil)](ek/iyelik-1t.md) | 1sg possessive | **m** | **m** | **m** | uyuşuyor |
 | [iyelik eki (2. çoğul)](ek/iyelik-2c.md) | 2pl possessive | **ñız** | **nız** | **nız** | uyuşuyor |
@@ -33,6 +36,8 @@ Her kavramın sayfasında dört hedefin seçimi, adaylar ve ölçüleri, ağaç 
 | [vasıta eki](ek/vasita.md) | instrumental / comitative | **bilan** | **yla** | **yla** | uyuşuyor |
 | [-sIz eki (yoksunluk)](ek/yoksunluk.md) | -sIz (without) suffix | **sız** | **sız** | **sız** | uyuşuyor |
 | [yönelme hâli eki](ek/yonelme.md) | dative suffix | **ğa** | **ğa** | **ya** | uyuşuyor |
+| [zarf-fiil eki -A](ek/zarf-fiil-a.md) | converb -A | **a** | **a** | **a** | uyuşuyor |
+| [zarf-fiil eki -(I)p](ek/zarf-fiil-ip.md) | converb -(I)p | **ıp** | **ıp** | **ıp** | uyuşuyor |
 | [aç-](temel/ac.md) | open | **aç** | **aç** | **aç** | uyuşuyor |
 | [acı](temel/aci.md) | bitter | **açığ** | **açığ** | **acı** | uyuşuyor |
 | [ad](temel/ad.md) | name | **at** | **at** | **at** | uyuşuyor |

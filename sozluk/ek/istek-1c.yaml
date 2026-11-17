@@ -1,0 +1,47 @@
+kavram: istek eki (1. çoğul)
+ingilizce: 1pl optative
+anlam: Birinci çoğul kişi istek eki (alalım).
+dogrulandi: false
+kokler:
+- kok: ek-alım
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-alım.yaml).
+  bicimler:
+    gag: alım
+    kir: alı
+    tur: alım
+    tuk: alı
+- kok: ek-ayık
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ayık.yaml).
+  bicimler:
+    bak: ayık
+    crh: ayık
+    krc: ayık
+    kaa: ayık
+    kaz: ayık
+    kum: ayık
+    tat: ayık
+- kok: ek-aylı
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-aylı.yaml).
+  bicimler:
+    uig: ayli
+    uzb: aylik
+- kok: ek-ak-aze
+  koken: türkçe
+  kaynak: tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ak-aze.yaml).
+  bicimler:
+    aze: ak
+- kok: ek-ar-chv
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ar-chv.yaml).
+  bicimler:
+    chv: ar
+yok: []
+tarihi_yok: []

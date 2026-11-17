@@ -1,0 +1,28 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ar-chv
+anlam: Çuvaşçada "1. çoğul istek eki -Ar"
+koken: türkçe
+kavramlar:
+- istek-1c
+etimoloji: Çuvaşça -ar.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-chv.chv.lexc: -{A}r; Tatoeba metinleri (9 örnek: xayar, xıpar, păxar)', bicim: ar, dil: chv, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine alım (ek-alım)
+  gag: yerine alım (ek-alım)
+  kir: yerine alı (ek-alım)
+  tuk: yerine alı (ek-alım)
+  kaz: yerine ayık (ek-ayık)
+  kaa: yerine ayık (ek-ayık)
+  crh: yerine ayık (ek-ayık)
+  kum: yerine ayık (ek-ayık)
+  krc: yerine ayık (ek-ayık)
+  tat: yerine ayık (ek-ayık)
+  bak: yerine ayık (ek-ayık)
+  uzb: yerine aylik (ek-aylı)
+  uig: yerine ayli (ek-aylı)
+  aze: yerine ak (ek-ak-aze)
+tarihi_yok: {}

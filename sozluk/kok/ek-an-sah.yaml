@@ -1,0 +1,31 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-an-sah
+anlam: Sahacada "zarf-fiil eki -An"
+koken: türkçe
+kavramlar:
+- zarf-fiil-ip
+etimoloji: Sahaca -An; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-sah.sah.lexc: -{a}n; UD_Yakut-YKTDT: Conv: n, on; Tatoeba metinleri (33 örnek: baran, buolan, tılınan)', bicim: an, dil: sah, kaynak: apertium; universal-dependencies; tatoeba, not: Sahaca -An; -(I)p'in işlevini görür., denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  tur: yerine ıp (ek-ıp)
+  aze: yerine ıb (ek-ıp)
+  gag: yerine ıp (ek-ıp)
+  crh: yerine ıp (ek-ıp)
+  tuk: yerine ıp (ek-ıp)
+  kaz: yerine ıp (ek-ıp)
+  kaa: yerine ıp (ek-ıp)
+  kir: yerine ıp (ek-ıp)
+  krc: yerine ıp (ek-ıp)
+  kum: yerine ıp (ek-ıp)
+  nog: yerine ıp (ek-ıp)
+  tat: yerine ıp (ek-ıp)
+  bak: yerine ıp (ek-ıp)
+  alt: yerine ıp (ek-ıp)
+  tyv: yerine ıp (ek-ıp)
+  uig: yerine ip (ek-ıp)
+  uzb: yerine ib (ek-ıp)
+tarihi_yok: {}

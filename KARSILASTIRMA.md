@@ -4,7 +4,7 @@
 
 Üç hedef aynı kökü seçiyorsa **UYUŞUYOR**, farklı kök seçiyorsa **AYRIŞIYOR**. Ayrışan kavramlar tartışmaya açıktır. Hücrelerde biçim ve *(kök)* yazılıdır.
 
-Toplam 253 kavram, 33 tanesi ayrışıyor.
+Toplam 258 kavram, 34 tanesi ayrışıyor.
 
 | Kavram | Ortak dil | Ana Türkçe tahmini | En çok kişinin anladığı | Durum |
 |---|---|---|---|---|
@@ -12,10 +12,13 @@ Toplam 253 kavram, 33 tanesi ayrışıyor.
 | belirtme hâli eki | nı *(ek-nı)* | nı *(ek-nı)* | nı *(ek-nı)* | UYUŞUYOR |
 | bulunma hâli eki | da *(ek-da)* | da *(ek-da)* | da *(ek-da)* | UYUŞUYOR |
 | çoğul eki | lar *(ek-lar)* | lar *(ek-lar)* | lar *(ek-lar)* | UYUŞUYOR |
+| emir eki (3. kişi) | sın *(ek-sın)* | sın *(ek-sın)* | sın *(ek-sın)* | UYUŞUYOR |
 | görülen geçmiş zaman eki | dı *(ek-dı)* | dı *(ek-dı)* | dı *(ek-dı)* | UYUŞUYOR |
 | gelecek zaman eki | acak *(ek-acak)* | acak *(ek-acak)* | acak *(ek-acak)* | UYUŞUYOR |
 | geniş zaman eki | ar *(ek-ar)* | ar *(ek-ar)* | ar *(ek-ar)* | UYUŞUYOR |
 | ilgi hâli eki | nıñ *(ek-nıñ)* | nıñ *(ek-nıñ)* | nın *(ek-nıñ)* | UYUŞUYOR |
+| istek eki (1. çoğul) | ayık *(ek-ayık)* | alım *(ek-alım)* | alım *(ek-alım)* | AYRIŞIYOR |
+| istek eki (1. tekil) | ayım *(ek-ayın)* | ayım *(ek-ayın)* | ayım *(ek-ayın)* | UYUŞUYOR |
 | iyelik eki (1. çoğul) | mız *(ek-ımız)* | mız *(ek-ımız)* | mız *(ek-ımız)* | UYUŞUYOR |
 | iyelik eki (1. tekil) | m *(ek-ım)* | m *(ek-ım)* | m *(ek-ım)* | UYUŞUYOR |
 | iyelik eki (2. çoğul) | ñız *(ek-ıñız)* | nız *(ek-ıñız)* | nız *(ek-ıñız)* | UYUŞUYOR |
@@ -35,6 +38,8 @@ Toplam 253 kavram, 33 tanesi ayrışıyor.
 | vasıta eki | bilan *(ek-birle)* | yla *(ek-birle)* | yla *(ek-birle)* | UYUŞUYOR |
 | -sIz eki (yoksunluk) | sız *(ek-sız)* | sız *(ek-sız)* | sız *(ek-sız)* | UYUŞUYOR |
 | yönelme hâli eki | ğa *(ek-ğa)* | ğa *(ek-ğa)* | ya *(ek-ğa)* | UYUŞUYOR |
+| zarf-fiil eki -A | a *(ek-a-zarf)* | a *(ek-a-zarf)* | a *(ek-a-zarf)* | UYUŞUYOR |
+| zarf-fiil eki -(I)p | ıp *(ek-ıp)* | ıp *(ek-ıp)* | ıp *(ek-ıp)* | UYUŞUYOR |
 | aç- | aç *(aç)* | aç *(aç)* | aç *(aç)* | UYUŞUYOR |
 | acı | açığ *(açığ)* | açığ *(açığ)* | acı *(açığ)* | UYUŞUYOR |
 | ad | at *(at)* | at *(at)* | at *(at)* | UYUŞUYOR |

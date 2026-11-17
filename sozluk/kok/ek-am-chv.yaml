@@ -1,0 +1,29 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-am-chv
+anlam: Çuvaşçada "1. tekil istek eki -Am"
+koken: türkçe
+kavramlar:
+- istek-1t
+etimoloji: Çuvaşça -am; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-chv.chv.lexc: -{A}m; Tatoeba metinleri (2 örnek: kayam, uram)', bicim: am, dil: chv, kaynak: apertium; tatoeba, not: 'Çuvaşça -am, -em.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine ayım (ek-ayın)
+  gag: yerine ayım (ek-ayın)
+  crh: yerine ayım (ek-ayın)
+  kaz: yerine ayın (ek-ayın)
+  kaa: yerine ayın (ek-ayın)
+  kir: yerine ayın (ek-ayın)
+  krc: yerine ayım (ek-ayın)
+  kum: yerine ayım (ek-ayın)
+  nog: yerine ayım (ek-ayın)
+  bak: yerine ayım (ek-ayın)
+  tyv: yerine ayın (ek-ayın)
+  tuk: yerine ayın (ek-ayın)
+  uzb: yerine ay (ek-ayın)
+  uig: yerine ay (ek-ayın)
+  aze: yerine ım (ek-ım-aze)
+tarihi_yok: {}

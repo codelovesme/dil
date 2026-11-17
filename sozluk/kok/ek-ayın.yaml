@@ -1,0 +1,30 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-ayın
+anlam: '"1. tekil istek eki -AyIn"'
+koken: türkçe
+ana_turkce: '*-AyIn'
+kavramlar:
+- istek-1t
+etimoloji: Kıpçak -ayın, -ayım; Türkiye ve Gagauz -ayım; Özbek ve Uygur -ay.
+kaynak: apertium; universal-dependencies; tatoeba
+
+taniklar:
+  - {atif: 'apertium-bak.bak.lexc: -{A}y{I}m; Tatoeba metinleri (3 örnek: torayım, aşayım, kaytayım)', bicim: ayım, dil: bak, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-crh.crh.lexc: -{A}y{I}m; Tatoeba metinleri (1 örnek: alayım)', bicim: ayım, dil: crh, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-gag.gag.lexc: -{y}{A}y{I}m', bicim: ayım, dil: gag, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-krc.krc.lexc: -{A}y{I}m', bicim: ayım, dil: krc, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kaa.kaa.lexc: -{A}y{I}n', bicim: ayın, dil: kaa, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-kaz.kaz.lexc: -{A}y{I}n; UD_Kazakh-KTB: Person=1 Sing: ayın, yeyin; Tatoeba metinleri (4 örnek: aytayın, sınatayın, jazayın)', bicim: ayın, dil: kaz, kaynak: apertium; universal-dependencies; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'apertium-kir.kir.lexc: -{A}y{I}n; Tatoeba metinleri (2 örnek: kılayın)', bicim: ayın, dil: kir, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-kum.kum.lexc: -{A}y{I}m; Tatoeba metinleri (1 örnek: alayım)', bicim: ayım, dil: kum, kaynak: apertium; tatoeba, denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+  - {atif: 'apertium-nog.nog.lexc: -{A}y{I}m', bicim: ayım, dil: nog, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'apertium-tur.tur.lexc: -{y}{A}y{I}m; UD_Turkish-BOUN, IMST: Mood=Opt Person=1: ayım, eyim; Tatoeba metinleri (550 örnek: yapayım, alayım, bakayım)', bicim: ayım, dil: tur, kaynak: apertium; universal-dependencies; tatoeba, not: Türkiye Türkçesinde n > m., denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+  - {atif: 'Tatoeba metinleri (2 örnek: aydayın, goyayın)', bicim: ayın, dil: tuk, kaynak: tatoeba, not: Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-tyv.tyv.lexc: -{A}yn', bicim: ayın, dil: tyv, kaynak: apertium, not: Tek kaynak (apertium); ikinci kaynakla doğrulanmadı., denetim: {durum: tek-kaynak, bicim: [apertium], anlam: [apertium]}}
+  - {atif: 'Tatoeba metinleri (6 örnek: bolay, katnaşay, koyay)', bicim: ay, dil: uig, kaynak: tatoeba, not: Uygurcada -(a)y. Tek kaynak (tatoeba); ikinci kaynakla doğrulanmadı., denetim: {durum: kismen, bicim: [tatoeba]}}
+  - {atif: 'apertium-uzb.uzb.lexc: -{E}y; UD_Uzbek-UzUDT, UT: Person=1 Sing: ay; Tatoeba metinleri (4 örnek: kalay, tölay)', bicim: ay, dil: uzb, kaynak: apertium; universal-dependencies; tatoeba, not: 'Özbekçede -(a)y, -(a)yin.', denetim: {durum: dogrulandi, bicim: [apertium, universal-dependencies, tatoeba], anlam: [apertium, universal-dependencies]}}
+
+yok:
+  aze: yerine ım (ek-ım-aze)
+  chv: yerine am (ek-am-chv)
+tarihi_yok: {}

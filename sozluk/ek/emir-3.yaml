@@ -1,0 +1,34 @@
+kavram: emir eki (3. kişi)
+ingilizce: 3rd person imperative
+anlam: Üçüncü kişi emir eki (alsın).
+dogrulandi: false
+kokler:
+- kok: ek-sın
+  koken: türkçe
+  ana_turkce: '*-zUn'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-sın.yaml).
+  bicimler:
+    aze: sın
+    bak: hın
+    crh: sın
+    gag: sın
+    krc: sın
+    kaz: sın
+    nog: sın
+    alt: zın
+    tat: sın
+    tur: sın
+    tuk: sın
+    tyv: zın
+    uig: sun
+    uzb: sin
+    sah: tın
+- kok: ek-tăr
+  koken: türkçe
+  kaynak: apertium; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-tăr.yaml).
+  bicimler:
+    chv: tăr
+yok: []
+tarihi_yok: []

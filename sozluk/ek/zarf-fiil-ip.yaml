@@ -1,0 +1,36 @@
+kavram: zarf-fiil eki -(I)p
+ingilizce: converb -(I)p
+anlam: Ardışık eylem zarf-fiili (alıp, gelip).
+dogrulandi: false
+kokler:
+- kok: ek-ıp
+  koken: türkçe
+  ana_turkce: '*-(I)p'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-ıp.yaml).
+  bicimler:
+    aze: ıb
+    bak: ıp
+    crh: ıp
+    gag: ıp
+    krc: ıp
+    kaa: ıp
+    kaz: ıp
+    kir: ıp
+    kum: ıp
+    nog: ıp
+    alt: ıp
+    tat: ıp
+    tur: ıp
+    tuk: ıp
+    tyv: ıp
+    uig: ip
+    uzb: ib
+- kok: ek-an-sah
+  koken: türkçe
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-an-sah.yaml).
+  bicimler:
+    sah: an
+yok: []
+tarihi_yok: []

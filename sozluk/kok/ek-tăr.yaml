@@ -1,0 +1,29 @@
+# Sözlük maddesi (Hedef 4) — bkz. ILKELER.md §14
+kok: ek-tăr
+anlam: Çuvaşçada "3. kişi emir eki -tăr"
+koken: türkçe
+kavramlar:
+- emir-3
+etimoloji: Çuvaşça -tăr; kökeni bu çalışmada araştırılmadı.
+kaynak: apertium; tatoeba
+
+taniklar:
+  - {atif: 'apertium-chv.chv.lexc: -t{Ă}r; Tatoeba metinleri (16 örnek: pultăr, tuxtăr, kăntăr)', bicim: tăr, dil: chv, kaynak: apertium; tatoeba, not: 'Çuvaşça -tăr, -tĕr.', denetim: {durum: dogrulandi, bicim: [apertium, tatoeba], anlam: [apertium]}}
+
+yok:
+  tur: yerine sın (ek-sın)
+  aze: yerine sın (ek-sın)
+  gag: yerine sın (ek-sın)
+  crh: yerine sın (ek-sın)
+  tuk: yerine sın (ek-sın)
+  kaz: yerine sın (ek-sın)
+  nog: yerine sın (ek-sın)
+  krc: yerine sın (ek-sın)
+  tat: yerine sın (ek-sın)
+  bak: yerine hın (ek-sın)
+  uzb: yerine sin (ek-sın)
+  uig: yerine sun (ek-sın)
+  alt: yerine zın (ek-sın)
+  tyv: yerine zın (ek-sın)
+  sah: yerine tın (ek-sın)
+tarihi_yok: {}

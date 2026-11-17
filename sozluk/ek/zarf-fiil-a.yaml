@@ -1,0 +1,26 @@
+kavram: zarf-fiil eki -A
+ingilizce: converb -A
+anlam: Eşzamanlı eylem zarf-fiili; Kıpçak dillerinde şimdiki zamanın tabanı (ala, bara).
+dogrulandi: false
+kokler:
+- kok: ek-a-zarf
+  koken: türkçe
+  ana_turkce: '*-A'
+  kaynak: apertium; universal-dependencies; tatoeba
+  not: Tanıklar sözlük maddesinde (sozluk/kok/ek-a-zarf.yaml).
+  bicimler:
+    bak: a
+    gag: a
+    krc: a
+    kaa: a
+    kaz: a
+    kir: a
+    kum: a
+    nog: a
+    alt: a
+    tat: a
+    tyv: a
+    uzb: a
+    sah: a
+yok: []
+tarihi_yok: []
